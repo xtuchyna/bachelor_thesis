@@ -48,3 +48,5 @@ $ jupyter notebook
 
 The jupyter should automatically open a web browser with project in it. If not, the default url for that Jupyter uses is
 http://localhost:8888/
+
+If you do not want to launch the Jupyter module, you can just look at files in GitHub. The generated previews (without the live code functionality) of the Jupyter Notebook files are supported by GitHub repository.
