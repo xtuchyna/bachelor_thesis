@@ -1,0 +1,21 @@
+coreutils
+findutils
+glibc-common
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(POSIX)
+perl(Storable)
+perl(Test::More) >= 0.94
+perl(Test::Warn)
+perl(strict)
+perl(utf8::all)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

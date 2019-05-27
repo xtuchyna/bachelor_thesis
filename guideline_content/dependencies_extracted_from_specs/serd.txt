@@ -1,0 +1,5 @@
+doxygen
+gcc
+glib2-devel
+graphviz
+python2

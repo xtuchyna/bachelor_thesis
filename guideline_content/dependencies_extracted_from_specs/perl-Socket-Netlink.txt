@@ -1,0 +1,21 @@
+findutils
+gcc
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::CChecker)
+perl(ExtUtils::H2PM) >= 0.07
+perl(IO::Socket)
+perl(Module::Build)
+perl(Socket)
+perl(Sub::Name)
+perl(Test::HexString)
+perl(Test::More)
+perl(XSLoader)
+perl(base)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

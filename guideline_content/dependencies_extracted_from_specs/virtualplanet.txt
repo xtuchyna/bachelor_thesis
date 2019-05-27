@@ -1,0 +1,7 @@
+desktop-file-utils
+dos2unix
+fpc
+gtk2-devel
+lazarus >= 1.6.4
+libappstream-glib
+pkgconfig(glu)

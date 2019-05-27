@@ -1,0 +1,9 @@
+geos-devel
+numpy-f2py
+proj-devel
+python-devel
+python-httplib2
+python3-devel
+python3-httplib2
+python3-numpy-f2py
+shapelib-devel

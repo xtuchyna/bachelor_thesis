@@ -1,0 +1,13 @@
+alsa-lib-devel
+cmake
+desktop-file-utils
+flac-devel
+jack-audio-connection-kit-devel
+ladspa-devel
+lash-devel
+liblrdf-devel
+libsndfile-devel
+libtar-devel
+portaudio-devel
+portmidi-devel
+qt4-devel

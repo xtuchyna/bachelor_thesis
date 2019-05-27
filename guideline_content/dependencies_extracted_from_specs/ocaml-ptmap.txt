@@ -1,0 +1,7 @@
+ocaml
+ocaml-findlib
+ocaml-obuild
+ocaml-ocamldoc
+ocaml-ounit-devel
+ocaml-qcheck-devel
+ocaml-qtest

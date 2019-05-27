@@ -1,0 +1,11 @@
+python-blist
+python2-devel
+python2-pytz
+python2-setuptools
+python2-six
+python2-unittest2
+python3-blist
+python3-devel
+python3-pytz
+python3-setuptools
+python3-six

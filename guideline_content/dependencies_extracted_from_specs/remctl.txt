@@ -1,0 +1,15 @@
+krb5-devel
+libevent-devel
+pcre-devel
+perl(Module::Build)
+perl(Test::Pod)
+perl(Test::Spelling)
+perl-devel
+perl-generators
+php-devel
+python2-devel
+ruby(release)
+ruby-devel
+rubygem(minitest)
+systemd
+systemd-devel

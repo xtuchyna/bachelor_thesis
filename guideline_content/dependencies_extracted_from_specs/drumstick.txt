@@ -1,0 +1,11 @@
+/usr/bin/xsltproc
+alsa-lib-devel
+cmake >= 3.0
+desktop-file-utils
+docbook-style-xsl
+doxygen
+fluidsynth-devel
+gcc-c++
+pulseaudio-libs-devel
+qt5-qtbase-devel >= 5.1
+qt5-qtsvg-devel

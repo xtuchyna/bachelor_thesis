@@ -1,0 +1,6 @@
+ant
+apache-commons-codec
+maven-local
+perl(Getopt::Long)
+perl(POSIX)
+perl-interpreter

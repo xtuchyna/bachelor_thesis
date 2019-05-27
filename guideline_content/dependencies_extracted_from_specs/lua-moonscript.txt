@@ -1,0 +1,4 @@
+lua >= 5.1
+lua-alt-getopt >= 0.7
+lua-filesystem >= 1.5
+lua-lpeg >= 0.12

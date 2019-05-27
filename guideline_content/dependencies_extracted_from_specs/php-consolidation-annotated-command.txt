@@ -1,0 +1,12 @@
+(php-composer(consolidation/output-formatters) >= 3.1.12 with php-composer(consolidation/output-formatters) < 4)
+(php-composer(psr/log) >= 1.0.1 with php-composer(psr/log) < 2.0)
+(php-composer(symfony/console) >= 2.8 with php-composer(symfony/console) < 5.0)
+(php-composer(symfony/event-dispatcher) >= 2.8 with php-composer(symfony/event-dispatcher) < 5.0)
+(php-composer(symfony/finder) >= 2.8 with php-composer(symfony/finder) < 5.0)
+php(language) >= 5.4.0
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-dom
+php-pcre
+php-reflection
+php-spl

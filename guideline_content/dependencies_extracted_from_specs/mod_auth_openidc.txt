@@ -1,0 +1,7 @@
+autoconf
+automake
+curl-devel
+httpd-devel
+jansson-devel
+openssl-devel
+pcre-devel

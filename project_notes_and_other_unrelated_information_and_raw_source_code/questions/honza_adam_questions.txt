@@ -1,0 +1,71 @@
+U bakalářské práce se očekává, že student především prokáže schopnost zpraco-vat rozsáhlý projekt (například vytvořit užitečný program) a že dokáže své dílozasadit do kontextu a popsat formou odborného textu
+-SOLVED
+
+V případě,že máte zájem o téma, které je výrazně vzdáleno od vašeho oboru, kontaktujtegaranta oboru.
+-question: mam sa teda spytat garanta oboru na nieco?
+
+Obecně doporučujeme spíše liberálnílicence typu BSD nebo Apache.
+-SOLVED
+
+
+
+
+ Na Fakultě informatiky jsou nezřídka řešeny práceve spolupráci s komerčními firmami, které mívají se zveřejněním některých částípráce problém. Případné konflikty je třeba řešit již při výběru tématu a dobřeprodiskutovat při tvorbě zadání práce (viz kapitola 3.1).
+-no prob
+
+U témat, která se dotýkají práce pro komerční firmu, je třeba dobřerozmyslet a dohodnout zadání práce. V případech, kdy nebude možné zveře-jnit některé skutečnosti (např. zdrojové kódy, know-how firmy), je třeba totovyjasnit předem. Hodnotit lze jen odevzdanou závěrečnou práci, která budev souladu se zákonem zveřejněna. Jakékoli doplňky k práci, které zůstanouneveřejné nemohou být hodnoceny. Pro úspěšnou obhajobu není nutné zařaditdo bakalářské nebo diplomové práce veškeré zdrojové kódy, které při práci profirmu vznikly (k proprietárnímu software doporučujeme v práci uvést a tími zveřejnit ilustrativní části kódu). Důležité je, aby odevzdaná práce obsahovaladostatečné údaje pro posouzení kvality a zhodnocení závěrečné práce oponentya zkušební komisí. V případě, že konkrétní situace ve firmě nebo zamýšlenétéma toto neumožňuje, je třeba zvolit jiné téma závěrečné práce.
+-
+
+
+
+
+1.vlastní odvedená práce (co to znamená, záleží na typu práce (viz níže),může jít například o použitelnost implementace, kvalitu návrhu či origi-nalitu navrženého algoritmu),2.zpracování písemné části práce (logická struktura textu, práce s literaturou,dodržování pravidel pravopisu a odborného názvosloví, typografickáúprava),3. obhajoba práce před komisí.Abyste práci obhájili, je nutné, aby všechny tři základní složky měly jistouzákladní úroveň. I výborná implementace není uznatelná, pokud je text prácezcela odbytý, obsahuje velké množství gramatických chyb, nebo pokud jste sinepřipravili obhajobu.Okrajově k hodnocení přispívá též váš přístup k řešení práce (např. zdajste pracovali průběžně, komunikovali s vedoucím práce).2.2   Rozsah práceDoporučený rozsah písemné části práce bez příloh je 30 normostran u BPa 40 normostran u DP. Jedna normostrana je 1800 znaků, přičemž obrázkyzařazené do textu se započítávají do rozsahu písemné práce odhadem jakomnožství textu, které by ve výsledném dokumentu potisklo stejně velkou plochu– započítávají se však pouze vlastní obrázky. Obrázek, který je pouze překreslený,se považuje za převzatý, tj. musí být uveden zdroj a nezapočítává se do rozsahu.2.3   Základní typy závěrečných prací na FINa FI se vyskytují závěrečné práce mnoha různých typů, které se vzájemněliší v tom, co je od nich očekáváno. Zde je uveden popis několika základníchkategorií. Jde pouze o orientační výčet, ne všechny práce se dají jednodušezařadit do uvedených kategorií. Často mohou být práce například na hraně meziuvedenými kategoriemi (například kombinace implementační a experimentálnípráce).
+
+2.3.1 Implementační práceToto je asi nejčastější typ závěrečné práce na FI. Praktickým výstupem práceje implementace, a to pokud možno taková, kterou v době odevzdání prácepoužívá nejen autor. Důležitou součástí hodnocení je kvalita vytvořeného kóduvčetně dokumentace.Text práce popisuje celkový návrh a klíčové body implementace, tj. takové,které jsou specifické pro daný problém (nikoliv postupy, které jsou v dané oblastistandardní). Textová část práce může být mírně kratší než doporučený rozsah,zejména pokud kvalita implementace „mluví za sebe“. Seznam literatury může7
+být ve srovnání s jinými typy prací kratší, nicméně i zde se očekává minimálněkvalitní přehled souvisejících řešení.Ukázky zdrojového kódu dávejte do práce jen tehdy, pokud je to odůvod-něné (klíčová součást řešení, rozbor speciální syntaxe). Při popisu použitýchtechnologií nerozebírejte standardní technologie (netřeba uvádět, že Java je ob-jektový jazyk). Rozeberte důvody pro volbu konkrétních technologií a případněpopis technologií nových (mladších dvou let) a specializovaných (nevyskytu-jících se v žádném předmětu na FI). 
+
+2.3.2 Experimentální a evaluační práceI zde hraje důležitou roli praktická část práce, nejde však o vytvoření nového sys-tému, ale především o porovnání existujících přístupů (algoritmů, technik, sys-témů, implementací). Implementační část tedy může být relativně jednoduchá(např. využití existujících implementací či knihoven, nainstalování programů),důraz je kladen na kvalitu experimentální či evaluační části, např. na výběr dat,metodiku provedení experimentů, zpracování analýz.Textová část se soustředí na vysvětlení srovnávaných přístupů a přede-vším na popis provedených experimentů, analýzy výsledků a vyvození závěrůz těchto experimentů. V tomto případě se očekává spíše delší text, což je většinouu tohoto typu práce přirozené.
+question: praca bude orientovana asi skor experimentalnou cestou - treba to naznacit oficialnom zadani?
+
+
+2.3.4 Návrh konceptu, realizace prototypuPráce se zabývá praktickým problémem (neobsahuje teoretické výsledky), aleneobsahuje implementační část, případně je implementační část pouze prototyp,který v době odevzdání práce použil pouze autor. Pokud je práce tohoto typu,musí být jasně patrné z oficiálního zadání, že práce tak byla zamýšlena vedoucím(není přípustné, aby se práce změnila z implementační na návrh konceptu vlivemnedostatku času).Oproti ostatním typům práce se očekává obzvláště kvalitní a relativnědlouhý text, který rozebírá a zdůvodňuje předložený návrh, např. explicitnírozbor toho, co je na návrhu netriviálního, rozbor možných alternativ, zdůvod-nění volby. Očekává se kvalitní práce s literaturou (např. přehled relevantníchpojmů, zdroje podkladů pro provedené volby).
+-SOLVED
+
+
+
+
+Cílem obhajoby není posluchačům (tj. komisi) detailně představit témaa výsledky vaší práce (to v časovém limitu není většinou ani možné), ale přede-vším přesvědčit komisi o tom, že jste naplnili to, co se od závěrečné práceočekává. V obhajobě by mělo jasně zaznít, co jste dělali za práci, v čem je vášpřínos. Účel je „prodat“ svoji práci.
+
+
+The distinguishing mark of graduate research is an original contribution to knowledge. The thesis is a formal document whose sole purpose is to prove that you have made an original contribution to knowledge. Failure to prove that you have made such a contribution generally leads to failure.
+To this end, your thesis must show two important things:
+   1. you have identified a worthwhile problem or question which has not been previously answered,
+   2. you have solved the problem or answered the question.
+
+Your contribution to knowledge generally lies in your solution or answer.
+
+Because the purpose of the graduate thesis is to prove that you have made an original and useful contribution to knowledge, the examiners read your thesis to find the answers to the following questions:
+
+   3. what is this student's research question?
+   4. is it a good question? (has it been answered before? is it a useful question to work on?)
+   5. did the student convince me that the question was adequately answered?
+   6. has the student made an adequate contribution to knowledge?
+
+my answers/questions for both:
+1. DONE - identified problem with included modules in spec files
+2. DONE - try to solve with ml classification and association rule learning algorithms
+3. QUESTION - which of these is more correct?
+	*make a Missing Module Correction tool for RedHat programmers that will offer them to automatically fill in the missing modules to spec file
+		-question: program that automatically fills the lines of codes - how complex would it be, are there any text templates that I would just download and paste to the source code (like maven's copy-paste dependencies that user can search on the internet)
+		-suggestion: we can train the algorithm on correctly written modules and run classification - if the error in log refers to some module, we try to use our one of our correctly written modules and see if the build fails again or not
+	*make a Build Failure Prediction tool for RedHat programmers that will tell them which modules are missing in spec file (based on either failed build log analysis by association rule learning)
+
+
+4. QUESTION - isn't the classification of failed build log files just a static text analysis tool? is the use of ml approach on point here?
+5. DONE
+6. QUESTION - should I contribute to knowledge?
+
+
+Bachelor thesis:
+
+

@@ -1,0 +1,6 @@
+libpcap-devel
+openssl-devel
+python2-devel
+python2-sqlalchemy
+scapy
+zlib-devel

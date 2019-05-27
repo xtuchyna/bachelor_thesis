@@ -1,0 +1,20 @@
+ant
+autoconf
+automake
+byacc
+desktop-file-utils
+flex
+gdal-devel >= 1.10.0
+geos-devel >= 3.4.2
+gtk2-devel
+java
+java-devel
+json-c-devel
+libtool
+libxml2-devel
+pcre-devel
+perl-generators
+postgresql-devel >= 9.2
+postgresql-server
+postgresql-upgrade-devel
+proj-devel

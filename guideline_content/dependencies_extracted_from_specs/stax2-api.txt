@@ -1,0 +1,4 @@
+maven-local
+mvn(com.fasterxml:oss-parent:pom:)
+mvn(javax.xml.stream:stax-api)
+mvn(org.apache.felix:maven-bundle-plugin)

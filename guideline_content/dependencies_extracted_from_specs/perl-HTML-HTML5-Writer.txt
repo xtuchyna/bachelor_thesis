@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(:VERSION) >= 5.10.0
+perl(Exporter)
+perl(HTML::HTML5::Entities) >= 0.001
+perl(Test::More) >= 0.61
+perl(XML::LibXML) >= 1.60
+perl(base)
+perl(constant)
+perl(inc::Module::Package)
+perl(strict)
+perl(utf8)
+perl-generators
+perl-interpreter
+sed

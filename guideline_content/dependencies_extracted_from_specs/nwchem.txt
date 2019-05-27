@@ -1,0 +1,17 @@
+ga-mpich-devel
+ga-openmpi-devel
+gcc-gfortran
+hostname
+libsysfs-devel
+mpich-devel
+ncurses-devel
+openblas-devel
+openmpi-devel
+openssh-clients
+patch
+perl-interpreter
+python2-devel
+readline-devel
+tcsh
+time
+zlib-devel

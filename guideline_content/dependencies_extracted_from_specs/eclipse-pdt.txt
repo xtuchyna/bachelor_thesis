@@ -1,0 +1,16 @@
+eclipse-contributor-tools
+eclipse-dltk >= 5.8.0
+eclipse-dltk-mylyn
+eclipse-dltk-tests
+eclipse-license
+eclipse-mylyn-sdk
+eclipse-p2-discovery
+eclipse-pde
+eclipse-ptp
+eclipse-tm-terminal-connectors
+eclipse-webtools-sourceediting >= 3.8.0
+java_cup >= 0.11a-15
+maven-antrun-plugin
+maven-install-plugin
+tycho
+tycho-extras

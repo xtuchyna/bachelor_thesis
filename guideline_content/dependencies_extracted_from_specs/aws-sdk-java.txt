@@ -1,0 +1,8 @@
+maven-local
+mvn(com.fasterxml.jackson.core:jackson-databind)
+mvn(com.fasterxml.jackson.dataformat:jackson-dataformat-cbor)
+mvn(commons-logging:commons-logging)
+mvn(javax.mail:javax.mail-api)
+mvn(joda-time:joda-time)
+mvn(junit:junit)
+mvn(org.apache.httpcomponents:httpclient)

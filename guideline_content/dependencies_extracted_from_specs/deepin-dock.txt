@@ -1,0 +1,17 @@
+pkgconfig(Qt5Core)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5X11Extras)
+pkgconfig(dframeworkdbus)
+pkgconfig(dtkwidget) = 2.0
+pkgconfig(gsettings-qt)
+pkgconfig(gtk+-2.0)
+pkgconfig(x11)
+pkgconfig(xcb-composite)
+pkgconfig(xcb-ewmh)
+pkgconfig(xcb-icccm)
+pkgconfig(xcb-image)
+pkgconfig(xext)
+pkgconfig(xtst)
+qt5-linguist

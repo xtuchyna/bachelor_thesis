@@ -1,0 +1,8 @@
+mocha
+nodejs-packaging
+npm(async-each)
+npm(extend-shallow)
+npm(lazy-cache)
+npm(matched)
+npm(rimraf)
+npm(should)

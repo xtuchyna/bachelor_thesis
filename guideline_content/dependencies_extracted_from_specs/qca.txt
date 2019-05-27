@@ -1,0 +1,12 @@
+cmake >= 2.8.12
+doxygen-latex
+gcc-c++
+graphviz
+libgcrypt-devel
+pkgconfig(Qt5Core)
+pkgconfig(QtCore)
+pkgconfig(libcrypto)
+pkgconfig(libpkcs11-helper-1)
+pkgconfig(libsasl2)
+pkgconfig(libssl)
+pkgconfig(nss)

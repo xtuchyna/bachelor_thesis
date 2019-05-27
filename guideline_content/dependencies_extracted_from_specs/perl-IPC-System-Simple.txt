@@ -1,0 +1,26 @@
+coreutils
+findutils
+make
+perl(BSD::Resource)
+perl(Carp)
+perl(Config)
+perl(English)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Basename)
+perl(List::Util)
+perl(POSIX)
+perl(Pod::Coverage::TrustPod)
+perl(Scalar::Util)
+perl(Test)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Test::Perl::Critic)
+perl(Test::Pod)
+perl(Test::Pod::Coverage) >= 1.08
+perl(constant)
+perl(re)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,29 @@
+perl(Carp)
+perl(Config)
+perl(Crypt::RC4)
+perl(Data::Dumper)
+perl(Digest::Perl::MD5)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(IO::File)
+perl(Jcode)
+perl(OLE::Storage_Lite) >= 0.19
+perl(Perl::MinimumVersion) >= 1.20
+perl(Pod::Simple) >= 3.07
+perl(Scalar::Util)
+perl(Spreadsheet::WriteExcel)
+perl(Test::CPAN::Meta) >= 0.12
+perl(Test::MinimumVersion) >= 0.008
+perl(Test::More)
+perl(Test::Pod) >= 1.26
+perl(Unicode::Map)
+perl(base)
+perl(constant)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

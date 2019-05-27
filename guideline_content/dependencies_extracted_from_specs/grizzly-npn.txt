@@ -1,0 +1,6 @@
+maven-local
+mvn(net.java:jvnet-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.osgi:org.osgi.compendium)
+mvn(org.osgi:org.osgi.core)

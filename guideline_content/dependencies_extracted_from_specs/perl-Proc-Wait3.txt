@@ -1,0 +1,10 @@
+/usr/bin/iconv
+/usr/bin/perl
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators

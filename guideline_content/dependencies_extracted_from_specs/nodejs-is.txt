@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(foreach)
+npm(make-generator-function)
+npm(tape)

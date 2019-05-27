@@ -1,0 +1,18 @@
+make
+perl(Capture::Tiny)
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Slurp)
+perl(File::Temp)
+perl(Getopt::Long)
+perl(IPC::System::Simple)
+perl(Method::Signatures::Simple) >= 1.02
+perl(Moo) >= 0.0091010
+perl(Perl::Tidy)
+perl(Test::Class)
+perl(Test::Class::Most)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

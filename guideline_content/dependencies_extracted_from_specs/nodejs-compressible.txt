@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(istanbul)
+npm(mime-db)
+npm(mocha)

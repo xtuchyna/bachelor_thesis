@@ -1,0 +1,13 @@
+/usr/bin/lrelease-qt5
+/usr/bin/make
+/usr/bin/perl
+desktop-file-utils
+docbook-style-xsl
+expat-devel
+libusb-devel
+libxslt
+minizip-devel
+qt5-qtbase-devel
+qt5-qtwebengine-devel
+shapelib-devel
+zlib-devel

@@ -1,0 +1,3 @@
+doxygen
+globus-common-devel >= 15
+globus-gssapi-error-devel >= 4

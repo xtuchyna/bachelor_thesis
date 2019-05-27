@@ -1,0 +1,10 @@
+ant
+ant-junit
+gcc
+javapackages-local
+junit
+libX11-devel
+libXt-devel
+libffi-devel
+make
+reflections

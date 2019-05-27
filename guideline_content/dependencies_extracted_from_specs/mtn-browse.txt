@@ -1,0 +1,16 @@
+desktop-file-utils
+gettext
+graphviz
+meld
+perl(Digest::SHA)
+perl(Glib)
+perl(Gnome2)
+perl(Gnome2::Canvas)
+perl(Gnome2::VFS)
+perl(Gtk2)
+perl(Gtk2::GladeXML)
+perl(Gtk2::SourceView2)
+perl(Locale::TextDomain)
+perl(Monotone::AutomateStdio) >= 1.10
+perl(Pod::Usage)
+perl-generators

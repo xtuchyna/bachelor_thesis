@@ -1,0 +1,9 @@
+avahi-devel >= 0.6.25
+bluez-libs-devel >= 5.0
+dbus-devel >= 1.2.24
+dbus-glib-devel >= 0.86
+glib2-devel >= 2.24.1
+libX11-devel
+libXi-devel
+libXtst-devel
+xorg-x11-proto-devel

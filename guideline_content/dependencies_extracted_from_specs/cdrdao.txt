@@ -1,0 +1,7 @@
+GConf2-devel
+autoconf
+lame-devel
+libao-devel
+libmad-devel
+libsigc++20-devel
+libvorbis-devel >= 1.0

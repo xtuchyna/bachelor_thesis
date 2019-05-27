@@ -1,0 +1,7 @@
+desktop-file-utils
+libappstream-glib
+python3
+python3-devel
+python3-qscintilla-qt5
+python3-qt5
+python3-qt5-webkit

@@ -1,0 +1,8 @@
+autoconf
+automake
+gettext
+libtool
+pkgconfig(xau)
+pkgconfig(xext)
+pkgconfig(xt)
+xorg-x11-util-macros

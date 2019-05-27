@@ -1,0 +1,14 @@
+python2-devel
+python2-latexcodec
+python2-nose
+python2-pyglet
+python2-setuptools
+python2-sphinx
+python2-yaml
+python3-devel
+python3-latexcodec
+python3-nose
+python3-pyglet
+python3-setuptools
+python3-sphinx
+python3-yaml

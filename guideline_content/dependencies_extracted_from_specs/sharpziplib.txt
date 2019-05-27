@@ -1,0 +1,4 @@
+mono-devel
+nant
+nunit2 = 2.6.4
+unrtf

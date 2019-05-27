@@ -1,0 +1,11 @@
+coreutils
+dos2unix
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(Test)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

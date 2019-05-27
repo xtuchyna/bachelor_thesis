@@ -1,0 +1,15 @@
+GraphicsMagick-c++-devel
+OpenEXR-devel
+fftw-devel
+gimp-devel-tools
+hdf5-devel
+ilmbase-devel
+libX11-devel
+libXext-devel
+libcurl-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel
+opencv-devel
+qt5-qtbase-devel
+zlib-devel

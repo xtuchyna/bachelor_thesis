@@ -1,0 +1,6 @@
+ruby(release)
+rubygem(byebug)
+rubygem(flexmock)
+rubygem(rake)
+rubygem(test-unit)
+rubygems-devel

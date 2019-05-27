@@ -1,0 +1,8 @@
+ant
+aqute-bnd
+cglib
+hamcrest
+java-devel
+javapackages-local
+junit
+objenesis

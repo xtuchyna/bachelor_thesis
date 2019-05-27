@@ -1,0 +1,5 @@
+dbusmenu-qt5-devel
+gtk2-devel
+qt5-qtbase-devel
+qt5-qtbase-static
+systemd-devel

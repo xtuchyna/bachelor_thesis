@@ -1,0 +1,28 @@
+/usr/bin/rst2html
+/usr/bin/sphinx-build
+python2-argcomplete
+python2-decorator
+python2-devel
+python2-hypothesis
+python2-jinja2
+python2-mock
+python2-nose
+python2-pluggy
+python2-py >= 1.4.29
+python2-pytest-timeout
+python2-setuptools
+python2-setuptools_scm
+python2-twisted
+python3-argcomplete
+python3-decorator
+python3-devel
+python3-hypothesis
+python3-jinja2
+python3-mock
+python3-nose
+python3-pluggy
+python3-py >= 1.4.29
+python3-pytest-timeout
+python3-setuptools
+python3-setuptools_scm
+python3-twisted

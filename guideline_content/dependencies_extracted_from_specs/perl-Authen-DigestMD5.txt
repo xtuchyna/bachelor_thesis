@@ -1,0 +1,5 @@
+perl(Carp)
+perl(Digest::MD5)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl-generators

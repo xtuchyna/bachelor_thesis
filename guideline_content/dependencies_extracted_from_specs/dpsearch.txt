@@ -1,0 +1,13 @@
+aspell-devel
+bind-devel
+c-ares-devel
+httpd-devel
+libidn-devel
+mariadb-connector-c-devel
+openssl-devel
+php-devel
+postgresql-devel
+readline-devel
+sqlite-devel
+tre-devel
+zlib-devel

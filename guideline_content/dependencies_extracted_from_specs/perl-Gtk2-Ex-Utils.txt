@@ -1,0 +1,6 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Gtk2) >= 1.04
+perl(Test::More)
+perl(constant)
+perl-generators

@@ -1,0 +1,8 @@
+autoconf
+automake
+desktop-file-utils
+doxygen
+gettext-devel
+libogg-devel
+libtool
+xmms-devel

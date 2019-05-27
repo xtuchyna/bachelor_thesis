@@ -1,0 +1,3 @@
+bzip2-devel
+gcc-gfortran
+zlib-devel

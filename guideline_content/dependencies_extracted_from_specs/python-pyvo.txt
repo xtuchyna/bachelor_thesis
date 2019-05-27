@@ -1,0 +1,14 @@
+python2-astropy
+python2-astropy-helpers
+python2-dateutil
+python2-devel
+python2-requests
+python2-six
+python3-astropy
+python3-astropy-helpers
+python3-dateutil
+python3-devel
+python3-numpydoc
+python3-requests
+python3-six
+python3-sphinx

@@ -1,0 +1,13 @@
+autoconf
+automake
+desktop-file-utils
+gettext
+gvfs-devel
+intltool
+libappstream-glib
+libtool
+pkgconfig(appindicator-sharp-0.1)
+pkgconfig(gtk-sharp-3.0)
+pkgconfig(mono)
+pkgconfig(notify-sharp-3.0)
+pkgconfig(webkit2-sharp-4.0)

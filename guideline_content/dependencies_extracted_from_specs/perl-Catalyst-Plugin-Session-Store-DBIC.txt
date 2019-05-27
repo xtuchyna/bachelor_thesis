@@ -1,0 +1,21 @@
+perl(Carp)
+perl(Catalyst) >= 5.65000
+perl(Catalyst::Exception)
+perl(Catalyst::Model::DBIC::Schema)
+perl(Catalyst::Plugin::Session::State::Cookie)
+perl(Catalyst::Plugin::Session::Store::Delegate) >= 0.05
+perl(Class::Accessor::Fast)
+perl(DBD::SQLite)
+perl(DBIx::Class) >= 0.07000
+perl(ExtUtils::MakeMaker)
+perl(FindBin)
+perl(MIME::Base64)
+perl(MRO::Compat)
+perl(Scalar::Util)
+perl(Storable)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Test::WWW::Mechanize::Catalyst)
+perl(Test::Warn) >= 0.20
+perl-generators

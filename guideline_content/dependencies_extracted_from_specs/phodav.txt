@@ -1,0 +1,7 @@
+asciidoc
+avahi-gobject-devel
+intltool
+libsoup-devel
+systemd-devel
+systemd-units
+xmlto

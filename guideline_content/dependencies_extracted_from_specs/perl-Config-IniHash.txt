@@ -1,0 +1,6 @@
+perl(ExtUtils::MakeMaker)
+perl(Hash::Case)
+perl(Hash::WithDefaults) >= 0.04
+perl(IO::Scalar)
+perl(Test::More)
+perl-generators

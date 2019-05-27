@@ -1,0 +1,8 @@
+globus-common-devel >= 15
+globus-gridmap-callout-error-devel
+globus-gsi-credential-devel >= 6
+globus-gsi-sysconfig-devel >= 5
+globus-gss-assist-devel >= 8
+globus-gssapi-error-devel >= 4
+globus-gssapi-gsi-devel >= 9
+openssl-devel

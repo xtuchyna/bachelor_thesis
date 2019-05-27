@@ -1,0 +1,12 @@
+perl(Attribute::Handlers)
+perl(CGI)
+perl(CGI::Application) >= 4.01
+perl(Carp)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(base)
+perl(lib)
+perl-generators

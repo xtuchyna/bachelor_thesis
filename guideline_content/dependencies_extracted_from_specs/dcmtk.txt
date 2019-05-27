@@ -1,0 +1,9 @@
+CharLS-devel
+cmake
+doxygen
+libjpeg-devel
+libpng-devel
+libtiff-devel
+libxml2-devel
+openssl-devel
+zlib-devel

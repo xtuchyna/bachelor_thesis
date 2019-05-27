@@ -1,0 +1,99 @@
+ant >= 1.10.1
+ant-antlr
+ant-apache-bcel
+ant-apache-bsf
+ant-apache-log4j
+ant-apache-oro
+ant-apache-regexp
+ant-apache-resolver
+ant-apache-xalan2
+ant-commons-logging
+ant-commons-net
+ant-javamail
+ant-jdepend
+ant-jmf
+ant-jsch
+ant-junit
+ant-swing
+ant-testutil
+apache-commons-codec
+apache-commons-el >= 1.0-22
+apache-commons-fileupload
+apache-commons-jxpath
+apache-commons-logging
+apiguardian
+atinject
+atinject-tck
+batik-css
+cbi-plugins
+desktop-file-utils
+eclipse-ecf-core >= 3.13.7-1
+eclipse-egit
+eclipse-emf-core >= 1:2.13.0-1
+eclipse-emf-runtime
+eclipse-filesystem
+eclipse-license
+eclipse-pde
+gcc
+glassfish-el >= 3.0.1
+glassfish-el-api >= 3.0.1
+glassfish-jsp >= 2.2.5
+glassfish-jsp-api >= 2.2.1-4
+glassfish-servlet-api >= 3.1.0
+hamcrest >= 1.3
+httpcomponents-client
+httpcomponents-core
+icu4j >= 1:59.1
+jsch >= 0.1.46-2
+junit >= 4.12
+junit5
+lucene-analysis >= 6.1.0
+lucene-analyzers-smartcn >= 6.1.0
+lucene-core >= 6.1.0
+lucene-misc >= 6.1.0
+lucene-queryparser >= 6.1.0
+make
+maven-antrun-plugin
+maven-assembly-plugin
+maven-dependency-plugin
+maven-enforcer-plugin
+maven-install-plugin
+maven-local
+mockito
+objectweb-asm >= 5.0.3-1
+osgi(org.apache.felix.gogo.command) >= 1.0.2
+osgi(org.apache.felix.gogo.runtime) >= 1.0.4
+osgi(org.apache.felix.gogo.shell) >= 1.0.0
+osgi(org.apache.felix.scr) >= 2.0.10
+osgi(org.eclipse.jetty.continuation) >= 9.4.9
+osgi(org.eclipse.jetty.http) >= 9.4.9
+osgi(org.eclipse.jetty.io) >= 9.4.9
+osgi(org.eclipse.jetty.security) >= 9.4.9
+osgi(org.eclipse.jetty.server) >= 9.4.9
+osgi(org.eclipse.jetty.servlet) >= 9.4.9
+osgi(org.eclipse.jetty.util) >= 9.4.9
+osgi(osgi.annotation)
+pkgconfig(cairo)
+pkgconfig(gconf-2.0)
+pkgconfig(gl)
+pkgconfig(glib-2.0)
+pkgconfig(glu)
+pkgconfig(gtk+-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(libsecret-1)
+pkgconfig(nspr)
+pkgconfig(webkit2gtk-4.0)
+pkgconfig(xt)
+pkgconfig(xtst)
+rhino
+rsync
+sac
+sat4j
+sonatype-oss-parent
+tycho
+tycho-extras
+unzip
+xml-commons-apis
+xml-maven-plugin
+xz-java
+zip

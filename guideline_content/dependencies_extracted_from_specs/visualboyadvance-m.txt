@@ -1,0 +1,17 @@
+SDL2-devel
+SFML-devel
+cairo-devel
+cmake
+desktop-file-utils
+gettext
+hicolor-icon-theme
+libappstream-glib
+libjpeg-turbo-devel
+libpng-devel
+libtiff-devel
+mesa-libGL-devel
+nasm
+openal-soft-devel
+wxGTK3-devel
+zip
+zlib-devel

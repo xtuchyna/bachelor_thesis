@@ -1,0 +1,9 @@
+R-Rcpp-devel >= 0.12.12
+R-devel
+R-jpeg
+R-png
+R-testthat
+R-webp
+poppler-cpp-devel
+poppler-data
+tex(latex)

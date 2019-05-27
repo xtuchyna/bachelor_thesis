@@ -1,0 +1,10 @@
+autoconf
+automake
+bison
+flex
+libdnet-devel
+libnetfilter_queue-devel
+libpcap-devel
+libtool
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

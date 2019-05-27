@@ -1,0 +1,13 @@
+autoconf
+automake
+glibc-devel
+gnutls-utils
+libtool
+libxslt
+openwsman-python3
+python3-boto3
+python3-google-api-client
+python3-pexpect
+python3-pycurl
+python3-requests
+python3-suds

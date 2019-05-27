@@ -1,0 +1,11 @@
+ant
+dos2unix
+isorelax
+java-devel
+javacc
+jpackage-utils
+msv-msv
+msv-xsdlib
+relaxngDatatype
+xerces-j2
+xml-commons-apis

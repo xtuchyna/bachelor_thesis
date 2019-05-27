@@ -1,0 +1,22 @@
+make
+perl(:VERSION) >= 5.8.1
+perl(Config)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(FFI::CheckLib)
+perl(File::Copy)
+perl(File::Path)
+perl(File::ShareDir) >= 1.102
+perl(File::Spec)
+perl(JSON::PP) >= 2.27400
+perl(Test2::Bundle::Extended) >= 0.000065
+perl(Test2::Bundle::More)
+perl(Test2::Tools::Basic)
+perl(Test::Alien) >= 0.08
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+pkgconf
+pkgconfig(libpkgconf) >= 1.4.0

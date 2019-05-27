@@ -1,0 +1,12 @@
+ghc-Cabal-devel
+ghc-attoparsec-devel
+ghc-bytestring-devel
+ghc-network-devel
+ghc-primitive-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-time-devel
+ghc-transformers-devel
+ghc-vector-devel
+ghc-zlib-bindings-devel

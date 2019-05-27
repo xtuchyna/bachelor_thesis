@@ -1,0 +1,15 @@
+coreutils
+perl(:VERSION) >= 5.6
+perl(Config)
+perl(IO::Handle)
+perl(IPC::Open2)
+perl(IPC::Open3)
+perl(Module::Build) >= 0.26
+perl(Test::More)
+perl(Text::ParseWords) >= 3.25
+perl(Time::Local)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

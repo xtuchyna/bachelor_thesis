@@ -1,0 +1,19 @@
+bubblewrap >= 0.1.2
+fuse-libs
+ostree-libs
+python3-arpy
+python3-click
+python3-devel >= 3.5
+python3-gobject
+python3-grpcio >= 1.10
+python3-jinja2 >= 2.10
+python3-pluginbase
+python3-protobuf >= 3.5
+python3-psutil
+python3-pytest-runner
+python3-ruamel-yaml < 0.15.52
+python3-setuptools
+python3-sphinx
+python3-sphinx-click
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

@@ -1,0 +1,7 @@
+gobject-introspection-devel >= 1.36
+gssdp-devel >= 0.14.15
+gtk-doc
+libsoup-devel
+libuuid-devel
+libxml2-devel
+vala

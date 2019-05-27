@@ -1,0 +1,4 @@
+ncurses-devel
+ocaml
+ocaml-camlp4-devel
+remind

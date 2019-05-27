@@ -1,0 +1,8 @@
+file-devel
+gcc
+gettext-devel
+git
+groff
+ncurses-devel
+sed
+texinfo

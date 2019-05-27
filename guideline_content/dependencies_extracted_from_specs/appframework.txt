@@ -1,0 +1,4 @@
+ant
+ant-junit
+java-devel >= 1:1.6.0
+swing-layout >= 1.0.3

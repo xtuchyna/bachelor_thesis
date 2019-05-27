@@ -1,0 +1,4 @@
+desktop-file-utils
+hardlink
+intltool
+python2-devel

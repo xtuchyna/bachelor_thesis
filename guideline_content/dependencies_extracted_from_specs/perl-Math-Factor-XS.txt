@@ -1,0 +1,16 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::CBuilder)
+perl(List::MoreUtils)
+perl(Math::BigInt)
+perl(Module::Build)
+perl(POSIX)
+perl(Params::Validate)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(XSLoader)
+perl(boolean)
+perl-devel
+perl-generators

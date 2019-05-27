@@ -1,0 +1,11 @@
+autoconf
+automake
+corosync-devel
+glib2-devel
+libaio-devel
+libtool
+libuuid-devel
+libxml2-devel
+pacemaker-libs-devel
+pkgconfig
+python-devel

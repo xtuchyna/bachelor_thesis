@@ -1,0 +1,16 @@
+python2-dateutil
+python2-devel
+python2-lxml
+python2-networkx-core
+python2-pydotplus
+python2-rdflib >= 4.2.1
+python2-setuptools
+python2-six
+python3-dateutil
+python3-devel
+python3-lxml
+python3-networkx-core
+python3-pydotplus
+python3-rdflib >= 4.2.1
+python3-setuptools
+python3-six

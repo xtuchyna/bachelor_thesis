@@ -1,0 +1,4 @@
+boost-devel
+desktop-file-utils
+lua-devel
+qt5-qtbase-devel

@@ -1,0 +1,4 @@
+libX11-devel
+libXext-devel
+tcl-devel
+tk-devel

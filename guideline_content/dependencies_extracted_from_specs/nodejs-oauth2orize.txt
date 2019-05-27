@@ -1,0 +1,8 @@
+nodejs-packaging
+npm(chai)
+npm(chai-connect-middleware)
+npm(chai-oauth2orize-grant)
+npm(debug)
+npm(mocha)
+npm(uid2)
+npm(utils-merge)

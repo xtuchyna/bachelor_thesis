@@ -1,0 +1,8 @@
+boost-devel
+gcc-c++
+hostname
+luajit-devel
+openssl-devel
+protobuf-devel
+systemd
+systemd-devel

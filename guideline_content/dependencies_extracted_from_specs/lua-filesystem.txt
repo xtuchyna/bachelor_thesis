@@ -1,0 +1,3 @@
+compat-lua >= 5.1
+compat-lua-devel >= 5.1
+lua-devel >= 0

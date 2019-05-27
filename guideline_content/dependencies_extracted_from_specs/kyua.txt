@@ -1,0 +1,6 @@
+gcc-c++
+libatf-c++-devel >= 0.17
+libatf-sh-devel >= 0.15
+make
+pkgconfig(lutok) >= 0.4
+pkgconfig(sqlite3) >= 3.6.22

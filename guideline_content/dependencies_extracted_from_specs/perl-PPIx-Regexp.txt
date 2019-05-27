@@ -1,0 +1,22 @@
+coreutils
+make
+perl(:VERSION) >= 5.6
+perl(Carp)
+perl(Config)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(List::MoreUtils)
+perl(List::Util)
+perl(PPI::Document) >= 1.117
+perl(Scalar::Util)
+perl(Task::Weaken)
+perl(Test::More) >= 0.88
+perl(base)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

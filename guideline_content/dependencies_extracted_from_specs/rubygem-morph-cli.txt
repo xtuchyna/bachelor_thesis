@@ -1,0 +1,3 @@
+git
+rubygem(json_pure)
+rubygems-devel

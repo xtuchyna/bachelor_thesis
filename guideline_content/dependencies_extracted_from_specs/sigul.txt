@@ -1,0 +1,15 @@
+git
+gnupg
+koji
+ostree
+ostree-devel
+pexpect
+pygpgme
+python
+python-fedora
+python-nss
+python-sqlalchemy
+python-urlgrabber
+rpm-sign
+skopeo
+systemd

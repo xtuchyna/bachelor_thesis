@@ -1,0 +1,9 @@
+autoconf
+automake
+git
+gobject-introspection-devel
+gtk-doc
+libattr-devel
+libcap-devel
+libtool
+pkgconfig(gio-unix-2.0)

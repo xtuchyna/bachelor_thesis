@@ -1,0 +1,15 @@
+btrfs-progs-devel
+cmake
+compiler(go-compiler)
+device-mapper-devel
+git
+glibc-static
+go-md2man
+godep
+gpgme-devel
+libassuan-devel
+libseccomp-static >= 2.3.0
+pkgconfig(audit)
+pkgconfig(systemd)
+sed
+sqlite-devel

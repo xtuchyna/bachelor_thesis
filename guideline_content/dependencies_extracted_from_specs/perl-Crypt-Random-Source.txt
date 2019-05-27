@@ -1,0 +1,13 @@
+perl(Capture::Tiny)
+perl(Module::Build::Tiny)
+perl(Module::Find)
+perl(Moo)
+perl(Sub::Exporter)
+perl(Test::Exception)
+perl(Test::More)
+perl(Types::Standard)
+perl(namespace::autoclean)
+perl(namespace::clean)
+perl(ok)
+perl-generators
+perl-interpreter

@@ -1,0 +1,6 @@
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(HTML::Parser) >= 2.2
+perl(HTTP::Request) >= 1.23
+perl(LWP::UserAgent) >= 1.62
+perl-generators
+perl-interpreter

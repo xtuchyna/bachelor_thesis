@@ -1,0 +1,7 @@
+R-devel >= 3.0.0
+R-graphics
+R-methods
+R-parallel
+R-stats
+R-utils
+tex(latex)

@@ -1,0 +1,21 @@
+autoconf
+automake
+gettext
+gtk2-devel
+libtool
+mingw32-binutils
+mingw32-filesystem >= 68
+mingw32-fontconfig
+mingw32-gcc
+mingw32-gettext
+mingw32-gtk2
+mingw32-libxml2
+mingw32-pango
+mingw64-binutils
+mingw64-filesystem >= 68
+mingw64-fontconfig
+mingw64-gcc
+mingw64-gettext
+mingw64-gtk2
+mingw64-libxml2
+mingw64-pango

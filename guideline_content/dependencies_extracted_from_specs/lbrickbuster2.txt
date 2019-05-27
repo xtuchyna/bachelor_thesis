@@ -1,0 +1,5 @@
+ImageMagick
+SDL_mixer-devel
+desktop-file-utils
+gettext
+libpng-devel

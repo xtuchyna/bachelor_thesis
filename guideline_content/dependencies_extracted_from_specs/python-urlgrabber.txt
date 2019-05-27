@@ -1,0 +1,2 @@
+python-pycurl
+python2-devel

@@ -1,0 +1,6 @@
+python-lxml
+python2-devel
+python2-setuptools
+python3-devel
+python3-lxml
+python3-setuptools

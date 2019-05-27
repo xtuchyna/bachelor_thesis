@@ -1,0 +1,16 @@
+glibc-langpack-es
+glibc-langpack-fr
+perl(Carp)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Getopt::Long)
+perl(POSIX)
+perl(Test)
+perl(base)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

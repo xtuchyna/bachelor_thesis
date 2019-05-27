@@ -1,0 +1,9 @@
+findutils
+gcc
+krb5-devel
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Getopt::Long)
+perl-devel
+perl-generators
+perl-interpreter
+which

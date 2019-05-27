@@ -1,0 +1,15 @@
+coreutils
+findutils
+gcc
+make
+perl(Config)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(Symbol)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

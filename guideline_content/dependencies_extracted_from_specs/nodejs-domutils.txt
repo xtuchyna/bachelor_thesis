@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(domhandler)
+npm(htmlparser2)
+npm(mocha)

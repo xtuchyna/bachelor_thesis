@@ -1,0 +1,13 @@
+ImageMagick
+SDL_gfx-devel
+SDL_image-devel
+SDL_mixer-devel
+SDL_net-devel
+desktop-file-utils
+gettext
+gtk+-devel
+libGLU-devel
+libjpeg-devel
+libpng-devel
+libvorbis-devel
+lua-devel

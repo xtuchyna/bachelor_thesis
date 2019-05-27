@@ -1,0 +1,20 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(IO::Handle)
+perl(List::Util)
+perl(Module::Runtime) >= 0.014
+perl(Moo) >= 1.004002
+perl(Moo::Role)
+perl(Role::Tiny)
+perl(Scalar::Util)
+perl(Test::Fatal) >= 0.003
+perl(Test::More) >= 0.96
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

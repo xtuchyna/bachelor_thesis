@@ -1,0 +1,16 @@
+php-composer(latte/latte) >= 2.2
+php-composer(nette/application) >= 2.2
+php-composer(nette/bootstrap) >= 2.2.1
+php-composer(nette/caching) >= 2.2
+php-composer(nette/forms) >= 2.2
+php-composer(nette/mail) >= 2.2
+php-composer(nette/robot-loader) >= 2.2
+php-composer(nette/safe-stream) >= 2.2
+php-composer(nette/security) >= 2.2
+php-composer(nette/tester) >= 1.1
+php-composer(nette/utils) >= 2.2
+php-composer(theseer/autoload)
+php-composer(tracy/tracy) >= 2.2
+php-fileinfo
+php-spl
+php-tokenizer

@@ -1,0 +1,3 @@
+kdelibs4-devel
+pkgconfig(QJson) >= 0.8.1
+pkgconfig(xrandr)

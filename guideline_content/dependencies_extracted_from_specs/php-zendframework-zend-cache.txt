@@ -1,0 +1,13 @@
+php(language) >= 5.5
+php-autoloader(zendframework/zend-eventmanager) >= 2.6.2
+php-autoloader(zendframework/zend-servicemanager) >= 2.7.5
+php-autoloader(zendframework/zend-stdlib) >= 2.7
+php-composer(phpunit/phpunit) >= 4.8
+php-composer(zendframework/zend-loader) >= 2.5
+php-composer(zendframework/zend-serializer) >= 2.6
+php-composer(zendframework/zend-session) >= 2.6.2
+php-date
+php-fedora-autoloader-devel
+php-pcre
+php-reflection
+php-spl

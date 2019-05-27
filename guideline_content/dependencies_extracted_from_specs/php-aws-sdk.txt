@@ -1,0 +1,3 @@
+php-cli
+php-composer(fedora/autoloader)
+php-composer(guzzle/guzzle) >= 3.9.3

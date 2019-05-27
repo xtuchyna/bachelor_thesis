@@ -1,0 +1,4 @@
+glib2-devel
+intltool
+mingw32-rest >= 0.7.92
+mingw64-rest >= 0.7.92

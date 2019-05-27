@@ -1,0 +1,13 @@
+ant
+aqute-bnd
+aqute-bndlib
+dos2unix
+eclipse-swt
+hibernate-core
+hsqldb
+icu4j
+javapackages-local
+jcommon
+jfreechart
+jgoodies-forms
+jvnet-parent

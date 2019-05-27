@@ -1,0 +1,3 @@
+compiler(go-compiler)
+golang(github.com/gonum/floats)
+golang(github.com/gonum/matrix/mat64)

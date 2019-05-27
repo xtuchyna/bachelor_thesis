@@ -1,0 +1,3 @@
+nodejs-devel
+nodejs-packaging
+npm(tap)

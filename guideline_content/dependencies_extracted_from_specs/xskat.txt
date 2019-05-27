@@ -1,0 +1,4 @@
+ImageMagick
+desktop-file-utils
+imake
+libX11-devel

@@ -1,0 +1,6 @@
+docbook-style-xsl
+doxygen
+gcc
+libxslt
+python2-devel
+python3-devel

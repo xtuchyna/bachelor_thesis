@@ -1,0 +1,3 @@
+desktop-file-utils
+libappstream-glib
+python3-devel

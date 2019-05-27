@@ -1,0 +1,13 @@
+fuse-devel
+libacl-devel
+libzstd-devel >= 1.3.0
+lz4-devel >= 1.7.0
+openssl-devel >= 1.0.0
+python3-Cython
+python3-devel
+python3-llfuse
+python3-msgpack >= 0.4.6
+python3-pytest
+python3-setuptools
+python3-setuptools_scm
+python3-sphinx

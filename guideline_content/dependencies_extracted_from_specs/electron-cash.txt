@@ -1,0 +1,6 @@
+desktop-file-utils
+gettext
+gnupg2
+libappstream-glib
+python3-devel
+python3-qt5-devel

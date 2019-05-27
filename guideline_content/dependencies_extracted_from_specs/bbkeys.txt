@@ -1,0 +1,4 @@
+blackbox-devel
+libX11-devel
+libXext-devel
+perl-interpreter

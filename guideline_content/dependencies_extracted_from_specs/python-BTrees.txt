@@ -1,0 +1,17 @@
+gcc
+python2-devel
+python2-nose
+python2-persistent-devel
+python2-repoze-sphinx-autointerface
+python2-setuptools
+python2-sphinx
+python2-transaction
+python2-zope-interface
+python3-devel
+python3-nose
+python3-persistent-devel
+python3-repoze-sphinx-autointerface
+python3-setuptools
+python3-sphinx
+python3-transaction
+python3-zope-interface

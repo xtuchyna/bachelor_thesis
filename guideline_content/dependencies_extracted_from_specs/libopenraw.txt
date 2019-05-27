@@ -1,0 +1,6 @@
+boost-devel
+libjpeg-devel
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(libcurl)
+pkgconfig(libxml-2.0) >= 2.5.0

@@ -1,0 +1,5 @@
+libappstream-glib
+python
+python-jinja2
+sed
+zip

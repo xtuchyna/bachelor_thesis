@@ -1,0 +1,8 @@
+freeglut-devel
+gauche-devel < 0.9.5
+gauche-devel >= 0.9.4
+libSM-devel
+libXext-devel
+libXi-devel
+libXmu-devel
+texinfo

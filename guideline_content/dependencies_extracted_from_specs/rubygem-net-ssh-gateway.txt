@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(mocha)
+rubygem(net-ssh) >= 2.6.5
+rubygem(test-unit)
+rubygems-devel

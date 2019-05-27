@@ -1,0 +1,11 @@
+perl(Module::Build::Tiny)
+perl(Module::Metadata)
+perl(Moose) >= 1.10
+perl(MooseX::StrictConstructor) >= 0.16
+perl(Scalar::Util)
+perl(Test::Exception)
+perl(Test::Fatal)
+perl(Test::More) >= 0.88
+perl(Test::Requires)
+perl(Test::Warnings)
+perl-generators

@@ -1,0 +1,6 @@
+libart_lgpl-devel
+libgnomecanvas-devel
+ocaml
+ocaml-findlib
+ocaml-lablgtk-devel
+ocaml-ocamldoc

@@ -1,0 +1,6 @@
+php(language) >= 5.3
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-reflection
+php-spl
+php-zlib

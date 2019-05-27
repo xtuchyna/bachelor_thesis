@@ -1,0 +1,6 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec)
+mvn(org.jboss:jboss-parent:pom:)

@@ -1,0 +1,2 @@
+malaga >= 7.8
+python

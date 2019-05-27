@@ -1,0 +1,16 @@
+Cython >= 0.13
+blosc-devel >= 1.5.2
+bzip2-devel
+hdf5-devel >= 1.8
+lzo-devel
+numpy
+python-numexpr >= 2.4
+python2-devel
+python2-mock
+python2-six
+python3-Cython >= 0.13
+python3-devel
+python3-mock
+python3-numexpr >= 2.4
+python3-numpy
+python3-six

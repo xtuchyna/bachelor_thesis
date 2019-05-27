@@ -1,0 +1,9 @@
+maven-local
+mvn(ch.qos.logback:logback-classic)
+mvn(org.apache.maven.plugins:maven-checkstyle-plugin)
+mvn(org.slf4j:jcl-over-slf4j)
+mvn(org.slf4j:jul-to-slf4j)
+mvn(org.slf4j:log4j-over-slf4j)
+mvn(org.slf4j:slf4j-api)
+mvn(org.testng:testng)
+mvn(xmlunit:xmlunit)

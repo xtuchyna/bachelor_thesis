@@ -1,0 +1,8 @@
+ImageMagick
+ant-junit
+desktop-file-utils
+java-devel
+java-javadoc
+javapackages-local
+jpackage-utils
+jsap

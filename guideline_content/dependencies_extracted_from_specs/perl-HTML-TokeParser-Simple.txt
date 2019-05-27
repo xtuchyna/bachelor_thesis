@@ -1,0 +1,12 @@
+perl(Carp)
+perl(HTML::Entities)
+perl(HTML::Parser) >= 3.25
+perl(HTML::TokeParser) >= 2.24
+perl(Module::Build)
+perl(Sub::Override)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

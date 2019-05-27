@@ -1,0 +1,5 @@
+coreutils
+httpd-devel >= 2.0
+make
+pkgconfig
+sed

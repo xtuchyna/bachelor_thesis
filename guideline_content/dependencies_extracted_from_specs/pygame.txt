@@ -1,0 +1,13 @@
+SDL-devel
+SDL_image-devel
+SDL_mixer-devel
+SDL_ttf-devel
+freetype-devel
+libX11-devel
+libjpeg-devel
+libpng-devel
+numpy
+portmidi-devel
+python2-devel
+python3-devel
+python3-numpy

@@ -1,0 +1,13 @@
+desktop-file-utils
+gtk3-devel
+libSM-devel
+libXdamage-devel
+libXpresent-devel
+libcanberra-devel
+libgtop2-devel
+libsoup-devel
+mate-common
+mate-desktop-devel
+startup-notification-devel
+yelp-tools
+zenity

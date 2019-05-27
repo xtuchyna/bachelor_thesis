@@ -1,0 +1,9 @@
+ClanLib-devel >= 2.3
+desktop-file-utils
+fontconfig-devel
+freetype-devel
+libjpeg-devel
+libpng-devel
+libtool
+zip
+zlib-devel

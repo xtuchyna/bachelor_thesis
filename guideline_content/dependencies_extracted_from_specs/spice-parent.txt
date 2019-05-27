@@ -1,0 +1,2 @@
+forge-parent
+maven-local

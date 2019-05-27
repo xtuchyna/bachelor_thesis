@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(array-map)
+npm(npm)
+npm(object-keys)
+npm(tape)

@@ -1,0 +1,7 @@
+php(language) >= 5.6
+php-composer(fig/http-message-util) >= 1.1
+php-composer(phpunit/phpunit) >= 4.7
+php-composer(psr/http-message) >= 1.0
+php-fedora-autoloader-devel
+php-pcre
+php-spl

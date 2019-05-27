@@ -1,0 +1,2 @@
+qt5-qtbase-devel >= 5.10.0
+qt5-qtdeclarative-devel >= 5.10.0

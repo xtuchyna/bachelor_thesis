@@ -1,0 +1,4 @@
+GAPDoc-latex
+gap-devel
+gap-pkg-io
+gap-pkg-scscp

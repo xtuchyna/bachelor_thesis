@@ -1,0 +1,9 @@
+dos2unix
+python3-coverage
+python3-devel
+python3-mock
+python3-nose
+python3-nose-testconfig
+python3-pytest
+python3-setuptools
+python3-setuptools_scm

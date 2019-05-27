@@ -1,0 +1,8 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More) >= 0.32
+perl(Text::Emoticon) >= 0.03
+perl(base)
+perl(strict)
+perl-generators
+perl-interpreter

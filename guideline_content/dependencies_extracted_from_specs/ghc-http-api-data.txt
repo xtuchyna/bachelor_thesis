@@ -1,0 +1,15 @@
+ghc-Cabal-devel
+ghc-attoparsec-devel
+ghc-attoparsec-iso8601-devel
+ghc-bytestring-devel
+ghc-cabal-doctest-devel
+ghc-containers-devel
+ghc-hashable-devel
+ghc-http-types-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-time-devel
+ghc-time-locale-compat-devel
+ghc-unordered-containers-devel
+ghc-uri-bytestring-devel
+ghc-uuid-types-devel

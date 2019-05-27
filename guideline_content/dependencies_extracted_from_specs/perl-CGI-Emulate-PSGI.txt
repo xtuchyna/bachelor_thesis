@@ -1,0 +1,7 @@
+perl(CGI)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(HTTP::Response)
+perl(Plack::Test)
+perl(Test::Builder::Module)
+perl(Test::Requires)
+perl-generators

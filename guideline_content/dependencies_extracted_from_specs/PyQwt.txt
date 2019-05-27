@@ -1,0 +1,5 @@
+PyQt4-devel
+numpy-f2py
+pkgconfig(qwt5-qt4)
+python2-devel
+sip-devel

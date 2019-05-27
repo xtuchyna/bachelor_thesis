@@ -1,0 +1,4 @@
+intltool
+perl(XML::Parser)
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(libopenraw-gnome-0.1)

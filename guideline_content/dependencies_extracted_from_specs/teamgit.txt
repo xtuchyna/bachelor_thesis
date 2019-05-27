@@ -1,0 +1,6 @@
+avahi-compat-libdns_sd-devel
+desktop-file-utils
+gcc
+gcc-c++
+qt-devel
+source-highlight-qt-devel

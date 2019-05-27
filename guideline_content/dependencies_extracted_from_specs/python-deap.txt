@@ -1,0 +1,14 @@
+python2-devel
+python2-matplotlib
+python2-nose
+python2-numpy
+python2-pypandoc
+python2-setuptools
+python2-sphinx
+python3-devel
+python3-nose
+python3-numpy
+python3-pypandoc
+python3-setuptools
+texlive-scheme-basic
+texlive-ucs

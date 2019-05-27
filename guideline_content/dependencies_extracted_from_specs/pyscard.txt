@@ -1,0 +1,4 @@
+pcsc-lite-devel
+python2-devel
+python3-devel
+swig >= 1.3.31

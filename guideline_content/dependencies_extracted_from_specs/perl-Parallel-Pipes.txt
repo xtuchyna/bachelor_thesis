@@ -1,0 +1,15 @@
+perl(Carp)
+perl(Config)
+perl(File::Temp)
+perl(IO::Handle)
+perl(IO::Select)
+perl(Module::Build::Tiny) >= 0.034
+perl(Storable)
+perl(Test::More) >= 0.98
+perl(Time::HiRes)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

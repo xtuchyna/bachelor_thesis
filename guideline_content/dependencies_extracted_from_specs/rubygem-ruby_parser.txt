@@ -1,0 +1,5 @@
+ruby
+ruby(release)
+rubygem(minitest)
+rubygem(sexp_processor)
+rubygems-devel

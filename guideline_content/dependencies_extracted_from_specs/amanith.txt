@@ -1,0 +1,10 @@
+freetype-devel
+glew-devel
+libXmu-devel
+libjpeg-devel
+libpng-devel
+mesa-libGL-devel
+mesa-libGLU-devel
+pkgconfig
+qt3-devel
+zlib-devel

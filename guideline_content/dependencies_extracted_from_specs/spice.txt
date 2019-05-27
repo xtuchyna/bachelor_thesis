@@ -1,0 +1,16 @@
+celt051-devel
+cyrus-sasl-devel
+git-core
+glib2-devel >= 2.22
+gnupg2
+gstreamer1-devel
+gstreamer1-plugins-base-devel
+libcacard-devel
+libjpeg-devel
+lz4-devel
+openssl-devel
+opus-devel
+orc-devel
+pixman-devel
+pkgconfig
+spice-protocol >= 0.12.3

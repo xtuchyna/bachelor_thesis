@@ -1,0 +1,10 @@
+asciidoc
+dbus-devel
+doxygen
+glib2-devel
+libtool
+libxslt
+perl(XML::DOM)
+python2-devel
+qjson-devel
+tinycdb-devel

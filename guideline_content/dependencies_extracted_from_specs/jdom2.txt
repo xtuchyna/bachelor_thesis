@@ -1,0 +1,12 @@
+ant
+ant-junit
+aqute-bnd
+bea-stax-api
+isorelax
+javapackages-local
+jaxen
+log4j12
+objectweb-asm3
+xalan-j2
+xerces-j2
+xml-commons-apis

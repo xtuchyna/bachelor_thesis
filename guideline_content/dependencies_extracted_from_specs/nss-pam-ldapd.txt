@@ -1,0 +1,6 @@
+autoconf
+automake
+krb5-devel
+openldap-devel
+pam-devel
+systemd-units

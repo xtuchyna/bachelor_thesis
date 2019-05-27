@@ -1,0 +1,14 @@
+coreutils
+perl(Carp)
+perl(Module::Build)
+perl(SUPER)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

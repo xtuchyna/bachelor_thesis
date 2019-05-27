@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(rails)
+rubygem(rspec)
+rubygem(warden) >= 1.0.0
+rubygems-devel

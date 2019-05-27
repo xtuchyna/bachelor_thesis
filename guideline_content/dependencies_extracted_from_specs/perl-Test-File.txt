@@ -1,0 +1,22 @@
+coreutils
+make
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::Manifest) >= 1.21
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(Test::Builder)
+perl(Test::Builder) >= 1.001006
+perl(Test::Builder::Tester)
+perl(Test::More) >= 0.95
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(Test::utf8)
+perl(base)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

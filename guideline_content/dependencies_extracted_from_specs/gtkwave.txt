@@ -1,0 +1,21 @@
+GConf2-devel
+Judy-devel
+bzip2-devel
+coreutils
+desktop-file-utils
+flex
+gcc
+gcc-c++
+gedit
+gnome-icon-theme
+gperf
+gtk2-devel
+hicolor-icon-theme
+libappstream-glib
+libtirpc-devel
+make
+shared-mime-info
+tcl-devel >= 8.4
+tk-devel
+xz-devel
+zlib-devel

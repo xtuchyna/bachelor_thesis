@@ -1,0 +1,57 @@
+audit-libs-devel
+autoconf
+automake
+bison
+dbus-devel
+flex
+flex-devel
+git
+kernel-headers
+libX11-devel
+libXau-devel
+libXaw-devel
+libXdmcp-devel
+libXext-devel
+libXfixes-devel
+libXfont2-devel
+libXi-devel
+libXinerama-devel
+libXmu-devel
+libXpm-devel
+libXrender-devel
+libXres-devel
+libXt-devel
+libXtst-devel
+libXv-devel
+libdmx-devel
+libdrm-devel >= 2.4.0
+libepoxy-devel
+libfontenc-devel
+libpciaccess-devel >= 0.13.1
+libselinux-devel >= 2.0.86-1
+libtool
+libudev-devel
+libunwind-devel
+libxkbfile-devel
+mesa-libEGL-devel
+mesa-libGL-devel >= 9.2
+mesa-libgbm-devel
+openssl-devel
+pixman-devel >= 0.30.0
+pkgconfig
+pkgconfig(epoxy)
+pkgconfig(wayland-client) >= 1.3.0
+pkgconfig(xcb-aux)
+pkgconfig(xcb-icccm)
+pkgconfig(xcb-image)
+pkgconfig(xcb-keysyms)
+pkgconfig(xcb-renderutil)
+pkgconfig(xshmfence) >= 1.1
+systemd-devel
+systemtap-sdt-devel
+wayland-devel
+wayland-protocols-devel
+xorg-x11-font-utils >= 7.2-11
+xorg-x11-proto-devel >= 7.7-10
+xorg-x11-util-macros >= 1.17
+xorg-x11-xtrans-devel >= 1.3.2

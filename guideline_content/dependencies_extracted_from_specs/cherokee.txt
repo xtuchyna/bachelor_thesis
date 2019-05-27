@@ -1,0 +1,13 @@
+GeoIP-devel
+autoconf
+automake
+gettext
+libtool
+mariadb-connector-c-devel
+openldap-devel
+openssl-devel
+pam-devel
+pcre-devel
+php-cli
+python2
+systemd

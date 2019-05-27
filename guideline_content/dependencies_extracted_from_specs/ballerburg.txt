@@ -1,0 +1,7 @@
+ImageMagick
+SDL-devel >= 1.2.0
+cmake
+desktop-file-utils
+gcc
+gettext
+libappstream-glib

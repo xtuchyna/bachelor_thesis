@@ -1,0 +1,14 @@
+compat-openssl10-devel
+gcc-c++
+glibc-devel
+libacl-devel
+libstdc++-devel
+libxml2-devel
+perl-interpreter
+pkgconfig
+python2-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+sed
+systemd
+zlib-devel

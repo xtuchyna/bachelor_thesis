@@ -1,0 +1,25 @@
+audit-libs >= 1.0.8
+audit-libs-devel >= 2.0.5
+autoconf
+automake
+fipscheck-devel >= 1.3.0
+gcc
+gnupg2
+groff
+gtk2-devel
+krb5-devel
+libX11-devel
+libedit-devel
+libselinux-devel >= 2.3-5
+ncurses-devel
+openldap-devel
+openssl-devel >= 0.9.8j
+p11-kit-devel
+pam-devel
+perl-generators
+perl-interpreter
+perl-podlators
+systemd-devel
+util-linux
+xauth
+zlib-devel

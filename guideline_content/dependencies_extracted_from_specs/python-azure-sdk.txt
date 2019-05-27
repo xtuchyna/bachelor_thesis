@@ -1,0 +1,32 @@
+python-chardet
+python-enum34
+python-isodate
+python-pip
+python-vcrpy >= 1.8.0
+python2-certifi
+python2-coverage
+python2-devel
+python2-keyring
+python2-msrest
+python2-msrestazure
+python2-nose
+python2-oauthlib
+python2-requests
+python2-requests-oauthlib
+python2-setuptools
+python2-sphinx
+python2-sphinx_rtd_theme
+python3-certifi
+python3-chardet
+python3-coverage
+python3-devel
+python3-enum34
+python3-isodate
+python3-keyring
+python3-msrest
+python3-msrestazure
+python3-nose
+python3-oauthlib
+python3-requests
+python3-requests-oauthlib
+python3-vcrpy >= 1.8.0

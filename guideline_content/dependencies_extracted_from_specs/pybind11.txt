@@ -1,0 +1,11 @@
+cmake
+eigen3-devel
+gcc-c++
+python2-devel
+python2-numpy
+python2-pytest
+python2-scipy
+python3-devel
+python3-numpy
+python3-pytest
+python3-scipy

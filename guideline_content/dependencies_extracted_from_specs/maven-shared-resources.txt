@@ -1,0 +1,4 @@
+maven-local
+maven-remote-resources-plugin
+mvn(org.apache.maven.shared:maven-shared-components:pom:)
+mvn(org.apache.rat:apache-rat-plugin)

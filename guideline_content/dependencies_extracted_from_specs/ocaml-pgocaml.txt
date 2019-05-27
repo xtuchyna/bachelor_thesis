@@ -1,0 +1,9 @@
+ocaml >= 3.10.0
+ocaml-calendar-devel >= 2.01.1-2
+ocaml-camlp4-devel
+ocaml-csv-devel
+ocaml-extlib-devel
+ocaml-findlib-devel
+ocaml-ocamldoc
+ocaml-pcre-devel
+pcre-devel

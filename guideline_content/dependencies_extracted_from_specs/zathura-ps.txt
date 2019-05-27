@@ -1,0 +1,10 @@
+binutils
+cairo-devel
+desktop-file-utils
+gcc
+girara-devel
+glib2-devel
+libappstream-glib
+libspectre-devel
+meson >= 0.43
+zathura-devel >= 0.3.8

@@ -1,0 +1,8 @@
+gettext
+glib2-devel
+gobject-introspection-devel
+gpgme-devel
+gtk-doc
+libgpg-error-devel
+vala
+zlib-devel

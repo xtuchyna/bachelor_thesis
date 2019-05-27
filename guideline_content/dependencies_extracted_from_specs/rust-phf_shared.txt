@@ -1,0 +1,2 @@
+(crate(siphasher) >= 0.2.0 with crate(siphasher) < 0.3.0)
+rust-packaging

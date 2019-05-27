@@ -1,0 +1,3 @@
+GeoIP-devel >= 1.4.8
+python2-devel
+python3-devel

@@ -1,0 +1,21 @@
+findutils
+make
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find)
+perl(File::Spec)
+perl(File::Temp)
+perl(FindBin)
+perl(IO::Scalar)
+perl(Moose::Autobox)
+perl(Test::Builder)
+perl(Test::CheckManifest) >= 1.28
+perl(Test::DistManifest) >= 1.012
+perl(Test::More)
+perl(Test::Pod) >= 1.48
+perl(Test::Pod::Coverage) >= 1.10
+perl(Test::Version) >= 1.003001
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

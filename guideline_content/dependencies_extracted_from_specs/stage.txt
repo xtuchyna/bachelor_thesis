@@ -1,0 +1,12 @@
+cmake
+doxygen
+fltk-devel
+graphviz
+libGL-devel
+libGLU-devel
+libX11-devel
+libXext-devel
+libjpeg-devel
+libpng-devel
+libtool-ltdl-devel
+player-devel >= 3.1.0

@@ -1,0 +1,16 @@
+freealut-devel
+freeglut-devel
+libGL-devel
+libXext-devel
+libXi-devel
+libXmu-devel
+libXrandr-devel
+libXrender-devel
+libXt-devel
+libXxf86vm-devel
+libjpeg-devel
+libpng-devel
+libvorbis-devel
+openal-soft-devel
+plib-devel
+zlib-devel

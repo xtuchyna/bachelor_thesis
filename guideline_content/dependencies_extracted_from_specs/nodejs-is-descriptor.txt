@@ -1,0 +1,5 @@
+mocha
+nodejs-packaging
+npm(is-accessor-descriptor)
+npm(is-data-descriptor)
+npm(lazy-cache)

@@ -1,0 +1,15 @@
+autoconf
+automake
+libtool
+maven-local
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugin-tools:maven-plugin-tools-javadoc)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.fusesource.hawtjni:hawtjni-runtime)
+mvn(org.fusesource.hawtjni:maven-hawtjni-plugin)
+mvn(org.fusesource:fusesource-pom:pom:)
+mvn(org.iq80.leveldb:leveldb-api)
+pkgconfig(leveldb) >= 1.7.0-4
+snappy-devel
+xmvn

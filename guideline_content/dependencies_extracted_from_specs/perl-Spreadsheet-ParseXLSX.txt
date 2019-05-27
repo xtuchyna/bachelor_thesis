@@ -1,0 +1,23 @@
+perl(:VERSION) >= 5.10.0
+perl(Archive::Zip)
+perl(Crypt::Mode::CBC)
+perl(Crypt::Mode::ECB)
+perl(Digest::SHA)
+perl(Encode)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(File::Temp)
+perl(Graphics::ColorUtils)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(MIME::Base64)
+perl(OLE::Storage_Lite)
+perl(Scalar::Util)
+perl(Spreadsheet::ParseExcel) >= 0.61
+perl(Test::More) >= 0.88
+perl(XML::Twig)
+perl(blib) >= 1.01
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

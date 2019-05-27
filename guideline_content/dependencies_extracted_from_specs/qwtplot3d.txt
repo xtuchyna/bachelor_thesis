@@ -1,0 +1,7 @@
+dos2unix
+gcc-c++
+gl2ps-devel
+libXmu-devel
+qt-devel
+qt3-devel
+qt4-devel

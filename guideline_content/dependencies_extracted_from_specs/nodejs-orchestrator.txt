@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(end-of-stream)
+npm(sequencify)
+npm(stream-consume)

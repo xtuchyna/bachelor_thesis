@@ -1,0 +1,4 @@
+ant
+aqute-bnd
+javapackages-local
+jdom

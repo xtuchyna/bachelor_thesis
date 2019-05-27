@@ -1,0 +1,4 @@
+ruby >= 1.8.7
+ruby(release)
+rubygem(rspec)
+rubygems-devel

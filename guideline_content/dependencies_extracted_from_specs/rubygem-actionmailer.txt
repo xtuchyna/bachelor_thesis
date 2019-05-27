@@ -1,0 +1,6 @@
+ruby >= 2.2.2
+ruby(release)
+rubygem(actionpack) = 5.1.5
+rubygem(activejob) = 5.1.5
+rubygem(mail) >= 2.5.4
+rubygems-devel

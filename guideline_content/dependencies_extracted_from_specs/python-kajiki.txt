@@ -1,0 +1,10 @@
+python2-babel
+python2-devel
+python2-nine
+python2-pytz
+python2-setuptools
+python3-babel
+python3-devel
+python3-nine
+python3-pytz
+python3-setuptools

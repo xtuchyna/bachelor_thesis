@@ -1,0 +1,7 @@
+libzip-devel >= 0.11.2
+node-gyp
+nodejs-devel
+npm(mkdirp)
+npm(mocha)
+npm(nan) >= 2.4.0
+zlib-devel

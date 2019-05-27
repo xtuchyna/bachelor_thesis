@@ -1,0 +1,6 @@
+ghostscript
+inkscape
+latex2html
+perl(HTML::Parser)
+perl(HTML::TreeBuilder)
+tex(multirow.sty)

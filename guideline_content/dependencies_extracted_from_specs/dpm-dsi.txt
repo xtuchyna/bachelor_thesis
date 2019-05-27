@@ -1,0 +1,7 @@
+cmake
+dmlite-devel
+globus-common-progs
+globus-gridftp-server-devel >= 11.8-4
+systemd
+voms-devel
+yum-utils

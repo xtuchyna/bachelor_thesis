@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(Fedora::VSP)
+perl(File::Copy)
+perl(File::Find)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 4:5.22.0-351
+sed

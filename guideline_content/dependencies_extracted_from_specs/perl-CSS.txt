@@ -1,0 +1,12 @@
+coreutils
+dos2unix
+findutils
+glibc-common
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(Parse::RecDescent)
+perl(Test::Simple)
+perl-generators
+perl-interpreter

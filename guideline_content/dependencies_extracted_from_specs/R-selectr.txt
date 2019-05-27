@@ -1,0 +1,7 @@
+R-XML
+R-devel
+R-methods
+R-stringr
+R-testthat
+R-xml2
+tex(latex)

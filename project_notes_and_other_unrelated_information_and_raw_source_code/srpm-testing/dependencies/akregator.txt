@@ -1,0 +1,34 @@
+boost-devel
+cmake(Grantlee5)
+cmake(KF5Crash)
+cmake(KF5DocTools)
+cmake(KF5IconThemes)
+cmake(KF5KCMUtils)
+cmake(KF5Notifications)
+cmake(KF5NotifyConfig)
+cmake(KF5Parts)
+cmake(KF5TextEditor)
+cmake(KF5WindowSystem)
+cmake(KF5XmlGui)
+cmake(Qt5PrintSupport)
+cmake(Qt5Test)
+cmake(Qt5WebEngine)
+cmake(Qt5WebEngineWidgets)
+cmake(Qt5Widgets)
+desktop-file-utils
+extra-cmake-modules
+gettext
+kf5-akonadi-mime-devel >= 18.12
+kf5-grantleetheme-devel >= 18.12
+kf5-kontactinterface-devel >= 18.12
+kf5-kpimtextedit-devel >= 18.12
+kf5-libkdepim-devel >= 18.12
+kf5-libkleo-devel >= 18.12
+kf5-messagelib-devel >= 18.12
+kf5-pimcommon-devel >= 18.12
+kf5-rpm-macros
+kf5-syndication-devel >= 18.12
+libappstream-glib
+perl-generators
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

@@ -1,0 +1,4 @@
+gcc
+python2-devel
+python2-libxml2
+swig

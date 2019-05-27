@@ -1,0 +1,9 @@
+mongodb-server
+net-tools
+procps-ng
+python-tools
+python2-devel
+python2-setuptools
+python2-sphinx
+python3-devel
+python3-setuptools

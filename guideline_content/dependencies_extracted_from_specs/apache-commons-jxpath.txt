@@ -1,0 +1,10 @@
+maven-local
+mvn(commons-beanutils:commons-beanutils)
+mvn(javax.servlet:jsp-api)
+mvn(javax.servlet:servlet-api)
+mvn(jdom:jdom)
+mvn(junit:junit)
+mvn(org.apache.commons:commons-parent:pom:)
+mvn(org.apache.maven.plugins:maven-assembly-plugin)
+mvn(xerces:xercesImpl)
+mvn(xml-apis:xml-apis)

@@ -1,0 +1,10 @@
+perl(ExtUtils::CBuilder) >= 0.23
+perl(File::Spec)
+perl(File::Temp)
+perl(Module::Build) >= 0.42
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

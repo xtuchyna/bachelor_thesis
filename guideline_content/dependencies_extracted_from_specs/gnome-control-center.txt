@@ -1,0 +1,42 @@
+chrpath
+cups-devel
+desktop-file-utils
+docbook-style-xsl
+gettext
+libXxf86misc-devel
+libxslt
+meson
+pkgconfig(accountsservice)
+pkgconfig(cheese-gtk)
+pkgconfig(clutter-gtk-1.0)
+pkgconfig(colord)
+pkgconfig(colord-gtk)
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(gdk-wayland-3.0)
+pkgconfig(gio-2.0) >= 2.53.0
+pkgconfig(gnome-bluetooth-1.0) >= 3.18.2
+pkgconfig(gnome-desktop-3.0) >= 3.27.90
+pkgconfig(gnome-settings-daemon) >= 3.25.90
+pkgconfig(goa-1.0) >= 3.25.3
+pkgconfig(goa-backend-1.0)
+pkgconfig(grilo-0.3)
+pkgconfig(gsettings-desktop-schemas) >= 3.27.2
+pkgconfig(gtk+-3.0) >= 3.22.20
+pkgconfig(gudev-1.0)
+pkgconfig(ibus-1.0)
+pkgconfig(libcanberra-gtk3)
+pkgconfig(libgtop-2.0)
+pkgconfig(libnm)
+pkgconfig(libnma)
+pkgconfig(libpulse)
+pkgconfig(libpulse-mainloop-glib)
+pkgconfig(libsoup-2.4)
+pkgconfig(libwacom)
+pkgconfig(libxml-2.0)
+pkgconfig(mm-glib)
+pkgconfig(polkit-gobject-1)
+pkgconfig(pwquality)
+pkgconfig(smbclient)
+pkgconfig(upower-glib)
+pkgconfig(x11)
+pkgconfig(xi)

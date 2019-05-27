@@ -1,0 +1,5 @@
+/usr/bin/htpasswd
+/usr/bin/perl
+gcc-c++
+libstdc++-static
+systemd

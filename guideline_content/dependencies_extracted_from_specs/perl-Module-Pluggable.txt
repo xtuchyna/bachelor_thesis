@@ -1,0 +1,27 @@
+coreutils
+findutils
+make
+perl(App::FatPacker) >= 0.10.0
+perl(Carp)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec::Functions) >= 3.00
+perl(File::Temp)
+perl(FindBin)
+perl(Module::Runtime) >= 0.012
+perl(Test::More) >= 0.62
+perl(base)
+perl(deprecate)
+perl(if)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

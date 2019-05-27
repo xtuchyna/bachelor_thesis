@@ -1,0 +1,9 @@
+annotation_api
+geronimo-osgi-locator
+geronimo-parent-poms
+interceptor_api
+java-devel
+jaxrpc_api
+jpackage-utils
+jta
+maven-local

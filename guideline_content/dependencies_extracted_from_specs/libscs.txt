@@ -1,0 +1,5 @@
+autoconf
+automake
+gmp-devel
+libtool
+mpfr-devel

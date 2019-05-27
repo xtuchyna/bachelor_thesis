@@ -1,0 +1,6 @@
+desktop-file-utils
+gettext
+gzip
+libappstream-glib
+mesa-libGL-devel
+python2 > 2.4

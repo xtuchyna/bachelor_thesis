@@ -1,0 +1,4 @@
+ClanLib06-devel
+desktop-file-utils
+libappstream-glib
+zlib-devel

@@ -1,0 +1,18 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(Getopt::Std)
+perl(HTML::TokeParser) >= 2.28
+perl(HTML::TreeBuilder)
+perl(Log::Log4perl) >= 0.50
+perl(Module::Pluggable) >= 2.4
+perl(PPI) >= 1.115
+perl(Pod::Parser) >= 1.14
+perl(Sysadm::Install) >= 0.11
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

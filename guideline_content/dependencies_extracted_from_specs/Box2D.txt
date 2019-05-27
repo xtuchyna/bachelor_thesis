@@ -1,0 +1,4 @@
+cmake
+glew-devel
+glfw-devel
+libXi-devel

@@ -1,0 +1,26 @@
+perl(CPAN::Meta)
+perl(CPAN::Meta::Requirements)
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec::Functions)
+perl(List::Util)
+perl(Module::Build::Tiny) >= 0.030
+perl(Moose)
+perl(Moose::Role)
+perl(MooseX::Getopt)
+perl(MooseX::SimpleConfig)
+perl(MooseX::Types::Moose)
+perl(MooseX::Types::Path::Tiny) >= 0.005
+perl(Scalar::Util)
+perl(Test::Deep)
+perl(Test::Fatal)
+perl(Test::More) >= 0.88
+perl(Test::Pod::Coverage)
+perl(Test::Requires)
+perl(Test::Without::Module)
+perl(if)
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

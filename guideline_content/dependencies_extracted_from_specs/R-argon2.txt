@@ -1,0 +1,4 @@
+R-devel
+libargon2-devel >= 20161029
+libb2-devel
+tex(latex)

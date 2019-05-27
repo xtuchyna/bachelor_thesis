@@ -1,0 +1,5 @@
+binutils
+coreutils
+gcc
+libX11-devel
+sed

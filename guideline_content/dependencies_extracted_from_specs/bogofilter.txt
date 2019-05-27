@@ -1,0 +1,5 @@
+/usr/bin/iconv
+flex
+gsl-devel
+libdb-devel
+perl-generators

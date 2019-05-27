@@ -1,0 +1,22 @@
+coreutils
+findutils
+gcc
+make
+perl(Carp)
+perl(Config)
+perl(Digest::MD5)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Getopt::Long)
+perl(Pod::Usage)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.06
+perl(strict)
+perl(threads)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

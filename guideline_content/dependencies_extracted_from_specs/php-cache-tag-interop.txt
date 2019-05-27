@@ -1,0 +1,5 @@
+php(language) >= 5.5
+php-cli
+php-composer(fedora/autoloader)
+php-composer(psr/cache) < 2.0
+php-composer(psr/cache) >= 1.0

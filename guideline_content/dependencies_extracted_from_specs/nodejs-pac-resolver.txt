@@ -1,0 +1,8 @@
+nodejs-packaging >= 6
+npm(co)
+npm(degenerator)
+npm(ip)
+npm(mocha)
+npm(netmask)
+npm(regenerator)
+npm(thunkify)

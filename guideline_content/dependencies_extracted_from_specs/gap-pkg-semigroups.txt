@@ -1,0 +1,7 @@
+GAPDoc-latex
+gap-devel
+gap-pkg-genss
+gap-pkg-grape
+gap-pkg-io
+gap-pkg-orb
+gap-pkg-smallsemi

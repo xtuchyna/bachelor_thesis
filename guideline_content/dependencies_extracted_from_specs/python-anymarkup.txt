@@ -1,0 +1,14 @@
+python2-anymarkup-core
+python2-configobj
+python2-devel
+python2-pytest
+python2-pyyaml
+python2-setuptools
+python2-xmltodict
+python3-PyYAML
+python3-anymarkup-core
+python3-configobj
+python3-devel
+python3-pytest
+python3-setuptools
+python3-xmltodict

@@ -1,0 +1,7 @@
+apache-resource-bundles
+java-devel
+jpackage-utils
+maven-local
+maven-remote-resources-plugin
+maven-source-plugin
+maven-surefire-provider-testng

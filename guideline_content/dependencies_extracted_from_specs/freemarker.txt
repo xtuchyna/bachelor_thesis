@@ -1,0 +1,21 @@
+ant
+apache-commons-logging
+apache-parent
+aqute-bnd
+avalon-logkit >= 1.2
+dom4j >= 1.6.1
+glassfish-jsp-api
+glassfish-servlet-api
+hamcrest
+ivy-local
+javacc >= 7.0
+jaxen >= 1.1
+jcl-over-slf4j
+jdom >= 1.0
+junit
+jython
+log4j-over-slf4j
+rhino >= 1.6
+saxpath
+slf4j
+xalan-j2 >= 2.7.0

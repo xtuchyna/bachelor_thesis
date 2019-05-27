@@ -1,0 +1,11 @@
+python2-devel
+python2dist(h5py)
+python2dist(numpy)
+python2dist(pytest)
+python2dist(pytest-runner)
+python3-devel
+python3-sphinx
+python3dist(h5py)
+python3dist(numpy)
+python3dist(pytest)
+python3dist(pytest-runner)

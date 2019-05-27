@@ -1,0 +1,8 @@
+gcc
+python2-devel >= 2.6
+python2-mock
+python2-pytest
+python2-setuptools
+python3-devel
+python3-pytest
+python3-setuptools

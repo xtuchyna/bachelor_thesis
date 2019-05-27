@@ -1,0 +1,11 @@
+maven-local
+mvn(com.googlecode.juniversalchardet:juniversalchardet)
+mvn(junit:junit)
+mvn(net.java.dev.jna:jna)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.easymock:easymock)
+mvn(org.fusesource.jansi:jansi)
+mvn(org.powermock:powermock-api-easymock)
+mvn(org.powermock:powermock-module-junit4)
+mvn(org.sonatype.oss:oss-parent:pom:)

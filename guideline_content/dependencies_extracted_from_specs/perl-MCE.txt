@@ -1,0 +1,28 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Path)
+perl(Getopt::Long)
+perl(IO::Handle)
+perl(Scalar::Util)
+perl(Sereal) >= 3.015
+perl(Socket)
+perl(Storable) >= 2.04
+perl(Symbol)
+perl(Test::More) >= 0.88
+perl(Time::HiRes)
+perl(base)
+perl(bytes)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(threads::shared)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

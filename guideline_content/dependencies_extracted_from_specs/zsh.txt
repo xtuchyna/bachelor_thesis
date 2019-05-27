@@ -1,0 +1,12 @@
+autoconf
+coreutils
+gawk
+gcc
+gdbm-devel
+hostname
+libcap-devel
+ncurses-devel
+pcre-devel
+sed
+texi2html
+texinfo

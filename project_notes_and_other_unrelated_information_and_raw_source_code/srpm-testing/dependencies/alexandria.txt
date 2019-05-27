@@ -1,0 +1,9 @@
+GConf2
+desktop-file-utils
+gettext
+intltool
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+ruby(release)
+ruby-devel
+rubygem(rake)

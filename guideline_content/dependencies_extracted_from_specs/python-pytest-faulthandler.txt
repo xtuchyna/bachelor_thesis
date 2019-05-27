@@ -1,0 +1,7 @@
+python2-devel
+python2-faulthandler
+python2-pytest
+python2-pytest-mock
+python3-devel
+python3-pytest
+python3-pytest-mock

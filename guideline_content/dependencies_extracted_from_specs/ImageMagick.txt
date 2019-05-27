@@ -1,0 +1,30 @@
+OpenEXR-devel
+autoconf
+automake
+bzip2-devel
+djvulibre-devel
+fftw-devel
+freetype-devel
+gcc
+gcc-c++
+ghostscript-x11
+giflib-devel
+jasper-devel
+jbigkit-devel
+lcms2-devel
+libX11-devel
+libXext-devel
+libXt-devel
+libgs-devel
+libjpeg-devel
+libpng-devel
+librsvg2-devel
+libtiff-devel
+libtool-ltdl-devel
+libwebp-devel
+libwmf-devel
+libxml2-devel
+openjpeg2-devel >= 2.1.0
+perl-devel >= 5.8.1
+perl-generators
+zlib-devel

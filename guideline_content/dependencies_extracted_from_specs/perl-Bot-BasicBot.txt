@@ -1,0 +1,22 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IRC::Utils)
+perl(POE::Component::IRC::Plugin::Connector)
+perl(POE::Component::IRC::State) >= 6.90
+perl(POE::Filter::Line)
+perl(POE::Kernel)
+perl(POE::Session)
+perl(POE::Wheel::Run)
+perl(Test::More)
+perl(Text::Wrap)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

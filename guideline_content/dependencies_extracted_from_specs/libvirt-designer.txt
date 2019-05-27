@@ -1,0 +1,7 @@
+/usr/bin/pod2man
+gobject-introspection-devel
+libosinfo-devel >= 0.2.7
+libosinfo-vala >= 0.2.7
+libvirt-gconfig-devel >= 0.1.7
+libvirt-gobject-devel >= 0.1.3
+vala-tools

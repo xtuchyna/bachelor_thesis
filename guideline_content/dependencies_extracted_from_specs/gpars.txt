@@ -1,0 +1,7 @@
+apache-parent
+extra166y
+gradle-local >= 2.1-0.10
+groovy-lib
+jcsp
+multiverse
+netty3

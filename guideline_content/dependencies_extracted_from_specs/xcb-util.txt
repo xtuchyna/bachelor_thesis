@@ -1,0 +1,1 @@
+pkgconfig(xcb) >= 1.4

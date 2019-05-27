@@ -1,0 +1,4 @@
+rrdtool-devel
+ruby
+ruby(release)
+ruby-devel

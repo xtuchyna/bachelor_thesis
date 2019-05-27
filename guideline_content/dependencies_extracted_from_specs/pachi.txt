@@ -1,0 +1,3 @@
+ImageMagick
+SDL_mixer-devel
+desktop-file-utils

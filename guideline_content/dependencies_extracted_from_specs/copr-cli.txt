@@ -1,0 +1,10 @@
+asciidoc
+libxslt
+python3-copr
+python3-devel
+python3-jinja2
+python3-pylint
+python3-pytest
+python3-setuptools
+python3-simplejson
+util-linux

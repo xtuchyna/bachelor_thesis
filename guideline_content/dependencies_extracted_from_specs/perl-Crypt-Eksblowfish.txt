@@ -1,0 +1,19 @@
+findutils
+gcc
+perl(Carp)
+perl(Class::Mix) >= 0.001
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::CBuilder) >= 0.15
+perl(MIME::Base64) >= 2.21
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod) >= 1
+perl(Test::Pod::Coverage)
+perl(XSLoader)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

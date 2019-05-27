@@ -1,0 +1,18 @@
+ant >= 1.6
+ant-apache-resolver
+apache-commons-discovery
+apache-commons-logging >= 1.0.1
+bcel >= 5.0
+coreutils
+docbook-dtds >= 1.0
+docbook-style-xsl >= 1.61
+dos2unix
+javamail >= 1.2-5jpp
+javapackages-local
+jpackage-utils > 1.6
+log4j >= 1.2.7
+wsdl4j
+xerces-j2
+xml-commons
+xml-commons-apis
+xml-commons-resolver

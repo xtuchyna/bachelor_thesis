@@ -1,0 +1,16 @@
+coreutils
+findutils
+perl(Carp)
+perl(Exporter)
+perl(List::Util)
+perl(Module::Build)
+perl(Scalar::Util)
+perl(Socket)
+perl(Test::More)
+perl(Test::Warn)
+perl(bytes)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

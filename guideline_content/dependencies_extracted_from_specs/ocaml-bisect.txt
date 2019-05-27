@@ -1,0 +1,5 @@
+ocaml >= 3.10.0
+ocaml-camlp4-devel
+ocaml-findlib-devel
+ocaml-ocamlbuild
+ocaml-ocamldoc

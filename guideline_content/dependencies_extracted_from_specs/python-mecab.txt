@@ -1,0 +1,3 @@
+mecab-devel = 0.996
+mecab-jumandic
+python2-devel

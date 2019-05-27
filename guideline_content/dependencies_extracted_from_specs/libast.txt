@@ -1,0 +1,6 @@
+autoconf
+automake
+imlib2-devel
+libXt-devel
+libtool
+pcre-devel

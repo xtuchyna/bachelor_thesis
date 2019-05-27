@@ -1,0 +1,6 @@
+bash-completion
+python3-devel
+python3-flake8-import-order
+python3-pytest
+rpm-python3 >= 4.4.2.2
+sed >= 3.95

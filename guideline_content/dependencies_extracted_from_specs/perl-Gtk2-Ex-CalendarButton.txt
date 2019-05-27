@@ -1,0 +1,16 @@
+coreutils
+findutils
+font(:lang=en)
+make
+perl(Config)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(Glib)
+perl(Gtk2)
+perl(Gtk2::TestHelper)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+xorg-x11-server-Xvfb

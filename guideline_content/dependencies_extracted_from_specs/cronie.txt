@@ -1,0 +1,4 @@
+audit-libs-devel >= 1.4.1
+libselinux-devel >= 2.0.64
+pam-devel >= 1.0.1
+systemd

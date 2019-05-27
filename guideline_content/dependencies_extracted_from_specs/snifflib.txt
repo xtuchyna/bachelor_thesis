@@ -1,0 +1,7 @@
+ant
+ant-contrib
+ant-junit
+desktop-file-utils
+groovy
+javapackages-local
+mysql-connector-java

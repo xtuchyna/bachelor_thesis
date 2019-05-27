@@ -1,0 +1,4 @@
+compat-guile18-devel >= 1.8
+desktop-file-utils
+readline-devel
+vte-devel

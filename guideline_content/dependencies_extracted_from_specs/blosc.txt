@@ -1,0 +1,5 @@
+cmake
+libzstd-devel
+lz4-devel
+snappy-devel
+zlib-devel

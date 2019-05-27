@@ -1,0 +1,9 @@
+python3-devel
+python3-flexmock
+python3-pykwalify
+python3-pytest
+python3-ruamel-yaml
+python3-setuptools
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+systemd

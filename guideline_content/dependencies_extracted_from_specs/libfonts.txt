@@ -1,0 +1,5 @@
+ant
+ant-contrib
+java-devel
+jpackage-utils
+libloader >= 1.1.3

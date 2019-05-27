@@ -1,0 +1,7 @@
+goocanvas-devel
+ruby
+ruby-devel
+rubygem-cairo-devel
+rubygem-gdk_pixbuf2 >= 2.0.0
+rubygem-gtk2-devel >= 2.0.0
+rubygems-devel

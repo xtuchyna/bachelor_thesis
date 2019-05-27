@@ -1,0 +1,4 @@
+perl(ExtUtils::MakeMaker)
+perl(IO::Socket::SSL)
+perl(Test::More)
+perl-generators

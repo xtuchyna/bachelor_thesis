@@ -1,0 +1,4 @@
+git-core
+gnupg2
+perl-generators
+tree >= 1.7.0

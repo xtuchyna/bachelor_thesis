@@ -1,0 +1,15 @@
+bzip2
+chrpath
+ocaml
+ocaml-camlp4-devel
+ocaml-curl-devel
+ocaml-expat-devel
+ocaml-findlib-devel
+ocaml-num-devel
+ocaml-ocamldoc
+ocaml-ocamlnet-devel >= 3.4
+ocaml-pcre-devel
+ocaml-pxp-devel >= 1.2.2
+ocaml-ulex-devel
+pcre-devel
+rpm >= 4.4.2.3-2

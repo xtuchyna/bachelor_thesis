@@ -1,0 +1,5 @@
+cmake >= 2.8.8
+doxygen
+pkgconfig(Qt5Core)
+pkgconfig(QtCore)
+xorg-x11-server-Xvfb

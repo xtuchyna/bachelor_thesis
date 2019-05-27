@@ -1,0 +1,15 @@
+findutils
+gcc
+make
+perl(:VERSION) >= 5.6.0
+perl(ExtUtils::MakeMaker)
+perl(Math::BigFloat)
+perl(Math::BigInt) >= 1.999808
+perl(Math::BigInt::Calc) >= 1.999801
+perl(Test::More) >= 0.82
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

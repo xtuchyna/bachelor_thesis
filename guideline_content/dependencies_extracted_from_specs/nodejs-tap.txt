@@ -1,0 +1,11 @@
+nodejs-packaging
+npm(buffer-equal)
+npm(deep-equal)
+npm(difflet)
+npm(glob)
+npm(inherits) = 1.0.0
+npm(mkdirp)
+npm(nopt)
+npm(runforcover)
+npm(slide)
+npm(yamlish)

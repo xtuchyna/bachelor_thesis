@@ -1,0 +1,5 @@
+bison
+libpcap-devel
+nessus-libraries-devel >= 2.2.11
+texlive-collection-basic
+texlive-collection-latex

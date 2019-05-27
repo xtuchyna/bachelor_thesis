@@ -1,0 +1,8 @@
+expat-devel
+node-gyp
+nodejs-packaging
+npm(bindings)
+npm(debug)
+npm(iconv)
+npm(nan) >= 2.0.9
+npm(vows)

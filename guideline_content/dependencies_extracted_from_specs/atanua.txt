@@ -1,0 +1,11 @@
+GLee-devel
+desktop-file-utils
+gcc-c++
+libappstream-glib
+mesa-libGL-devel
+mesa-libGLU-devel
+pkgconfig(glib-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(sdl)
+stbi-devel
+tinyxml-devel

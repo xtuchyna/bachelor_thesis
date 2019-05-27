@@ -1,0 +1,9 @@
+GConf2
+ORBit2-devel
+desktop-file-utils
+gdk-pixbuf2-xlib-devel
+gettext-devel
+intltool
+libappstream-glib
+libgnomeui-devel
+libv4l-devel

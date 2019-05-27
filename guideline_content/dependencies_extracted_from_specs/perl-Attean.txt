@@ -1,0 +1,79 @@
+coreutils
+make
+perl(:VERSION) >= 5.14
+perl(Algorithm::Combinatorics)
+perl(Carp)
+perl(Data::Dumper)
+perl(Data::UUID)
+perl(DateTime::Format::W3CDTF)
+perl(Digest)
+perl(Digest::MD5)
+perl(Digest::SHA)
+perl(Encode)
+perl(Exporter)
+perl(File::Glob)
+perl(File::Slurp)
+perl(File::Spec)
+perl(FindBin)
+perl(Getopt::Long)
+perl(HTTP::Message::PSGI)
+perl(HTTP::Negotiate)
+perl(HTTP::Request)
+perl(HTTP::Response)
+perl(I18N::LangTags)
+perl(IRI) >= 0.005
+perl(JSON)
+perl(LWP::UserAgent)
+perl(List::MoreUtils)
+perl(List::Util)
+perl(Math::Cartesian::Product) >= 1.008
+perl(Module::Install::Metadata)
+perl(Module::Install::Scripts)
+perl(Module::Load::Conditional)
+perl(Module::Pluggable)
+perl(Moo) >= 2.000002
+perl(Moo::Role)
+perl(MooX::Log::Any)
+perl(POSIX)
+perl(Regexp::Common)
+perl(Role::Tiny) >= 2.000003
+perl(Scalar::Util)
+perl(Set::Scalar)
+perl(Sub::Install)
+perl(Sub::Util) >= 1.4
+perl(Test::Exception)
+perl(Test::LWP::UserAgent)
+perl(Test::Modern) >= 0.012
+perl(Test::Moose)
+perl(Test::More) >= 0.88
+perl(Test::Roo)
+perl(Test::Roo::Role)
+perl(Text::CSV)
+perl(Time::HiRes)
+perl(Try::Tiny)
+perl(Type::Tiny)
+perl(Type::Tiny::Role)
+perl(Types::Common::String)
+perl(Types::Standard)
+perl(URI::Escape) >= 1.36
+perl(URI::Namespace)
+perl(URI::NamespaceMap) >= 0.12
+perl(URI::file)
+perl(XML::SAX)
+perl(XML::SAX::Base)
+perl(XML::SAX::ParserFactory)
+perl(XML::Simple)
+perl(autodie)
+perl(base)
+perl(constant)
+perl(feature)
+perl(inc::Module::Install)
+perl(namespace::clean)
+perl(open)
+perl(sort)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

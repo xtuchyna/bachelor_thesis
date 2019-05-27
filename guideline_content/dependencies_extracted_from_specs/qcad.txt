@@ -1,0 +1,23 @@
+chrpath
+dbus-devel
+desktop-file-utils
+fontconfig-devel
+freetype-devel
+gcc-c++
+libSM-devel
+libX11-devel
+libXext-devel
+libXrender-devel
+libappstream-glib
+mesa-libGLU-devel
+openssl-devel
+qt5-qtbase-devel >= 5.9.0
+qt5-qtscript-devel >= 5.9.0
+qt5-qtsvg-devel >= 5.9.0
+qt5-qttools-devel >= 5.9.0
+qt5-qttools-static >= 5.9.0
+qt5-qtwebkit-devel >= 5.9.0
+qt5-qtxmlpatterns-devel >= 5.9.0
+qt5-rpm-macros >= 5.9.0
+quazip-qt5-devel
+spatialindex-devel

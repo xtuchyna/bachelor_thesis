@@ -1,0 +1,16 @@
+/usr/bin/tclsh
+autoconf
+automake
+libtool
+mingw32-binutils
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-pdcurses
+mingw32-readline
+mingw32-termcap
+mingw64-binutils
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-pdcurses
+mingw64-readline
+mingw64-termcap

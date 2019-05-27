@@ -1,0 +1,7 @@
+php(language) >= 5.3
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-dom
+php-hash
+php-mcrypt
+php-openssl

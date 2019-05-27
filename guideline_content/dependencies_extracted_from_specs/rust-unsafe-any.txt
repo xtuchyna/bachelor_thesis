@@ -1,0 +1,2 @@
+(crate(traitobject) >= 0.1.0 with crate(traitobject) < 0.2.0)
+rust-packaging

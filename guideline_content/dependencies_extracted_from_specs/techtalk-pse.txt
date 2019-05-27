@@ -1,0 +1,9 @@
+/usr/bin/pod2man
+perl(Getopt::Long)
+perl(Glib)
+perl(Glib::Object::Introspection)
+perl(Gtk3)
+perl(Gtk3::WebKit)
+perl(Pod::Usage)
+perl-generators
+vte291

@@ -1,0 +1,4 @@
+rubygem(systemu) < 2.7
+rubygem(systemu) >= 2.6.2
+rubygem(test-unit)
+rubygems-devel

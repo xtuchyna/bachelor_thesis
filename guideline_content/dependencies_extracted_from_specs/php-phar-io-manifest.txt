@@ -1,0 +1,12 @@
+php(language) >= 5.6
+php-composer(phar-io/version) < 2
+php-composer(phar-io/version) >= 1.0.1
+php-dom
+php-fedora-autoloader-devel >= 1.0.0
+php-filter
+php-libxml
+php-pcre
+php-phar
+php-spl
+php-xmlwriter
+phpunit6

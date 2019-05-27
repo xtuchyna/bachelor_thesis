@@ -1,0 +1,5 @@
+maven-local
+mvn(com.vividsolutions:jts)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.noggit:noggit)
+mvn(org.sonatype.oss:oss-parent:pom:)

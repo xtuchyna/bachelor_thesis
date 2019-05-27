@@ -1,0 +1,24 @@
+coreutils
+findutils
+make
+perl(Any::Moose) >= 0.13
+perl(Data::Dumper)
+perl(List::Util)
+perl(Module::Install::Makefile)
+perl(Module::Install::Metadata)
+perl(Module::Install::TestTarget) >= 0.19
+perl(Module::Install::WriteAll)
+perl(Mouse) >= 0.82
+perl(Mouse::Role)
+perl(Mouse::Util::TypeConstraints)
+perl(Test::Fatal) >= 0.003
+perl(Test::More) >= 0.88
+perl(Test::Mouse)
+perl(Tie::Hash)
+perl(inc::Module::Install) >= 1.06
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

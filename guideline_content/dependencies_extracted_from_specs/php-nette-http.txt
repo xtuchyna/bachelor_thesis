@@ -1,0 +1,13 @@
+php(language) >= 5.6
+php-composer(nette/di) >= 2.4.6
+php-composer(nette/tester) >= 2.0
+php-composer(nette/utils) >= 2.4
+php-composer(theseer/autoload)
+php-composer(tracy/tracy) >= 2.4
+php-date
+php-fileinfo
+php-filter
+php-json
+php-pcre
+php-session
+php-spl

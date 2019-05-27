@@ -1,0 +1,10 @@
+ImageMagick
+ant
+bsf
+desktop-file-utils
+glassfish-servlet-api
+javacc
+javapackages-local
+junit
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

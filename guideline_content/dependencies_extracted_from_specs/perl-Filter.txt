@@ -1,0 +1,21 @@
+coreutils
+findutils
+gcc
+make
+perl(:VERSION) >= 5.6
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Getopt::Long)
+perl(POSIX)
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.00
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

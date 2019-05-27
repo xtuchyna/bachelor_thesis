@@ -1,0 +1,6 @@
+(crate(md5) >= 0.3.0 with crate(md5) < 0.4.0)
+(crate(rand) >= 0.4.0 with crate(rand) < 0.5.0)
+(crate(rustc-serialize) >= 0.3.0 with crate(rustc-serialize) < 0.4.0)
+(crate(serde) >= 1.0.0 with crate(serde) < 2.0.0)
+(crate(sha1) >= 0.4.0 with crate(sha1) < 0.5.0)
+rust-packaging

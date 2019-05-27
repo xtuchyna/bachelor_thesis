@@ -1,0 +1,5 @@
+clang-devel
+libedit-devel
+llvm-devel >= 3.7
+python
+zlib-devel

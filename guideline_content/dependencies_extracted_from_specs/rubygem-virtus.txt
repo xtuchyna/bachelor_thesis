@@ -1,0 +1,13 @@
+ruby(release)
+rubygem(axiom-types) < 1
+rubygem(axiom-types) >= 0.1
+rubygem(bogus)
+rubygem(coercible) < 2
+rubygem(coercible) >= 1.0
+rubygem(descendants_tracker) < 1
+rubygem(descendants_tracker) >= 0.0.3
+rubygem(equalizer) < 1
+rubygem(equalizer) >= 0.0.9
+rubygem(inflecto)
+rubygem(rspec)
+rubygems-devel

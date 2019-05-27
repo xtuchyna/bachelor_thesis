@@ -1,0 +1,10 @@
+python-lxml
+python-setuptools
+python-sphinx
+python-zope-interface
+python2-devel
+python3-devel
+python3-lxml
+python3-setuptools
+python3-sphinx
+python3-zope-interface

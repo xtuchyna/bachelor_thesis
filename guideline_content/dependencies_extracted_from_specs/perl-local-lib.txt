@@ -1,0 +1,26 @@
+coreutils
+make
+perl(CPAN)
+perl(CPAN::HandleConfig)
+perl(Carp)
+perl(Carp::Heavy)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 7.00
+perl(File::Basename)
+perl(File::Glob)
+perl(File::HomeDir)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(IPC::Open3)
+perl(Test::More)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

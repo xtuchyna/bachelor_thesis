@@ -1,0 +1,6 @@
+ruby(release)
+ruby-devel
+rubygem(bigdecimal)
+rubygem(rake)
+rubygem(test-unit)
+rubygems-devel

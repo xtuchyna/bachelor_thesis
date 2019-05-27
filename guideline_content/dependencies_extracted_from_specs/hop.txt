@@ -1,0 +1,7 @@
+avahi-devel
+bigloo >= 4.3a
+ctags-etags
+mailcap
+openssl-devel
+pcre-devel
+sqlite-devel

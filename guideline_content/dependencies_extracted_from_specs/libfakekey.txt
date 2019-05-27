@@ -1,0 +1,3 @@
+gcc
+libXi-devel
+libXtst-devel

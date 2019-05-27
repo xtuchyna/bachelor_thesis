@@ -1,0 +1,14 @@
+coreutils
+findutils
+glibc-common
+make
+perl(ExtUtils::MakeMaker)
+perl(FileHandle)
+perl(Test)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

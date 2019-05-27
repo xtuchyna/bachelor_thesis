@@ -1,0 +1,7 @@
+asciidoc
+fuse-devel
+glib2-devel
+gmp-devel
+gobject-introspection-devel
+libcurl-devel
+openssl-devel

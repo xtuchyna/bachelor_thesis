@@ -1,0 +1,8 @@
+desktop-file-utils
+gettext
+git
+libappstream-glib
+python3-PyQt4-devel
+python3-devel
+python3-sphinx
+xmlto

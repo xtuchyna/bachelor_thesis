@@ -1,0 +1,5 @@
+libssh2-devel
+openssl-devel
+python2-devel
+python3-devel
+zlib-devel

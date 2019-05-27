@@ -1,0 +1,11 @@
+/usr/bin/pod2man
+intltool
+pkgconfig(glib-2.0) >= 2.38
+pkgconfig(govirt-1.0) >= 0.3.2
+pkgconfig(gtk+-3.0) >= 3.12
+pkgconfig(gtk-vnc-2.0) >= 0.4.0
+pkgconfig(libvirt) >= 0.10.0
+pkgconfig(libvirt-glib-1.0) >= 0.1.8
+pkgconfig(libxml-2.0) >= 2.6.0
+pkgconfig(spice-client-gtk-3.0) >= 0.33
+pkgconfig(spice-protocol) >= 0.12.7

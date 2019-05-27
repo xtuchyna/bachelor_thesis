@@ -1,0 +1,10 @@
+perl(Carp)
+perl(Module::Build::Tiny) >= 0.023
+perl(Moose)
+perl(Moose::Role)
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

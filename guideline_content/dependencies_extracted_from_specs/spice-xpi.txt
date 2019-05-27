@@ -1,0 +1,1 @@
+xulrunner-devel >= 8.0

@@ -1,0 +1,4 @@
+emacs
+emacs-auto-complete
+nodejs-packaging
+npm(acorn)

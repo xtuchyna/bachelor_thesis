@@ -1,0 +1,13 @@
+ghc-Cabal-devel
+ghc-async-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-hinotify-devel
+ghc-rpm-macros
+ghc-tasty-devel
+ghc-tasty-hunit-devel
+ghc-temporary-devel
+ghc-text-devel
+ghc-time-devel
+ghc-unix-compat-devel

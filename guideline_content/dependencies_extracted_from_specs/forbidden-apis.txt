@@ -1,0 +1,5 @@
+ant
+dos2unix
+java-devel
+maven-local
+objectweb-asm >= 5

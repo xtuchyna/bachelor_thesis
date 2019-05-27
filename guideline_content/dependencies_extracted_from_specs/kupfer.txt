@@ -1,0 +1,6 @@
+binutils
+desktop-file-utils
+gnome-doc-utils
+intltool
+python2-docutils
+waf

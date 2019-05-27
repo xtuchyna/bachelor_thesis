@@ -1,0 +1,14 @@
+coreutils
+gcc
+giflib-devel
+glib-devel
+gtk+-devel
+libX11-devel
+libXt-devel
+libjpeg-devel
+libpng-devel >= 1.2.2
+libtiff-devel
+make
+sed
+tar
+zlib-devel

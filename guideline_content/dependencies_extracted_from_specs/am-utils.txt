@@ -1,0 +1,16 @@
+autoconf
+automake
+bison
+flex
+gcc
+gdbm-devel
+hesiod-devel
+kernel-headers
+libnsl2-devel
+libtirpc-devel
+libtool
+m4
+openldap-devel
+rpcsvc-proto-devel
+systemd-units
+texinfo

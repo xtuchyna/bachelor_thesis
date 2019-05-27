@@ -1,0 +1,8 @@
+mocha
+nodejs-packaging
+npm(arr-union)
+npm(cache-base)
+npm(class-utils)
+npm(mixin-deep)
+npm(pascalcase)
+npm(through2)

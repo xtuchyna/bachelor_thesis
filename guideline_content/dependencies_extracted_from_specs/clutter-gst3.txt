@@ -1,0 +1,13 @@
+/usr/bin/chrpath
+pkgconfig(clutter-1.0)
+pkgconfig(cogl-2.0-experimental)
+pkgconfig(gio-2.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gstreamer-1.0)
+pkgconfig(gstreamer-audio-1.0)
+pkgconfig(gstreamer-base-1.0)
+pkgconfig(gstreamer-pbutils-1.0)
+pkgconfig(gstreamer-plugins-base-1.0)
+pkgconfig(gstreamer-tag-1.0)
+pkgconfig(gstreamer-video-1.0)
+pkgconfig(gudev-1.0)

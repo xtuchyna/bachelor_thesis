@@ -1,0 +1,5 @@
+compat-lua-devel >= 5.1
+lua
+lua-devel
+openldap-devel
+openldap-servers

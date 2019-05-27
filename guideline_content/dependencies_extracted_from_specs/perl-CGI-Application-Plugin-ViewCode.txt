@@ -1,0 +1,9 @@
+perl(CGI)
+perl(CGI::Application)
+perl(Module::Build)
+perl(Pod::Xhtml)
+perl(Syntax::Highlight::Perl::Improved)
+perl(Test::LongString)
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

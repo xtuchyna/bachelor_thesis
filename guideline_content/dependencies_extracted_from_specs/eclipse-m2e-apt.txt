@@ -1,0 +1,12 @@
+maven-local
+mvn(org.eclipse.tycho.extras:tycho-source-feature-plugin)
+mvn(org.eclipse.tycho:target-platform-configuration)
+mvn(org.eclipse.tycho:tycho-maven-plugin)
+mvn(org.eclipse.tycho:tycho-p2-plugin)
+mvn(org.eclipse.tycho:tycho-source-plugin)
+osgi(org.eclipse.jdt.core)
+osgi(org.eclipse.license)
+osgi(org.eclipse.m2e.core)
+osgi(org.eclipse.wst.sse.core)
+osgi(org.eclipse.wst.xml.core)
+osgi(slf4j.api)

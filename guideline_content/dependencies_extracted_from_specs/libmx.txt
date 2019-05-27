@@ -1,0 +1,10 @@
+clutter-devel
+dbus-glib-devel
+gdk-pixbuf2-devel
+gettext
+gobject-introspection-devel
+gtk-doc
+gtk2-devel
+intltool
+pkgconfig
+startup-notification-devel

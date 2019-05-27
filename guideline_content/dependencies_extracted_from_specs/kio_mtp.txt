@@ -1,0 +1,3 @@
+gettext
+kdelibs4-devel
+libmtp-devel

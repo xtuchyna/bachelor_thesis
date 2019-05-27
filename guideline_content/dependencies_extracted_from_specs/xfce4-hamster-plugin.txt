@@ -1,0 +1,6 @@
+gettext
+intltool
+libtool
+libxfce4ui-devel
+xfce4-panel-devel
+xfconf-devel

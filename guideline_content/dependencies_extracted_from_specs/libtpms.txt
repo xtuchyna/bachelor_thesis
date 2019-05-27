@@ -1,0 +1,12 @@
+autoconf
+automake
+bash
+coreutils
+gawk
+gmp-devel
+libtool
+nss-devel >= 3.12.9-2
+nss-softokn-devel >= 3.12.9-2
+nss-softokn-freebl-devel >= 3.12.9-2
+nss-softokn-freebl-static >= 3.12.9-2
+pkgconfig

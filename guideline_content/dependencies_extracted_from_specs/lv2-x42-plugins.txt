@@ -1,0 +1,18 @@
+cairo-devel
+fftw3-devel
+ftgl-devel
+gcc-c++
+glib2-devel
+gnu-free-mono-fonts
+gnu-free-sans-fonts
+gnu-free-serif-fonts
+gtk2-devel
+jack-audio-connection-kit-devel
+libltc-devel
+libsamplerate-devel
+libsndfile-devel
+lv2-devel >= 1.8.1
+pango-devel
+pkgconfig(ftgl)
+pkgconfig(glu)
+zita-convolver-devel

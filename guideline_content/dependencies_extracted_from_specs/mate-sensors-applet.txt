@@ -1,0 +1,8 @@
+dbus-glib-devel
+gtk3-devel
+libXNVCtrl-devel
+libatasmart-devel
+libnotify-devel
+lm_sensors-devel
+mate-common
+mate-panel-devel

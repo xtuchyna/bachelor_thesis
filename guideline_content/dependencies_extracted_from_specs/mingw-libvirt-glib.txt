@@ -1,0 +1,8 @@
+intltool
+mingw32-filesystem >= 95
+mingw32-glib2
+mingw32-libvirt >= 0.9.10
+mingw64-filesystem >= 95
+mingw64-glib2
+mingw64-libvirt >= 0.9.10
+pkgconfig

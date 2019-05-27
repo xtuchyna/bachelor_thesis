@@ -1,0 +1,3 @@
+compiler(go-compiler)
+golang(github.com/circonus-labs/circonusllhist)
+golang(github.com/hashicorp/go-retryablehttp)

@@ -1,0 +1,8 @@
+python2-cssutils
+python2-devel
+python2-docopt
+python2-requests
+python3-cssutils
+python3-devel
+python3-docopt
+python3-requests

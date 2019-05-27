@@ -1,0 +1,7 @@
+asciidoc
+autoconf
+automake
+gcc
+libtool
+pkgconfig(dbus-1)
+readline-devel

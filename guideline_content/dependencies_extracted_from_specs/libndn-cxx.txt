@@ -1,0 +1,8 @@
+boost-devel
+boost-python-devel
+cryptopp-devel
+openssl-devel
+pkgconfig
+python-devel
+python2-devel
+sqlite-devel

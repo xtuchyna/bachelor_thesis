@@ -1,0 +1,18 @@
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Lingua::EN::Inflect::Phrase)
+perl(Test::More)
+perl(Text::Unidecode)
+perl(Unicode::UCD)
+perl(base)
+perl(lib)
+perl(namespace::clean)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

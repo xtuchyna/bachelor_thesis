@@ -1,0 +1,14 @@
+compat-openssl10-devel
+desktop-file-utils
+gcc
+gettext
+glibc-common
+gnome-doc-utils
+gtk2-devel
+krb5-devel
+libgcrypt-devel
+libglade2-devel
+libgnome-keyring-devel
+libxml2-devel
+openldap-devel
+perl(XML::Parser)

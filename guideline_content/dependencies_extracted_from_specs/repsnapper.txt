@@ -1,0 +1,20 @@
+amftools-devel
+cairomm-devel
+desktop-file-utils
+freeglut-devel
+gettext
+glib2-devel
+glibmm24-devel
+gtkglext-devel
+gtkglextmm-devel >= 1.2
+gtkmm24-devel
+intltool
+libtool
+libxml++-devel
+libzip-devel
+lmfit-devel
+muParser-devel
+poly2tri-devel
+polyclipping-devel >= 6.1.0
+rapidxml-devel
+vmmlib-devel

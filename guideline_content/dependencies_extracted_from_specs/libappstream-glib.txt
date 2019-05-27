@@ -1,0 +1,23 @@
+docbook-style-xsl
+docbook-utils
+fontconfig-devel
+freetype-devel
+gcab
+gdk-pixbuf2-devel >= 2.31.5
+gettext
+glib2-devel >= 2.45.8
+gobject-introspection-devel
+gperf
+gtk-doc
+gtk3-devel
+json-glib-devel >= 1.1.1
+libarchive-devel
+libgcab1-devel
+libsoup-devel >= 2.51.92
+libstemmer-devel
+libuuid-devel
+libxslt
+meson
+pango-devel
+rpm-devel
+sqlite-devel

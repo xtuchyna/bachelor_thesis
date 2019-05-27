@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Spec)
+perl(Perl::Critic::Policy) >= 1.07
+perl(Perl::Critic::TestUtils)
+perl(Perl::Critic::Utils)
+perl(Readonly)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

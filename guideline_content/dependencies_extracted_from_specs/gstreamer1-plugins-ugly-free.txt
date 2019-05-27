@@ -1,0 +1,11 @@
+autoconf
+automake
+check
+gettext-devel
+gstreamer1-devel >= 1.14.0
+gstreamer1-plugins-base-devel >= 1.14.0
+gtk-doc
+liba52-devel
+libcdio-devel
+libdvdread-devel
+libtool

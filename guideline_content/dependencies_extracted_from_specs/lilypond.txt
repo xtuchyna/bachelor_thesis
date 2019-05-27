@@ -1,0 +1,22 @@
+ImageMagick
+bison
+compat-guile18-devel
+dblatex
+flex
+fontpackages-devel
+gettext
+ghostscript >= 8.15
+mftrace >= 1.1.19
+pango-devel >= 1.12.0
+perl(Math::Trig)
+perl-Pod-Parser
+python2-devel >= 2.4.0
+rsync
+t1utils
+texi2html
+texinfo >= 4.8
+texinfo-tex
+texlive-lh
+texlive-metapost
+texlive-tetex
+texlive-tex-gyre

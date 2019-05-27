@@ -1,0 +1,12 @@
+NetworkManager-glib-devel >= 1.2.0
+dbus-devel
+gettext
+glib2-devel
+gtk3-devel
+intltool
+libnm-gtk-devel >= 1.2.0
+libnma-devel >= 1.2.0
+libsecret-devel
+libtool
+ppp-devel >= 2.4.6
+sstp-client-devel

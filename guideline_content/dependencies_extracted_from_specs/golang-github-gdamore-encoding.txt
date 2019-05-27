@@ -1,0 +1,4 @@
+compiler(go-compiler)
+golang(github.com/smartystreets/goconvey/convey)
+golang(golang.org/x/text/encoding)
+golang(golang.org/x/text/transform)

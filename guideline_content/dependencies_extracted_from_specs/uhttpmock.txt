@@ -1,0 +1,7 @@
+glib2-devel >= 2.31.0
+gobject-introspection-devel
+gtk-doc
+intltool
+libsoup-devel >= 2.37.91
+vala-devel
+vala-tools

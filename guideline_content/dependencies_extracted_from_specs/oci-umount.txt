@@ -1,0 +1,8 @@
+autoconf
+automake
+gcc
+golang-github-cpuguy83-go-md2man
+pcre-devel
+pkgconfig(libselinux)
+pkgconfig(mount)
+pkgconfig(yajl)

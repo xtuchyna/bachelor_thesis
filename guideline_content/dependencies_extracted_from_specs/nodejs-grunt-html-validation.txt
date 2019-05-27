@@ -1,0 +1,5 @@
+nodejs-packaging >= 6
+npm(grunt)
+npm(grunt-contrib-clean)
+npm(grunt-contrib-nodeunit)
+npm(w3cjs)

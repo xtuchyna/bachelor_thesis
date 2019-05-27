@@ -1,0 +1,8 @@
+doxygen
+gcc
+kernel-headers
+libpcap-devel
+libvirt-devel
+numactl-devel
+python2-sphinx
+zlib-devel

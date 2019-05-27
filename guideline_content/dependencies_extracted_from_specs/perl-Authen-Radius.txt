@@ -1,0 +1,24 @@
+coreutils
+findutils
+make
+perl(Config)
+perl(Data::Dumper) >= 1
+perl(Data::HexDump) >= 0.02
+perl(Digest::MD5) >= 2.20
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(FileHandle)
+perl(IO) >= 1.12
+perl(IO::Select)
+perl(IO::Socket)
+perl(Net::IP) >= 1.26
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Time::HiRes)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

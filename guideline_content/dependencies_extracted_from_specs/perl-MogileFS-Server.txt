@@ -1,0 +1,51 @@
+coreutils
+make
+perl(Carp)
+perl(DBD::SQLite) >= 1.13
+perl(DBI)
+perl(Danga::Socket) >= 1.56
+perl(Data::Dumper)
+perl(Digest)
+perl(Digest::MD5)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Path)
+perl(File::Temp)
+perl(FindBin)
+perl(Getopt::Long)
+perl(HTTP::Request)
+perl(HTTP::Response)
+perl(IO::AIO) >= 1.6
+perl(IO::Handle)
+perl(IO::Socket)
+perl(IO::Socket::INET)
+perl(LWP::UserAgent)
+perl(List::Util)
+perl(MIME::Base64)
+perl(MogileFS::Admin)
+perl(MogileFS::Client)
+perl(Net::HTTP::NB)
+perl(Net::Netmask)
+perl(POSIX)
+perl(Socket)
+perl(Symbol)
+perl(Sys::Hostname)
+perl(Sys::Syscall) >= 0.22
+perl(Sys::Syslog)
+perl(Test::More) >= 0.88
+perl(Time::HiRes)
+perl(base)
+perl(constant)
+perl(fields)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-MogileFS-Utils
+perl-generators
+perl-interpreter
+sed
+systemd

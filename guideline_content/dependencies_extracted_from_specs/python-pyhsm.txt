@@ -1,0 +1,6 @@
+python2-crypto
+python2-daemon
+python2-devel
+python2-pyserial
+python2-setuptools
+python2-sqlalchemy

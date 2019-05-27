@@ -1,0 +1,8 @@
+SDL-devel >= 1.2.0
+SDL_image-devel
+SDL_ttf-devel
+autoconf
+automake
+desktop-file-utils
+fontconfig-devel
+libappstream-glib

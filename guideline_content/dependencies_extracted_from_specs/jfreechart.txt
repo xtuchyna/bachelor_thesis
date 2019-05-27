@@ -1,0 +1,7 @@
+ant
+eclipse-swt
+maven-local
+maven-plugin-bundle
+mvn(javax.servlet:javax.servlet-api) >= 2.5
+mvn(org.jfree:jcommon) >= 1.0.23
+sonatype-oss-parent

@@ -1,0 +1,7 @@
+perl(Exporter::Lite) >= 0.01
+perl(ExtUtils::MakeMaker)
+perl(Test::More) >= 0.47
+perl(lib)
+perl(strict)
+perl-generators
+perl-interpreter

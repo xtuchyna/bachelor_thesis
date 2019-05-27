@@ -1,0 +1,21 @@
+autoconf
+autogen
+automake
+binutils
+bison
+bzip2-devel
+dejavu-sans-fonts
+device-mapper-devel
+flex
+freetype-devel
+gettext-devel
+git
+help2man
+libusb-devel
+ncurses-devel
+pesign >= 0.99-8
+python
+rpm-devel
+rpm-libs
+texinfo
+xz-devel

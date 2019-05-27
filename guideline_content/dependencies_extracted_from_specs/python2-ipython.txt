@@ -1,0 +1,28 @@
+python2-Cython
+python2-backports-shutil_get_terminal_size
+python2-decorator
+python2-devel
+python2-ipykernel
+python2-jsonschema
+python2-jupyter-client
+python2-matplotlib
+python2-mistune >= 0.3.1
+python2-mock
+python2-nbformat
+python2-nose
+python2-path
+python2-pathlib
+python2-pexpect
+python2-pickleshare
+python2-prompt_toolkit
+python2-pygments
+python2-pymongo
+python2-pytest
+python2-requests
+python2-simplegeneric
+python2-sphinx
+python2-testpath
+python2-traitlets >= 4.2
+python2-zmq
+python2-zmq-tests
+xorg-x11-server-Xvfb

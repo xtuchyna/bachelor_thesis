@@ -1,0 +1,3 @@
+(crate(either) >= 1.0.0 with crate(either) < 2.0.0)
+(crate(rayon-core) >= 1.4.0 with crate(rayon-core) < 2.0.0)
+rust-packaging

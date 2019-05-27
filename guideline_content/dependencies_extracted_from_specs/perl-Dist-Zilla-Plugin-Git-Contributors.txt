@@ -1,0 +1,38 @@
+make
+perl(:VERSION) >= 5.8
+perl(Data::Dumper)
+perl(Dist::Zilla) >= 4.300039
+perl(Dist::Zilla::Plugin::PodWeaver)
+perl(Dist::Zilla::Role::MetaProvider)
+perl(Dist::Zilla::Role::PrereqSource)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(Git::Wrapper) >= 0.035
+perl(List::Util) >= 1.33
+perl(List::UtilsBy) >= 0.04
+perl(Module::Metadata)
+perl(Module::Runtime::Conflicts)
+perl(Moose)
+perl(Moose::Conflicts)
+perl(Moose::Util::TypeConstraints)
+perl(Path::Tiny) >= 0.048
+perl(Pod::Weaver::Section::Contributors)
+perl(Sort::Versions)
+perl(Test::DZil)
+perl(Test::Deep)
+perl(Test::Fatal)
+perl(Test::More) >= 0.88
+perl(Test::Needs)
+perl(Try::Tiny)
+perl(Unicode::Collate) >= 0.53
+perl(if)
+perl(lib)
+perl(namespace::autoclean)
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

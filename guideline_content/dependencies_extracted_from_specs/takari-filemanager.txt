@@ -1,0 +1,9 @@
+maven-local
+mvn(com.googlecode.multithreadedtc:multithreadedtc)
+mvn(io.takari.maven.plugins:takari-lifecycle-plugin)
+mvn(io.takari:takari:pom:)
+mvn(javax.inject:javax.inject)
+mvn(junit:junit)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-simple)
+mvn(org.sonatype.plugins:sisu-maven-plugin)

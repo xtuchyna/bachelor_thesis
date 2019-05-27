@@ -1,0 +1,7 @@
+gawk
+gettext
+libattr-devel
+libtool
+libuuid-devel
+ncurses-devel
+xfsprogs-devel

@@ -1,0 +1,7 @@
+bison
+flex
+gcc
+make
+python2-devel
+python2-setuptools
+swig

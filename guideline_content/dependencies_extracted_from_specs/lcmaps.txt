@@ -1,0 +1,8 @@
+bison
+flex
+globus-common-devel
+globus-core
+globus-gsi-credential-devel
+globus-gss-assist-devel
+globus-gssapi-gsi-devel
+voms-devel

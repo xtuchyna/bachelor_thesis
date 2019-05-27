@@ -1,0 +1,9 @@
+cln-devel
+fftw2-devel
+ginac-devel
+gsl-devel
+mesa-libGL-devel
+mpich-devel-static
+openmpi-devel
+qt3-devel
+readline-devel

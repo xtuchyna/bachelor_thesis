@@ -1,0 +1,17 @@
+curl-devel
+desktop-file-utils
+docbook2X
+freeglut-devel
+gcc-c++
+gettext
+gtk3-devel
+libXScrnSaver-devel
+libXmu-devel
+libjpeg-devel
+libnotify-devel
+libtool
+mesa-libGLU-devel
+openssl-devel
+sqlite-devel
+wxGTK3-devel
+xcb-util-devel

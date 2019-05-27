@@ -1,0 +1,4 @@
+alsa-lib-devel
+dbus-devel
+jack-audio-connection-kit-devel
+python

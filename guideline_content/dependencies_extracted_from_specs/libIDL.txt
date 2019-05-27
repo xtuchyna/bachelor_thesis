@@ -1,0 +1,4 @@
+bison
+flex
+glib2-devel >= 2.0
+pkgconfig >= 0.8

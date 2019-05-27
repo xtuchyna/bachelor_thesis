@@ -1,0 +1,12 @@
+perl(Carp)
+perl(DateTime::Format::Mail)
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(HTML::FormatText::WithLinks)
+perl(MIME::Lite)
+perl(MIME::Words)
+perl(Module::Build)
+perl(Template)
+perl(Test::More)
+perl(strict)
+perl-generators

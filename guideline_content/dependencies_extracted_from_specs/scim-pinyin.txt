@@ -1,0 +1,7 @@
+autoconf
+automake
+gettext
+gettext-devel
+gtk2-devel
+libtool
+scim-devel

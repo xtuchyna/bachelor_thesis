@@ -1,0 +1,8 @@
+automoc4
+boost-devel
+cmake >= 2.8.8
+libxslt
+pkgconfig(QtDBus)
+pkgconfig(QtSql)
+pkgconfig(QtXml)
+pkgconfig(shared-mime-info)

@@ -1,0 +1,9 @@
+libdb4-devel
+openssl-devel
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Designer)
+pkgconfig(Qt5X11Extras)
+pkgconfig(avahi-compat-libdns_sd)
+pkgconfig(avahi-core)
+pkgconfig(libssh2)
+pkgconfig(xrandr)

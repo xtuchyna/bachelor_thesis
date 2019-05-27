@@ -1,0 +1,7 @@
+perl(Class::Accessor::Lite)
+perl(ExtUtils::MakeMaker)
+perl(List::Util)
+perl(Module::Build)
+perl(Test::More)
+perl(parent)
+perl-generators

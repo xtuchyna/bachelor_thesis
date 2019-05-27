@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext
+libappstream-glib
+pygobject2
+python2-devel

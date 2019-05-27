@@ -1,0 +1,6 @@
+alsa-lib-devel
+desktop-file-utils
+dssi-devel
+gtk2-devel
+liblo-devel
+ncurses-devel

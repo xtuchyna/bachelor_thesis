@@ -1,0 +1,5 @@
+cmake >= 2.6.1
+libxml2-devel
+libxslt-devel
+openssl-devel
+sqlite-devel >= 3.0.0

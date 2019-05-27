@@ -1,0 +1,11 @@
+autoconf-archive
+gcc-c++
+libtool
+pandoc
+pkgconfig(cmocka)
+pkgconfig(libcurl)
+pkgconfig(openssl)
+pkgconfig(sapi)
+pkgconfig(tcti-device)
+pkgconfig(tcti-socket)
+pkgconfig(tcti-tabrmd)

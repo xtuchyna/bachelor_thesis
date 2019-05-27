@@ -1,0 +1,6 @@
+dos2unix
+nodejs-packaging
+npm(buffer-crc32)
+npm(chai)
+npm(mocha)
+npm(readable-stream)

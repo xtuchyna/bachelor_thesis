@@ -1,0 +1,7 @@
+perl(Compress::Zlib)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(WWW::Mechanize)
+perl-generators

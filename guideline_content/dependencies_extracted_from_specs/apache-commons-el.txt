@@ -1,0 +1,6 @@
+ant
+apache-commons-logging
+glassfish-jsp-api
+glassfish-servlet-api
+javapackages-local
+junit

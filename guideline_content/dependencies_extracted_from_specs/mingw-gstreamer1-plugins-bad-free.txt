@@ -1,0 +1,41 @@
+autoconf
+automake
+glib2-devel
+mingw32-OpenEXR
+mingw32-bzip2
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-gettext
+mingw32-gnutls
+mingw32-gsm
+mingw32-gstreamer1 >= 1.12.3
+mingw32-gstreamer1-plugins-base >= 1.12.3
+mingw32-gtk3
+mingw32-jasper
+mingw32-libgcrypt
+mingw32-libxml2
+mingw32-nettle
+mingw32-openssl
+mingw32-opus
+mingw32-orc
+mingw32-pthreads
+mingw32-wavpack
+mingw64-OpenEXR
+mingw64-bzip2
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-gettext
+mingw64-gnutls
+mingw64-gsm
+mingw64-gstreamer1 >= 1.12.3
+mingw64-gstreamer1-plugins-base >= 1.12.3
+mingw64-gtk3
+mingw64-jasper
+mingw64-libgcrypt
+mingw64-libxml2
+mingw64-nettle
+mingw64-openssl
+mingw64-opus
+mingw64-orc
+mingw64-pthreads
+mingw64-wavpack

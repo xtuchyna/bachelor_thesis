@@ -1,0 +1,16 @@
+/usr/bin/cmp
+/usr/bin/pod2man
+/usr/bin/rename
+imake
+lksctp-tools-devel
+mingw32-binutils
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-zlib
+mingw64-binutils
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-zlib
+mktemp
+perl-interpreter
+sed

@@ -1,0 +1,14 @@
+autoconf
+automake
+kernel-headers
+libXext-devel
+libXrandr-devel
+libXv-devel
+libdrm-devel
+libtool
+libudev-devel
+mesa-libGL-devel
+perl-Carp
+pixman-devel
+xorg-x11-server-devel
+xorg-x11-util-macros

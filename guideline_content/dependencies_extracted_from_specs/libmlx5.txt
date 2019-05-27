@@ -1,0 +1,2 @@
+libibverbs-devel >= 1.2.0
+valgrind-devel

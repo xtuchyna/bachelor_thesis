@@ -1,0 +1,14 @@
+junit
+maven-dependency-plugin
+maven-install-plugin
+maven-jar-plugin
+maven-license-plugin
+maven-local
+maven-plugin-bundle
+maven-source-plugin
+mvn(javax.measure:unit-api)
+mvn(org.jacoco:jacoco-maven-plugin)
+mvn(si.uom:si-parent:pom:)
+mvn(si.uom:si-units-java8:pom:)
+mvn(tec.uom:uom-parent:pom:)
+mvn(tec.uom:uom-se:pom:)

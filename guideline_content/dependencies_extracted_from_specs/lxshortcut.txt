@@ -1,0 +1,3 @@
+gettext
+gtk2-devel
+intltool

@@ -1,0 +1,3 @@
+compiler(go-compiler)
+golang(github.com/kylelemons/godebug/pretty)
+golang(github.com/robertkrimen/otto)

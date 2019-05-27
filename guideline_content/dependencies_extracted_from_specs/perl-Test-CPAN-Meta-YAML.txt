@@ -1,0 +1,15 @@
+perl(ExtUtils::MakeMaker)
+perl(IO::File)
+perl(Test::Builder)
+perl(Test::Builder::Tester)
+perl(Test::CPAN::Meta::JSON)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 0.08
+perl(Test::YAML::Valid) >= 0.03
+perl(YAML::Syck)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

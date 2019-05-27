@@ -1,0 +1,7 @@
+extra-cmake-modules
+hardlink
+kf5-rpm-macros
+qt5-qtbase-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+time

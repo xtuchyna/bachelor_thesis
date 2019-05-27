@@ -1,0 +1,18 @@
+boost-devel
+cairo-devel
+geometry-hpp-devel >= 0.9.2
+geometry-hpp-static >= 0.9.2
+libicu-devel
+libtiff-devel
+libxml2-devel
+mapnik-devel >= 3.0.18
+mapnik-static >= 3.0.18
+node-gyp
+nodejs-packaging
+perl-interpreter
+protobuf-compiler
+protobuf-lite-devel >= 3.3.0
+protozero-devel >= 1.5.2
+protozero-static >= 1.5.2
+wagyu-devel >= 0.4.3
+wagyu-static >= 0.4.3

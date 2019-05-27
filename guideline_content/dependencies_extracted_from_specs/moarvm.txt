@@ -1,0 +1,10 @@
+discount
+ed
+gcc
+libatomic_ops-devel >= 7.4
+libffi-devel
+libtommath-devel
+libuv-devel
+perl(ExtUtils::Command)
+perl(Pod::Usage)
+perl(autodie)

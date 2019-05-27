@@ -1,0 +1,6 @@
+autoconf
+automake
+libtool
+python2-devel
+python3-devel
+zlib-devel

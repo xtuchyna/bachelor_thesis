@@ -1,0 +1,10 @@
+/usr/bin/rspec
+ruby
+ruby(release)
+rubygem(actionmailer)
+rubygem(activerecord)
+rubygem(rails-controller-testing)
+rubygem(rspec-rails)
+rubygem(sqlite3)
+rubygems-devel
+web-assets-devel

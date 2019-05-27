@@ -1,0 +1,20 @@
+audit-libs-devel >= 1.0.8
+autoconf >= 2.60
+automake
+bison
+cracklib-devel
+docbook-dtds
+docbook-style-xsl
+elinks
+flex
+gettext-devel
+libdb-devel
+libnsl2-devel
+libselinux-devel >= 1.33.2
+libtirpc-devel
+libtool
+libxslt
+linuxdoc-tools
+perl-interpreter
+pkgconfig
+sed

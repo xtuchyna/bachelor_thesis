@@ -1,0 +1,30 @@
+MUMPS-mpich-devel
+MUMPS-openmpi-devel
+SuperLU-devel >= 5.2.0
+blacs-mpich-devel
+blacs-openmpi-devel
+cgnslib-devel
+gcc-c++
+gcc-gfortran
+hdf5-devel
+hdf5-mpich-devel
+hdf5-openmpi-devel
+hypre-mpich-devel
+hypre-openmpi-devel
+libX11-devel
+mpich-devel
+openblas-devel
+openblas-devel >= 0.2.19-1
+openblas-serial64 >= 0.2.19-1
+openblas-srpm-macros
+openmpi-devel
+pcre-devel
+pkgconfig
+ptscotch-mpich-devel
+ptscotch-openmpi-devel
+python2-devel
+scalapack-mpich-devel
+scalapack-openmpi-devel
+suitesparse-devel
+tcsh
+valgrind-devel

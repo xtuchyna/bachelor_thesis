@@ -1,0 +1,4 @@
+alsa-lib-devel
+ncurses-devel
+pulseaudio-libs-devel
+qt4-devel

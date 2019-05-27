@@ -1,0 +1,11 @@
+dbus-glib-devel
+desktop-file-utils
+gtk3-devel
+itstool
+libSM-devel
+libappstream-glib
+libtool
+po4a
+python3-lockfile
+vte291-devel
+xmlto

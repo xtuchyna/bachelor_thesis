@@ -1,0 +1,15 @@
+perl(Captcha::reCAPTCHA) >= 0.93
+perl(Clone) >= 0.31
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(HTML::FormFu) >= 1.00
+perl(HTML::FormFu::Constraint)
+perl(HTML::FormFu::Element::Multi)
+perl(HTML::FormFu::Util) >= 1.00
+perl(Moose) >= 1.00
+perl(MooseX::Attribute::Chained) >= 1.0.1
+perl(Scalar::Util)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

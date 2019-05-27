@@ -1,0 +1,3 @@
+ruby
+rubygem(rspec)
+rubygems-devel

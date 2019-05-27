@@ -1,0 +1,6 @@
+doxygen
+graphviz
+libproxy-devel
+qt5-qtbase-devel
+qt5-qtxmlpatterns-devel
+signon-devel

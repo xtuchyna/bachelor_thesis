@@ -1,0 +1,16 @@
+findutils
+gcc
+make
+perl(Carp::Clan) >= 5.3
+perl(Config)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Storable) >= 2.21
+perl(integer)
+perl(overload)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

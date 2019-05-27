@@ -1,0 +1,8 @@
+extra-cmake-modules >= 5.44.0
+kf5-kdoctools-devel >= 5.44.0
+kf5-ki18n-devel >= 5.44.0
+kf5-kjs-devel >= 5.44.0
+kf5-rpm-macros >= 5.44.0
+qt5-qtbase-devel
+qt5-qtsvg-devel
+qt5-qttools-static

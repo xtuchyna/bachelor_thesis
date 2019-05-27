@@ -1,0 +1,5 @@
+gcc
+ruby(release)
+ruby-devel >= 2.0.0
+rubygem(minitest)
+rubygems-devel

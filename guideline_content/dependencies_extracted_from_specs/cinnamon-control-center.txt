@@ -1,0 +1,37 @@
+chrpath
+cinnamon-menus-devel
+git
+gnome-common
+intltool
+pkgconfig(cinnamon-desktop) >= 3.6.0
+pkgconfig(cinnamon-settings-daemon) >= 3.6.0
+pkgconfig(clutter-gst-2.0)
+pkgconfig(clutter-gtk-1.0)
+pkgconfig(colord)
+pkgconfig(gio-2.0)
+pkgconfig(gnome-doc-utils)
+pkgconfig(goa-1.0)
+pkgconfig(goa-backend-1.0) >= 3.21.5
+pkgconfig(ibus-1.0)
+pkgconfig(ice)
+pkgconfig(iso-codes)
+pkgconfig(krb5)
+pkgconfig(libcanberra)
+pkgconfig(libglade-2.0)
+pkgconfig(libgnome-menu-3.0) >= 2.11.1
+pkgconfig(libgnomekbd)
+pkgconfig(libgtop-2.0)
+pkgconfig(libnm) >= 1.2
+pkgconfig(libnma) >= 1.2
+pkgconfig(libnotify)
+pkgconfig(librsvg-2.0)
+pkgconfig(libwacom)
+pkgconfig(libxklavier)
+pkgconfig(libxml-2.0)
+pkgconfig(mm-glib) >= 0.7
+pkgconfig(polkit-agent-1)
+pkgconfig(pwquality)
+pkgconfig(upower-glib)
+pkgconfig(xkbfile)
+pkgconfig(xscrnsaver)
+pkgconfig(xxf86misc)

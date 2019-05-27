@@ -1,0 +1,11 @@
+clang-devel = 6.0.0
+cmake
+libedit-devel
+libffi-devel
+libxml2-devel
+llvm-devel = 6.0.0
+llvm-static = 6.0.0
+ncurses-devel
+python2-devel
+swig
+zlib-devel

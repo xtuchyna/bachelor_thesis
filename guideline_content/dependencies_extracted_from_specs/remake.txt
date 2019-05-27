@@ -1,0 +1,6 @@
+doxygen-latex
+gcc-c++
+ghostscript
+inotify-tools
+tex-epstopdf
+urw-base35-fonts

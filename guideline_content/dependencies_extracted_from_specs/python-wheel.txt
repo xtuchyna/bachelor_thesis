@@ -1,0 +1,12 @@
+python-jsonschema
+python-keyring
+python2-devel
+python2-pytest
+python2-setuptools
+python3-devel
+python3-jsonschema
+python3-keyring
+python3-pytest
+python3-pyxdg
+python3-setuptools
+pyxdg

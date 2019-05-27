@@ -1,0 +1,4 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-jar-plugin)

@@ -1,0 +1,10 @@
+maven-local
+mvn(com.fasterxml.jackson.core:jackson-core)
+mvn(com.fasterxml.jackson.dataformat:jackson-dataformat-smile)
+mvn(com.google.protobuf:protobuf-java)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.hamcrest:hamcrest-core)
+mvn(org.mockito:mockito-all)
+mvn(org.sonatype.oss:oss-parent:pom:)
+mvn(org.testng:testng)
+protobuf-compiler

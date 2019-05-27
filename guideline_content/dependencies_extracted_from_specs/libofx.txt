@@ -1,0 +1,4 @@
+curl-devel
+gcc-c++
+libxml++-devel
+opensp-devel

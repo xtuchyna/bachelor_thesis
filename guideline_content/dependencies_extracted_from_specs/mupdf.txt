@@ -1,0 +1,14 @@
+binutils
+coreutils
+curl-devel
+desktop-file-utils
+freeglut-devel
+freetype-devel
+gcc
+harfbuzz-devel
+jbig2dec-devel
+libXext-devel
+libjpeg-devel
+make
+mesa-libGL-devel
+openjpeg2-devel

@@ -1,0 +1,3 @@
+erlang-exometer_core
+erlang-folsom
+erlang-rebar

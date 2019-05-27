@@ -1,0 +1,11 @@
+ruby
+rubygem(bundler)
+rubygem(cucumber)
+rubygem(hoe)
+rubygem(minitest)
+rubygem(rdoc)
+rubygem(rspec)
+rubygem(rubyforge)
+rubygem(test-unit)
+rubygems >= 1.3.7
+rubygems-devel

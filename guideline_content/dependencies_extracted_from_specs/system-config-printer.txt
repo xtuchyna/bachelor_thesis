@@ -1,0 +1,11 @@
+cups-devel >= 1.2
+desktop-file-utils >= 0.2.92
+gcc
+gettext-devel
+intltool
+libusb1-devel
+pkgconfig(glib-2.0)
+python3-devel
+systemd
+systemd-devel
+xmlto

@@ -1,0 +1,43 @@
+apache-commons-cli
+apache-commons-codec
+apache-commons-collections
+apache-commons-configuration
+apache-commons-io
+apache-commons-lang
+apache-commons-logging
+apache-commons-math
+apache-commons-vfs >= 2.1-7
+apache-parent
+auto-service
+beust-jcommander
+bouncycastle
+exec-maven-plugin
+gcc-c++
+google-gson
+guava
+hadoop-client
+hadoop-tests
+jackson-core
+java-devel
+jetty-security
+jetty-server
+jetty-servlet
+jetty-util
+jline2
+jpackage-utils
+libthrift-java >= 0.10.0
+log4j12
+make
+maven-assembly-plugin
+maven-local
+mvn(javax.servlet:javax.servlet-api)
+native-maven-plugin
+powermock-api-easymock
+powermock-core
+powermock-junit4
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+slf4j
+systemd
+thrift >= 0.10.0
+zookeeper-java

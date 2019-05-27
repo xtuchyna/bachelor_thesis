@@ -1,0 +1,3 @@
+atlascpp-devel
+doxygen
+pkgconfig

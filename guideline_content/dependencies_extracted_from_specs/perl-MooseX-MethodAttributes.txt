@@ -1,0 +1,13 @@
+perl(Data::Dumper)
+perl(Module::Build::Tiny)
+perl(Moose) >= 0.98
+perl(MooseX::Role::Parameterized)
+perl(MooseX::Types::Moose) >= 0.21
+perl(Test::Exception)
+perl(Test::Fatal)
+perl(Test::More) >= 0.88
+perl(Test::Requires)
+perl(lib)
+perl(namespace::autoclean)
+perl(namespace::clean) >= 0.10
+perl-generators

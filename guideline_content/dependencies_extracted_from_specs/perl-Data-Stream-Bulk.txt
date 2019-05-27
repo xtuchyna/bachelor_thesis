@@ -1,0 +1,12 @@
+perl(DBD::Mock)
+perl(DBD::SQLite)
+perl(DBIx::Class)
+perl(ExtUtils::MakeMaker)
+perl(Moose)
+perl(Path::Class)
+perl(Sub::Exporter)
+perl(Test::More)
+perl(Test::Requires)
+perl(Test::TempDir)
+perl(namespace::clean) >= 0.08
+perl-generators

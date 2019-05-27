@@ -1,0 +1,7 @@
+file-devel
+gtk2-devel
+imlib2-devel
+lcms2-devel
+libexif-devel
+libjpeg-devel
+libtiff-devel

@@ -1,0 +1,2 @@
+erlang-folsom
+erlang-rebar

@@ -1,0 +1,7 @@
+maven-local
+mvn(junit:junit)
+mvn(org.hamcrest:hamcrest-core)
+mvn(org.hamcrest:hamcrest-library)
+mvn(org.jmock:jmock-junit4)
+mvn(org.jmock:jmock-legacy)
+mvn(org.sonatype.oss:oss-parent:pom:)

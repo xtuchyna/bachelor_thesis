@@ -1,0 +1,7 @@
+cmake
+libGLU-devel
+libICE-devel
+libXext-devel
+libXi-devel
+libXxf86vm-devel
+pkgconfig

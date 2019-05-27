@@ -1,0 +1,8 @@
+autoconf
+automake
+glib2-devel
+jansson-devel
+libtool
+pygobject2
+python2-devel
+python2-simplejson

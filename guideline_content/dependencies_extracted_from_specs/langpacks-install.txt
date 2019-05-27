@@ -1,0 +1,4 @@
+desktop-file-utils
+gcc
+gettext-devel
+glib2-devel

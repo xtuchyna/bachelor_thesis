@@ -1,0 +1,11 @@
+ImageMagick
+autoconf
+automake
+desktop-file-utils
+libappstream-glib
+libtool
+pkgconfig(QtXml)
+pkgconfig(libmediainfo) >= 18.03
+pkgconfig(libzen) >= 0.4.37
+pkgconfig(zlib)
+wxGTK-devel

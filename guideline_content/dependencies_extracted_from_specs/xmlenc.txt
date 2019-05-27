@@ -1,0 +1,6 @@
+maven-enforcer-plugin
+maven-local
+mvn(junit:junit)
+mvn(org.apache.maven.shared:maven-common-artifact-filters)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)
+mvn(org.znerd:znerd-oss-parent:pom:)

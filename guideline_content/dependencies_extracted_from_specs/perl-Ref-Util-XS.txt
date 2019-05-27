@@ -1,0 +1,18 @@
+coreutils
+findutils
+gcc
+make
+perl(B::Concise)
+perl(CPAN::Meta) >= 2.120900
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Readonly)
+perl(Test::More) >= 0.94
+perl(XSLoader)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

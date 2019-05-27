@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(grunt-cli)
+npm(grunt-contrib-nodeunit)
+npm(maxmin)
+npm(strip-path)

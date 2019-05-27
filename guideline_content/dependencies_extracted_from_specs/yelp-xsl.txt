@@ -1,0 +1,5 @@
+/usr/bin/xmllint
+/usr/bin/xsltproc
+intltool
+itstool
+libxml2-python

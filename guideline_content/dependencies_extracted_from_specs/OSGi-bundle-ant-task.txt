@@ -1,0 +1,5 @@
+ant
+aqute-bnd
+java-devel
+java-devel >= 1:1.6.0
+jpackage-utils

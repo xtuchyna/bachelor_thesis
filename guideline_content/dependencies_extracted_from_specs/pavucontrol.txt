@@ -1,0 +1,7 @@
+desktop-file-utils
+gtkmm30-devel
+intltool
+libcanberra-devel
+libsigc++20-devel
+lynx
+pulseaudio-libs-devel >= 3.0

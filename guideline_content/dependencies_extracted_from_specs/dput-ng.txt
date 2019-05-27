@@ -1,0 +1,5 @@
+asciidoc
+python2-debian
+python2-devel
+python2-paramiko
+python2-setuptools

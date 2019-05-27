@@ -1,0 +1,8 @@
+maven-local
+mvn(dom4j:dom4j)
+mvn(jdom:jdom)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-assembly-plugin)
+mvn(org.sonatype.oss:oss-parent:pom:)
+mvn(xerces:xercesImpl)
+mvn(xml-apis:xml-apis)

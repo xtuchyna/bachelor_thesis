@@ -1,0 +1,11 @@
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Scalar::Util)
+perl(Test::More)
+perl(Tie::RefHash)
+perl(ok)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

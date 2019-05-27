@@ -1,0 +1,9 @@
+perl(IO::Socket::INET6)
+perl(Pod::Man)
+perl(Test::More)
+pkgconfig(libcap)
+pkgconfig(libconfig)
+pkgconfig(libsystemd)
+psmisc
+systemd
+valgrind

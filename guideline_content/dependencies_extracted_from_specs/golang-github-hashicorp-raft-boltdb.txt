@@ -1,0 +1,5 @@
+compiler(go-compiler)
+golang(github.com/boltdb/bolt)
+golang(github.com/hashicorp/go-msgpack/codec)
+golang(github.com/hashicorp/raft)
+golang(github.com/hashicorp/raft/bench)

@@ -1,0 +1,5 @@
+cmake >= 2.8.1
+desktop-file-utils
+libappstream-glib
+qt-devel >= 4.5
+sqlite-devel > 3.7.8

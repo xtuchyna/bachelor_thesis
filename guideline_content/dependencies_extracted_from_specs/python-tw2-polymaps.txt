@@ -1,0 +1,6 @@
+python-geojson
+python-mako
+python-markupsafe
+python-setuptools
+python-tw2-core
+python2-devel

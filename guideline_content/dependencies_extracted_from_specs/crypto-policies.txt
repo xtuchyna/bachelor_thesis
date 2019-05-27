@@ -1,0 +1,12 @@
+asciidoc
+bind
+gnutls-utils >= 3.6.0
+java-1.8.0-openjdk-devel
+libxslt
+openssl
+perl(File::Copy)
+perl(File::Temp)
+perl(File::pushd)
+perl-generators
+perl-interpreter
+python3

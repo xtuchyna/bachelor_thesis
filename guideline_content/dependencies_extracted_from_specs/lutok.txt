@@ -1,0 +1,2 @@
+libatf-c++-devel >= 0.20
+lua-devel >= 5.2

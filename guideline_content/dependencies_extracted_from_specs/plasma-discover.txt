@@ -1,0 +1,42 @@
+appstream-devel
+appstream-qt-devel >= 0.11.1
+desktop-file-utils
+extra-cmake-modules >= 5.34
+flatpak-devel >= 0.8.0
+gettext
+kf5-attica-devel >= 5.34
+kf5-karchive-devel
+kf5-kconfig-devel
+kf5-kconfigwidgets-devel
+kf5-kcoreaddons-devel
+kf5-kcrash-devel
+kf5-kdbusaddons-devel
+kf5-kdeclarative-devel
+kf5-ki18n-devel
+kf5-kiconthemes-devel
+kf5-kio-devel
+kf5-kirigami2-devel >= 2.2
+kf5-kitemmodels-devel
+kf5-kitemviews-devel
+kf5-knewstuff-devel >= 5.34
+kf5-knotifications-devel
+kf5-ktextwidgets-devel
+kf5-kwallet-devel
+kf5-kwidgetsaddons-devel
+kf5-plasma-devel
+kf5-rpm-macros
+kf5-solid-devel
+libstemmer-devel
+libxml2-devel
+libyaml-devel
+pkgconfig(Qt5Concurrent)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Network)
+pkgconfig(Qt5Qml)
+pkgconfig(Qt5QuickWidgets)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5Test)
+pkgconfig(Qt5Widgets)
+pkgconfig(Qt5Xml)
+pkgconfig(packagekitqt5)
+pkgconfig(phonon4qt5)

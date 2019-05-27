@@ -1,0 +1,10 @@
+docbook-style-xsl
+doxygen
+gcc
+libtalloc-devel >= 2.1.0
+libtirpc-devel
+libxslt
+python2-devel
+python2-talloc-devel >= 2.1.0
+python3-devel
+python3-talloc-devel >= 2.0.7

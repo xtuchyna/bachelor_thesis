@@ -1,0 +1,6 @@
+perl(Digest::MD5)
+perl(Digest::SHA1)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Time::HiRes)
+perl-generators

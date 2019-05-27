@@ -1,0 +1,6 @@
+autoconf
+bison
+flex
+librtas-devel
+libtool
+sqlite-devel

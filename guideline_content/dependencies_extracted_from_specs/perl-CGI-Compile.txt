@@ -1,0 +1,24 @@
+perl(CGI)
+perl(CGI::Emulate::PSGI)
+perl(Cwd)
+perl(Exporter)
+perl(File::Basename)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(File::pushd)
+perl(HTTP::Request::Common)
+perl(Module::Build::Tiny) >= 0.034
+perl(Plack::Test)
+perl(Switch)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Test::Requires)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

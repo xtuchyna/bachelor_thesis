@@ -1,0 +1,8 @@
+maven-local
+maven-plugin-bundle
+mvn(asm:asm-tree)
+mvn(org.fusesource.hawtbuf:hawtbuf)
+mvn(org.fusesource.hawtdispatch:hawtdispatch-transport)
+mvn(org.fusesource:fusesource-pom:pom:)
+mvn(org.osgi:org.osgi.compendium)
+mvn(org.osgi:org.osgi.core)

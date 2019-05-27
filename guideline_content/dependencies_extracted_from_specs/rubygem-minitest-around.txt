@@ -1,0 +1,4 @@
+ruby(release)
+rubygem(cucumber)
+rubygem(minitest)
+rubygems-devel

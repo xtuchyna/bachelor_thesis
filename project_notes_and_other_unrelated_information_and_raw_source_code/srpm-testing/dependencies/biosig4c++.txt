@@ -1,0 +1,11 @@
+autoconf
+automake
+gcc-c++
+libb64-devel
+libtool
+pkgconf-pkg-config
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+suitesparse-devel
+tinyxml-devel
+zlib-devel

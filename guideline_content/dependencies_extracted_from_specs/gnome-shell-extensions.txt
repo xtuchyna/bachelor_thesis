@@ -1,0 +1,6 @@
+gettext >= 0.19.6
+git
+meson
+pkgconfig(gnome-desktop-3.0)
+pkgconfig(libgtop-2.0)
+sassc

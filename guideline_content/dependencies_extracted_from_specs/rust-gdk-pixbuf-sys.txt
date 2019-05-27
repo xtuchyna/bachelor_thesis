@@ -1,0 +1,8 @@
+(crate(bitflags) >= 1.0.0 with crate(bitflags) < 2.0.0)
+(crate(gio-sys) >= 0.5.0 with crate(gio-sys) < 0.6.0)
+(crate(glib-sys) >= 0.5.0 with crate(glib-sys) < 0.6.0)
+(crate(gobject-sys) >= 0.5.0 with crate(gobject-sys) < 0.6.0)
+(crate(libc) >= 0.2.0 with crate(libc) < 0.3.0)
+(crate(pkg-config) >= 0.3.7 with crate(pkg-config) < 0.4.0)
+pkgconfig(gdk-pixbuf-2.0) >= 2.26
+rust-packaging

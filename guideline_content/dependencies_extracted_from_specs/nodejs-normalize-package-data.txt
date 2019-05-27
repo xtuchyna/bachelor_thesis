@@ -1,0 +1,9 @@
+nodejs-packaging
+npm(async)
+npm(github-url-from-git)
+npm(hosted-git-info)
+npm(is-builtin-module)
+npm(semver)
+npm(tap)
+npm(underscore)
+npm(validate-npm-package-license)

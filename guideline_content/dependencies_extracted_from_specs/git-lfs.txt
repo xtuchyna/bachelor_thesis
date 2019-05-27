@@ -1,0 +1,18 @@
+/usr/bin/ronn
+compiler(go-compiler)
+git >= 1.8.2
+golang(github.com/ThomsonReutersEikon/go-ntlm/ntlm)
+golang(github.com/bgentry/go-netrc/netrc)
+golang(github.com/git-lfs/wildmatch)
+golang(github.com/inconshreveable/mousetrap)
+golang(github.com/kr/pty)
+golang(github.com/olekukonko/ts)
+golang(github.com/pkg/errors)
+golang(github.com/rubyist/tracerx)
+golang(github.com/spf13/cobra)
+golang(github.com/spf13/pflag)
+golang(github.com/stretchr/testify)
+golang(github.com/xeipuuv/gojsonpointer)
+golang(github.com/xeipuuv/gojsonreference)
+golang(github.com/xeipuuv/gojsonschema)
+perl-Digest-SHA

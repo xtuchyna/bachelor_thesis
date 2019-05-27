@@ -1,0 +1,12 @@
+/usr/bin/appstream-util
+/usr/bin/desktop-file-validate
+/usr/bin/po4a-translate
+autoconf
+automake
+gdk-pixbuf2-devel
+gettext-devel
+glib2-devel
+ldc
+pkgconfig(gtkd-3) >= 3.7.5
+pkgconfig(vted-3) >= 3.7.5
+pkgconfig(x11)

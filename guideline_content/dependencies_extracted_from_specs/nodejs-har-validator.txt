@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(is-my-json-valid)
+npm(mocha)
+npm(pinkie-promise)
+npm(require-directory)
+npm(should) >= 8.0.0

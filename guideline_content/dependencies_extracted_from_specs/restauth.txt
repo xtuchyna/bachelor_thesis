@@ -1,0 +1,6 @@
+python-devel
+python-django
+python-mimeparse
+python-restauth-common
+python-setuptools
+python-sphinx

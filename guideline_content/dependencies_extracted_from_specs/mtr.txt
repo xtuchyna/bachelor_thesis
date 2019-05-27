@@ -1,0 +1,7 @@
+autoconf
+automake
+desktop-file-utils
+git
+gtk2-devel
+libtool
+ncurses-devel

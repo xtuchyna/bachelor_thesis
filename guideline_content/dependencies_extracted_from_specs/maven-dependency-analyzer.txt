@@ -1,0 +1,10 @@
+maven-local
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)
+mvn(org.apache.maven:maven-artifact)
+mvn(org.apache.maven:maven-model)
+mvn(org.apache.maven:maven-project)
+mvn(org.codehaus.plexus:plexus-component-annotations)
+mvn(org.codehaus.plexus:plexus-component-metadata)
+mvn(org.codehaus.plexus:plexus-utils)
+mvn(org.ow2.asm:asm)

@@ -1,0 +1,16 @@
+bash-completion
+colord-devel >= 1.2.3
+colord-gtk-devel >= 0.1.24
+docbook-utils
+gettext
+glib2-devel
+gnome-doc-utils
+gobject-introspection-devel
+gtk3-devel
+intltool
+itstool
+libcanberra-devel >= 0.10
+libgusb-devel >= 0.1.4
+libsoup-devel
+libtool
+yelp-tools

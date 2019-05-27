@@ -1,0 +1,6 @@
+autoconf
+automake
+libtool
+openssl-devel
+systemd
+zlib-devel

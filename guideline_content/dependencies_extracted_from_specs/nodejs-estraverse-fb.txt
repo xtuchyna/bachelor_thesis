@@ -1,0 +1,5 @@
+mocha
+nodejs-packaging
+npm(chai)
+npm(esprima-fb)
+npm(estraverse)

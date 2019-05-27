@@ -1,0 +1,5 @@
+gcc
+igraph-devel >= 0.7
+libxml2-devel
+python2-devel
+python3-devel

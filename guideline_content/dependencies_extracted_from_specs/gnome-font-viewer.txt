@@ -1,0 +1,6 @@
+desktop-file-utils
+gettext
+gnome-desktop3-devel
+gtk3-devel
+libappstream-glib
+meson

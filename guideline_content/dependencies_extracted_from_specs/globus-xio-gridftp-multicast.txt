@@ -1,0 +1,3 @@
+globus-common-devel >= 15
+globus-ftp-client-devel >= 7
+globus-xio-devel >= 3

@@ -1,0 +1,3 @@
+gimp-devel
+glew-devel
+gtkglext-devel

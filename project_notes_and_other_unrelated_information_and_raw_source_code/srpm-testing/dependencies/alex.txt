@@ -1,0 +1,11 @@
+autoconf
+docbook-style-xsl
+ghc-Cabal-devel
+ghc-array-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-rpm-macros
+libxslt
+make
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

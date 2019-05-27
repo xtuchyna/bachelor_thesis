@@ -1,0 +1,4 @@
+libcdio-devel
+python-devel
+python-setuptools
+swig

@@ -1,0 +1,16 @@
+chrpath
+desktop-file-utils
+doxygen
+gettext
+gnome-doc-utils
+intltool
+libGLU-devel
+libappstream-glib
+man-pages-reader
+perl(XML::Parser)
+pkgconfig(bodr) >= 5
+pkgconfig(chemical-mime-data) >= 0.1.94
+pkgconfig(lasem-0.4) >= 0.4.1
+pkgconfig(libgoffice-0.10) >= 0.10.12
+pkgconfig(libspreadsheet-1.12) >= 1.11.6
+pkgconfig(openbabel-2.0) >= 2.3.0

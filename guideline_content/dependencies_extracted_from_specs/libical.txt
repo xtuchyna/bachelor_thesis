@@ -1,0 +1,14 @@
+cmake
+gcc
+gcc-c++
+gtk-doc
+perl-interpreter
+pkgconfig(gobject-2.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(icu-i18n)
+pkgconfig(icu-uc)
+pkgconfig(libxml-2.0)
+python3
+python3-gobject
+python3-pip
+vala

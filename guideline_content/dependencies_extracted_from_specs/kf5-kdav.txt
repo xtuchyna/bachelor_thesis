@@ -1,0 +1,6 @@
+cmake(Qt5Gui)
+cmake(Qt5XmlPatterns)
+extra-cmake-modules
+kf5-kcoreaddons-devel
+kf5-kio-devel
+kf5-rpm-macros

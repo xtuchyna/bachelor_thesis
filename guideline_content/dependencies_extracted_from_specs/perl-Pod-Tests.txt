@@ -1,0 +1,15 @@
+/usr/bin/make
+/usr/bin/perl
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Pod::Simple) >= 3.07
+perl(Symbol)
+perl(Test::CPAN::Meta) >= 0.12
+perl(Test::Harness) >= 1.22
+perl(Test::MinimumVersion) >= 0.008
+perl(Test::More) >= 0.33
+perl(Test::Pod) >= 1.26
+perl(inc::Module::Install)
+perl(strict)
+perl(vars)
+perl-generators

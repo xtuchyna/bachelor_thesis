@@ -1,0 +1,11 @@
+autoconf
+automake
+gettext
+gettext-devel
+glib2-devel
+libticables2-devel
+libticonv-devel
+libtifiles2-devel
+libtool
+pkgconfig
+tfdocgen

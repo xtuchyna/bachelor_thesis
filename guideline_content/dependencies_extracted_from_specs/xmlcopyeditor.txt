@@ -1,0 +1,10 @@
+aspell-devel
+boost-devel
+desktop-file-utils
+expat-devel
+intltool
+libappstream-glib
+libxslt-devel
+pcre-devel
+wxGTK-devel >= 2.8
+xerces-c-devel

@@ -1,0 +1,3 @@
+ant-junit
+java-devel
+java-javadoc

@@ -1,0 +1,6 @@
+autoconf
+automake
+dbus-devel >= 1.2
+libcap-devel
+libtool
+polkit-devel

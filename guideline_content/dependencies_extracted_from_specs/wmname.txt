@@ -1,0 +1,4 @@
+coreutils
+gcc
+libX11-devel
+make

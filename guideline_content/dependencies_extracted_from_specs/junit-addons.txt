@@ -1,0 +1,8 @@
+ant
+apache-commons-logging
+javapackages-local
+jaxen
+jdom
+junit
+xerces-j2
+xml-commons-apis

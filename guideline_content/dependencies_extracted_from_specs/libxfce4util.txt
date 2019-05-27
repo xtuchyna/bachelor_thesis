@@ -1,0 +1,4 @@
+gettext
+gtk-doc
+intltool
+pkgconfig(glib-2.0) >= 2.24.0

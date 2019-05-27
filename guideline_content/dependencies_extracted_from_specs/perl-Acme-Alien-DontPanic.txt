@@ -1,0 +1,13 @@
+perl(Alien::Base) >= 1.01
+perl(Alien::Base::ModuleBuild) >= 0.044
+perl(Cwd)
+perl(File::Basename)
+perl(File::Spec)
+perl(Test2::V0)
+perl(Test::Alien) >= 0.05
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+pkgconfig(dontpanic)

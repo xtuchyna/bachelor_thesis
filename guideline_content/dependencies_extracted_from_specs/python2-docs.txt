@@ -1,0 +1,6 @@
+linkchecker
+python2
+python2-docutils
+python2-pygments
+python2-sphinx
+texinfo

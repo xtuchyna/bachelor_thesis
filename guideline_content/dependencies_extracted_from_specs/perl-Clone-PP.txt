@@ -1,0 +1,12 @@
+findutils
+make
+perl(Benchmark)
+perl(Carp)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

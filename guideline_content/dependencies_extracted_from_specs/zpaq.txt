@@ -1,0 +1,4 @@
+coreutils
+gcc-c++
+make
+perl-podlators

@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(rb-inotify)
+rubygem(rspec)
+rubygem(thor)
+rubygems-devel

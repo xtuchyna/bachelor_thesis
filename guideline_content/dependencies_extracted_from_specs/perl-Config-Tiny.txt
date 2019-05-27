@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Spec) >= 3.30
+perl(File::Temp) >= 0.22
+perl(Test::CPAN::Meta) >= 0.17
+perl(Test::MinimumVersion) >= 0.101080
+perl(Test::More) >= 0.47
+perl(Test::Pod) >= 1.44
+perl(UNIVERSAL)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

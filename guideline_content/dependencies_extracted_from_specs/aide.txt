@@ -1,0 +1,14 @@
+audit-libs-devel
+bison
+e2fsprogs-devel
+flex
+gcc
+libacl-devel
+libattr-devel
+libcurl-devel
+libgcrypt-devel
+libgpg-error-devel
+make
+pcre-devel
+pkgconfig(libselinux)
+zlib-devel

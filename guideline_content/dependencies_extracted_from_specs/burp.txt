@@ -1,0 +1,8 @@
+libacl-devel
+librsync-devel
+ncurses-devel
+openssl-devel
+systemd-units
+uthash-devel
+yajl-devel
+zlib-devel

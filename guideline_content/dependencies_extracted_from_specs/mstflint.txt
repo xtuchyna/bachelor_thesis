@@ -1,0 +1,8 @@
+boost-devel
+gcc-c++
+libcurl-devel
+libibmad-devel
+libstdc++-devel
+libxml2-devel
+openssl-devel
+zlib-devel

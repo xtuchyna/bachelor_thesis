@@ -1,0 +1,11 @@
+apr-devel >= 1.3.0
+autoconf
+expat-devel
+libdb-devel
+libuuid-devel
+mariadb-connector-c-devel
+openldap-devel
+openssl-devel
+postgresql-devel
+sqlite-devel >= 3.0.0
+unixODBC-devel

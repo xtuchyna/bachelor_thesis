@@ -1,0 +1,17 @@
+fedmsg
+mod_wsgi
+python-arrow
+python-beautifulsoup4
+python-dateutil
+python-fedora
+python-fedora-flask
+python-flask
+python-memcached
+python-openid
+python-openid-cla
+python-openid-teams
+python-pip
+python-requests
+python-six
+python2-devel
+systemd

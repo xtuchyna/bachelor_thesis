@@ -1,0 +1,10 @@
+python-keystoneclient
+python-oslo-sphinx
+python-pbr >= 1.6
+python-setuptools
+python-sphinx
+python2-devel
+python3-devel
+python3-keystoneclient
+python3-pbr >= 1.6
+python3-setuptools

@@ -1,0 +1,9 @@
+bison
+cmake
+doxygen
+flex
+gcc
+libserialport-devel
+libxml2-devel
+python3-devel
+python3-setuptools

@@ -1,0 +1,7 @@
+ImageMagick
+desktop-file-utils
+freetype-devel >= 2.0.0
+gettext
+gtk2-devel >= 2.10.0
+libgnomecanvas-devel >= 2.4.0
+poppler-glib-devel >= 0.5.4

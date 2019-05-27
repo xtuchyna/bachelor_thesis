@@ -1,0 +1,7 @@
+openssh-clients
+pytest
+python-mock
+python-remoto
+python-setuptools
+python-tox
+python2-devel

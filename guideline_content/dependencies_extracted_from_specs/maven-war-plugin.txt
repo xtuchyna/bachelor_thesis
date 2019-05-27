@@ -1,0 +1,13 @@
+maven-local
+mvn(com.thoughtworks.xstream:xstream)
+mvn(commons-io:commons-io)
+mvn(org.apache.maven.plugin-tools:maven-plugin-annotations)
+mvn(org.apache.maven.plugins:maven-plugins:pom:)
+mvn(org.apache.maven.shared:maven-filtering)
+mvn(org.apache.maven.shared:maven-mapping)
+mvn(org.apache.maven:maven-archiver)
+mvn(org.apache.maven:maven-core)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.codehaus.plexus:plexus-archiver)
+mvn(org.codehaus.plexus:plexus-interpolation)
+mvn(org.codehaus.plexus:plexus-utils)

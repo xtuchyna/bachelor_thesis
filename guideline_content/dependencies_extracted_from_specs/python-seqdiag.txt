@@ -1,0 +1,16 @@
+python-blockdiag-devel
+python-docutils
+python-nose
+python-pep8
+python-pillow
+python-reportlab
+python-setuptools
+python2-devel
+python3-blockdiag-devel
+python3-devel
+python3-docutils
+python3-nose
+python3-pep8
+python3-pillow
+python3-reportlab
+python3-setuptools

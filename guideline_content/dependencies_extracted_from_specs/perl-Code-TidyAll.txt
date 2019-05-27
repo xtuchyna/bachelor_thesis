@@ -1,0 +1,47 @@
+coreutils
+make
+perl(Capture::Tiny)
+perl(Config::INI::Reader)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Date::Format)
+perl(Digest::SHA)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find)
+perl(File::Spec)
+perl(File::Which)
+perl(File::Zglob)
+perl(File::pushd)
+perl(Getopt::Long)
+perl(IPC::Run3)
+perl(IPC::System::Simple)
+perl(List::SomeUtils)
+perl(Module::Runtime)
+perl(Moo) >= 2.000000
+perl(Moo::Role)
+perl(Path::Tiny) >= 0.098
+perl(Scalar::Util)
+perl(Scope::Guard)
+perl(Specio) >= 0.40
+perl(Specio::Declare)
+perl(Specio::Library::Builtins)
+perl(Specio::Library::Numeric)
+perl(Specio::Library::Path::Tiny) >= 0.04
+perl(Specio::Library::String)
+perl(Test::Class::Most)
+perl(Test::Fatal)
+perl(Test::More) >= 0.96
+perl(Test::Warnings)
+perl(Text::Diff) >= 1.44
+perl(Time::Duration::Parse)
+perl(Try::Tiny)
+perl(autodie)
+perl(base)
+perl(constant)
+perl(lib)
+perl(lib::relative)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

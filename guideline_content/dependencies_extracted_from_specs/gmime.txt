@@ -1,0 +1,14 @@
+autoconf
+automake
+gettext-devel
+glib2-devel >= 2.18.0
+gobject-introspection-devel
+gpgme-devel
+gtk-doc
+gtk-sharp2-devel >= 2.4.0
+gtk-sharp2-gapi
+libgpg-error-devel
+mono-devel
+vala
+vala-devel
+zlib-devel >= 1.2.1.1

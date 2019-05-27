@@ -1,0 +1,5 @@
+gcc
+gettext
+jasper-devel
+lcms2-devel
+libjpeg-devel

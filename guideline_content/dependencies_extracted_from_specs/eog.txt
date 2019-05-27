@@ -1,0 +1,22 @@
+/usr/bin/appstream-util
+desktop-file-utils
+gettext
+gtk-doc
+itstool
+libjpeg-devel
+meson
+pkgconfig(exempi-2.0)
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(glib-2.0) >= 2.42.0
+pkgconfig(gnome-desktop-3.0) >= 2.91.2
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gsettings-desktop-schemas)
+pkgconfig(gtk+-3.0) >= 3.22.0
+pkgconfig(lcms2)
+pkgconfig(libexif) >= 0.6.14
+pkgconfig(libpeas-1.0) >= 0.7.4
+pkgconfig(libpeas-gtk-1.0) >= 0.7.4
+pkgconfig(librsvg-2.0)
+pkgconfig(shared-mime-info)
+pkgconfig(x11)
+zlib-devel

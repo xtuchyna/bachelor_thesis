@@ -1,0 +1,6 @@
+cppunit-devel
+doxygen
+dvipdfm
+graphviz-devel
+perl-generators
+tex-latex-bin

@@ -1,0 +1,7 @@
+compiler(go-compiler)
+golang(github.com/gdamore/tcell)
+golang(github.com/gdamore/tcell/encoding)
+golang(github.com/mattn/go-isatty)
+golang(github.com/mattn/go-runewidth)
+golang(github.com/mattn/go-shellwords)
+golang(golang.org/x/crypto/ssh/terminal)

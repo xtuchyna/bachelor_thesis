@@ -1,0 +1,12 @@
+cmake
+extra-cmake-modules
+gettext
+kf5-kcoreaddons-devel
+kf5-ki18n-devel
+kf5-kwidgetsaddons-devel
+kf5-rpm-macros
+pkgconfig
+pkgconfig(blkid)
+pkgconfig(libatasmart)
+pkgconfig(libparted)
+qt5-qtbase-devel

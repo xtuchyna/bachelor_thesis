@@ -1,0 +1,11 @@
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Scalar::Util)
+perl(Test::LongString)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(URI)
+perl(URI::file)
+perl(strict)
+perl(warnings)
+perl-generators

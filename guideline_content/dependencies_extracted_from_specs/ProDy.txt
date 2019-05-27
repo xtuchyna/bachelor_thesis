@@ -1,0 +1,9 @@
+gcc
+python3-biopython
+python3-devel
+python3-matplotlib
+python3-nose
+python3-numpy
+python3-scipy
+python3-unittest2
+python3-urllib3

@@ -1,0 +1,14 @@
+SDL_mixer-devel
+boost-devel >= 1.37
+desktop-file-utils
+gnutls-devel
+libcurl-devel
+libgcrypt-devel
+libgsasl-devel
+libircclient-devel
+protobuf-devel
+qt4-devel
+qtsingleapplication-devel
+sqlite-devel
+tinyxml-devel
+zlib-devel

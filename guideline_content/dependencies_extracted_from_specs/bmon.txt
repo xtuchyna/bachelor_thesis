@@ -1,0 +1,3 @@
+libconfuse-devel
+libnl3-devel
+ncurses-devel

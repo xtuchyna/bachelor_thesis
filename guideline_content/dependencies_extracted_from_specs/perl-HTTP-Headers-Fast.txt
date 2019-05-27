@@ -1,0 +1,15 @@
+perl(:VERSION) >= 5.8.1
+perl(Carp)
+perl(HTTP::Date)
+perl(HTTP::Headers) >= 5.822
+perl(MIME::Base64)
+perl(Module::Build::Tiny) >= 0.035
+perl(Storable)
+perl(Test)
+perl(Test::More) >= 0.98
+perl(Test::Requires)
+perl(URI)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

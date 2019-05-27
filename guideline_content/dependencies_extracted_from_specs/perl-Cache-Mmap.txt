@@ -1,0 +1,22 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(IO::File)
+perl(IO::Seekable)
+perl(Storable)
+perl(Symbol)
+perl(Test::More)
+perl(constant)
+perl(integer)
+perl(open)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

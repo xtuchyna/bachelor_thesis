@@ -1,0 +1,14 @@
+alex = 3.2.3
+cabal-install = 2.0.0.1
+freeglut-devel
+ghc-Cabal-devel
+ghc-StateVar-devel
+ghc-compiler = 8.2.2
+ghc-rpm-macros-extra
+ghc-syb-devel
+ghc-text-devel
+ghc-transformers-devel
+happy = 1.19.8
+hscolour = 1.24.2
+mesa-libGL-devel
+mesa-libGLU-devel

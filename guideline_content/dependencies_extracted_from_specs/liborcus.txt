@@ -1,0 +1,8 @@
+boost-devel
+doxygen
+gcc-c++
+help2man
+pkgconfig(libixion-0.13)
+pkgconfig(mdds-1.2)
+pkgconfig(python3)
+pkgconfig(zlib)

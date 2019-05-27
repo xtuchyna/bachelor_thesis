@@ -1,0 +1,6 @@
+intltool
+libtool
+pkgconfig(gtk+-3.0)
+pkgconfig(libnm) >= 1.1.0
+pkgconfig(libnma) >= 1.1.0
+pkgconfig(libsecret-1)

@@ -1,0 +1,11 @@
+findutils
+make
+perl(File::Spec::Functions)
+perl(Module::Install::Metadata)
+perl(Scalar::Util) >= 1.18
+perl(Test::More) >= 0.42
+perl(inc::Module::Install::DSL) >= 0.91
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

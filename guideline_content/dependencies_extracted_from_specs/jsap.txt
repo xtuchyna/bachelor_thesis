@@ -1,0 +1,7 @@
+ant >= 1.7.1
+ant-junit
+javapackages-local
+rundoc
+snip
+xmlto
+xstream

@@ -1,0 +1,7 @@
+desktop-file-utils
+fontconfig-devel
+libdmtx-devel
+pkgconfig(Qt5UiTools)
+qt5-linguist
+qt5-qtbase-devel
+zlib-devel

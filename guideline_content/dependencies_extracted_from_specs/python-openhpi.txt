@@ -1,0 +1,4 @@
+glib2-devel
+openhpi-devel >= 2.10
+python2-devel
+swig

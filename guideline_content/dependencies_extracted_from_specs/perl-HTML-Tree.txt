@@ -1,0 +1,23 @@
+perl(Carp)
+perl(Encode)
+perl(Exporter)
+perl(HTML::Entities)
+perl(HTML::FormatText)
+perl(HTML::Parser) >= 3.46
+perl(HTML::Tagset) >= 3.02
+perl(LWP::UserAgent)
+perl(Module::Build)
+perl(Scalar::Util)
+perl(Test::Fatal)
+perl(Test::LeakTrace)
+perl(Test::More)
+perl(URI::file)
+perl(base)
+perl(constant)
+perl(integer)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

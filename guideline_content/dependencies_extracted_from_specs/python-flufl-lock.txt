@@ -1,0 +1,4 @@
+python-srpm-macros
+python3-atpublic
+python3-devel
+python3-setuptools

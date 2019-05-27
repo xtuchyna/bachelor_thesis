@@ -1,0 +1,12 @@
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test)
+perl(Text::Wrap)
+perl(integer)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

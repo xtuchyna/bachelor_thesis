@@ -1,0 +1,12 @@
+desktop-file-utils
+gettext
+glade3-libgladeui-devel >= 3.5.0
+gtk-doc
+gtk3-devel
+intltool
+libSM-devel
+pkgconfig(gobject-2.0) >= 2.24.0
+pkgconfig(gtk+-2.0) >= 2.20.0
+pkgconfig(libstartup-notification-1.0) >= 0.4
+pkgconfig(libxfce4util-1.0) >= 4.12
+pkgconfig(libxfconf-0) >= 4.12

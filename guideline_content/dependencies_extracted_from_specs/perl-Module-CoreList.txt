@@ -1,0 +1,11 @@
+make
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(List::Util)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(strict)
+perl(version) >= 0.88
+perl(warnings)
+perl-generators
+perl-interpreter

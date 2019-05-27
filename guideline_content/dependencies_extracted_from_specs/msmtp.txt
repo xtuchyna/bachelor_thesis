@@ -1,0 +1,5 @@
+gettext
+gnutls-devel
+libgsasl-devel
+libidn-devel
+libsecret-devel

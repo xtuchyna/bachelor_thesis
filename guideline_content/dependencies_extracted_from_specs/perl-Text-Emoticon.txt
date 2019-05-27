@@ -1,0 +1,7 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More) >= 0.32
+perl(UNIVERSAL::require)
+perl(strict)
+perl-generators
+perl-interpreter

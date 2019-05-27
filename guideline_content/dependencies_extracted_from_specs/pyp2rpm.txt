@@ -1,0 +1,11 @@
+python2dist(virtualenv-api)
+python3-devel
+python3dist(click)
+python3dist(flexmock) >= 0.9.3
+python3dist(jinja2)
+python3dist(pytest)
+python3dist(pytest-runner)
+python3dist(scripttest)
+python3dist(setuptools)
+python3dist(virtualenv-api)
+vex

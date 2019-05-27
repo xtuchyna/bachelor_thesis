@@ -1,0 +1,25 @@
+coreutils
+findutils
+gcc
+gmp-devel
+make
+perl(AutoLoader)
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Test::More)
+perl(blib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter >= 4:5.10.0

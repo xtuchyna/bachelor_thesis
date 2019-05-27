@@ -1,0 +1,5 @@
+ruby(release)
+rubygem(minitest4)
+rubygem(rdtool)
+rubygem(test-unit)
+rubygems-devel

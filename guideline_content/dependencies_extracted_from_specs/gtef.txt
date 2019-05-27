@@ -1,0 +1,9 @@
+gcc
+gettext
+pkgconfig(glib-2.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(gtksourceview-3.0)
+pkgconfig(libxml-2.0)
+pkgconfig(uchardet)
+vala

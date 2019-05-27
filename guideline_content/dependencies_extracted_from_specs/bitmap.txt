@@ -1,0 +1,5 @@
+desktop-file-utils
+libXaw-devel
+libXext-devel
+pkgconfig
+xorg-x11-xbitmaps

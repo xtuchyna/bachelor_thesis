@@ -1,0 +1,8 @@
+/usr/bin/awk
+atlas-devel
+gsl-devel >= 1.9
+ocaml >= 3.07
+ocaml-camlp4-devel
+ocaml-findlib-devel
+ocaml-ocamlbuild
+ocaml-ocamldoc

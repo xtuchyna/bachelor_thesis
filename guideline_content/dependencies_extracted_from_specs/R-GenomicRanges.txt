@@ -1,0 +1,12 @@
+R >= 3.4.0
+R-BiocGenerics >= 0.21.2
+R-GenomeInfoDb >= 1.11.5
+R-IRanges-devel >= 2.11.16
+R-S4Vectors-devel >= 0.9.47
+R-XVector-devel
+R-devel
+R-methods
+R-stats
+R-stats4
+R-utils
+tex(latex)

@@ -1,0 +1,3 @@
+cmake
+kde-filesystem
+kdelibs4-devel >= 4.14

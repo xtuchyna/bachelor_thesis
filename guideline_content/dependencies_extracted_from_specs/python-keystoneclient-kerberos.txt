@@ -1,0 +1,11 @@
+python-keystoneauth1
+python-mock
+python-oslotest
+python-pbr
+python-requests-kerberos
+python-requests-mock
+python-setuptools
+python-testrepository
+python-testscenarios
+python-testtools
+python2-devel

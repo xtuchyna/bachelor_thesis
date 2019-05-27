@@ -1,0 +1,11 @@
+mingw32-filesystem >= 96
+mingw32-qt5-qtbase = 5.10.1
+mingw32-qt5-qtbase-devel = 5.10.1
+mingw32-qt5-qtbase-static = 5.10.1
+mingw32-qt5-qtdeclarative = 5.10.1
+mingw64-filesystem >= 96
+mingw64-qt5-qtbase = 5.10.1
+mingw64-qt5-qtbase-devel = 5.10.1
+mingw64-qt5-qtbase-static = 5.10.1
+mingw64-qt5-qtdeclarative = 5.10.1
+zlib-devel

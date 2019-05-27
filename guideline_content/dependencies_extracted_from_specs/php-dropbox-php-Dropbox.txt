@@ -1,0 +1,2 @@
+php-channel(pear.dropbox-php.com)
+php-pear(PEAR)

@@ -1,0 +1,5 @@
+perl(Class::Accessor::Chained)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl-generators

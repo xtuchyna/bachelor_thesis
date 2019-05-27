@@ -1,0 +1,10 @@
+c-ares-devel
+cppunit-devel
+gcc-c++
+glite-lbjp-common-gss-devel
+gsoap-devel
+libtool
+perl(Getopt::Long)
+perl(POSIX)
+perl-interpreter
+pkgconfig

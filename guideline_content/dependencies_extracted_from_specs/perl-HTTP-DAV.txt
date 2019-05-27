@@ -1,0 +1,28 @@
+make
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Glob)
+perl(File::Path)
+perl(File::Temp)
+perl(FileHandle)
+perl(HTTP::Date)
+perl(HTTP::Headers)
+perl(HTTP::Request)
+perl(HTTP::Response)
+perl(LWP) >= 5.48
+perl(Scalar::Util)
+perl(Test)
+perl(Test::More)
+perl(Time::Local)
+perl(URI)
+perl(URI::Escape)
+perl(URI::file)
+perl(XML::DOM)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

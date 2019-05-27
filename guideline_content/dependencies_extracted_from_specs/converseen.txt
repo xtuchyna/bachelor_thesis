@@ -1,0 +1,6 @@
+ImageMagick-c++-devel
+ImageMagick-devel
+cmake
+desktop-file-utils
+qt5-linguist
+qt5-qtbase-devel

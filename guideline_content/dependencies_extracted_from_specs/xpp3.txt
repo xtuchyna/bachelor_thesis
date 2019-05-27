@@ -1,0 +1,4 @@
+ant
+java-javadoc
+javapackages-local
+junit

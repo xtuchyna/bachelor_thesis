@@ -1,0 +1,5 @@
+compiler(go-compiler)
+golang(github.com/boombuler/barcode)
+golang(github.com/boombuler/barcode/qr)
+golang(github.com/stretchr/testify/assert)
+golang(github.com/stretchr/testify/require)

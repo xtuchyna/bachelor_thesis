@@ -1,0 +1,5 @@
+openssl-devel
+perl(Authen::Krb5)
+perl(ExtUtils::MakeMaker)
+perl-devel
+perl-generators

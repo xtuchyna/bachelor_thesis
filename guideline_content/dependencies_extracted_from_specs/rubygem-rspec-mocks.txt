@@ -1,0 +1,4 @@
+git
+rubygem(rspec)
+rubygem(thread_order)
+rubygems-devel

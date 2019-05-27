@@ -1,0 +1,13 @@
+automake
+binutils-static
+docbook-style-xsl
+docbook-utils
+elinks
+gtk2-devel
+java-1.8.0-openjdk-devel
+java-devel
+jpackage-utils
+libpfm-devel >= 4.3.0
+libtool
+libxslt
+popt-devel

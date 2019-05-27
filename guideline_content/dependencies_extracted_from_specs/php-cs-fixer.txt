@@ -1,0 +1,29 @@
+(php-composer(composer/semver) >= 1.4 with php-composer(composer/semver) < 2)
+(php-composer(doctrine/annotations) >= 1.2 with php-composer(doctrine/annotations) < 2)
+(php-composer(justinrainbow/json-schema) >= 5.0 with php-composer(justinrainbow/json-schema) < 6)
+(php-composer(mikey179/vfsStream) >= 1.6 with php-composer(mikey179/vfsStream) < 2)
+(php-composer(php-cs-fixer/accessible-object) >= 1.0 with php-composer(php-cs-fixer/accessible-object) < 2)
+(php-composer(sebastian/diff) >= 1.4 with php-composer(sebastian/diff) < 2)
+(php-composer(symfony/polyfill-php70) >= 1.0 with php-composer(symfony/polyfill-php70) < 2)
+(php-composer(symfony/polyfill-php72) >= 1.4 with php-composer(symfony/polyfill-php72) < 2)
+php(language) >= 5.6
+php-dom
+php-fedora-autoloader-devel
+php-json
+php-mbstring
+php-pcre
+php-phar
+php-reflection
+php-spl
+php-symfony3-console
+php-symfony3-debug
+php-symfony3-event-dispatcher
+php-symfony3-filesystem
+php-symfony3-finder
+php-symfony3-options-resolver
+php-symfony3-phpunit-bridge >= 3.2.2
+php-symfony3-process
+php-symfony3-stopwatch
+php-tokenizer
+php-xml
+phpunit7 >= 7.0

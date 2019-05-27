@@ -1,0 +1,13 @@
+make
+perl
+perl(AutoLoader)
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Net::Telnet) >= 3.02
+perl(Test)
+perl(Test::Simple)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

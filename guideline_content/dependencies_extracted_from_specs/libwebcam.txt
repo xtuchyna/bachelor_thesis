@@ -1,0 +1,4 @@
+cmake
+gcc
+gengetopt
+libxml2-devel

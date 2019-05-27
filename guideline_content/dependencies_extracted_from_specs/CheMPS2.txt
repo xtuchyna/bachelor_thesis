@@ -1,0 +1,7 @@
+Cython
+atlas-devel
+cmake
+hdf5-devel
+numpy
+python2-devel
+zlib-devel

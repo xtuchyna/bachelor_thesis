@@ -1,0 +1,4 @@
+byacc
+flex
+gcc
+libpng-devel

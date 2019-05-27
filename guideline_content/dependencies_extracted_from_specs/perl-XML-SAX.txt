@@ -1,0 +1,25 @@
+coreutils
+make
+perl(Carp)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fatal)
+perl(File::Basename)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::File)
+perl(Symbol)
+perl(Test)
+perl(XML::NamespaceSupport) >= 0.03
+perl(XML::SAX::Base)
+perl(XML::SAX::Exception)
+perl(base)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

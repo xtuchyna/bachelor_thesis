@@ -1,0 +1,6 @@
+python-setuptools
+python-unittest2 >= 0.5.1
+python2-devel
+python3-devel
+python3-setuptools
+python3-unittest2 >= 0.5.1

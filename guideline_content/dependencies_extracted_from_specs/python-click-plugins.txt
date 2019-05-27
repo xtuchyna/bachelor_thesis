@@ -1,0 +1,6 @@
+python2-click >= 3.0
+python2-devel
+python2-pytest
+python3-click >= 3.0
+python3-devel
+python3-pytest

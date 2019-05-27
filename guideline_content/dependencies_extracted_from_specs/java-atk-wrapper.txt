@@ -1,0 +1,9 @@
+GConf2-devel
+at-spi2-atk-devel
+at-spi2-core-devel
+atk-devel
+glib2-devel
+gtk2-devel
+gtk3-devel
+java-devel
+xorg-x11-utils

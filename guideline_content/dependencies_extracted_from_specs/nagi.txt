@@ -1,0 +1,3 @@
+SDL-devel
+SDL-static
+docbook-utils

@@ -1,0 +1,9 @@
+giac-devel >= 1.4.9.1
+giac-doc >= 1.4.9.1
+gmp-devel
+libqcas-devel
+python2-Cython
+python2-devel
+python3-Cython
+python3-devel
+qt5-qtsvg-devel

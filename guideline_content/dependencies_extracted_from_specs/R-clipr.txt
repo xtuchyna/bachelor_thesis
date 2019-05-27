@@ -1,0 +1,5 @@
+R-devel
+R-rstudioapi
+R-testthat
+R-utils
+tex(latex)

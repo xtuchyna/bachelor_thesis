@@ -1,0 +1,19 @@
+odfpy >= 0.9
+perl-generators
+pyPdf >= 1.12
+pyparsing >= 1.4.11
+pytest
+python-apipkg >= 1.2
+python-bottle >= 0.10
+python-dateutil
+python-devel
+python-docutils
+python-gevent
+python-lxml
+python-pillow
+python-py >= 1.4
+python-qserve >= 0.2.7
+python-roman
+python-setuptools
+python-simplejson >= 2.3
+python-sqlite3dbm

@@ -1,0 +1,12 @@
+python2-case
+python2-devel
+python2-mock
+python2-pytest
+python2-setuptools
+python2-unittest2
+python3-case
+python3-devel
+python3-mock
+python3-pytest
+python3-setuptools
+python3-unittest2

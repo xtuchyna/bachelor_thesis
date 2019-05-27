@@ -1,0 +1,9 @@
+ruby
+ruby(release)
+rubygem(activerecord) >= 4.2.8
+rubygem(database_cleaner)
+rubygem(rspec)
+rubygem(rspec-its)
+rubygem(rspec-rails)
+rubygem(sqlite3)
+rubygems-devel

@@ -1,0 +1,6 @@
+pam-devel >= 0.0.6
+ruby
+ruby-devel >= 1.9
+ruby-irb
+rubygem-rake
+rubygems-devel

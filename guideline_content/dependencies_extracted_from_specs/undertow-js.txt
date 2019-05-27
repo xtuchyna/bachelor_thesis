@@ -1,0 +1,9 @@
+maven-local
+mvn(com.github.spullara.mustache.java:compiler)
+mvn(io.undertow:undertow-core)
+mvn(io.undertow:undertow-servlet)
+mvn(io.undertow:undertow-websockets-jsr)
+mvn(javax.enterprise:cdi-api)
+mvn(org.freemarker:freemarker) >= 2.3.23
+mvn(org.jboss.logging:jboss-logging-processor)
+mvn(org.jboss:jboss-parent:pom:)

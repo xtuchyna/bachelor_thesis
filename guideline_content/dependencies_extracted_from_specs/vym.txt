@@ -1,0 +1,4 @@
+desktop-file-utils
+libXext-devel
+qt5-qtbase-devel
+qt5-qtsvg-devel

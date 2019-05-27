@@ -1,0 +1,7 @@
+eclipse-jdt
+eclipse-jgit >= 4.11.0
+eclipse-license
+eclipse-mylyn
+eclipse-platform >= 1:4.6.0
+maven-antrun-plugin
+tycho

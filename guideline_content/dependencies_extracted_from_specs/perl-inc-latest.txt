@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(File::Spec)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

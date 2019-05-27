@@ -1,0 +1,11 @@
+GConf2-devel
+gettext
+gnome-doc-utils
+gsettings-desktop-schemas-devel
+gtk3-devel >= 3.0.0
+intltool
+libXcursor-devel
+libXfixes-devel
+libXtst-devel
+libglade2-devel
+pkgconfig

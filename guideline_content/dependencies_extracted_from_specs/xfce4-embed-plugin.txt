@@ -1,0 +1,6 @@
+gtk2-devel
+intltool
+libX11-devel
+libxfce4ui-devel >= 4.8
+libxfce4util-devel >= 4.8
+xfce4-panel-devel >= 4.8

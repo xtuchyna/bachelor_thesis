@@ -1,0 +1,8 @@
+autoconf
+automake
+desktop-file-utils
+gettext
+gtk2-devel
+intltool
+libnotify-devel
+openobex-devel

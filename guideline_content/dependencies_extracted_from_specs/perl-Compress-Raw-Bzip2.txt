@@ -1,0 +1,29 @@
+bzip2-devel
+coreutils
+findutils
+gcc
+make
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::Constant)
+perl(ExtUtils::MakeMaker) >= 5.16
+perl(File::Copy)
+perl(File::Path)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(Scalar::Util)
+perl(Test::NoWarnings)
+perl(Test::Pod) >= 1.00
+perl(XSLoader)
+perl(bytes)
+perl(constant)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(threads::shared)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

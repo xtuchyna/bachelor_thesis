@@ -1,0 +1,6 @@
+alsa-lib-devel
+desktop-file-utils
+fltk-devel
+jack-audio-connection-kit-devel
+liblo-devel
+scons

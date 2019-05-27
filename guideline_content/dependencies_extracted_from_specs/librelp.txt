@@ -1,0 +1,4 @@
+autoconf
+automake
+gnutls-devel >= 1.4.0
+libtool

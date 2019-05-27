@@ -1,0 +1,11 @@
+GConf2-devel
+autoconf
+automake
+desktop-file-utils
+gettext
+gnome-common
+gnome-doc-utils
+gtk3-devel
+intltool
+libtool
+scrollkeeper

@@ -1,0 +1,16 @@
+avahi-gobject-devel
+compat-openssl10-devel
+cyrus-sasl-devel
+dbus-devel >= 1.1.0
+dbus-glib-devel >= 0.61
+dbus-python
+gtk-doc
+libasyncns-devel >= 0.3
+libsoup-devel
+libuuid-devel
+libxml2-devel
+libxslt
+pygobject2
+python-twisted-words
+sqlite-devel
+telepathy-glib-devel >= 0.17.1

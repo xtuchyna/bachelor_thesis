@@ -1,0 +1,4 @@
+bison
+desktop-file-utils
+flex
+qt-devel

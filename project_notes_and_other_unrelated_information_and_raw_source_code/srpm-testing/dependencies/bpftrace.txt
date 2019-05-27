@@ -1,0 +1,12 @@
+bcc-devel
+bison
+clang-devel
+cmake
+elfutils-libelf-devel
+flex
+gcc-c++
+llvm7.0-devel
+llvm7.0-static
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+zlib-devel

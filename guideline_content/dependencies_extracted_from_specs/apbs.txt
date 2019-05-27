@@ -1,0 +1,7 @@
+arpack-devel
+atlas-devel
+blas-devel
+cmake
+doxygen
+maloc-devel
+zlib-devel

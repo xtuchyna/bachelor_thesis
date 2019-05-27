@@ -1,0 +1,10 @@
+diffutils
+fedora-gnat-project-common
+gcc-gnat
+gprbuild
+gtk3-devel
+libGL-devel
+libGLU-devel
+make
+python2
+recode

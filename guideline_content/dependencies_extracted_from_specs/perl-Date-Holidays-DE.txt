@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(Date::Calc)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(POSIX)
+perl(Test)
+perl(Time::Local)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

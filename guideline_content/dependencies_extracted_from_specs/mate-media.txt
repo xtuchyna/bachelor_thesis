@@ -1,0 +1,7 @@
+desktop-file-utils
+gtk3-devel
+libcanberra-devel
+libmatemixer-devel
+libxml2-devel
+mate-common
+mate-desktop-devel

@@ -1,0 +1,7 @@
+globus-common-devel >= 15
+globus-gass-cache-devel >= 8
+globus-gass-copy-devel >= 8
+globus-gass-server-ez-devel >= 4
+globus-gass-transfer-devel >= 7
+globus-gram-client-devel >= 12
+perl-generators

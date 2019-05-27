@@ -1,0 +1,7 @@
+autoconf
+automake
+desktop-file-utils
+gettext-devel
+gtk2-devel
+hamlib-devel
+shared-mime-info

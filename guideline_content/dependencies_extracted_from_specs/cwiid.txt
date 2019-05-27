@@ -1,0 +1,9 @@
+autoconf
+automake
+bison
+bluez-libs-devel
+desktop-file-utils
+flex
+gawk
+gtk2-devel
+python-devel >= 2.4

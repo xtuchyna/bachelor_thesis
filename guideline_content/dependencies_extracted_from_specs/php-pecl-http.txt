@@ -1,0 +1,16 @@
+brotli-devel >= 1.0
+curl-devel >= 7.18.2
+gcc
+libevent-devel >= 1.4
+libicu-devel
+openssl-devel
+pcre-devel
+php-devel >= 7
+php-hash
+php-iconv
+php-pear
+php-pecl-propro-devel >= 1.0.0
+php-pecl-raphf-devel >= 1.1.0
+php-spl
+pkgconfig
+zlib-devel >= 1.2.0.4

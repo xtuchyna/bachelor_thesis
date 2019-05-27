@@ -1,0 +1,4 @@
+cmake
+doxygen
+ignition-math-devel >= 3
+protobuf-devel

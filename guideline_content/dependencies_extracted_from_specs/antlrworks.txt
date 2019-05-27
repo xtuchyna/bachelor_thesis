@@ -1,0 +1,8 @@
+desktop-file-utils
+libappstream-glib
+maven-local
+mvn(com.jgoodies:jgoodies-forms)
+mvn(org.antlr:antlr)
+mvn(org.antlr:antlr-runtime)
+mvn(org.antlr:stringtemplate)
+mvn(org.sonatype.oss:oss-parent:pom:)

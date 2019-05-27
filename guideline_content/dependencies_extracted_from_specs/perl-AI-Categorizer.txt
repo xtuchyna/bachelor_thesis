@@ -1,0 +1,24 @@
+findutils
+perl(AI::DecisionTree) >= 0.06
+perl(Algorithm::NaiveBayes)
+perl(Algorithm::SVM) >= 0.06
+perl(Algorithm::SVM::DataSet)
+perl(Carp)
+perl(Class::Container) >= 0.09
+perl(Config)
+perl(Exporter)
+perl(File::Copy)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(Lingua::Stem) >= 0.5
+perl(Module::Build)
+perl(Params::Validate) >= 0.18
+perl(Statistics::Contingency) >= 0.06
+perl(Storable)
+perl(Test)
+perl(Time::Progress) >= 1.1
+perl(base)
+perl(strict)
+perl-generators
+perl-interpreter >= 1:5.6.0

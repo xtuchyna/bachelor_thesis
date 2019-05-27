@@ -1,0 +1,10 @@
+gettext
+glib2-devel
+gtk-doc
+intltool
+libtool
+perl(XML::Parser)
+pygobject2-devel
+pygtk2-codegen
+python2
+python2-devel

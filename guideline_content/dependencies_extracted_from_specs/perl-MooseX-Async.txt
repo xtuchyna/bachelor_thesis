@@ -1,0 +1,5 @@
+perl(Moose) >= 0.56
+perl(MooseX::AttributeHelpers) >= 0.13
+perl(Test::More) >= 0.42
+perl(inc::Module::Install)
+perl-generators

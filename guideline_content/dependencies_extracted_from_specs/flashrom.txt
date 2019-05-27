@@ -1,0 +1,7 @@
+dmidecode
+libftdi-devel
+libusb-devel
+libusbx-devel
+pciutils-devel
+systemd
+zlib-devel

@@ -1,0 +1,9 @@
+autoconf
+automake
+gettext
+intltool
+libappstream-glib
+libnotify-devel >= 0.3.2
+libtool
+perl(XML::Parser)
+pidgin-devel >= 2.0.0

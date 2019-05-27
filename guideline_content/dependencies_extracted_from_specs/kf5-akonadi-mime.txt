@@ -1,0 +1,15 @@
+cmake(Qt5Gui)
+cyrus-sasl-devel
+extra-cmake-modules
+kf5-akonadi-server >= 17.12.3
+kf5-akonadi-server-devel >= 17.12.3
+kf5-akonadi-server-mysql
+kf5-kcodecs-devel >= 5.23
+kf5-kcompletion-devel >= 5.23
+kf5-kcontacts-devel >= 5.23
+kf5-kio-devel >= 5.23
+kf5-kmime-devel >= 17.12.3
+kf5-rpm-macros
+pkgconfig(libxslt)
+pkgconfig(shared-mime-info)
+xorg-x11-server-Xvfb

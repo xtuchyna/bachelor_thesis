@@ -1,0 +1,4 @@
+jansson-devel >= 2.10
+openssl-devel
+pkgconfig
+zlib-devel

@@ -1,0 +1,13 @@
+cmake
+desktop-file-utils
+gettext
+libappstream-glib
+pkgconfig(gee-0.8)
+pkgconfig(glib-2.0)
+pkgconfig(gobject-2.0)
+pkgconfig(granite) >= 0.5
+pkgconfig(gtk+-3.0) >= 3.9.10
+pkgconfig(gtksourceview-3.0)
+pkgconfig(libgda-5.0)
+pkgconfig(libxml-2.0)
+vala

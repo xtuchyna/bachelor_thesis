@@ -1,0 +1,6 @@
+desktop-file-utils
+libappstream-glib
+pkgconfig(Qt5Core)
+python-devel
+qt5-qttools-devel
+zlib-devel

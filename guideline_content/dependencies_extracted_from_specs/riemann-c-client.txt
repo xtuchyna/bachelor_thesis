@@ -1,0 +1,5 @@
+chrpath
+gnutls-devel
+json-c-devel
+pkgconfig
+protobuf-c-devel

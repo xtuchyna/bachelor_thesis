@@ -1,0 +1,7 @@
+/usr/bin/rst2man
+python3-devel
+python3-pytest
+python3-pytest-runner
+python3-setuptools
+python3-sphinx
+python3-sphinx_rtd_theme

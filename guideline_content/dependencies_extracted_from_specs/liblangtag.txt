@@ -1,0 +1,6 @@
+glibc-common
+gtk-doc
+pkgconfig(check)
+pkgconfig(gobject-2.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(libxml-2.0)

@@ -1,0 +1,6 @@
+/usr/bin/ping
+ruby(release)
+rubygem(rake)
+rubygem(rdoc)
+rubygem(rspec2)
+rubygems-devel

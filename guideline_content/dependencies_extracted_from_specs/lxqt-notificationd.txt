@@ -1,0 +1,6 @@
+cmake >= 3.0
+desktop-file-utils
+kf5-kwindowsystem-devel >= 5.5
+pkgconfig(Qt5Help)
+pkgconfig(Qt5Xdg)
+pkgconfig(lxqt) >= 0.11.0

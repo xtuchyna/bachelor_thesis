@@ -1,0 +1,8 @@
+/usr/bin/pod2man
+bash-completion
+emacs-common >= 1:22.3-3
+help2man
+perl-generators
+python3
+rpm-python3
+xemacs-common >= 21.5.29-8

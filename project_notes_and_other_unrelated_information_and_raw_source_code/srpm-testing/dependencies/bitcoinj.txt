@@ -1,0 +1,23 @@
+leveldb
+maven-local
+mvn(com.fasterxml.jackson.core:jackson-databind)
+mvn(com.google.code.findbugs:jsr305)
+mvn(com.google.protobuf:protobuf-java)
+mvn(com.h2database:h2)
+mvn(com.lambdaworks:scrypt)
+mvn(com.squareup.okhttp:okhttp)
+mvn(junit:junit)
+mvn(net.jcip:jcip-annotations)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.bouncycastle:bcprov-jdk15on)
+mvn(org.easymock:easymock)
+mvn(org.fusesource.hawtjni:hawtjni-runtime)
+mvn(org.fusesource.leveldbjni:leveldbjni)
+mvn(org.iq80.leveldb:leveldb)
+mvn(org.jacoco:jacoco-maven-plugin)
+mvn(org.slf4j:slf4j-jdk14)
+mvn(org.sonatype.oss:oss-parent:pom:)
+protobuf-compiler
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

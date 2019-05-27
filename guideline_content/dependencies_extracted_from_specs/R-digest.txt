@@ -1,0 +1,2 @@
+R-devel >= 3.4.0
+tetex-latex

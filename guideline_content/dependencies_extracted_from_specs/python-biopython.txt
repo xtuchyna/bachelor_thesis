@@ -1,0 +1,15 @@
+flex-devel
+gcc
+python2-devel
+python2-mysql
+python2-numpy
+python2-psycopg2
+python2-rdflib
+python2-reportlab
+python3-devel
+python3-mysql
+python3-numpy
+python3-psycopg2
+python3-rdflib
+python3-reportlab
+wise2

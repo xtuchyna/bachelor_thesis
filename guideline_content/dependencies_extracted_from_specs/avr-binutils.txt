@@ -1,0 +1,5 @@
+autoconf
+automake
+gawk
+gettext-devel
+texinfo

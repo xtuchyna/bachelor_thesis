@@ -1,0 +1,13 @@
+ant
+bea-stax-api
+dom4j
+java-devel >= 1:1.6.0
+java-javadoc
+javapackages-local
+jdom >= 1.0-0.b7
+jdom-javadoc >= 1.0-0.b9.3jpp
+jdom2
+unzip
+xml-commons-apis
+xml-commons-resolver
+xom

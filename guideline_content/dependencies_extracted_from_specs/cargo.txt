@@ -1,0 +1,12 @@
+cargo >= 0.13.0
+cmake
+gcc
+git
+libcurl-devel
+libgit2-devel >= 0.24
+libssh2-devel
+make
+openssl-devel
+pkgconfig
+rust
+zlib-devel

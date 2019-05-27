@@ -1,0 +1,15 @@
+perl(Carp)
+perl(Exporter)
+perl(File::Basename)
+perl(File::Spec)
+perl(Module::Build)
+perl(POSIX)
+perl(Test::More) >= 0.98
+perl(Time::Local)
+perl(base)
+perl(constant)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.008004

@@ -1,0 +1,5 @@
+maven-local
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.apache.maven.plugins:maven-release-plugin)
+mvn(org.apache.maven.shared:maven-common-artifact-filters)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)

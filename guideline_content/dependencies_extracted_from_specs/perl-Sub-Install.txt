@@ -1,0 +1,10 @@
+perl(B)
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(Scalar::Util)
+perl(Test::More) >= 0.88
+perl(Test::Output)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

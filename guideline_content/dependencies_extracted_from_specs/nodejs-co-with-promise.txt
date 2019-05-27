@@ -1,0 +1,4 @@
+mocha
+nodejs-packaging
+npm(mz)
+npm(pinkie-promise)

@@ -1,0 +1,11 @@
+audit-libs-devel
+curl
+desktop-file-utils
+dracut
+libjose-devel >= 8
+libluksmeta-devel >= 8
+libudisks2-devel
+openssl-devel
+pkgconfig
+systemd
+tang >= 6

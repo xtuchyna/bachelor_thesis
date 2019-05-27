@@ -1,0 +1,8 @@
+globus-common-devel >= 15
+globus-gss-assist-devel >= 8
+globus-gssapi-error-devel >= 4
+globus-gssapi-gsi-devel >= 10
+globus-xio-devel >= 3
+globus-xio-gsi-driver-devel >= 2
+openssl
+perl(Test::More)

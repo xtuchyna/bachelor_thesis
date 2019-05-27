@@ -1,0 +1,34 @@
+activemq-core
+activemq-kahadb
+ant-contrib
+apache-commons-exec
+apache-ivy >= 2.3.0
+avro-mapred
+datanucleus-api-jdo
+datanucleus-rdbms
+fb303-devel
+fb303-java
+glassfish-servlet-api
+groovy18 >= 1.8.9-15
+hadoop-tests
+ivy-local >= 3.5.0-2
+jackson
+java-devel
+javaewah
+javolution
+jdo-api
+jetty8
+json-lib
+json_simple
+jul-to-slf4j
+libthrift-java
+make
+maven-clean-plugin
+maven-install-plugin
+maven-local >= 3.5.0-2
+pig
+rsync
+snappy-java
+thrift-devel
+xmvn >= 2.1.0-5
+zookeeper-java

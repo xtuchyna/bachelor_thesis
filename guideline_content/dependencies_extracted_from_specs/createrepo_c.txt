@@ -1,0 +1,22 @@
+bash-completion
+bzip2-devel
+cmake
+doxygen
+drpm-devel >= 0.1.3
+expat-devel
+file-devel
+gcc
+glib2-devel >= 2.22.0
+libcurl-devel
+libxml2-devel
+openssl-devel
+python2-devel
+python2-nose
+python2-sphinx
+python3-devel
+python3-nose
+python3-sphinx
+rpm-devel >= 4.8.0-28
+sqlite-devel
+xz-devel
+zlib-devel

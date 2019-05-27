@@ -1,0 +1,4 @@
+php-composer(fedora/autoloader)
+php-fedora-autoloader-devel
+php-zip
+phpunit

@@ -1,0 +1,17 @@
+dos2unix
+perl(Data::Dumper)
+perl(List::MoreUtils)
+perl(Module::Build)
+perl(Moose) >= 0.57
+perl(Moose::Role)
+perl(MooseX::Object::Pluggable) >= 0.0008
+perl(PPI) >= 1.201
+perl(PPI::Token::Comment)
+perl(Path::Class) >= 0.16
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

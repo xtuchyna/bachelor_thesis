@@ -1,0 +1,6 @@
+cmake
+glib2-devel
+glusterfs-api-devel
+kmod-devel
+libnl3-devel
+zlib-devel

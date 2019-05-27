@@ -1,0 +1,6 @@
+autoconf
+automake
+desktop-file-utils
+gpsim-devel
+kdelibs3-devel
+readline-devel

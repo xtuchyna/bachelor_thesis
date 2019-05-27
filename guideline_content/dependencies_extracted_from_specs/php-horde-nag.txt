@@ -1,0 +1,6 @@
+gettext
+php-channel(pear.horde.org)
+php-pear(PEAR) >= 1.7.0
+php-pear(pear.horde.org/Horde_Core) >= 2.6.1
+php-pear(pear.horde.org/Horde_Role) >= 1.0.0
+php-pear(pear.horde.org/Horde_Test) >= 2.1.0

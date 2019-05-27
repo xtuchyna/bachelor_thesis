@@ -1,0 +1,21 @@
+boost-devel
+cairo-devel
+freetype-devel
+git-core
+libicu-devel
+libtool-ltdl-devel
+libxml2-devel
+mapnik-devel >= 3.0.18
+mapnik-static >= 3.0.18
+mapnik-utils
+node-gyp
+nodejs-devel
+npm(mapnik-vector-tile) >= 1.6.1
+npm(mocha)
+npm(nan) >= 2.8.0
+npm(sphericalmercator)
+polyclipping-devel
+protobuf-lite-devel
+protozero-devel >= 1.5.1
+protozero-static >= 1.5.1
+sparsehash-devel

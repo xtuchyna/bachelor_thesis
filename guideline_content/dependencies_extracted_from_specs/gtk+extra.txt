@@ -1,0 +1,3 @@
+gtk-doc
+gtk2-devel
+libtool

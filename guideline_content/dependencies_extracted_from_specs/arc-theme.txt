@@ -1,0 +1,4 @@
+autoconf
+automake
+fdupes
+gtk3-devel

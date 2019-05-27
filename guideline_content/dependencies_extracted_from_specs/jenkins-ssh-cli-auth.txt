@@ -1,0 +1,6 @@
+maven-local
+mvn(org.jenkins-ci.main:jenkins-core)
+mvn(org.jenkins-ci.modules:instance-identity)
+mvn(org.jenkins-ci.plugins:plugin:pom:)
+mvn(org.jenkins-ci.tools:maven-hpi-plugin)
+mvn(org.kohsuke:access-modifier-checker)

@@ -1,0 +1,6 @@
+json-c-devel
+libcurl-devel
+liboauth-devel
+libxml2-devel
+pcre-devel
+pkgconfig

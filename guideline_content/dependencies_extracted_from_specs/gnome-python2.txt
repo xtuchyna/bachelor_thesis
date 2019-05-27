@@ -1,0 +1,7 @@
+libbonobo-devel >= 2.8.0
+libbonoboui-devel >= 2.8.0
+libgnome-devel >= 2.8.0
+libgnomeui-devel >= 2.8.0
+pygtk2-devel >= 2.10.3
+pyorbit-devel >= 2.0.1
+python2-devel >= 2.3.0

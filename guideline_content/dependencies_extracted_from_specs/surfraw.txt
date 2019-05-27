@@ -1,0 +1,4 @@
+/usr/bin/pod2man
+elinks
+gawk
+perl-generators

@@ -1,0 +1,10 @@
+automake
+curl-devel >= 7.10.0
+libogg-devel >= 1.0
+libtheora-devel >= 1.0
+libvorbis-devel >= 1.0
+libxml2-devel
+libxslt-devel
+openssl-devel
+speex-devel
+systemd

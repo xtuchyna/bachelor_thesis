@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(DateTime) >= 0.18
+perl(ExtUtils::MakeMaker)
+perl(Test::More) >= 0.47
+perl(Test::Pod) >= 1.00
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

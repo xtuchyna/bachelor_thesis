@@ -1,0 +1,4 @@
+ant
+javapackages-local
+mvn(jaxen:jaxen)
+mvn(xerces:xercesImpl)

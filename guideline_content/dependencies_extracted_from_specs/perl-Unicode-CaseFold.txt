@@ -1,0 +1,10 @@
+perl(Exporter)
+perl(Module::Build)
+perl(Scalar::Util)
+perl(Test::More)
+perl(XSLoader)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-devel
+perl-generators

@@ -1,0 +1,8 @@
+SOIL-devel
+freetype-devel
+glew-devel
+libXrandr-devel
+libjpeg-devel
+libpng-devel
+libsndfile-devel
+openal-devel

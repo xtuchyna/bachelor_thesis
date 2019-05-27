@@ -1,0 +1,4 @@
+desktop-file-utils
+qt5-qtbase-devel
+qt5-qtxmlpatterns-devel
+xtuple-openrpt-devel

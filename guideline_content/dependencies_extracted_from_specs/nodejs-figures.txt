@@ -1,0 +1,3 @@
+nodejs-packaging
+npm(escape-string-regexp)
+npm(object-assign)

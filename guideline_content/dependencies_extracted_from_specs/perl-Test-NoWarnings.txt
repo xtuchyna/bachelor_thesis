@@ -1,0 +1,14 @@
+make
+perl(:VERSION) >= 5.6
+perl(Carp)
+perl(Devel::StackTrace)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::Builder) >= 0.86
+perl(Test::More) >= 0.47
+perl(Test::Tester) >= 0.107
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

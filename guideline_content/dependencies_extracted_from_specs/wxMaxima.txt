@@ -1,0 +1,8 @@
+GraphicsMagick
+cmake
+desktop-file-utils
+doxygen
+gettext
+libappstream-glib
+libxml2-devel
+wxGTK3-devel

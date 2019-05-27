@@ -1,0 +1,11 @@
+python-coverage
+python-nose
+python-setuptools
+python-webob
+python-zope-interface
+python2-devel
+python3-coverage
+python3-devel
+python3-nose
+python3-webob
+python3-zope-interface

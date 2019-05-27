@@ -1,0 +1,5 @@
+alsa-lib
+alsa-lib-devel
+fftw3-devel
+libsndfile-devel
+pulseaudio-libs-devel

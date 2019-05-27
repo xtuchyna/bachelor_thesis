@@ -1,0 +1,6 @@
+autoconf
+automake
+libtool
+mingw32-binutils
+mingw32-filesystem >= 56
+mingw32-gcc

@@ -1,0 +1,9 @@
+/usr/bin/python
+/usr/bin/ruby
+cyrus-sasl-devel
+doxygen
+libtool
+pkgconfig
+python2-devel
+ruby-devel
+swig

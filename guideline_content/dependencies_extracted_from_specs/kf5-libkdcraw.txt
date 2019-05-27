@@ -1,0 +1,5 @@
+cmake(Qt5Gui)
+extra-cmake-modules
+gettext
+kf5-rpm-macros
+pkgconfig(libraw) >= 0.15

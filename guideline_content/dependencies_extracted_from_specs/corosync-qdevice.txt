@@ -1,0 +1,7 @@
+corosynclib-devel
+groff
+libqb-devel
+nss-devel
+sed
+systemd
+systemd-devel

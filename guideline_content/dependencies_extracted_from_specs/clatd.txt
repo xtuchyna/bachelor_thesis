@@ -1,0 +1,4 @@
+/usr/bin/pod2man
+coreutils
+perl-interpreter
+systemd

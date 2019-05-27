@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(mocha)
+npm(sprintf-js)
+npm(underscore)
+npm(underscore.string)

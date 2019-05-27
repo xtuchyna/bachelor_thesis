@@ -1,0 +1,2 @@
+(crate(tempdir) >= 0.3.4 with crate(tempdir) < 0.4.0)
+rust-packaging

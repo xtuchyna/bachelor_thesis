@@ -1,0 +1,17 @@
+boost-devel
+cmake
+doxygen
+emacs(bin)
+gettext-devel
+gmp-devel
+graphviz
+libedit-devel
+man2html
+mpfr-devel
+python-devel
+texinfo
+texinfo-tex
+texlive-cm-super
+texlive-ec
+texlive-eurosym
+utf8cpp-devel

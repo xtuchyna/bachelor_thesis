@@ -1,0 +1,11 @@
+findutils
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(XML::NamespaceFactory)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

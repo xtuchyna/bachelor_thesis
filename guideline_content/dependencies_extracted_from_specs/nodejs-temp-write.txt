@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(graceful-fs)
+npm(is-stream)
+npm(make-dir)
+npm(pify)
+npm(temp-dir)
+npm(uuid)

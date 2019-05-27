@@ -1,0 +1,7 @@
+junit
+logback
+maven-enforcer-plugin
+maven-local
+maven-plugin-bundle
+ops4j-master
+slf4j

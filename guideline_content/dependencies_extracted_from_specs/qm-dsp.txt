@@ -1,0 +1,5 @@
+atlas-devel
+boost-devel
+imake
+kiss-fft-static
+valgrind

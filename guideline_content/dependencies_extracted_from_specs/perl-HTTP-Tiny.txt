@@ -1,0 +1,26 @@
+findutils
+make
+perl(Carp)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::Dir)
+perl(IO::File)
+perl(IO::Socket)
+perl(IO::Socket::INET)
+perl(IPC::Cmd)
+perl(MIME::Base64)
+perl(Socket)
+perl(Test::More) >= 0.96
+perl(Time::Local)
+perl(bytes)
+perl(lib)
+perl(open)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

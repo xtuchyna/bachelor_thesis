@@ -1,0 +1,6 @@
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(psr/container) < 2.0
+php-composer(psr/container) >= 1.0
+php-reflection
+php-spl

@@ -1,0 +1,11 @@
+cmake
+desktop-file-utils
+fcitx-devel
+fontconfig
+fontconfig-devel
+gettext
+intltool
+libXft-devel
+libXpm-devel
+libcurl-devel
+pkgconfig

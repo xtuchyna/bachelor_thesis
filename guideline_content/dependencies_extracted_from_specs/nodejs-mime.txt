@@ -1,0 +1,5 @@
+mocha
+nodejs-packaging
+npm(chalk)
+npm(mime-db)
+npm(mime-types)

@@ -1,0 +1,22 @@
+/usr/bin/pod2html
+/usr/bin/pod2man
+autoconf
+automake
+desktop-file-utils
+hivex-devel >= 1.2.4-3
+libguestfs-devel
+libtool
+libvirt-devel
+ocaml
+ocaml-bitstring-devel
+ocaml-calendar-devel
+ocaml-camlp4-devel
+ocaml-camomile-data
+ocaml-camomile-devel >= 0.8.1
+ocaml-extlib-devel
+ocaml-findlib-devel
+ocaml-hivex-devel
+ocaml-lablgtk-devel >= 2.14.2-6
+ocaml-libguestfs-devel >= 1:1.31.13
+ocaml-libvirt-devel
+ocaml-xml-light-devel

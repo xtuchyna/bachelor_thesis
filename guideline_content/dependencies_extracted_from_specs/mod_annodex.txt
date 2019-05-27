@@ -1,0 +1,5 @@
+httpd-devel >= 2.0.40
+libannodex-devel
+libcmml-devel >= 0.8
+pkgconfig
+sed

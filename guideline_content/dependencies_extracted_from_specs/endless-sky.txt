@@ -1,0 +1,10 @@
+SDL2-devel
+desktop-file-utils
+gcc-c++
+glew-devel
+libappstream-glib
+libjpeg-turbo-devel
+libmad-devel
+libpng-devel
+openal-soft-devel
+scons

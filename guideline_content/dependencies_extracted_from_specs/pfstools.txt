@@ -1,0 +1,15 @@
+ImageMagick-c++-devel
+ImageMagick-devel
+cmake
+fftw-devel
+freeglut-devel
+gsl-devel
+libGL-devel
+libXi-devel
+libtiff-devel
+netpbm-devel
+octave-devel
+openexr-devel
+perl-generators
+qt4-devel
+texlive-latex

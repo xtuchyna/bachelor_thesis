@@ -1,0 +1,3 @@
+maven-local
+mvn(junit:junit)
+mvn(org.codehaus.plexus:plexus-components:pom:)

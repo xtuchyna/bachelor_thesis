@@ -1,0 +1,9 @@
+gcc-c++
+ncurses-devel
+ruby
+ruby-devel
+rubygem-rake
+rubygems-devel
+xapian-bindings-ruby
+xapian-core-devel
+zlib-devel

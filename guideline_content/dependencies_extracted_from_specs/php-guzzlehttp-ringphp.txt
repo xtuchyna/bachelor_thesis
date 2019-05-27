@@ -1,0 +1,12 @@
+/usr/bin/phpunit
+nodejs
+php(language) >= 5.4.0
+php-composer(fedora/autoloader)
+php-curl
+php-guzzlehttp-streams >= 3.0.0-5
+php-json
+php-pcre
+php-react-promise >= 2.2.0-6
+php-reflection
+php-spl
+php-zlib

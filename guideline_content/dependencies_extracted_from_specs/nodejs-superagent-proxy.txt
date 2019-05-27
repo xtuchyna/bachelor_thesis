@@ -1,0 +1,4 @@
+nodejs-packaging >= 6
+npm(mocha)
+npm(proxy-agent)
+npm(superagent)

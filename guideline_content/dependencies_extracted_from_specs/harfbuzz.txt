@@ -1,0 +1,7 @@
+cairo-devel
+freetype-devel
+gcc-c++
+glib2-devel
+graphite2-devel
+gtk-doc
+libicu-devel

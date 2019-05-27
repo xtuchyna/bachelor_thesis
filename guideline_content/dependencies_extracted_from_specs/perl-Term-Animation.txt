@@ -1,0 +1,6 @@
+perl(Carp)
+perl(Curses)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl-generators

@@ -1,0 +1,13 @@
+gcr-devel
+glib2-devel
+gnome-online-accounts-devel
+gobject-introspection-devel
+gtk-doc
+intltool
+json-glib-devel
+liboauth-devel
+libsoup-devel
+libxml2-devel
+uhttpmock-devel
+vala
+vala-devel

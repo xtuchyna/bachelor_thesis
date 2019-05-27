@@ -1,0 +1,11 @@
+php(language) >= 5.3.3
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(psr/http-message) < 2.0
+php-composer(psr/http-message) >= 1.0
+php-composer(symfony/http-foundation) < 4.0
+php-composer(symfony/http-foundation) >= 2.7.1
+php-composer(zendframework/zend-diactoros)
+php-date
+php-reflection
+php-spl

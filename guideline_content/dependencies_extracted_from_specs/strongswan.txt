@@ -1,0 +1,14 @@
+NetworkManager-libnm-devel
+gettext-devel
+gmp-devel
+iptables-devel
+json-c-devel
+libcurl-devel
+libgcrypt-devel
+libxml2-devel
+openldap-devel
+openssl-devel
+pam-devel
+sqlite-devel
+systemd-devel
+trousers-devel

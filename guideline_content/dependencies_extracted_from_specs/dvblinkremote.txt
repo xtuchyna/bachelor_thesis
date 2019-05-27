@@ -1,0 +1,3 @@
+cmake
+libcurl-devel
+tinyxml2-devel

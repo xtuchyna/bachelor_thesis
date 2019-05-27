@@ -1,0 +1,6 @@
+autoconf
+automake
+libtool
+libudev-devel
+libusb1-devel
+m4

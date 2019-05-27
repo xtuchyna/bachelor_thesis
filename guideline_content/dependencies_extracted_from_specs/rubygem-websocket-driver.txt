@@ -1,0 +1,6 @@
+gcc
+ruby(release)
+ruby-devel
+rubygem(rspec)
+rubygem(websocket-extensions)
+rubygems-devel

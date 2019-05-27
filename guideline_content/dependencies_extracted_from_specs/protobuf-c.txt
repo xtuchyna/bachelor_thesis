@@ -1,0 +1,5 @@
+autoconf
+automake
+gcc-c++
+libtool
+pkgconfig(protobuf)

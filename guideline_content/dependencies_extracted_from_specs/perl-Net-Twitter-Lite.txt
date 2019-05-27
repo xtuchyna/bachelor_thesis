@@ -1,0 +1,25 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(Encode)
+perl(Encode::DoubleEncodedUTF8)
+perl(File::Spec)
+perl(HTTP::Request::Common)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(JSON) >= 2.02
+perl(LWP::Protocol::https)
+perl(LWP::UserAgent) >= 5.82
+perl(Module::Build::Tiny) >= 0.034
+perl(Net::HTTP)
+perl(Net::Netrc)
+perl(Net::OAuth) >= 0.25
+perl(Test::More) >= 0.82
+perl(URI) >= 1.40
+perl(URI::Escape)
+perl(blib)
+perl(overload)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

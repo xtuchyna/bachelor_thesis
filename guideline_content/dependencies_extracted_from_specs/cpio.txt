@@ -1,0 +1,6 @@
+autoconf
+automake
+gettext
+gettext-devel
+rmt
+texinfo

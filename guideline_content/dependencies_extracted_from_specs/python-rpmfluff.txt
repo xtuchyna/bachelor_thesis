@@ -1,0 +1,4 @@
+python2-devel
+python3-devel
+rpm-python
+rpm-python3

@@ -1,0 +1,2 @@
+chrpath
+pkgconfig(taglib_c)

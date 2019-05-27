@@ -1,0 +1,6 @@
+cmake
+gsl-devel
+libindi = 1.6.2
+libindi-devel = 1.6.2
+libnova-devel
+zlib-devel

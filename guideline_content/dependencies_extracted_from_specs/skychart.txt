@@ -1,0 +1,7 @@
+ImageMagick
+desktop-file-utils
+dos2unix
+fpc
+gtk2-devel
+lazarus
+libappstream-glib

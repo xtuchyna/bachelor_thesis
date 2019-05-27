@@ -1,0 +1,4 @@
+maven-local
+mvn(junit:junit)
+mvn(org.fusesource.jansi:jansi)
+mvn(org.jboss:jboss-parent:pom:)

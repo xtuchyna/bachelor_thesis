@@ -1,0 +1,4 @@
+chrpath
+libxslt
+xz-devel
+zlib-devel

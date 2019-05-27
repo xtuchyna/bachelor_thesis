@@ -1,0 +1,6 @@
+pkgconfig(gconf-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(gtk+-2.0)
+pkgconfig(libwnck-1.0)
+pkgconfig(xcb-ewmh)
+wxGTK-devel

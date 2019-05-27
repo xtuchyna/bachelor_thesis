@@ -1,0 +1,17 @@
+imlib2-devel
+jansson-devel
+libarchive-devel
+libcurl-devel
+libjpeg-turbo-devel
+libmicrohttpd-devel
+libuuid-devel
+libxml2-devel
+libxslt-devel
+mariadb-devel
+openssl-devel
+perl-generators
+python2-devel
+systemd-devel
+systemd-units
+vdr-devel
+zlib-devel

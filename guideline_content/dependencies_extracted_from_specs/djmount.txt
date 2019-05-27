@@ -1,0 +1,3 @@
+fuse-devel
+libtalloc-devel
+libupnp-devel

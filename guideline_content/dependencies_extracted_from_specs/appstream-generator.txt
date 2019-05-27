@@ -1,0 +1,26 @@
+/usr/bin/xsltproc
+docbook-dtds
+docbook-style-xsl
+gir-to-d >= 0.13.0
+js-highlight
+js-jquery
+ldc >= 1:1.1.0
+meson >= 0.44.1
+nodejs-packaging
+npm(Flot)
+pkgconfig(appstream) >= 0.10
+pkgconfig(cairo) >= 1.12
+pkgconfig(fontconfig)
+pkgconfig(freetype2)
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(gio-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(gobject-2.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(libarchive) >= 3.2
+pkgconfig(libcurl)
+pkgconfig(librsvg-2.0)
+pkgconfig(lmdb) >= 0.9
+pkgconfig(mustache-d)
+pkgconfig(pango)
+web-assets-devel

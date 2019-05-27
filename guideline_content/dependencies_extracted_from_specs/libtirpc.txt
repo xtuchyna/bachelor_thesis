@@ -1,0 +1,5 @@
+autoconf
+automake
+krb5-devel
+libtool
+pkgconfig

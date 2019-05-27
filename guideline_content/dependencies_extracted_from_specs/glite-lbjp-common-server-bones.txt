@@ -1,0 +1,5 @@
+glite-lbjp-common-log-devel
+libtool
+perl(Getopt::Long)
+perl(POSIX)
+perl-interpreter

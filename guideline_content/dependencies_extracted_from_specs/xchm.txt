@@ -1,0 +1,3 @@
+chmlib-devel
+desktop-file-utils
+wxGTK-devel >= 2.8

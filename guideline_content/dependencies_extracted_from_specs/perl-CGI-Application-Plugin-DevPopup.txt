@@ -1,0 +1,10 @@
+perl(CGI)
+perl(CGI::Application) >= 4.01
+perl(ExtUtils::MakeMaker)
+perl(HTML::Template)
+perl(IO::Scalar)
+perl(Log::Dispatch::Handle)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Test::Pod)
+perl-generators

@@ -1,0 +1,10 @@
+Xvfb
+autoconf
+gauche-devel
+gauche-gl
+gtk2-devel
+gtkglext-devel
+libICE-devel
+libX11-devel
+libXt-devel
+xauth

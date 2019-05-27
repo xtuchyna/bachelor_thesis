@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(end-of-stream)
+npm(stream-shift)
+npm(tape)
+npm(through2)

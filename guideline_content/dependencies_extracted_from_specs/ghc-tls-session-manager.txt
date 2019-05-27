@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-auto-update-devel
+ghc-clock-devel
+ghc-psqueues-devel
+ghc-rpm-macros
+ghc-tls-devel

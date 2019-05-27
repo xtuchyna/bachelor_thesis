@@ -1,0 +1,15 @@
+coreutils
+csnappy-devel
+findutils
+make
+perl(Devel::CheckLib)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker) >= 6.52
+perl(Test::More) >= 0.82
+perl(XSLoader)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

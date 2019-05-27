@@ -1,0 +1,7 @@
+maven-local
+mvn(com.google.code.findbugs:jsr305)
+mvn(commons-io:commons-io)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.codehaus.plexus:plexus-container-default)
+mvn(org.codehaus.plexus:plexus-utils)
+mvn(org.codehaus.plexus:plexus:pom:)

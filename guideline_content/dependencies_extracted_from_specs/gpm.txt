@@ -1,0 +1,10 @@
+autoconf
+automake
+bison
+gawk
+libcap-ng-devel
+libtool
+ncurses-devel
+sed
+systemd
+texinfo

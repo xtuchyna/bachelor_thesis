@@ -1,0 +1,8 @@
+GeoIP-devel
+glib2-devel
+gtk3-devel
+intltool
+json-glib-devel
+libcurl-devel
+libnotify-devel
+libproxy-devel

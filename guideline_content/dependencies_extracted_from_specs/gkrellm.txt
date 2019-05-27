@@ -1,0 +1,9 @@
+desktop-file-utils
+gettext
+gtk2-devel
+libSM-devel
+libappstream-glib
+libntlm-devel
+lm_sensors-devel
+openssl-devel
+systemd >= 186

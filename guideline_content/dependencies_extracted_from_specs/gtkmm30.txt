@@ -1,0 +1,6 @@
+atkmm-devel >= 2.24.2
+cairomm-devel >= 1.12.0
+gdk-pixbuf2-devel >= 2.35.5
+glibmm24-devel >= 2.49.1
+gtk3-devel >= 3.22.0
+pangomm-devel >= 2.38.2

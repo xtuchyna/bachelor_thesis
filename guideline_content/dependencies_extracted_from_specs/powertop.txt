@@ -1,0 +1,6 @@
+gettext-devel
+libnl3-devel
+ncurses-devel
+pciutils-devel
+systemd
+zlib-devel

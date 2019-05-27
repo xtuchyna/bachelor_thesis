@@ -1,0 +1,9 @@
+python-jira
+python2-arrow
+python2-devel
+python2-fedmsg-core
+python2-mock
+python2-nose
+python2-requests
+python2-setuptools
+systemd

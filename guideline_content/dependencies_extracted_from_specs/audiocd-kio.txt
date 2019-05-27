@@ -1,0 +1,9 @@
+cdparanoia
+cdparanoia-devel
+kdelibs4-devel >= 4.14
+libkcddb-devel
+libkcompactdisc-devel
+pkgconfig(flac)
+pkgconfig(phonon)
+pkgconfig(theora)
+pkgconfig(vorbis)

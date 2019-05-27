@@ -1,0 +1,11 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(HTML::TreeBuilder::XPath) >= 0.14
+perl(Module::Build::Tiny)
+perl(Test::Exception)
+perl(Test::More) >= 0.98
+perl(Web::Scraper)
+perl(XML::LibXML) >= 1.7
+perl(base)
+perl(inc::Module::Install)
+perl-generators

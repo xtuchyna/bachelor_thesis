@@ -1,0 +1,11 @@
+perl(Carp)
+perl(DBD::SQLite)
+perl(DBI)
+perl(Module::Build)
+perl(Test::Dist::VersionSync)
+perl(Test::Exception)
+perl(Test::FailWarnings)
+perl(Test::More)
+perl(Test::Type)
+perl(Try::Tiny)
+perl-generators

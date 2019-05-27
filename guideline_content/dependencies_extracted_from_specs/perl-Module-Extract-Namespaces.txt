@@ -1,0 +1,18 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.64
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(PPI) >= 1.222
+perl(Test::Manifest) >= 1.21
+perl(Test::More) >= 0.94
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(strict)
+perl(subs)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

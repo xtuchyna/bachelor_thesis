@@ -1,0 +1,9 @@
+desktop-file-utils
+gnome-desktop-sharp-devel
+gnome-keyring-sharp-devel
+gnome-sharp-devel
+gtk-sharp2-devel
+gtk-sharp2-gapi
+intltool
+mono-devel
+perl(XML::Parser)

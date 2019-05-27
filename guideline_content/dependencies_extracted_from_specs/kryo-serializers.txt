@@ -1,0 +1,11 @@
+maven-local
+mvn(cglib:cglib)
+mvn(com.esotericsoftware.kryo:kryo)
+mvn(commons-lang:commons-lang)
+mvn(joda-time:joda-time)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-simple)
+mvn(org.sonatype.oss:oss-parent:pom:)
+mvn(org.testng:testng)

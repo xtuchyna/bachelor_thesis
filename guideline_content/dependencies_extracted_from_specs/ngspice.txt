@@ -1,0 +1,16 @@
+ImageMagick
+automake
+bison
+blt-devel
+byacc
+flex
+libGL-devel
+libICE-devel
+libXaw-devel
+libXext-devel
+libXt-devel
+libpng-devel
+libtool
+mot-adms
+readline-devel
+tk-devel

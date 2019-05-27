@@ -1,0 +1,10 @@
+R-devel
+R-evaluate
+R-filehash >= 2.3
+R-png
+R-stringr
+R-testthat >= 0.8.1
+R-withr
+tex(latex)
+tex(preview.sty)
+texlive-pgf >= 2.0

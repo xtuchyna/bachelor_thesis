@@ -1,0 +1,12 @@
+python2-devel
+python2-openid
+python2-openid-cla
+python2-openid-teams
+python2-pyramid
+python2-setuptools
+python3-devel
+python3-openid
+python3-openid-cla
+python3-openid-teams
+python3-pyramid
+python3-setuptools

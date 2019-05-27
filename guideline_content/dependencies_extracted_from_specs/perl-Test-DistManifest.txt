@@ -1,0 +1,16 @@
+perl(Cwd)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(ExtUtils::Manifest)
+perl(File::Find)
+perl(File::Spec)
+perl(File::Spec::Unix)
+perl(Module::Manifest) >= 0.07
+perl(Test::Builder)
+perl(Test::Builder::Tester)
+perl(Test::More)
+perl(Test::NoWarnings) >= 0.084
+perl(if)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

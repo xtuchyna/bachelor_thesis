@@ -1,0 +1,32 @@
+/usr/sbin/sendmail
+perl(Apache2::Log)
+perl(CPAN::Meta) >= 2.120900
+perl(Carp)
+perl(Devel::GlobalDestruction)
+perl(Dist::CheckConflicts) >= 0.02
+perl(Encode)
+perl(Exporter)
+perl(Fcntl)
+perl(FindBin)
+perl(IO::Handle)
+perl(IPC::Run3)
+perl(JSON::PP) >= 2.27300
+perl(MIME::Lite)
+perl(Mail::Send)
+perl(Mail::Sender)
+perl(Mail::Sendmail)
+perl(Module::Runtime)
+perl(POSIX)
+perl(Params::ValidationCompiler)
+perl(Scalar::Util)
+perl(Specio) >= 0.32
+perl(Sys::Syslog) >= 0.25
+perl(Test::Fatal)
+perl(Test::More) >= 0.96
+perl(Test::Needs)
+perl(base)
+perl(namespace::autoclean)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators

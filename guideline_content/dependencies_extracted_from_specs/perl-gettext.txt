@@ -1,0 +1,10 @@
+gettext
+perl(Carp)
+perl(DynaLoader)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(POSIX)
+perl(Test)
+perl-devel
+perl-generators

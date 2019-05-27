@@ -1,0 +1,14 @@
+ruby
+ruby(release)
+rubygem(addressable)
+rubygem(crack)
+rubygem(curb)
+rubygem(excon)
+rubygem(hashdiff)
+rubygem(httpclient)
+rubygem(minitest)
+rubygem(rack)
+rubygem(rspec)
+rubygem(test-unit)
+rubygem(typhoeus)
+rubygems-devel

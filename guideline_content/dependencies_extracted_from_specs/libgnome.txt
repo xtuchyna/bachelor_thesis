@@ -1,0 +1,16 @@
+GConf2-devel
+ORBit2-devel
+autoconf
+automake
+gettext
+glib2-devel
+gnome-common
+gnome-vfs2-devel
+intltool
+libbonobo-devel
+libcanberra-devel
+libtool
+libxml2-devel
+libxslt-devel
+popt-devel
+zlib-devel

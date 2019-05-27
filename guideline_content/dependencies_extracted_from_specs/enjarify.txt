@@ -1,0 +1,2 @@
+java-headless
+python3-devel

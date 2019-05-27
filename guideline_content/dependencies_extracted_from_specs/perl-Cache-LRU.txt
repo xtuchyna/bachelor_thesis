@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(Module::Install::Metadata)
+perl(Module::Install::ReadmeFromPod)
+perl(Module::Install::WriteAll)
+perl(Scalar::Util)
+perl(Test::More) >= 0.88
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

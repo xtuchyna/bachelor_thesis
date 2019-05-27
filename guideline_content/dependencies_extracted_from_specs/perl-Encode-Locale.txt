@@ -1,0 +1,14 @@
+findutils
+make
+perl(Encode) >= 2
+perl(Encode::Alias)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(I18N::Langinfo)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

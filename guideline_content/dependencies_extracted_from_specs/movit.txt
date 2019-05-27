@@ -1,0 +1,8 @@
+gcc-c++
+gtest-devel
+pkgconfig(SDL2_image)
+pkgconfig(egl)
+pkgconfig(eigen3)
+pkgconfig(epoxy)
+pkgconfig(fftw3)
+pkgconfig(sdl2)

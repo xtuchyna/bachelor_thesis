@@ -1,0 +1,8 @@
+ant
+gcc
+java-devel >= 1:1.6.0
+java-javadoc >= 1:1.6.0
+javapackages-local
+jpackage-utils
+jutils
+jutils-javadoc

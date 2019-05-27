@@ -1,0 +1,14 @@
+perl(:VERSION) >= 5.8.1
+perl(Dist::Zilla) >= 4.300017
+perl(Dist::Zilla::Role::MetaProvider)
+perl(Dist::Zilla::Role::PrereqSource)
+perl(Module::Build::Tiny) >= 0.039
+perl(Module::CPANfile) >= 0.903
+perl(Moose)
+perl(Test::DZil)
+perl(Test::More) >= 0.88
+perl(Try::Tiny) >= 0.1
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

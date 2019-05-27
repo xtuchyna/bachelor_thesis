@@ -1,0 +1,9 @@
+desktop-file-utils
+ftgl-devel
+libGL-devel
+libpng-devel
+libxml2-devel
+mathgl-devel
+qhull-devel
+vigra-devel
+wxGTK3-devel

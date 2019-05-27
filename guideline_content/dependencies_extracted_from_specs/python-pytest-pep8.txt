@@ -1,0 +1,10 @@
+pytest >= 2.4.2
+python-pep8
+python-pytest-cache
+python-setuptools
+python2-devel
+python3-devel
+python3-pep8
+python3-pytest >= 2.4.2
+python3-pytest-cache
+python3-setuptools

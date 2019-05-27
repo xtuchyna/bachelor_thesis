@@ -1,0 +1,5 @@
+mocha
+nodejs-packaging
+npm(bluebird)
+npm(chai)
+npm(coffee-script)

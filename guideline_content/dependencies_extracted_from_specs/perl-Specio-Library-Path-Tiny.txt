@@ -1,0 +1,21 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(File::Temp) >= 0.18
+perl(File::pushd)
+perl(Path::Tiny) >= 0.087
+perl(Scalar::Util)
+perl(Specio) >= 0.29
+perl(Specio::Declare)
+perl(Specio::Exporter)
+perl(Specio::Library::Builtins)
+perl(Specio::PartialDump)
+perl(Test::Fatal)
+perl(Test::More) >= 0.96
+perl(Test::Specio)
+perl(overload)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

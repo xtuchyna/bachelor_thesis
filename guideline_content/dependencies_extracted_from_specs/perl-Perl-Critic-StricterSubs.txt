@@ -1,0 +1,16 @@
+perl(Carp)
+perl(English)
+perl(Exporter)
+perl(File::PathList)
+perl(List::MoreUtils)
+perl(Module::Build)
+perl(PPI::Document)
+perl(Perl::Critic::Policy) >= 1.082
+perl(Perl::Critic::TestUtils) >= 1.082
+perl(Perl::Critic::Utils) >= 1.082
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

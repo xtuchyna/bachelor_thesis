@@ -1,0 +1,13 @@
+make
+perl(:VERSION) >= 5.6
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(Sub::Exporter)
+perl(Test::Exception) >= 0.29
+perl(Test::More) >= 0.88
+perl(strict)
+perl(version) >= 0.81
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,7 @@
+php(language) >= 5.4
+php-composer(myclabs/deep-copy) < 2.0
+php-composer(myclabs/deep-copy) >= 1.1
+php-composer(phpunit/phpunit)
+php-fedora-autoloader-devel
+php-reflection
+php-spl

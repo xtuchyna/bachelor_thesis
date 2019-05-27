@@ -1,0 +1,10 @@
+desktop-file-utils
+imake
+libICE-devel
+libSM-devel
+libXaw-devel
+libXext-devel
+libXmu-devel
+libXt-devel
+xorg-x11-proto-devel
+xorg-x11-xbitmaps

@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker)
+perl(MIME::Entity)
+perl(MIME::Parser)
+perl(Mail::POP3Client)
+perl(Mail::Sendmail)
+perl(Test::Builder)
+perl-generators

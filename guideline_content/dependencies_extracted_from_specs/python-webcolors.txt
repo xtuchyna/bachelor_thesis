@@ -1,0 +1,8 @@
+python2-devel
+python2-flake8
+python2-nose
+python2-sphinx
+python2-sphinx_rtd_theme
+python3-devel
+python3-flake8
+python3-nose

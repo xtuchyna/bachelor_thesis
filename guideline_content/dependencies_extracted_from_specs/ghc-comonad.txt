@@ -1,0 +1,10 @@
+ghc-Cabal-devel
+ghc-cabal-doctest-devel
+ghc-containers-devel
+ghc-contravariant-devel
+ghc-distributive-devel
+ghc-rpm-macros
+ghc-semigroups-devel
+ghc-tagged-devel
+ghc-transformers-compat-devel
+ghc-transformers-devel

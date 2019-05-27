@@ -1,0 +1,15 @@
+gcc
+git-core
+pandoc
+par2cmdline
+perl(Getopt::Long)
+perl(Pod::Usage)
+perl(Time::HiRes)
+pylibacl
+python2-devel
+python2-pyxattr
+python2-tornado
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+rsync
+systemd

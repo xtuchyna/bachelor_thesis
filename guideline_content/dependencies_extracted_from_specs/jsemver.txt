@@ -1,0 +1,5 @@
+junit >= 4.12
+maven-compiler-plugin >= 3.2
+maven-javadoc-plugin >= 2.10.2
+maven-local
+mvn(org.sonatype.oss:oss-parent:pom:)

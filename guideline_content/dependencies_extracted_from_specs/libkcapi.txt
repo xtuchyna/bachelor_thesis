@@ -1,0 +1,14 @@
+clang
+coreutils
+cppcheck
+docbook-utils-pdf
+fipscheck
+gcc
+git
+hardlink
+hmaccalc
+kernel-headers >= 4.10.0
+libtool
+openssl
+systemd
+xmlto

@@ -1,0 +1,4 @@
+maven-local
+maven-plugin-bundle
+mvn(org.jfree:jcommon)
+mvn(org.jfree:jfreechart)

@@ -1,0 +1,10 @@
+python2-coverage
+python2-coverage_pth
+python2-devel
+python2-pytest
+python2-setuptools
+python3-coverage
+python3-coverage_pth
+python3-devel
+python3-pytest
+python3-setuptools

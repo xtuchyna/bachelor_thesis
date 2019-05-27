@@ -1,0 +1,4 @@
+gettext
+gobject-introspection-devel
+python-devel
+sugar-toolkit-gtk3-devel

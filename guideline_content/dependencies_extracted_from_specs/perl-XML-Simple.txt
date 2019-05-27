@@ -1,0 +1,25 @@
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Spec)
+perl(File::Temp)
+perl(FileHandle)
+perl(IO::File)
+perl(IO::Handle)
+perl(Scalar::Util)
+perl(Storable)
+perl(Test::More)
+perl(Tie::IxHash)
+perl(XML::NamespaceSupport) >= 1.04
+perl(XML::Parser)
+perl(XML::SAX) >= 0.15
+perl(XML::SAX::Base)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl(warnings::register)
+perl-generators
+perl-interpreter

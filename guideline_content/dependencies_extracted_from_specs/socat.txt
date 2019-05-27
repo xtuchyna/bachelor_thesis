@@ -1,0 +1,11 @@
+autoconf
+coreutils
+iproute
+iputils
+kernel-headers > 2.6.18
+ncurses-devel
+net-tools
+openssl
+openssl-devel
+procps-ng
+readline-devel

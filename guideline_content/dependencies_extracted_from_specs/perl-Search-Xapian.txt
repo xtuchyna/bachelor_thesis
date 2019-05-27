@@ -1,0 +1,26 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Devel::Leak)
+perl(Devel::Peek)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(Scalar::Util)
+perl(Test)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Tie::Array)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(threads)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+xapian-core-devel

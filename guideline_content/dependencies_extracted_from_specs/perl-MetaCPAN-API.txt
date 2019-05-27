@@ -1,0 +1,23 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Tiny) >= 0.014
+perl(IO::Socket::SSL)
+perl(JSON::MaybeXS) >= 1.001000
+perl(Moo) >= 1.000001
+perl(Moo::Role)
+perl(Test::Fatal)
+perl(Test::More)
+perl(Test::RequiresInternet)
+perl(Test::TinyMocker)
+perl(Try::Tiny)
+perl(Types::Standard)
+perl(lib)
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

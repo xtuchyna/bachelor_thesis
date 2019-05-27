@@ -1,0 +1,15 @@
+findutils
+make
+perl(Carp)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,4 @@
+coreutils
+gcc
+libjpeg-devel
+make

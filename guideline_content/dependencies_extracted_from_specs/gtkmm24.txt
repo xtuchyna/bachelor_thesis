@@ -1,0 +1,5 @@
+atkmm-devel >= 2.22
+cairomm-devel >= 1.2.2
+glibmm24-devel >= 2.24
+gtk2-devel >= 2.24
+pangomm-devel >= 2.26

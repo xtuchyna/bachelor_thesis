@@ -1,0 +1,11 @@
+maven-local
+mvn(javax.servlet:javax.servlet-api)
+mvn(javax.transaction:jta)
+mvn(net.sf.ehcache:ehcache-parent:pom:)
+mvn(net.sf.ehcache:sizeof-agent)
+mvn(org.codehaus.mojo:rmic-maven-plugin)
+mvn(org.codehaus.mojo:xml-maven-plugin)
+mvn(org.codehaus.plexus:plexus-resources)
+mvn(org.hibernate:hibernate-core:3)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-jdk14)

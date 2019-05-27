@@ -1,0 +1,8 @@
+dbus-glib-devel
+dhclient
+gnet2-devel
+libgudev1-devel
+libsynce-devel >= 0.11
+net-tools
+ppp
+systemd-udev

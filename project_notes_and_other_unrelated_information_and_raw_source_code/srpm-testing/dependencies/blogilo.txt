@@ -1,0 +1,29 @@
+boost-devel
+cmake
+cmake(KF5Crash)
+cmake(KF5DBusAddons)
+cmake(KF5DocTools)
+cmake(KF5SyntaxHighlighting)
+cmake(KF5TextEditor)
+cmake(KF5Wallet)
+cmake(KF5XmlGui)
+cmake(Qt5Sql)
+cmake(Qt5Test)
+cmake(Qt5WebEngine)
+cmake(Qt5WebEngineWidgets)
+cmake(Qt5Widgets)
+desktop-file-utils
+extra-cmake-modules
+gcc-c++
+gettext
+kf5-kblog-devel >= 17.08
+kf5-kpimtextedit-devel >= 17.08
+kf5-libkdepim-devel >= 17.08
+kf5-messagelib-devel >= 17.08
+kf5-pimcommon-devel >= 17.08
+kf5-rpm-macros
+libappstream-glib
+libkgapi-devel >= 17.08
+perl-generators
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

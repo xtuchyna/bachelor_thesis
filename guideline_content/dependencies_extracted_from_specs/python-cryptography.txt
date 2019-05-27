@@ -1,0 +1,28 @@
+gcc
+openssl-devel
+python2-asn1crypto >= 0.21
+python2-cffi >= 1.7
+python2-cryptography-vectors = 2.2.1
+python2-devel
+python2-enum34
+python2-hypothesis >= 1.11.4
+python2-idna >= 2.1
+python2-ipaddress
+python2-iso8601
+python2-pretend
+python2-pytest >= 3.2.1
+python2-pytz
+python2-setuptools
+python2-six >= 1.4.1
+python3-asn1crypto >= 0.21
+python3-cffi >= 1.7
+python3-cryptography-vectors = 2.2.1
+python3-devel
+python3-hypothesis >= 1.11.4
+python3-idna >= 2.1
+python3-iso8601
+python3-pretend
+python3-pytest >= 3.2.1
+python3-pytz
+python3-setuptools
+python3-six >= 1.4.1

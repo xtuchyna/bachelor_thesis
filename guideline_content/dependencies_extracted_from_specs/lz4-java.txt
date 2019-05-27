@@ -1,0 +1,13 @@
+ant
+ant-junit
+apache-parent
+aqute-bnd
+bea-stax-api
+cpptasks
+ivy-local
+java-devel
+javapackages-local
+mvel
+objectweb-asm
+randomizedtesting-junit4-ant
+xerces-j2

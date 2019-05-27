@@ -1,0 +1,17 @@
+make
+perl(Carp)
+perl(Exporter)
+perl(Hash::Merge)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::More)
+perl(Test::use::ok)
+perl(base)
+perl(inc::Module::Install)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

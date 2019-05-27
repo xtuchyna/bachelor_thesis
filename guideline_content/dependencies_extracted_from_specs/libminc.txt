@@ -1,0 +1,7 @@
+cmake
+gcc
+gcc-c++
+git-core
+hdf5-devel
+netcdf-devel
+zlib-devel

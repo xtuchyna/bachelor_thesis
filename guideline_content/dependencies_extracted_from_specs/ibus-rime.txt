@@ -1,0 +1,6 @@
+brise >= 0.35
+cmake
+ibus-devel
+libnotify-devel
+librime-devel >= 1.2
+pkgconfig

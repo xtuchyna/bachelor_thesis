@@ -1,0 +1,9 @@
+cmake(KF5Baloo)
+cmake(KF5Config)
+cmake(KF5FileMetaData)
+cmake(KF5I18n)
+cmake(KF5KIO)
+cmake(Qt5Test)
+cmake(Qt5Widgets)
+extra-cmake-modules >= 5.19
+kf5-rpm-macros

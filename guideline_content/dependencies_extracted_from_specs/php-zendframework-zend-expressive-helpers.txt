@@ -1,0 +1,11 @@
+php(language) >= 5.6
+php-autoloader(zendframework/zend-diactoros) >= 1.2
+php-autoloader(zendframework/zend-expressive-router) >= 2.0
+php-composer(container-interop/container-interop) >= 1.1
+php-composer(mockery/mockery) >= 0.9.5
+php-composer(phpunit/phpunit) >= 4.7
+php-composer(psr/http-message) >= 1.0
+php-fedora-autoloader-devel
+php-json
+php-pcre
+php-spl

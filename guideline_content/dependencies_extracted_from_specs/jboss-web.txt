@@ -1,0 +1,15 @@
+ant
+ecj
+glassfish-el
+java-devel
+jboss-annotations-1.1-api
+jboss-el-2.2-api
+jboss-jsp-2.2-api
+jboss-logging
+jboss-logging-tools
+jboss-logmanager
+jboss-servlet-3.1-api
+jpackage-utils
+junit
+maven-injection-plugin
+maven-local

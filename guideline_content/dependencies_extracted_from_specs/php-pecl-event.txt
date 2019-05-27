@@ -1,0 +1,5 @@
+libevent-devel >= 2.0.2
+openssl-devel
+php-devel > 5.4
+php-pear
+pkgconfig

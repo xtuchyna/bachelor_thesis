@@ -1,0 +1,11 @@
+gstreamer1-devel
+gstreamer1-plugins-base
+perl(Devel::CheckLib)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Glib::Object::Introspection) >= 0.009
+perl(Test::More)
+perl(Test::Pod)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

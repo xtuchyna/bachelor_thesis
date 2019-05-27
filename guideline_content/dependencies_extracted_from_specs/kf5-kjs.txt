@@ -1,0 +1,7 @@
+extra-cmake-modules >= 5.44.0
+kf5-kdoctools-devel >= 5.44.0
+kf5-rpm-macros >= 5.44.0
+pcre-devel
+perl-generators
+perl-interpreter
+qt5-qtbase-devel

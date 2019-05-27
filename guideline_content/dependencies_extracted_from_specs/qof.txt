@@ -1,0 +1,6 @@
+doxygen
+gettext
+glib2-devel
+intltool
+libgda-devel
+libxml2-devel

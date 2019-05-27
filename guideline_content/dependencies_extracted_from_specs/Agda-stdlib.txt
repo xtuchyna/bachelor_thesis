@@ -1,0 +1,4 @@
+Agda
+ghc-Cabal-devel
+ghc-filemanip-devel
+ghc-rpm-macros

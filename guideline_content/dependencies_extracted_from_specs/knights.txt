@@ -1,0 +1,3 @@
+desktop-file-utils
+gettext
+kdegames-devel >= 6:4.9

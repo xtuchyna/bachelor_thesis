@@ -1,0 +1,12 @@
+perl(Exporter)
+perl(Module::Install::XSUtil)
+perl(POSIX)
+perl(Test::More) >= 0.88
+perl(Test::SharedFork)
+perl(XSLoader) >= 0.1
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

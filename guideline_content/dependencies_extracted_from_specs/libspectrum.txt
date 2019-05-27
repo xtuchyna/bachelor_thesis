@@ -1,0 +1,6 @@
+audiofile-devel >= 0.2.3
+bzip2-devel
+glib2-devel
+libgcrypt-devel
+perl
+zlib-devel

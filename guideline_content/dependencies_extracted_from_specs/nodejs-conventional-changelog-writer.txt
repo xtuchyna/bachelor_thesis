@@ -1,0 +1,9 @@
+nodejs-packaging
+npm(compare-func)
+npm(conventional-commits-filter)
+npm(dateformat)
+npm(handlebars)
+npm(json-stringify-safe)
+npm(lodash)
+npm(semver)
+npm(through2)

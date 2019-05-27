@@ -1,0 +1,4 @@
+gnome-common
+gobject-introspection-devel
+gtk-doc
+pkgconfig(gtk+-3.0)

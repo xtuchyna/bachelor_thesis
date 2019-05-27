@@ -1,0 +1,9 @@
+autoconf
+automake
+chrpath
+help2man
+libtool
+python2-devel
+python3-devel
+texinfo
+texinfo-tex

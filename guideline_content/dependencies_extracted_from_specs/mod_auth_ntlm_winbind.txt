@@ -1,0 +1,2 @@
+autoconf
+httpd-devel >= 2.0.40

@@ -1,0 +1,5 @@
+ant
+java-devel >= 1:1.6.0
+javapackages-local
+tomcat-jsp-2.3-api
+tomcat-servlet-3.1-api

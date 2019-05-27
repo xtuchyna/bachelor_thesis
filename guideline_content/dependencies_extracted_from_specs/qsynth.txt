@@ -1,0 +1,6 @@
+cmake
+desktop-file-utils
+fluidsynth-devel
+qt5-linguist
+qt5-qtbase-devel
+qt5-qtx11extras-devel

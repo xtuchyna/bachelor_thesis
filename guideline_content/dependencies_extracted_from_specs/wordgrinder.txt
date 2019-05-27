@@ -1,0 +1,10 @@
+gcc
+libXft-devel
+lua
+lua-devel
+lua-filesystem
+lua-libs
+make
+ncurses-devel
+ninja-build
+zlib-devel

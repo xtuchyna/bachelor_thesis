@@ -1,0 +1,6 @@
+autoconf
+automake
+glibc-devel
+libtool
+ncurses-devel
+texinfo

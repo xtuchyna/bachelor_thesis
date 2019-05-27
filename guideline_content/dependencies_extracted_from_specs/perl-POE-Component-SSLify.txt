@@ -1,0 +1,25 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::Handle) >= 1.28
+perl(IO::Prompt::Tiny)
+perl(IPC::Open3)
+perl(Module::Build::Tiny) >= 0.039
+perl(Net::SSLeay) >= 1.36
+perl(POE) >= 1.267
+perl(POE::Component::Client::TCP)
+perl(POE::Component::Server::TCP)
+perl(POE::Filter::Stream)
+perl(Scalar::Util)
+perl(Socket)
+perl(Symbol)
+perl(Task::Weaken) >= 1.03
+perl(Test::Apocalypse) >= 1.000
+perl(Test::FailWarnings)
+perl(Test::More) >= 1.001002
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

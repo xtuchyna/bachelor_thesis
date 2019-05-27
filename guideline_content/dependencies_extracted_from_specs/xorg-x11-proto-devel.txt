@@ -1,0 +1,5 @@
+autoconf
+automake
+libtool
+pkgconfig
+xorg-x11-util-macros >= 1.0.2-1

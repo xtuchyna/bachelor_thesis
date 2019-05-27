@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(Cwd)
+perl(ExtUtils::Command)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(FindBin)
+perl(Test::More)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,7 @@
+ruby(release)
+rubygem(minitest) >= 5
+rubygem(prawn)
+rubygem(prawn-table)
+rubygem(rake)
+rubygem(rouge)
+rubygems-devel

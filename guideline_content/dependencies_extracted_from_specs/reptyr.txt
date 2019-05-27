@@ -1,0 +1,4 @@
+/usr/bin/python
+gcc
+kernel-headers >= 3.4
+python-pexpect

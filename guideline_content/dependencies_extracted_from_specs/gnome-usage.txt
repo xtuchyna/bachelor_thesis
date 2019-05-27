@@ -1,0 +1,10 @@
+desktop-file-utils
+gettext
+meson
+pkgconfig(accountsservice)
+pkgconfig(glib-2.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(libgtop-2.0) >= 2.37.2
+vala
+yelp-tools

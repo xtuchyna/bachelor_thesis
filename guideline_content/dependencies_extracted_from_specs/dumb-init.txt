@@ -1,0 +1,5 @@
+gcc
+help2man
+python
+python2-mock
+python2-pytest

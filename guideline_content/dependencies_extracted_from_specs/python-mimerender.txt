@@ -1,0 +1,8 @@
+python2-devel
+python2-mimeparse
+python2-setuptools
+python2-unittest2
+python3-devel
+python3-mimeparse
+python3-setuptools
+python3-unittest2

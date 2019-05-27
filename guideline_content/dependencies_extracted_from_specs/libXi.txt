@@ -1,0 +1,11 @@
+asciidoc >= 8.4.5
+autoconf
+automake
+libX11-devel >= 1.5.99.902
+libXext-devel
+libXfixes-devel
+libtool
+pkgconfig(inputproto) >= 2.2.99.1
+xmlto
+xorg-x11-proto-devel
+xorg-x11-util-macros

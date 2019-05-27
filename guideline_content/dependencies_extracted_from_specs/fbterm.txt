@@ -1,0 +1,5 @@
+autoconf
+automake
+fontconfig-devel
+gpm-devel
+pkgconfig(udev)

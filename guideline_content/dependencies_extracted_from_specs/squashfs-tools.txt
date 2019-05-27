@@ -1,0 +1,5 @@
+libattr-devel
+lz4-devel
+lzo-devel
+xz-devel
+zlib-devel

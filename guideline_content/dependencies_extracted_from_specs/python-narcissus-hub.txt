@@ -1,0 +1,6 @@
+python-geojson
+python-moksha-hub
+python-narcissus-common
+python-pygeoip
+python-setuptools
+python2-devel

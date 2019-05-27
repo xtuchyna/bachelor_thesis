@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(asap)
+npm(tap)
+npm(wrappy)

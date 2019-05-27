@@ -1,0 +1,6 @@
+check-devel
+libevent-devel
+libxml2-devel
+net-snmp-devel
+readline-devel
+systemd

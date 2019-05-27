@@ -1,0 +1,11 @@
+boost-devel
+btrfs-progs
+cppunit-devel
+debootstrap
+fakeroot
+gettext
+groff
+libuuid-devel
+lockdev-devel
+lvm2-devel
+pam-devel

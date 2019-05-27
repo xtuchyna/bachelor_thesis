@@ -1,0 +1,11 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven.plugins:maven-release-plugin)
+mvn(org.apache.maven.scm:maven-scm-provider-gitexe)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.jenkins-ci:annotation-indexer)
+mvn(org.ow2.asm:asm-all)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

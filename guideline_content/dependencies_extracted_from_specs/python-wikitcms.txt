@@ -1,0 +1,16 @@
+python2-cached-property
+python2-devel
+python2-fedfind >= 3.8.0
+python2-mock
+python2-mwclient >= 0.8.2
+python2-pytest
+python2-setuptools
+python2-six
+python3-cached_property
+python3-devel
+python3-fedfind >= 3.8.0
+python3-mock
+python3-mwclient >= 0.8.2
+python3-pytest
+python3-setuptools
+python3-six

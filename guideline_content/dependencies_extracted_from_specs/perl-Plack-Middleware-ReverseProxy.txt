@@ -1,0 +1,19 @@
+perl(Data::Dumper)
+perl(HTTP::Headers)
+perl(HTTP::Request)
+perl(Module::Install::AuthorTests)
+perl(Module::Install::Package)
+perl(Module::Install::Repository)
+perl(Plack) >= 0.9988
+perl(Plack::Builder)
+perl(Plack::Middleware)
+perl(Plack::Request)
+perl(Plack::Test)
+perl(Test::More)
+perl(inc::Module::Install)
+perl(lib)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

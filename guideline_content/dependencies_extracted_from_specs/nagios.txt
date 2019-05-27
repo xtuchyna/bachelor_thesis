@@ -1,0 +1,18 @@
+checkpolicy
+doxygen
+gd-devel > 1.8
+gperf
+libjpeg-devel
+libpng-devel
+libtool
+perl(CPAN)
+perl(ExtUtils::Embed)
+perl(ExtUtils::MakeMaker)
+perl(Test::HTML::Lint)
+perl(Test::Harness)
+perl(Test::More)
+perl(Test::Simple)
+perl-generators
+selinux-policy-devel
+systemd
+zlib-devel

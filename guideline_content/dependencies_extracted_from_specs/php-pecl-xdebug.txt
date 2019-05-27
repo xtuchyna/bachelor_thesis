@@ -1,0 +1,5 @@
+libedit-devel
+libtool
+php-devel > 7
+php-pear > 1.9.1
+php-simplexml

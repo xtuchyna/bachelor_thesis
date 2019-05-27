@@ -1,0 +1,5 @@
+perl(Config::Tiny)
+perl(Exporter::Tiny)
+perl(XML::LibXML)
+perl(XML::LibXML::PrettyPrint)
+python3-devel

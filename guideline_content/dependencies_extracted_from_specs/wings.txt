@@ -1,0 +1,12 @@
+desktop-file-utils
+erlang-cl
+erlang-erts
+erlang-kernel
+erlang-lfe
+erlang-rpm-macros
+erlang-stdlib
+erlang-tools
+erlang-wx
+erlang-xmerl
+libGL-devel
+libGLU-devel

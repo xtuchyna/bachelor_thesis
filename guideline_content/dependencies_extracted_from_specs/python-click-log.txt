@@ -1,0 +1,6 @@
+python-click
+python2-devel
+python2-setuptools
+python3-click
+python3-devel
+python3-setuptools

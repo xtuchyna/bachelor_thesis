@@ -1,0 +1,12 @@
+autoconf
+automake
+gettext-devel
+libgcrypt-devel >= 1.4.0
+libtool
+libtool-ltdl-devel
+pkgconfig(gnutls) >= 2.8.0
+pkgconfig(libxml-2.0) >= 2.8.0
+pkgconfig(libxslt) >= 1.0.20
+pkgconfig(nspr) >= 4.4.1
+pkgconfig(nss) >= 3.11.1
+pkgconfig(openssl) >= 1.0.0

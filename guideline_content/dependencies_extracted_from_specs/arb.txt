@@ -1,0 +1,5 @@
+flint-devel
+gcc-c++
+gmp-devel
+mpfr-devel
+python2-sphinx

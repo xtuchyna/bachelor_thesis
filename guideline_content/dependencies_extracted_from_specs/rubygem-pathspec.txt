@@ -1,0 +1,3 @@
+rubygem(fakefs)
+rubygem(rspec)
+rubygems-devel

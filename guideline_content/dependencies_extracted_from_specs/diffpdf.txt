@@ -1,0 +1,4 @@
+ImageMagick
+desktop-file-utils
+poppler-cpp-devel
+poppler-qt4-devel

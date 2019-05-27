@@ -1,0 +1,8 @@
+autoconf
+automake
+git
+gssntlmssp-devel
+httpd-devel
+krb5-devel
+libtool
+openssl-devel

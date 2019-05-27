@@ -1,0 +1,16 @@
+coreutils
+make
+perl(Exporter)
+perl(File::Path) >= 2.07
+perl(Pod::Coverage) >= 0.18
+perl(Test::Builder)
+perl(Test::Builder::Tester)
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(base)
+perl(inc::Module::Install)
+perl(lib)
+perl-generators
+perl-interpreter
+sed

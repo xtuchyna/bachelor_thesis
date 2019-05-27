@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(graceful-readlink)
+npm(should)
+npm(sinon)

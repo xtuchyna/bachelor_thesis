@@ -1,0 +1,14 @@
+autoconf
+automake
+gcc
+gettext-devel
+glib2-devel >= 2.32.0
+intltool
+krb5-devel
+libxslt
+openldap-devel
+pkgconfig
+polkit-devel
+python2
+systemd-devel
+xmlto

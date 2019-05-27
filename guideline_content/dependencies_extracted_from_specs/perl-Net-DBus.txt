@@ -1,0 +1,19 @@
+dbus-devel >= 1.00
+findutils
+gcc
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::CPAN::Changes)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(Time::HiRes)
+perl(XML::Parser)
+perl(XML::Twig)
+perl(XSLoader)
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig

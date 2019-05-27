@@ -1,0 +1,4 @@
+gcc
+make
+perl-interpreter
+python2

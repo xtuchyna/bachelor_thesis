@@ -1,0 +1,11 @@
+apache-resource-bundles
+maven-local
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.geronimo.specs:geronimo-jta_1.1_spec)
+mvn(org.apache.geronimo.specs:geronimo-validation_1.0_spec)
+mvn(org.apache.geronimo.specs:specs:pom:)
+mvn(org.jboss.spec.javax.resource:jboss-connector-api_1.7_spec)
+mvn(org.objectweb.howl:howl)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-simple)

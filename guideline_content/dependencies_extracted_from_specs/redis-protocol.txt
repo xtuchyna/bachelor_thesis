@@ -1,0 +1,4 @@
+maven-local
+mvn(com.github.spullara.cli-parser:cli-parser)
+mvn(com.google.guava:guava)
+mvn(junit:junit)

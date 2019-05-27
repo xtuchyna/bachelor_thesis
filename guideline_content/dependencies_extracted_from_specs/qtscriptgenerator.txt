@@ -1,0 +1,11 @@
+libxslt
+pkgconfig(QtCore)
+pkgconfig(QtGui)
+pkgconfig(QtNetwork)
+pkgconfig(QtOpenGL)
+pkgconfig(QtSql)
+pkgconfig(QtSvg)
+pkgconfig(QtUiTools)
+pkgconfig(QtWebKit)
+pkgconfig(QtXml)
+pkgconfig(QtXmlPatterns)

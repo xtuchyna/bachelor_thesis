@@ -1,0 +1,59 @@
+aspell-en
+coreutils
+findutils
+make
+perl(B::Keywords) >= 1.05
+perl(Carp)
+perl(Config::Tiny) >= 2
+perl(Devel::EnforceEncapsulation)
+perl(Email::Address) >= 1.889
+perl(English)
+perl(Exception::Class) >= 1.23
+perl(Exporter) >= 5.58
+perl(Fatal)
+perl(File::HomeDir)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Spec::Unix)
+perl(File::Temp)
+perl(File::Which)
+perl(Getopt::Long)
+perl(IO::String)
+perl(List::MoreUtils) >= 0.19
+perl(List::Util)
+perl(Module::Build) >= 0.42
+perl(Module::Pluggable) >= 3.1
+perl(PPI) >= 1.224
+perl(PPIx::Regexp) >= 0.010
+perl(PPIx::Utilities::Node)
+perl(PPIx::Utilities::Statement) >= 1.001
+perl(Perl::Critic::Policy::Editor::RequireEmacsFileVariables)
+perl(Perl::Critic::Policy::ErrorHandling::RequireUseOfExceptions)
+perl(Perl::Critic::Policy::Miscellanea::RequireRcsKeywords)
+perl(Perl::Tidy)
+perl(Pod::Parser)
+perl(Pod::PlainText)
+perl(Pod::Select)
+perl(Pod::Spell) >= 1
+perl(Pod::Usage)
+perl(Readonly) >= 2
+perl(Scalar::Util)
+perl(String::Format) >= 1.13
+perl(Task::Weaken)
+perl(Term::ANSIColor) >= 2.02
+perl(Test::Builder) >= 0.92
+perl(Test::Deep)
+perl(Test::Kwalitee) >= 1.15
+perl(Test::Memory::Cycle)
+perl(Test::More)
+perl(Test::Perl::Critic)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::Without::Module)
+perl(Text::ParseWords) >= 3
+perl(base)
+perl(lib)
+perl(version) >= 0.77
+perl-generators
+perl-interpreter

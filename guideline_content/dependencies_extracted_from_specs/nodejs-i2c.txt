@@ -1,0 +1,5 @@
+node-gyp
+nodejs-devel
+npm(coffee-script)
+npm(nan) >= 2.3.5
+npm(underscore)

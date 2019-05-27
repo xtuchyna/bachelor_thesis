@@ -1,0 +1,14 @@
+dejavu-sans-fonts
+dejavu-sans-mono-fonts
+dejavu-serif-fonts
+desktop-file-utils
+fltk-devel
+fontpackages-devel
+gnutls-devel
+libXpm-devel
+libjpeg-devel
+libpng-devel
+t1utils
+ttf2pt1
+urw-base35-fonts
+zlib-devel

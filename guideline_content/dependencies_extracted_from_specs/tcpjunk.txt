@@ -1,0 +1,4 @@
+desktop-file-utils
+gtksourceview2-devel
+openssl-devel
+pkgconfig

@@ -1,0 +1,12 @@
+desktop-file-utils
+kdelibs4-devel
+perl(Digest::MD5)
+perl(File::Temp)
+perl(Getopt::Long)
+perl(LWP::UserAgent)
+perl(Scalar::Util)
+perl(Storable)
+perl(Test::More)
+perl(Text::ParseWords)
+perl(XML::Parser)
+perl-generators

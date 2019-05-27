@@ -1,0 +1,10 @@
+cmake
+desktop-file-utils
+gettext
+kdelibs-devel
+kf5-kdelibs4support-devel
+libdiscid-devel
+libkcddb-devel
+libkcompactdisc-devel
+phonon-devel
+taglib-devel

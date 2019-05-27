@@ -1,0 +1,9 @@
+cmake
+gcc-c++
+gd-devel
+pkgconfig(libresample)
+pkgconfig(ogg)
+pkgconfig(theoradec)
+pkgconfig(theoraenc)
+pkgconfig(vorbis)
+pkgconfig(vorbisenc)

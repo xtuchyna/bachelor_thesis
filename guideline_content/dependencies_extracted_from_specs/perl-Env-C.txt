@@ -1,0 +1,11 @@
+findutils
+gcc
+make
+perl(DynaLoader)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

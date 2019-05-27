@@ -1,0 +1,18 @@
+glib2-devel >= 2.32
+gstreamer1-devel >= 1.4.0
+gstreamer1-plugins-bad-free-devel >= 1.4.0
+gstreamer1-plugins-base-devel >= 1.4.0
+libGL-devel
+libdrm-devel
+libudev-devel
+libva-devel >= 1.1.0
+libvpx-devel
+pkgconfig(egl)
+pkgconfig(wayland-client) >= 1
+pkgconfig(wayland-cursor) >= 1
+pkgconfig(wayland-egl) >= 1
+pkgconfig(wayland-scanner) >= 1
+pkgconfig(wayland-server) >= 1
+pkgconfig(xrandr)
+pkgconfig(xrender)
+wayland-devel

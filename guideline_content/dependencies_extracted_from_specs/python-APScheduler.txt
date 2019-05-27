@@ -1,0 +1,15 @@
+python-funcsigs
+python-futures
+python-mock
+python-pytest
+python-setuptools
+python-six >= 1.4.0
+python-sphinx
+python-tzlocal
+python2-devel
+python3-devel
+python3-mock
+python3-pytest
+python3-setuptools
+python3-six >= 1.4.0
+python3-tzlocal

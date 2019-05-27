@@ -1,0 +1,11 @@
+desktop-file-utils
+gnupg2
+gpgme-devel >= 1.0
+mate-common
+pkgconfig(cryptui-0.0)
+pkgconfig(dbus-glib-1)
+pkgconfig(gcr-3)
+pkgconfig(gnome-keyring-1)
+pkgconfig(gtk+-3.0)
+pkgconfig(libcaja-extension)
+pkgconfig(libnotify)

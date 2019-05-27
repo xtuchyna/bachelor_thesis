@@ -1,0 +1,46 @@
+liberation-mono-fonts
+pkgconfig(bash-completion)
+pungi >= 4.1.20
+python3-createrepo_c
+python3-devel
+python3-dnf
+python3-koji
+python3-librepo
+python3-setuptools
+python3dist(alembic)
+python3dist(arrow)
+python3dist(bleach)
+python3dist(click)
+python3dist(colander)
+python3dist(cornice) >= 3.1.0
+python3dist(cornice-sphinx) >= 0.3
+python3dist(cryptography)
+python3dist(dogpile.cache)
+python3dist(fedmsg)
+python3dist(fedora-messaging)
+python3dist(feedgen)
+python3dist(flake8)
+python3dist(iniparse)
+python3dist(jinja2)
+python3dist(kitchen)
+python3dist(markdown)
+python3dist(mock)
+python3dist(pillow)
+python3dist(psycopg2)
+python3dist(pylibravatar)
+python3dist(pyramid)
+python3dist(pyramid-fas-openid)
+python3dist(pyramid-mako)
+python3dist(pytest)
+python3dist(pytest-cov)
+python3dist(python-bugzilla)
+python3dist(python-fedora)
+python3dist(pyyaml)
+python3dist(responses)
+python3dist(simplemediawiki)
+python3dist(sphinx)
+python3dist(sqlalchemy)
+python3dist(sqlalchemy-schemadisplay)
+python3dist(webtest)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

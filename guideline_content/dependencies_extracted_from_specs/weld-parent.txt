@@ -1,0 +1,4 @@
+maven-local
+mvn(org.apache.maven.plugins:maven-install-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)

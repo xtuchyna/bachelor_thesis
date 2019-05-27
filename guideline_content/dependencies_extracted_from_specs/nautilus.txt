@@ -1,0 +1,19 @@
+/usr/bin/appstream-util
+desktop-file-utils
+gcc
+gettext
+gtk-doc
+libselinux-devel
+meson
+pkgconfig(exempi-2.0) >= 2.1.0
+pkgconfig(gexiv2)
+pkgconfig(glib-2.0) >= 2.55.1
+pkgconfig(gnome-autoar-0)
+pkgconfig(gnome-desktop-3.0) >= 3.0.0
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gsettings-desktop-schemas) >= 3.8.0
+pkgconfig(gtk+-3.0) >= 3.22.26
+pkgconfig(libexif) >= 0.6.20
+pkgconfig(libxml-2.0) >= 2.7.8
+pkgconfig(tracker-sparql-2.0)
+pkgconfig(x11)

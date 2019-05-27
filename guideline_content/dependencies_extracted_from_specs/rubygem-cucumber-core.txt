@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(gherkin)
+rubygem(kramdown)
+rubygem(rspec)
+rubygems-devel

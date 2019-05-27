@@ -1,0 +1,11 @@
+openssl
+openssl-devel
+perl-interpreter
+pkgconfig
+python2-devel
+python2-setuptools
+python2-typing
+python3-devel
+python3-setuptools
+swig
+which

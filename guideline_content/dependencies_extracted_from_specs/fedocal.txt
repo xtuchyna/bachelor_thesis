@@ -1,0 +1,16 @@
+python-alembic
+python-bleach
+python-dateutil >= 1:0
+python-docutils
+python-fedora >= 0.3.33
+python-fedora-flask >= 0.3.33
+python-flask
+python-flask-wtf
+python-kitchen
+python-markdown
+python-setuptools
+python-sqlalchemy > 0.5
+python-vobject
+python-wtforms
+python2-devel
+pytz

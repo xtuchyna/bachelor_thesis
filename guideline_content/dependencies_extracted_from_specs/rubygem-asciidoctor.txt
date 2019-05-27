@@ -1,0 +1,9 @@
+ruby(rubygems)
+rubygem(coderay)
+rubygem(erubis)
+rubygem(haml)
+rubygem(minitest)
+rubygem(nokogiri)
+rubygem(slim)
+rubygem(tilt)
+rubygems-devel

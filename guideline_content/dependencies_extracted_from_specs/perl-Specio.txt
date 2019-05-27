@@ -1,0 +1,41 @@
+coreutils
+make
+perl(B)
+perl(CPAN::Meta) >= 2.120900
+perl(CPAN::Meta::Prereqs)
+perl(Carp)
+perl(Devel::StackTrace)
+perl(Eval::Closure)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(IO::File)
+perl(List::Util) >= 1.33
+perl(MRO::Compat)
+perl(Module::Runtime)
+perl(Moo)
+perl(Moose) >= 2.1207
+perl(Mouse)
+perl(Ref::Util) >= 0.112
+perl(Role::Tiny) >= 1.003003
+perl(Role::Tiny::With)
+perl(Scalar::Util)
+perl(Storable)
+perl(Sub::Quote)
+perl(Sub::Util) >= 1.40
+perl(Test::Fatal)
+perl(Test::More) >= 0.96
+perl(Test::Needs)
+perl(Try::Tiny)
+perl(lib)
+perl(namespace::autoclean)
+perl(open)
+perl(overload)
+perl(parent)
+perl(re)
+perl(strict)
+perl(utf8)
+perl(version) >= 0.83
+perl(warnings)
+perl-generators
+perl-interpreter

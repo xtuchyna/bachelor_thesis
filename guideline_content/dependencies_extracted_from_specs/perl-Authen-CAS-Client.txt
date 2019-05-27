@@ -1,0 +1,21 @@
+coreutils
+make
+perl(:VERSION) >= 5.6.1
+perl(HTTP::Response)
+perl(LWP::UserAgent)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::MockObject) >= 0.00
+perl(Test::More) >= 0.00
+perl(URI) >= 0.00
+perl(URI::QueryParam)
+perl(XML::LibXML) >= 0.00
+perl(base)
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

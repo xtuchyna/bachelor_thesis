@@ -1,0 +1,11 @@
+GeoIP-devel
+gd-devel
+gperftools-devel
+libxslt-devel
+openssl-devel
+pcre-devel
+perl(ExtUtils::Embed)
+perl-devel
+perl-generators
+systemd
+zlib-devel

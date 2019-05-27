@@ -1,0 +1,7 @@
+glib2-devel >= 2.36.0
+gobject-introspection-devel
+intltool
+libtool
+libvirt-devel >= 1.1.1
+libxml2-devel
+vala-tools

@@ -1,0 +1,4 @@
+chrpath
+gettext-devel
+libcdio-devel
+pkgconfig

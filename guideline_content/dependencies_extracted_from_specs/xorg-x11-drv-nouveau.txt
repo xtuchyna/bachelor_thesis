@@ -1,0 +1,7 @@
+autoconf
+automake
+libdrm-devel >= 2.4.24-0.1.20110106
+libtool
+mesa-libGL-devel
+systemd-devel
+xorg-x11-server-devel >= 1.14.2-8

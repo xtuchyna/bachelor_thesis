@@ -1,0 +1,10 @@
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(File::Spec::Functions)
+perl(IO::CaptureOutput) >= 1.08
+perl(List::Util)
+perl(Test::More) >= 0.62
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

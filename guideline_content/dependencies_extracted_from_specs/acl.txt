@@ -1,0 +1,4 @@
+gawk
+gettext
+libattr-devel
+libtool

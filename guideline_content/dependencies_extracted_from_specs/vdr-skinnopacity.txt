@@ -1,0 +1,3 @@
+GraphicsMagick-c++-devel
+freetype-devel
+vdr-devel >= 1.7.34

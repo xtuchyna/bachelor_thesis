@@ -1,0 +1,5 @@
+autoconf
+automake
+libcurl-devel
+libmicrohttpd-devel >= 0.9.7
+libtool

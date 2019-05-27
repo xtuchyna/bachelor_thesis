@@ -1,0 +1,5 @@
+gcc
+libpng-devel
+oniguruma-devel
+pcre-devel
+zlib-devel

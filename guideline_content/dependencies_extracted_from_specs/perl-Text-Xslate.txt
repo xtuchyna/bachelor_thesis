@@ -1,0 +1,65 @@
+coreutils
+findutils
+gcc
+make
+perl(B)
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Data::MessagePack) >= 0.38
+perl(Data::Section::Simple)
+perl(Devel::StackTrace) >= 1.30
+perl(Digest::MD5)
+perl(Encode) >= 2.26
+perl(Exporter)
+perl(Fatal)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Copy::Recursive)
+perl(File::Find)
+perl(File::Path) >= 2.07
+perl(File::Spec)
+perl(File::Temp)
+perl(File::stat)
+perl(FindBin)
+perl(Getopt::Long)
+perl(HTTP::Request)
+perl(List::Util)
+perl(Module::Build) >= 0.4005
+perl(Module::Build::XSUtil)
+perl(Mouse) >= 2.5.0
+perl(Mouse::Role)
+perl(Mouse::Util::TypeConstraints)
+perl(Plack) >= 0.99
+perl(Plack::Builder)
+perl(Plack::Response)
+perl(Plack::Test)
+perl(Scalar::Util) >= 1.14
+perl(SelectSaver)
+perl(Template::Plugin::Math)
+perl(Template::Plugin::String)
+perl(Test::LeakTrace)
+perl(Test::More) >= 0.98
+perl(Test::Requires)
+perl(Tie::Array)
+perl(Tie::Hash)
+perl(Time::HiRes)
+perl(Time::localtime)
+perl(XSLoader) >= 0.02
+perl(base)
+perl(constant)
+perl(if)
+perl(lib)
+perl(overload)
+perl(parent) >= 0.221
+perl(strict)
+perl(threads)
+perl(utf8)
+perl(version)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

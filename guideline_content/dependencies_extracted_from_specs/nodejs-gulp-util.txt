@@ -1,0 +1,16 @@
+mocha
+nodejs-packaging
+npm(array-differ)
+npm(array-uniq)
+npm(beeper)
+npm(dateformat)
+npm(event-stream)
+npm(fancy-log)
+npm(has-gulplog)
+npm(lodash._reescape)
+npm(lodash._reevaluate)
+npm(lodash.template)
+npm(multipipe)
+npm(should)
+npm(through2)
+npm(vinyl)

@@ -1,0 +1,6 @@
+libicu-devel
+ruby(release)
+ruby-devel
+rubygem(minitest)
+rubygems-devel
+zlib-devel

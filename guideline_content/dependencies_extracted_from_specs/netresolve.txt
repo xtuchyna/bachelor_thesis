@@ -1,0 +1,9 @@
+autoconf
+automake
+ldns-devel
+libtool
+pkgconfig(avahi-client)
+pkgconfig(libasyncns)
+pkgconfig(libcares)
+unbound-devel
+valgrind

@@ -1,0 +1,17 @@
+dbus-x11
+extra-cmake-modules >= 5.44
+kf5-kconfig-devel >= 5.44
+kf5-kcoreaddons-devel >= 5.44
+kf5-kcrash-devel >= 5.44
+kf5-kdbusaddons-devel >= 5.44
+kf5-kfilemetadata-devel >= 5.44
+kf5-ki18n-devel >= 5.44
+kf5-kidletime-devel >= 5.44
+kf5-kio-devel >= 5.44
+kf5-rpm-macros >= 5.44
+kf5-solid-devel >= 5.44
+lmdb-devel
+qt5-qtbase-devel
+qt5-qtdeclarative-devel
+time
+xorg-x11-server-Xvfb

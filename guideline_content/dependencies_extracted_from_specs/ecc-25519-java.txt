@@ -1,0 +1,4 @@
+gradle-local
+mvn(junit:junit)
+mvn(net.i2p.crypto:eddsa)
+mvn(org.zeromq:curve25519-java)

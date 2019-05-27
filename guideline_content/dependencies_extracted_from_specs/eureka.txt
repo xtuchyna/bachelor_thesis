@@ -1,0 +1,8 @@
+fltk-devel
+libGL-devel
+libXft-devel
+libXinerama-devel
+libjpeg-devel
+libpng-devel
+xdg-utils
+zlib-devel

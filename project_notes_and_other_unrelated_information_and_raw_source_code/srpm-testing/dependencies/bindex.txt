@@ -1,0 +1,10 @@
+ant
+aqute-bnd
+felix-osgi-core
+felix-osgi-obr
+java-devel >= 1:1.6.0
+junit
+kxml
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+xpp3

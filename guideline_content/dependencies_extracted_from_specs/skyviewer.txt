@@ -1,0 +1,6 @@
+cfitsio-devel
+chealpix-devel
+desktop-file-utils
+libQGLViewer-devel
+mesa-libGLU-devel
+qt4-devel

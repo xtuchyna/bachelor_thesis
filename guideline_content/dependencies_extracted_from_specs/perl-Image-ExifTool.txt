@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(FileHandle)
+perl(POSIX)
+perl(Time::Local)
+perl(integer)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

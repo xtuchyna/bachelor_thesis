@@ -1,0 +1,7 @@
+boost-devel
+cmake
+doxygen
+graphviz
+hardlink
+libyui-devel
+ncurses-devel

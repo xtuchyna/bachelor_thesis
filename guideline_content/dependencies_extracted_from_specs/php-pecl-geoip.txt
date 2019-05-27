@@ -1,0 +1,3 @@
+GeoIP-devel
+php-devel
+php-pear

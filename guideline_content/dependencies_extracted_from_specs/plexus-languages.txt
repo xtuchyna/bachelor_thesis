@@ -1,0 +1,12 @@
+jdom
+maven-local
+mvn(com.google.inject:guice)
+mvn(com.thoughtworks.qdox:qdox)
+mvn(javax.inject:javax.inject)
+mvn(junit:junit)
+mvn(org.codehaus.plexus:plexus-component-annotations)
+mvn(org.codehaus.plexus:plexus-component-metadata)
+mvn(org.codehaus.plexus:plexus:pom:)
+mvn(org.mockito:mockito-core)
+mvn(org.ow2.asm:asm)
+objectweb-asm

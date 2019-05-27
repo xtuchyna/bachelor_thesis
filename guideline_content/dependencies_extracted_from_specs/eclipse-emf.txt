@@ -1,0 +1,5 @@
+eclipse-filesystem
+eclipse-pde
+eclipse-xsd
+tycho
+tycho-extras

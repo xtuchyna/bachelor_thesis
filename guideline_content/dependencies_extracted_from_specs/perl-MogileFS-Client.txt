@@ -1,0 +1,16 @@
+perl(Carp)
+perl(Errno)
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Request)
+perl(HTTP::Status)
+perl(IO::Socket::INET)
+perl(IO::WrapTie) >= 2.102
+perl(LWP)
+perl(LWP::UserAgent)
+perl(List::Util)
+perl(POSIX)
+perl(Socket)
+perl(Test::More)
+perl(Time::HiRes)
+perl(fields)
+perl-generators

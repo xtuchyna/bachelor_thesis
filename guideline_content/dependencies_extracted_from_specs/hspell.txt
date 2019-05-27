@@ -1,0 +1,3 @@
+hunspell-devel
+perl-generators
+zlib-devel

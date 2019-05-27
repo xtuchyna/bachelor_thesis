@@ -1,0 +1,4 @@
+perl(Algorithm::Diff) >= 1.15
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl-generators

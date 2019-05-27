@@ -1,0 +1,11 @@
+compface-devel
+desktop-file-utils
+enchant-devel
+gettext
+gpgme-devel
+gtk2-devel
+gtkspell-devel
+openldap-devel
+openssl-devel
+pkgconfig
+xdg-utils

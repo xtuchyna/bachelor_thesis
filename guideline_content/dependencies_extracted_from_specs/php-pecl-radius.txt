@@ -1,0 +1,4 @@
+php-devel
+php-pear
+php-posix
+php-sockets

@@ -1,0 +1,9 @@
+gcc
+gcc-c++
+ghostscript
+git
+libXaw-devel
+libXmu-devel
+netpbm-progs
+perl-generators
+psutils

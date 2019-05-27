@@ -1,0 +1,27 @@
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(Log::Dispatch)
+perl(Log::Dispatch::Array)
+perl(Log::Dispatch::File)
+perl(Log::Dispatch::Screen)
+perl(Log::Dispatch::Syslog)
+perl(Params::Util)
+perl(Scalar::Util)
+perl(String::Flogger)
+perl(Sub::Exporter)
+perl(Sub::Exporter::GlobExporter) >= 0.002
+perl(Test::Deep)
+perl(Test::Fatal)
+perl(Test::More) >= 0.96
+perl(Try::Tiny) >= 0.04
+perl(base)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

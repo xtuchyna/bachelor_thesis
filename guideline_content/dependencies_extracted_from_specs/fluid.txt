@@ -1,0 +1,7 @@
+extra-cmake-modules
+kf5-rpm-macros
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Network)
+pkgconfig(Qt5Qml)
+pkgconfig(Qt5Quick)

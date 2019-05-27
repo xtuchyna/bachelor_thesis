@@ -1,0 +1,21 @@
+/usr/bin/xmllint
+GConf2
+desktop-file-utils
+gettext
+intltool
+itstool
+libX11-devel
+mono(Mono.Cairo)
+mono(mcs)
+pkgconfig(atk) >= 1.2.4
+pkgconfig(dbus-sharp-2.0) >= 0.4
+pkgconfig(dbus-sharp-glib-2.0) >= 0.3
+pkgconfig(gconf-sharp-2.0)
+pkgconfig(gdk-2.0) >= 2.6.0
+pkgconfig(gtk+-2.0) >= 2.14.0
+pkgconfig(gtk-sharp-2.0) >= 2.10.1
+pkgconfig(gtkspell-2.0) >= 2.0.9
+pkgconfig(mono) >= 1.9.1
+pkgconfig(mono-addins) >= 0.3
+pkgconfig(mono-addins-gui) >= 0.3
+pkgconfig(mono-addins-setup) >= 0.3

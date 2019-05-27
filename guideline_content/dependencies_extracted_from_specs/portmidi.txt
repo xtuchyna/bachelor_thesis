@@ -1,0 +1,9 @@
+alsa-lib-devel
+cmake
+desktop-file-utils
+doxygen
+java-devel >= 1.7
+jpackage-utils
+python2-devel
+python3-devel
+tex(latex)

@@ -1,0 +1,21 @@
+cmake(Qt5PrintSupport)
+cmake(Qt5Qml)
+cmake(Qt5Script)
+cmake(Qt5Widgets)
+cmake(Qt5Xml)
+cmake(Qt5XmlPatterns)
+dbus-x11
+extra-cmake-modules >= 5.44
+kf5-karchive-devel >= 5.44
+kf5-kconfig-devel >= 5.44
+kf5-kguiaddons-devel >= 5.44
+kf5-ki18n-devel >= 5.44
+kf5-kiconthemes-devel >= 5.44
+kf5-kio-devel >= 5.44
+kf5-kparts-devel >= 5.44
+kf5-rpm-macros >= 5.44
+kf5-sonnet-devel >= 5.44
+kf5-syntax-highlighting-devel >= 5.44
+libgit2-devel >= 0.22.0
+time
+xorg-x11-server-Xvfb

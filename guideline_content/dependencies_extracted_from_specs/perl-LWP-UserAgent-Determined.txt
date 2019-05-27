@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Headers)
+perl(HTTP::Request)
+perl(HTTP::Request::Common)
+perl(LWP)
+perl(LWP::UserAgent)
+perl(Test)
+perl(strict)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+mocha
+nodejs-packaging
+npm(base64-url)
+npm(bluebird)
+npm(rndm)
+npm(tap)
+npm(tsscmp)
+npm(uid-safe)

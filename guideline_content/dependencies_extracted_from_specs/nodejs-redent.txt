@@ -1,0 +1,3 @@
+nodejs-packaging
+npm(indent-string)
+npm(strip-indent)

@@ -1,0 +1,22 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Spec) >= 0.82
+perl(FileHandle)
+perl(Pod::PlainText)
+perl(Pod::Text) >= 4
+perl(Test::More) >= 0.6
+perl(blib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-Pod-Perldoc
+perl-generators
+perl-interpreter
+sed

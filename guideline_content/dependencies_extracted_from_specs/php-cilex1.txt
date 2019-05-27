@@ -1,0 +1,17 @@
+php(language) >= 5.3.3
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(pimple/pimple) < 2.0
+php-composer(pimple/pimple) >= 1.0
+php-composer(symfony/console) < 3.0
+php-composer(symfony/console) >= 2.7.1
+php-composer(symfony/finder) < 3.0
+php-composer(symfony/finder) >= 2.7.1
+php-composer(symfony/process) < 3.0
+php-composer(symfony/process) >= 2.7.1
+php-composer(symfony/validator) < 3.0
+php-composer(symfony/validator) >= 2.7.1
+php-json
+php-pcre
+php-simplexml
+php-spl

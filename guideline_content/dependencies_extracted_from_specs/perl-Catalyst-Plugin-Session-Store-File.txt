@@ -1,0 +1,26 @@
+coreutils
+findutils
+make
+perl(Cache::Cache) >= 1.02
+perl(Cache::FileCache)
+perl(Catalyst::Plugin::Session) >= 0.27
+perl(Catalyst::Plugin::Session::Store)
+perl(Catalyst::Plugin::Session::Test::Store)
+perl(Catalyst::Runtime) >= 5.7000
+perl(Catalyst::Utils)
+perl(Class::Data::Inheritable) >= 0.04
+perl(File::Temp)
+perl(MRO::Compat) >= 0.10
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Path::Class)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(base)
+perl(inc::Module::Install) >= 0.87
+perl(warnings)
+perl-generators
+perl-interpreter >= 1:5.8.0
+sed

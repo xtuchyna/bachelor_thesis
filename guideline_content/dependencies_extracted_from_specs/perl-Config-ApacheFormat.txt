@@ -1,0 +1,8 @@
+perl(Carp)
+perl(Class::MethodMaker)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Text::Balanced)
+perl-generators

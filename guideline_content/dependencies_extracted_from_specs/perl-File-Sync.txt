@@ -1,0 +1,18 @@
+findutils
+gcc
+make
+perl(AutoLoader)
+perl(Carp)
+perl(Config)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(FileHandle)
+perl(Getopt::Long)
+perl(POSIX)
+perl(Symbol)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

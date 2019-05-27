@@ -1,0 +1,18 @@
+perl(Carp)
+perl(Exporter)
+perl(Module::Build) >= 0.36
+perl(Test::CPAN::Changes)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::TrailingSpace)
+perl(Test::Warn) >= 0.21
+perl(base)
+perl(lib)
+perl(parent)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl(warnings::register)
+perl-generators
+perl-interpreter

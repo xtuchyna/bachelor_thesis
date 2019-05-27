@@ -1,0 +1,13 @@
+maven-local
+mvn(org.apache.aries.blueprint:blueprint-parser) >= 1.4.0
+mvn(org.apache.aries.blueprint:org.apache.aries.blueprint.annotation.api) >= 1.0.1
+mvn(org.apache.aries.blueprint:org.apache.aries.blueprint.api) >= 1.0.1
+mvn(org.apache.aries.proxy:org.apache.aries.proxy.api) >= 1.0.1
+mvn(org.apache.aries.proxy:org.apache.aries.proxy.impl) >= 1.0.5
+mvn(org.apache.aries.quiesce:org.apache.aries.quiesce.api) >= 1.0.0
+mvn(org.apache.aries:org.apache.aries.util)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.eclipse.osgi:org.eclipse.osgi)
+mvn(org.eclipse.osgi:org.eclipse.osgi.services)
+mvn(org.ow2.asm:asm-debug-all)
+mvn(org.slf4j:slf4j-api)

@@ -1,0 +1,25 @@
+coreutils
+findutils
+make
+perl(Catalyst) >= 5.6
+perl(Catalyst::Controller)
+perl(Catalyst::Exception)
+perl(Catalyst::Test)
+perl(Catalyst::View)
+perl(Encode)
+perl(FindBin)
+perl(JSON::MaybeXS) >= 1.003000
+perl(MRO::Compat)
+perl(Module::Install::Metadata)
+perl(Module::Install::Repository)
+perl(Module::Install::WriteAll)
+perl(Test::More)
+perl(YAML)
+perl(base)
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

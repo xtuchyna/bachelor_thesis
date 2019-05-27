@@ -1,0 +1,6 @@
+coreutils
+gcc
+make
+pkgconfig(libxml-2.0) >= 2
+pkgconfig(shout) >= 2.2
+pkgconfig(taglib_c) >= 1.4

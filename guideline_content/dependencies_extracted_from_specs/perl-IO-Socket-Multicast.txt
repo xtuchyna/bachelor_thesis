@@ -1,0 +1,13 @@
+findutils
+perl(Carp)
+perl(Config)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IO::Interface) >= 0.94
+perl(IO::Socket)
+perl(Test::More)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

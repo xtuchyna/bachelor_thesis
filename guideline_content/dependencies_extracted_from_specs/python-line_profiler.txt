@@ -1,0 +1,9 @@
+gcc
+python2-Cython
+python2-devel
+python2-ipython-console
+python2-setuptools
+python3-Cython
+python3-devel
+python3-ipython-console
+python3-setuptools

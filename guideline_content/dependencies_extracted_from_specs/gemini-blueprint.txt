@@ -1,0 +1,17 @@
+aopalliance
+easymock3
+felix-osgi-compendium
+felix-osgi-core
+junit
+log4j12
+maven-local
+maven-plugin-bundle
+multithreadedtc
+mvn(org.slf4j:jcl-over-slf4j)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-log4j12)
+springframework
+springframework-aop
+springframework-beans
+springframework-context
+springframework-context-support

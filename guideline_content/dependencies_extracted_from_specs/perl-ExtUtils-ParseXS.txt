@@ -1,0 +1,23 @@
+coreutils
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(DynaLoader)
+perl(Exporter) >= 5.57
+perl(ExtUtils::CBuilder)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Spec)
+perl(File::Temp)
+perl(Symbol)
+perl(Test::More) >= 0.47
+perl(attributes)
+perl(lib)
+perl(overload)
+perl(re)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

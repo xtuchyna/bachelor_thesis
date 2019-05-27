@@ -1,0 +1,9 @@
+perl(Carp)
+perl(Date::Parse) >= 2.27
+perl(Module::Build)
+perl(Test::More)
+perl(Time::HiRes)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators

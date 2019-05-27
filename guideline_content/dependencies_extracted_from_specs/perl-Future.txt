@@ -1,0 +1,22 @@
+coreutils
+findutils
+perl(B)
+perl(Carp) >= 1.25
+perl(Exporter)
+perl(Module::Build)
+perl(Scalar::Util)
+perl(Test::Builder::Module)
+perl(Test::Builder::Tester)
+perl(Test::Fatal)
+perl(Test::Identity)
+perl(Test::More) >= 0.88
+perl(Test::Pod)
+perl(Test::Refcount)
+perl(Time::HiRes)
+perl(base)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

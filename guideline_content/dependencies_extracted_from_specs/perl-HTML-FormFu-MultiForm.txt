@@ -1,0 +1,29 @@
+make
+perl(Carp)
+perl(Clone)
+perl(Crypt::CBC)
+perl(Crypt::DES)
+perl(Cwd)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fatal)
+perl(File::Spec)
+perl(HTML::FormFu)
+perl(HTML::FormFu::Attribute)
+perl(HTML::FormFu::ObjectUtil)
+perl(HTML::FormFu::QueryType::CGI)
+perl(HTML::FormFu::Role::FormAndElementMethods)
+perl(HTML::FormFu::Role::FormBlockAndFieldMethods)
+perl(HTML::FormFu::Role::NestedHashUtils)
+perl(HTML::FormFu::Role::Populate)
+perl(List::MoreUtils)
+perl(Moose)
+perl(MooseX::Attribute::Chained)
+perl(Scalar::Util)
+perl(Storable)
+perl(Test::More) >= 0.92
+perl(YAML::XS)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

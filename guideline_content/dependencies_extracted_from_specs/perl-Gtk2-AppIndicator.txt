@@ -1,0 +1,14 @@
+gcc
+perl(AutoLoader)
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Gtk2)
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig(appindicator-0.1)
+pkgconfig(gtk+-2.0)

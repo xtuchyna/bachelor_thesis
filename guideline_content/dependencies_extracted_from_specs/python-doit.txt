@@ -1,0 +1,9 @@
+python3-cloudpickle
+python3-devel
+python3-inotify
+python3-mock
+python3-pytest
+python3-setuptools
+python3-six
+python3-sphinx
+strace

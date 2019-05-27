@@ -1,0 +1,9 @@
+maven-local
+mvn(javax.servlet:javax.servlet-api)
+mvn(org.apache.commons:commons-logging)
+mvn(org.sonatype.sisu.inject:guice-servlet)
+mvn(org.sonatype.sisu:sisu-guice)
+mvn(org.springframework:spring-beans)
+mvn(org.springframework:spring-context)
+mvn(org.springframework:spring-core)
+mvn(org.springframework:spring-web)

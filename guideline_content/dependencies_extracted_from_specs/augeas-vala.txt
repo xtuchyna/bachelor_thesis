@@ -1,0 +1,6 @@
+augeas-devel >= 0.10.0
+autoconf
+automake
+glib2-devel
+libtool
+vala

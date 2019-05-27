@@ -1,0 +1,4 @@
+gtk2-devel
+pygobject2-devel
+pygtk2-devel
+python-devel

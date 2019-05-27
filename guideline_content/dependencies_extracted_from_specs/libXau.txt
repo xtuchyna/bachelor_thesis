@@ -1,0 +1,6 @@
+autoconf
+automake
+libtool
+pkgconfig
+xorg-x11-proto-devel
+xorg-x11-util-macros

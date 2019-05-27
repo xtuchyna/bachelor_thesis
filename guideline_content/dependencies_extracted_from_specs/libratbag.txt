@@ -1,0 +1,7 @@
+check-devel
+git
+libevdev-devel
+libudev-devel
+meson
+pkgconfig
+pkgconfig(udev)

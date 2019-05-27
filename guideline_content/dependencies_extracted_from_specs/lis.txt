@@ -1,0 +1,3 @@
+autoconf
+chrpath
+gcc-gfortran

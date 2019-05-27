@@ -1,0 +1,5 @@
+dbus-glib-devel
+gtk3-devel
+libappindicator-gtk3-devel
+mate-common
+polkit-devel

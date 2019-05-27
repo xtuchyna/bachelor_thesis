@@ -1,0 +1,8 @@
+autoconf
+automake
+gcc
+libtool
+pkgconfig(json-c)
+pkgconfig(libcurl)
+pkgconfig(libmicrohttpd)
+pkgconfig(libuv)

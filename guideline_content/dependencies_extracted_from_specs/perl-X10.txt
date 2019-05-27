@@ -1,0 +1,12 @@
+findutils
+perl(Astro::SunTime)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(POSIX)
+perl(Storable)
+perl(Time::ParseDate)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

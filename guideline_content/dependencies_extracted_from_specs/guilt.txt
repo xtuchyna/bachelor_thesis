@@ -1,0 +1,3 @@
+asciidoc
+git-core
+xmlto

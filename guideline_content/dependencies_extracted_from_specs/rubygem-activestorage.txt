@@ -1,0 +1,8 @@
+ruby >= 2.3.0
+ruby(release)
+rubygem(actionpack)
+rubygem(activejob)
+rubygem(activerecord)
+rubygem(activesupport)
+rubygem(sqlite3)
+rubygems-devel

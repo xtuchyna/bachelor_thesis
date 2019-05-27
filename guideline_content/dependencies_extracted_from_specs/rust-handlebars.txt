@@ -1,0 +1,12 @@
+(crate(env_logger) >= 0.4.0 with crate(env_logger) < 0.5.0)
+(crate(lazy_static) >= 1.0.0 with crate(lazy_static) < 2.0.0)
+(crate(log) >= 0.4.0 with crate(log) < 0.5.0)
+(crate(maplit) >= 1.0.0 with crate(maplit) < 2.0.0)
+(crate(pest) >= 1.0.0 with crate(pest) < 2.0.0)
+(crate(pest_derive) >= 1.0.0 with crate(pest_derive) < 2.0.0)
+(crate(quick-error) >= 1.0.0 with crate(quick-error) < 2.0.0)
+(crate(regex) >= 0.2.0 with crate(regex) < 0.3.0)
+(crate(serde) >= 1.0.0 with crate(serde) < 2.0.0)
+(crate(serde_derive) >= 1.0.0 with crate(serde_derive) < 2.0.0)
+(crate(serde_json) >= 1.0.0 with crate(serde_json) < 2.0.0)
+rust-packaging

@@ -1,0 +1,12 @@
+coreutils
+findutils
+liblzf-devel
+make
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Storable)
+perl-devel
+perl-generators
+perl-interpreter
+perlmulticore-static

@@ -1,0 +1,5 @@
+cmake
+gcc
+gcc-c++
+intltool
+libuuid-devel

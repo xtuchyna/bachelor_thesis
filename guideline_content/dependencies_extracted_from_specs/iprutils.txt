@@ -1,0 +1,6 @@
+kernel-headers
+libcap-devel
+ncurses-devel
+python-devel
+systemd
+zlib-devel

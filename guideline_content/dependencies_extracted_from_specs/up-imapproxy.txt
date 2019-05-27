@@ -1,0 +1,4 @@
+gcc
+ncurses-devel
+openssl-devel
+systemd

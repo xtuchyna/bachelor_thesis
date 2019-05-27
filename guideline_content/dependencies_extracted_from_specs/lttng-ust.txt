@@ -1,0 +1,7 @@
+autoconf
+automake
+libtool
+libuuid-devel
+python
+texinfo
+userspace-rcu-devel >= 0.8.0

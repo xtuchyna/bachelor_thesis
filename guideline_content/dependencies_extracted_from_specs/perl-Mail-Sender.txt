@@ -1,0 +1,25 @@
+coreutils
+findutils
+make
+perl(CPAN::Meta) >= 2.120900
+perl(Carp)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IO::Socket::INET)
+perl(MIME::Base64)
+perl(MIME::QuotedPrint)
+perl(Socket)
+perl(Symbol)
+perl(Test::More) >= 0.88
+perl(Tie::Handle)
+perl(Time::Local)
+perl(Try::Tiny) >= 0.24
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

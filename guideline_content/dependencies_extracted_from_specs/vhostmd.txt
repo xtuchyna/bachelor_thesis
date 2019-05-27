@@ -1,0 +1,5 @@
+chrpath
+libvirt-devel
+libxml2-devel
+perl-generators
+pkgconfig

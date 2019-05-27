@@ -1,0 +1,8 @@
+desktop-file-utils
+python3-cherrypy
+python3-devel
+python3-nose
+python3-qt5
+python3-setuptools
+texlive-collection-latexrecommended
+texlive-dvipng

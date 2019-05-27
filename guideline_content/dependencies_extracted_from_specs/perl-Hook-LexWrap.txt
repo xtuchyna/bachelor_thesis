@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(CPAN::Meta) >= 2.120900
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

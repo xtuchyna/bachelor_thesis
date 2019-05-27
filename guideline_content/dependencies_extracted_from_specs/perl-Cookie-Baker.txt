@@ -1,0 +1,15 @@
+/usr/bin/perl
+perl(Exporter)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Spec)
+perl(Module::Build::Tiny) >= 0.035
+perl(Test::More) >= 0.98
+perl(Test::Time)
+perl(URI::Escape)
+perl(base)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.008001

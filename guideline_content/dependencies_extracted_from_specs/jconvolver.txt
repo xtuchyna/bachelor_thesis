@@ -1,0 +1,6 @@
+clthreads-devel
+fftw-devel
+gcc-c++
+jack-audio-connection-kit-devel
+libsndfile-devel
+zita-convolver-devel >= 3.0.2

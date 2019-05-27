@@ -1,0 +1,9 @@
+bzip2-devel
+gcc
+perl-generators
+popt-devel
+python2-devel
+python3-devel
+rpm-devel
+xz-devel
+zlib-devel

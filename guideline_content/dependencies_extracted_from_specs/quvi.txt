@@ -1,0 +1,5 @@
+glib2-devel
+json-glib-devel
+libcurl-devel
+libquvi-devel
+libxml2-devel

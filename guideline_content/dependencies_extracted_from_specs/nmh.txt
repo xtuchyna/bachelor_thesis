@@ -1,0 +1,8 @@
+cyrus-sasl-devel
+gcc
+libcurl-devel
+libdb-devel
+ncurses-devel
+openssl-devel
+readline-devel
+w3m

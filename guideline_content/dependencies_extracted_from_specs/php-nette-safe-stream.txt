@@ -1,0 +1,5 @@
+php(language) >= 5.3.1
+php-composer(nette/tester) >= 1.0
+php-composer(theseer/autoload)
+php-composer(tracy/tracy) >= 2.3
+php-date

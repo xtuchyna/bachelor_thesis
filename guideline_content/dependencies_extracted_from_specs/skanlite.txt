@@ -1,0 +1,5 @@
+gettext
+kdelibs4-devel
+libappstream-glib
+libpng-devel
+pkgconfig(libksane)

@@ -1,0 +1,5 @@
+ghc-Cabal-devel
+ghc-HTTP-devel
+ghc-network-devel
+ghc-network-uri-devel
+ghc-rpm-macros

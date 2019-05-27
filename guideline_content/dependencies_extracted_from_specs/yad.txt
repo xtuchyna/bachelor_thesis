@@ -1,0 +1,6 @@
+desktop-file-utils
+gettext
+gtk3-devel >= 3.0.0
+intltool >= 0.40.0
+perl(XML::Parser)
+pkgconfig

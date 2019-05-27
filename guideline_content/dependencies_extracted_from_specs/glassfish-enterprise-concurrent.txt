@@ -1,0 +1,8 @@
+maven-local
+mvn(javax.enterprise.concurrent:javax.enterprise.concurrent-api)
+mvn(junit:junit)
+mvn(net.java:jvnet-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-release-plugin)
+mvn(org.glassfish.build:spec-version-maven-plugin)
+mvn(org.jboss.spec.javax.management.j2ee:jboss-j2eemgmt-api_1.1_spec)

@@ -1,0 +1,11 @@
+(crate(crossbeam) >= 0.3.0 with crate(crossbeam) < 0.4.0)
+(crate(globset) >= 0.3.0 with crate(globset) < 0.4.0)
+(crate(lazy_static) >= 1.0.0 with crate(lazy_static) < 2.0.0)
+(crate(log) >= 0.4.0 with crate(log) < 0.5.0)
+(crate(memchr) >= 2.0.0 with crate(memchr) < 3.0.0)
+(crate(regex) >= 0.2.1 with crate(regex) < 0.3.0)
+(crate(same-file) >= 1.0.0 with crate(same-file) < 2.0.0)
+(crate(tempdir) >= 0.3.5 with crate(tempdir) < 0.4.0)
+(crate(thread_local) >= 0.3.2 with crate(thread_local) < 0.4.0)
+(crate(walkdir) >= 2.0.0 with crate(walkdir) < 3.0.0)
+rust-packaging

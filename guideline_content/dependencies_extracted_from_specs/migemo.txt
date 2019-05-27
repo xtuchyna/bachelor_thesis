@@ -1,0 +1,7 @@
+emacs >= 21.4
+ruby
+ruby(bsearch)
+ruby(release)
+ruby(romkan)
+ruby-devel
+xemacs >= 21.4

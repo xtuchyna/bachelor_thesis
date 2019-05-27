@@ -1,0 +1,5 @@
+erlang-fast_xml >= 1.1.28
+erlang-p1_utils >= 1.0.10
+erlang-rebar
+erlang-stringprep >= 1.0.10
+gcc

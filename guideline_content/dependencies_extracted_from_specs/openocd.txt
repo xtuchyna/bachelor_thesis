@@ -1,0 +1,9 @@
+chrpath
+hidapi-devel
+jimtcl-devel
+libftdi-devel
+libjaylink-devel
+libusb-devel
+libusbx-devel
+sdcc
+texinfo

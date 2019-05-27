@@ -1,0 +1,5 @@
+curl-devel
+json-c-devel
+m4
+systemd-devel
+systemd-units

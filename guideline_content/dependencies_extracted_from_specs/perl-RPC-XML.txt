@@ -1,0 +1,47 @@
+coreutils
+findutils
+make
+perl(Apache)
+perl(Apache::Constants)
+perl(Apache::File)
+perl(CGI)
+perl(Carp)
+perl(Compress::Zlib)
+perl(Config)
+perl(DateTime) >= 0.70
+perl(DateTime::Format::ISO8601) >= 0.07
+perl(Digest::MD5)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Spec) >= 0.8
+perl(File::Temp)
+perl(HTTP::Daemon)
+perl(HTTP::Request)
+perl(HTTP::Response)
+perl(HTTP::Status)
+perl(IO::Handle)
+perl(IO::Socket)
+perl(IO::Socket::IP)
+perl(LWP) >= 5.834
+perl(LWP::UserAgent)
+perl(LWP::UserAgent) >= 5.834
+perl(List::Util)
+perl(MIME::Base64)
+perl(Module::Load) >= 0.24
+perl(Net::Server)
+perl(Scalar::Util) >= 1.33
+perl(Socket)
+perl(Symbol)
+perl(Test::More) >= 0.94
+perl(URI)
+perl(XML::LibXML) >= 1.85
+perl(XML::Parser) >= 2.31
+perl(base)
+perl(constant) >= 1.03
+perl(strict)
+perl(subs)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

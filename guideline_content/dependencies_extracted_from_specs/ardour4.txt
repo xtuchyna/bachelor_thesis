@@ -1,0 +1,45 @@
+alsa-lib-devel
+aubio-devel >= 0.3.2
+bluez-libs-devel
+boost-devel >= 1.39
+cppunit-devel >= 1.12.0
+cwiid-devel >= 0.6.00
+dbus-devel
+desktop-file-utils
+doxygen
+fftw-devel
+flac-devel >= 1.2.1
+fontconfig
+gettext
+glib2-devel >= 2.14.0
+glibmm24-devel >= 2.32.0
+graphviz
+gtk2-devel >= 2.18
+gtkmm24-devel >= 2.18
+itstool >= 2.0.0
+jack-audio-connection-kit-devel >= 1.9.10
+kernel-headers
+libX11-devel >= 1.1
+libappstream-glib
+libcurl-devel >= 7.0.0
+libgnomecanvas-devel >= 2.30
+libgnomecanvasmm26-devel >= 2.16
+liblo-devel >= 0.24
+liblrdf-devel >= 0.4.0
+libltc-devel >= 1.1.1
+libogg-devel >= 1.1.2
+libsamplerate-devel >= 0.1.7
+libsigc++20-devel >= 2.0
+libsndfile-devel >= 1.0.18
+libuuid-devel
+libxml2-devel
+lilv-devel >= 0.14.0
+lv2-devel >= 1.0.0
+python
+rubberband-devel >= 1.0
+serd-devel >= 0.14.0
+sord-devel >= 0.8.0
+sratom-devel >= 0.2.0
+suil-devel >= 0.6.0
+taglib-devel >= 1.4
+vamp-plugin-sdk-devel

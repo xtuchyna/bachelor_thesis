@@ -1,0 +1,12 @@
+autoconf
+automake
+chrpath
+gobject-introspection-devel
+gstreamer-devel
+gstreamer-plugins-base-devel
+gstreamer-python-devel
+libtool
+pygobject2-devel
+python-devel
+vala-devel
+vala-tools

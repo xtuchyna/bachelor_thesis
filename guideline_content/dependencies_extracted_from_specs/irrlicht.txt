@@ -1,0 +1,8 @@
+bzip2-devel
+libXxf86vm-devel
+libaesgm-devel
+libjpeg-devel
+libpng-devel
+mesa-libGL-devel
+mesa-libGLU-devel
+zlib-devel

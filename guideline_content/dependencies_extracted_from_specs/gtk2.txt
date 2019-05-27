@@ -1,0 +1,21 @@
+autoconf
+automake
+cups-devel
+gettext
+gtk-doc
+libtool
+pkgconfig
+pkgconfig(atk) >= 1.29.4-2
+pkgconfig(cairo)
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(glib-2.0) >= 2.28.0-1
+pkgconfig(gobject-introspection-1.0) >= 0.9.3
+pkgconfig(pango) >= 1.20.0-1
+pkgconfig(xcomposite)
+pkgconfig(xcursor)
+pkgconfig(xdamage)
+pkgconfig(xfixes)
+pkgconfig(xi)
+pkgconfig(xinerama)
+pkgconfig(xrandr)
+pkgconfig(xrender)

@@ -1,0 +1,5 @@
+(crate(clap) >= 2.21.1 with crate(clap) < 3.0.0 with crate(clap/wrap_help))
+(crate(lazy_static) >= 1.0.0 with crate(lazy_static) < 2.0.0)
+(crate(regex) >= 0.2.1 with crate(regex) < 0.3.0)
+(crate(rustc-demangle) >= 0.1.4 with crate(rustc-demangle) < 0.2.0)
+rust-packaging

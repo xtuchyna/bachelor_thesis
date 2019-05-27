@@ -1,0 +1,8 @@
+ghc-Cabal-devel
+ghc-bencode-devel
+ghc-binary-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-filepath-devel
+ghc-rpm-macros
+ghc-syb-devel

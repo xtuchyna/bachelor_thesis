@@ -1,0 +1,9 @@
+autoconf
+automake
+kernel-headers
+libXrandr-devel
+libtool
+libudev-devel
+pkgconfig(libdrm)
+xorg-x11-server-devel
+xorg-x11-util-macros

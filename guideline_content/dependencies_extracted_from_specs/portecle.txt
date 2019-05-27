@@ -1,0 +1,6 @@
+ant
+bouncycastle >= 1.51
+bouncycastle-pkix >= 1.51
+desktop-file-utils
+java-devel >= 1.7.0
+jpackage-utils

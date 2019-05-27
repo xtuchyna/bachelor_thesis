@@ -1,0 +1,11 @@
+(php-composer(symfony/console) >= 2.8 with php-composer(symfony/console) < 5.0)
+(php-composer(symfony/finder) >= 2.8 with php-composer(symfony/finder) < 5.0)
+(php-composer(symfony/var-dumper) >= 2.8 with php-composer(symfony/var-dumper) < 5.0)
+php(language) >= 5.4.0
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-dom
+php-json
+php-pcre
+php-reflection
+php-spl

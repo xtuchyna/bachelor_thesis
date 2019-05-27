@@ -1,0 +1,5 @@
+alsa-lib-devel
+desktop-file-utils
+expat-devel
+gtk3-devel
+libxml2-devel

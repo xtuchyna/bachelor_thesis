@@ -1,0 +1,4 @@
+cmake
+python-pyside-devel
+python2-devel
+qt4-devel

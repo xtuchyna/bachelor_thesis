@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-attoparsec-devel
+ghc-bytestring-devel
+ghc-enumerator-devel
+ghc-rpm-macros
+ghc-text-devel

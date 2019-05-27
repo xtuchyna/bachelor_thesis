@@ -1,0 +1,11 @@
+python-dateutil
+python-requests
+python-requests-oauthlib
+python-setuptools
+python-sphinx
+python2-devel
+python3-dateutil
+python3-devel
+python3-requests
+python3-requests-oauthlib
+python3-setuptools

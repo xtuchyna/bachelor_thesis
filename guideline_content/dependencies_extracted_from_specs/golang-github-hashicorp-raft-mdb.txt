@@ -1,0 +1,5 @@
+golang
+golang(github.com/armon/gomdb)
+golang(github.com/hashicorp/go-msgpack/codec)
+golang(github.com/hashicorp/raft)
+golang(github.com/hashicorp/raft/bench)

@@ -1,0 +1,12 @@
+alsa-lib-devel
+dbus-devel
+desktop-file-utils
+glib2-devel
+libXfixes-devel
+libXinerama-devel
+libXrandr-devel
+libpciaccess-devel
+libtool
+spice-protocol >= 0.12.6
+systemd
+systemd-devel

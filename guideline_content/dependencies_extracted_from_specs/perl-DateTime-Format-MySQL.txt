@@ -1,0 +1,8 @@
+perl(DateTime)
+perl(DateTime::Format::Builder)
+perl(Module::Build)
+perl(Test::More)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+perl(Apache2::Cookie)
+perl(Apache::Session)
+perl(Class::Container)
+perl(Exception::Class)
+perl(Module::Build)
+perl(Params::Validate)
+perl(Test::Pod)
+perl-generators

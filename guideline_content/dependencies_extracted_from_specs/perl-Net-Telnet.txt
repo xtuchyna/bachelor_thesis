@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(FileHandle)
+perl(IO::Socket::INET)
+perl(Socket)
+perl(Symbol)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

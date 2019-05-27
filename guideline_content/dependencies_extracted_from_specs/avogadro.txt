@@ -1,0 +1,17 @@
+boost-devel
+cmake
+dbus-x11
+desktop-file-utils
+docbook-utils
+gcc-c++
+libappstream-glib
+numpy
+pkgconfig(QtGui)
+pkgconfig(QtNetwork)
+pkgconfig(QtOpenGL)
+pkgconfig(eigen3)
+pkgconfig(glew) >= 1.5.0
+pkgconfig(openbabel-2.0) >= 2.2.2
+python2-devel
+sip-devel
+xorg-x11-server-Xvfb

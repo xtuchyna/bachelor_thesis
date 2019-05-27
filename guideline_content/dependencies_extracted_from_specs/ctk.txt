@@ -1,0 +1,10 @@
+cmake
+dcmtk-devel
+doxygen
+gcc-c++
+gdcm-devel
+graphviz
+libjpeg-turbo-devel
+libxml2-devel
+openssl-devel
+qt-devel

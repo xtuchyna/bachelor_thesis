@@ -1,0 +1,12 @@
+cmake
+dbus-devel
+fcitx
+fcitx-devel
+fcitx-qt5-devel >= 1.1
+gettext
+glib2-devel
+intltool
+libpinyin-devel
+libpinyin-devel >= 1.9.91
+libpinyin-tools
+qt5-qtwebengine-devel

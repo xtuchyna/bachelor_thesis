@@ -1,0 +1,4 @@
+autoconf
+automake
+libXext-devel
+libXpm-devel

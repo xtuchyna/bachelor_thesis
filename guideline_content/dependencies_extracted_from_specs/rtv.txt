@@ -1,0 +1,14 @@
+python3-beautifulsoup4
+python3-coverage
+python3-coveralls
+python3-decorator
+python3-devel
+python3-kitchen
+python3-mock
+python3-pylint
+python3-pytest >= 3.1.0
+python3-requests >= 2.4.0
+python3-setuptools
+python3-six
+python3-vcrpy
+python3-yarl

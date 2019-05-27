@@ -1,0 +1,27 @@
+findutils
+groff-base
+make
+perl(Carp)
+perl(Config)
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Spec::Functions)
+perl(IO::Select)
+perl(Pod::Man) >= 2.18
+perl(Pod::Simple::Checker)
+perl(Pod::Simple::RTF) >= 3.16
+perl(Pod::Simple::XMLOutStream) >= 3.16
+perl(Pod::Text)
+perl(Pod::Text::Color)
+perl(Pod::Text::Termcap)
+perl(Test::More)
+perl(Tk)
+perl(Tk::Pod)
+perl(parent)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

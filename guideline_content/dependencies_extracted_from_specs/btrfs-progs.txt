@@ -1,0 +1,12 @@
+asciidoc
+autoconf
+automake
+e2fsprogs-devel
+libacl-devel
+libblkid-devel
+libuuid-devel
+libzstd-devel
+lzo-devel
+systemd
+xmlto
+zlib-devel

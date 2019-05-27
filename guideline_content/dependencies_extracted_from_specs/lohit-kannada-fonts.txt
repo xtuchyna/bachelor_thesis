@@ -1,0 +1,2 @@
+fontforge >= 20080429
+fontpackages-devel

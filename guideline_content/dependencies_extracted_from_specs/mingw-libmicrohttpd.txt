@@ -1,0 +1,10 @@
+mingw32-curl
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-gnutls
+mingw32-libgcrypt
+mingw64-curl
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-gnutls
+mingw64-libgcrypt

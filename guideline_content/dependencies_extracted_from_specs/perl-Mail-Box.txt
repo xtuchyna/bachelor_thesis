@@ -1,0 +1,49 @@
+findutils
+make
+perl(Carp)
+perl(Cwd)
+perl(Date::Parse)
+perl(Devel::GlobalDestruction) >= 0.09
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Compare)
+perl(File::Copy)
+perl(File::FcntlLock)
+perl(File::Find)
+perl(File::Remove) >= 0.20
+perl(File::Spec) >= 0.7
+perl(FileHandle)
+perl(IO::File)
+perl(IO::Handle)
+perl(IO::Scalar)
+perl(List::Util)
+perl(Mail::Box::Parser::Perl)
+perl(Mail::Message) >= 3.005
+perl(Mail::Message::Body)
+perl(Mail::Message::Body::File)
+perl(Mail::Message::Body::Lines)
+perl(Mail::Message::Body::Multipart)
+perl(Mail::Message::Body::String)
+perl(Mail::Message::Construct)
+perl(Mail::Message::Head)
+perl(Mail::Reporter)
+perl(Mail::Transport) >= 3.0
+perl(Object::Realize::Later) >= 0.19
+perl(POSIX)
+perl(Scalar::Util) >= 1.13
+perl(Sys::Hostname)
+perl(Test::More) >= 0.47
+perl(User::Identity::Collection)
+perl(User::Identity::Item)
+perl(base)
+perl(filetest)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

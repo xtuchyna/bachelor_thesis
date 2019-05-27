@@ -1,0 +1,17 @@
+polyclipping-devel
+python2-Cython
+python2-devel
+python2-pytest
+python2-pytest-runner
+python2-setuptools
+python2-setuptools_scm
+python2-setuptools_scm_git_archive
+python2-unittest2
+python3-Cython
+python3-devel
+python3-pytest
+python3-pytest-runner
+python3-setuptools
+python3-setuptools_scm
+python3-setuptools_scm_git_archive
+python3-unittest2

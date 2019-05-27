@@ -1,0 +1,4 @@
+gettext
+intltool
+perl-XML-Parser
+python3-devel

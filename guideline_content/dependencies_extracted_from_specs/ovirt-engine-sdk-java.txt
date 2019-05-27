@@ -1,0 +1,5 @@
+apache-commons-beanutils
+httpcomponents-client
+log4j12
+maven-local
+mvn(org.apache.maven.plugins:maven-source-plugin)

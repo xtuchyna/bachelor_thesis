@@ -1,0 +1,18 @@
+coreutils
+make
+perl(Carp)
+perl(Class::Inspector) >= 1.12
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(IO::Dir)
+perl(IO::File)
+perl(Test::More) >= 0.47
+perl(constant)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,9 @@
+desktop-file-utils
+gettext
+gtk2-devel
+gtkglext-devel
+guile-devel
+libGL-devel
+libGLU-devel
+libX11-devel
+texinfo

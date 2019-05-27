@@ -1,0 +1,3 @@
+cmake
+desktop-file-utils
+qt4-devel >= 4.2.0

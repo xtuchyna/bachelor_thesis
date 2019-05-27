@@ -1,0 +1,6 @@
+perl(Module::Build::Tiny) >= 0.07
+perl(Moose) >= 0.56
+perl(Test::Exception) >= 0.21
+perl(Test::Moose)
+perl(Test::More) >= 0.94
+perl-generators

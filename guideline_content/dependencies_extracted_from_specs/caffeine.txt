@@ -1,0 +1,7 @@
+maven-local
+mvn(com.google.code.findbugs:jsr305)
+mvn(com.google.guava:guava)
+mvn(com.squareup:javapoet)
+mvn(org.apache.commons:commons-lang3)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.codehaus.mojo:exec-maven-plugin)

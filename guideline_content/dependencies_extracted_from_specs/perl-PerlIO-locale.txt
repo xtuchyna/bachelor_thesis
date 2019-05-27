@@ -1,0 +1,14 @@
+perl(Config)
+perl(ExtUtils::MakeMaker)
+perl(I18N::Langinfo)
+perl(POSIX)
+perl(PerlIO::encoding)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

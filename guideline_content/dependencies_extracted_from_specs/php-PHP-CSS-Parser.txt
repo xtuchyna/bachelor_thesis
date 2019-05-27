@@ -1,0 +1,2 @@
+/usr/bin/phpab
+/usr/bin/phpunit

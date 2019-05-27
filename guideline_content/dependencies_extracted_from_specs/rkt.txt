@@ -1,0 +1,20 @@
+autoconf
+automake
+bc
+git
+glibc-static
+gnupg
+golang >= 1.6
+gperf
+intltool
+libacl-devel
+libcap-devel
+libgcrypt-devel
+libmount-devel
+libtool
+libxkbcommon-devel
+perl-Config-Tiny
+squashfs-tools
+systemd >= 222
+systemd-devel
+trousers-devel

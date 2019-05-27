@@ -1,0 +1,10 @@
+GraphicsMagick-c++-devel
+djvulibre
+djvulibre-devel
+exiv2-devel
+fontconfig-devel
+libjpeg-devel
+libuuid-devel
+pkgconfig
+poppler-devel
+pstreams-devel

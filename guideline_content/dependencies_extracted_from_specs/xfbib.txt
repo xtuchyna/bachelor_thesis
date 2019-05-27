@@ -1,0 +1,7 @@
+desktop-file-utils
+gettext
+gtk2-devel >= 2.10
+libtool
+libxfce4ui-devel >= 4.4.0
+libxfce4util-devel >= 4.4.0
+xfce4-dev-tools

@@ -1,0 +1,7 @@
+boost-devel
+boost-python3-devel
+cmake
+gcc-c++
+help2man
+python2-devel
+python3-devel

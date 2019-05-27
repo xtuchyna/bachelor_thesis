@@ -1,0 +1,2 @@
+erlang-rebar
+erlang-riak_pb

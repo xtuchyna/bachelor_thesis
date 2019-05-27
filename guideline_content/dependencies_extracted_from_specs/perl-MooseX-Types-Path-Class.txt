@@ -1,0 +1,10 @@
+perl(Class::MOP)
+perl(Module::Build::Tiny)
+perl(Moose) >= 0.39
+perl(MooseX::Getopt) >= 0.05
+perl(MooseX::Types) >= 0.04
+perl(Path::Class) >= 0.16
+perl(Pod::Coverage)
+perl(Test::More) >= 0.88
+perl(Test::Needs)
+perl-generators

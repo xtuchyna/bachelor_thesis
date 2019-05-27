@@ -1,0 +1,6 @@
+cmake
+elfutils-libelf-devel
+libffi-devel
+perl
+perl-Data-Dumper
+perl-Encode

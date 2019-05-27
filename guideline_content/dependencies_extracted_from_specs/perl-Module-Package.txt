@@ -1,0 +1,12 @@
+perl(Cwd)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(File::Path)
+perl(IO::All) >= 0.41
+perl(Module::Install) >= 1.01
+perl(Module::Install::AuthorRequires) >= 0.02
+perl(Module::Install::Base)
+perl(Module::Install::ManifestSkip) >= 0.19
+perl(Moo) >= 0.009008
+perl(Test::More)
+perl-generators

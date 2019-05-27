@@ -1,0 +1,5 @@
+maven-local
+mvn(com.jcraft:jzlib)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.sonatype.oss:oss-parent:pom:)
+zip

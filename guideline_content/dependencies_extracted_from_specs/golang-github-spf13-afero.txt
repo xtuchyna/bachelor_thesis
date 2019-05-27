@@ -1,0 +1,4 @@
+compiler(go-compiler)
+golang(github.com/pkg/sftp)
+golang(golang.org/x/text/transform)
+golang(golang.org/x/text/unicode/norm)

@@ -1,0 +1,5 @@
+gcc
+hostname
+libX11-devel
+libXext-devel
+make

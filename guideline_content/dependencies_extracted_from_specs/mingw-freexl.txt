@@ -1,0 +1,8 @@
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-libcharset
+mingw32-win-iconv
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-libcharset
+mingw64-win-iconv

@@ -1,0 +1,7 @@
+php(language) >= 5.5
+php-composer(fedora/autoloader)
+php-composer(php-mock/php-mock) < 2
+php-composer(php-mock/php-mock) >= 1
+php-composer(phpunit/php-text-template) < 2
+php-composer(phpunit/php-text-template) >= 1
+php-composer(phpunit/phpunit) > 4

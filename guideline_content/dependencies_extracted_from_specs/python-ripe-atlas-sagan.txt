@@ -1,0 +1,14 @@
+pyOpenSSL
+python-IPy
+python-IPy-python3
+python-dateutil
+python2-devel
+python2-nose
+python2-pytz
+python2-ujson
+python3-dateutil
+python3-devel
+python3-nose
+python3-pyOpenSSL
+python3-pytz
+python3-ujson

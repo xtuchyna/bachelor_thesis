@@ -1,0 +1,8 @@
+cppunit-devel
+gcc-c++
+libtool
+openssl-devel
+perl(Getopt::Long)
+perl(POSIX)
+perl-interpreter
+pkgconfig

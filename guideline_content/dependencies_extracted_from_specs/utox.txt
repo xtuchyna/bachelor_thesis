@@ -1,0 +1,17 @@
+cmake
+desktop-file-utils
+gcc-c++
+libappstream-glib
+pkgconfig(check)
+pkgconfig(dbus-1)
+pkgconfig(filteraudio)
+pkgconfig(freetype2)
+pkgconfig(gtk+-2.0)
+pkgconfig(libsodium)
+pkgconfig(libtoxcore)
+pkgconfig(libv4l2)
+pkgconfig(openal)
+pkgconfig(opus)
+pkgconfig(vpx)
+pkgconfig(xext)
+pkgconfig(xrender)

@@ -1,0 +1,4 @@
+cmake
+gcc
+pkgconfig(portaudio-2.0)
+pkgconfig(sndfile)

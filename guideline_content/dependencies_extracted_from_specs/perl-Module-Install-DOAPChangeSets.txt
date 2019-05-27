@@ -1,0 +1,20 @@
+coreutils
+findutils
+make
+perl(:VERSION) >= 5.8.0
+perl(File::Slurp)
+perl(LWP::Simple)
+perl(List::MoreUtils)
+perl(Module::Install::Base)
+perl(Perl::Version)
+perl(RDF::Query) >= 2.906
+perl(RDF::Trine) >= 0.112
+perl(Test::More) >= 0.61
+perl(Text::Wrap)
+perl(URI::file) >= 4.0
+perl(inc::Module::Package)
+perl(parent)
+perl(strict)
+perl-generators
+perl-interpreter
+sed

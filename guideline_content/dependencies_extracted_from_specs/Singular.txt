@@ -1,0 +1,24 @@
+bison
+boost-devel
+cddlib-devel
+desktop-file-utils
+doxygen
+emacs
+flex
+flint-devel
+gcc-c++
+gmp-devel
+java-devel
+javapackages-tools
+libtool
+libxml2-devel
+mathicgb-devel
+ncurses-devel
+ntl-devel >= 8.0
+polymake
+python2-devel
+readline-devel
+sharutils
+tex(latex)
+texinfo-tex
+zlib-devel

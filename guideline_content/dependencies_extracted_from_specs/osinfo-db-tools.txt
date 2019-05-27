@@ -1,0 +1,6 @@
+/usr/bin/pod2man
+glib2-devel
+intltool
+libarchive-devel
+libxml2-devel >= 2.6.0
+libxslt-devel >= 1.0.0

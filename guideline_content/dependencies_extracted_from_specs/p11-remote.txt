@@ -1,0 +1,3 @@
+pkgconfig(libcrypto)
+pkgconfig(p11-kit-1)
+pkgconfig(systemd)

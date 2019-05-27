@@ -1,0 +1,19 @@
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(File::Find)
+perl(File::Spec)
+perl(File::Temp)
+perl(FileHandle)
+perl(Sys::Hostname)
+perl(Test::More) >= 0.88
+perl(Time::Local)
+perl(base)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

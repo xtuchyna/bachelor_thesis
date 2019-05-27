@@ -1,0 +1,11 @@
+alsa-lib-devel
+cmake
+dbus-devel
+doxygen
+jack-audio-connection-kit-devel
+ladspa-devel
+libsndfile-devel
+ncurses-devel
+pkgconfig
+pulseaudio-libs-devel
+readline-devel

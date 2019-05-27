@@ -1,0 +1,10 @@
+ghc-Cabal-devel
+ghc-criterion-devel
+ghc-optparse-applicative-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-silently-devel
+ghc-text-devel
+ghc-turtle-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

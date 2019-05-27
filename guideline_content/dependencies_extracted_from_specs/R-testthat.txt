@@ -1,0 +1,8 @@
+R-R6
+R-crayon
+R-devel >= 3.4.0
+R-digest-devel
+R-magrittr
+R-methods
+R-praise
+tetex-latex

@@ -1,0 +1,13 @@
+autoconf
+automake
+desktop-file-utils
+elfutils-libelf-devel
+gdb
+libXaw-devel
+libtool
+motif-devel
+ncurses-devel
+readline-devel
+texinfo
+xorg-x11-utils
+xterm

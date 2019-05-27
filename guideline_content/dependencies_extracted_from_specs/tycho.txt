@@ -1,0 +1,28 @@
+apache-commons-exec
+bcel
+decentxml
+easymock
+ecj >= 1:4.5.2-2
+eclipse-platform >= 1:4.7.0
+jetty-http
+jetty-security
+jetty-server
+jetty-servlet
+jetty-util
+maven-clean-plugin
+maven-dependency-plugin
+maven-install-plugin
+maven-local
+maven-plugin-bundle
+maven-plugin-plugin
+maven-plugin-testing-harness
+maven-release-plugin
+maven-shared-utils
+maven-source-plugin
+maven-verifier
+mockito
+objectweb-asm
+plexus-containers-component-metadata
+tycho
+xmvn-minimal >= 3
+xmvn-parent-pom

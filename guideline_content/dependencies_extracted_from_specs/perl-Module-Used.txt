@@ -1,0 +1,16 @@
+perl(Config)
+perl(Const::Fast)
+perl(English)
+perl(Exporter) >= 5.57
+perl(Module::Build)
+perl(Module::Path) >= 0.01
+perl(PPI::Document) >= 1.205
+perl(Test::Deep) >= 0.098
+perl(Test::More) >= 0.72
+perl(strict)
+perl(utf8)
+perl(version) >= 0.74
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,7 @@
+perl(Carp)
+perl(Convert::NLS_DATE_FORMAT)
+perl(DateTime)
+perl(DateTime::Format::Builder)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl-generators

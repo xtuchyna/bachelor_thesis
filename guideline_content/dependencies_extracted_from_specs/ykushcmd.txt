@@ -1,0 +1,3 @@
+hidapi-devel
+libusbx-devel
+systemd-devel

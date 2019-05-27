@@ -1,0 +1,10 @@
+cmake(KF5Archive)
+cmake(KF5DocTools)
+cmake(KF5KDELibs4Support)
+cmake(KF5WidgetsAddons)
+cmake(Qt5Core)
+cmake(Qt5Widgets)
+desktop-file-utils
+extra-cmake-modules
+kf5-rpm-macros
+libappstream-glib

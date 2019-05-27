@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test)
+perl(XSLoader)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

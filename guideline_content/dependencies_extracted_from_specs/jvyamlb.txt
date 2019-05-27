@@ -1,0 +1,8 @@
+ant
+ant-junit
+bytelist
+java-devel
+jcodings
+joda-time
+jpackage-utils
+junit

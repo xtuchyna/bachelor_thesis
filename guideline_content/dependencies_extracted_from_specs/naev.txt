@@ -1,0 +1,16 @@
+SDL2-devel
+SDL2_image-devel
+SDL2_mixer-devel
+compat-lua-devel
+desktop-file-utils
+freetype-devel
+libappstream-glib
+libpng-devel
+libvorbis-devel
+libxml2-devel
+libzip-devel
+mesa-libGL-devel
+mesa-libGLU-devel
+openal-soft-devel
+readline-devel
+suitesparse-devel

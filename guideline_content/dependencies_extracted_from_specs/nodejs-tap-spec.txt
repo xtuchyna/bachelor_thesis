@@ -1,0 +1,11 @@
+nodejs-packaging
+npm(chalk)
+npm(duplexer)
+npm(figures)
+npm(lodash)
+npm(pretty-ms)
+npm(repeat-string)
+npm(tap)
+npm(tap-out)
+npm(tapes)
+npm(through2)

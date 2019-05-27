@@ -1,0 +1,9 @@
+bzip2-devel
+java-devel
+lzo-devel
+perl(ExtUtils::MakeMaker)
+perl-devel
+perl-generators
+ruby
+ruby-devel
+zlib-devel

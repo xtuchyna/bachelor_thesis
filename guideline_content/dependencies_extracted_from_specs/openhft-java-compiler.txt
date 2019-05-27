@@ -1,0 +1,8 @@
+/usr/bin/asciidoc
+maven-local
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.easymock:easymock)
+mvn(org.jetbrains:annotations)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-simple)

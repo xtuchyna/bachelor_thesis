@@ -1,0 +1,5 @@
+cmake(KF5DocTools)
+extra-cmake-modules
+perl-generators
+python2-devel
+sed

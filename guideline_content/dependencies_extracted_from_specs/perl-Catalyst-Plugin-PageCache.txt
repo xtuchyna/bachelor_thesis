@@ -1,0 +1,16 @@
+make
+perl(Cache::Cache) >= 1.04
+perl(Cache::FileCache)
+perl(Catalyst::Plugin::Cache) >= 0.10
+perl(Catalyst::Plugin::I18N)
+perl(Catalyst::Runtime)
+perl(DateTime)
+perl(Digest::SHA1)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Path)
+perl(MRO::Compat) >= 0.10
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators
+perl-interpreter

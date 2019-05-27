@@ -1,0 +1,11 @@
+cmake
+desktop-file-utils
+doxygen
+freeglut-devel
+graphviz
+libICE-devel
+libX11-devel
+libXext-devel
+mesa-libGL-devel
+mesa-libGLU-devel
+qt4-devel

@@ -1,0 +1,6 @@
+autoconf
+automake
+libtool
+mingw32-filesystem
+mingw32-gcc
+mingw32-gcc-c++

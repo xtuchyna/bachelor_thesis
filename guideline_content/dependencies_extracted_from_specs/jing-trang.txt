@@ -1,0 +1,15 @@
+ant >= 1.8.2
+bsh
+isorelax
+java-devel-openjdk >= 1:1.6.0
+java-javadoc
+javacc
+jpackage-utils
+qdox
+relaxngDatatype
+relaxngDatatype-javadoc
+saxon >= 9.3
+testng
+xalan-j2
+xerces-j2
+xml-commons-resolver

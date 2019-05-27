@@ -1,0 +1,32 @@
+desktop-file-utils
+gettext
+itstool
+libappstream-glib >= 0.7.3
+pkgconfig(atk)
+pkgconfig(gcr-3)
+pkgconfig(gcr-ui-3)
+pkgconfig(gdk-3.0)
+pkgconfig(gdk-x11-3.0)
+pkgconfig(gee-0.8) >= 0.8.5
+pkgconfig(gexiv2) >= 0.10.4
+pkgconfig(gio-unix-2.0) >= 2.20
+pkgconfig(glib-2.0) >= 2.40.0
+pkgconfig(gmodule-2.0) >= 2.24.0
+pkgconfig(gnome-doc-utils)
+pkgconfig(gstreamer-1.0) >= 1.0.0
+pkgconfig(gstreamer-base-1.0) >= 1.0.0
+pkgconfig(gstreamer-pbutils-1.0) >= 1.0.0
+pkgconfig(gstreamer-plugins-base-1.0) >= 1.0.0
+pkgconfig(gtk+-3.0) >= 3.14.0
+pkgconfig(gudev-1.0) >= 145
+pkgconfig(json-glib-1.0)
+pkgconfig(libexif) >= 0.6.16
+pkgconfig(libgdata)
+pkgconfig(libgphoto2) >= 2.5.0
+pkgconfig(libraw) >= 0.13.2
+pkgconfig(libsoup-2.4) >= 2.42.0
+pkgconfig(libxml-2.0) >= 2.6.32
+pkgconfig(rest-0.7) >= 0.7
+pkgconfig(sqlite3) >= 3.5.9
+pkgconfig(webkit2gtk-4.0) >= 2.6.3
+vala

@@ -1,0 +1,23 @@
+desktop-file-utils
+gettext >= 0.19.8
+itstool
+libjpeg-turbo-devel
+pkgconfig(babl)
+pkgconfig(cairo) >= 1.14.0
+pkgconfig(cairo-gobject) >= 1.14.0
+pkgconfig(gdk-pixbuf-2.0) >= 2.32.0
+pkgconfig(gegl-0.3) >= 0.3.28
+pkgconfig(geocode-glib-1.0)
+pkgconfig(gexiv2)
+pkgconfig(gio-2.0) >= 2.44.0
+pkgconfig(glib-2.0) >= 2.44.0
+pkgconfig(goa-1.0) >= 3.8.0
+pkgconfig(gobject-2.0) >= 2.44.0
+pkgconfig(grilo-0.3)
+pkgconfig(gsettings-desktop-schemas)
+pkgconfig(gtk+-3.0) >= 3.22.16
+pkgconfig(libdazzle-1.0)
+pkgconfig(libgdata) >= 0.15.2
+pkgconfig(libgfbgraph-0.2)
+pkgconfig(tracker-control-2.0) >= 2.0.3
+pkgconfig(tracker-sparql-2.0) >= 2.0.3

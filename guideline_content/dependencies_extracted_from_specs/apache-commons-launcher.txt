@@ -1,0 +1,4 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.ant:ant)
+mvn(org.apache.commons:commons-parent:pom:)

@@ -1,0 +1,14 @@
+python-devel
+python-nose
+python-paste
+python-repoze-lru
+python-setuptools
+python-six
+python-webtest
+python3-devel
+python3-nose
+python3-paste
+python3-repoze-lru
+python3-setuptools
+python3-six
+python3-webtest

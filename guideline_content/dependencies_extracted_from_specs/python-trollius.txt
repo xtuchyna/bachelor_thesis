@@ -1,0 +1,7 @@
+python-futures
+python-mock
+python-setuptools
+python-unittest2
+python2-devel
+python3-devel
+python3-setuptools

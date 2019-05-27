@@ -1,0 +1,5 @@
+/usr/bin/phpunit
+php(language) >= 7.1
+php-composer(fedora/autoloader)
+php-pcre
+php-spl

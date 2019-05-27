@@ -1,0 +1,6 @@
+ant
+dejavu-sans-fonts
+java-devel >= 1:1.6.0
+javapackages-local
+xerces-j2
+xml-commons-apis

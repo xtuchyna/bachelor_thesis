@@ -1,0 +1,16 @@
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec) >= 0.84
+perl(FileHandle)
+perl(HTML::TokeParser)
+perl(Lingua::Stem::En)
+perl(Memoize) >= 1.01
+perl(Storable) >= 2.10
+perl(Test::More)
+perl(strict)
+perl(threads)
+perl(threads::shared)
+perl(warnings)
+perl-generators
+perl-interpreter

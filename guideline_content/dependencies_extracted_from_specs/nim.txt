@@ -1,0 +1,15 @@
+gc-devel
+gcc
+nim-srpm-macros
+nodejs-devel
+openssl-devel
+pkgconfig(bash-completion)
+tex(courier.sty)
+tex(fontenc.sty)
+tex(geometry.sty)
+tex(graphicx.sty)
+tex(hyperref.sty)
+tex(inputenc.sty)
+tex(latex)
+tex(lmodern.sty)
+tex(tabularx.sty)

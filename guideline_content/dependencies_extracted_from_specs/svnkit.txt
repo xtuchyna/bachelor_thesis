@@ -1,0 +1,10 @@
+ant
+java-devel
+jna >= 3.5
+jna-contrib >= 3.5
+jpackage-utils >= 1.6
+sequence-library
+sqljet >= 1.1.10
+subversion-javahl >= 1.5
+tomcat-servlet-3.1-api >= 7.0.0
+trilead-ssh2 >= 217

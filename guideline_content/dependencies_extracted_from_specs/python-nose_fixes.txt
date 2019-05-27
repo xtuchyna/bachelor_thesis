@@ -1,0 +1,10 @@
+python-nose
+python-pkginfo
+python-setuptools
+python-sphinx
+python2-devel
+python3-devel
+python3-nose
+python3-pkginfo
+python3-setuptools
+python3-sphinx

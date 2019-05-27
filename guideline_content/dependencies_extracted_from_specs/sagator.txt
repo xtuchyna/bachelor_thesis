@@ -1,0 +1,6 @@
+clamav-devel >= 0.92
+ed
+gettext
+logwatch
+python-devel >= 2.2.2
+systemd

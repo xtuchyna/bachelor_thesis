@@ -1,0 +1,2 @@
+nodejs-packaging
+npm(number-is-nan)

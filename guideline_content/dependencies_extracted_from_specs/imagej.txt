@@ -1,0 +1,4 @@
+ant
+desktop-file-utils
+java-devel >= 1.6.0
+jpackage-utils

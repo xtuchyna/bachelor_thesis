@@ -1,0 +1,8 @@
+/usr/bin/makeinfo
+gettext-devel
+krb5-devel
+libbsd-devel
+libedit-devel
+libssh-devel
+ncurses-devel
+readline-devel >= 4.2

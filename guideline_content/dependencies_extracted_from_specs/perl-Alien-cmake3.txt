@@ -1,0 +1,19 @@
+cmake >= 3.0.0
+make
+perl(:VERSION) >= 5.8.1
+perl(Alien::Base) >= 0.92
+perl(Alien::Build::MM) >= 0.32
+perl(Capture::Tiny)
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(File::Which)
+perl(Path::Tiny)
+perl(Test2::V0) >= 0.000060
+perl(Test::Alien) >= 0.92
+perl(alienfile)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

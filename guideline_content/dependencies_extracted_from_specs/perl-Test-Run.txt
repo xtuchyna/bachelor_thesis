@@ -1,0 +1,37 @@
+coreutils
+perl(Benchmark)
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter)
+perl(Fatal)
+perl(File::Path)
+perl(File::Spec) >= 0.6
+perl(IPC::System::Simple) >= 1.21
+perl(List::MoreUtils)
+perl(List::Util)
+perl(MRO::Compat)
+perl(Module::Build) >= 0.36
+perl(Moose)
+perl(MooseX::StrictConstructor)
+perl(POSIX)
+perl(Scalar::Util)
+perl(TAP::Parser) >= 3.09
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::TrailingSpace)
+perl(Test::Trap)
+perl(Text::Sprintf::Named) >= 0.02
+perl(Time::HiRes)
+perl(UNIVERSAL::require)
+perl(if)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

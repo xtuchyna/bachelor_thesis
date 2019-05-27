@@ -1,0 +1,15 @@
+python-babel >= 1.0
+python-celery >= 3.1.0
+python-futures
+python-sphinx
+python-sphinxcontrib-fulltoc
+python-sphinxcontrib-httpdomain
+python-tornado >= 4.2.0
+python3-babel >= 1.0
+python3-celery >= 3.1.0
+python3-devel
+python3-mock
+python3-pytz
+python3-tornado >= 4.2.0
+pytz
+systemd

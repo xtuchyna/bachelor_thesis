@@ -1,0 +1,7 @@
+/usr/bin/perl
+ant
+java-devel
+javapackages-local
+jpackage-utils
+junit
+xerces-j2

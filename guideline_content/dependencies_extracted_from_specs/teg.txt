@@ -1,0 +1,8 @@
+desktop-file-utils
+gettext
+glib2-devel
+libgnomeui-devel
+libxml2-devel
+perl(XML::Parser)
+pkgconfig
+tidy

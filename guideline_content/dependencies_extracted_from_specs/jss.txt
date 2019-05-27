@@ -1,0 +1,4 @@
+java-devel
+nspr-devel >= 4.13.1
+nss-devel >= 3.28.4-6
+perl-interpreter

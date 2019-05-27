@@ -1,0 +1,3 @@
+binutils-devel
+elfutils-libelf-devel
+gcc

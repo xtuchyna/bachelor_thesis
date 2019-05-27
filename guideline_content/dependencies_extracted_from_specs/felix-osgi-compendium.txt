@@ -1,0 +1,6 @@
+maven-local
+mvn(javax.servlet:javax.servlet-api)
+mvn(org.apache.felix:felix-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.felix:org.osgi.core)
+mvn(org.apache.felix:org.osgi.foundation)

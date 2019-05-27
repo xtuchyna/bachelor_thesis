@@ -1,0 +1,16 @@
+gettext-devel
+libtool
+pkgconfig(fontenc)
+pkgconfig(libpng) >= 1.2
+pkgconfig(x11)
+pkgconfig(xaw7)
+pkgconfig(xbitmaps)
+pkgconfig(xcursor)
+pkgconfig(xext)
+pkgconfig(xft)
+pkgconfig(xkbfile)
+pkgconfig(xmu)
+pkgconfig(xorg-macros) >= 1.8
+pkgconfig(xrender) >= 0.4
+pkgconfig(xt) >= 1.1
+pkgconfig(xxf86vm)

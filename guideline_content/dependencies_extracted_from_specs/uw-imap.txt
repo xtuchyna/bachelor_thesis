@@ -1,0 +1,4 @@
+gcc
+krb5-devel
+openssl-devel
+pam-devel

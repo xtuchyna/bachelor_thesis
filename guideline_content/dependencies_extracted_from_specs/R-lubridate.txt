@@ -1,0 +1,8 @@
+R-Rcpp-devel
+R-devel
+R-knitr
+R-methods
+R-stringr
+R-testthat
+cctz-devel
+tex(latex)

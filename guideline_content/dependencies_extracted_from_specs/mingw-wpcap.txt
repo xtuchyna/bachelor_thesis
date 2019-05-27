@@ -1,0 +1,9 @@
+bison
+dos2unix
+doxygen
+flex
+mingw32-filesystem
+mingw32-gcc
+mingw64-filesystem
+mingw64-gcc
+unzip

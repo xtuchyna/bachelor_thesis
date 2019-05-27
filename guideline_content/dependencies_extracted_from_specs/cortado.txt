@@ -1,0 +1,3 @@
+java-devel
+jorbis
+jpackage-utils

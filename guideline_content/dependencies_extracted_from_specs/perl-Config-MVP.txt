@@ -1,0 +1,23 @@
+perl(Class::Load) >= 0.17
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(Module::Pluggable::Object)
+perl(Moose) >= 0.91
+perl(Moose::Role)
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::OneArgNew)
+perl(Params::Util)
+perl(Role::HasMessage)
+perl(Role::Identifiable::HasIdent)
+perl(StackTrace::Auto)
+perl(Test::Fatal)
+perl(Test::More) >= 0.96
+perl(Test::Pod)
+perl(Throwable)
+perl(Tie::IxHash)
+perl(Try::Tiny)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators

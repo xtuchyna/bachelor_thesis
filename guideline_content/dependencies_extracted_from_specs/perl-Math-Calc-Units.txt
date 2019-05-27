@@ -1,0 +1,18 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(Getopt::Long)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Time::Local)
+perl(base)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

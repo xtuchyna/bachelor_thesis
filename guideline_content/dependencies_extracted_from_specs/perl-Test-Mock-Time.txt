@@ -1,0 +1,23 @@
+perl(AnyEvent)
+perl(Carp)
+perl(EV)
+perl(Export::Attrs)
+perl(List::Util)
+perl(Module::Build::Tiny) >= 0.034
+perl(Mojo::IOLoop)
+perl(Mojolicious) >= 6
+perl(Scalar::Util)
+perl(Test::Distribution)
+perl(Test::Exception)
+perl(Test::MockModule)
+perl(Test::More)
+perl(Test::Perl::Critic)
+perl(Test::Pod) >= 1.41
+perl(Time::HiRes)
+perl(bignum)
+perl(constant)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

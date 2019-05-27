@@ -1,0 +1,25 @@
+coreutils
+findutils
+make
+perl(Algorithm::C3) >= 0.07
+perl(Carp)
+perl(Config)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Glob)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(MRO::Compat)
+perl(NEXT)
+perl(Scalar::Util) >= 1.10
+perl(Sub::Name)
+perl(Test::Exception) >= 0.15
+perl(Test::More) >= 0.88
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 4:5.9.5

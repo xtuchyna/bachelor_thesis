@@ -1,0 +1,8 @@
+desktop-file-utils
+libxslt-python
+pygtk2-devel
+python
+python-babel
+python-setuptools
+python2-devel
+systemd-units

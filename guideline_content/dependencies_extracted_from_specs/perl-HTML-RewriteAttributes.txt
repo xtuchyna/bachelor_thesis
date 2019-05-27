@@ -1,0 +1,13 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.36
+perl(HTML::Entities)
+perl(HTML::Parser)
+perl(HTML::Tagset)
+perl(Module::Install::ReadmeFromPod)
+perl(Test::More)
+perl(URI)
+perl(base)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators

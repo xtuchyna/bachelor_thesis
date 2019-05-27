@@ -1,0 +1,5 @@
+SDL_image-devel
+SDL_mixer-devel
+SDL_ttf-devel
+ocaml
+ocaml-lablgl-devel

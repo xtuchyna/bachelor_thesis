@@ -1,0 +1,12 @@
+cppunit-devel
+gcc-c++
+glite-lbjp-common-log-devel
+glite-lbjp-common-trio-devel
+libtool
+log4c-devel
+mariadb-connector-c-devel
+perl(Getopt::Long)
+perl(POSIX)
+perl-interpreter
+pkgconfig
+postgresql-devel

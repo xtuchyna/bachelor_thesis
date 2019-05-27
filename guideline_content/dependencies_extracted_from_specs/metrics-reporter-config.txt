@@ -1,0 +1,13 @@
+maven-local
+mvn(com.google.guava:guava)
+mvn(io.dropwizard.metrics:metrics-core)
+mvn(io.dropwizard.metrics:metrics-ganglia)
+mvn(io.dropwizard.metrics:metrics-graphite)
+mvn(io.dropwizard.metrics:metrics-jvm)
+mvn(junit:junit)
+mvn(org.apache.commons:commons-lang3)
+mvn(org.hibernate:hibernate-validator)
+mvn(org.mockito:mockito-all)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-simple)
+mvn(org.yaml:snakeyaml)

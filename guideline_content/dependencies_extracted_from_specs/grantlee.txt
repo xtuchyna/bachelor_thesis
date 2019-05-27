@@ -1,0 +1,7 @@
+cmake >= 2.8.11
+doxygen
+graphviz
+kde-filesystem
+pkgconfig(QtGui)
+pkgconfig(QtScript)
+xorg-x11-server-Xvfb

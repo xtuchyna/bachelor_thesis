@@ -1,0 +1,9 @@
+autoconf
+automake
+desktop-file-utils
+gtk2-devel
+libappstream-glib
+libtool
+libtpcimgio-devel
+libtpcmisc-devel
+nifticlib-devel

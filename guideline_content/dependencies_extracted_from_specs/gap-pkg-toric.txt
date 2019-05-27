@@ -1,0 +1,2 @@
+gap-devel
+gap-pkg-autodoc

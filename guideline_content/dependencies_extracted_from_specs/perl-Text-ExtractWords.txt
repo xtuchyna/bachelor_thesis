@@ -1,0 +1,6 @@
+perl(AutoLoader)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl-devel
+perl-generators

@@ -1,0 +1,11 @@
+GConf2-devel
+ORBit2-devel
+enchant-devel
+gail-devel
+gettext
+gnome-common
+gnome-icon-theme-devel >= 2.22.0
+gtk2-devel >= 2.20.0
+intltool >= 0.36.3
+iso-codes-devel
+libtool

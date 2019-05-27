@@ -1,0 +1,19 @@
+autoconf >= 2.57
+automake
+device-mapper-devel
+gcc
+krb5-devel
+krb5-libs >= 1.4
+libblkid-devel
+libcap-devel
+libevent-devel
+libmount-devel
+libtirpc-devel
+libtool
+openldap-devel
+openldap-devel >= 2.2
+pkgconfig
+python3-devel
+rpcgen
+sqlite-devel
+systemd

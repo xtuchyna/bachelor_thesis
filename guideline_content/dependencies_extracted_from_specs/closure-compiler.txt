@@ -1,0 +1,14 @@
+docbook-style-xsl
+libxslt
+maven-local
+mvn(args4j:args4j)
+mvn(com.google.code.findbugs:jsr305)
+mvn(com.google.code.gson:gson)
+mvn(com.google.guava:guava:20.0)
+mvn(com.google.protobuf:protobuf-java)
+mvn(org.apache.ant:ant)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.apache.maven.plugins:maven-shade-plugin)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.sonatype.oss:oss-parent:pom:)

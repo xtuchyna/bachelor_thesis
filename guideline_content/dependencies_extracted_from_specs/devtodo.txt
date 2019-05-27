@@ -1,0 +1,4 @@
+autoconf
+automake
+compat-readline5-devel
+libtool

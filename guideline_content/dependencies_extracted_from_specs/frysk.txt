@@ -1,0 +1,13 @@
+antlr >= 2.7.4
+audit-libs-devel
+autoconf
+automake
+elfutils-devel >= 0.151
+java-devel
+jline1
+junit >= 3.8.1
+libtool
+python
+sharutils
+transfig >= 3.2.0
+xmlto

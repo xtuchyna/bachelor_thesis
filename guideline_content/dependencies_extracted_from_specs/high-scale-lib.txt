@@ -1,0 +1,3 @@
+maven-local
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.sonatype.oss:oss-parent:pom:)

@@ -1,0 +1,10 @@
+maven-local
+mvn(org.acegisecurity:acegi-security)
+mvn(org.apache.sshd:sshd-core)
+mvn(org.jenkins-ci.main:jenkins-core)
+mvn(org.jenkins-ci.modules:instance-identity)
+mvn(org.jenkins-ci.modules:ssh-cli-auth)
+mvn(org.jenkins-ci.plugins:plugin:pom:)
+mvn(org.jenkins-ci.tools:maven-hpi-plugin)
+mvn(org.kohsuke:access-modifier-checker)
+mvn(org.slf4j:slf4j-api)

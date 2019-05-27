@@ -1,0 +1,12 @@
+boost-devel >= 1.35
+cmpfit-devel
+compat-wxGTK3-gtk2-devel
+desktop-file-utils
+libtool
+lua-devel >= 5.1
+ncurses-devel
+python-sphinx
+readline-devel >= 4.2
+swig
+xylib-devel
+zlib-devel

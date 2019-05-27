@@ -1,0 +1,14 @@
+glibc-langpack-fr
+php(language) >= 5.6
+php-cli
+php-composer(theseer/autoload)
+php-date
+php-dom
+php-libxml
+php-pcntl
+php-pcre
+php-posix
+php-reflection
+php-simplexml
+php-spl
+php-tokenizer

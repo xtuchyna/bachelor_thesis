@@ -1,0 +1,14 @@
+maven-local
+mvn(cglib:cglib)
+mvn(com.fasterxml.jackson.core:jackson-annotations) >= 2.9.4
+mvn(com.fasterxml.jackson.core:jackson-core) >= 2.9.4
+mvn(com.fasterxml.jackson.core:jackson-databind) >= 2.9.4
+mvn(com.fasterxml.jackson:jackson-base:pom:) >= 2.9.4
+mvn(com.google.code.maven-replacer-plugin:replacer)
+mvn(com.google.inject:guice)
+mvn(com.thoughtworks.paranamer:paranamer)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.mockito:mockito-all)
+mvn(org.osgi:osgi.core)
+mvn(org.ow2.asm:asm)

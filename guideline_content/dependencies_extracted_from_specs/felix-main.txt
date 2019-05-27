@@ -1,0 +1,17 @@
+felix-bundlerepository
+felix-framework >= 4.2.0
+felix-gogo-command
+felix-gogo-runtime
+felix-gogo-shell
+felix-osgi-compendium
+felix-osgi-core
+felix-parent
+java-devel >= 1:1.6.0
+jpackage-utils
+maven-antrun-plugin
+maven-dependency-plugin
+maven-local
+maven-plugin-bundle
+maven-source-plugin
+maven-surefire-provider-junit
+mockito

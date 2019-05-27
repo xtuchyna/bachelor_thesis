@@ -1,0 +1,6 @@
+dos2unix
+emacs
+emacs-el
+findutils
+pkgconfig
+python2-devel

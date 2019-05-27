@@ -1,0 +1,10 @@
+ant
+java-devel
+python-rpm-macros
+python2-devel
+python2-mock
+python2-setuptools
+python3-devel
+python3-setuptools
+python3-sphinx
+python3-sphinx_rtd_theme

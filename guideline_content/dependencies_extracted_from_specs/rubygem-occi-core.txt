@@ -1,0 +1,8 @@
+ruby(release) >= 1.9.3
+rubygem(activesupport) >= 4.0.0
+rubygem(hashie)
+rubygem(json_spec)
+rubygem(rspec)
+rubygem(settingslogic) >= 2.0.9
+rubygem(uuidtools) >= 2.1.3
+rubygems-devel

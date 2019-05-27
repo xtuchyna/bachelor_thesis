@@ -1,0 +1,25 @@
+autoconf
+autogen
+automake
+bison
+desktop-file-utils
+expat-devel
+flex
+gcc
+gcc-c++
+guile-devel
+itcl-devel >= 3.3
+itk-devel >= 3.3
+iwidgets
+libbabeltrace-devel
+libipt-devel
+libstdc++
+ncurses-devel
+perl-podlators
+python3-devel
+readline-devel >= 6.0
+tcl-devel
+texinfo-tex
+tk-devel
+xz-devel
+zlib-devel

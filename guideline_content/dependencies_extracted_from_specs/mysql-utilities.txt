@@ -1,0 +1,2 @@
+mysql-connector-python
+python2-devel >= 2.6

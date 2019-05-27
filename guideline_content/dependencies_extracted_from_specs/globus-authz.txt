@@ -1,0 +1,7 @@
+doxygen
+globus-authz-callout-error-devel >= 2
+globus-callout-devel >= 2
+globus-common-devel >= 15
+globus-gsi-sysconfig-devel >= 5
+globus-gssapi-gsi-devel >= 9
+openssl

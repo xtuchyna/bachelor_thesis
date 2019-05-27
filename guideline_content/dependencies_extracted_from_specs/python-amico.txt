@@ -1,0 +1,7 @@
+/usr/bin/2to3
+python2-devel
+python2-redis
+python2-setuptools
+python3-devel
+python3-redis
+python3-setuptools

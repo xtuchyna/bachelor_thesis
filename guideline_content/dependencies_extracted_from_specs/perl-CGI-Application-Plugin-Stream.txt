@@ -1,0 +1,7 @@
+perl(CGI)
+perl(CGI::Application) >= 3.21
+perl(File::MMagic)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

@@ -1,0 +1,10 @@
+(crate(futures) >= 0.1.0 with crate(futures) < 0.2.0)
+(crate(libc) >= 0.2.0 with crate(libc) < 0.3.0)
+(crate(libz-sys) >= 1.0.0 with crate(libz-sys) < 2.0.0)
+(crate(miniz-sys) >= 0.1.7 with crate(miniz-sys) < 0.2.0)
+(crate(miniz_oxide_c_api) >= 0.1.0 with crate(miniz_oxide_c_api) < 0.2.0)
+(crate(quickcheck) >= 0.6.0 with crate(quickcheck) < 0.7.0)
+(crate(rand) >= 0.4.0 with crate(rand) < 0.5.0)
+(crate(tokio-core) >= 0.1.0 with crate(tokio-core) < 0.2.0)
+(crate(tokio-io) >= 0.1.0 with crate(tokio-io) < 0.2.0)
+rust-packaging

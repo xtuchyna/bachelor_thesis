@@ -1,0 +1,7 @@
+ruby
+ruby(release)
+rubygem(activerecord)
+rubygem(activesupport)
+rubygem(builder)
+rubygem(sqlite3)
+rubygems-devel

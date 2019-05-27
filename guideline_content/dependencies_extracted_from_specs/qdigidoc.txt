@@ -1,0 +1,10 @@
+cmake
+desktop-file-utils
+gettext
+libappstream-glib
+libdigidocpp-devel
+openldap-devel
+pkgconfig(Qt5Designer)
+pkgconfig(libpcsclite) >= 1.7
+pkgconfig(openssl)
+qtsingleapplication-qt5-devel

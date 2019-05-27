@@ -1,0 +1,14 @@
+python2-attrs >= 17.4.0
+python2-devel
+python2-enum34
+python2-functools32
+python2-hypothesis
+python2-pytest
+python2-setuptools
+python2-singledispatch
+python2-typing
+python3-attrs >= 17.4.0
+python3-devel
+python3-hypothesis
+python3-pytest
+python3-setuptools

@@ -1,0 +1,3 @@
+erlang-hamcrest
+erlang-protobuffs >= 0.7.0
+erlang-rebar

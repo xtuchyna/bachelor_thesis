@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(foreach)
+npm(is-callable)
+npm(is-date-object)
+npm(is-symbol)
+npm(object-is)
+npm(tape)

@@ -1,0 +1,10 @@
+alsa-lib-devel
+autoconf
+automake
+dbus-devel
+jack-audio-connection-kit-devel
+libsamplerate-devel
+libtool
+pulseaudio-libs-devel
+speex-devel
+speexdsp-devel

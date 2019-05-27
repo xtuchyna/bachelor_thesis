@@ -1,0 +1,3 @@
+doxygen
+libjpeg-devel
+libpng-devel

@@ -1,0 +1,9 @@
+alsa-lib-devel
+dos2unix
+flac-devel
+java-devel >= 1:1.6.0
+liblo-devel
+libogg-devel
+libsndfile-devel
+libvorbis-devel
+portaudio-devel

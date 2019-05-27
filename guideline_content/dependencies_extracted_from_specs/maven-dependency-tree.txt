@@ -1,0 +1,10 @@
+maven-local
+mvn(org.apache.maven.plugins:maven-invoker-plugin)
+mvn(org.apache.maven.shared:maven-plugin-testing-harness)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)
+mvn(org.apache.maven:maven-compat)
+mvn(org.apache.maven:maven-core)
+mvn(org.codehaus.plexus:plexus-component-annotations)
+mvn(org.codehaus.plexus:plexus-component-metadata)
+mvn(org.eclipse.aether:aether-api)
+mvn(org.eclipse.aether:aether-util)

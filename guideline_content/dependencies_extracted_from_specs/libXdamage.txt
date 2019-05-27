@@ -1,0 +1,6 @@
+autoconf
+automake
+libtool
+pkgconfig(damageproto) >= 1.1.0
+pkgconfig(xfixes)
+xorg-x11-util-macros

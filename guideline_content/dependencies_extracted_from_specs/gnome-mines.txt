@@ -1,0 +1,8 @@
+desktop-file-utils
+gettext-devel
+itstool
+meson
+pkgconfig(gtk+-3.0) >= 3.12
+pkgconfig(libgnome-games-support-1)
+pkgconfig(librsvg-2.0)
+vala

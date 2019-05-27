@@ -1,0 +1,4 @@
+imake
+libX11-devel
+xorg-x11-proto-devel
+xorg-x11-xbitmaps

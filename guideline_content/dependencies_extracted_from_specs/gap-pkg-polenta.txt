@@ -1,0 +1,7 @@
+gap-devel
+gap-pkg-aclib
+gap-pkg-alnuth
+gap-pkg-autodoc
+gap-pkg-crystcat
+gap-pkg-polycyclic
+gap-pkg-radiroot

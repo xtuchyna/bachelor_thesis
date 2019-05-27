@@ -1,0 +1,15 @@
+git
+ruby(release)
+rubygem(bigdecimal)
+rubygem(multi_json)
+rubygem(pry)
+rubygem(rake)
+rubygem(rest-client)
+rubygem(rspec)
+rubygem(simplecov)
+rubygem(term-ansicolor)
+rubygem(thor)
+rubygem(vcr)
+rubygem(webmock)
+rubygems-devel
+txt2man

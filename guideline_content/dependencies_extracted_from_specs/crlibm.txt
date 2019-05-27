@@ -1,0 +1,7 @@
+autoconf
+automake
+libscs-devel
+libtool
+tetex-latex
+tex(fullpage.sty)
+texlive-collection-latexrecommended

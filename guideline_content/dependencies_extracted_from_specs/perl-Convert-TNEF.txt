@@ -1,0 +1,9 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::Wrap)
+perl(MIME::Body) >= 4.109
+perl(integer)
+perl(strict)
+perl(vars)
+perl-generators

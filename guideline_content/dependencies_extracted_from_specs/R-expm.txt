@@ -1,0 +1,4 @@
+R-Matrix
+R-devel >= 3.4.0
+R-methods
+tetex-latex

@@ -1,0 +1,6 @@
+expat-devel
+java-devel
+mariadb-connector-c-devel
+openssl-devel
+postgresql-devel
+systemd

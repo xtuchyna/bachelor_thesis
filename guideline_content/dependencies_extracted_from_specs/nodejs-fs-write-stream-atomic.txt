@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(graceful-fs)
+npm(iferr)
+npm(imurmurhash)
+npm(readable-stream)
+npm(rimraf)
+npm(tap)

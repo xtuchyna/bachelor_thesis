@@ -1,0 +1,7 @@
+autoconf
+cairo-devel
+desktop-file-utils
+pkgconfig(gdk-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(gtk+-2.0)
+pkgconfig(libxfce4ui-1)

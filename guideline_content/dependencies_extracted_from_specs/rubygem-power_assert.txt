@@ -1,0 +1,4 @@
+rubygem(byebug)
+rubygem(pry)
+rubygem(test-unit)
+rubygems-devel

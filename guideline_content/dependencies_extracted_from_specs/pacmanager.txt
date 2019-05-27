@@ -1,0 +1,2 @@
+desktop-file-utils
+pkgconfig(bash-completion)

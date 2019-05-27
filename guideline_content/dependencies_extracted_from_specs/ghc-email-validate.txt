@@ -1,0 +1,5 @@
+ghc-Cabal-devel
+ghc-attoparsec-devel
+ghc-bytestring-devel
+ghc-rpm-macros
+ghc-template-haskell-devel

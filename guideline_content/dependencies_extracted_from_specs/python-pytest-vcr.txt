@@ -1,0 +1,6 @@
+python2-devel
+python2-pytest >= 2.7
+python2-setuptools_scm
+python3-devel
+python3-pytest >= 2.7
+python3-setuptools_scm

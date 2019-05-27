@@ -1,0 +1,5 @@
+expat-devel
+gawk(abi) < 3.0
+gawk(abi) >= 1.1
+gawk-devel
+gawkextlib-devel

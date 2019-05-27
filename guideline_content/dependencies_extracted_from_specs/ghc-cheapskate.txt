@@ -1,0 +1,13 @@
+chrpath
+ghc-Cabal-devel
+ghc-blaze-html-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-data-default-devel
+ghc-deepseq-devel
+ghc-mtl-devel
+ghc-rpm-macros
+ghc-syb-devel
+ghc-text-devel
+ghc-uniplate-devel
+ghc-xss-sanitize-devel

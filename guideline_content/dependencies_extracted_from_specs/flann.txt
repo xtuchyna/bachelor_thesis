@@ -1,0 +1,6 @@
+cmake
+gtest-devel
+hdf5-devel
+python2-devel
+python3-devel
+zlib-devel

@@ -1,0 +1,6 @@
+gdal-devel
+node-gyp
+nodejs-devel
+npm(chai)
+npm(mocha)
+npm(nan) >= 2.5.0

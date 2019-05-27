@@ -1,0 +1,11 @@
+numpy
+python-nose
+python-setuptools
+python-sphinx
+python2-devel
+python3-devel
+python3-nose
+python3-numpy
+python3-scipy
+python3-setuptools
+scipy

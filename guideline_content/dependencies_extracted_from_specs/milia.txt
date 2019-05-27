@@ -1,0 +1,3 @@
+boost-devel
+cppunit-devel
+gsl-devel

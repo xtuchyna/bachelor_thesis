@@ -1,0 +1,8 @@
+golang
+golang(github.com/coreos/go-etcd/etcd)
+golang(github.com/coreos/go-systemd/activation)
+golang(github.com/miekg/dns)
+golang(github.com/prometheus/client_golang/prometheus)
+golang(github.com/rcrowley/go-metrics)
+golang(github.com/rcrowley/go-metrics/stathat)
+systemd

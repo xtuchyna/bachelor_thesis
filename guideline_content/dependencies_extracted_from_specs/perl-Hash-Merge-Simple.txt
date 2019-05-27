@@ -1,0 +1,12 @@
+perl(Clone)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Storable)
+perl(Test::Deep)
+perl(Test::More)
+perl(Test::Most)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

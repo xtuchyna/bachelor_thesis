@@ -1,0 +1,4 @@
+openblas-devel
+openblas-srpm-macros
+pkgconfig
+tcsh

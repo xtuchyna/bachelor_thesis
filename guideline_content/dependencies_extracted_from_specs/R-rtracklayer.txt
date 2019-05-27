@@ -1,0 +1,16 @@
+R-BSgenome >= 1.23.1
+R-BiocGenerics >= 0.13.8
+R-Biostrings-devel >= 2.43.7
+R-GenomeInfoDb >= 1.3.14
+R-GenomicAlignments >= 1.5.4
+R-GenomicRanges >= 1.21.20
+R-IRanges-devel >= 2.11.12
+R-RCurl >= 1.4.2
+R-Rsamtools-devel >= 1.17.8
+R-S4Vectors-devel >= 0.13.13
+R-XML >= 1.98.0
+R-XVector-devel >= 0.9.4
+R-devel >= 3.3.0
+R-methods
+R-tools
+zlib-devel

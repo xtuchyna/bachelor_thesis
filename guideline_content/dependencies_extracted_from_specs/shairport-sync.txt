@@ -1,0 +1,10 @@
+autoconf
+automake
+pkgconfig(alsa)
+pkgconfig(avahi-core)
+pkgconfig(libconfig)
+pkgconfig(libdaemon)
+pkgconfig(openssl)
+pkgconfig(popt)
+pkgconfig(soxr)
+systemd

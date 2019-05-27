@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(activerecord) >= 3.0
+rubygem(rspec)
+rubygem(sqlite3)
+rubygem-delayed_job-doc < 5
+rubygem-delayed_job-doc >= 3.0
+rubygems-devel

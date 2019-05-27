@@ -1,0 +1,3 @@
+gamin-devel
+gettext
+libextractor-devel

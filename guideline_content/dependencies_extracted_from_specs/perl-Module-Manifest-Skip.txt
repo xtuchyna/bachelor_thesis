@@ -1,0 +1,14 @@
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::ShareDir)
+perl(File::ShareDir::Install) >= 0.06
+perl(File::Spec)
+perl(Moo) >= 0.091013
+perl(Test::More)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

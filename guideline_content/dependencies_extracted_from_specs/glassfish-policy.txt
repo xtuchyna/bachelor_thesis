@@ -1,0 +1,10 @@
+maven-local
+mvn(com.sun.istack:istack-commons-buildtools)
+mvn(com.sun.istack:istack-commons-runtime)
+mvn(com.sun.xml.txw2:txw2)
+mvn(javax.xml.stream:stax-api)
+mvn(junit:junit)
+mvn(net.java:jvnet-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.codehaus.woodstox:woodstox-core-asl)

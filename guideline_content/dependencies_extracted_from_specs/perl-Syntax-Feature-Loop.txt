@@ -1,0 +1,17 @@
+findutils
+gcc
+perl(:VERSION) >= 5.14
+perl(Devel::CallParser)
+perl(ExtUtils::CBuilder)
+perl(Lexical::Sub)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(XSLoader)
+perl(strict)
+perl(syntax) >= 0.004
+perl(version)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

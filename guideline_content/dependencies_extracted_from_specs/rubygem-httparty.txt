@@ -1,0 +1,6 @@
+ruby >= 2.0.0
+ruby(release)
+rubygem(multi_xml)
+rubygem(rspec)
+rubygem(webmock)
+rubygems-devel

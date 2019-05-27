@@ -1,0 +1,25 @@
+coreutils
+make
+perl(Catalyst)
+perl(Catalyst::Controller)
+perl(Catalyst::Runtime) >= 5.70
+perl(FindBin)
+perl(IO::Scalar)
+perl(MRO::Compat)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::WWW::Mechanize::Catalyst)
+perl(base)
+perl(inc::Module::Install) >= 0.87
+perl(lib)
+perl(ok)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

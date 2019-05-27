@@ -1,0 +1,16 @@
+alsa-lib-devel
+desktop-file-utils
+dotconf-devel
+espeak-devel
+espeak-ng-devel
+flite-devel
+glib2-devel
+intltool
+libao-devel
+libsndfile-devel
+libtool-ltdl-devel
+pulseaudio-libs-devel
+python3-devel
+python3-setuptools
+systemd
+texinfo

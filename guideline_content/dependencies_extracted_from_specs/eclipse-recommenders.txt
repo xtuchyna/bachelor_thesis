@@ -1,0 +1,39 @@
+aether-api
+aether-connector-basic
+aether-impl
+aether-spi
+aether-transport-file
+aether-transport-http
+aether-util
+apache-commons-codec
+apache-commons-io
+apache-commons-lang3
+apache-commons-logging
+apache-commons-math
+apache-commons-pool
+cglib
+eclipse-egit
+eclipse-license
+eclipse-m2e-core >= 1.8.3
+eclipse-mylyn
+eclipse-mylyn-context-java
+lucene3
+maven-local
+mvn(com.google.code.findbugs:jsr305)
+mvn(org.apache.maven.plugins:maven-clean-plugin)
+mvn(org.apache.maven.plugins:maven-remote-resources-plugin)
+mvn(org.eclipse.tycho.extras:tycho-eclipserun-plugin)
+mvn(org.eclipse.tycho.extras:tycho-source-feature-plugin)
+mvn(org.eclipse.tycho:target-platform-configuration)
+mvn(org.eclipse.tycho:tycho-compiler-plugin)
+mvn(org.eclipse.tycho:tycho-maven-plugin)
+mvn(org.eclipse.tycho:tycho-p2-plugin)
+mvn(org.eclipse.tycho:tycho-packaging-plugin)
+mvn(org.eclipse.tycho:tycho-source-plugin)
+mvn(org.osgi:osgi.annotation)
+objectweb-asm
+osgi(com.google.gson)
+osgi(com.google.guava)
+osgi(com.google.inject) >= 4.1-8
+osgi(com.google.inject.multibindings) >= 4.1-8
+solr3 >= 3.6.2-17

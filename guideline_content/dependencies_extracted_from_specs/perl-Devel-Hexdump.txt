@@ -1,0 +1,14 @@
+perl(Data::Dumper)
+perl(Devel::PPPort)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(Getopt::Long)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+maven-local
+mvn(cglib:cglib)
+mvn(com.google.guava:guava)
+mvn(com.google.inject.extensions:extensions-parent:pom:)
+mvn(com.google.inject.extensions:guice-multibindings)
+mvn(com.google.inject:guice)
+mvn(com.thoughtworks.paranamer:paranamer)
+mvn(org.testng:testng)

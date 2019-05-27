@@ -1,0 +1,9 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Find::Rule)
+perl(Test::Distribution)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Text::Glob)
+perl-generators

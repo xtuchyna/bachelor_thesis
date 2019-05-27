@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(as-number)
+npm(bluebird)
+npm(minstache)
+npm(npm-stats)
+npm(semver)
+npm(tape)

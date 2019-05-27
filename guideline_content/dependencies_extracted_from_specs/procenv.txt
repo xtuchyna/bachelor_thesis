@@ -1,0 +1,6 @@
+check-devel
+expat
+libcap-devel
+libselinux-devel
+numactl-devel
+perl-JSON-PP

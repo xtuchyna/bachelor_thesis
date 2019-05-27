@@ -1,0 +1,13 @@
+gcc
+libacl-devel
+meson
+pkgconfig(fuse) >= 2.6
+pkgconfig(libcurl) >= 7.32.0
+pkgconfig(liblzma) >= 5.1.0
+pkgconfig(libselinux)
+pkgconfig(libssl)
+pkgconfig(libzstd)
+pkgconfig(zlib)
+python3-sphinx
+rsync
+systemd

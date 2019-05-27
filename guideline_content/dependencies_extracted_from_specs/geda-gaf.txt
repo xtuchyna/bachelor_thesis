@@ -1,0 +1,15 @@
+desktop-file-utils
+gawk
+gd-devel
+gettext-devel
+gtk2-devel
+guile-devel
+intltool
+libstroke-devel
+libtool
+libtool-ltdl-devel
+perl-generators
+perl-libs
+shared-mime-info
+texinfo-tex
+transfig

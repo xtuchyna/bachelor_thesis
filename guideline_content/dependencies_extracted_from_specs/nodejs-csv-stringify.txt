@@ -1,0 +1,6 @@
+coffee-script
+mocha
+nodejs-packaging
+npm(csv-generate)
+npm(lodash.get)
+npm(should)

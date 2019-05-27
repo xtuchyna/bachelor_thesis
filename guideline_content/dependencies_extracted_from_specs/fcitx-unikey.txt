@@ -1,0 +1,6 @@
+cmake
+fcitx-devel
+fcitx-qt5-devel
+gettext
+intltool
+qt5-qtbase-devel

@@ -1,0 +1,10 @@
+SDL2-devel
+byacc
+dev86
+docbook-utils
+gtk2-devel
+iasl
+libXpm-devel
+libXt-devel
+readline-devel
+svgalib-devel

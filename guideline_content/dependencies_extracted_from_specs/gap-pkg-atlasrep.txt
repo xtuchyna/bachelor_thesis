@@ -1,0 +1,4 @@
+GAPDoc-latex
+gap-devel
+gap-pkg-browse
+gap-pkg-ctbllib

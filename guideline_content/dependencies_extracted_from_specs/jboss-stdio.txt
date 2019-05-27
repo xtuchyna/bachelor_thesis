@@ -1,0 +1,4 @@
+maven-local
+mvn(jdepend:jdepend)
+mvn(org.jboss.apiviz:apiviz)
+mvn(org.jboss:jboss-parent:pom:)

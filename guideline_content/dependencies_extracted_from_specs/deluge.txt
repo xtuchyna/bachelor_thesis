@@ -1,0 +1,6 @@
+desktop-file-utils
+intltool
+python2-devel
+python2-setuptools
+rb_libtorrent-python2
+systemd

@@ -1,0 +1,41 @@
+bash-completion
+coreutils
+perl(App::Cmd::Tester)
+perl(App::Cme) >= 1.002
+perl(App::Cme::Common)
+perl(Carp)
+perl(Config::Model) >= 2.114
+perl(Config::Model::TkUI) >= 1.210
+perl(Config::Model::Value)
+perl(Data::Compare)
+perl(Data::Dumper)
+perl(ExtUtils::testlib)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Copy::Recursive)
+perl(File::Find)
+perl(File::Path)
+perl(Getopt::Long)
+perl(IO::File)
+perl(Log::Log4perl) >= 1.11
+perl(Module::Build)
+perl(Mouse)
+perl(Mouse::Util::TypeConstraints)
+perl(Path::Tiny)
+perl(Pod::POM)
+perl(Pod::Usage)
+perl(Test::Differences)
+perl(Test::File::Contents)
+perl(Test::Memory::Cycle)
+perl(Test::More)
+perl(Text::Diff)
+perl(Tk)
+perl(YAML::Tiny)
+perl(base)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

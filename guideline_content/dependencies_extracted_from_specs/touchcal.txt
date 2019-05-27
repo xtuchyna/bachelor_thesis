@@ -1,0 +1,4 @@
+help2man
+libXft-devel
+libXinerama-devel
+ncurses-devel

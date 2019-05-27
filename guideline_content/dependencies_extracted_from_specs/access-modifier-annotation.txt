@@ -1,0 +1,11 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven.scm:maven-scm-manager-plexus)
+mvn(org.apache.maven.scm:maven-scm-provider-gitexe)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.apache.maven:maven-project)
+mvn(org.jenkins-ci:annotation-indexer)
+mvn(org.kohsuke.metainf-services:metainf-services)
+mvn(org.kohsuke:pom:pom:)
+mvn(org.ow2.asm:asm-debug-all)

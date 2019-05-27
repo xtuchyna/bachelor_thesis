@@ -1,0 +1,16 @@
+cups-devel
+desktop-file-utils
+file-devel
+hicolor-icon-theme
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5Widgets)
+pkgconfig(QtDBus)
+pkgconfig(QtGui)
+pkgconfig(ddjvuapi)
+pkgconfig(libspectre)
+pkgconfig(poppler-qt4)
+pkgconfig(poppler-qt5)
+pkgconfig(zlib)
+qt5-qttools-devel

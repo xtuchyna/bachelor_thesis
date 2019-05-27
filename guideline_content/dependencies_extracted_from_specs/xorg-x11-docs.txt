@@ -1,0 +1,7 @@
+ghostscript
+libtool
+pkgconfig
+pkgconfig(xorg-macros) >= 1.12
+pkgconfig(xorg-sgml-doctools) >= 1.1.1
+xmlto >= 0.0.22-2
+xmlto-tex

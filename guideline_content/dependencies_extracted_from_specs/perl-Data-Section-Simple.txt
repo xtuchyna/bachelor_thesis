@@ -1,0 +1,10 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod) >= 1.41
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

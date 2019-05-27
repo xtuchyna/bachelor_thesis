@@ -1,0 +1,5 @@
+ghc-Cabal-devel
+ghc-mtl-devel
+ghc-rpm-macros
+ghc-transformers-compat-devel
+ghc-transformers-devel

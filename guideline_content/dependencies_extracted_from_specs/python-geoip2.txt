@@ -1,0 +1,11 @@
+/usr/bin/sphinx-build
+python2-devel
+python2-ipaddress
+python2-maxminddb
+python2-requests
+python2-requests-mock
+python2-setuptools
+python3-devel
+python3-maxminddb
+python3-requests-mock
+python3-setuptools

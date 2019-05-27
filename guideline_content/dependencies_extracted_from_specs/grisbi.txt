@@ -1,0 +1,10 @@
+ImageMagick
+desktop-file-utils
+gettext
+glib2-devel
+gtk2-devel
+intltool
+libappstream-glib
+libofx-devel >= 0.7.0
+libxml2-devel
+openssl-devel

@@ -1,0 +1,10 @@
+OpenSceneGraph-devel
+SimGear-devel >= 2.6.0
+boost-devel
+cmake
+desktop-file-utils
+fltk-devel
+fltk-fluid
+gettext
+plib-devel
+sg3_utils-devel

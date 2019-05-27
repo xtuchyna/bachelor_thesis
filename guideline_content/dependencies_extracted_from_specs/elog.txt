@@ -1,0 +1,8 @@
+ckeditor
+dos2unix
+glibc-common
+glibc-devel
+krb5-devel
+openldap-devel
+openssl-devel
+systemd

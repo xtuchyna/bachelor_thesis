@@ -1,0 +1,2 @@
+libax25-devel
+zlib-devel

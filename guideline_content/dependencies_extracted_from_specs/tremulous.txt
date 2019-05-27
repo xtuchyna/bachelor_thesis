@@ -1,0 +1,10 @@
+/usr/bin/appstream-util
+/usr/bin/desktop-file-validate
+SDL-devel
+libcurl-devel
+libjpeg-devel
+libvorbis-devel
+openal-soft-devel
+speex-devel
+speexdsp-devel
+zlib-devel

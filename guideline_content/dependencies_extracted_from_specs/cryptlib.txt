@@ -1,0 +1,13 @@
+coreutils
+gcc
+gnupg2
+java-devel
+libbsd-devel
+perl-Data-Dumper
+perl-ExtUtils-MakeMaker
+perl-devel
+perl-generators
+perl-interpreter
+python >= 2.7
+python2-devel >= 2.7
+python3-devel

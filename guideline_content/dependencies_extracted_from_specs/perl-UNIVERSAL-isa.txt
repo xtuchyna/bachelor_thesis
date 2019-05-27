@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(Scalar::Util)
+perl(Test::More)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl(warnings::register)
+perl-generators
+perl-interpreter

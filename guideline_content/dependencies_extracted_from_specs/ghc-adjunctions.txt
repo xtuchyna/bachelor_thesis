@@ -1,0 +1,16 @@
+ghc-Cabal-devel
+ghc-array-devel
+ghc-comonad-devel
+ghc-containers-devel
+ghc-contravariant-devel
+ghc-distributive-devel
+ghc-free-devel
+ghc-mtl-devel
+ghc-profunctors-devel
+ghc-rpm-macros
+ghc-semigroupoids-devel
+ghc-semigroups-devel
+ghc-tagged-devel
+ghc-transformers-compat-devel
+ghc-transformers-devel
+ghc-void-devel

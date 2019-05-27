@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(mocha)
+npm(onetime)
+npm(set-immediate-shim)

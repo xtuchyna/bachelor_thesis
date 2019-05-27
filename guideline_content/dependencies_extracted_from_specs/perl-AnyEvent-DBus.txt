@@ -1,0 +1,6 @@
+perl(AnyEvent)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Net::DBus)
+perl(Net::DBus::Binding::Watch)
+perl(common::sense)
+perl-generators

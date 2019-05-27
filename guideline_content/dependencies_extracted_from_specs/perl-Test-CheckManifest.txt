@@ -1,0 +1,15 @@
+/usr/bin/make
+/usr/bin/perl
+perl(CPAN::Meta::YAML)
+perl(Carp)
+perl(Cwd)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Find)
+perl(File::Spec)
+perl(Test::Builder)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.08
+perl(strict)
+perl(warnings)
+perl-generators

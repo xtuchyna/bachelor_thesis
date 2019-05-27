@@ -1,0 +1,4 @@
+ant
+aqute-bnd >= 3.2.0-2
+javapackages-local
+junit

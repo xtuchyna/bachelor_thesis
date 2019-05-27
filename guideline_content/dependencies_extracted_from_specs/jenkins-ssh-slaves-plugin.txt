@@ -1,0 +1,10 @@
+maven-local
+mvn(com.google.code.findbugs:annotations)
+mvn(com.trilead:trilead-ssh2)
+mvn(org.acegisecurity:acegi-security)
+mvn(org.jenkins-ci.main:jenkins-core)
+mvn(org.jenkins-ci.plugins:credentials)
+mvn(org.jenkins-ci.plugins:plugin:pom:)
+mvn(org.jenkins-ci.plugins:ssh-credentials)
+mvn(org.jenkins-ci.tools:maven-hpi-plugin)
+mvn(org.kohsuke:access-modifier-checker)

@@ -1,0 +1,12 @@
+make
+perl(Class::Accessor::Chained)
+perl(Cwd)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(FindBin)
+perl(Parse::CPAN::Meta)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

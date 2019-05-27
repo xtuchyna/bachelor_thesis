@@ -1,0 +1,2 @@
+crate(phf_shared) = 0.7.21
+rust-packaging

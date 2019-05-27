@@ -1,0 +1,14 @@
+R-BiocGenerics >= 0.15.3
+R-BiocParallel
+R-Biostrings >= 2.37.1
+R-GenomeInfoDb >= 1.13.1
+R-GenomicRanges >= 1.29.14
+R-IRanges-devel >= 2.11.16
+R-Rsamtools-devel >= 1.21.4
+R-S4Vectors-devel >= 0.13.13
+R-SummarizedExperiment >= 1.5.3
+R-devel >= 3.3.0
+R-methods
+R-stats
+R-utils
+tetex-latex

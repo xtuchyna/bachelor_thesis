@@ -1,0 +1,5 @@
+ruby(release)
+rubygem(rspec)
+rubygem(rubypants)
+rubygem(tilt)
+rubygems-devel

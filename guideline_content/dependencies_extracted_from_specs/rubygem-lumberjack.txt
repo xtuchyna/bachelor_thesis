@@ -1,0 +1,5 @@
+ruby
+ruby(release)
+rubygem(rspec)
+rubygem(timecop)
+rubygems-devel

@@ -1,0 +1,6 @@
+doxygen
+gcc
+libtool
+pkgconfig(alsa)
+pkgconfig(sphinxbase)
+python2-devel

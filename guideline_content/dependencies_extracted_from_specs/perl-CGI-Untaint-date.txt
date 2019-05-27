@@ -1,0 +1,9 @@
+perl(CGI::Untaint) >= 0.07
+perl(Date::Manip) >= 5.00
+perl(Date::Simple) >= 0.01
+perl(ExtUtils::MakeMaker)
+perl(Pod::Perldoc)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl-generators

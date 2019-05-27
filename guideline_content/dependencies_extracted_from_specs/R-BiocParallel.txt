@@ -1,0 +1,10 @@
+R-BH-devel
+R-devel >= 3.0.0
+R-futile.logger
+R-methods
+R-parallel
+R-snow
+R-stats
+R-utils
+gcc
+gcc-c++

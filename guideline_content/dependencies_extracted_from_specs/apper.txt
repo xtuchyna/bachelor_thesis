@@ -1,0 +1,23 @@
+chrpath
+cmake(AppStreamQt)
+cmake(KDED)
+cmake(KF5Config)
+cmake(KF5DBusAddons)
+cmake(KF5DocTools)
+cmake(KF5GuiAddons)
+cmake(KF5I18n)
+cmake(KF5IconThemes)
+cmake(KF5KCMUtils)
+cmake(KF5KIO)
+cmake(KF5Notifications)
+cmake(LibKWorkspace)
+cmake(Qt5Quick)
+cmake(Qt5Sql)
+cmake(Qt5Widgets)
+cmake(Qt5XmlPatterns)
+cmake(packagekitqt5) >= 1.0.0
+desktop-file-utils
+extra-cmake-modules
+gettext
+kf5-rpm-macros
+pkgconfig(dbus-1)

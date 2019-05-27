@@ -1,0 +1,4 @@
+atlas-devel
+doxygen-latex
+gcc-c++
+ghostscript

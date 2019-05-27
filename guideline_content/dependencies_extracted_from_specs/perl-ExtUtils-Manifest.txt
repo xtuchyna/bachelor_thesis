@@ -1,0 +1,16 @@
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec) >= 0.8
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

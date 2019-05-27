@@ -1,0 +1,7 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.apache.maven.surefire:surefire-testng)
+mvn(org.sonatype.oss:oss-parent:pom:)
+mvn(org.testng:testng)

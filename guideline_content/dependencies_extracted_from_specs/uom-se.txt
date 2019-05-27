@@ -1,0 +1,14 @@
+junit
+maven-dependency-plugin
+maven-install-plugin
+maven-jar-plugin
+maven-license-plugin
+maven-local
+maven-plugin-bundle
+maven-source-plugin
+mvn(javax.annotation:javax.annotation-api:pom:)
+mvn(javax.measure:unit-api)
+mvn(org.hamcrest:hamcrest-all)
+mvn(org.jacoco:jacoco-maven-plugin)
+mvn(tec.uom.lib:uom-lib:pom:)
+mvn(tec.uom:uom-parent:pom:)

@@ -1,0 +1,14 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(Params::Check) >= 0.34
+perl(Test::More)
+perl(base)
+perl(constant)
+perl(if)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

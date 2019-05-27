@@ -1,0 +1,12 @@
+chrpath
+ghc-Cabal-devel
+ghc-aeson-devel
+ghc-attoparsec-devel
+ghc-base-compat-devel
+ghc-bytestring-devel
+ghc-cmdargs-devel
+ghc-rpm-macros
+ghc-scientific-devel
+ghc-text-devel
+ghc-unordered-containers-devel
+ghc-vector-devel

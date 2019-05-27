@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(mapnik-reference) >= 8.8.0
+npm(mocha)
+npm(optimist)
+npm(sax)
+npm(underscore)

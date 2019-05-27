@@ -1,0 +1,13 @@
+ghc-Cabal-devel
+ghc-byteable-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-data-default-class-devel
+ghc-network-devel
+ghc-rpm-macros
+ghc-socks-devel
+ghc-tls-devel
+ghc-x509-devel
+ghc-x509-store-devel
+ghc-x509-system-devel
+ghc-x509-validation-devel

@@ -1,0 +1,10 @@
+GConf2
+dbus-glib
+desktop-file-utils
+docbook-utils
+gettext
+glib2-devel
+gnome-doc-utils
+intltool
+libxslt
+python2-devel

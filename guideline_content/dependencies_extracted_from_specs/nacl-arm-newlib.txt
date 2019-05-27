@@ -1,0 +1,3 @@
+nacl-arm-binutils
+nacl-arm-gcc
+texinfo

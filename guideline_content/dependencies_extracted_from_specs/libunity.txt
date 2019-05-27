@@ -1,0 +1,12 @@
+automake
+gnome-common
+intltool
+libtool
+pkgconfig(dbusmenu-glib-0.4)
+pkgconfig(dee-1.0)
+pkgconfig(glib-2.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gtk+-3.0)
+python3
+python3-devel
+vala

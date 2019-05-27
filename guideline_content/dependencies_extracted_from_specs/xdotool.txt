@@ -1,0 +1,6 @@
+/usr/bin/pod2man
+libX11-devel
+libXi-devel
+libXinerama-devel
+libXtst-devel
+libxkbcommon-devel

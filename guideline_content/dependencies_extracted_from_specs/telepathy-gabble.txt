@@ -1,0 +1,15 @@
+cyrus-sasl-devel
+dbus-devel >= 1.1.0
+dbus-glib-devel >= 0.82
+dbus-python
+glib2-devel >= 2.32
+gnutls-devel >= 2.12.0
+libnice-devel >= 0.0.11
+libsoup-devel
+libuuid-devel
+libxslt
+pygobject2
+python
+python-twisted
+sqlite-devel
+telepathy-glib-devel >= 0.19.9

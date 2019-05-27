@@ -1,0 +1,41 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Clone) >= 0.30
+perl(Cwd)
+perl(DBD::CSV) >= 0.30
+perl(DBD::DBM) >= 0.06
+perl(DBD::File) >= 0.40
+perl(DBD::SQLite)
+perl(DBI) >= 1.616
+perl(Data::Dumper)
+perl(Encode)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Path)
+perl(File::Spec)
+perl(List::Util)
+perl(MLDBM)
+perl(Math::Base::Convert)
+perl(Math::Trig)
+perl(Module::Runtime)
+perl(Params::Util) >= 1.00
+perl(Scalar::Util) >= 1.0
+perl(Test::Deep)
+perl(Test::More)
+perl(Text::Balanced)
+perl(Text::Soundex)
+perl(Time::HiRes)
+perl(base)
+perl(constant)
+perl(lib)
+perl(sort)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

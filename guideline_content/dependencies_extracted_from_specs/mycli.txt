@@ -1,0 +1,13 @@
+python3-PyMySQL >= 0.6.7
+python3-cli-helpers >= 1.0.1
+python3-click >= 4.1
+python3-configobj >= 5.0.5
+python3-cryptography >= 1.0.0
+python3-devel
+python3-mock
+python3-prompt_toolkit >= 1.0.10
+python3-pygments >= 1.6
+python3-pytest
+python3-setuptools
+python3-sqlparse >= 0.2.2
+python3-twine >= 1.8.1

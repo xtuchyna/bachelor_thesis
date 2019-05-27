@@ -1,0 +1,4 @@
+(crate(byteorder) >= 1.0.0 with crate(byteorder) < 2.0.0)
+(crate(rayon) >= 1.0.0 with crate(rayon) < 2.0.0)
+(crate(scroll_derive) >= 0.9.0 with crate(scroll_derive) < 0.10.0)
+rust-packaging

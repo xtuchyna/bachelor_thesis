@@ -1,0 +1,16 @@
+cmake(KF5Completion)
+cmake(KF5Config)
+cmake(KF5ConfigWidgets)
+cmake(KF5CoreAddons)
+cmake(KF5Crash)
+cmake(KF5DocTools)
+cmake(KF5I18n)
+cmake(KF5KIO)
+cmake(KF5WidgetsAddons)
+cmake(KF5XmlGui)
+cmake(Qt5PrintSupport)
+cmake(Qt5TextToSpeech)
+cmake(Qt5Widgets)
+cmake(Qt5Xml)
+desktop-file-utils
+extra-cmake-modules

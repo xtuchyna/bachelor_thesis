@@ -1,0 +1,2 @@
+boost-devel
+erlang-rebar

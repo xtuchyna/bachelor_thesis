@@ -1,0 +1,3 @@
+erlang-eunit
+erlang-rebar
+erlang-rpm-macros

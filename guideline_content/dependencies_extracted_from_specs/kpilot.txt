@@ -1,0 +1,8 @@
+akonadi-devel
+boost-devel
+desktop-file-utils
+gettext
+kdelibs4-devel >= 4.3.4
+kdepimlibs-devel >= 4.3.4
+pilot-link-devel >= 0.12
+qca2-devel

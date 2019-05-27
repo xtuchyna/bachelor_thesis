@@ -1,0 +1,26 @@
+coreutils
+make
+perl(DBD::Pg)
+perl(DBI)
+perl(File::Spec)
+perl(File::Temp)
+perl(File::Which)
+perl(Function::Parameters)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moo)
+perl(POSIX)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::SharedFork) >= 0.06
+perl(Tie::Hash::Method)
+perl(Try::Tiny)
+perl(Types::Standard)
+perl(User::pwent)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+postgresql-server
+sed

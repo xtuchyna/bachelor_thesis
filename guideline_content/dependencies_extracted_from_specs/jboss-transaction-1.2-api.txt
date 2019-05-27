@@ -1,0 +1,5 @@
+maven-local
+mvn(javax.enterprise:cdi-api)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.jboss.spec.javax.interceptor:jboss-interceptors-api_1.2_spec)
+mvn(org.jboss:jboss-parent:pom:)

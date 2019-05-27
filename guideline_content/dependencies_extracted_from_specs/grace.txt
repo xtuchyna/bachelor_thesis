@@ -1,0 +1,12 @@
+desktop-file-utils
+fftw2-devel
+gcc-gfortran
+libXmu-devel
+libXpm-devel
+libjpeg-devel
+libpng-devel
+netcdf-devel
+t1lib-devel
+urw-fonts
+xbae-devel
+zlib-devel

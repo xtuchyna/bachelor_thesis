@@ -1,0 +1,12 @@
+python-flake8
+python-mock
+python-nose
+python-setuptools
+python-sphinx
+python-trollius
+python2-devel
+python3-devel
+python3-flake8
+python3-mock
+python3-nose
+python3-setuptools

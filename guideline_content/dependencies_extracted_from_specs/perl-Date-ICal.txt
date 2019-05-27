@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Date::Leapyear) >= 1.03
+perl(ExtUtils::MakeMaker)
+perl(Test::More) >= 0.45
+perl(Time::Local)
+perl(integer)
+perl(overload)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

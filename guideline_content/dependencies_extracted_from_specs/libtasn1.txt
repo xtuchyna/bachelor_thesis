@@ -1,0 +1,7 @@
+autoconf
+automake
+bison
+help2man
+libtool
+pkgconfig
+valgrind-devel

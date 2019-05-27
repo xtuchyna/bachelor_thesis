@@ -1,0 +1,11 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-http-client-devel
+ghc-http-client-tls-devel
+ghc-http-conduit-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-time-devel
+ghc-unix-devel

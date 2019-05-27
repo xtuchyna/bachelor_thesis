@@ -1,0 +1,7 @@
+autoconf
+automake
+libtool
+pkgconfig(cairo-gobject)
+pkgconfig(gio-unix-2.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(python2)

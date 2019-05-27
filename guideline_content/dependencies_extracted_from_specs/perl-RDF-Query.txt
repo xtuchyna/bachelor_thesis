@@ -1,0 +1,62 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(Data::UUID)
+perl(DateTime)
+perl(DateTime::Format::W3CDTF)
+perl(Digest::MD5)
+perl(Digest::SHA)
+perl(Encode)
+perl(Error)
+perl(Exporter)
+perl(File::Spec)
+perl(Geo::Distance) >= 0.09
+perl(I18N::LangTags)
+perl(JSON) >= 2
+perl(LWP::Simple)
+perl(LWP::UserAgent)
+perl(List::Util)
+perl(Log::Log4perl)
+perl(MIME::Base64)
+perl(Math::BigInt)
+perl(Module::Install::Metadata)
+perl(Module::Install::Scripts)
+perl(Module::Install::WriteAll)
+perl(Module::Pluggable)
+perl(POSIX)
+perl(Parse::RecDescent)
+perl(RDF::Trine) >= 1.004
+perl(RDF::Trine::Iterator)
+perl(RDF::Trine::Namespace)
+perl(RDF::Trine::Node::Blank)
+perl(RDF::Trine::Node::Literal)
+perl(RDF::Trine::Node::Resource)
+perl(RDF::Trine::Node::Variable)
+perl(RDF::Trine::Statement)
+perl(RDF::Trine::Statement::Quad)
+perl(RDF::Trine::VariableBindings)
+perl(Scalar::Util)
+perl(Set::Scalar)
+perl(Storable)
+perl(Test::Exception)
+perl(Test::JSON)
+perl(Test::More) >= 0.88
+perl(Time::HiRes)
+perl(URI) >= 1.52
+perl(URI::Escape)
+perl(URI::file)
+perl(base)
+perl(constant)
+perl(inc::Module::Install)
+perl(lib)
+perl(overload)
+perl(sort)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

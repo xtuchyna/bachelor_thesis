@@ -1,0 +1,11 @@
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(IO::Handle)
+perl(Moo) > 1.004002
+perl(MooX::Types::MooseLike) >= 0.23
+perl(MooX::Types::MooseLike::Base)
+perl(Test::Fatal) >= 0.003
+perl(Test::More) >= 0.96
+perl(strict)
+perl(warnings)
+perl-generators

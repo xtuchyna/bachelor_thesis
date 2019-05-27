@@ -1,0 +1,8 @@
+dos2unix
+libgdiplus-devel
+mono(Mono.Cecil) = 0.9.6.0
+mono(Mono.Cecil.Mdb) = 0.9.6.0
+mono(Mono.Cecil.Pdb) = 0.9.6.0
+mono(Mono.Cecil.Rocks) = 0.9.6.0
+mono(gacutil)
+mono(xbuild)

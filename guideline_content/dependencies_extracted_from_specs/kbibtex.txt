@@ -1,0 +1,10 @@
+cmake
+desktop-file-utils
+gettext-devel
+kdelibs4-devel
+libicu-devel
+libqxt-devel
+libxslt-devel
+pkgconfig(QtWebKit)
+poppler-qt4-devel
+qca-devel

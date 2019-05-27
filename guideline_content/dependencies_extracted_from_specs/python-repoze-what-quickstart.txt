@@ -1,0 +1,8 @@
+python-coverage
+python-devel
+python-nose
+python-repoze-what >= 1.0.3
+python-repoze-what-plugins-sql
+python-repoze-who
+python-repoze-who-plugins-sa
+python-setuptools

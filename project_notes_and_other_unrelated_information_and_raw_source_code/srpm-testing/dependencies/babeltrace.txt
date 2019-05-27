@@ -1,0 +1,14 @@
+autoconf
+automake
+bison >= 2.4
+elfutils-devel >= 0.154
+flex >= 2.5.35
+glib2-devel >= 2.22.0
+libtool
+libuuid-devel
+perl-Test-Harness
+popt-devel >= 1.13
+python3-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+swig >= 2.0

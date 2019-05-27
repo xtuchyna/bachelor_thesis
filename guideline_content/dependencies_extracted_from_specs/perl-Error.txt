@@ -1,0 +1,17 @@
+coreutils
+perl(Carp)
+perl(Exporter)
+perl(File::Spec)
+perl(Module::Build)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::TrailingSpace)
+perl(base)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

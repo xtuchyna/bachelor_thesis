@@ -1,0 +1,19 @@
+coreutils
+findutils
+gcc
+make
+perl(Carp)
+perl(Config)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Symbol)
+perl(Test) >= 1
+perl(Time::HiRes)
+perl(base)
+perl(integer)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

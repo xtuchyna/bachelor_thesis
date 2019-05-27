@@ -1,0 +1,16 @@
+bzip2-devel
+cmake >= 3.0.2
+gcc
+openssl-devel
+perl(Cwd)
+perl(File::Copy)
+perl(File::Path)
+perl(Getopt::Long)
+perl(IPC::Open3)
+perl(Storable)
+perl(Symbol)
+perl(UNIVERSAL)
+perl(strict)
+perl(warnings)
+perl-interpreter
+zlib-devel

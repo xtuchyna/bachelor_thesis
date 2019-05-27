@@ -1,0 +1,8 @@
+gcc
+python3-Cython
+python3-devel
+python3-setuptools
+python3dist(idna) >= 2.0
+python3dist(multidict) >= 4.0
+python3dist(pytest)
+python3dist(pytest-runner)

@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker)
+perl(GD::Graph)
+perl(GD::Graph3d)
+perl(GD::Text)
+perl(Template)
+perl(Test::More)
+perl-generators

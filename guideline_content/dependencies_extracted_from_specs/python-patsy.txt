@@ -1,0 +1,16 @@
+python2-devel
+python2-ipython-sphinx
+python2-matplotlib
+python2-nose
+python2-numpy
+python2-scipy
+python2-six
+python2-sphinx
+python3-devel
+python3-ipython-sphinx
+python3-matplotlib
+python3-nose
+python3-numpy
+python3-scipy
+python3-six
+python3-sphinx

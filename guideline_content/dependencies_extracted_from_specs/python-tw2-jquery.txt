@@ -1,0 +1,26 @@
+python-BeautifulSoup
+python-coverage
+python-formencode
+python-genshi
+python-mako
+python-nose
+python-paste-deploy
+python-setuptools
+python-tw2-core
+python-tw2-forms
+python-webob >= 0.9.7
+python-webtest
+python2-devel
+python3-beautifulsoup4
+python3-coverage
+python3-devel
+python3-formencode
+python3-genshi
+python3-mako
+python3-nose
+python3-paste-deploy
+python3-setuptools
+python3-tw2-core
+python3-tw2-forms
+python3-webob >= 0.9.7
+python3-webtest

@@ -1,0 +1,12 @@
+desktop-file-utils
+fltk-devel >= 1.3
+gettext
+hamlib-devel
+libXinerama-devel
+libappstream-glib
+libjpeg-devel
+libpng-devel
+libsamplerate-devel
+libsndfile-devel
+portaudio-devel >= 19-4
+pulseaudio-libs-devel

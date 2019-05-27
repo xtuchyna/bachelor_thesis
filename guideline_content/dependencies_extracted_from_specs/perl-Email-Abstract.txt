@@ -1,0 +1,14 @@
+perl(Carp)
+perl(Email::MIME)
+perl(Email::Simple) >= 1.998
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(MIME::Entity)
+perl(MRO::Compat)
+perl(Mail::Message)
+perl(Module::Pluggable) >= 1.5
+perl(Scalar::Util)
+perl(Test::More) >= 0.96
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators

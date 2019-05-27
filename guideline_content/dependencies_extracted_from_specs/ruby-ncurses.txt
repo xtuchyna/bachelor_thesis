@@ -1,0 +1,4 @@
+ncurses-devel
+ruby
+ruby(release)
+ruby-devel

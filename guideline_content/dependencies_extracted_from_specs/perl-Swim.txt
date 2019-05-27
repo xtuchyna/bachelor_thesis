@@ -1,0 +1,28 @@
+coreutils
+make
+perl(Encode)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find)
+perl(File::ShareDir::Install)
+perl(FindBin)
+perl(Getopt::Long)
+perl(HTML::Escape)
+perl(Hash::Merge)
+perl(Pegex) >= 0.41
+perl(Pegex::Base)
+perl(Pegex::Grammar)
+perl(Pegex::Parser)
+perl(Pegex::Tree)
+perl(Test::More)
+perl(TestML)
+perl(TestML::Bridge)
+perl(TestML::Util)
+perl(YAML::XS)
+perl(base)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

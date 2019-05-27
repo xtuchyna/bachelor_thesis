@@ -1,0 +1,6 @@
+autoconf
+automake
+gcc
+libtool
+pkgconfig(bitlbee) >= 3.4
+pkgconfig(json-glib-1.0) >= 0.14.0

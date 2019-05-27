@@ -1,0 +1,12 @@
+cln-devel
+curl-devel
+gettext
+glib2-devel
+intltool
+libicu-devel
+libxml2-devel
+mpfr-devel
+ncurses-devel
+perl(Getopt::Long)
+perl(XML::Parser)
+readline-devel

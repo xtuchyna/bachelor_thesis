@@ -1,0 +1,8 @@
+ant
+aqute-bnd
+felix-osgi-core
+felix-osgi-obr
+java-devel >= 1:1.6.0
+junit
+kxml
+xpp3

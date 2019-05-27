@@ -1,0 +1,15 @@
+php(language) >= 5.3.6
+php-behat-mink-driver-testsuite
+php-composer(behat/mink) < 2.0
+php-composer(behat/mink) >= 1.7.1
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(silex/silex) < 2.0
+php-composer(silex/silex) >= 1.2
+php-composer(symfony/browser-kit) < 4.0
+php-composer(symfony/browser-kit) >= 2.7.1
+php-composer(symfony/dom-crawler) < 4.0
+php-composer(symfony/dom-crawler) >= 2.7.1
+php-json
+php-pcre
+php-reflection

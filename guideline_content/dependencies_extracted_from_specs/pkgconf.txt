@@ -1,0 +1,7 @@
+/usr/bin/kyua
+atf-tests
+autoconf
+automake
+gcc
+libtool
+make

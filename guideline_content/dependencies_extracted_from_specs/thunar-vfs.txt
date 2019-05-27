@@ -1,0 +1,13 @@
+GConf2-devel
+dbus-glib-devel
+desktop-file-utils
+exo-devel >= 0.5.4
+freetype-devel
+gamin-devel
+gettext
+intltool
+libjpeg-devel
+libpng-devel >= 2:1.2.2-16
+libxfce4util-devel >= 4.6.0
+perl-Carp
+startup-notification-devel >= 0.4

@@ -1,0 +1,4 @@
+ant >= 1.6.2
+java-devel >= 1:1.6.0
+jss >= 4.4.1
+ldapjdk

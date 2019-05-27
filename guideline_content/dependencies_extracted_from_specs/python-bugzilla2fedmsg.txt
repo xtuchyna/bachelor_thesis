@@ -1,0 +1,7 @@
+fedmsg
+python-bugzilla
+python-dateutil
+python-moksha-hub
+python-setuptools
+python-stomper
+python2-devel

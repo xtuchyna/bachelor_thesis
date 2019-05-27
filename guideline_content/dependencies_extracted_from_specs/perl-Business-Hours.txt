@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(Set::IntSpan) >= 1.12
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(Time::Local)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

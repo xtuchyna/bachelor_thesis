@@ -1,0 +1,5 @@
+desktop-file-utils
+findutils
+gettext
+intltool
+python >= 2.0

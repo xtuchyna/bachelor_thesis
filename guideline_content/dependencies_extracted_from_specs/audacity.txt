@@ -1,0 +1,22 @@
+alsa-lib-devel
+autoconf
+compat-wxGTK3-gtk2-devel
+desktop-file-utils
+expat-devel
+flac-devel
+gettext
+jack-audio-connection-kit-devel
+ladspa-devel
+libappstream-glib
+libid3tag-devel
+libmad-devel
+libogg-devel
+libsndfile-devel
+libvorbis-devel
+portaudio-devel >= 19-16
+soundtouch-devel
+soxr-devel
+taglib-devel
+vamp-plugin-sdk-devel >= 2.0
+zip
+zlib-devel

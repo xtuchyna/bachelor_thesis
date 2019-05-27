@@ -1,0 +1,17 @@
+autoconf
+automake
+chrpath
+cups
+cups-devel
+cups-libs
+gettext-devel
+gimp
+libjpeg-devel
+libpng-devel
+libtiff-devel
+libtool
+pkgconfig
+pkgconfig(gimpui-2.0)
+pkgconfig(gtk+-2.0)
+pkgconfig(libusb-1.0)
+python3-cups

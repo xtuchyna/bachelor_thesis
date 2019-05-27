@@ -1,0 +1,9 @@
+apache-commons-jexl
+java-devel
+javacc-maven-plugin
+maven-local
+maven-plugin-build-helper
+maven-plugin-bundle
+maven-source-plugin
+scala
+slf4j-log4j12

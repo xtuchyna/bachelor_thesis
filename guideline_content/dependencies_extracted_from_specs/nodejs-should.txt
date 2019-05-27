@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(bluebird)
+npm(mocha)
+npm(should-equal)
+npm(should-format)
+npm(should-type)

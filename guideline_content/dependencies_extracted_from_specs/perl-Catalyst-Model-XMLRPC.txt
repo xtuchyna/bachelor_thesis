@@ -1,0 +1,8 @@
+perl(Catalyst)
+perl(Catalyst::Devel)
+perl(ExtUtils::MakeMaker)
+perl(RPC::XML)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

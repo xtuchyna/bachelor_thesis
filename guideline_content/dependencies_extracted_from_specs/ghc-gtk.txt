@@ -1,0 +1,15 @@
+gcc-c++
+ghc-Cabal-devel
+ghc-array-devel
+ghc-bytestring-devel
+ghc-cairo-devel
+ghc-containers-devel
+ghc-gio-devel
+ghc-glib-devel
+ghc-gtk2hs-buildtools-devel
+ghc-mtl-devel
+ghc-pango-devel
+ghc-rpm-macros
+ghc-text-devel
+pkgconfig(gthread-2.0)
+pkgconfig(gtk+-2.0)

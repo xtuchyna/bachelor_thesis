@@ -1,0 +1,7 @@
+graphviz
+maven-local
+mvn(jdepend:jdepend)
+mvn(junit:junit)
+mvn(org.jboss.apiviz:apiviz)
+mvn(org.jboss.shrinkwrap:shrinkwrap-impl-base)
+mvn(org.jboss:jboss-parent:pom:)

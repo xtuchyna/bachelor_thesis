@@ -1,0 +1,9 @@
+fedmsg
+python2-devel
+python2-flask
+python2-redis
+python2-retask
+python2-setuptools
+python2-sqlalchemy
+python2-sqlalchemy-utils
+systemd

@@ -1,0 +1,9 @@
+perl(CGI)
+perl(CGI::Application) >= 3.21
+perl(CGI::Session) >= 3.95
+perl(CGI::Simple)
+perl(Module::Build)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

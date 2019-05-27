@@ -1,0 +1,6 @@
+coreutils
+gcc-c++
+make
+sendmail-milter-devel
+spamassassin
+systemd

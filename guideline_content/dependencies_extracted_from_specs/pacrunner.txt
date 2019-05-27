@@ -1,0 +1,6 @@
+mozjs38-devel
+pkgconfig(cunit)
+pkgconfig(dbus-1)
+pkgconfig(glib-2.0)
+pkgconfig(libcurl)
+python

@@ -1,0 +1,8 @@
+gtk2-devel
+gtk3-devel
+icon-naming-utils
+icon-slicer
+perl-XML-Parser
+python2
+python2-empy
+xorg-x11-apps

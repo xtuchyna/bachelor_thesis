@@ -1,0 +1,10 @@
+bash
+bison
+cudd-devel
+doxygen-latex
+flex
+gcc-c++
+glpk-devel
+graphviz
+minisat2-devel
+zlib-devel

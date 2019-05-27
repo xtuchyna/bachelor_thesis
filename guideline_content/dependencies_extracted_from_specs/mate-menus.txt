@@ -1,0 +1,4 @@
+chrpath
+gobject-introspection-devel
+mate-common
+python2-devel

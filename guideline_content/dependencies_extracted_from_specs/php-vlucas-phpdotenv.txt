@@ -1,0 +1,6 @@
+php(language) >= 5.3.9
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-ctype
+php-pcre
+php-spl

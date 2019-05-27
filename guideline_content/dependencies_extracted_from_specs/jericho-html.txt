@@ -1,0 +1,6 @@
+apache-commons-logging
+java-devel >= 1:1.6.0
+javapackages-local
+junit
+log4j
+slf4j

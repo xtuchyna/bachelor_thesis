@@ -1,0 +1,4 @@
+/usr/bin/pod2man
+desktop-file-utils
+gettext
+perl-generators

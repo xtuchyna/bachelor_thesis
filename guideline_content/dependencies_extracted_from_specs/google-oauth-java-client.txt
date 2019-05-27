@@ -1,0 +1,13 @@
+maven-local
+mvn(com.google.code.findbugs:jsr305)
+mvn(com.google.http-client:google-http-client)
+mvn(com.google.http-client:google-http-client-jackson)
+mvn(com.google.http-client:google-http-client-jdo)
+mvn(javax.jdo:jdo2-api)
+mvn(javax.servlet:javax.servlet-api)
+mvn(junit:junit)
+mvn(mysql:mysql-connector-java)
+mvn(org.datanucleus:datanucleus-api-jdo)
+mvn(org.datanucleus:datanucleus-core)
+mvn(org.datanucleus:datanucleus-rdbms)
+mvn(org.sonatype.oss:oss-parent:pom:)

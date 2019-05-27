@@ -1,0 +1,17 @@
+perl(Carp)
+perl(Exporter)
+perl(Fennec::Lite) >= 0.004
+perl(Meta::Builder) >= 0.003
+perl(Module::Build)
+perl(Scalar::Util)
+perl(Test::Exception) >= 0.29
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Simple) >= 0.88
+perl(aliased)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

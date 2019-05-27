@@ -1,0 +1,6 @@
+gettext-devel
+glib2-devel
+gtk-doc
+intltool
+libtool
+make

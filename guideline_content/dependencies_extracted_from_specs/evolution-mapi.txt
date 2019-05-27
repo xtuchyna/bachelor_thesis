@@ -1,0 +1,17 @@
+cmake
+gcc
+gettext
+intltool >= 0.35.5
+pkgconfig(camel-1.2) >= 3.28.1
+pkgconfig(evolution-data-server-1.2) >= 3.28.1
+pkgconfig(evolution-mail-3.0) >= 3.28.1
+pkgconfig(evolution-shell-3.0) >= 3.28.1
+pkgconfig(glib-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(libebackend-1.2) >= 3.28.1
+pkgconfig(libebook-1.2) >= 3.28.1
+pkgconfig(libecal-1.2) >= 3.28.1
+pkgconfig(libedata-book-1.2) >= 3.28.1
+pkgconfig(libedata-cal-1.2) >= 3.28.1
+pkgconfig(libemail-engine) >= 3.28.1
+pkgconfig(libmapi) >= 2.0

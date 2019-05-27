@@ -1,0 +1,16 @@
+PyYAML
+python-catkin-sphinx
+python-coverage
+python-mock
+python-nose
+python-setuptools
+python-sphinx
+python2-devel
+python3-PyYAML
+python3-catkin-sphinx
+python3-coverage
+python3-devel
+python3-mock
+python3-nose
+python3-setuptools
+python3-sphinx

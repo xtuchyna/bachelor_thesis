@@ -1,0 +1,11 @@
+dos2unix
+gcc
+gettext
+ncurses-devel
+openssl-devel
+rsh
+slang-devel
+telnet
+unzip
+zip
+zlib-devel

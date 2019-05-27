@@ -1,0 +1,11 @@
+gettext
+glib2-devel >= 2.6.0
+gobject-introspection-devel
+gtk-doc
+intltool
+libgudev1-devel
+libimobiledevice-devel
+libtool
+libusbx-devel
+sqlite-devel
+systemd

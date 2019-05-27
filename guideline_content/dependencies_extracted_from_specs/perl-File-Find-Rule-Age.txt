@@ -1,0 +1,19 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(DateTime) >= 0.42
+perl(ExtUtils::MakeMaker)
+perl(File::Find::Rule) >= 0.30
+perl(File::Spec)
+perl(File::Temp)
+perl(File::Touch)
+perl(File::stat)
+perl(FindBin)
+perl(Params::Util) >= 0.37
+perl(Test::More) >= 0.9
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

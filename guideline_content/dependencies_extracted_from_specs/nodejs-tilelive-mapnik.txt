@@ -1,0 +1,7 @@
+ImageMagick
+nodejs-packaging
+npm(generic-pool)
+npm(mapnik) >= 3.4.11
+npm(mime) >= 2.0.3
+npm(mocha)
+npm(step)

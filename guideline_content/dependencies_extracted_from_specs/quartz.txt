@@ -1,0 +1,26 @@
+maven-antrun-plugin
+maven-checkstyle-plugin
+maven-dependency-plugin
+maven-enforcer-plugin
+maven-local
+maven-release-plugin
+maven-shade-plugin
+maven-shared
+mvn(asm:asm)
+mvn(com.mchange:c3p0)
+mvn(commons-io:commons-io)
+mvn(javax.mail:mail) >= 1.4.3
+mvn(javax.xml.bind:jaxb-api)
+mvn(junit:junit)
+mvn(log4j:log4j:1.2.17)
+mvn(org.apache.derby:derby)
+mvn(org.apache.geronimo.specs:geronimo-commonj_1.1_spec)
+mvn(org.apache.geronimo.specs:geronimo-ejb_2.1_spec)
+mvn(org.apache.geronimo.specs:geronimo-jms_1.1_spec)
+mvn(org.apache.geronimo.specs:geronimo-jta_1.1_spec)
+mvn(org.apache.geronimo.specs:specs:pom:)
+mvn(org.apache.tomcat:tomcat-servlet-api)
+mvn(org.hamcrest:hamcrest-library) >= 1.2
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-log4j12)
+rmic-maven-plugin

@@ -1,0 +1,3 @@
+R-RCurl
+R-XML
+R-devel >= 3.0.0

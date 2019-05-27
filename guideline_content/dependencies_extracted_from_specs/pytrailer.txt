@@ -1,0 +1,6 @@
+python-dateutil
+python-devel
+python-setuptools
+python3-dateutil
+python3-devel
+python3-setuptools

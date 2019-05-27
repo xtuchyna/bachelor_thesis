@@ -1,0 +1,19 @@
+autoconf
+automake
+desktop-file-utils
+gettext-devel
+glib2-devel
+intltool
+keyutils-libs-devel
+libattr-devel
+libgcrypt-devel
+libtool
+nss-devel
+openssl-devel
+pam-devel
+perl-podlators
+pkcs11-helper-devel
+python-rpm-macros
+python2-devel
+swig >= 1.3.31
+trousers-devel

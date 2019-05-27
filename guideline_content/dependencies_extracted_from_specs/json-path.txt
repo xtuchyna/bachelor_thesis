@@ -1,0 +1,11 @@
+maven-local
+mvn(com.fasterxml.jackson.core:jackson-databind)
+mvn(com.google.code.gson:gson)
+mvn(commons-io:commons-io)
+mvn(junit:junit)
+mvn(net.minidev:json-smart)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.assertj:assertj-core)
+mvn(org.hamcrest:hamcrest-library)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-simple)

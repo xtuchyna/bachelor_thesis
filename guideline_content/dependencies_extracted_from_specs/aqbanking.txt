@@ -1,0 +1,12 @@
+cmake
+gettext
+gmp-devel
+gwenhywfar-devel >= 4.0.0
+libtool
+libtool-ltdl-devel
+libxml2-devel
+libxslt-devel
+xmlsec1-devel
+xmlsec1-gcrypt
+xmlsec1-gnutls
+xmlsec1-gnutls-devel

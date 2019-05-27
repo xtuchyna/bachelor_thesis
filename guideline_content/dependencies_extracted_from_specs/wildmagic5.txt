@@ -1,0 +1,8 @@
+dos2unix
+freeglut-devel
+glibc-devel
+libX11-devel
+libXext-devel
+libstdc++-devel
+mesa-libGL-devel
+mesa-libGLU-devel

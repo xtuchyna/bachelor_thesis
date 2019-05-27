@@ -1,0 +1,22 @@
+perl(Bit::Vector::Overload) >= 6.4
+perl(Carp)
+perl(Clone::PP)
+perl(DBI)
+perl(DateTime::Duration)
+perl(DateTime::Format::MySQL)
+perl(DateTime::Format::Oracle)
+perl(DateTime::Format::Pg) >= 0.11
+perl(DateTime::Infinite)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Rose::DateTime::Util) >= 0.532
+perl(Rose::Object) >= 0.854
+perl(SQL::ReservedWords)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod) >= 1.0
+perl(Time::Clock)
+perl(base)
+perl(constant)
+perl(lib)
+perl-generators

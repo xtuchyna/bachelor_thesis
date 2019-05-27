@@ -1,0 +1,13 @@
+php(language) >= 5.3.3
+php-autoloader(zendframework/zend-memory) >= 2.0.0
+php-autoloader(zendframework/zend-stdlib) >= 2.0.0
+php-composer(phpunit/phpunit)
+php-ctype
+php-date
+php-fedora-autoloader-devel
+php-gd
+php-iconv
+php-mbstring
+php-pcre
+php-spl
+php-zlib

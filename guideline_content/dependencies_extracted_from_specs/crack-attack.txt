@@ -1,0 +1,10 @@
+ImageMagick
+SDL-devel
+SDL_mixer-devel
+desktop-file-utils
+freeglut-devel
+gtk2-devel
+libXmu-devel
+libstdc++-devel
+mesa-libGLU-devel
+pkgconfig

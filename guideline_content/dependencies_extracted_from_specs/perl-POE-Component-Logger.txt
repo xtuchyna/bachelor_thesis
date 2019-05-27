@@ -1,0 +1,11 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Log::Dispatch::Config) >= 0.10
+perl(Log::Dispatch::Configurator)
+perl(Log::Dispatch::Output)
+perl(POE) >= 0.11
+perl(Test)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(base)
+perl-generators

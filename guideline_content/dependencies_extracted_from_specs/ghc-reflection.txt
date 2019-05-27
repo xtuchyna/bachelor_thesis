@@ -1,0 +1,4 @@
+ghc-Cabal-devel
+ghc-rpm-macros
+ghc-tagged-devel
+ghc-template-haskell-devel

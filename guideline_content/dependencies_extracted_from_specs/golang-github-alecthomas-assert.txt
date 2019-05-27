@@ -1,0 +1,5 @@
+compiler(go-compiler)
+golang(github.com/alecthomas/colour)
+golang(github.com/alecthomas/repr)
+golang(github.com/sergi/go-diff/diffmatchpatch)
+golang(github.com/stretchr/testify/require)

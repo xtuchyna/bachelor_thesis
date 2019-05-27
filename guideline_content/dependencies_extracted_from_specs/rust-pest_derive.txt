@@ -1,0 +1,4 @@
+(crate(pest) >= 1.0.0 with crate(pest) < 2.0.0)
+(crate(quote) >= 0.3.0 with crate(quote) < 0.4.0)
+(crate(syn) >= 0.11.0 with crate(syn) < 0.12.0)
+rust-packaging

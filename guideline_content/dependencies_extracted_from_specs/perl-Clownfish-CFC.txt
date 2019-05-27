@@ -1,0 +1,33 @@
+cmark-devel
+coreutils
+findutils
+gcc
+lemon
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Devel::PPPort) >= 3.14
+perl(Exporter)
+perl(ExtUtils::CBuilder) >= 0.18
+perl(ExtUtils::CBuilder::Platform::Windows::GCC)
+perl(ExtUtils::Mkbootstrap)
+perl(ExtUtils::ParseXS) >= 3.00
+perl(ExtUtils::PkgConfig)
+perl(Fcntl)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec::Functions)
+perl(File::stat)
+perl(Module::Build)
+perl(Scalar::Util)
+perl(Test::More)
+perl(XSLoader)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

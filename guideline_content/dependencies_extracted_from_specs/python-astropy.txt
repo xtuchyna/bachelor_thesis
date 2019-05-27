@@ -1,0 +1,22 @@
+cfitsio-devel
+erfa-devel
+expat-devel
+git
+graphviz
+python3-Cython
+python3-PyYAML
+python3-configobj
+python3-devel
+python3-h5py
+python3-matplotlib
+python3-numpy
+python3-pandas
+python3-ply
+python3-pytest
+python3-pytest-astropy
+python3-scipy
+python3-setuptools
+python3-six
+python3-sphinx
+texlive-ucs
+wcslib-devel >= 5.14

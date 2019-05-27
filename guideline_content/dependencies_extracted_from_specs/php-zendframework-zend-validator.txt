@@ -1,0 +1,23 @@
+php(language) >= 5.6
+php-autoloader(zendframework/zend-stdlib) >= 2.7.6
+php-composer(container-interop/container-interop) >= 1.1
+php-composer(zendframework/zend-cache) >= 2.6.1
+php-composer(zendframework/zend-config) >= 2.6
+php-composer(zendframework/zend-db) >= 2.7
+php-composer(zendframework/zend-filter) >= 2.6
+php-composer(zendframework/zend-http) >= 2.5.4
+php-composer(zendframework/zend-i18n) >= 2.6
+php-composer(zendframework/zend-loader) >= 2.5
+php-composer(zendframework/zend-math) >= 2.6
+php-composer(zendframework/zend-servicemanager) >= 2.7.5
+php-composer(zendframework/zend-session) >= 2.8
+php-composer(zendframework/zend-uri) >= 2.5
+php-ctype
+php-date
+php-fedora-autoloader-devel
+php-fileinfo
+php-hash
+php-intl
+php-pcre
+php-spl
+phpunit6 >= 6.0.8

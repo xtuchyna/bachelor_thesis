@@ -1,0 +1,4 @@
+desktop-file-utils
+gettext
+git
+python3-devel

@@ -1,0 +1,6 @@
+(crate(itertools) >= 0.7.0 with crate(itertools) < 0.8.0)
+(crate(nodrop) >= 0.1.0 with crate(nodrop) < 0.2.0)
+(crate(num-traits) >= 0.1.0 with crate(num-traits) < 0.2.0)
+(crate(rand) >= 0.4.0 with crate(rand) < 0.5.0)
+(crate(unreachable) >= 1.0.0 with crate(unreachable) < 2.0.0)
+rust-packaging

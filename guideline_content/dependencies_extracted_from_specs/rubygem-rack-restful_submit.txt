@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(rack) < 3
+rubygem(rack) >= 1.3.0
+rubygem(rspec)
+rubygems-devel

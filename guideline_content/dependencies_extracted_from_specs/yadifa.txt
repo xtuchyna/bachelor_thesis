@@ -1,0 +1,7 @@
+coreutils
+findutils
+gcc
+make
+openssl-devel
+sed
+systemd

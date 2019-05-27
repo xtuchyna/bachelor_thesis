@@ -1,0 +1,20 @@
+coreutils
+findutils
+gcc
+glibc-langpack-en
+libidn2-devel >= 2.0.0
+perl(:VERSION) >= 5.6
+perl(Devel::CheckLib)
+perl(DynaLoader)
+perl(Encode)
+perl(Exporter)
+perl(Module::Build)
+perl(POSIX)
+perl(Test::More) >= 0.10
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

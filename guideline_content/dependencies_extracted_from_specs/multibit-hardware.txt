@@ -1,0 +1,10 @@
+maven-local
+mvn(com.google.code.findbugs:annotations)
+mvn(org.apache.commons:commons-lang3)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.assertj:assertj-core)
+mvn(org.bouncycastle:bcprov-jdk15on)
+mvn(org.hid4java:hid4java)
+mvn(org.multibit:commons)
+mvn(org.slf4j:slf4j-api)
+protobuf-compiler

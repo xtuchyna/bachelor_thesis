@@ -1,0 +1,12 @@
+ant >= 1.6
+ant-apache-resolver
+antlr
+apache-commons-codec
+docbook-dtds
+docbook-style-xsl
+hsqldb1
+javapackages-local
+junit
+log4j12
+xalan-j2
+xerces-j2

@@ -1,0 +1,5 @@
+gcc-c++
+gf2x-devel
+gmp-devel
+libtool
+perl-interpreter

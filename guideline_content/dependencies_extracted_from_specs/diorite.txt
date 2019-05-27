@@ -1,0 +1,8 @@
+/usr/bin/valac
+/usr/bin/waf-3
+gcc
+gobject-introspection-devel
+pkgconfig(gtk+-3.0)
+pkgconfig(python3)
+python3-pyparsing
+sqlite-devel

@@ -1,0 +1,14 @@
+alsa-lib-devel
+desktop-file-utils
+fltk-devel
+fltk-fluid
+icoutils
+jack-audio-connection-kit-devel
+jansson-devel
+libXext-devel
+libXpm-devel
+libsamplerate-devel
+libsndfile-devel
+pulseaudio-libs-devel
+rtaudio-devel
+rtmidi-devel

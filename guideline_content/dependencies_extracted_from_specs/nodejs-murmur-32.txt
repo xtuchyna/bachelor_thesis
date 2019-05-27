@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(array-buffer-from-string)
+npm(arraybuffer-equal)
+npm(fmix)
+npm(hex-to-array-buffer)
+npm(imul)

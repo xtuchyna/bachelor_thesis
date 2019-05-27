@@ -1,0 +1,13 @@
+coreutils
+make
+perl(:VERSION) >= 5.5
+perl(Digest::MD5) >= 2.00
+perl(Module::Install::Metadata)
+perl(Storable) >= 2.11
+perl(Test::More) >= 0.47
+perl(inc::Module::Install::DSL) >= 1.00
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter
+sed

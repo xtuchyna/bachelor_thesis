@@ -1,0 +1,5 @@
+expat-devel
+gettext
+libgcrypt-devel >= 1.4
+nss-devel
+pkgconfig

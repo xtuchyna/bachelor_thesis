@@ -1,0 +1,8 @@
+bzip2-devel
+e2fsprogs-devel
+libattr-devel
+libgcrypt-devel
+lzo-devel
+openssl-devel
+xz-devel
+zlib-devel

@@ -1,0 +1,9 @@
+cmake
+dbus-devel
+fcitx
+fcitx-devel
+gettext
+intltool
+libtool
+sunpinyin
+sunpinyin-devel

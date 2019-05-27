@@ -1,0 +1,6 @@
+perl(Module::Build)
+perl(Sub::Exporter)
+perl(Test::More)
+perl(Test::Pod)
+perl(constant)
+perl-generators

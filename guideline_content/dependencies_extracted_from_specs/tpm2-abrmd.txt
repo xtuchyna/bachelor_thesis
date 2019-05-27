@@ -1,0 +1,10 @@
+autoconf-archive
+libtool
+pkgconfig(cmocka)
+pkgconfig(dbus-1)
+pkgconfig(gio-unix-2.0)
+pkgconfig(sapi)
+pkgconfig(tcti-device)
+pkgconfig(tcti-socket)
+systemd
+tpm2-tss-devel >= 1.1.0-1.fc28

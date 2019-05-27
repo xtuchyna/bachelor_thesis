@@ -1,0 +1,11 @@
+desktop-file-utils
+gettext
+libappstream-glib
+libmarkdown-devel
+meson
+pkgconfig(gee-0.8)
+pkgconfig(granite)
+pkgconfig(gtk+-3.0)
+pkgconfig(gtksourceview-3.0)
+pkgconfig(json-glib-1.0)
+vala

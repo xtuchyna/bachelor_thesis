@@ -1,0 +1,7 @@
+/usr/bin/iconv
+gcc
+libxml2-devel
+sqlite-devel
+sqlite2-devel
+unixODBC-devel
+zlib-devel

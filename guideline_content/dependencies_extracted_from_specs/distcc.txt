@@ -1,0 +1,7 @@
+avahi-devel
+desktop-file-utils
+krb5-devel
+libgnomeui-devel
+pango-devel
+popt-devel
+python-devel

@@ -1,0 +1,52 @@
+autoconf
+automake
+chrpath
+desktop-file-utils
+gettext-devel
+git
+glib2-devel >= 2.53.2
+gnome-common
+gnome-desktop3-devel
+gobject-introspection-devel >= 1.41.0
+gsettings-desktop-schemas-devel >= 3.21.4
+gtk-doc
+gtk3-devel >= 3.19.8
+json-glib-devel >= 0.12.0
+libSM-devel
+libX11-devel
+libXcomposite-devel
+libXcursor-devel
+libXdamage-devel
+libXext-devel
+libXfixes-devel
+libXi-devel
+libXrandr-devel
+libXrender-devel
+libXtst-devel
+libcanberra-devel
+libgudev1-devel
+libinput-devel >= 1.4
+libtool
+libwacom-devel
+libwayland-server-devel
+libxcb-devel
+libxkbcommon-devel
+libxkbcommon-x11-devel
+libxkbfile-devel
+mesa-libEGL-devel
+mesa-libGL-devel
+mesa-libGLES-devel
+mesa-libgbm-devel
+pam-devel
+pango-devel
+pipewire-devel
+pkgconfig
+pkgconfig(gbm)
+pkgconfig(gudev-1.0)
+pkgconfig(libdrm)
+pkgconfig(wayland-server)
+startup-notification-devel
+systemd-devel
+upower-devel
+xkeyboard-config-devel
+zenity

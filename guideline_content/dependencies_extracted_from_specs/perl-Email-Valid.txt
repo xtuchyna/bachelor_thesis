@@ -1,0 +1,12 @@
+bind-utils
+perl(Capture::Tiny)
+perl(ExtUtils::MakeMaker)
+perl(IO::CaptureOutput)
+perl(Mail::Address)
+perl(Net::DNS)
+perl(Net::Domain::TLD)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

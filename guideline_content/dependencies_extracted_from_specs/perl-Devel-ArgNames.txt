@@ -1,0 +1,10 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(PadWalker)
+perl(Test::More)
+perl(base)
+perl(ok)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

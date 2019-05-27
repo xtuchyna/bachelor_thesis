@@ -1,0 +1,2 @@
+libcdio-devel >= 0.67
+pkgconfig

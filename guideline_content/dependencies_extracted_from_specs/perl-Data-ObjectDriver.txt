@@ -1,0 +1,10 @@
+perl(Class::Accessor::Fast)
+perl(Class::Data::Inheritable)
+perl(Class::Trigger)
+perl(DBD::SQLite)
+perl(DBI)
+perl(Module::Build::Tiny)
+perl(Test::Builder)
+perl(Test::Exception)
+perl(version)
+perl-generators

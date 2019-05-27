@@ -1,0 +1,4 @@
+maven-local
+mvn(com.fasterxml.jackson.core:jackson-databind)
+mvn(junit:junit)
+mvn(org.sonatype.oss:oss-parent:pom:)

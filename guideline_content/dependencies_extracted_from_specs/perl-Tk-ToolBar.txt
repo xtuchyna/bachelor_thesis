@@ -1,0 +1,15 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(POSIX)
+perl(Test)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Tk::Balloon)
+perl(Tk::BrowseEntry)
+perl(Tk::Frame)
+perl(Tk::widgets)
+perl(base)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

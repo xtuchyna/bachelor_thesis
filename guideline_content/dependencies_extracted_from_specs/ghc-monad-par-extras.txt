@@ -1,0 +1,8 @@
+ghc-Cabal-devel
+ghc-abstract-par-devel
+ghc-cereal-devel
+ghc-deepseq-devel
+ghc-mtl-devel
+ghc-random-devel
+ghc-rpm-macros
+ghc-transformers-devel

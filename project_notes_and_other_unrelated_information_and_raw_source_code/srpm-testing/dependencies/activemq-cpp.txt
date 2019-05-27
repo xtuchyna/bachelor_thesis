@@ -1,0 +1,8 @@
+apr-util-devel >= 1.3
+cppunit-devel >= 1.10.2
+gcc
+libuuid-devel
+openssl-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+zlib-devel

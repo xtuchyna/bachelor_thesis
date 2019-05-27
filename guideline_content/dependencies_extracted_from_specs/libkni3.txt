@@ -1,0 +1,4 @@
+boost-devel
+doxygen
+graphviz
+texlive-collection-latexrecommended

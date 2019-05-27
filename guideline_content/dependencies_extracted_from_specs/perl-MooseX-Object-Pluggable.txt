@@ -1,0 +1,13 @@
+perl(CPAN::Meta)
+perl(CPAN::Meta::Requirements)
+perl(Dist::Zilla)
+perl(ExtUtils::MakeMaker)
+perl(Module::Build::Tiny)
+perl(Module::Pluggable::Object)
+perl(Moose) >= 0.35
+perl(Test::Fatal)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(namespace::autoclean)
+perl-generators

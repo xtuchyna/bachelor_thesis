@@ -1,0 +1,10 @@
+perl(Carp)
+perl(Module::Build)
+perl(Pod::Checker)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

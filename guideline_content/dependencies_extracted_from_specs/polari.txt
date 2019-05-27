@@ -1,0 +1,9 @@
+desktop-file-utils >= 0.22-6
+gettext >= 0.19.6
+glib2 >= 2.45.4-2
+itstool
+meson
+pkgconfig(gjs-1.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(telepathy-glib)

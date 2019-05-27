@@ -1,0 +1,12 @@
+cairo-devel
+libXext-devel
+libXpm-devel
+libev-devel
+libxcb-devel
+libxkbcommon-devel
+libxkbcommon-x11-devel
+libxkbfile-devel
+pam-devel
+xcb-util-devel
+xcb-util-image-devel
+xcb-util-keysyms-devel

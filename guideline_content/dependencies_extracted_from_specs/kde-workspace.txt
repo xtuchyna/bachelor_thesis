@@ -1,0 +1,21 @@
+cmake
+desktop-file-utils
+kactivities-devel
+kdelibs4-devel >= 4.14.4
+kdelibs4-webkit-devel
+libjpeg-devel
+pam-devel
+pkgconfig(dbusmenu-qt)
+pkgconfig(libpng)
+pkgconfig(libudev)
+pkgconfig(libxklavier)
+pkgconfig(qimageblitz)
+pkgconfig(xau)
+pkgconfig(xcb)
+pkgconfig(xcb-icccm)
+pkgconfig(xcb-image)
+pkgconfig(xcb-keysyms)
+pkgconfig(xcb-renderutil)
+pkgconfig(xdmcp)
+pkgconfig(xres)
+systemd

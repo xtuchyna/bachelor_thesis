@@ -1,0 +1,12 @@
+python2-cjson
+python2-devel
+python2-nose
+python2-simplejson
+python2-six
+python2-ujson
+python3-devel
+python3-nose
+python3-setuptools
+python3-simplejson
+python3-six
+python3-ujson

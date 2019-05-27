@@ -1,0 +1,6 @@
+net-tools
+python-devel
+python-setuptools
+python-simplejson
+python-twisted-core
+python-zbase32

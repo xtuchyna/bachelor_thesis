@@ -1,0 +1,18 @@
+autoconf
+automake
+desktop-file-utils
+gettext
+gettext-devel
+glade3-libgladeui-devel
+gnulib-devel
+gsl-devel >= 1.11-2
+gtksourceview3-devel
+libglade2-devel
+libtool
+libxml2
+ncurses-devel
+perl(ExtUtils::MakeMaker)
+plotutils-devel
+postgresql-devel
+readline-devel
+texinfo

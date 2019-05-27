@@ -1,0 +1,6 @@
+libcap-devel
+libselinux-devel >= 1.30.3-1
+libsepol-devel
+libsepol-static
+pcre-devel
+systemd-units

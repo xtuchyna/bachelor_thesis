@@ -1,0 +1,12 @@
+chrpath
+ghc-Cabal-devel
+ghc-attoparsec-devel
+ghc-bytestring-devel
+ghc-conduit-devel
+ghc-conduit-extra-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-process-devel
+ghc-resourcet-devel
+ghc-rpm-macros

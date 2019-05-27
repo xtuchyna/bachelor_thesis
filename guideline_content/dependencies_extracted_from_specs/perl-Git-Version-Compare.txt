@@ -1,0 +1,13 @@
+findutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.006

@@ -1,0 +1,4 @@
+libnl3-devel
+libpcap-devel
+openssl-devel
+sqlite-devel

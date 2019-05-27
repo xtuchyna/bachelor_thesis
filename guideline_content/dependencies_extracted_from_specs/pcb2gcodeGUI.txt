@@ -1,0 +1,5 @@
+gcc-c++
+pkgconfig(Qt5)
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5Widgets)

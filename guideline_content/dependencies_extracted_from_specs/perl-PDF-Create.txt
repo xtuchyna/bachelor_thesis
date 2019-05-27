@@ -1,0 +1,24 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Share)
+perl(File::ShareDir::Install)
+perl(File::Spec)
+perl(File::Temp)
+perl(FileHandle)
+perl(JSON)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Test::LeakTrace)
+perl(Test::More)
+perl(integer)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,14 @@
+/usr/bin/dvipdf
+ImageMagick
+cfitsio-devel
+curl-devel
+desktop-file-utils
+docbook-dtd42-xml
+docbook-style-dsssl
+jadetex
+tex(latex)
+tex(mlnames.sty)
+tex(ulem.sty)
+texlive-stmaryrd
+transfig
+wxGTK-devel

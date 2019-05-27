@@ -1,0 +1,5 @@
+autoconf
+ed
+ghostscript
+groff
+texinfo

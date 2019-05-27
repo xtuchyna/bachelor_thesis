@@ -1,0 +1,17 @@
+/usr/bin/appstream-util
+/usr/bin/convert
+SDL-devel
+bdftopcf
+bison
+desktop-file-utils
+flex
+libGL-devel
+libX11-devel
+libXext-devel
+libXmu-devel
+libXpm-devel
+libXt-devel
+libpng-devel
+ncurses-devel
+pkgconfig(xaw7)
+zlib-devel

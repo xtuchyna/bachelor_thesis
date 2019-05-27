@@ -1,0 +1,8 @@
+GAPDoc-latex
+bliss-devel
+gap-devel
+gap-pkg-grape
+gap-pkg-io
+gap-pkg-nautytracesinterface
+gap-pkg-orb
+gcc-c++

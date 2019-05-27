@@ -1,0 +1,7 @@
+ant
+aqute-bnd
+geronimo-ejb
+hamcrest
+javapackages-local
+junit
+objectweb-asm3

@@ -1,0 +1,7 @@
+cmake >= 2.6.0
+doxygen
+glib2-devel
+gnutls-devel
+gpgme-devel
+openvas-libraries-devel >= 4.0.0
+pkgconfig

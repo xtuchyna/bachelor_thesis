@@ -1,0 +1,4 @@
+gnupg2
+libu2f-host-devel
+libu2f-server-devel
+pam-devel

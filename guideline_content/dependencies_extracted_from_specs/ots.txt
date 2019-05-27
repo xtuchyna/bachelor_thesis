@@ -1,0 +1,4 @@
+glib2-devel >= 2.0
+libtool
+libxml2-devel >= 2.4.23
+popt-devel >= 1.5

@@ -1,0 +1,7 @@
+autoconf
+automake
+go-md2man
+pcre-devel
+pkgconfig(libselinux)
+pkgconfig(mount)
+pkgconfig(yajl)

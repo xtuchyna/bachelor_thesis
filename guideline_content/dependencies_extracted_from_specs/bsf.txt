@@ -1,0 +1,6 @@
+ant
+apache-commons-logging
+apache-parent
+javapackages-local
+rhino
+xalan-j2

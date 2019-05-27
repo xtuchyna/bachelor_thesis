@@ -1,0 +1,9 @@
+doxygen
+gconfmm26-devel >= 2.6.0
+gettext
+glibmm24-devel >= 2.16.0
+graphviz
+gtkmm24-devel >= 2.10.0
+intltool
+libglademm24-devel >= 2.4.0
+libxml++-devel >= 2.23.3

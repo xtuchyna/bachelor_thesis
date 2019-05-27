@@ -1,0 +1,5 @@
+libX11-devel
+libXau-devel
+libXext-devel
+libXres-devel
+ncurses-devel

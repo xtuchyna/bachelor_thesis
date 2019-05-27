@@ -1,0 +1,6 @@
+ant
+apache-parent
+javapackages-local
+xalan-j2 >= 2.7.1
+xml-commons-apis >= 1.4.01
+xml-commons-resolver >= 1.2

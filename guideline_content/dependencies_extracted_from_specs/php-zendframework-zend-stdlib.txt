@@ -1,0 +1,9 @@
+php(language) >= 5.6
+php-composer(phpunit/phpunit) >= 4.0
+php-fedora-autoloader-devel
+php-iconv
+php-intl
+php-mbstring
+php-pcre
+php-posix
+php-spl

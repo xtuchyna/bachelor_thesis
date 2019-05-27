@@ -1,0 +1,7 @@
+compiler(go-compiler)
+golang >= 1.2.1-3
+golang(github.com/docker/docker/pkg/jsonlog)
+golang(github.com/docker/docker/pkg/stdcopy)
+golang(github.com/docker/docker/utils)
+golang(github.com/gorilla/mux)
+golang(github.com/stretchr/testify/mock)

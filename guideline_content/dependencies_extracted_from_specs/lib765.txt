@@ -1,0 +1,3 @@
+gettext
+libdsk-devel
+libtool

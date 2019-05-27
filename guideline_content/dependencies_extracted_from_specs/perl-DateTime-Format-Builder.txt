@@ -1,0 +1,12 @@
+perl(Class::Factory::Util)
+perl(Class::ISA)
+perl(DateTime)
+perl(DateTime::Format::HTTP)
+perl(DateTime::Format::IBeat)
+perl(DateTime::Format::Mail)
+perl(DateTime::Format::Strptime)
+perl(Module::Build)
+perl(Params::Validate) >= 0.73
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

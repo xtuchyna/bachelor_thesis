@@ -1,0 +1,10 @@
+desktop-file-utils
+gettext
+itstool
+pkgconfig(gtk+-3.0)
+pkgconfig(gtkmm-3.0)
+pkgconfig(libgtop-2.0) >= 2.37.2
+pkgconfig(librsvg-2.0)
+pkgconfig(libsystemd)
+pkgconfig(libxml-2.0)
+polkit-devel

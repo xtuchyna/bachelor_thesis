@@ -1,0 +1,1 @@
+drupal7-rpmbuild >= 7.23-3

@@ -1,0 +1,15 @@
+gcc
+libcap-devel
+libinput-devel
+libxkbcommon-devel
+mesa-libEGL-devel
+mesa-libGLES-devel
+mesa-libgbm-devel
+mesa-libwayland-egl-devel
+meson
+pixman-devel
+systemd-devel
+wayland-devel
+wayland-protocols-devel
+xcb-util-image-devel
+xcb-util-wm-devel

@@ -1,0 +1,10 @@
+autoconf
+docbook-style-xsl
+ghc-Cabal-devel
+ghc-QuickCheck-devel
+ghc-array-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-process-devel
+ghc-rpm-macros
+libxslt

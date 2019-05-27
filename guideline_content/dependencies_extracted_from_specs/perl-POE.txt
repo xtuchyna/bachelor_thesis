@@ -1,0 +1,40 @@
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(Errno) >= 1.09
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(File::Spec) >= 0.87
+perl(File::Temp)
+perl(FileHandle)
+perl(HTTP::Date)
+perl(HTTP::Request)
+perl(HTTP::Response)
+perl(HTTP::Status)
+perl(IO::File)
+perl(IO::Handle) >= 1.27
+perl(IO::Pipely) >= 0.005
+perl(IO::Poll) >= 0.01
+perl(IO::Pty)
+perl(IO::Tty) >= 1.08
+perl(List::Util)
+perl(POE::Test::Loops) >= 1.360
+perl(POSIX) >= 1.02
+perl(Socket) >= 1.7
+perl(Symbol)
+perl(Sys::Hostname)
+perl(Test::More)
+perl(Tie::Handle)
+perl(Time::HiRes) >= 1.59
+perl(URI) >= 1.30
+perl(YAML)
+perl(base)
+perl(bytes)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

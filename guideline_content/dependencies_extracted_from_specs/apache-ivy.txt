@@ -1,0 +1,17 @@
+ant
+ant-contrib
+ant-testutil
+apache-commons-lang
+apache-commons-parent
+apache-commons-vfs
+apache-parent
+bouncycastle
+bouncycastle-pg
+ivy-local >= 4
+jakarta-commons-httpclient
+jakarta-oro
+jsch
+jsch-agent-proxy-connector-factory
+jsch-agent-proxy-core
+jsch-agent-proxy-jsch
+sonatype-oss-parent

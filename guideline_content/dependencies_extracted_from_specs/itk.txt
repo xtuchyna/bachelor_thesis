@@ -1,0 +1,2 @@
+itcl-devel
+tk-devel

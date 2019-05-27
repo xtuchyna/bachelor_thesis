@@ -1,0 +1,79 @@
+coreutils
+fftw2-devel
+findutils
+freeglut-devel
+gcc-gfortran
+gd-devel
+gsl-devel >= 1.0
+hdf-devel
+hdf-static
+libXi-devel
+libXmu-devel
+make
+perl(Benchmark)
+perl(Config)
+perl(Convert::UU)
+perl(Cwd)
+perl(Data::Dumper) >= 2.121
+perl(Devel::CheckLib)
+perl(Devel::REPL)
+perl(Devel::REPL::Plugin)
+perl(DynaLoader)
+perl(English)
+perl(Exporter)
+perl(ExtUtils::F77)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::Manifest)
+perl(ExtUtils::testlib)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Map) >= 0.57
+perl(File::Path)
+perl(File::Spec) >= 0.6
+perl(File::Temp)
+perl(FileHandle)
+perl(Filter::Simple) >= 0.88
+perl(Filter::Util::Call)
+perl(IO::File)
+perl(IO::String)
+perl(IPC::Cmd)
+perl(Inline) >= 0.43
+perl(Inline::C)
+perl(List::MoreUtils)
+perl(List::Util)
+perl(Module::Compile) >= 0.23
+perl(Moose)
+perl(OpenGL) >= 0.67.02
+perl(POSIX)
+perl(Pod::Parser)
+perl(Pod::PlainText)
+perl(Pod::Select)
+perl(Scalar::Util)
+perl(SelfLoader)
+perl(Storable) >= 1.03
+perl(Symbol)
+perl(Test)
+perl(Test::Deep)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Warn)
+perl(Text::Balanced) >= 1.89
+perl(autodie)
+perl(base)
+perl(constant)
+perl(fields)
+perl(lib)
+perl(namespace::clean)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(version)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+proj-devel
+proj-nad
+sed
+sharutils

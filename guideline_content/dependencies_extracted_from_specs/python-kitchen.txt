@@ -1,0 +1,10 @@
+python-chardet
+python-nose
+python-test
+python2-devel
+python2-sphinx
+python3-chardet
+python3-devel
+python3-nose
+python3-sphinx
+python3-test

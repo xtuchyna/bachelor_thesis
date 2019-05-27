@@ -1,0 +1,3 @@
+gcc-c++
+libhangul-devel
+scim-devel >= 1.2.0

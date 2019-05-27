@@ -1,0 +1,5 @@
+desktop-file-utils
+gcc
+gtk2-devel
+pkgconfig(gdk-pixbuf-xlib-2.0)
+python2

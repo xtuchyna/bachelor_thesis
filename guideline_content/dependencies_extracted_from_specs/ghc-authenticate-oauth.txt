@@ -1,0 +1,15 @@
+ghc-Cabal-devel
+ghc-RSA-devel
+ghc-SHA-devel
+ghc-base64-bytestring-devel
+ghc-blaze-builder-devel
+ghc-bytestring-devel
+ghc-crypto-pubkey-types-devel
+ghc-data-default-devel
+ghc-http-client-devel
+ghc-http-types-devel
+ghc-random-devel
+ghc-rpm-macros
+ghc-time-devel
+ghc-transformers-compat-devel
+ghc-transformers-devel

@@ -1,0 +1,6 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(URI::Escape)
+perl(base)
+perl-generators

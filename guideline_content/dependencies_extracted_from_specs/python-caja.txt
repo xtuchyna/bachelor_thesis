@@ -1,0 +1,4 @@
+caja-devel
+mate-common
+pygobject3-devel
+python2-devel

@@ -1,0 +1,6 @@
+cmake
+desktop-file-utils
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5X11Extras)
+pkgconfig(poppler-qt5)
+qt5-linguist

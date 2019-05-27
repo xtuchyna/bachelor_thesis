@@ -1,0 +1,3 @@
+groff
+ncurses-devel
+time

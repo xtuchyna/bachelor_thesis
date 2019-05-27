@@ -1,0 +1,36 @@
+findutils
+make
+perl(Authen::SASL)
+perl(Carp)
+perl(Catalyst) >= 5.7
+perl(Catalyst::Controller)
+perl(Catalyst::Test)
+perl(Catalyst::View)
+perl(Catalyst::View::Mason) >= 0.18
+perl(Catalyst::View::TT) >= 0.31
+perl(Data::Dump)
+perl(Email::Date::Format)
+perl(Email::MIME) >= 1.859
+perl(Email::MIME::Creator) >= 1.455
+perl(Email::Sender::Simple) >= 0.100110
+perl(Encode)
+perl(FindBin)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Makefile)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Module::Runtime)
+perl(Moose) >= 0.93
+perl(Scalar::Util)
+perl(Test::More) >= 0.88
+perl(Test::Pod)
+perl(Test::Requires)
+perl(base)
+perl(inc::Module::Install) >= 0.91
+perl(lib)
+perl(parent) >= 0.223
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

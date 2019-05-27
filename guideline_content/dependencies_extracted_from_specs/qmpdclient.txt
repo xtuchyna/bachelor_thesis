@@ -1,0 +1,4 @@
+cmake
+desktop-file-utils
+qt4-devel
+qt4-webkit-devel

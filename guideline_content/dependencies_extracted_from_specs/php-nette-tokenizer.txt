@@ -1,0 +1,4 @@
+php(language) >= 5.4
+php-composer(nette/tester) >= 1.7
+php-composer(theseer/autoload)
+php-pcre

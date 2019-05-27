@@ -1,0 +1,12 @@
+python2-devel
+python2-hypothesis
+python2-justbases
+python2-pytest
+python2-setuptools
+python2-six
+python3-devel
+python3-hypothesis
+python3-justbases
+python3-pytest
+python3-setuptools
+python3-six

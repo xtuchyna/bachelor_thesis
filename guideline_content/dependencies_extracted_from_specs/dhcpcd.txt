@@ -1,0 +1,4 @@
+ntp
+systemd
+systemd-devel
+ypbind

@@ -1,0 +1,4 @@
+compiler(go-compiler)
+golang(github.com/davecgh/go-spew/spew)
+golang(github.com/pmezard/go-difflib/difflib)
+golang(github.com/stretchr/objx)

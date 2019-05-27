@@ -1,0 +1,2 @@
+(crate(nix) >= 0.10.0 with crate(nix) < 0.11.0)
+rust-packaging

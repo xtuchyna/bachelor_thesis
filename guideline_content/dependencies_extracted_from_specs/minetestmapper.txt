@@ -1,0 +1,7 @@
+cmake
+gcc-c++
+gd-devel
+hiredis-devel
+leveldb-devel
+postgresql-devel
+sqlite-devel

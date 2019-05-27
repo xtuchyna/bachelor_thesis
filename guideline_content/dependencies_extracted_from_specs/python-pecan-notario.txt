@@ -1,0 +1,8 @@
+pytest
+python-notario
+python-pecan
+python2-devel
+python3-devel
+python3-notario
+python3-pecan
+python3-pytest

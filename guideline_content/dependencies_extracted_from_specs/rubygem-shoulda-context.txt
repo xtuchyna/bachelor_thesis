@@ -1,0 +1,10 @@
+ruby
+ruby(release)
+rubygem(bundler)
+rubygem(jquery-rails)
+rubygem(mocha)
+rubygem(rails)
+rubygem(sass-rails)
+rubygem(sqlite3)
+rubygem(test-unit)
+rubygems-devel

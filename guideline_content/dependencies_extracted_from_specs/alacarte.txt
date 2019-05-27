@@ -1,0 +1,12 @@
+autoconf
+automake
+desktop-file-utils
+docbook-style-xsl
+gettext
+gnome-menus-devel >= 2.27.92
+intltool
+libxslt
+pkgconfig
+pygobject3-devel
+python2
+python2-devel

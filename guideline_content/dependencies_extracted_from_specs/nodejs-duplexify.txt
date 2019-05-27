@@ -1,0 +1,8 @@
+nodejs-packaging
+npm(concat-stream)
+npm(end-of-stream)
+npm(readable-stream)
+npm(stream-shift)
+npm(tap)
+npm(tape)
+npm(through2)

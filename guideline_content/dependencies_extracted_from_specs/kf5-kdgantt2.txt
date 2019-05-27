@@ -1,0 +1,6 @@
+cmake(KF5I18n)
+cmake(Qt5PrintSupport)
+cmake(Qt5Test)
+cmake(Qt5Widgets)
+extra-cmake-modules >= 5.23.0
+kf5-rpm-macros >= 5.23.0

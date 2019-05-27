@@ -1,0 +1,18 @@
+coreutils
+findutils
+make
+perl(Encode) >= 2.12
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Test::More) >= 0.40
+perl(XML::Filter::BufferText) >= 1.00
+perl(XML::NamespaceSupport) >= 1.00
+perl(XML::SAX::Exception) >= 1.01
+perl(blib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

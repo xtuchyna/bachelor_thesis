@@ -1,0 +1,5 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.codehaus.mojo:javacc-maven-plugin)

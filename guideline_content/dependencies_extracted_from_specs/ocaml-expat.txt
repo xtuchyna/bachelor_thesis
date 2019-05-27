@@ -1,0 +1,6 @@
+chrpath
+expat-devel >= 2.0.1
+gawk
+ocaml >= 3.10.1
+ocaml-findlib-devel
+util-linux-ng

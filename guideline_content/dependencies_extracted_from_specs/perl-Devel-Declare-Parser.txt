@@ -1,0 +1,15 @@
+perl(B::Compiling) >= 0.02
+perl(B::Hooks::EndOfScope) >= 0.08
+perl(Carp)
+perl(Data::Dumper)
+perl(Devel::Declare) >= 0.006
+perl(Exporter)
+perl(Module::Build)
+perl(Scalar::Util)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Simple) >= 0.88
+perl(base)
+perl(strict)
+perl-generators
+perl-interpreter

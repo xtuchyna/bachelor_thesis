@@ -1,0 +1,7 @@
+GAPDoc-latex
+gap-devel
+gap-pkg-sonata
+gcc
+parallel
+procps
+texlive-collection-basic

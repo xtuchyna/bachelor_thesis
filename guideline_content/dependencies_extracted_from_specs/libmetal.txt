@@ -1,0 +1,6 @@
+cmake
+doxygen
+gcc
+glibc-devel
+libhugetlbfs-devel
+libsysfs-devel

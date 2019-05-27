@@ -1,0 +1,17 @@
+python2-bunch
+python2-devel
+python2-moksha-common >= 1.0.6
+python2-nose
+python2-paste
+python2-paste-script
+python2-pygments
+python2-setuptools
+python2-tw2-core
+python2-tw2-excanvas
+python2-tw2-forms
+python2-tw2-jit
+python2-tw2-jqplugins-flot
+python2-tw2-jqplugins-gritter
+python2-tw2-jqplugins-ui
+python2-tw2-jquery
+python2-webtest

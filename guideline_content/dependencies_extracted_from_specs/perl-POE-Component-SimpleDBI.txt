@@ -1,0 +1,18 @@
+perl(DBI) >= 1.30
+perl(Error) >= 0.15
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Module::Build::Tiny) >= 0.039
+perl(POE)
+perl(POE::Filter::Line)
+perl(POE::Filter::Reference)
+perl(POE::Session)
+perl(POE::Wheel::Run)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

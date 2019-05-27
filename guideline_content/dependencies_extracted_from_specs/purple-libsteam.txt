@@ -1,0 +1,7 @@
+gcc
+pkgconfig(glib-2.0)
+pkgconfig(gnome-keyring-1)
+pkgconfig(json-glib-1.0)
+pkgconfig(nss)
+pkgconfig(purple)
+pkgconfig(zlib)

@@ -1,0 +1,11 @@
+appdata-tools
+desktop-file-utils
+intltool
+itstool
+libappstream-glib
+pkgconfig(gconf-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(guile-2.0)
+pkgconfig(libcanberra-gtk3)
+pkgconfig(librsvg-2.0)
+yelp-tools

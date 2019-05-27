@@ -1,0 +1,11 @@
+dbus-glib-devel
+gnome-doc-utils
+gnupg
+gobject-introspection-devel
+gpgme-devel
+gtk3-devel
+intltool
+libSM-devel
+libgnome-keyring-devel
+libnotify-devel
+libtool

@@ -1,0 +1,17 @@
+GConf2-devel
+autoconf
+automake
+dbus-devel
+desktop-file-utils
+exiv2-devel
+fftw-devel
+gphoto2-devel
+gtk3-devel
+intltool
+lcms2-devel
+lensfun-devel
+libjpeg-devel
+libtiff-devel
+libtool
+libxml2-devel
+sqlite-devel

@@ -1,0 +1,11 @@
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Temp)
+perl(MooseX::Role::Parameterized)
+perl(Pod::Coverage) >= 0.18
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

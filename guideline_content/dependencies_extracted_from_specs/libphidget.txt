@@ -1,0 +1,8 @@
+autoconf
+avahi-compat-libdns_sd-devel
+avahi-devel
+gawk
+java-devel >= 1:1.6.0
+jpackage-utils
+libtool
+libusb-devel

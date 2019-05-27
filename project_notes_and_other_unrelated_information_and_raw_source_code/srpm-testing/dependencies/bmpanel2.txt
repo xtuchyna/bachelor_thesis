@@ -1,0 +1,12 @@
+asciidoc
+cairo-devel
+cmake
+desktop-file-utils
+docbook-style-xsl
+gcc
+gcc-c++
+libX11-devel
+pango-devel
+python2-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

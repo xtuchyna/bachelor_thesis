@@ -1,0 +1,16 @@
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Import::Into) >= 1
+perl(Module::Runtime) >= 0.013
+perl(Moo)
+perl(Moo::Role)
+perl(Sub::Name)
+perl(Test::Fatal)
+perl(Test::More)
+perl(strict)
+perl(strictures) >= 2
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,14 @@
+bison
+desktop-file-utils
+flex
+fltk-devel
+gcc
+gcc-c++
+glibc-devel
+libXext-devel
+libXft-devel
+libXinerama-devel
+libXpm-devel
+libjpeg-devel
+libpng-devel
+zlib-devel

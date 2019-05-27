@@ -1,0 +1,15 @@
+OCE-devel
+cmake
+desktop-file-utils
+dos2unix
+gcc-c++
+libXmu-devel
+libjpeg-turbo-devel
+mesa-libGLU-devel
+metis-devel
+mpich-devel
+openmpi-devel
+pybind11-devel
+python3-devel
+tcl-togl-devel = 2.1
+tk-devel

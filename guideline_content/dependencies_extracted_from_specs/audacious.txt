@@ -1,0 +1,10 @@
+desktop-file-utils
+gcc-c++
+gettext
+libappstream-glib
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Widgets)
+pkgconfig(gtk+-2.0)
+pkgconfig(libguess)
+qt5-qtbase-devel

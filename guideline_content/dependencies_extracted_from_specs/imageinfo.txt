@@ -1,0 +1,4 @@
+ImageMagick-devel
+autoconf
+lcms-devel
+popt-devel

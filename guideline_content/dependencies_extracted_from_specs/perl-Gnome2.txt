@@ -1,0 +1,22 @@
+findutils
+libgnomeui-devel
+make
+perl(Cwd)
+perl(DynaLoader)
+perl(ExtUtils::Depends) >= 0.20
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::PkgConfig) >= 1.03
+perl(File::Spec)
+perl(Glib) >= 1.04
+perl(Glib::GenPod)
+perl(Glib::MakeHelper)
+perl(Gnome2::Canvas) >= 1.00
+perl(Gnome2::VFS) >= 1.00
+perl(Gtk2) >= 1.00
+perl(Test::More)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

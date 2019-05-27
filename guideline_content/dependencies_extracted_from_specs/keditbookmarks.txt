@@ -1,0 +1,12 @@
+cmake(KF5Bookmarks)
+cmake(KF5CoreAddons)
+cmake(KF5DocTools)
+cmake(KF5I18n)
+cmake(KF5IconThemes)
+cmake(KF5KIO)
+cmake(KF5Parts)
+cmake(KF5WindowSystem)
+cmake(Qt5Core)
+desktop-file-utils
+extra-cmake-modules
+kf5-rpm-macros

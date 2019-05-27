@@ -1,0 +1,13 @@
+boost-devel
+gcc-c++
+libatomic
+libedit-devel
+libsodium-devel
+lua-devel
+luajit-devel
+protobuf-devel
+re2-devel
+readline-devel
+systemd-devel
+systemd-units
+uglify-js

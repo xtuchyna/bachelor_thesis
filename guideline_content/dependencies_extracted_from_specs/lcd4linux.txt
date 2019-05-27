@@ -1,0 +1,16 @@
+dbus-devel
+desktop-file-utils
+gd-devel
+gettext-devel
+libICE-devel
+libX11-devel
+libftdi-devel
+libjpeg-devel
+libst2205-devel
+libtool
+libusb-devel
+libusb1-devel
+libvncserver-devel
+ncurses-devel
+serdisplib-devel
+sqlite-devel

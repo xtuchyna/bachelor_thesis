@@ -1,0 +1,7 @@
+/usr/include/pcap.h
+glib2-devel
+libXmu-devel
+libdb-devel
+libnet-devel
+libnids-devel
+openssl-devel

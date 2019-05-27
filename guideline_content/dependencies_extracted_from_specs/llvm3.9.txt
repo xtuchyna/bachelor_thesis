@@ -1,0 +1,9 @@
+binutils-devel
+cmake3
+libedit-devel
+libffi-devel
+libstdc++-static
+ncurses-devel
+python-sphinx
+valgrind-devel
+zlib-devel

@@ -1,0 +1,13 @@
+maven-local
+mvn(net.sf.kxml:kxml2)
+mvn(org.apache.felix:felix-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.felix:org.apache.felix.gogo.runtime)
+mvn(org.apache.felix:org.apache.felix.shell)
+mvn(org.apache.felix:org.apache.felix.utils)
+mvn(org.apache.felix:org.osgi.service.obr)
+mvn(org.codehaus.woodstox:woodstox-core-asl)
+mvn(org.easymock:easymock)
+mvn(org.osgi:osgi.cmpn)
+mvn(org.osgi:osgi.core)
+mvn(xpp3:xpp3)

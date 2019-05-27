@@ -1,0 +1,13 @@
+dos2unix
+perl(Digest)
+perl(Digest::MD5)
+perl(Digest::SHA)
+perl(ExtUtils::MakeMaker)
+perl(MIME::Base64)
+perl(Test::Fatal)
+perl(Test::More)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

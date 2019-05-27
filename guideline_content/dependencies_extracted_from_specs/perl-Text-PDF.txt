@@ -1,0 +1,5 @@
+perl(Compress::Zlib)
+perl(ExtUtils::MakeMaker)
+perl(Test::Simple)
+perl-generators
+perl-interpreter

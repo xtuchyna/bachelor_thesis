@@ -1,0 +1,16 @@
+autoconf
+automake
+cppunit-devel
+doxygen
+gcc-c++
+gettext
+gettext-devel
+git
+hardlink
+help2man
+libtool
+libxml2-devel
+pkgconfig
+python3-devel
+strace
+valgrind

@@ -1,0 +1,13 @@
+python3-certifi
+python3-click
+python3-coverage
+python3-devel
+python3-elasticsearch >= 2.4.0
+python3-mock
+python3-nose
+python3-nose-xcover
+python3-setuptools
+python3-sphinx
+python3-urllib3
+python3-voluptuous
+python3-yaml

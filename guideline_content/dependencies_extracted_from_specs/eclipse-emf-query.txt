@@ -1,0 +1,11 @@
+ant-contrib
+eclipse-contributor-tools
+eclipse-emf-examples
+eclipse-emf-runtime
+eclipse-license
+eclipse-mdt-ocl >= 4.0.0
+eclipse-mdt-uml2 >= 4.0.0
+eclipse-pde
+maven-antrun-plugin
+maven-plugin-build-helper
+tycho

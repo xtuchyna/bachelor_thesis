@@ -1,0 +1,11 @@
+graphviz
+python2-devel
+python2-functools32
+python2-ipython-sphinx
+python2-matplotlib
+python2-nose
+python2-numpy
+python2-sphinxcontrib-bibtex
+python3-devel
+python3-nose
+python3-numpy

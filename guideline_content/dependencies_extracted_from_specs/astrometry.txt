@@ -1,0 +1,16 @@
+netpbm-devel
+pkgconfig
+pkgconfig(cairo)
+pkgconfig(cfitsio)
+pkgconfig(fontconfig)
+pkgconfig(gsl)
+pkgconfig(libjpeg)
+pkgconfig(libpng)
+pkgconfig(wcslib)
+pkgconfig(xrender)
+pkgconfig(zlib)
+python2-astropy
+python2-devel
+python2-numpy
+swig
+xorg-x11-proto-devel

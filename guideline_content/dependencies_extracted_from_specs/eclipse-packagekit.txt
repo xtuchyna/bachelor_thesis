@@ -1,0 +1,4 @@
+dbus-java
+eclipse-license
+maven-local
+tycho

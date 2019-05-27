@@ -1,0 +1,6 @@
+R-devel
+R-stats
+R-tools
+R-utils
+libicu-devel >= 52
+tex(latex)

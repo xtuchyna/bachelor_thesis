@@ -1,0 +1,4 @@
+qt4-devel
+qt5-qtbase-devel
+qtlockedfile-devel
+qtlockedfile-qt5-devel

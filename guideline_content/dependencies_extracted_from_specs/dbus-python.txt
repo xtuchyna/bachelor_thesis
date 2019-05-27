@@ -1,0 +1,11 @@
+autoconf-archive
+automake
+dbus-devel
+dbus-glib-devel
+dbus-x11
+libtool
+python2-devel
+python2-docutils
+python2-gobject
+python3-devel
+python3-gobject

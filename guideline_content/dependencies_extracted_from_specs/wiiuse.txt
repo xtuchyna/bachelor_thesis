@@ -1,0 +1,7 @@
+/usr/bin/chrpath
+SDL-devel
+bluez-libs-devel
+cmake
+dos2unix
+freeglut-devel
+mesa-libGL-devel

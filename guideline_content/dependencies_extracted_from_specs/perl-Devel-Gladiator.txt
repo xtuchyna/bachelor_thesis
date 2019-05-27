@@ -1,0 +1,17 @@
+findutils
+gcc
+make
+perl(:VERSION) >= 5.6
+perl(Devel::Peek)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Scalar::Util)
+perl(Test::More)
+perl(XSLoader)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

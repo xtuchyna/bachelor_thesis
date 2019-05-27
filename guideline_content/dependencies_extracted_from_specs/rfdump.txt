@@ -1,0 +1,4 @@
+desktop-file-utils
+expat-devel
+gtk2-devel
+libglade2-devel

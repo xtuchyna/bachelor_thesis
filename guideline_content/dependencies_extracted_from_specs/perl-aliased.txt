@@ -1,0 +1,12 @@
+perl(B)
+perl(CPAN::Meta) >= 2.120900
+perl(Carp)
+perl(Exporter)
+perl(File::Spec)
+perl(Module::Build::Tiny) >= 0.039
+perl(Test::More) >= 0.88
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

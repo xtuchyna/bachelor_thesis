@@ -1,0 +1,2 @@
+cmake
+kdelibs4-devel >= 4.13.3

@@ -1,0 +1,120 @@
+coreutils
+desktop-file-utils
+findutils
+font(:lang=en)
+gcc
+gettext
+make
+perl(Alien::wxWidgets) >= 0.46
+perl(CGI) >= 3.47
+perl(Capture::Tiny) >= 0.06
+perl(Class::Adapter) >= 1.05
+perl(Class::Inspector) >= 1.22
+perl(Class::Unload) >= 0.03
+perl(Class::XSAccessor) >= 1.05
+perl(Class::XSAccessor::Array) >= 1.05
+perl(Cwd) >= 3.28
+perl(DBD::SQLite) >= 1.27
+perl(DBI) >= 1.58
+perl(Data::Dumper) >= 2.101
+perl(Debug::Client) >= 0.11
+perl(Devel::Dumpvar) >= 0.04
+perl(Devel::Refactor) >= 0.05
+perl(Encode) >= 2.26
+perl(Exporter)
+perl(ExtUtils::Embed)
+perl(ExtUtils::MakeMaker) >= 6.56
+perl(ExtUtils::Manifest) >= 1.56
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Copy::Recursive) >= 0.37
+perl(File::Find::Rule) >= 0.30
+perl(File::HomeDir) >= 0.91
+perl(File::Path) >= 2.08
+perl(File::Remove) >= 1.42
+perl(File::ShareDir) >= 1.00
+perl(File::Spec) >= 3.28
+perl(File::Spec::Functions) >= 3.28
+perl(File::Spec::Unix)
+perl(File::Temp) >= 0.20
+perl(File::Which) >= 1.08
+perl(File::pushd) >= 1.00
+perl(FindBin)
+perl(Format::Human::Bytes) >= 0.04
+perl(Getopt::Long)
+perl(HTML::Entities) >= 3.57
+perl(HTML::Parser) >= 3.58
+perl(HTTP::Cookies)
+perl(HTTP::Request)
+perl(HTTP::Request::Common)
+perl(IO::Scalar) >= 2.110
+perl(IO::Socket) >= 1.30
+perl(IO::String) >= 1.08
+perl(IPC::Open2)
+perl(IPC::Open3)
+perl(IPC::Run) >= 0.83
+perl(JSON::XS) >= 2.29
+perl(LWP) >= 5.815
+perl(LWP::UserAgent) >= 5.815
+perl(List::MoreUtils) >= 0.22
+perl(List::Util) >= 1.18
+perl(Locale::Msgfmt) >= 0.15
+perl(Module::Build) >= 0.37
+perl(Module::CoreList) >= 2.22
+perl(Module::Manifest) >= 0.07
+perl(ORLite) >= 1.98
+perl(POD2::Base) >= 0.043
+perl(POSIX)
+perl(PPI) >= 1.213
+perl(PPI::Document)
+perl(PPI::Dumper)
+perl(PPI::Transform)
+perl(PPIx::EditorTools) >= 0.13
+perl(PPIx::Regexp) >= 0.005
+perl(Params::Util) >= 0.33
+perl(Parse::ErrorString::Perl) >= 0.14
+perl(Parse::ExuberantCTags) >= 1.00
+perl(Pod::Abstract) >= 0.16
+perl(Pod::Functions)
+perl(Pod::POM) >= 0.17
+perl(Pod::Perldoc) >= 3.21
+perl(Pod::Perldoc::ToPod)
+perl(Pod::Simple) >= 3.07
+perl(Pod::Simple::XHTML) >= 3.04
+perl(Probe::Perl) >= 0.01
+perl(Scalar::Util)
+perl(Storable) >= 2.16
+perl(Template::Tiny) >= 0.11
+perl(Test::Exception) >= 0.27
+perl(Test::MockObject) >= 1.09
+perl(Test::More) >= 0.88
+perl(Test::NoWarnings) >= 0.084
+perl(Test::Script) >= 1.07
+perl(Text::Balanced) >= 2.01
+perl(Text::Diff) >= 0.35
+perl(Text::FindIndent) >= 0.10
+perl(Time::HiRes) >= 1.9718
+perl(UNIVERSAL)
+perl(URI)
+perl(Wx) >= 0.91
+perl(Wx::AUI)
+perl(Wx::App)
+perl(Wx::DND)
+perl(Wx::Event)
+perl(Wx::Frame)
+perl(Wx::Html)
+perl(Wx::Locale)
+perl(Wx::Perl::ProcessStream) >= 0.29
+perl(Wx::Print)
+perl(Wx::RichText)
+perl(Wx::STC)
+perl(YAML::Tiny) >= 1.32
+perl(constant)
+perl(lib)
+perl(threads) >= 1.71
+perl(threads::shared) >= 1.33
+perl(version) >= 0.80
+perl-generators
+perl-interpreter
+xorg-x11-server-Xvfb
+xorg-x11-xinit

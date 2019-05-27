@@ -1,0 +1,5 @@
+antlr
+antlr32-java >= 3.2-12
+antlr32-tool >= 3.2-12
+stringtemplate
+tycho

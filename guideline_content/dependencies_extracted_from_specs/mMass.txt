@@ -1,0 +1,7 @@
+desktop-file-utils
+dos2unix
+libappstream-glib
+numpy
+python-libs
+python2-devel
+wxPython-devel

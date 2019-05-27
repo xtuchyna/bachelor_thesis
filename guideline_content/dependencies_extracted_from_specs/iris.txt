@@ -1,0 +1,5 @@
+pkgconfig(QtNetwork)
+pkgconfig(libidn)
+pkgconfig(qca2)
+pkgconfig(qjdns)
+zlib-devel

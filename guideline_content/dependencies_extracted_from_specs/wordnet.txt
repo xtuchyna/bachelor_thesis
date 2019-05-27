@@ -1,0 +1,9 @@
+automake >= 1.8
+coreutils
+gcc
+gzip
+libtool
+make
+tar
+tcl-devel
+tk-devel

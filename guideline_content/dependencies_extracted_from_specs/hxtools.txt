@@ -1,0 +1,8 @@
+gpg
+libHX-devel
+libcap-devel
+libmount-devel
+libxcb-devel
+pciutils-devel
+perl-generators
+xz

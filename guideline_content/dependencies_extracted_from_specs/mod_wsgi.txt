@@ -1,0 +1,4 @@
+httpd-devel
+python2-devel
+python2-sphinx
+python3-devel

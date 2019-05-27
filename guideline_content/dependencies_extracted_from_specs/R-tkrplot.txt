@@ -1,0 +1,4 @@
+R-devel
+R-grDevices
+R-tcltk
+tex(latex)

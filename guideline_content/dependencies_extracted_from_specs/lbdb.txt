@@ -1,0 +1,5 @@
+/usr/bin/pod2man
+abook
+finger
+gnupg2
+perl-generators

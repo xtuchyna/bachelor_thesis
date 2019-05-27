@@ -1,0 +1,13 @@
+boost-devel
+libusbx-devel
+pkgconfig
+pkgconfig(dbus-glib-1)
+pkgconfig(gl)
+pkgconfig(glib-2.0)
+pkgconfig(libudev)
+pkgconfig(sdl)
+pkgconfig(x11)
+pkgconfig(zlib)
+python2-devel
+scons
+systemd

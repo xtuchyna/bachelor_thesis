@@ -1,0 +1,19 @@
+python-formencode >= 1.2.2
+python-genshi
+python-mako
+python-nose
+python-setuptools
+python-sieve
+python-sqlalchemy
+python-strainer
+python-tw-forms
+python2-devel
+python3-devel
+python3-formencode >= 1.2.2
+python3-genshi
+python3-mako
+python3-nose
+python3-setuptools
+python3-sieve
+python3-sqlalchemy
+python3-tw2-forms

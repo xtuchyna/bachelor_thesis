@@ -1,0 +1,9 @@
+aspell-devel >= 0.50.1
+aspell-en
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl-devel
+perl-generators

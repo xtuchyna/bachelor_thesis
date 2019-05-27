@@ -1,0 +1,4 @@
+gtk3-devel
+libgee06-devel
+libgudev1-devel
+vala-devel

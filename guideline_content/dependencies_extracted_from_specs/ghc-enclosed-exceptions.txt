@@ -1,0 +1,7 @@
+ghc-Cabal-devel
+ghc-deepseq-devel
+ghc-lifted-base-devel
+ghc-monad-control-devel
+ghc-rpm-macros
+ghc-transformers-base-devel
+ghc-transformers-devel

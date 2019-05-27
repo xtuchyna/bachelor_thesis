@@ -1,0 +1,7 @@
+boost-devel
+cmake
+doxygen-latex
+dvipng
+gcc-c++
+ghostscript
+gmp-devel

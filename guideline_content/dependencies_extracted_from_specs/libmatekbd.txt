@@ -1,0 +1,7 @@
+desktop-file-utils
+gobject-introspection-devel
+gsettings-desktop-schemas-devel
+gtk3-devel
+libICE-devel
+libxklavier-devel
+mate-common

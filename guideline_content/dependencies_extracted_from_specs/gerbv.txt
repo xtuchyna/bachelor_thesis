@@ -1,0 +1,5 @@
+ImageMagick-devel
+automake
+desktop-file-utils
+gtk2-devel
+libpng-devel

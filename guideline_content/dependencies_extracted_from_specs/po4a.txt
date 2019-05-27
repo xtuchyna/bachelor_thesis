@@ -1,0 +1,47 @@
+/usr/bin/nsgmls
+/usr/bin/xsltproc
+coreutils
+docbook-style-xsl
+findutils
+gettext
+grep
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(DynaLoader)
+perl(Encode)
+perl(Encode::Guess)
+perl(Exporter)
+perl(ExtUtils::Install)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(File::stat)
+perl(Getopt::Long)
+perl(Getopt::Std)
+perl(I18N::Langinfo)
+perl(IO::File)
+perl(Locale::gettext) >= 1.01
+perl(Module::Build)
+perl(POSIX)
+perl(Pod::Man)
+perl(Pod::Parser)
+perl(Pod::Usage)
+perl(SGMLS) >= 1.03ii
+perl(Term::ReadKey)
+perl(Test::More)
+perl(Text::WrapI18N)
+perl(Time::Local)
+perl(Unicode::GCString)
+perl(lib)
+perl(strict)
+perl(subs)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter >= 4:5.10.1
+texlive-kpathsea
+texlive-kpathsea-bin

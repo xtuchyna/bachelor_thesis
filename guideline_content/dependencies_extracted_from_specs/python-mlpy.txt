@@ -1,0 +1,7 @@
+gsl-devel
+python2-devel
+python2-numpy
+python2-scipy
+python3-devel
+python3-numpy
+python3-scipy

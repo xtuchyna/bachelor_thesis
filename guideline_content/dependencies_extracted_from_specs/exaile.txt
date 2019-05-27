@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext
+help2man
+libappstream-glib
+pygobject2-devel >= 2.18

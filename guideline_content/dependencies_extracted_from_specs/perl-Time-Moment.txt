@@ -1,0 +1,38 @@
+coreutils
+findutils
+gcc
+make
+perl(CBOR::XS) >= 1.3
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(DateTime)
+perl(Exporter)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker) >= 6.59
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(FindBin)
+perl(JSON::XS)
+perl(Params::Coerce)
+perl(Pod::Text)
+perl(Sereal) >= 2.060
+perl(Storable)
+perl(Test::Builder)
+perl(Test::Fatal) >= 0.006
+perl(Test::More) >= 0.88
+perl(Test::Number::Delta) >= 1.06
+perl(Test::Requires)
+perl(Time::Piece)
+perl(XSLoader) >= 0.02
+perl(base)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

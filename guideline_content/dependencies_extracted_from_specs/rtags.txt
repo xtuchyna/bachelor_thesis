@@ -1,0 +1,8 @@
+clang-devel
+cmake
+emacs
+llvm-devel
+pkgconfig(bash-completion)
+pkgconfig(openssl)
+pkgconfig(zlib)
+systemd

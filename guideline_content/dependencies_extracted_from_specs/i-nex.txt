@@ -1,0 +1,28 @@
+ImageMagick
+ImageMagick-devel
+autoconf
+automake
+desktop-file-utils
+gambas3-devel
+gambas3-gb-desktop
+gambas3-gb-form
+gambas3-gb-form-dialog >= 3.5.0
+gambas3-gb-form-stock
+gambas3-gb-gui >= 3.5.0
+gambas3-gb-image
+gambas3-gb-qt5
+gambas3-gb-qt5-ext >= 3.5.0
+gambas3-gb-settings
+gcc-c++
+git
+libappstream-glib
+libcpuid-devel >= 0.2.1
+make
+pciutils
+pkgconfig
+pkgconfig(gl)
+pkgconfig(libprocps)
+pkgconfig(x11)
+pkgconfig(xext)
+procps
+redhat-lsb

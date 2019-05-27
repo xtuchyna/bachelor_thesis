@@ -1,0 +1,29 @@
+make
+perl(:VERSION) >= 5.6
+perl(Config::INI::Reader::Ordered)
+perl(Data::Dumper)
+perl(Eval::Closure) >= 0.11
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::HomeDir)
+perl(File::Spec)
+perl(Getopt::Long) >= 2.36
+perl(IO::Handle)
+perl(IO::Pager)
+perl(IPC::Open3)
+perl(Module::Runtime)
+perl(Package::Stash)
+perl(PadWalker)
+perl(Scalar::Util)
+perl(Term::ANSIColor)
+perl(Term::ReadLine)
+perl(Test::More) >= 0.88
+perl(Time::HiRes)
+perl(Try::Tiny)
+perl(base)
+perl(blib) >= 1.01
+perl(mro)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-interpreter

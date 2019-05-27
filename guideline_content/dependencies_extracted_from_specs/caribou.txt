@@ -1,0 +1,17 @@
+at-spi2-core-devel
+clutter-devel
+desktop-file-utils
+gettext
+gnome-doc-utils
+gobject-introspection-devel
+gtk2-devel
+gtk3-devel
+intltool
+libXtst-devel
+libgee-devel
+libxklavier-devel
+pygobject3-devel
+python2-devel
+python3-devel
+python3-gobject
+vala-devel

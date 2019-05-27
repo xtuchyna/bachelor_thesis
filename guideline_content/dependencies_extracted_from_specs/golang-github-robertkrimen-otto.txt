@@ -1,0 +1,3 @@
+compiler(go-compiler)
+golang(gopkg.in/readline.v1)
+golang(gopkg.in/sourcemap.v1)

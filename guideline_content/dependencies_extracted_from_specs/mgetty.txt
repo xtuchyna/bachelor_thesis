@@ -1,0 +1,9 @@
+gcc
+gsm-devel
+libX11-devel
+libXext-devel
+lockdev-devel
+perl-generators
+systemd
+texinfo-tex
+texlive-dvips

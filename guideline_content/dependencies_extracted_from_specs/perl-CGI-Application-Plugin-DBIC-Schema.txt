@@ -1,0 +1,5 @@
+perl(CGI::Application)
+perl(DBIx::Class)
+perl(ExtUtils::MakeMaker)
+perl(Test::Pod)
+perl-generators

@@ -1,0 +1,6 @@
+gap-devel
+gap-pkg-crisp
+parallel
+perl-interpreter
+procps-ng
+tth

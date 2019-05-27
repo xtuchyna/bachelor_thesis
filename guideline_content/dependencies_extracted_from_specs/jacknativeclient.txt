@@ -1,0 +1,6 @@
+ant
+gcc
+jack-audio-connection-kit-devel
+java-devel
+java-javadoc
+jpackage-utils

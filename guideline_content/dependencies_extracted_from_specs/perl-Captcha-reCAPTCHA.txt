@@ -1,0 +1,17 @@
+findutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(HTML::Tiny) >= 0.904
+perl(HTTP::Response)
+perl(LWP::UserAgent)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(constant)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

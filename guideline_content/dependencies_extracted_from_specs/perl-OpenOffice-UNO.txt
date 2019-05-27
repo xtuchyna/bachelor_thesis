@@ -1,0 +1,12 @@
+/usr/bin/ooffice
+libreoffice-calc
+libreoffice-core
+libreoffice-sdk >= 1:3
+libreoffice-writer
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Path)
+perl(Test::More)
+perl-devel
+perl-generators

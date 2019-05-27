@@ -1,0 +1,4 @@
+mecab-devel = 0.996
+mecab-jumandic
+ruby
+ruby-devel

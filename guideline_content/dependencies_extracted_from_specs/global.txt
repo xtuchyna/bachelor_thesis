@@ -1,0 +1,6 @@
+ctags-etags
+emacs
+libtool-ltdl-devel
+ncurses-devel
+python3-devel
+xemacs

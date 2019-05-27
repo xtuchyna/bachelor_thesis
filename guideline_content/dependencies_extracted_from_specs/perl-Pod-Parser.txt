@@ -1,0 +1,17 @@
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Find)
+perl(File::Spec) >= 0.82
+perl(FileHandle)
+perl(IO::String)
+perl(Pod::Checker) >= 1.40
+perl(Test)
+perl(Test::More) >= 0.6
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

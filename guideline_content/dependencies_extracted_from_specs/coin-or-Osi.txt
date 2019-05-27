@@ -1,0 +1,10 @@
+atlas-devel
+blas-devel
+bzip2-devel
+coin-or-CoinUtils-devel
+doxygen
+glpk-devel
+lapack-devel
+pkgconfig
+readline-devel
+zlib-devel

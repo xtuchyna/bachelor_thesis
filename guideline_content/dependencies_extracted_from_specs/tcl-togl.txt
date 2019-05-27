@@ -1,0 +1,4 @@
+gcc
+libXmu-devel
+mesa-libGL-devel
+tk-devel

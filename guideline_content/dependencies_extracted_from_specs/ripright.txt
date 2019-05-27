@@ -1,0 +1,6 @@
+ImageMagick-devel
+cdparanoia-devel
+flac
+flac-devel
+libcurl-devel
+libdiscid-devel

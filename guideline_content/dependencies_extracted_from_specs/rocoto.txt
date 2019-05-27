@@ -1,0 +1,9 @@
+maven-local
+mvn(com.google.guava:guava)
+mvn(com.google.inject:guice)
+mvn(javax.inject:javax.inject)
+mvn(junit:junit)
+mvn(net.sf.cglib:cglib)
+mvn(org.99soft:oss-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.codehaus.mojo:buildnumber-maven-plugin)

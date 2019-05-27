@@ -1,0 +1,11 @@
+bzip2-devel
+e2fsprogs
+e2fsprogs-devel >= 1.41.4
+libattr-devel
+libblkid-devel
+libgcrypt-devel
+libuuid-devel
+lz4-devel
+lzo-devel
+xz-devel
+zlib-devel

@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(mocha)
+npm(strip-indent)
+npm(uglify-js)

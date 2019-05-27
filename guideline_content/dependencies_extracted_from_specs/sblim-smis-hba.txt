@@ -1,0 +1,12 @@
+autoconf
+automake
+binutils-devel
+bison
+curl-devel
+flex
+libhbaapi-devel
+libsysfs-devel
+libtool
+perl-interpreter
+sblim-cmpi-base-devel
+sblim-cmpi-devel

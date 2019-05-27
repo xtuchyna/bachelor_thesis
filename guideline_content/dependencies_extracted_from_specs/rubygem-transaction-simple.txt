@@ -1,0 +1,3 @@
+rubygem(minitest) >= 5.0.0
+rubygems
+rubygems-devel

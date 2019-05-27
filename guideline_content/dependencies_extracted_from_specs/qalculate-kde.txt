@@ -1,0 +1,4 @@
+desktop-file-utils
+gettext
+kdelibs4-devel
+pkgconfig(libqalculate)

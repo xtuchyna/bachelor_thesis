@@ -1,0 +1,7 @@
+/usr/bin/phpunit
+php(language) >= 5.3.0
+php-composer(fedora/autoloader)
+php-composer(paragonie/random_compat)
+php-mbstring
+php-pcre
+php-spl

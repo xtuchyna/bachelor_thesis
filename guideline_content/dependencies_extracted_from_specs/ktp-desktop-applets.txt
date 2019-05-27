@@ -1,0 +1,10 @@
+extra-cmake-modules
+kf5-kcoreaddons-devel
+kf5-ki18n-devel
+kf5-kpackage-devel
+kf5-kservice-devel
+kf5-kwindowsystem-devel
+kf5-plasma-devel
+kf5-rpm-macros
+qt5-qtbase-devel
+qt5-qtdeclarative-devel

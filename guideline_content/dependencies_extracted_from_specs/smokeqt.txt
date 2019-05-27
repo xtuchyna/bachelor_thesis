@@ -1,0 +1,12 @@
+cmake
+pkgconfig(QtDeclarative)
+pkgconfig(QtGui)
+pkgconfig(QtMultimedia)
+pkgconfig(QtScript)
+pkgconfig(QtWebKit)
+pkgconfig(QtXml)
+pkgconfig(phonon)
+pkgconfig(qimageblitz)
+pkgconfig(qwt)
+qscintilla-devel >= 2.4
+smokegen-devel >= 4.14.3

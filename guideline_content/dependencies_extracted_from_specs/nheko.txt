@@ -1,0 +1,13 @@
+cmake
+cmake(Qt5Concurrent)
+cmake(Qt5LinguistTools)
+cmake(Qt5Multimedia)
+cmake(Qt5Network)
+cmake(Qt5Widgets)
+desktop-file-utils
+doxygen
+gcc
+gcc-c++
+libappstream-glib
+lmdb-devel
+ninja-build

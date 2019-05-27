@@ -1,0 +1,9 @@
+desktop-file-utils
+doxygen
+fftw-devel
+libappstream-glib
+log4cpp-devel
+openjpeg2-devel
+qt5-qtbase-devel
+qt5-qttools-devel
+xorg-x11-server-Xvfb

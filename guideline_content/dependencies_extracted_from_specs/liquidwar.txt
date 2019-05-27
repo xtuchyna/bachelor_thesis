@@ -1,0 +1,7 @@
+allegro-devel
+allegro-tools
+desktop-file-utils
+python
+systemd
+tetex-latex
+texinfo

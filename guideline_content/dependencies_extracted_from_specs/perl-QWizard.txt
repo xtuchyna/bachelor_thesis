@@ -1,0 +1,4 @@
+perl(CGI)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl-generators

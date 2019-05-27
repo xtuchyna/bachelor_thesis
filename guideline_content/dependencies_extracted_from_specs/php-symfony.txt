@@ -1,0 +1,69 @@
+php(language) >= 5.3.9
+php-composer(doctrine/annotations) < 2.0
+php-composer(doctrine/annotations) >= 1.0
+php-composer(doctrine/cache) < 2.0
+php-composer(doctrine/cache) >= 1.0
+php-composer(doctrine/common) < 3.0
+php-composer(doctrine/common) >= 2.4
+php-composer(doctrine/data-fixtures) < 1.1.0
+php-composer(doctrine/data-fixtures) >= 1.0.0
+php-composer(doctrine/dbal) < 3.0
+php-composer(doctrine/dbal) >= 2.5.4
+php-composer(doctrine/doctrine-bundle) < 2.0
+php-composer(doctrine/doctrine-bundle) >= 1.2
+php-composer(doctrine/orm) < 3.0
+php-composer(doctrine/orm) >= 2.4.5
+php-composer(egulias/email-validator) < 2.0
+php-composer(egulias/email-validator) >= 1.2.1
+php-composer(monolog/monolog) < 2.0
+php-composer(monolog/monolog) >= 1.15.0
+php-composer(ocramius/proxy-manager) < 3.0
+php-composer(ocramius/proxy-manager) >= 1.0
+php-composer(phpdocumentor/reflection) < 2.0
+php-composer(phpdocumentor/reflection) >= 1.0.7
+php-composer(phpunit/phpunit) >= 4.8
+php-composer(psr/log) < 2.0
+php-composer(psr/log) >= 1.0.0-8
+php-composer(swiftmailer/swiftmailer) < 6.0
+php-composer(swiftmailer/swiftmailer) >= 5.4.1
+php-composer(symfony/polyfill-php54) < 2.0
+php-composer(symfony/polyfill-php54) >= 1.0
+php-composer(symfony/polyfill-php55) < 2.0
+php-composer(symfony/polyfill-php55) >= 1.0
+php-composer(symfony/polyfill-php56) < 2.0
+php-composer(symfony/polyfill-php56) >= 1.0
+php-composer(symfony/polyfill-php70) < 2.0
+php-composer(symfony/polyfill-php70) >= 1.0
+php-composer(symfony/polyfill-util) < 2.0
+php-composer(symfony/polyfill-util) >= 1.0
+php-composer(symfony/security-acl) < 3.0
+php-composer(symfony/security-acl) >= 2.7
+php-composer(twig/twig) < 2
+php-composer(twig/twig) >= 1.34
+php-ctype
+php-curl
+php-date
+php-dom
+php-fileinfo
+php-filter
+php-gd
+php-hash
+php-iconv
+php-intl
+php-json
+php-ldap
+php-libxml
+php-mbstring
+php-pcntl
+php-pcre
+php-pdo
+php-posix
+php-readline
+php-reflection
+php-session
+php-simplexml
+php-sockets
+php-spl
+php-sqlite3
+php-tokenizer
+php-xml

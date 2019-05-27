@@ -1,0 +1,8 @@
+gettext
+intltool
+libreport-cli >= 2.0.18-1
+libreport-gtk >= 2.0.18-1
+python3-dbus
+python3-devel
+python3-libreport >= 2.0.18-1
+python3-setuptools

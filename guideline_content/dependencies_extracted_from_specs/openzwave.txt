@@ -1,0 +1,6 @@
+doxygen
+gcc-c++
+graphviz
+hidapi-devel
+systemd-devel
+tinyxml-devel

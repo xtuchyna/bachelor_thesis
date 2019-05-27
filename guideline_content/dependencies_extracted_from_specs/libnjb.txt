@@ -1,0 +1,5 @@
+doxygen
+libusb-devel
+ncurses-devel
+systemd
+zlib-devel

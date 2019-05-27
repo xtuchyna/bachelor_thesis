@@ -1,0 +1,17 @@
+perl(Cache::Simple::TimedExpiry) >= 0.21
+perl(Class::Accessor)
+perl(Class::ReturnValue) >= 0.4
+perl(Clone)
+perl(DBD::SQLite)
+perl(DBI)
+perl(DBIx::DBSchema)
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(Scalar::Util)
+perl(Test::More) >= 0.52
+perl(Test::Pod)
+perl(Want)
+perl(capitalization) >= 0.03
+perl(inc::Module::Install)
+perl-generators

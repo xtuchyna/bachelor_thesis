@@ -1,0 +1,7 @@
+ruby(release)
+rubygem(actionpack)
+rubygem(activesupport)
+rubygem(minitest)
+rubygem(rack)
+rubygem(rack-test)
+rubygems-devel

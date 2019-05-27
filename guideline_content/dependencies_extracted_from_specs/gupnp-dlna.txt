@@ -1,0 +1,10 @@
+glib2-devel
+gobject-introspection-devel >= 1.36
+gssdp-devel
+gstreamer1-devel
+gstreamer1-plugins-base-devel
+gtk-doc
+gupnp-av-devel
+gupnp-devel
+libxml2-devel
+vala

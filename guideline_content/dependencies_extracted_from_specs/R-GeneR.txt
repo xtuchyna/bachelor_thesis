@@ -1,0 +1,2 @@
+R-devel >= 2.11.0
+tex(latex)

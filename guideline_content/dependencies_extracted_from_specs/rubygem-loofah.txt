@@ -1,0 +1,5 @@
+ruby(release)
+rubygem(minitest)
+rubygem(nokogiri) >= 1.6.6.2
+rubygem(rr)
+rubygems-devel

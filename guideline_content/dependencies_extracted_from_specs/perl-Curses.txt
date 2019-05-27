@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+ncurses-devel
+perl(Carp)
+perl(Config)
+perl(DynaLoader)
+perl(English)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(strict)
+perl-devel
+perl-generators
+perl-interpreter
+sed

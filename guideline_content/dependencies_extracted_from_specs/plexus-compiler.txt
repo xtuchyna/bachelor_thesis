@@ -1,0 +1,6 @@
+maven-local
+mvn(org.codehaus.plexus:plexus-component-metadata)
+mvn(org.codehaus.plexus:plexus-components:pom:)
+mvn(org.codehaus.plexus:plexus-container-default)
+mvn(org.codehaus.plexus:plexus-utils)
+mvn(org.eclipse.tycho:org.eclipse.jdt.core)

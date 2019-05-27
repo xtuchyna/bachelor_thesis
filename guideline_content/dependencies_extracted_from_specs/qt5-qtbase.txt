@@ -1,0 +1,55 @@
+cups-devel
+dbus-x11
+desktop-file-utils
+findutils
+firebird-devel
+freetds-devel
+libjpeg-devel
+libmng-devel
+libtiff-devel
+mariadb-connector-c-devel
+mesa-dri-drivers
+openssl-devel >= 1.1
+perl-generators
+pkgconfig(alsa)
+pkgconfig(atspi-2)
+pkgconfig(dbus-1)
+pkgconfig(egl)
+pkgconfig(fontconfig)
+pkgconfig(gbm)
+pkgconfig(gl)
+pkgconfig(glesv2)
+pkgconfig(glib-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(harfbuzz) >= 0.9.42
+pkgconfig(ice)
+pkgconfig(icu-i18n)
+pkgconfig(libdrm)
+pkgconfig(libinput)
+pkgconfig(libpcre) >= 8.0
+pkgconfig(libpcre2-posix) >= 10.20
+pkgconfig(libpng)
+pkgconfig(libproxy-1.0)
+pkgconfig(libpulse)
+pkgconfig(libpulse-mainloop-glib)
+pkgconfig(libsystemd)
+pkgconfig(libudev)
+pkgconfig(sm)
+pkgconfig(sqlite3) >= 3.7
+pkgconfig(xcb)
+pkgconfig(xcb-glx)
+pkgconfig(xcb-icccm)
+pkgconfig(xcb-image)
+pkgconfig(xcb-keysyms)
+pkgconfig(xcb-renderutil)
+pkgconfig(xcb-xkb)
+pkgconfig(xcb-xkb) >= 1.10
+pkgconfig(xkbcommon) >= 0.4.1
+pkgconfig(xkbcommon-x11) >= 0.4.1
+pkgconfig(xkeyboard-config)
+pkgconfig(zlib)
+postgresql-devel
+qt5-rpm-macros >= 5.7.1
+time
+unixODBC-devel
+xorg-x11-server-Xvfb

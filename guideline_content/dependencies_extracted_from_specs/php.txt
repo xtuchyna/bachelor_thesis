@@ -1,0 +1,49 @@
+aspell-devel >= 0.50.0
+autoconf
+automake
+bzip2
+bzip2-devel
+curl-devel >= 7.9
+cyrus-sasl-devel
+enchant-devel >= 1.2.4
+firebird-devel
+freetds-devel
+gcc
+gcc-c++
+gd-devel >= 2.1.0
+gmp-devel
+httpd-devel >= 2.0.46-1
+httpd-filesystem
+krb5-devel
+libacl-devel
+libargon2-devel
+libc-client-devel
+libdb-devel
+libedit-devel
+libicu-devel >= 4.0
+libstdc++-devel
+libtidy-devel
+libtool
+libtool-ltdl-devel
+libxml2-devel
+libxml2-devel >= 2.4.14-1
+libxslt-devel >= 1.0.18-1
+lmdb-devel
+net-snmp-devel
+nginx-filesystem
+oniguruma-devel
+openldap-devel
+openssl-devel
+pam-devel
+pcre-devel >= 6.6
+perl-interpreter
+pkgconfig(libsodium) >= 1.0.9
+postgresql-devel
+recode-devel
+smtpdaemon
+sqlite-devel >= 3.6.0
+systemd-devel
+systemtap-sdt-devel
+tokyocabinet-devel
+unixODBC-devel
+zlib-devel

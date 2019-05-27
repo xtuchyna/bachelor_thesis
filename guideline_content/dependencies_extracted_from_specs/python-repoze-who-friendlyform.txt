@@ -1,0 +1,6 @@
+python2-coverage
+python2-devel
+python2-nose
+python2-repoze-who
+python2-setuptools
+python2-zope-interface

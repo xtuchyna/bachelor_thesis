@@ -1,0 +1,10 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IPC::Open3)
+perl(Module::Runtime)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

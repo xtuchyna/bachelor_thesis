@@ -1,0 +1,12 @@
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(HTML::Entities)
+perl(HTML::Tagset)
+perl(HTML::WikiConverter) >= 0.67
+perl(Params::Validate)
+perl(Test::More)
+perl(URI)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators

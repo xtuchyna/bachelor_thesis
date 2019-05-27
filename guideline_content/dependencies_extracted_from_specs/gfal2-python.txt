@@ -1,0 +1,5 @@
+boost-devel
+cmake
+epydoc
+gfal2-devel >= 2.13.0
+python2-devel

@@ -1,0 +1,7 @@
+perl(Cwd)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Path)
+perl(File::Temp)
+perl(Getopt::Long)
+perl-generators

@@ -1,0 +1,23 @@
+ant
+antlr-tool
+antlr3-java
+antlr3-tool
+apache-commons-logging
+desktop-file-utils
+glazedlists
+java-devel >= 1.6.0
+jempbox
+jgoodies-forms >= 1.6.0
+jgoodies-looks >= 2.5.0
+jpackage-utils
+jpf
+jpfcodegen
+libreoffice-core
+libreoffice-sdk
+libreoffice-ure
+microba
+pdfbox
+ritopt
+spin
+stringtemplate4
+velocity

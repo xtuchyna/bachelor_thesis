@@ -1,0 +1,4 @@
+cyrus-sasl-devel
+libdb-devel
+openssl-devel
+perl

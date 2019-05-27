@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(did_you_mean)
+rubygem(minitest) > 5
+rubygem(rake)
+rubygems-devel

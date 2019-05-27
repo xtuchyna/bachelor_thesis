@@ -1,0 +1,19 @@
+boost-devel
+cmake >= 2.8.0
+curl-devel
+dcmtk-devel
+doxygen
+gtest-devel
+help2man
+jsoncpp-devel
+libjpeg-devel
+libpng-devel
+libsqlite3x-devel
+libuuid-devel
+libxml2-devel
+lua-devel >= 5.1.0
+mongoose-devel
+openssl-devel
+pugixml-devel
+python
+systemd

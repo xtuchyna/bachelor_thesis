@@ -1,0 +1,10 @@
+maven-local
+mvn(com.fasterxml:oss-parent:pom:)
+mvn(javax.xml.stream:stax-api)
+mvn(junit:junit)
+mvn(net.java.dev.msv:msv-core)
+mvn(net.java.dev.msv:msv-rngconverter)
+mvn(net.java.dev.msv:xsdlib)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.felix:org.osgi.core)
+mvn(org.codehaus.woodstox:stax2-api)

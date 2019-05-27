@@ -1,0 +1,5 @@
+desktop-file-utils
+mate-common
+mate-menus-devel
+pygobject3-devel
+python2-devel

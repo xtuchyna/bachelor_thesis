@@ -1,0 +1,2 @@
+pkgconfig(x11)
+pkgconfig(xproto)

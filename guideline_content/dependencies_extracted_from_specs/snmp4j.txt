@@ -1,0 +1,4 @@
+maven-local
+mvn(junit:junit)
+mvn(log4j:log4j:1.2.17)
+mvn(org.apache.felix:maven-bundle-plugin)

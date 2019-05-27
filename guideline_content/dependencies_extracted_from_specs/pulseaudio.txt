@@ -1,0 +1,43 @@
+GConf2-devel
+alsa-lib-devel
+automake
+avahi-devel
+dbus-devel
+doxygen
+gcc-c++
+glib2-devel
+gtk2-devel
+intltool
+jack-audio-connection-kit-devel
+libICE-devel
+libSM-devel
+libX11-devel
+libXi-devel
+libXt-devel
+libXtst-devel
+libasyncns-devel
+libatomic_ops-devel
+libatomic_ops-static
+libcap-devel
+libsndfile-devel
+libtdb-devel
+libtool
+libtool-ltdl-devel
+lirc-devel
+m4
+openssl-devel
+orc-devel
+pkgconfig
+pkgconfig(bash-completion)
+pkgconfig(bluez) >= 5.0
+pkgconfig(check)
+pkgconfig(fftw3f)
+pkgconfig(soxr)
+pkgconfig(speexdsp) >= 1.2
+pkgconfig(webrtc-audio-processing) >= 0.2
+sbc-devel
+systemd
+systemd-devel >= 184
+xcb-util-devel
+xmltoman
+xorg-x11-proto-devel

@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Path::Class)
+perl(Test::More) >= 0.88
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

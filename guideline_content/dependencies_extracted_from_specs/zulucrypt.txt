@@ -1,0 +1,17 @@
+cmake(KF5Notifications)
+cmake(KF5Wallet)
+desktop-file-utils
+gcc
+gcc-c++
+kf5-rpm-macros
+libgcrypt-devel
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Network)
+pkgconfig(Qt5Widgets)
+pkgconfig(blkid)
+pkgconfig(devmapper)
+pkgconfig(libcryptsetup)
+pkgconfig(libsecret-1)
+pkgconfig(lxqt-wallet) >= 2.0.0
+pkgconfig(pwquality)

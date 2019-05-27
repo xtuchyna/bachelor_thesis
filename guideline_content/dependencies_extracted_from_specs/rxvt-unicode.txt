@@ -1,0 +1,17 @@
+desktop-file-utils
+fontconfig-devel
+freetype-devel
+gdk-pixbuf2-devel
+glib2-devel
+libX11-devel
+libXft-devel
+libXrender-devel
+libXt-devel
+libev-source
+ncurses
+ncurses-base
+ncurses-devel
+perl(ExtUtils::Embed)
+perl-devel
+perl-generators
+xorg-x11-proto-devel

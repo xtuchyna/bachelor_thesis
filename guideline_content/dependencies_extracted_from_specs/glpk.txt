@@ -1,0 +1,6 @@
+autoconf
+automake
+gmp-devel
+libtool
+suitesparse-devel
+zlib-devel

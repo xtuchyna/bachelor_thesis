@@ -1,0 +1,7 @@
+freeglut-devel
+libSM-devel
+libXext-devel
+libXi-devel
+libXmu-devel
+libXxf86vm-devel
+libpng-devel

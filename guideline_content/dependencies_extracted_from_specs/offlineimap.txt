@@ -1,0 +1,7 @@
+asciidoc
+git
+gzip
+make
+python2-devel
+python2-docutils
+python2-sphinx

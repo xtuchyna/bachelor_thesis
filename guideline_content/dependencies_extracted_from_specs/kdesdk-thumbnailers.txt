@@ -1,0 +1,8 @@
+desktop-file-utils
+extra-cmake-modules
+gettext-devel
+kf5-kconfig-devel
+kf5-ki18n-devel
+kf5-kio-devel
+kf5-rpm-macros
+pkgconfig(Qt5Widgets)

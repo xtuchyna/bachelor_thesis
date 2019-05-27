@@ -1,0 +1,15 @@
+boost-devel
+cmake
+cppunit-devel
+freeimage-devel
+freetype-devel
+glew-devel
+libGLU-devel
+libXaw-devel
+libXrandr-devel
+libXxf86vm-devel
+libatomic
+ois-devel
+openexr-devel
+tinyxml-devel
+zziplib-devel

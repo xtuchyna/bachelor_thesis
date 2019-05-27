@@ -1,0 +1,4 @@
+cminpack-devel
+erfa-devel
+gcc-gfortran
+perl-interpreter

@@ -1,0 +1,5 @@
+ghc-Cabal-devel
+ghc-byteable-devel
+ghc-bytestring-devel
+ghc-memory-devel
+ghc-rpm-macros

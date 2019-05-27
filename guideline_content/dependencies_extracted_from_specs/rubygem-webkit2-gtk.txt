@@ -1,0 +1,8 @@
+/usr/bin/xvfb-run
+ruby
+rubygem(gobject-introspection)
+rubygem(gtk3)
+rubygem(test-unit)
+rubygem-glib2-devel
+rubygems-devel
+webkitgtk4

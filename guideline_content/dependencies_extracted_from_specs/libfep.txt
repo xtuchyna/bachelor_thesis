@@ -1,0 +1,5 @@
+gobject-introspection-devel
+pkgconfig(gee-1.0)
+pkgconfig(ncurses)
+vala-devel
+vala-tools

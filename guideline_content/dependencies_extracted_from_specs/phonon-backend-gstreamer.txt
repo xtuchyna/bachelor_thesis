@@ -1,0 +1,14 @@
+automoc4
+cmake >= 2.8.9
+extra-cmake-modules
+gcc-c++
+kf5-rpm-macros
+pkgconfig(Qt5OpenGL)
+pkgconfig(Qt5X11Extras)
+pkgconfig(QtOpenGL)
+pkgconfig(gstreamer-1.0)
+pkgconfig(gstreamer-app-1.0)
+pkgconfig(gstreamer-audio-1.0)
+pkgconfig(gstreamer-video-1.0)
+pkgconfig(phonon) >= 4.7.80
+pkgconfig(phonon4qt5) >= 4.7.80

@@ -1,0 +1,6 @@
+gettext
+intltool
+python3-devel
+python3-gobject-base
+python3-pocketlint
+python3-setuptools

@@ -1,0 +1,7 @@
+perl(AutoLoader)
+perl(Exporter)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl-generators

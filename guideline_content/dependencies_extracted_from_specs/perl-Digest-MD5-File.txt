@@ -1,0 +1,9 @@
+perl(Carp)
+perl(Digest::MD5)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(LWP::UserAgent)
+perl(Test::More)
+perl-generators

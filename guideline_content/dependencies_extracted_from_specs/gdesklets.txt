@@ -1,0 +1,17 @@
+autoconf
+automake
+desktop-file-utils
+gettext
+gnome-python2-devel
+gvfs-devel
+intltool
+libXau-devel
+libXdmcp-devel
+libappstream-glib
+libcap-devel
+libgnome-devel > 2.6.0
+libgtop2-devel >= 2.8.0
+librsvg2-devel
+libtool
+pygtk2-devel > 2.4.0
+python2-devel > 2.0.0

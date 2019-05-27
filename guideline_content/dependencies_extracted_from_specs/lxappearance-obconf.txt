@@ -1,0 +1,9 @@
+gettext
+gtk2-devel
+intltool
+libSM-devel
+libtool
+openbox-devel >= 3.5.2
+pkgconfig(gtk+-2.0)
+pkgconfig(lxappearance)
+pkgconfig(obrender-3.5)

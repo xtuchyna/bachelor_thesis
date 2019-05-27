@@ -1,0 +1,5 @@
+python-devel
+python-pbr
+python-setuptools
+python-sphinx
+systemd

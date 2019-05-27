@@ -1,0 +1,6 @@
+ruby(rubygems)
+ruby-RMagick
+rubygem(builder)
+rubygem(minitest)
+rubygem(rspec)
+rubygems-devel

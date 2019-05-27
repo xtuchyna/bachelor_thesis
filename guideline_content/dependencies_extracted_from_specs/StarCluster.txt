@@ -1,0 +1,16 @@
+python-boto >= 2.23.0
+python-crypto >= 2.5
+python-decorator >= 3.4.0
+python-iptools >= 0.6.1
+python-iso8601 >= 0.1.8
+python-jinja2 >= 2.7
+python-optcomplete >= 1.2
+python-paramiko >= 1.12.1
+python-pytest-cov
+python-pytest-flakes
+python-pytest-pep8
+python-scp >= 0.7.1
+python-sphinx
+python-sphinxcontrib-issuetracker
+python-workerpool >= 0.9.2
+python2-devel

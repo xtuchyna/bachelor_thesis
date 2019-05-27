@@ -1,0 +1,7 @@
+autoconf
+automake
+glib2-devel
+libmpdclient-devel >= 2.2
+libsoup-devel
+libtool
+systemd-units

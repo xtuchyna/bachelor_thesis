@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext
+kdelibs3-devel
+scons
+wireless-tools-devel

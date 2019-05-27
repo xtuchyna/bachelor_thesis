@@ -1,0 +1,11 @@
+alsa-lib-devel
+clthreads-devel
+clxclient-devel
+desktop-file-utils
+fftw-devel
+gcc-c++
+jack-audio-connection-kit-devel
+libX11-devel
+libXft-devel
+libpng-devel
+libsndfile-devel

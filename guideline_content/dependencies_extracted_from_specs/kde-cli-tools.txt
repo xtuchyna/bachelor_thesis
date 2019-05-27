@@ -1,0 +1,14 @@
+extra-cmake-modules
+kf5-kactivities-devel
+kf5-kcmutils-devel
+kf5-kconfig-devel
+kf5-kdelibs4support-devel
+kf5-kdesu-devel
+kf5-ki18n-devel
+kf5-kiconthemes-devel
+kf5-kinit-devel >= 5.10.0-3
+kf5-kwindowsystem-devel
+kf5-rpm-macros
+qt5-qtbase-devel
+qt5-qtsvg-devel
+qt5-qtx11extras-devel

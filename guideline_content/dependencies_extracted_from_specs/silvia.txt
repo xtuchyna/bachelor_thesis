@@ -1,0 +1,7 @@
+cppunit-devel
+gmp-devel
+libnfc-devel
+libtool
+libxml2-devel
+openssl-devel
+pcsc-lite-devel

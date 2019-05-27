@@ -1,0 +1,6 @@
+perl(List::Util)
+perl(Module::Build)
+perl(Module::Load)
+perl(Test::More)
+perl(autobox)
+perl-generators

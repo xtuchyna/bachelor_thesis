@@ -1,0 +1,5 @@
+ruby(release)
+ruby-devel
+rubygem(bacon)
+rubygem(debug_inspector)
+rubygems-devel

@@ -1,0 +1,11 @@
+autoconf
+automake
+bind-export-devel
+doxygen
+krb5-devel
+libcap-ng-devel
+libtool
+openldap-devel
+pkgconfig(libsystemd)
+systemd
+systemd-devel

@@ -1,0 +1,15 @@
+Cython
+hdf5-devel >= 1.8.3
+liblzf-devel
+numpy >= 1.6.1
+python-pkgconfig
+python-six
+python-sphinx
+python-tools
+python2-devel >= 2.6
+python3-Cython
+python3-devel >= 3.2
+python3-numpy >= 1.6.1
+python3-pkgconfig
+python3-six
+python3-sphinx

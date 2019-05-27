@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(chalk)
+npm(figures)
+npm(gzip-size)
+npm(pretty-bytes)

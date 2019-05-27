@@ -1,0 +1,4 @@
+/usr/bin/rpcgen
+avahi-devel
+gcc
+gnupg2

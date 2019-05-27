@@ -1,0 +1,6 @@
+lua-filesystem
+lua-json
+lua-posix
+lua-term
+tcl
+zsh

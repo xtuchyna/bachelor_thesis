@@ -1,0 +1,13 @@
+coreutils
+findutils
+perl(Exporter)
+perl(File::Spec)
+perl(List::Util)
+perl(Module::Build)
+perl(Storable)
+perl(Test)
+perl(base)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

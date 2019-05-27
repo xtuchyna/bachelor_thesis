@@ -1,0 +1,6 @@
+coreutils
+desktop-file-utils
+glibc-common
+perl-generators
+perl-interpreter
+sed

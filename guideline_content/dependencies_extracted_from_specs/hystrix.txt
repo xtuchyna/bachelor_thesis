@@ -1,0 +1,11 @@
+gradle-local
+mvn(com.fasterxml.jackson.core:jackson-core)
+mvn(com.netflix.archaius:archaius-core)
+mvn(commons-configuration:commons-configuration)
+mvn(io.reactivex:rxjava)
+mvn(javax.servlet:servlet-api)
+mvn(junit:junit)
+mvn(log4j:log4j)
+mvn(org.mockito:mockito-all)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-log4j12)

@@ -1,0 +1,10 @@
+perl(Exporter)
+perl(ExtUtils::CBuilder) >= 0.15
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(XSLoader)
+perl(parent)
+perl-devel
+perl-generators

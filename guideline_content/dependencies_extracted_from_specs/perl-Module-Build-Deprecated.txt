@@ -1,0 +1,14 @@
+perl(CPAN::Meta::YAML) >= 0.002
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Module::Build) >= 0.3601
+perl(Module::Metadata)
+perl(Test::More)
+perl(base)
+perl(parent)
+perl(strict)
+perl(version) >= 0.87
+perl(warnings)
+perl-generators
+perl-interpreter

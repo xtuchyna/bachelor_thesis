@@ -1,0 +1,6 @@
+gcc-c++
+python2
+qt5-qtbase-devel >= 5.10.1
+qt5-qtbase-private-devel
+qt5-qtxmlpatterns-devel >= 5.10.1
+qt5-rpm-macros >= 5.10.1

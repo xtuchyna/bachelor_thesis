@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(actionmailer)
+rubygem(activerecord)
+rubygem(railties)
+rubygem(rspec-rails)
+rubygem(sqlite3)
+rubygems-devel

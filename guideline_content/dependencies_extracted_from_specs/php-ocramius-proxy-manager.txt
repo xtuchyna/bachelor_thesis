@@ -1,0 +1,10 @@
+/usr/bin/phpab
+php(language) >= 7.1.0
+php-composer(ocramius/generated-hydrator) >= 2
+php-composer(phpunit/phpunit) >= 5.6.4
+php-composer(zendframework/zend-code) < 4
+php-composer(zendframework/zend-code) >= 3.1.0
+php-composer(zendframework/zend-loader)
+php-pcre
+php-reflection
+php-spl

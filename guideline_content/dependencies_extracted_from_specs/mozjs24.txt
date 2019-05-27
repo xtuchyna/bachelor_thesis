@@ -1,0 +1,5 @@
+/usr/bin/python
+/usr/bin/zip
+perl(Getopt::Long)
+pkgconfig(nspr)
+readline-devel

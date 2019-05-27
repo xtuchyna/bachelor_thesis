@@ -1,0 +1,9 @@
+maven-local
+mvn(org.apache.felix:felix-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.felix:org.apache.felix.configadmin)
+mvn(org.apache.felix:org.apache.felix.framework)
+mvn(org.apache.felix:org.apache.felix.utils)
+mvn(org.mockito:mockito-all)
+mvn(org.osgi:org.osgi.compendium)
+mvn(org.osgi:org.osgi.core)

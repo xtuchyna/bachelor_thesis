@@ -1,0 +1,31 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Convert::BinHex)
+perl(Cwd)
+perl(Digest::MD5)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Path) >= 1
+perl(File::Spec) >= 0.6
+perl(File::Temp) >= 0.18
+perl(IO::File) >= 1.13
+perl(IO::Handle)
+perl(IO::Select)
+perl(IO::Socket::INET)
+perl(MIME::Base64) >= 3.03
+perl(MIME::QuotedPrint)
+perl(Mail::Field) >= 1.05
+perl(Mail::Header) >= 1.06
+perl(Mail::Internet) >= 1.28
+perl(Pod::Man)
+perl(Test::Deep)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(lib)
+perl-MailTools >= 1.50
+perl-generators
+perl-interpreter

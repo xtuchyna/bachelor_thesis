@@ -1,0 +1,10 @@
+gettext
+glib2-devel
+gnutls-devel
+gtk-doc
+intltool
+libgcrypt-devel
+libsoup-devel >= 2.2
+libtool
+libxml2-devel
+pkgconfig >= 1:0.8

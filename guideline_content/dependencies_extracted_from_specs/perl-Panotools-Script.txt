@@ -1,0 +1,9 @@
+desktop-file-utils
+perl(ExtUtils::MakeMaker)
+perl(Image::ExifTool) >= 6
+perl(Image::Size) >= 2.9
+perl(LWP::UserAgent) >= 5
+perl(Math::Trig)
+perl(Test::More)
+perl(URI) >= 1
+perl-generators

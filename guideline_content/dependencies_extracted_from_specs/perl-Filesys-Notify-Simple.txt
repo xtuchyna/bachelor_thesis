@@ -1,0 +1,6 @@
+perl(ExtUtils::MakeMaker) >= 6.42
+perl(Filter::Util::Call)
+perl(Linux::Inotify2)
+perl(Test::More)
+perl(Test::SharedFork)
+perl-generators

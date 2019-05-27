@@ -1,0 +1,7 @@
+R-Rcpp-devel
+R-devel
+R-htmltools
+R-testthat
+R-withr
+cairo-devel
+tex(latex)

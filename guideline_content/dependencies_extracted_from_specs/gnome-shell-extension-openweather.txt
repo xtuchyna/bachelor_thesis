@@ -1,0 +1,5 @@
+autoconf
+automake
+gettext-devel
+glib2-devel
+gnome-common >= 3.7.4

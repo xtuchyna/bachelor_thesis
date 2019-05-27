@@ -1,0 +1,9 @@
+glib2 >= 2.6.0
+gnome-python2-bonobo >= 2.10.0
+gnome-python2-devel >= 2.10.0
+gnome-python2-gnome >= 2.10.0
+gtk2 >= 2.4.0
+gtkspell-devel >= 2.0.7
+libbonoboui-devel
+pygtk2-devel
+python2-devel

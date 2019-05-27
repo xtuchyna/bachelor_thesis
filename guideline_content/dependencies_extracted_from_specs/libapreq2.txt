@@ -1,0 +1,9 @@
+apr-devel >= 0.9.4
+apr-util-devel >= 0.9.4
+httpd-devel >= 2.0.48
+libtool
+mod_perl-devel >= 2.0.0-0.rc5
+perl(Apache::Test)
+perl(ExtUtils::XSBuilder)
+perl-devel
+perl-generators

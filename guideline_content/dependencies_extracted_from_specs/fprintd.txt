@@ -1,0 +1,10 @@
+autoconf
+automake
+dbus-glib-devel
+gtk-doc
+intltool
+libfprint-devel >= 0.1.0
+libtool
+pam-devel
+perl-podlators
+polkit-devel

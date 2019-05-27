@@ -1,0 +1,15 @@
+maven-enforcer-plugin
+maven-local
+maven-plugin-bundle
+maven-plugin-plugin
+maven-surefire-report-plugin
+mvn(junit:junit)
+mvn(log4j:log4j:1.2.17)
+mvn(org.apache.ant:ant)
+mvn(org.apache.ant:ant-launcher)
+mvn(org.apache.commons:commons-ognl)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.apache.maven:maven-project)
+mvn(org.hsqldb:hsqldb)
+mvn(org.mybatis:mybatis)
+mvn(org.mybatis:mybatis-parent:pom:)

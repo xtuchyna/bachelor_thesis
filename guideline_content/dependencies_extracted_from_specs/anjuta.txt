@@ -1,0 +1,27 @@
+autogen
+bison
+chrpath
+desktop-file-utils
+devhelp-devel >= 3.0.0
+flex
+gettext
+glade-devel
+gobject-introspection-devel
+graphviz-devel
+gtksourceview3-devel >= 2.91.8
+intltool
+itstool
+libappstream-glib
+libgda-devel >= 5.1.0
+libgdl-devel >= 2.91.4
+libuuid-devel
+libxml2-devel
+neon-devel
+perl(Locale::gettext)
+perl(XML::Parser)
+perl-generators
+python3-devel
+sqlite-devel
+subversion-devel
+vala-devel
+vte291-devel

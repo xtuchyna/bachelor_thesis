@@ -1,0 +1,5 @@
+ORBit2-devel
+glib2-devel
+libIDL-devel
+libtool
+python2-devel

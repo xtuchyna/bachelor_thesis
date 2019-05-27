@@ -1,0 +1,5 @@
+gcc
+perl-generators
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+zlib-devel

@@ -1,0 +1,6 @@
+autoconf
+automake
+glew-devel >= 1.5.1
+gtk-doc
+libtool
+orc-devel >= 0.4.16

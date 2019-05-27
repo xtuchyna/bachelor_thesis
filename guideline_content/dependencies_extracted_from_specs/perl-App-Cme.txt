@@ -1,0 +1,29 @@
+coreutils
+perl(App::Cmd::Setup)
+perl(App::Cmd::Tester)
+perl(Config::Model) >= 2.116
+perl(Config::Model::Lister)
+perl(Config::Model::ObjTreeScanner)
+perl(Encode)
+perl(File::HomeDir)
+perl(Log::Log4perl)
+perl(Module::Build) >= 0.34
+perl(Path::Tiny)
+perl(Pod::POM)
+perl(Pod::POM::View::Text)
+perl(Probe::Perl)
+perl(Scalar::Util)
+perl(Test::Command) >= 0.08
+perl(Test::File::Contents)
+perl(Test::More)
+perl(Tie::Hash)
+perl(YAML)
+perl(base)
+perl(charnames)
+perl(open)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

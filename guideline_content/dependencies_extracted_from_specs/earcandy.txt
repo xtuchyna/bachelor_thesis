@@ -1,0 +1,4 @@
+desktop-file-utils
+intltool
+python-devel
+python-distutils-extra

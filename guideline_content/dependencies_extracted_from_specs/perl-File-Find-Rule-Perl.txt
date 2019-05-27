@@ -1,0 +1,12 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Find::Rule) >= 0.20
+perl(File::Spec) >= 0.82
+perl(File::Spec::Functions)
+perl(File::Spec::Unix)
+perl(Params::Util) >= 0.38
+perl(Parse::CPAN::Meta) >= 1.38
+perl(Test::More) >= 0.47
+perl(constant)
+perl(lib)
+perl-generators

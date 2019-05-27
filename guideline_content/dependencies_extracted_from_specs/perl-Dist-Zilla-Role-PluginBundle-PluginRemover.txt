@@ -1,0 +1,20 @@
+make
+perl(:VERSION) >= 5.6
+perl(Dist::Zilla::Role::PluginBundle)
+perl(Dist::Zilla::Role::PluginBundle::Easy)
+perl(Dist::Zilla::Util)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(List::Util) >= 1.45
+perl(Moose)
+perl(Moose::Role)
+perl(Test::More) >= 0.96
+perl(blib) >= 1.01
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

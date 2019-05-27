@@ -1,0 +1,2 @@
+(crate(unicode-width) >= 0.1.3 with crate(unicode-width) < 0.2.0)
+rust-packaging

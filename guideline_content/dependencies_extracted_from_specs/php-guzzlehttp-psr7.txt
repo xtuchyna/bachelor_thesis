@@ -1,0 +1,10 @@
+php(language) >= 5.4.0
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(psr/http-message) < 2.0
+php-composer(psr/http-message) >= 1.0
+php-hash
+php-pcre
+php-reflection
+php-spl
+php-zlib

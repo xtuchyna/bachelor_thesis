@@ -1,0 +1,6 @@
+PyQt4
+desktop-file-utils
+python-setuptools
+python-simplejson
+python-sqlalchemy
+python2-devel

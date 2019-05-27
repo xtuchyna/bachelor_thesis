@@ -1,0 +1,5 @@
+ghc-Cabal-devel
+ghc-containers-devel
+ghc-hashable-devel
+ghc-rpm-macros
+ghc-unordered-containers-devel

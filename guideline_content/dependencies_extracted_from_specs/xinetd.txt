@@ -1,0 +1,4 @@
+autoconf
+automake
+libselinux-devel >= 1.30
+systemd-units

@@ -1,0 +1,9 @@
+GConf2-devel
+cairo-devel
+chrpath
+desktop-file-utils
+gettext
+gobject-introspection-devel
+gtk3-devel >= 3.0.0
+intltool
+libxklavier-devel

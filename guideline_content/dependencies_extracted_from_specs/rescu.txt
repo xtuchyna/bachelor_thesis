@@ -1,0 +1,5 @@
+maven-local
+mvn(com.fasterxml.jackson.core:jackson-databind)
+mvn(javax.ws.rs:jsr311-api)
+mvn(net.iharder:base64)
+mvn(org.slf4j:slf4j-api)

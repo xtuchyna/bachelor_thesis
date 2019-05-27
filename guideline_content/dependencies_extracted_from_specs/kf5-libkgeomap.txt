@@ -1,0 +1,13 @@
+extra-cmake-modules
+gettext
+kf5-kconfig-devel
+kf5-ki18n-devel
+kf5-kio-devel
+kf5-kservice-devel
+kf5-ktextwidgets-devel
+kf5-kxmlgui-devel
+kf5-rpm-macros
+marble-astro-devel >= 1:17.12
+marble-widget-qt5-devel >= 1:17.12
+pkgconfig(Qt5WebKit)
+pkgconfig(Qt5Xml)

@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(cucumber)
+rubygem(mocha)
+rubygem(narray)
+rubygem(rspec2)
+rubygem(simplecov)
+rubygems-devel

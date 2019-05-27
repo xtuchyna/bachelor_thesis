@@ -1,0 +1,6 @@
+/usr/bin/perl
+fontpackages-devel
+perl
+sazanami-gothic-fonts = 0.20040629
+vlgothic-p-fonts = 20141206
+xorg-x11-font-utils

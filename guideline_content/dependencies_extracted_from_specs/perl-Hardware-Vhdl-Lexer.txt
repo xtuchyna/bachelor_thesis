@@ -1,0 +1,9 @@
+perl(Carp)
+perl(Class::Std)
+perl(ExtUtils::MakeMaker)
+perl(Readonly) >= 1.03
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl-generators

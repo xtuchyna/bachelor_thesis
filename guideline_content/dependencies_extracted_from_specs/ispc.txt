@@ -1,0 +1,9 @@
+bison
+clang-devel
+flex
+gcc-c++
+llvm-devel
+make
+ncurses-devel
+python
+zlib-devel

@@ -1,0 +1,18 @@
+make
+perl(:VERSION) >= 5.5.3
+perl(Carp)
+perl(Config)
+perl(Cwd) >= 3.12
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Path) >= 2.01
+perl(File::Spec) >= 3.12
+perl(File::Spec::Functions)
+perl(File::Temp) >= 0.19
+perl(File::Which) >= 0.05
+perl(Test::More) >= 0.90
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

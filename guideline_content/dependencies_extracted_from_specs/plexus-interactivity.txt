@@ -1,0 +1,5 @@
+maven-local
+mvn(jline:jline) >= 2
+mvn(org.codehaus.plexus:plexus-component-api)
+mvn(org.codehaus.plexus:plexus-components:pom:)
+mvn(org.codehaus.plexus:plexus-utils)

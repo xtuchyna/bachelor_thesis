@@ -1,0 +1,9 @@
+maven-local
+mvn(com.sun.xml.bind:jaxb-impl)
+mvn(com.sun.xml.bind:jaxb-xjc)
+mvn(javax.xml.bind:jaxb-api)
+mvn(junit:junit)
+mvn(org.jvnet.annox:annox) >= 1.0.1
+mvn(org.jvnet.jaxb2.maven2:maven-jaxb2-plugin-testing)
+mvn(org.jvnet.jaxb2_commons:jaxb2-basics-tools)
+mvn(org.sonatype.oss:oss-parent:pom:)

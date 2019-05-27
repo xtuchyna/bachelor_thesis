@@ -1,0 +1,5 @@
+desktop-file-utils
+gtk2-devel
+libexif-devel
+libpng-devel
+texinfo

@@ -1,0 +1,16 @@
+coreutils
+findutils
+gcc
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(Scalar::Util)
+perl(Test::Simple)
+perl(XSLoader)
+perl(base)
+perl(common::sense)
+perl-devel
+perl-generators
+perl-interpreter

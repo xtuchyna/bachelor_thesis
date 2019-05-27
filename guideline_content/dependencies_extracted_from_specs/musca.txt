@@ -1,0 +1,3 @@
+coreutils
+libX11-devel
+sed

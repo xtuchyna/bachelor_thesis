@@ -1,0 +1,5 @@
+ghc-Cabal-devel
+ghc-primitive-devel
+ghc-random-devel
+ghc-rpm-macros
+ghc-time-devel

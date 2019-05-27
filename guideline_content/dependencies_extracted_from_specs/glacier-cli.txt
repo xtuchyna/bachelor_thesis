@@ -1,0 +1,5 @@
+python-boto
+python-iso8601
+python-mock
+python-nose
+python-sqlalchemy

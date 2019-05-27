@@ -1,0 +1,14 @@
+findutils
+make
+perl(Class::Accessor::Fast)
+perl(Class::Data::Inheritable)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(Module::Pluggable)
+perl(Test::More)
+perl(Test::Most)
+perl(base)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

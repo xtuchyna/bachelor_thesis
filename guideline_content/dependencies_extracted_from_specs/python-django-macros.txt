@@ -1,0 +1,7 @@
+dos2unix
+python3-devel
+python3dist(coverage)
+python3dist(django)
+python3dist(django-setuptest)
+python3dist(pep8)
+python3dist(setuptools)

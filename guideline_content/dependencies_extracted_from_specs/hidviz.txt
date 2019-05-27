@@ -1,0 +1,8 @@
+ImageMagick
+asio-devel
+cmake
+desktop-file-utils
+gcc-c++
+libusbx-devel
+protobuf-devel
+qt5-qtbase-devel

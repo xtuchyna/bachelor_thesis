@@ -1,0 +1,8 @@
+desktop-file-utils
+gettext
+intltool
+pkgconfig(gmodule-export-2.0)
+pkgconfig(gtk+-2.0)
+pkgconfig(libnotify)
+pkgconfig(xmms2-client)
+pkgconfig(xmms2-client-glib)

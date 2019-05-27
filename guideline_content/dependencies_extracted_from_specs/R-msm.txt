@@ -1,0 +1,5 @@
+R-devel >= 3.4.0
+R-expm
+R-mvtnorm
+R-survival
+tetex-latex

@@ -1,0 +1,13 @@
+glib2-devel
+gobject-introspection-devel
+gtk-doc
+gtk3-devel
+intltool
+libX11-devel
+libgnomekbd-devel
+meson
+pygobject3-devel
+python2-devel
+python3-devel
+python3-gobject
+vala

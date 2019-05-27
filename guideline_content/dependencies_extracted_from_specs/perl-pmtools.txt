@@ -1,0 +1,21 @@
+coreutils
+findutils
+less
+make
+perl(Carp)
+perl(Config)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Spec)
+perl(FindBin)
+perl(Getopt::Long)
+perl(Getopt::Std)
+perl(Test::More)
+perl(constant) >= 1.01
+perl(lib)
+perl(perlfaq)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

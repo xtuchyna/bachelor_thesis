@@ -1,0 +1,6 @@
+GConf2-devel
+gettext
+gtk2-devel >= 2.12.0
+intltool
+libgsf-devel >= 1.14.9
+librsvg2-devel

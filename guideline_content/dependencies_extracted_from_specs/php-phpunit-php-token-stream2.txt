@@ -1,0 +1,6 @@
+php(language) >= 7.0
+php-fedora-autoloader-devel
+php-pcre
+php-spl
+php-tokenizer
+phpunit6 >= 6.2.4

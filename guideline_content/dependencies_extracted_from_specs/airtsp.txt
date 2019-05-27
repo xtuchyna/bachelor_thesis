@@ -1,0 +1,14 @@
+boost-devel
+cmake
+doxygen
+ghostscript
+graphviz
+python-devel
+readline-devel
+soci-mysql-devel
+soci-sqlite3-devel
+stdair-devel
+tex(latex)
+tex(sectsty.sty)
+tex(tocloft.sty)
+tex(xtab.sty)

@@ -1,0 +1,16 @@
+gdk-pixbuf2
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-gdk-pixbuf
+mingw32-glib2
+mingw32-gtk3
+mingw32-libcroco
+mingw32-pango
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-gdk-pixbuf
+mingw64-glib2
+mingw64-gtk3
+mingw64-libcroco
+mingw64-pango
+perl-File-Temp

@@ -1,0 +1,5 @@
+gstreamer1-devel >= 1.8.0
+pkgconfig
+pygobject3-devel
+python2-devel >= 2.7
+python3-devel

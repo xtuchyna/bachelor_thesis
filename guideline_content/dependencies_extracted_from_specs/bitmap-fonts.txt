@@ -1,0 +1,2 @@
+fontpackages-devel
+xorg-x11-font-utils

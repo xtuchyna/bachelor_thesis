@@ -1,0 +1,6 @@
+cups-devel
+desktop-file-utils >= 0.2.92
+fltk-devel
+libjpeg-devel
+libpng-devel
+zlib-devel

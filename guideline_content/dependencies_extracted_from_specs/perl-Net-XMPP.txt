@@ -1,0 +1,21 @@
+perl(Authen::SASL) >= 2.12
+perl(Carp)
+perl(Digest::SHA)
+perl(Exporter)
+perl(FileHandle)
+perl(LWP::Online)
+perl(MIME::Base64)
+perl(Module::Build)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Time::Local)
+perl(XML::Stream) >= 1.24
+perl(YAML::Tiny)
+perl(base)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

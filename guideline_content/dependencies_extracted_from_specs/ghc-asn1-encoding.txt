@@ -1,0 +1,9 @@
+ghc-Cabal-devel
+ghc-asn1-types-devel
+ghc-bytestring-devel
+ghc-hourglass-devel
+ghc-mtl-devel
+ghc-rpm-macros
+ghc-tasty-devel
+ghc-tasty-quickcheck-devel
+ghc-text-devel

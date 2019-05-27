@@ -1,0 +1,4 @@
+cairo-devel >= 1.4.0
+gettext
+gtk2-devel
+pkgconfig

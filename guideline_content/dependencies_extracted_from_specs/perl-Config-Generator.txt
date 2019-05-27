@@ -1,0 +1,9 @@
+perl(Config::General)
+perl(Config::Validator)
+perl(ExtUtils::MakeMaker)
+perl(JSON)
+perl(No::Worries)
+perl(Params::Validate)
+perl(Test::More)
+perl(XML::Parser)
+perl-generators

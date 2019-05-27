@@ -1,0 +1,13 @@
+automake
+bison
+bzip2-devel
+e2fsprogs-devel
+libacl-devel
+libattr-devel
+libxml2-devel
+lz4-devel
+lzo-devel
+openssl-devel
+sharutils
+xz-devel
+zlib-devel

@@ -1,0 +1,27 @@
+make
+perl(:VERSION) >= 5.8
+perl(Config)
+perl(Env)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(File::Temp)
+perl(File::Which)
+perl(IO::Handle)
+perl(POSIX)
+perl(PerlIO)
+perl(SelectSaver)
+perl(Symbol)
+perl(Test::More) >= 0.88
+perl(Tie::Handle)
+perl(base)
+perl(bignum)
+perl(blib)
+perl(bytes)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

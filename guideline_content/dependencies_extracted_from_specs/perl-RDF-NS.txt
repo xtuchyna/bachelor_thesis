@@ -1,0 +1,17 @@
+coreutils
+perl(:VERSION) >= 5.12.0
+perl(Carp)
+perl(File::ShareDir) >= 1.00
+perl(Module::Build::Tiny) >= 0.039
+perl(RDF::Trine)
+perl(RDF::Trine::Node::Blank)
+perl(RDF::Trine::Node::Resource)
+perl(Scalar::Util)
+perl(Test::More)
+perl(URI)
+perl(base)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

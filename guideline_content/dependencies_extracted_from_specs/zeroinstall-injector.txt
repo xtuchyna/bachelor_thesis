@@ -1,0 +1,11 @@
+bzip2
+desktop-file-utils
+gettext
+gnupg
+gzip
+pygtk2
+python-coverage
+python-devel >= 2.6
+tar
+xdg-utils
+xz-lzma-compat

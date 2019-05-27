@@ -1,0 +1,35 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Compress::Raw::Bzip2) >= 2.081
+perl(Compress::Raw::Zlib) >= 2.081
+perl(Config)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 5.16
+perl(Fcntl)
+perl(File::Copy)
+perl(File::Glob)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(IO::File)
+perl(IO::Handle)
+perl(List::Util)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Symbol)
+perl(Test::NoWarnings)
+perl(Test::Pod) >= 1.00
+perl(bytes)
+perl(constant)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(threads::shared)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

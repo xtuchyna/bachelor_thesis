@@ -1,0 +1,34 @@
+make
+perl(B)
+perl(B::Deparse)
+perl(CPAN::Meta::Requirements)
+perl(Carp)
+perl(Class::Method::Modifiers) >= 1.10
+perl(Class::XSAccessor) >= 1.18
+perl(Class::XSAccessor::Array)
+perl(Config)
+perl(Data::Dumper)
+perl(Devel::GlobalDestruction) >= 0.11
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(FindBin)
+perl(Import::Into) >= 1.002
+perl(Module::Runtime) >= 0.014
+perl(Role::Tiny) >= 2.000004
+perl(Scalar::Util)
+perl(Sub::Defer) >= 2.003001
+perl(Sub::Name)
+perl(Sub::Quote) >= 2.003001
+perl(Test::Fatal) >= 0.003
+perl(Test::More) >= 0.96
+perl(base)
+perl(constant)
+perl(lib)
+perl(mro)
+perl(overload)
+perl(strict)
+perl(strictures) >= 1.004003
+perl(threads)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,7 @@
+desktop-file-utils
+gettext
+intltool
+pango-devel
+perl(XML::Parser)
+pkgconfig(glib-2.0)
+pkgconfig(gtk+-3.0)

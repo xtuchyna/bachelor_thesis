@@ -1,0 +1,3 @@
+libodb-devel >= 2.4
+pkgconfig
+qt4-devel

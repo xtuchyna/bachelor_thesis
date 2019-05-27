@@ -1,0 +1,10 @@
+SDL2-static
+allegro-devel
+cmake
+gcc-c++
+irrlicht-devel
+make
+mesa-libGL-devel
+pkgconfig(SDL2_image)
+pkgconfig(SDL2_ttf)
+pkgconfig(sdl2)

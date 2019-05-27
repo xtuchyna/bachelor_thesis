@@ -1,0 +1,7 @@
+ant
+emma
+java-devel
+javapackages-tools
+jpackage-utils
+maven-local
+testng

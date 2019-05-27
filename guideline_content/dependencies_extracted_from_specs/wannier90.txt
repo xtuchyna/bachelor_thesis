@@ -1,0 +1,8 @@
+atlas-devel
+gcc-gfortran
+ghostscript
+perl(Cwd)
+tex(a4wide.sty)
+tex(groff.enc)
+tex(latex)
+tex(multirow.sty)

@@ -1,0 +1,5 @@
+gcc
+gnupg2
+inews
+openssl-devel
+slang-devel >= 2.2.3

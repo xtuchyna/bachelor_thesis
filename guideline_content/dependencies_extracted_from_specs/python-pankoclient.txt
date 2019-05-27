@@ -1,0 +1,13 @@
+python-babel
+python-openstack-doc-tools
+python-osc-lib
+python-oslo-sphinx
+python-pbr
+python-setuptools
+python-sphinx
+python-tools
+python2-devel
+python3-devel
+python3-pbr
+python3-setuptools
+python3-tools

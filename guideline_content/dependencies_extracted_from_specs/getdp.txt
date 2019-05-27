@@ -1,0 +1,9 @@
+arpack-devel
+blas-devel
+cmake
+gcc-c++
+gcc-gfortran
+gmsh-devel
+gsl-devel
+lapack-devel
+python2-devel

@@ -1,0 +1,9 @@
+R-BH-devel
+R-DBI >= 0.4.9
+R-Rcpp-devel >= 0.12.7
+R-devel >= 3.4.0
+R-memoise
+R-methods
+R-plogr-devel
+sqlite-devel
+tetex-latex

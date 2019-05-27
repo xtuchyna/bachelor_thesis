@@ -1,0 +1,14 @@
+make
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Log::Report) >= 0.26
+perl(Test::More) >= 0.47
+perl(Tie::Hash)
+perl(Tie::StdHash)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

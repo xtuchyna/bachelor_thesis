@@ -1,0 +1,16 @@
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Perl::Critic::Policy)
+perl(Perl::Critic::Utils)
+perl(Perl::Critic::Utils::PPI)
+perl(Readonly)
+perl(Test::More) >= 0.96
+perl(Test::Perl::Critic::Policy)
+perl(base)
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

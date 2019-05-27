@@ -1,0 +1,5 @@
+byacc
+gnupg2
+ncurses-devel
+pcre-devel
+perl-generators

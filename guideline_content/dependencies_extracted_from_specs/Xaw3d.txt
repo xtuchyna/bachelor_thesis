@@ -1,0 +1,10 @@
+bison
+ed
+flex
+libSM-devel
+libX11-devel
+libXext-devel
+libXmu-devel
+libXpm-devel
+libXt-devel
+xorg-x11-util-macros

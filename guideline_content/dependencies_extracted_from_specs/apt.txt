@@ -1,0 +1,16 @@
+bzip2-devel
+gawk
+gettext
+libstdc++-devel
+libxml2-devel
+lua-devel >= 5.3
+ncurses-devel
+perl-interpreter
+pkgconfig
+python-devel >= 2.2
+readline-devel
+rpm-devel
+sqlite-devel
+swig
+systemd-units
+zlib-devel

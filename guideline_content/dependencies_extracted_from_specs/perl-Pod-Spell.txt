@@ -1,0 +1,28 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Class::Tiny)
+perl(ExtUtils::MakeMaker)
+perl(File::ShareDir)
+perl(File::ShareDir::Install) >= 0.06
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Lingua::EN::Inflect)
+perl(Path::Tiny)
+perl(Pod::Escapes)
+perl(Pod::Parser)
+perl(Test::Deep)
+perl(Test::More) >= 0.96
+perl(Text::Wrap)
+perl(constant)
+perl(locale)
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

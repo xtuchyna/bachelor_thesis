@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(AutoLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::Simple)
+perl(XSLoader)
+perl(version) >= 0.77
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig
+rpm-devel

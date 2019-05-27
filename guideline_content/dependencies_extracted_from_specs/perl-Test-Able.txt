@@ -1,0 +1,19 @@
+findutils
+make
+perl(List::Util)
+perl(Module::Install::AuthorTests)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moose) >= 0.94
+perl(Moose::Exporter)
+perl(Moose::Role)
+perl(Moose::Util::MetaRole)
+perl(Moose::Util::TypeConstraints)
+perl(Scalar::Util)
+perl(Sub::Exporter)
+perl(Test::Builder)
+perl(Test::More)
+perl(inc::Module::Install)
+perl(lib)
+perl-generators
+perl-interpreter

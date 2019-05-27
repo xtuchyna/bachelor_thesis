@@ -1,0 +1,3 @@
+(crate(num) >= 0.1.40 with crate(num) < 0.2.0)
+(crate(regex) >= 0.2.2 with crate(regex) < 0.3.0)
+rust-packaging

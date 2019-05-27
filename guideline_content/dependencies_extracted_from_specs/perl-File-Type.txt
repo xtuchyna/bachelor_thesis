@@ -1,0 +1,8 @@
+perl(IO::File)
+perl(Module::Build)
+perl(Test::More)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

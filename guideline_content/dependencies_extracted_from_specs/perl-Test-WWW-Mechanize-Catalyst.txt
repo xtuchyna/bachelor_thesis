@@ -1,0 +1,35 @@
+findutils
+make
+perl(Carp)
+perl(Catalyst) >= 5.00
+perl(Catalyst::Plugin::Session::State::Cookie)
+perl(Catalyst::Plugin::Session::Store::Dummy)
+perl(Catalyst::Test)
+perl(Class::Load)
+perl(Encode)
+perl(HTML::Entities)
+perl(HTTP::Request::Common)
+perl(LWP) >= 5.816
+perl(MIME::Base64)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moose) >= 0.67
+perl(Moose::Object)
+perl(POSIX)
+perl(Test::Exception)
+perl(Test::More) >= 0.88
+perl(Test::Pod)
+perl(Test::WWW::Mechanize) >= 1.14
+perl(Test::utf8)
+perl(URI)
+perl(WWW::Mechanize) >= 1.54
+perl(base)
+perl(inc::Module::Install) >= 0.87
+perl(lib)
+perl(namespace::clean) >= 0.09
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,21 @@
+perl(Cwd)
+perl(File::Spec)
+perl(File::Temp)
+perl(Module::Install::AuthorRequires)
+perl(Module::Install::AuthorTests)
+perl(Module::Install::Base)
+perl(Module::Install::Metadata)
+perl(Module::Install::ReadmeFromPod)
+perl(Module::Install::WriteAll)
+perl(Test::More) >= 0.88
+perl(Test::NoTabs)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(YAML)
+perl(base)
+perl(inc::Module::Install) >= 0.91
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

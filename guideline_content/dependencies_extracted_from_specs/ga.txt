@@ -1,0 +1,14 @@
+atlas-devel
+blacs-mpich-devel
+blacs-openmpi-devel
+dos2unix
+gcc-c++
+gcc-gfortran
+hwloc-devel
+lapack-devel
+libibverbs-devel
+mpich-devel
+openmpi-devel
+openssh-clients
+scalapack-mpich-devel
+scalapack-openmpi-devel

@@ -1,0 +1,4 @@
+(crate(either) >= 1.0.0 with crate(either) < 2.0.0)
+(crate(permutohedron) >= 0.2.0 with crate(permutohedron) < 0.3.0)
+(crate(quickcheck) >= 0.6.0 with crate(quickcheck) < 0.7.0)
+rust-packaging

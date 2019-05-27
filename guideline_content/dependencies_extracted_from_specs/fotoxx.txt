@@ -1,0 +1,10 @@
+LibRaw-devel
+desktop-file-utils
+freeimage-devel
+gtk3-devel
+lcms2-devel
+libchamplain-devel
+libtiff-devel
+perl-Image-ExifTool
+ufraw
+xdg-utils

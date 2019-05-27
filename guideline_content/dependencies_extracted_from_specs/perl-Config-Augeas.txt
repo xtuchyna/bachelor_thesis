@@ -1,0 +1,6 @@
+augeas-devel
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod)
+perl-devel
+perl-generators

@@ -1,0 +1,13 @@
+perl(Carp)
+perl(DBD::Pg) >= 1.41
+perl(DBI)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(FreezeThaw)
+perl(Storable)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(vars)
+perl-generators

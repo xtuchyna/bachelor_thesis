@@ -1,0 +1,6 @@
+boost-build
+boost-devel
+doxygen
+tbb-devel
+texlive-dvips
+texlive-latex

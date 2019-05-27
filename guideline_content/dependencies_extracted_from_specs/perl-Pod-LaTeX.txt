@@ -1,0 +1,13 @@
+perl(Carp)
+perl(File::Spec)
+perl(Module::Build)
+perl(Pod::ParseUtils) >= 0.3
+perl(Pod::Select)
+perl(Test::More)
+perl(base)
+perl(if)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

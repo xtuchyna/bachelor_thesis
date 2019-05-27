@@ -1,0 +1,3 @@
+fftw-libs
+numpy
+python2

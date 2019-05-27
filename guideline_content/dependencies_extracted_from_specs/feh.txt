@@ -1,0 +1,8 @@
+giblib-devel
+imlib2-devel
+libXinerama-devel
+libXt-devel
+libcurl-devel
+libexif-devel
+libjpeg-devel
+libpng-devel

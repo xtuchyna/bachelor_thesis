@@ -1,0 +1,6 @@
+bison
+flex
+ncurses-devel
+readline-devel
+sed
+systemd

@@ -1,0 +1,5 @@
+evince-devel
+gettext
+gobject-introspection-devel
+python2-devel
+sugar-toolkit-gtk3-devel

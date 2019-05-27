@@ -1,0 +1,11 @@
+perl(Config)
+perl(Env)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec) >= 0.60
+perl(Test::More) >= 0.80
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

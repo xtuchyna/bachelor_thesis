@@ -1,0 +1,7 @@
+autoconf
+automake
+glib2-devel >= 2.2.0
+gtk-doc
+libIDL-devel >= 0.8.2-1
+libtool
+pkgconfig >= 0.14

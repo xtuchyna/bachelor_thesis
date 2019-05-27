@@ -1,0 +1,13 @@
+Cython
+geos-devel
+numpy
+pytest
+python-matplotlib
+python-setuptools
+python2-devel
+python3-Cython
+python3-devel
+python3-matplotlib
+python3-numpy
+python3-pytest
+python3-setuptools

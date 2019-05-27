@@ -1,0 +1,9 @@
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(Moose) >= 1.24
+perl(MooseX::Getopt) >= 0.35
+perl(Test::More) >= 0.90
+perl(WWW::DuckDuckGo) >= 0.004
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

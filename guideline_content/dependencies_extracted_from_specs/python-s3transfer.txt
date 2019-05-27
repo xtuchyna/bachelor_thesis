@@ -1,0 +1,17 @@
+python-coverage
+python-futures
+python-mock
+python-nose
+python-setuptools
+python-unittest2
+python-wheel
+python2-botocore
+python2-devel
+python3-botocore
+python3-coverage
+python3-devel
+python3-mock
+python3-nose
+python3-setuptools
+python3-unittest2
+python3-wheel

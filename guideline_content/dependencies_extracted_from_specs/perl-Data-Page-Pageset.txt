@@ -1,0 +1,16 @@
+perl(Carp)
+perl(Class::Accessor::Fast)
+perl(Data::Dumper)
+perl(Data::Page) >= 2
+perl(Module::Build)
+perl(POSIX)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(base)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

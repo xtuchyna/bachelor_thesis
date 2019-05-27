@@ -1,0 +1,12 @@
+/usr/bin/python
+SDL-devel
+alsa-lib-devel
+bam >= 0.4.0
+desktop-file-utils
+freetype-devel
+libpng-devel
+mesa-libGLU-devel
+pnglite-devel
+systemd
+wavpack-devel
+zlib-devel

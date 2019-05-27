@@ -1,0 +1,10 @@
+ImageMagick
+ant
+bouncycastle-mail >= 1.52
+bouncycastle-pkix >= 1.52
+desktop-file-utils
+dom4j
+java-devel >= 1.7
+javapackages-local
+jpackage-utils
+pdf-renderer

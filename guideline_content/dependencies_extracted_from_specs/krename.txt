@@ -1,0 +1,7 @@
+desktop-file-utils
+exiv2-devel
+freetype-devel
+gettext
+kdelibs4-devel
+podofo-devel
+taglib-devel

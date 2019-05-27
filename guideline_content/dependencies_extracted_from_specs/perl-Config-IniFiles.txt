@@ -1,0 +1,29 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(English)
+perl(Exporter)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::File)
+perl(IO::Scalar) >= 2.109
+perl(List::Util) >= 1.33
+perl(Module::Build) >= 0.36
+perl(Scalar::Util)
+perl(Symbol)
+perl(Test::CPAN::Changes)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::TrailingSpace)
+perl(base)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

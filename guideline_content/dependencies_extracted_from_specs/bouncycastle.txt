@@ -1,0 +1,5 @@
+ant
+ant-junit
+aqute-bnd
+javamail
+javapackages-local

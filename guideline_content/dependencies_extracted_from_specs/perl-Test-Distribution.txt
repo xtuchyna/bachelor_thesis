@@ -1,0 +1,9 @@
+perl(ExtUtils::Manifest)
+perl(File::Find::Rule) >= 0.03
+perl(Module::Build)
+perl(Module::CoreList) >= 1.93
+perl(Pod::Coverage) >= 0.17
+perl(Test::More)
+perl(Test::Pod) >= 0.95
+perl(Test::Pod::Coverage)
+perl-generators

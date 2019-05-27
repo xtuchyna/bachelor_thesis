@@ -1,0 +1,5 @@
+bison
+mingw32-filesystem >= 98
+mingw32-gcc
+mingw64-filesystem >= 98
+mingw64-gcc

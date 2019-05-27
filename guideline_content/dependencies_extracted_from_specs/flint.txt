@@ -1,0 +1,13 @@
+atlas-devel
+gc-devel
+gcc-c++
+gmp-devel
+mpfr-devel
+ntl-devel
+tex(cases.sty)
+tex(epigraph.sty)
+tex(latex)
+tex(multirow.sty)
+tex(sectsty.sty)
+tex(tocloft.sty)
+tex(xy.sty)

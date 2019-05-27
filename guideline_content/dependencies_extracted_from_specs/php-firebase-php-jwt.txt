@@ -1,0 +1,10 @@
+php(language) >= 5.3.0
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-date
+php-hash
+php-json
+php-mbstring
+php-openssl
+php-pcre
+php-spl

@@ -1,0 +1,6 @@
+bzip2-devel
+desktop-file-utils
+gettext
+glib2-devel >= 2.32.0
+gtk2-devel >= 2.6.0
+libpng-devel

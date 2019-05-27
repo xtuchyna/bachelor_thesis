@@ -1,0 +1,15 @@
+SDL-devel
+SDL_image-devel
+SDL_ttf-devel
+boost-devel
+cmake
+desktop-file-utils
+gettext
+libappstream-glib
+libjpeg-devel
+libpng-devel
+libvorbis-devel
+lua-devel
+luabind-devel
+openal-soft-devel
+zlib-devel

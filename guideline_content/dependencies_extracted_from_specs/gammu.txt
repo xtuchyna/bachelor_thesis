@@ -1,0 +1,17 @@
+autoconf
+bash-completion
+bluez-libs-devel
+cmake3
+doxygen
+gettext-devel
+glib2-devel
+libcurl-devel
+libdbi-dbd-sqlite
+libdbi-devel
+libgudev1-devel
+libusb1-devel
+mariadb-connector-c-devel
+pkgconfig
+postgresql-devel
+systemd
+unixODBC-devel

@@ -1,0 +1,9 @@
+alsa-lib-devel
+desktop-file-utils
+gettext
+gtk2-devel
+jack-audio-connection-kit-devel
+ladspa-devel
+libsamplerate-devel
+libsndfile-devel
+pulseaudio-libs-devel

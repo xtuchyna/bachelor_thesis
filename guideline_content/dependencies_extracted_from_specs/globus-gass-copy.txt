@@ -1,0 +1,15 @@
+doxygen
+globus-common-devel >= 15
+globus-ftp-client-devel >= 7
+globus-ftp-control-devel >= 4
+globus-gass-transfer-devel >= 7
+globus-gridftp-server-devel >= 7
+globus-gridftp-server-progs >= 7
+globus-gsi-sysconfig-devel >= 4
+globus-gssapi-error-devel >= 4
+globus-gssapi-gsi-devel >= 9
+globus-io-devel >= 8
+openssl
+openssl-devel
+perl(Test::More)
+perl(URI)

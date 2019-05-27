@@ -1,0 +1,10 @@
+mingw32-filesystem >= 102
+mingw32-gcc
+mingw32-python2
+mingw32-python2-Cython
+mingw32-python2-setuptools
+mingw64-filesystem >= 102
+mingw64-gcc
+mingw64-python2
+mingw64-python2-Cython
+mingw64-python2-setuptools

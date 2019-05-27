@@ -1,0 +1,9 @@
+alsa-lib-devel
+autoconf
+automake
+desktop-file-utils
+jack-audio-connection-kit-devel
+libsndfile-devel
+lv2-devel
+qt5-linguist
+qt5-qtbase-devel

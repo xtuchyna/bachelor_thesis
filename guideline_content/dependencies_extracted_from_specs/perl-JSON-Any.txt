@@ -1,0 +1,18 @@
+perl(CPAN)
+perl(Carp)
+perl(Cpanel::JSON::XS)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(JSON)
+perl(JSON::MaybeXS)
+perl(JSON::PP)
+perl(JSON::Syck)
+perl(JSON::XS) >= 1.52
+perl(Storable)
+perl(Test::Fatal)
+perl(Test::More) >= 0.42
+perl(Test::Requires)
+perl(Test::Warnings)
+perl(Test::Without::Module)
+perl(namespace::clean)
+perl-generators

@@ -1,0 +1,3 @@
+rubygem(mocha)
+rubygem(rspec)
+rubygems-devel

@@ -1,0 +1,8 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Module::Package)
+perl(Module::Package::Au)
+perl(Pod::Markdown)
+perl(Test)
+perl(base)
+perl-generators

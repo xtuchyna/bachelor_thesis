@@ -1,0 +1,7 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(FindBin)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators

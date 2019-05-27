@@ -1,0 +1,54 @@
+coreutils
+findutils
+make
+perl(B)
+perl(Carp)
+perl(Class::Inspector) >= 1.22
+perl(Class::XSAccessor)
+perl(Clone) >= 0.30
+perl(Config)
+perl(Cwd)
+perl(Digest::MD5) >= 2.35
+perl(Exporter)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker) > 6.75
+perl(Fcntl)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Find::Rule) >= 0.32
+perl(File::Find::Rule::Perl) >= 1.09
+perl(File::Path)
+perl(File::Remove) >= 0.39
+perl(File::Spec) >= 0.84
+perl(File::Spec::Functions)
+perl(File::Spec::Unix)
+perl(IO::String) >= 1.07
+perl(List::MoreUtils) >= 0.16
+perl(List::Util) >= 1.33
+perl(Params::Util) >= 1.00
+perl(Perl::MinimumVersion) >= 1.20
+perl(Pod::Simple) >= 3.14
+perl(Scalar::Util)
+perl(Storable) >= 2.17
+perl(Task::Weaken)
+perl(Test::CPAN::Meta) >= 0.17
+perl(Test::ClassAPI) >= 1.03
+perl(Test::Deep)
+perl(Test::MinimumVersion) >= 0.101080
+perl(Test::More) >= 0.86
+perl(Test::Object) >= 0.07
+perl(Test::Pod) >= 1.44
+perl(Test::SubCalls) >= 1.07
+perl(Time::HiRes)
+perl(base)
+perl(constant)
+perl(if)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

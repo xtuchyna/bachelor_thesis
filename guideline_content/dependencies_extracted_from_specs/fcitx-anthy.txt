@@ -1,0 +1,6 @@
+anthy-devel
+cmake
+fcitx-devel
+gcc-c++
+gettext
+intltool

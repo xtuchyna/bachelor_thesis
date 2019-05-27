@@ -1,0 +1,13 @@
+python3-PyYAML
+python3-crypto
+python3-devel
+python3-future
+python3-pexpect
+python3-pytest
+python3-pytest-mock
+python3-setproctitle
+python3-setuptools
+python3-sphinxcontrib-autoprogram
+python3-stem
+systemd
+systemd-units

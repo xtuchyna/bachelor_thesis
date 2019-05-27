@@ -1,0 +1,9 @@
+R-R6
+R-assertthat
+R-crayon
+R-debugme
+R-devel
+R-testthat
+R-utils
+R-withr
+tex(latex)

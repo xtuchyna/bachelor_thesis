@@ -1,0 +1,15 @@
+ghc-Cabal-devel
+ghc-array-devel
+ghc-async-devel
+ghc-blaze-builder-devel
+ghc-bytestring-devel
+ghc-directory-devel
+ghc-network-devel
+ghc-process-devel
+ghc-random-devel
+ghc-rpm-macros
+ghc-stm-devel
+ghc-text-devel
+ghc-transformers-devel
+ghc-unix-devel
+ghc-zlib-devel

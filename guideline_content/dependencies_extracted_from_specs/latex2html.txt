@@ -1,0 +1,5 @@
+ghostscript >= 4.03
+netpbm-progs >= 9.21
+perl-generators
+perl-interpreter >= 5.003
+tex(latex)

@@ -1,0 +1,5 @@
+chrpath
+libestr-devel
+libfastjson-devel
+pcre-devel
+python-sphinx

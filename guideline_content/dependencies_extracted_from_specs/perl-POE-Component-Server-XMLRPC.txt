@@ -1,0 +1,13 @@
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(POE) >= 0.22
+perl(POE::Component::Server::HTTP) >= 0.02
+perl(Test)
+perl(XMLRPC::Lite) >= 0.28
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

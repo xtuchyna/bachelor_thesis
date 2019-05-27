@@ -1,0 +1,10 @@
+python2-devel
+python2-numpy
+python2-pytest
+python2-requests
+python2-setuptools
+python3-devel
+python3-numpy
+python3-pytest
+python3-requests
+python3-setuptools

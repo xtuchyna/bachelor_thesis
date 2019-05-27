@@ -1,0 +1,5 @@
+libconfig-devel
+mariadb-connector-c-devel
+openssl-devel
+sqlite-devel
+xmlto

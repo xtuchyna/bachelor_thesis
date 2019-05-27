@@ -1,0 +1,13 @@
+extra-cmake-modules
+gtk2-engines
+gtk3-devel
+kf5-kconfig-devel
+kf5-kcoreaddons-devel
+kf5-rpm-macros
+plasma-breeze-devel
+python2-cairo-devel
+python3-cairo-devel
+qt5-qtbase-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+sassc

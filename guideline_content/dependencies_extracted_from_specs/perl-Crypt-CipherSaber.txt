@@ -1,0 +1,12 @@
+coreutils
+perl(Carp)
+perl(File::Spec)
+perl(Module::Build)
+perl(Scalar::Util) >= 1.4.2
+perl(Test::More)
+perl(Test::Warn)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

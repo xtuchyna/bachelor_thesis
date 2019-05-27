@@ -1,0 +1,7 @@
+gnupg
+perl(Cwd)
+perl(File::Temp)
+perl(Getopt::Long)
+perl(strict)
+perl(warnings)
+perl-generators

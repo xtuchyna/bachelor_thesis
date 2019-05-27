@@ -1,0 +1,3 @@
+libva-devel
+libvdpau-devel
+mesa-libGL-devel

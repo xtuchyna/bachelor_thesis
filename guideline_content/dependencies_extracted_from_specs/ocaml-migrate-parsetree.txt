@@ -1,0 +1,6 @@
+jbuilder
+ocaml
+ocaml-findlib
+ocaml-ocamlbuild
+ocaml-result-devel
+opam-installer

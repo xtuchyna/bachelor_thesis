@@ -1,0 +1,3 @@
+mocha
+nodejs-packaging
+npm(array-flatten)

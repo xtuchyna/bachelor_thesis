@@ -1,0 +1,2 @@
+(crate(nom) >= 3.2.0 with crate(nom) < 4.0.0)
+rust-packaging

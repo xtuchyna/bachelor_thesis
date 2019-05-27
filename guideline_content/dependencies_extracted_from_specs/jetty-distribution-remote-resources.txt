@@ -1,0 +1,4 @@
+jetty-toolchain
+jpackage-utils
+maven-local
+maven-remote-resources-plugin

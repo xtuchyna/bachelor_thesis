@@ -1,0 +1,8 @@
+python2-devel
+python2dist(astroid)
+python2dist(nose)
+python2dist(six)
+python3-devel
+python3dist(astroid)
+python3dist(nose)
+python3dist(six)

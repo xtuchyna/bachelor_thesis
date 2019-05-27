@@ -1,0 +1,9 @@
+php(language) >= 5.3.3
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(symfony/console) < 3.0
+php-composer(symfony/console) >= 2.7.1
+php-pcre
+php-reflection
+php-spl
+php-xml

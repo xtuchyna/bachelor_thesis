@@ -1,0 +1,4 @@
+gettext
+glib2-devel
+ncurses-devel
+readline-devel

@@ -1,0 +1,5 @@
+desktop-file-utils
+gcc
+gcc-c++
+mesa-libGLU-devel
+qt5-devel

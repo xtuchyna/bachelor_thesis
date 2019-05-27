@@ -1,0 +1,2 @@
+desktop-file-utils
+libglade2-devel

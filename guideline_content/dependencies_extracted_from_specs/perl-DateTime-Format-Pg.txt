@@ -1,0 +1,17 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(DateTime) >= 0.13
+perl(DateTime::Duration)
+perl(DateTime::Format::Builder) >= 0.72
+perl(DateTime::TimeZone) >= 0.12
+perl(DateTime::TimeZone::Floating)
+perl(DateTime::TimeZone::UTC)
+perl(Module::Build::Tiny) >= 0.035
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,15 @@
+php(language) >= 5.5
+php-composer(mockery/mockery) < 1
+php-composer(mockery/mockery) >= 0.9.4
+php-composer(phpdocumentor/reflection-common) < 2
+php-composer(phpdocumentor/reflection-common) >= 1.0
+php-composer(phpdocumentor/type-resolver) < 1.0
+php-composer(phpdocumentor/type-resolver) >= 0.3.0
+php-composer(phpunit/phpunit)
+php-composer(webmozart/assert) < 2
+php-composer(webmozart/assert) >= 1.0
+php-fedora-autoloader-devel
+php-filter
+php-pcre
+php-reflection
+php-spl

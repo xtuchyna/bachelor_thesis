@@ -1,0 +1,8 @@
+autoconf
+automake
+libavc1394-devel
+libdv-devel
+libiec61883-devel
+libjpeg-devel
+libraw1394-devel
+libtool

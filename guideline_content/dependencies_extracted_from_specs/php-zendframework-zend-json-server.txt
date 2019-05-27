@@ -1,0 +1,9 @@
+php(language) >= 5.5
+php-autoloader(zendframework/zend-http) >= 2.5.4
+php-autoloader(zendframework/zend-json) >= 2.6.1
+php-autoloader(zendframework/zend-server) >= 2.6.1
+php-composer(phpunit/phpunit) >= 4.0
+php-fedora-autoloader-devel
+php-pcre
+php-reflection
+php-spl

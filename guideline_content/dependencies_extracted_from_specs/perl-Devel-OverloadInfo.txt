@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(MRO::Compat)
+perl(Package::Stash) >= 0.14
+perl(Scalar::Util)
+perl(Sub::Identify)
+perl(Test::Fatal)
+perl(Test::More) >= 0.88
+perl(overload)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

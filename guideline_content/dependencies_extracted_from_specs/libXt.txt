@@ -1,0 +1,8 @@
+autoconf
+automake
+libX11-devel >= 1.5.99.902
+libtool
+pkgconfig(sm)
+pkgconfig(x11)
+pkgconfig(xproto)
+xorg-x11-util-macros

@@ -1,0 +1,4 @@
+cmake
+gcc-gfortran
+netcdf-devel
+tcsh

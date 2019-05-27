@@ -1,0 +1,7 @@
+desktop-file-utils
+gettext
+intltool
+libxfce4ui-devel >= 4.4.0
+unique-devel
+xfce4-panel-devel >= 4.4.0
+xfconf-devel >= 4.6.0

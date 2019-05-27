@@ -1,0 +1,16 @@
+autoconf
+automake
+doxygen
+graphviz
+libtool
+maven-local
+mvn(org.antlr:ST4)
+mvn(org.antlr:antlr)
+mvn(org.antlr:antlr3-maven-plugin)
+mvn(org.antlr:stringtemplate)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.apache.maven:maven-project)
+mvn(org.codehaus.plexus:plexus-compiler-api)
+mvn(org.sonatype.oss:oss-parent:pom:)

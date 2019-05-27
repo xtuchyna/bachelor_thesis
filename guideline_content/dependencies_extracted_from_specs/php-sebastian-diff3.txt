@@ -1,0 +1,6 @@
+php(language) >= 7.1
+php-fedora-autoloader-devel
+php-pcre
+php-spl
+php-symfony4-process
+phpunit7

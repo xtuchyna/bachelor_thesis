@@ -1,0 +1,7 @@
+arpack-devel
+cmake
+doxygen
+eigen3-devel
+fdupes
+graphviz
+ocl-icd-devel

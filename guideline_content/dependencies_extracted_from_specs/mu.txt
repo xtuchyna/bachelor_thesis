@@ -1,0 +1,14 @@
+/usr/bin/desktop-file-install
+/usr/bin/xvfb-run
+python3-appdirs
+python3-devel
+python3-microfs
+python3-pep8
+python3-pyflakes
+python3-pyserial
+python3-pytest
+python3-qscintilla-qt5
+python3-qt5
+python3-setuptools
+python3-uflash
+qt5-qtserialport >= 5.5.0

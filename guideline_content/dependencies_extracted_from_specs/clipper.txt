@@ -1,0 +1,5 @@
+fftw2-devel
+gcc-gfortran
+libccp4-devel
+mmdb2-devel
+pkgconfig

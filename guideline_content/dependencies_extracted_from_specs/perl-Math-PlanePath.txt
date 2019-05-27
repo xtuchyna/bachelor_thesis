@@ -1,0 +1,33 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(Data::Float)
+perl(Devel::StackTrace)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(List::Util)
+perl(Math::BigFloat)
+perl(Math::BigInt)
+perl(Math::BigRat)
+perl(Math::Factor::XS)
+perl(Math::Libm)
+perl(Math::NumSeq)
+perl(Math::NumSeq::Base::IterateIth)
+perl(Math::NumSeq::Modulo)
+perl(Math::NumSeq::OEIS::Catalogue::Plugin)
+perl(Math::Trig)
+perl(Module::Load)
+perl(Number::Fraction) >= 1.14
+perl(POSIX)
+perl(Scalar::Util)
+perl(Test)
+perl(constant) >= 1.02
+perl(constant::defer) >= 5
+perl(lib)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

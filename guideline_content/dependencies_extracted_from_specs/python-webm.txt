@@ -1,0 +1,4 @@
+libwebp
+python2-devel
+python2-imaging
+python2-nose

@@ -1,0 +1,23 @@
+automake
+chmlib-devel
+desktop-file-utils
+flex
+gcc-c++
+gettext
+gnome-common
+gnome-doc-utils
+intltool
+libICE-devel
+libSM-devel
+libtool
+perl(XML::Parser)
+pkgconfig(exiv2) >= 0.14
+pkgconfig(gnome-keyring-1)
+pkgconfig(gnome-vfs-2.0)
+pkgconfig(libgnome-2.0)
+pkgconfig(libgnomeui-2.0)
+pkgconfig(libgsf-1) >= 1.12.0
+pkgconfig(poppler-glib) >= 0.8
+pkgconfig(taglib) >= 1.4
+pkgconfig(unique-1.0)
+scrollkeeper

@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(colors)
+npm(path-extra)
+npm(rimraf)
+npm(shelljs)

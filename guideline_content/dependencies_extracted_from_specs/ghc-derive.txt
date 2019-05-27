@@ -1,0 +1,14 @@
+chrpath
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-haskell-src-exts-devel
+ghc-pretty-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-syb-devel
+ghc-template-haskell-devel
+ghc-transformers-devel
+ghc-uniplate-devel

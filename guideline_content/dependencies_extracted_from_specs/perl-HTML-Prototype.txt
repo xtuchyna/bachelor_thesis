@@ -1,0 +1,5 @@
+perl(Class::Accessor::Fast)
+perl(ExtUtils::MakeMaker)
+perl(HTML::Tree)
+perl(Test::More)
+perl-generators

@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(mime-types)
+npm(mocha)
+npm(negotiator)

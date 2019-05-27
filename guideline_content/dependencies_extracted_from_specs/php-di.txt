@@ -1,0 +1,24 @@
+php(language) >= 5.5.0
+php-composer(container-interop/container-interop) < 2.0
+php-composer(container-interop/container-interop) >= 1.2
+php-composer(doctrine/annotations) < 2.0
+php-composer(doctrine/annotations) >= 1.2
+php-composer(doctrine/cache) < 2.0
+php-composer(doctrine/cache) >= 1.4
+php-composer(fedora/autoloader)
+php-composer(mnapoli/phpunit-easymock) < 1.0
+php-composer(mnapoli/phpunit-easymock) >= 0.2.0
+php-composer(ocramius/proxy-manager) < 3.0
+php-composer(ocramius/proxy-manager) >= 1.0
+php-composer(php-di/invoker) < 2.0
+php-composer(php-di/invoker) >= 1.3.2
+php-composer(php-di/phpdoc-reader) < 3.0
+php-composer(php-di/phpdoc-reader) >= 2.0.1
+php-composer(phpunit/phpunit)
+php-composer(psr/container) < 2.0
+php-composer(psr/container) >= 1.0
+php-json
+php-pcre
+php-reflection
+php-spl
+phpunit6

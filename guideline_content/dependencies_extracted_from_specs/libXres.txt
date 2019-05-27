@@ -1,0 +1,6 @@
+autoconf
+automake
+libtool
+pkgconfig(x11) >= 1.5.99.902
+pkgconfig(xext)
+xorg-x11-util-macros

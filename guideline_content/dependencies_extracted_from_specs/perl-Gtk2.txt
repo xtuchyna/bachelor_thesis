@@ -1,0 +1,11 @@
+gtk2-devel
+perl(Cairo) >= 1.00
+perl(ExtUtils::Depends)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::PkgConfig)
+perl(Glib) >= 1.240
+perl(Glib::MakeHelper)
+perl(Pango) >= 1.220
+perl-devel
+perl-generators
+perl-interpreter >= 2:5.8.0

@@ -1,0 +1,23 @@
+coreutils
+findutils
+gcc
+make
+perl(B)
+perl(Carp)
+perl(Config)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::Depends) >= 0.302
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(List::Util)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod) >= 1.41
+perl(base)
+perl(strict)
+perl(subs)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

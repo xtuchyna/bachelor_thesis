@@ -1,0 +1,4 @@
+python-pbr
+python-requests
+python-setuptools
+python2-devel

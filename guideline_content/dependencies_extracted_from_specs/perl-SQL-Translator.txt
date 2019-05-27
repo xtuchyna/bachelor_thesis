@@ -1,0 +1,75 @@
+coreutils
+make
+perl(CGI)
+perl(CGI::Pretty)
+perl(Carp)
+perl(Carp::Clan)
+perl(Config)
+perl(Cwd)
+perl(DBI) >= 1.54
+perl(Data::Dumper)
+perl(Digest::SHA)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Find)
+perl(File::Path)
+perl(File::ShareDir) >= 1.0
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(FindBin)
+perl(GD)
+perl(Getopt::Long)
+perl(Graph::Directed)
+perl(GraphViz)
+perl(IO::Dir)
+perl(IO::File)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(JSON) >= 2.0
+perl(List::Util)
+perl(Module::Install::AuthorTests)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Makefile)
+perl(Module::Install::Metadata)
+perl(Module::Install::ReadmeFromPod)
+perl(Module::Install::Scripts)
+perl(Module::Install::Share)
+perl(Module::Install::WriteAll)
+perl(Moo) >= 1.000003
+perl(Moo::Role)
+perl(Package::Variant) >= 1.001001
+perl(Parse::RecDescent) >= 1.967009
+perl(Pod::Usage)
+perl(Scalar::Util)
+perl(Spreadsheet::ParseExcel) >= 0.41
+perl(Storable)
+perl(Sub::Quote)
+perl(Symbol)
+perl(Template) >= 2.20
+perl(Test::Differences)
+perl(Test::EOL) >= 1.1
+perl(Test::Exception) >= 0.31
+perl(Test::More) >= 0.88
+perl(Test::NoTabs) >= 1.1
+perl(Test::Pod) >= 1.14
+perl(Text::ParseWords)
+perl(Text::RecordParser) >= 0.02
+perl(Try::Tiny) >= 0.04
+perl(XML::LibXML) >= 1.69
+perl(XML::LibXML::XPathContext)
+perl(XML::Parser)
+perl(XML::Writer) >= 0.500
+perl(YAML) >= 0.66
+perl(base)
+perl(constant)
+perl(inc::Module::Install) >= 1.06
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

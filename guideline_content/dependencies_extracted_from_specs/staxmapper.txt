@@ -1,0 +1,4 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.jboss:jboss-parent:pom:)

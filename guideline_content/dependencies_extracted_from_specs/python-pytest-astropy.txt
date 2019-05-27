@@ -1,0 +1,7 @@
+python3-devel
+python3-pytest
+python3-pytest-arraydiff
+python3-pytest-doctestplus
+python3-pytest-openfiles
+python3-pytest-remotedata
+python3-setuptools

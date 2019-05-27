@@ -1,0 +1,8 @@
+httpd-devel
+perl-devel
+perl-generators
+perl-interpreter
+python2-devel >= 2.1
+ruby
+ruby-devel
+zlib-devel

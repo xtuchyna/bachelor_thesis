@@ -1,0 +1,5 @@
+gcc
+gmp-devel
+help2man
+libtool
+zlib-devel

@@ -1,0 +1,7 @@
+libjpeg-turbo-devel
+libtiff-devel
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(gthread-2.0)
+pkgconfig(gtk+-2.0)
+pkgconfig(lcms)

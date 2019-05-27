@@ -1,0 +1,5 @@
+bluez-libs-devel
+gettext
+libselinux
+libselinux-devel
+systemd

@@ -1,0 +1,5 @@
+autoconf
+help2man
+librtas-devel
+libservicelog-devel >= 1.1.9-2
+libtool

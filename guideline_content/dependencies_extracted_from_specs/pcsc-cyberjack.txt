@@ -1,0 +1,7 @@
+autoconf
+automake
+libsysfs-devel
+libtool
+libusb1-devel
+pcsc-lite-devel >= 1.3.0
+readline-devel

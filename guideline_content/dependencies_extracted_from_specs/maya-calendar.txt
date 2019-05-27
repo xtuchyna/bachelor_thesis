@@ -1,0 +1,22 @@
+cmake
+desktop-file-utils
+gettext
+intltool
+libappstream-glib
+pkgconfig(champlain-0.12)
+pkgconfig(champlain-gtk-0.12)
+pkgconfig(clutter-1.0)
+pkgconfig(folks)
+pkgconfig(gee-0.8)
+pkgconfig(geocode-glib-1.0)
+pkgconfig(gio-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(gmodule-2.0)
+pkgconfig(gobject-2.0)
+pkgconfig(granite) >= 0.5
+pkgconfig(gthread-2.0)
+pkgconfig(gtk+-3.0) >= 3.11.6
+pkgconfig(libecal-1.2) >= 3.8.0
+pkgconfig(libical)
+pkgconfig(libnotify)
+vala

@@ -1,0 +1,27 @@
+ImageMagick
+autoconf
+automake
+desktop-file-utils
+gcc
+gcc-c++
+glibc-devel
+libacl-devel
+libcap-devel
+libpq-devel
+libs3-devel
+libstdc++-devel
+libxml2-devel
+lzo-devel
+mariadb-connector-c-devel
+ncurses-devel
+openssl-devel
+perl-generators
+perl-interpreter
+qt5-qtbase-devel
+readline-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+sed
+sqlite-devel
+systemd
+zlib-devel

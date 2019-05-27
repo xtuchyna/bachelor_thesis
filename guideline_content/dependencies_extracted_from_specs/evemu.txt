@@ -1,0 +1,8 @@
+asciidoc
+automake
+gcc
+gcc-c++
+libevdev-devel >= 1.3
+libtool
+python3-devel
+xmlto

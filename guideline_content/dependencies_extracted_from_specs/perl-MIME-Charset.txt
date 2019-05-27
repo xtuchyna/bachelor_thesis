@@ -1,0 +1,20 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Encode::EUCJPASCII) >= 0.02
+perl(Encode::Encoding)
+perl(Exporter)
+perl(Module::Install::Metadata)
+perl(Module::Install::Win32)
+perl(Module::Install::WriteAll)
+perl(Test)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(constant)
+perl(inc::Module::Install)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter
+sed

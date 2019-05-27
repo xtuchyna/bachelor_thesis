@@ -1,0 +1,21 @@
+/usr/bin/epstopdf
+airrac-devel
+boost-devel
+boost-python3-devel
+cmake
+cppzmq-devel
+doxygen
+gcc-c++
+ghostscript
+python3-devel
+python3-rmol
+readline-devel
+rmol-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+sevmgr-devel
+soci-mysql-devel
+soci-sqlite3-devel
+stdair-devel
+tex(latex)
+zeromq-devel

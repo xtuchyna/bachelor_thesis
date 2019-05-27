@@ -1,0 +1,8 @@
+R-Biostrings-devel
+R-GenomicRanges
+R-IRanges
+R-Rsamtools
+R-bitops
+R-devel >= 3.0.0
+R-methods
+tex(latex)

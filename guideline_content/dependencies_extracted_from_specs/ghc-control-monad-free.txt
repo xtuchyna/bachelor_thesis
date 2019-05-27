@@ -1,0 +1,4 @@
+ghc-Cabal-devel
+ghc-prelude-extras-devel
+ghc-rpm-macros
+ghc-transformers-devel

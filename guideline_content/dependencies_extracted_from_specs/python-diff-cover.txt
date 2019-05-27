@@ -1,0 +1,10 @@
+git
+help2man
+python2-devel
+python2-setuptools
+python3-devel
+python3-jinja2 >= 2.7.1
+python3-jinja2_pluralize
+python3-pygments >= 2.0.1
+python3-setuptools
+python3-six >= 1.6.1

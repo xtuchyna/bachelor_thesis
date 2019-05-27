@@ -1,0 +1,11 @@
+fedmsg
+python2-devel
+python2-dingus
+python2-koji
+python2-mock
+python2-mongoquery
+python2-munch
+python2-pytest
+python2-pytest-cov
+python2-pyyaml
+python2-setuptools

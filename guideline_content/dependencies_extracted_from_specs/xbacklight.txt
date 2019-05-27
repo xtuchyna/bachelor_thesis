@@ -1,0 +1,4 @@
+pkgconfig(xcb)
+pkgconfig(xcb-atom)
+pkgconfig(xcb-aux)
+pkgconfig(xcb-randr)

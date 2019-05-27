@@ -1,0 +1,13 @@
+boost-devel
+cmake
+doxygen
+ghostscript
+python-devel
+python-setuptools
+python2-devel
+readline-devel
+sevmgr-devel
+soci-mysql-devel
+soci-sqlite3-devel
+stdair-devel
+tex(latex)

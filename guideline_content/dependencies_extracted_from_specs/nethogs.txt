@@ -1,0 +1,4 @@
+gcc-c++
+libpcap-devel
+libstdc++-devel
+ncurses-devel

@@ -1,0 +1,3 @@
+perl(Digest::MD5) >= 2.00
+perl(ExtUtils::MakeMaker)
+perl-generators

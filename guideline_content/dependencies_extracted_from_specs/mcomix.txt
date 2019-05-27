@@ -1,0 +1,8 @@
+/usr/bin/appstream-util
+/usr/bin/desktop-file-install
+GConf2
+gettext
+pygtk2
+python2-devel
+python2-imaging
+python2-setuptools

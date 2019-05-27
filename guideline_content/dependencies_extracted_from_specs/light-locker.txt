@@ -1,0 +1,11 @@
+autoconf
+automake
+dbus-glib-devel
+desktop-file-utils
+gtk3-devel
+intltool
+libXScrnSaver-devel
+libtool
+systemd-devel
+xfce4-dev-tools
+xorg-x11-proto-devel

@@ -1,0 +1,19 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Errno)
+perl(ExtUtils::MakeMaker)
+perl(IO::Socket)
+perl(IO::Socket::INET)
+perl(POSIX)
+perl(Socket) >= 1.97
+perl(Socket6)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(base)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

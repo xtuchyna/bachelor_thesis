@@ -1,0 +1,16 @@
+findutils
+make
+perl(DateTime)
+perl(DateTime::Format::ICal) >= 0.08
+perl(DateTime::Span)
+perl(DateTime::TimeZone)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(FreezeThaw) >= 0.43
+perl(IO::File) >= 1.1
+perl(IO::String)
+perl(Test::More) >= 0.54
+perl(Text::vFile::asData) >= 0.02
+perl(strict)
+perl-generators
+perl-interpreter

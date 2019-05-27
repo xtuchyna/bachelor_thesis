@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(ascii-tree)
+npm(chalk)
+npm(colors)
+npm(mocha)
+npm(prompt)
+npm(should)

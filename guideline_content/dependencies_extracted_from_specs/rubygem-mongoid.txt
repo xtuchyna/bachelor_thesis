@@ -1,0 +1,8 @@
+/usr/bin/mongod
+ruby
+ruby(release)
+rubygem(actionpack)
+rubygem(activemodel)
+rubygem(mongo)
+rubygem(rspec)
+rubygems-devel

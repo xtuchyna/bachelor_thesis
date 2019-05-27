@@ -1,0 +1,13 @@
+ant
+antlr
+aopalliance
+apache-commons-cli
+apache-parent
+cglib
+google-guice
+gradle-local
+groovy >= 2.0
+hamcrest
+junit
+objectweb-asm
+objenesis

@@ -1,0 +1,6 @@
+libX11-devel
+libXext-devel
+libXvMC-devel
+libdrm-devel >= 2.0-1
+mesa-libGL-devel
+xorg-x11-server-devel

@@ -1,0 +1,7 @@
+ruby
+ruby(release)
+rubygem(minitest)
+rubygem(railties) >= 3.0
+rubygem(rake)
+rubygem(sprockets)
+rubygems-devel

@@ -1,0 +1,10 @@
+coreutils
+findutils
+perl(ExtUtils::CppGuess)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(XSLoader)
+perl-devel
+perl-generators
+perl-interpreter
+re2-devel

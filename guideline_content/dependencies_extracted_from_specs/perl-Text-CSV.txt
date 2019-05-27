@@ -1,0 +1,18 @@
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(IO::Handle)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Tie::Scalar)
+perl(base)
+perl(bytes)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

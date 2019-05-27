@@ -1,0 +1,5 @@
+doxygen
+jack-audio-connection-kit-devel
+lv2-devel
+python
+redland-devel

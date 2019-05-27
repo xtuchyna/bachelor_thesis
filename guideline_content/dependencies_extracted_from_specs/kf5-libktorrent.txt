@@ -1,0 +1,13 @@
+boost-devel
+cmake(KF5Archive)
+cmake(KF5Crash)
+cmake(KF5I18n)
+cmake(KF5KIO)
+cmake(KF5Solid)
+cmake(Qca-qt5)
+cmake(Qt5Network)
+extra-cmake-modules
+gettext
+gmp-devel >= 6.0.0
+kf5-rpm-macros
+libgcrypt-devel >= 1.4.5

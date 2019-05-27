@@ -1,0 +1,2 @@
+gdk-pixbuf2-devel
+rubygem-sass

@@ -1,0 +1,7 @@
+alsa-lib-devel
+dbus-devel
+gcc
+jack-audio-connection-kit-devel
+python2
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

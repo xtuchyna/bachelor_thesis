@@ -1,0 +1,10 @@
+boost-devel
+cyrus-sasl-devel
+dbus-x11
+extra-cmake-modules
+kf5-kcoreaddons-devel >= 5.23
+kf5-kdelibs4support-devel >= 5.23
+kf5-kmime-devel >= 17.12.3
+kf5-rpm-macros
+qt5-qtbase-devel
+xorg-x11-server-Xvfb

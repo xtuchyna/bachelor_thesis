@@ -1,0 +1,5 @@
+eglexternalplatform-devel
+libtool
+mesa-libEGL-devel
+meson
+wayland-devel

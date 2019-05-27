@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(guard)
+rubygem(guard-compat)
+rubygem(rspec)
+rubygems-devel

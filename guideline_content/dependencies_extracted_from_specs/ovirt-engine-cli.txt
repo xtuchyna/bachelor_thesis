@@ -1,0 +1,4 @@
+python-kitchen
+python-ply
+python-setuptools
+python2-devel

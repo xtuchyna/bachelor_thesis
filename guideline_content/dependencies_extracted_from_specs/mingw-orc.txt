@@ -1,0 +1,4 @@
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw64-filesystem >= 95
+mingw64-gcc

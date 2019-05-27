@@ -1,0 +1,9 @@
+python-devel
+python-setuptools
+python-six
+python-twisted-core
+python-twisted-web
+python3-devel
+python3-setuptools
+python3-six
+python3-twisted

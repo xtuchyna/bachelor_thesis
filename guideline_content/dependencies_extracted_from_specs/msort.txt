@@ -1,0 +1,6 @@
+autoconf
+automake
+gmp-devel
+libicu-devel
+libuninum-devel >= 2.5
+tre-devel >= 0.8.0

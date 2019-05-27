@@ -1,0 +1,14 @@
+findutils
+make
+perl(Class::Accessor)
+perl(Class::ReturnValue)
+perl(Class::Singleton)
+perl(Data::ICal)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(UNIVERSAL::require)
+perl(base)
+perl(strict)
+perl-generators
+perl-interpreter

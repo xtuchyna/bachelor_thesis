@@ -1,0 +1,9 @@
+nodejs-packaging
+npm(carto)
+npm(js-yaml)
+npm(mapnik)
+npm(mapnik-pool)
+npm(mocha)
+npm(nomnom)
+npm(npm)
+npm(request)

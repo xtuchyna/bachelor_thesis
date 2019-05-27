@@ -1,0 +1,10 @@
+argtable-devel
+catch1-devel
+cmake
+cmake(jsoncpp)
+doxygen
+gcc-c++
+hiredis-devel
+libcurl-devel
+libmicrohttpd-devel
+make

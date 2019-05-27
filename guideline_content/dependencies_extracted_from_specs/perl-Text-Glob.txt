@@ -1,0 +1,9 @@
+/usr/bin/make
+/usr/bin/perl
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(constant)
+perl(strict)
+perl(vars)
+perl-generators

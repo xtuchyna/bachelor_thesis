@@ -1,0 +1,7 @@
+atlas-devel
+blas-devel
+cmake
+doxygen
+f2c
+gcc-c++
+lapack-devel

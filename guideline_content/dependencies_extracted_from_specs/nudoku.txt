@@ -1,0 +1,4 @@
+autoconf
+automake
+ncurses-devel
+xz

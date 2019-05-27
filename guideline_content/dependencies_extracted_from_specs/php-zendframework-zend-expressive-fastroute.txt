@@ -1,0 +1,10 @@
+/usr/bin/phpunit6
+php(language) >= 5.6
+php-autoloader(zendframework/zend-expressive-router) >= 2.0
+php-autoloader(zendframework/zend-stdlib) >= 3.1
+php-composer(fig/http-message-util) >= 1.1.2
+php-composer(nikic/fast-route) >= 1.2
+php-composer(psr/container) >= 1.0
+php-composer(psr/http-message) >= 1.0.1
+php-fedora-autoloader-devel
+php-pcre

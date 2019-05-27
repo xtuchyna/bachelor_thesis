@@ -1,0 +1,15 @@
+chrpath
+doxygen
+gawk
+hdf-static
+hdf5-devel
+hdf5-mpich-devel >= 1.8.4
+hdf5-openmpi-devel >= 1.8.4
+libcurl-devel
+libtool
+m4
+mpich-devel
+openmpi-devel
+openssh-clients
+valgrind
+zlib-devel

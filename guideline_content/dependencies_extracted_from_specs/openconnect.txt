@@ -1,0 +1,17 @@
+autoconf
+automake
+gettext
+gnupg2
+krb5-devel
+libtool
+pkgconfig(gnutls)
+pkgconfig(liblz4)
+pkgconfig(libpcsclite)
+pkgconfig(libproxy-1.0)
+pkgconfig(libpskc)
+pkgconfig(libxml-2.0)
+pkgconfig(socket_wrapper)
+pkgconfig(stoken)
+pkgconfig(uid_wrapper)
+python
+trousers-devel

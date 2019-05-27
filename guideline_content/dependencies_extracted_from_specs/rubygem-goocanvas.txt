@@ -1,0 +1,8 @@
+goocanvas2-devel
+ruby(release)
+ruby-devel
+rubygem-cairo-devel
+rubygem-glib2-devel >= 2.1.0
+rubygem-gobject-introspection-devel >= 2.1.0
+rubygem-gtk3-devel >= 2.1.0
+rubygems-devel

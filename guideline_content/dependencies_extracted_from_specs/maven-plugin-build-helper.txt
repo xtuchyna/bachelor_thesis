@@ -1,0 +1,13 @@
+maven-local
+mvn(org.apache.maven.plugin-tools:maven-plugin-annotations)
+mvn(org.apache.maven.plugins:maven-invoker-plugin)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven:maven-artifact)
+mvn(org.apache.maven:maven-compat)
+mvn(org.apache.maven:maven-core)
+mvn(org.apache.maven:maven-model)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.apache.maven:maven-project)
+mvn(org.beanshell:bsh)
+mvn(org.codehaus.mojo:mojo-parent:pom:)
+mvn(org.codehaus.plexus:plexus-utils)

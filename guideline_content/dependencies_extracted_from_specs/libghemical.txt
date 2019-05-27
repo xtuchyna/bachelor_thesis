@@ -1,0 +1,12 @@
+atlas-devel
+blas-devel
+flex
+gcc-gfortran
+glib2-devel
+intltool
+lapack-devel
+libint-devel
+libtool
+mesa-libGLU-devel
+mopac7-devel
+mpqc-devel

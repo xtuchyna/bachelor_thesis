@@ -1,0 +1,10 @@
+python2-devel
+python2-mock
+python2-pytest
+python2-pytest-cov
+python2-watchdog
+python3-devel
+python3-mock
+python3-pytest
+python3-pytest-cov
+python3-watchdog

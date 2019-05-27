@@ -1,0 +1,13 @@
+R-Rcpp-devel
+R-devel
+R-expm
+R-gee
+R-graphics
+R-lattice
+R-methods
+R-nlme
+R-parallel
+R-stats
+R-tools
+R-utils
+tex(latex)

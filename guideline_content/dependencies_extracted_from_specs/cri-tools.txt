@@ -1,0 +1,4 @@
+compiler(go-compiler)
+git
+glibc-static
+go-md2man

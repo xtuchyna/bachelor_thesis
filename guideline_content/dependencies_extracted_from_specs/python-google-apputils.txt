@@ -1,0 +1,13 @@
+/usr/bin/2to3
+python2-dateutil
+python2-devel
+python2-gflags
+python2-mox
+python2-pytz
+python2-setuptools
+python2-tools
+python3-dateutil
+python3-devel
+python3-gflags
+python3-pytz
+python3-setuptools

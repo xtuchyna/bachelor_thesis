@@ -1,0 +1,6 @@
+GConf2-devel >= 1.1.1
+ORBit2-devel >= 2.9.0
+glib2-devel >= 2.9.3
+gnome-vfs2-devel >= 2.15.3
+libbonobo-devel >= 2.3.1
+perl(XML::Parser)

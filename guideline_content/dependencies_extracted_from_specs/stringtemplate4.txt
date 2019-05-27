@@ -1,0 +1,5 @@
+maven-local
+mvn(junit:junit)
+mvn(org.antlr:antlr-runtime) >= 3.5.2
+mvn(org.antlr:antlr3-maven-plugin) >= 3.5.2
+mvn(org.sonatype.oss:oss-parent:pom:)

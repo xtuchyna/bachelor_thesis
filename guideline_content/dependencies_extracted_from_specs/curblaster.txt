@@ -1,0 +1,4 @@
+SDL2_mixer-devel
+cppcheck
+desktop-file-utils
+ncurses-devel

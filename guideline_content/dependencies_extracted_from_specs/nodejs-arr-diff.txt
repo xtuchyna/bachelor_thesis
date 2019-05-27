@@ -1,0 +1,4 @@
+mocha
+nodejs-packaging
+npm(arr-flatten)
+npm(should)

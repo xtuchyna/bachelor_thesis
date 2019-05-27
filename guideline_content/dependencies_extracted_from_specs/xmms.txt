@@ -1,0 +1,13 @@
+alsa-lib-devel
+arts-devel
+desktop-file-utils
+gettext-devel
+gtk+-devel
+libGL-devel
+libSM-devel
+libXt-devel
+libXxf86vm-devel
+libogg-devel
+libvorbis-devel
+mikmod-devel
+zlib-devel

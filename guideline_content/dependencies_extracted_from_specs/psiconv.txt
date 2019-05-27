@@ -1,0 +1,2 @@
+ImageMagick-devel
+bc

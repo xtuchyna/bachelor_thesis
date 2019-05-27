@@ -1,0 +1,10 @@
+js-sizzle-static
+nodejs-grunt >= 0.4.4-3
+nodejs-packaging
+nodejs-strip-json-comments
+npm(grunt-cli)
+npm(grunt-contrib-uglify)
+npm(load-grunt-tasks)
+npm(requirejs)
+npm(shelljs)
+web-assets-devel

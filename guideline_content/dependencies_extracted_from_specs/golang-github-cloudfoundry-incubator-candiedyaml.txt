@@ -1,0 +1,3 @@
+compiler(go-compiler)
+golang(github.com/onsi/ginkgo)
+golang(github.com/onsi/gomega)

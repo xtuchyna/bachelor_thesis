@@ -1,0 +1,3 @@
+gettext
+gimp-devel >= 2.4.0
+pkgconfig

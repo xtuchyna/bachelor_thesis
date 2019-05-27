@@ -1,0 +1,11 @@
+perl(Encode)
+perl(Encode::CJKConstants)
+perl(Encode::JP::JIS7)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Test::More)
+perl(Test::Pod)
+perl(XSLoader)
+perl(base)
+perl-Encode-devel
+perl-generators

@@ -1,0 +1,6 @@
+ruby(release)
+rubygem(rails) >= 4.1.2
+rubygem(rspec)
+rubygem(rspec-rails)
+rubygem(sqlite3)
+rubygems-devel

@@ -1,0 +1,12 @@
+avahi-devel
+chrpath
+gettext
+glib2-devel
+gnutls-devel
+gpg
+gtk-doc
+gtk3-devel
+libdaemon-devel
+libgsasl-devel
+libxml2-devel
+pam-devel

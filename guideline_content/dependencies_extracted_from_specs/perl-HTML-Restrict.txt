@@ -1,0 +1,21 @@
+make
+perl(Carp)
+perl(Data::Dump)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(HTML::Entities)
+perl(HTML::Parser)
+perl(List::Util) >= 1.33
+perl(Moo) >= 1.002000
+perl(Sub::Quote)
+perl(Test::Fatal)
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(Types::Standard) >= 1.000001
+perl(URI)
+perl(namespace::clean)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

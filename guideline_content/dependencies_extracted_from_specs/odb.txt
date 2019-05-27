@@ -1,0 +1,5 @@
+expat-devel
+gcc-c++ >= 4.5.0
+gcc-plugin-devel
+libcutl-devel >= 1.8.0
+pkgconfig

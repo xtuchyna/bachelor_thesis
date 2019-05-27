@@ -1,0 +1,13 @@
+autoconf
+automake
+boost-devel >= 1.50.0
+boost-python >= 1.50.0
+boost-python3-devel >= 1.50.0
+libtool
+openslp-devel
+python2-devel
+python2-sphinx
+python2-sphinx_rtd_theme
+python3-devel
+tog-pegasus-devel >= 2.12.0
+tog-pegasus-libs >= 2.12.0

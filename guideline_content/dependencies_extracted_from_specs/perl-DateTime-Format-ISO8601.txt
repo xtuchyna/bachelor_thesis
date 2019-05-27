@@ -1,0 +1,11 @@
+perl(Carp)
+perl(DateTime) >= 0.18
+perl(DateTime::Format::Builder) >= 0.77
+perl(File::Find::Rule)
+perl(Module::Build::Compat) >= 0.02
+perl(Params::Validate)
+perl(Test::Distribution)
+perl(Test::More)
+perl(Test::Pod) >= 0.95
+perl(lib)
+perl-generators

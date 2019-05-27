@@ -1,0 +1,24 @@
+findutils
+make
+perl(Capture::Tiny)
+perl(Config)
+perl(Cwd)
+perl(Devel::CheckOS)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(LWP::Simple)
+perl(LWP::UserAgent)
+perl(Module::CoreList)
+perl(Parse::CPAN::Packages)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(URI::file)
+perl(YAML::Tiny)
+perl(constant)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

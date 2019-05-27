@@ -1,0 +1,15 @@
+make
+perl(:VERSION) >= 5.10
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Math::BigFloat)
+perl(Math::BigInt) >= 1.999718
+perl(Math::BigRat) >= 0.12
+perl(Test::More) >= 0.47
+perl(constant)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

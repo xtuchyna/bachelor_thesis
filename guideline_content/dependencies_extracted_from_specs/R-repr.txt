@@ -1,0 +1,8 @@
+R-Cairo
+R-devel
+R-grDevices
+R-highr
+R-methods
+R-testthat
+R-utils
+tex(latex)

@@ -1,0 +1,10 @@
+perl(ExtUtils::MakeMaker)
+perl(Jcode)
+perl(Test::Distribution)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Unicode::Map)
+perl(Unicode::Map8)
+perl(Unicode::String)
+perl-generators

@@ -1,0 +1,26 @@
+boost-devel
+cairo-devel
+dejavu-sans-fonts
+desktop-file-utils
+freetype-devel
+gcc-c++
+gdal-devel
+harfbuzz-devel
+libicu-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel
+libwebp-devel
+libxml2-devel
+mapbox-variant-devel
+mapbox-variant-static
+pkgconfig
+postgis
+postgresql-devel
+postgresql-server
+proj-devel
+proj-epsg
+qt-devel > 4.3
+scons
+sparsehash-devel
+sqlite-devel

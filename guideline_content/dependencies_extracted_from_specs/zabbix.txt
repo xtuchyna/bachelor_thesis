@@ -1,0 +1,14 @@
+OpenIPMI-devel
+curl-devel
+gnutls-devel
+iksemel-devel
+libssh2-devel
+libxml2-devel
+mariadb-connector-c-devel
+net-snmp-devel
+openldap-devel
+openssl-devel
+postgresql-devel
+sqlite-devel
+systemd
+unixODBC-devel

@@ -1,0 +1,3 @@
+/usr/bin/bdftopcf
+/usr/bin/mkfontdir
+fontpackages-devel >= 1.18

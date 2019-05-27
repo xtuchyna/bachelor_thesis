@@ -1,0 +1,6 @@
+boost-devel
+desktop-file-utils
+libX11-devel
+perl(Getopt::Long)
+perl(strict)
+perl-interpreter

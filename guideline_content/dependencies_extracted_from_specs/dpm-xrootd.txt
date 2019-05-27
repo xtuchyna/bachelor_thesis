@@ -1,0 +1,6 @@
+boost-devel >= 1.48.0
+cmake
+dmlite-devel >= 0.8.1
+dmlite-private-devel >= 0.8.1
+openssl-devel
+xrootd-server-devel >= 1:4.2

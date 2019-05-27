@@ -1,0 +1,3 @@
+(crate(metadeps) >= 1.0.0 with crate(metadeps) < 2.0.0)
+pkgconfig(dbus-1) >= 1.6
+rust-packaging

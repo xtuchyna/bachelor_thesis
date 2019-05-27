@@ -1,0 +1,138 @@
+/usr/bin/pod2man
+/usr/sbin/apachectl
+/usr/share/fonts/google-droid/DroidSans.ttf
+/usr/share/fonts/google-droid/DroidSansFallback.ttf
+perl(Apache::DBI)
+perl(Apache::Session) >= 1.53
+perl(Business::Hours)
+perl(CGI::Cookie) >= 1.20
+perl(CGI::Emulate::PSGI)
+perl(CGI::PSGI)
+perl(CPAN)
+perl(CSS::Minifier::XS)
+perl(CSS::Squish) >= 0.06
+perl(Cache::Simple::TimedExpiry)
+perl(Class::ReturnValue) >= 0.40
+perl(Convert::Color)
+perl(Crypt::Eksblowfish)
+perl(Crypt::SSLeay)
+perl(Crypt::X509)
+perl(DBD::mysql) >= 2.1018
+perl(DBI) >= 1.37
+perl(DBIx::SearchBuilder) >= 1.59
+perl(Data::GUID)
+perl(Data::ICal)
+perl(Data::Page::Pageset)
+perl(Date::Extract) >= 0.02
+perl(Date::Format)
+perl(Date::Manip)
+perl(DateTime) >= 0.44
+perl(DateTime::Format::Natural) >= 0.67
+perl(DateTime::Locale) >= 0.40
+perl(Devel::GlobalDestruction)
+perl(Devel::StackTrace) >= 1.19
+perl(Digest::MD5) >= 2.27
+perl(Digest::base)
+perl(Email::Abstract)
+perl(Email::Address) >= 1.908
+perl(Email::Address::List) >= 0.02
+perl(Encode) >= 2.64
+perl(Errno)
+perl(File::Find)
+perl(File::Glob)
+perl(File::ShareDir)
+perl(File::Spec) >= 0.8
+perl(File::Temp) >= 0.19
+perl(File::Which)
+perl(GD)
+perl(GD::Graph) >= 1.47
+perl(GD::Text)
+perl(Getopt::Long) >= 2.24
+perl(GnuPG::Interface)
+perl(GraphViz)
+perl(HTML::Entities)
+perl(HTML::Form)
+perl(HTML::FormatText)
+perl(HTML::FormatText::WithLinks) >= 0.14
+perl(HTML::FormatText::WithLinks::AndTables) >= 0.06
+perl(HTML::Mason) >= 1.43
+perl(HTML::Mason::PSGIHandler)
+perl(HTML::Quoted)
+perl(HTML::RewriteAttributes) >= 0.02
+perl(HTML::Scrubber) >= 0.08
+perl(HTML::TreeBuilder)
+perl(HTTP::Request::Common)
+perl(HTTP::Server::Simple) >= 0.34
+perl(HTTP::Server::Simple::Mason) >= 0.09
+perl(IPC::Run)
+perl(IPC::Run3)
+perl(IPC::Run::SafeHandles)
+perl(JSON)
+perl(JavaScript::Minifier)
+perl(JavaScript::Minifier::XS)
+perl(LWP)
+perl(LWP::Protocol::https)
+perl(LWP::UserAgent)
+perl(List::MoreUtils)
+perl(Locale::Maketext) >= 1.06
+perl(Locale::Maketext::Fuzzy) >= 0.11
+perl(Locale::Maketext::Lexicon) >= 0.32
+perl(Locale::PO)
+perl(Log::Dispatch) >= 2.23
+perl(Log::Dispatch::Perl)
+perl(MIME::Entity) >= 5.425
+perl(MIME::Types)
+perl(Mail::Mailer) >= 1.57
+perl(Module::Refresh) >= 0.03
+perl(Module::Versions::Report) >= 1.05
+perl(Mojo::DOM)
+perl(Mozilla::CA)
+perl(Net::CIDR)
+perl(Net::IP)
+perl(Net::LDAP::Server::Test)
+perl(Net::SMTP)
+perl(Net::SSL)
+perl(Net::Server)
+perl(Net::Server::PreFork)
+perl(PerlIO::eol)
+perl(Plack)
+perl(Plack::Handler::Starlet)
+perl(Plack::Middleware::Test::StashWarnings) >= 0.06
+perl(Pod::Select)
+perl(Pod::Usage)
+perl(Regexp::Common)
+perl(Regexp::Common::net::CIDR)
+perl(Regexp::IPv6)
+perl(Role::Basic) >= 0.12
+perl(Scalar::Util)
+perl(Scope::Upper)
+perl(Set::Tiny)
+perl(Storable) >= 2.08
+perl(String::ShellQuote)
+perl(Symbol::Global::Name) >= 0.04
+perl(Term::ReadKey)
+perl(Term::ReadLine)
+perl(Test::Builder) >= 0.77
+perl(Test::Deep)
+perl(Test::Email)
+perl(Test::Expect) >= 0.31
+perl(Test::MockTime)
+perl(Test::NoWarnings)
+perl(Test::Pod) >= 1.14
+perl(Test::WWW::Mechanize)
+perl(Test::WWW::Mechanize::PSGI)
+perl(Test::Warn)
+perl(Text::ParseWords)
+perl(Text::Password::Pronounceable)
+perl(Text::Quoted) >= 2.02
+perl(Text::Template)
+perl(Text::WikiFormat) >= 0.76
+perl(Text::Wrapper)
+perl(Time::HiRes)
+perl(Time::ParseDate)
+perl(Tree::Simple) >= 1.04
+perl(UNIVERSAL::require)
+perl(WWW::Mechanize)
+perl(XML::RSS) >= 1.05
+perl(XML::Simple)
+perl-generators

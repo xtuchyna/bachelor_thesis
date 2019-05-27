@@ -1,0 +1,6 @@
+alleggl-devel
+allegro-tools
+desktop-file-utils
+dumb-devel
+libGLU-devel
+ode-devel

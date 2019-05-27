@@ -1,0 +1,5 @@
+/usr/bin/jq
+ruby
+ruby(release)
+rubygem(rspec)
+rubygems-devel

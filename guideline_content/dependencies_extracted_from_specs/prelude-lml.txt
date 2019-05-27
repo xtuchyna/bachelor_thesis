@@ -1,0 +1,9 @@
+chrpath
+libgpg-error-devel
+pkgconfig(gnutls)
+pkgconfig(icu-io)
+pkgconfig(libevdev)
+pkgconfig(libpcre)
+pkgconfig(libprelude) >= 4.0.0
+systemd
+valgrind

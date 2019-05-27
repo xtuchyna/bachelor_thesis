@@ -1,0 +1,7 @@
+autoconf
+automake
+coreutils
+gcc
+libacl-devel
+libattr-devel
+make

@@ -1,0 +1,25 @@
+coreutils
+findutils
+make
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(HTTP::Parser) >= 0.06
+perl(HTTP::Request)
+perl(HTTP::Response)
+perl(HTTP::Status)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(POE) >= 1.003
+perl(POE::Filter)
+perl(POE::Filter::Stream)
+perl(Test::More) >= 0.47
+perl(Test::POE::Client::TCP) >= 0.1
+perl(Test::POE::Server::TCP) >= 0.16
+perl(base)
+perl(blib)
+perl(bytes)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,11 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(Moose)
+perl(Moose::Exporter)
+perl(Moose::Role)
+perl(Moose::Util::MetaRole)
+perl(Test::More) >= 0.88
+perl(lib)
+perl(namespace::autoclean)
+perl-generators

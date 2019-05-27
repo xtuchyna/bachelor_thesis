@@ -1,0 +1,15 @@
+dmidecode
+perl(Carp)
+perl(Data::Dumper)
+perl(Exporter)
+perl(File::Which) >= 0.05
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod) >= 1.2
+perl(Test::Pod::Coverage) >= 1.06
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

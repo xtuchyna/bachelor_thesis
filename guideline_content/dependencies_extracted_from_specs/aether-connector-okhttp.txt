@@ -1,0 +1,15 @@
+maven-local
+mvn(com.google.guava:guava:18.0)
+mvn(com.squareup.okhttp3:okhttp) >= 3.10.0
+mvn(com.squareup.okio:okio) >= 1.14.0
+mvn(javax.inject:javax.inject)
+mvn(org.apache.maven.wagon:wagon-provider-api)
+mvn(org.eclipse.aether:aether-api)
+mvn(org.eclipse.aether:aether-impl)
+mvn(org.eclipse.aether:aether-spi)
+mvn(org.eclipse.aether:aether-util)
+mvn(org.eclipse.sisu:org.eclipse.sisu.inject)
+mvn(org.eclipse.sisu:org.eclipse.sisu.plexus)
+mvn(org.slf4j:slf4j-api)
+mvn(org.sonatype.plugins:sisu-maven-plugin)
+mvn(org.sonatype.sisu:sisu-guice::no_aop:)

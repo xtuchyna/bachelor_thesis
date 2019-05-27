@@ -1,0 +1,21 @@
+autoconf
+automake
+bc
+device-mapper-devel
+dosfstools
+e2fsprogs
+e2fsprogs-devel
+gcc
+gettext-devel
+git
+gnupg
+gperf
+libblkid-devel >= 2.17
+libselinux-devel
+libuuid-devel
+ncurses-devel
+perl-Digest-CRC
+python2
+readline-devel
+texinfo
+xfsprogs

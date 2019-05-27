@@ -1,0 +1,14 @@
+findutils
+gcc
+glibc-common
+make
+perl(Digest::base)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

@@ -1,0 +1,7 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.apache.maven:maven-artifact)
+mvn(org.apache.maven:maven-artifact-manager)
+mvn(org.apache.maven:maven-plugin-api)

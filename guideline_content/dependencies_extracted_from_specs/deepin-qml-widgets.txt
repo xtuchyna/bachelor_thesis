@@ -1,0 +1,10 @@
+deepin-gettext-tools
+desktop-file-utils
+pkgconfig(Qt5)
+pkgconfig(Qt5Qml)
+pkgconfig(Qt5WebKit)
+pkgconfig(Qt5X11Extras)
+pkgconfig(dtkwidget) = 2.0
+pkgconfig(gtk+-2.0)
+pkgconfig(xcb)
+pkgconfig(xcomposite)

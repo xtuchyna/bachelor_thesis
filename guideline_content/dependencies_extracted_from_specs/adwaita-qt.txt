@@ -1,0 +1,3 @@
+cmake
+qt4-devel
+qt5-qtbase-devel

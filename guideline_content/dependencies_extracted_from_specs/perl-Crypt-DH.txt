@@ -1,0 +1,15 @@
+findutils
+make
+perl(Cwd)
+perl(ExtUtils::MakeMaker)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(Math::BigInt) >= 1.60
+perl(Math::BigInt::GMP) >= 1.24
+perl(Test::Builder::Module)
+perl(Text::ParseWords)
+perl(base)
+perl-generators
+perl-interpreter
+sed

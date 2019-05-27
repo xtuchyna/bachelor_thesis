@@ -1,0 +1,7 @@
+alex
+ghc-Cabal-devel
+ghc-array-devel
+ghc-cpphs-devel
+ghc-parsec-devel
+ghc-pretty-devel
+ghc-rpm-macros

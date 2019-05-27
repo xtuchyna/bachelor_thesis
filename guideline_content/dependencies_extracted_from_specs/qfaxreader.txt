@@ -1,0 +1,5 @@
+cmake
+desktop-file-utils
+gdbm-devel
+libtiff-devel
+qt3-devel

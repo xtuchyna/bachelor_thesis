@@ -1,0 +1,5 @@
+desktop-file-utils
+gcc
+gettext
+gperf
+pkgconfig(ncurses)

@@ -1,0 +1,4 @@
+python-devel
+python-lxml
+python-setuptools
+pytz

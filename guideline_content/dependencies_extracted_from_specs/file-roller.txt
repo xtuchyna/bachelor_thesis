@@ -1,0 +1,12 @@
+/usr/bin/appstream-util
+desktop-file-utils
+file-devel
+gettext
+itstool
+meson
+pkgconfig(gio-unix-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(json-glib-1.0)
+pkgconfig(libarchive)
+pkgconfig(libnautilus-extension)
+pkgconfig(libnotify)

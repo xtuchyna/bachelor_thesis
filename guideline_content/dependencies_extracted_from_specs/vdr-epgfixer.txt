@@ -1,0 +1,2 @@
+pcre-devel
+vdr-devel >= 1.7.26

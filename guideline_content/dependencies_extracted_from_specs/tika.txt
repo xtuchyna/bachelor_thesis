@@ -1,0 +1,59 @@
+maven-local
+mvn(biz.aQute:bndlib)
+mvn(com.adobe.xmp:xmpcore)
+mvn(com.drewnoakes:metadata-extractor:2) >= 2.8.1
+mvn(com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider) >= 2.7.1
+mvn(com.google.code.gson:gson)
+mvn(com.google.guava:guava)
+mvn(com.googlecode.json-simple:json-simple)
+mvn(com.googlecode.juniversalchardet:juniversalchardet)
+mvn(com.healthmarketscience.jackcess:jackcess)
+mvn(com.healthmarketscience.jackcess:jackcess-encrypt)
+mvn(com.pff:java-libpst)
+mvn(com.rometools:rome)
+mvn(commons-cli:commons-cli)
+mvn(commons-codec:commons-codec)
+mvn(commons-io:commons-io)
+mvn(de.l3s.boilerpipe:boilerpipe)
+mvn(edu.ucar:cdm) >= 4.5.5
+mvn(edu.ucar:grib) >= 4.5.5
+mvn(edu.ucar:httpservices) >= 4.5.5
+mvn(edu.ucar:netcdf4) >= 4.5.5
+mvn(junit:junit)
+mvn(log4j:log4j:1.2.17)
+mvn(net.sourceforge.jmatio:jmatio)
+mvn(org.apache.ant:ant)
+mvn(org.apache.commons:commons-compress)
+mvn(org.apache.commons:commons-csv)
+mvn(org.apache.commons:commons-exec)
+mvn(org.apache.cxf:cxf-rt-frontend-jaxrs) >= 3.0.3
+mvn(org.apache.cxf:cxf-rt-rs-client)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.felix:org.apache.felix.scr.annotations)
+mvn(org.apache.james:apache-mime4j-core)
+mvn(org.apache.james:apache-mime4j-dom)
+mvn(org.apache.james:james-project:pom:)
+mvn(org.apache.maven.plugins:maven-failsafe-plugin)
+mvn(org.apache.maven.plugins:maven-remote-resources-plugin)
+mvn(org.apache.opennlp:opennlp-tools)
+mvn(org.apache.pdfbox:pdfbox) >= 1.8.10
+mvn(org.apache.poi:poi) >= 3.13
+mvn(org.apache.poi:poi-ooxml) >= 3.13
+mvn(org.apache.poi:poi-scratchpad) >= 3.13
+mvn(org.apache:apache:pom:)
+mvn(org.bouncycastle:bcmail-jdk15on)
+mvn(org.bouncycastle:bcprov-jdk15on)
+mvn(org.ccil.cowan.tagsoup:tagsoup)
+mvn(org.codelibs:jhighlight)
+mvn(org.gagravarr:vorbis-java-core)
+mvn(org.gagravarr:vorbis-java-tika)
+mvn(org.mockito:mockito-core)
+mvn(org.osgi:org.osgi.compendium)
+mvn(org.osgi:org.osgi.core)
+mvn(org.ow2.asm:asm-debug-all)
+mvn(org.slf4j:jcl-over-slf4j)
+mvn(org.slf4j:jul-to-slf4j)
+mvn(org.slf4j:slf4j-log4j12)
+mvn(org.tukaani:xz)
+mvn(org.xerial:sqlite-jdbc)
+mvn(xml-apis:xml-apis)

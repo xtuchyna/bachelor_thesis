@@ -1,0 +1,4 @@
+aspell-devel
+glib2-devel
+hunspell-devel
+libvoikko-devel

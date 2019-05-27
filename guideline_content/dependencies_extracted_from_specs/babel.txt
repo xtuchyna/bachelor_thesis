@@ -1,0 +1,12 @@
+make
+python2-devel
+python2-freezegun
+python2-pytest
+python2-pytz
+python2-setuptools
+python3-devel
+python3-freezegun
+python3-pytest
+python3-pytz
+python3-setuptools
+python3-sphinx

@@ -1,0 +1,18 @@
+perl(CHI)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Path)
+perl(File::Temp)
+perl(Getopt::Long)
+perl(Mojo::Base)
+perl(Mojo::Util)
+perl(Mojolicious) >= 4.77
+perl(Mojolicious::Lite)
+perl(Scalar::Util)
+perl(Test::Mojo)
+perl(Test::More)
+perl(Test::Output) >= 1
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

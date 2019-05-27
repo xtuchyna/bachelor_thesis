@@ -1,0 +1,2 @@
+librsync-devel >= 0.9.6
+python2-devel >= 2.2

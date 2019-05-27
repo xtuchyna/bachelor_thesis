@@ -1,0 +1,10 @@
+alsa-lib-devel
+autoconf
+automake
+clalsadrv-devel
+desktop-file-utils
+fftw3-devel
+jack-audio-connection-kit-devel
+ladspa-devel
+libtool
+qt-devel

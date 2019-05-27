@@ -1,0 +1,3 @@
+gcc-c++
+mapbox-variant-devel >= 1.1.4
+mapbox-variant-static >= 1.1.4

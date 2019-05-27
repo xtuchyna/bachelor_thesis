@@ -1,0 +1,4 @@
+flex
+gcc
+libx86emu-devel
+perl-interpreter

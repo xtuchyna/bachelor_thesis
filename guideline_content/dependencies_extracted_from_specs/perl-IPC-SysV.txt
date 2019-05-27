@@ -1,0 +1,18 @@
+findutils
+gcc
+make
+perl(Carp)
+perl(Class::Struct)
+perl(Config)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Pod::Coverage) >= 0.10
+perl(Test::More) >= 0.45
+perl(Test::Pod) >= 0.95
+perl(Test::Pod::Coverage) >= 1.08
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

@@ -1,0 +1,2 @@
+ruby-devel
+rubygems-devel

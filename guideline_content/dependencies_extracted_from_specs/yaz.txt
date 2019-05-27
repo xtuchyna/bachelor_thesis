@@ -1,0 +1,14 @@
+bison
+chrpath
+gcc
+gnutls-devel
+hiredis-devel
+libgcrypt-devel
+libgpg-error-devel
+libicu-devel
+libmemcached-devel
+libpcap-devel
+libxml2-devel
+libxslt-devel
+readline-devel
+tcl

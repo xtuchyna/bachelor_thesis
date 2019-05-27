@@ -1,0 +1,5 @@
+cmake
+make
+mingw32-filesystem
+mingw32-gcc
+redhat-rpm-config

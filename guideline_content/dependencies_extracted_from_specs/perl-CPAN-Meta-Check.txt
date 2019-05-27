@@ -1,0 +1,23 @@
+make
+perl(CPAN::Meta) >= 2.120920
+perl(CPAN::Meta::Prereqs) >= 2.132830
+perl(CPAN::Meta::Requirements) >= 2.121
+perl(Env)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Module::Metadata) >= 1.000023
+perl(Pod::Coverage::TrustPod)
+perl(Test::Deep)
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.41
+perl(Test::Pod::Coverage) >= 1.08
+perl(base)
+perl(blib)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

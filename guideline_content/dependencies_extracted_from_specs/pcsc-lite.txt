@@ -1,0 +1,9 @@
+/usr/bin/pod2man
+autoconf
+automake
+doxygen
+gettext-devel
+graphviz
+libtool
+polkit-devel
+systemd-devel

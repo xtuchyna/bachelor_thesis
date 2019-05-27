@@ -1,0 +1,14 @@
+make
+perl(CPANPLUS) >= 0.059
+perl(CPANPLUS::Error)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(LWP::Simple)
+perl(Locale::Maketext::Simple)
+perl(Params::Check) >= 0.23
+perl(Test::More)
+perl(lib)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

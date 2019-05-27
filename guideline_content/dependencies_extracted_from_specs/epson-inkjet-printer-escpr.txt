@@ -1,0 +1,6 @@
+autoconf
+chrpath
+cups-devel
+libjpeg-devel
+python-cups
+python3-cups

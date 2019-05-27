@@ -1,0 +1,12 @@
+nodejs-packaging >= 6
+npm(alter)
+npm(ast-traverse)
+npm(breakable)
+npm(diff)
+npm(esprima-fb)
+npm(simple-fmt)
+npm(simple-is)
+npm(stringmap)
+npm(stringset)
+npm(tryor)
+npm(yargs)

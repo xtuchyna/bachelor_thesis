@@ -1,0 +1,2 @@
+Judy-devel
+compat-openssl10-devel

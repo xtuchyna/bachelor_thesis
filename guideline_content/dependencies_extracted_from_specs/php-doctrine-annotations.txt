@@ -1,0 +1,14 @@
+php(language) >= 5.3.2
+php-composer(doctrine/cache) < 2.0
+php-composer(doctrine/cache) >= 1.4.1
+php-composer(doctrine/lexer) < 2.0
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-ctype
+php-date
+php-doctrine-lexer >= 1.0.1-4
+php-json
+php-pcre
+php-reflection
+php-spl
+php-tokenizer

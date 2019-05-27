@@ -1,0 +1,4 @@
+ghc-Cabal-devel
+ghc-HUnit-devel
+ghc-QuickCheck-devel
+ghc-rpm-macros

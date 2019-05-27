@@ -1,0 +1,2 @@
+/usr/bin/pod2man
+perl-generators

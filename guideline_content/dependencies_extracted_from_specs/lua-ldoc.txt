@@ -1,0 +1,3 @@
+lua >= 5.3
+lua-markdown
+lua-penlight >= 1.4.0

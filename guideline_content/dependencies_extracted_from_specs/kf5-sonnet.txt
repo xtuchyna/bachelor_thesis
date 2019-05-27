@@ -1,0 +1,6 @@
+extra-cmake-modules >= 5.44.0
+hunspell-devel
+kf5-rpm-macros >= 5.44.0
+qt5-qtbase-devel
+qt5-qttools-devel
+zlib-devel

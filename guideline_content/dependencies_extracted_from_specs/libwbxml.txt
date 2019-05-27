@@ -1,0 +1,7 @@
+cmake >= 2.4
+coreutils
+expat-devel
+gcc
+make
+perl-interpreter
+pkgconfig(check)

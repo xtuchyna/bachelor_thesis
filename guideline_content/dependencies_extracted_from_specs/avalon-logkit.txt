@@ -1,0 +1,7 @@
+maven-local
+mvn(javax.mail:mail)
+mvn(javax.servlet:servlet-api)
+mvn(junit:junit)
+mvn(log4j:log4j)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.geronimo.specs:geronimo-jms_1.1_spec)

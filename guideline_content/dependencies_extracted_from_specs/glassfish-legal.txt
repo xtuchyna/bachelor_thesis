@@ -1,0 +1,3 @@
+glassfish-master-pom
+maven-local
+maven-remote-resources-plugin

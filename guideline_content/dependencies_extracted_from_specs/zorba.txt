@@ -1,0 +1,25 @@
+bison
+boost-devel
+chrpath
+cmake
+doxygen
+flex
+graphviz-devel
+help2man
+java-devel >= 1:1.6.0
+jpackage-utils
+libcurl-devel
+libedit-devel
+libicu-devel
+libtidy-devel
+libuuid-devel
+libxml2-devel
+php-devel
+python2-devel
+ruby
+ruby-devel
+swig
+tex(dvips)
+tex(latex)
+xerces-c-devel
+xqc

@@ -1,0 +1,11 @@
+coreutils
+desktop-file-utils
+gcc
+libX11-devel
+perl(lib)
+perl-interpreter
+readline-devel
+sed
+tex(dvips)
+tex(tex)
+xmkmf

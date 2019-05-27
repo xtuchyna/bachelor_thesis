@@ -1,0 +1,5 @@
+desktop-file-utils
+phonon-devel
+qt-devel
+qtsingleapplication-devel
+taglib-devel

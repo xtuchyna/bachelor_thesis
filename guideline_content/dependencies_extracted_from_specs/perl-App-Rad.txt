@@ -1,0 +1,17 @@
+findutils
+make
+perl(:VERSION) >= 5.6.0
+perl(Attribute::Handlers)
+perl(B::Deparse)
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(FindBin)
+perl(Getopt::Long) >= 2.36
+perl(O)
+perl(Test::More)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

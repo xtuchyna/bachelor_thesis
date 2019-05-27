@@ -1,0 +1,23 @@
+coreutils
+findutils
+make
+perl(:VERSION) >= 5.8.0
+perl(List::MoreUtils)
+perl(Module::Install::Admin::RDF) >= 0.003
+perl(Module::Install::Base)
+perl(Module::Install::Contributors) >= 0.001
+perl(Module::Manifest)
+perl(MooX::Struct)
+perl(Path::Class)
+perl(RDF::Trine)
+perl(RDF::Trine::Namespace)
+perl(Software::License)
+perl(Software::LicenseUtils)
+perl(Test::More) >= 0.61
+perl(base)
+perl(constant)
+perl(inc::Module::Package)
+perl(strict)
+perl-generators
+perl-interpreter
+sed

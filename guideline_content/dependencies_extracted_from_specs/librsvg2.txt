@@ -1,0 +1,29 @@
+(crate(cairo-rs) >= 0.3.0 with crate(cairo-rs) < 0.4.0)
+(crate(cairo-sys-rs) >= 0.5.0 with crate(cairo-sys-rs) < 0.6.0)
+(crate(cssparser) >= 0.23.0 with crate(cssparser) < 0.24.0)
+(crate(downcast-rs) >= 1.0.0 with crate(downcast-rs) < 2.0.0)
+(crate(glib) >= 0.4.0 with crate(glib) < 0.5.0)
+(crate(glib-sys) >= 0.5.0 with crate(glib-sys) < 0.6.0)
+(crate(itertools) >= 0.7.4 with crate(itertools) < 0.8.0)
+(crate(libc) >= 0.2.0 with crate(libc) < 0.3.0)
+(crate(pango) >= 0.3.0 with crate(pango) < 0.4.0)
+(crate(pango-sys) >= 0.5.0 with crate(pango-sys) < 0.6.0)
+(crate(regex) >= 0.2.1 with crate(regex) < 0.3.0)
+/usr/bin/vapigen
+chrpath
+gcc
+gobject-introspection-devel
+pkgconfig(cairo) >= 1.2.0
+pkgconfig(cairo-png) >= 1.2.0
+pkgconfig(fontconfig)
+pkgconfig(gdk-pixbuf-2.0) >= 2.20
+pkgconfig(gio-2.0) >= 2.24.0
+pkgconfig(gio-unix-2.0)
+pkgconfig(glib-2.0) >= 2.52.0
+pkgconfig(gthread-2.0) >= 2.52.0
+pkgconfig(gtk+-3.0) >= 3.10.0
+pkgconfig(libcroco-0.6) >= 0.6.1
+pkgconfig(libxml-2.0) >= 2.9.0
+pkgconfig(pangocairo) >= 1.38.0
+pkgconfig(pangoft2) >= 1.38.0
+rust-packaging

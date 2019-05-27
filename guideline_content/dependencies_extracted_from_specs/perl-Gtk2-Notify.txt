@@ -1,0 +1,28 @@
+dbus-x11
+dunst
+font(:lang=en)
+gtk2-devel
+libnotify-devel
+perl(Carp)
+perl(DynaLoader)
+perl(ExtUtils::Depends)
+perl(ExtUtils::PkgConfig)
+perl(File::Spec::Functions)
+perl(Glib) >= 1.093
+perl(Glib::MakeHelper)
+perl(Gtk2)
+perl(Gtk2::CodeGen)
+perl(Gtk2::TestHelper)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(base)
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+xorg-x11-server-Xvfb
+xorg-x11-xinit

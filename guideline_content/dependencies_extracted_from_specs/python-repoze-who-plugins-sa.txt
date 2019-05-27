@@ -1,0 +1,13 @@
+python-coverage
+python-elixir
+python-nose
+python-repoze-who
+python-setuptools
+python-sqlalchemy
+python2-devel
+python3-coverage
+python3-devel
+python3-nose
+python3-repoze-who
+python3-setuptools
+python3-sqlalchemy

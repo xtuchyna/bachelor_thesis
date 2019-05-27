@@ -1,0 +1,19 @@
+coreutils
+findutils
+gcc
+make
+perl(:VERSION) >= 5.8.5
+perl(Exporter)
+perl(ExtUtils::Depends)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::PkgConfig)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(XSLoader)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig(sane-backends) >= 1.0.19

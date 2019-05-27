@@ -1,0 +1,7 @@
+doxygen
+globus-common-devel >= 15
+globus-gsi-cert-utils-devel >= 8
+globus-gsi-openssl-error-devel >= 2
+globus-gsi-sysconfig-devel >= 5
+globus-openssl-module-devel >= 3
+openssl-devel

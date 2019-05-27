@@ -1,0 +1,11 @@
+cmake
+dmlite-devel >= 0.8.0
+gcc
+gridsite-devel
+gsoap-devel
+httpd-devel
+json-c-devel
+libbsd-devel
+libcurl-devel
+openssl-devel
+subversion

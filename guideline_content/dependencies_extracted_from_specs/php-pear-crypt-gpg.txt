@@ -1,0 +1,5 @@
+/usr/bin/gpg
+/usr/bin/gpg-agent
+/usr/bin/ps
+php-composer(phpunit/phpunit)
+php-pear(PEAR)

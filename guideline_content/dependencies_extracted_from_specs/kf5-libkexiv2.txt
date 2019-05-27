@@ -1,0 +1,4 @@
+cmake(Qt5Gui)
+extra-cmake-modules
+kf5-rpm-macros
+pkgconfig(exiv2)

@@ -1,0 +1,15 @@
+php(language) >= 5.3.3
+php-composer(ircmaxell/password-compat) < 2.0
+php-composer(ircmaxell/password-compat) >= 1.0
+php-composer(paragonie/random_compat) < 3.0
+php-composer(paragonie/random_compat) >= 1.0
+php-composer(phpunit/phpunit)
+php-fedora-autoloader-devel
+php-hash
+php-iconv
+php-intl
+php-json
+php-ldap
+php-pcre
+php-reflection
+php-spl

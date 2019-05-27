@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(DateTime) >= 0.31
+perl(DateTime::LeapSecond)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Math::BigInt) >= 1.66
+perl(Math::BigInt::GMP)
+perl(Params::Validate)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,10 @@
+easymock
+hamcrest
+jcl-over-slf4j
+junit
+logback
+maven-local
+maven-plugin-bundle
+maven-surefire-plugin
+springframework-context
+springframework-test

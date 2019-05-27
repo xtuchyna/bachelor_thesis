@@ -1,0 +1,11 @@
+PyQt4-devel
+desktop-file-utils
+python2-dateutil
+python2-devel
+python2-pytrailer
+python2-setuptools
+python3-PyQt4-devel
+python3-dateutil
+python3-devel
+python3-pytrailer
+python3-setuptools

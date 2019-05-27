@@ -1,0 +1,7 @@
+desktop-file-utils
+gettext
+gnome-python2
+gnome-python2-gnome
+pygtk2-libglade
+python2-devel
+python2-imaging

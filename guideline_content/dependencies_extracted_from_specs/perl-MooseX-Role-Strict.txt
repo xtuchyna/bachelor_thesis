@@ -1,0 +1,12 @@
+perl(Module::Build)
+perl(Moose)
+perl(Moose::Exporter)
+perl(Moose::Meta::Role)
+perl(Moose::Meta::Role::Application::ToClass)
+perl(Moose::Role)
+perl(Test::More)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

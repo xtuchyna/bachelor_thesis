@@ -1,0 +1,9 @@
+nodejs-packaging
+npm(camelcase-keys)
+npm(decamelize)
+npm(loud-rejection)
+npm(minimist)
+npm(object-assign)
+npm(read-pkg-up)
+npm(redent)
+npm(trim-newlines)

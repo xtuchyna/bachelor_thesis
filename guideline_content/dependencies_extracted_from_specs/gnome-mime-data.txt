@@ -1,0 +1,3 @@
+gettext
+perl(Getopt::Long)
+perl(XML::Parser)

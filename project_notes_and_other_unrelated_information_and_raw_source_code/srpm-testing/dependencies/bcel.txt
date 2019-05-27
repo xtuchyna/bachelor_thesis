@@ -1,0 +1,8 @@
+maven-local
+mvn(junit:junit)
+mvn(net.java.dev.jna:jna)
+mvn(net.java.dev.jna:jna-platform)
+mvn(org.apache.commons:commons-lang3)
+mvn(org.apache.commons:commons-parent:pom:)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

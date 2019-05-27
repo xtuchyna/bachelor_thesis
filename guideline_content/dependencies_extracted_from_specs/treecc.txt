@@ -1,0 +1,4 @@
+bison >= 1.28
+flex >= 2.5.4
+m4
+texinfo

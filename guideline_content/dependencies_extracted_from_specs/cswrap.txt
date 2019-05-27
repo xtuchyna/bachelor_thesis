@@ -1,0 +1,5 @@
+asciidoc
+cmake
+gcc
+glibc-static
+valgrind

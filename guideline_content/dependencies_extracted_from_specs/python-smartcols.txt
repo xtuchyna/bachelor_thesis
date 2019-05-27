@@ -1,0 +1,13 @@
+gcc
+pkgconfig(smartcols) >= 2.30.2
+python2-Cython
+python2-devel
+python2-pytest
+python2-pytest-runner
+python2-setuptools
+python3-Cython
+python3-devel
+python3-pytest
+python3-pytest-runner
+python3-setuptools
+python3-sphinx

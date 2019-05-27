@@ -1,0 +1,12 @@
+autoconf
+automake
+curl-devel
+desktop-file-utils
+gettext-devel
+gpgme-devel
+libjpeg-devel
+lzo-devel >= 2
+ncurses-devel >= 4.2
+nspr-devel
+nss-devel
+openssl-devel

@@ -1,0 +1,11 @@
+dbus-glib-devel
+desktop-file-utils
+gcr-devel
+gnupg2
+gpgme-devel >= 1.0
+gtk3-devel
+intltool
+libcryptui-devel
+libgnome-keyring-devel
+libnotify-devel
+nautilus-devel

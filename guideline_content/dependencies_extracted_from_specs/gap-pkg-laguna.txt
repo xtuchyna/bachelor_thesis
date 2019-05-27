@@ -1,0 +1,3 @@
+GAPDoc-latex
+gap-devel
+gap-pkg-sophus

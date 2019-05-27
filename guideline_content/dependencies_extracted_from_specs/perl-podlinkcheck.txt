@@ -1,0 +1,24 @@
+make
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::HomeDir)
+perl(File::Spec) >= 0.8
+perl(File::Temp)
+perl(IPC::Run)
+perl(List::Util)
+perl(Locale::TextDomain)
+perl(Pod::Simple)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Text::Tabs)
+perl(base)
+perl(constant::defer)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

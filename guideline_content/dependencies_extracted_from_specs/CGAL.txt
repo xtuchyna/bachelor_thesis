@@ -1,0 +1,9 @@
+boost-devel >= 1.48
+cmake >= 2.8.11
+gmp-devel
+mpfr-devel
+qt5-qtbase-devel >= 5.3
+qt5-qtscript-devel >= 5.3
+qt5-qtsvg-devel >= 5.3
+qt5-qttools-devel >= 5.3
+zlib-devel

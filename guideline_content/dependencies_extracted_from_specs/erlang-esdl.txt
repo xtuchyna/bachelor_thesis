@@ -1,0 +1,3 @@
+SDL-devel
+dos2unix
+erlang-rebar

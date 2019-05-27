@@ -1,0 +1,9 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Scalar::Util)
+perl(Task::Weaken)
+perl(Test::More)
+perl(Tie::RefHash) >= 1.34
+perl(Variable::Magic)
+perl(base)
+perl-generators

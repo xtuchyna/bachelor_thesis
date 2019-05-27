@@ -1,0 +1,9 @@
+cmake
+mingw32-filesystem >= 95
+mingw32-libzip
+mingw32-qt
+mingw32-qt5-qtbase
+mingw64-filesystem >= 95
+mingw64-libzip
+mingw64-qt
+mingw64-qt5-qtbase

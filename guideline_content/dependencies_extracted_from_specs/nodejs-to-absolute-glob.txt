@@ -1,0 +1,4 @@
+mocha
+nodejs-packaging
+npm(extend-shallow)
+npm(minimist)

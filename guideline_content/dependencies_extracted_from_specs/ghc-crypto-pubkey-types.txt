@@ -1,0 +1,4 @@
+ghc-Cabal-devel
+ghc-asn1-encoding-devel
+ghc-asn1-types-devel
+ghc-rpm-macros

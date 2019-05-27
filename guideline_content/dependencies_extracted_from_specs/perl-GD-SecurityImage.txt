@@ -1,0 +1,14 @@
+findutils
+glibc-common
+perl(GD)
+perl(Image::Magick)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,5 @@
+mocha
+nodejs-packaging
+npm(homedir-polyfill)
+npm(is-windows)
+npm(os-homedir)

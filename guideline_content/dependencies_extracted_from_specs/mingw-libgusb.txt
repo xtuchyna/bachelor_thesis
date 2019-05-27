@@ -1,0 +1,9 @@
+gobject-introspection-devel
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-glib2 >= 2.38.0
+mingw32-libusbx >= 1.0.19
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-glib2 >= 2.38.0
+mingw64-libusbx >= 1.0.19

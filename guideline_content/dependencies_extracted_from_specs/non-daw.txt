@@ -1,0 +1,15 @@
+desktop-file-utils
+fltk-devel
+fltk-fluid
+imake
+jack-audio-connection-kit-devel
+ladspa-devel
+libXpm-devel
+liblo-devel
+liblrdf-devel
+libsigc++20-devel
+libsndfile-devel
+libvorbis-devel
+non-ntk-devel
+non-ntk-fluid
+python2

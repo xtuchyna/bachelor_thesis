@@ -1,0 +1,7 @@
+dos2unix
+python-ply >= 3.6
+python-setuptools
+python2-devel
+python3-devel
+python3-ply
+python3-setuptools

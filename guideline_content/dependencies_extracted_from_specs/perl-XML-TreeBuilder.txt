@@ -1,0 +1,18 @@
+perl(Carp)
+perl(File::Basename)
+perl(File::Spec)
+perl(HTML::Element) >= 4.1
+perl(HTML::Tagset)
+perl(Module::Build)
+perl(Test)
+perl(Test::More)
+perl(Test::Perl::Critic)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(XML::Catalog) >= 1.02
+perl(XML::Parser)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,7 @@
+libxcb-devel >= 1.2
+perl(Pod::Usage)
+pkgconfig(xau)
+pkgconfig(xdmcp)
+pkgconfig(xproto) >= 7.0.15
+xorg-x11-util-macros >= 1.11
+xorg-x11-xtrans-devel >= 1.0.3-4

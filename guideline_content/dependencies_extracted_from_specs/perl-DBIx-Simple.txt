@@ -1,0 +1,14 @@
+make
+perl(:VERSION) >= 5.6
+perl(Carp)
+perl(DBD::SQLite)
+perl(DBI) >= 1.21
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Object::Accessor)
+perl(SQL::Interp)
+perl(Test::More)
+perl(base)
+perl(overload)
+perl(strict)
+perl-generators
+perl-interpreter

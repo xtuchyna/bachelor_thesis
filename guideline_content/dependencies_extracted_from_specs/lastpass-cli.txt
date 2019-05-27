@@ -1,0 +1,6 @@
+asciidoc
+cmake
+libcurl-devel
+libxml2-devel
+openssl-devel
+pkgconfig(bash-completion)

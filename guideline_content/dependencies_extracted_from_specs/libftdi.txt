@@ -1,0 +1,9 @@
+boost-devel
+cmake
+doxygen
+gcc-c++
+libconfuse-devel
+libusbx-devel
+python2-devel
+python3-devel
+swig

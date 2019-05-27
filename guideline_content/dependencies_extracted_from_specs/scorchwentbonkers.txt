@@ -1,0 +1,7 @@
+AllegroOGG-devel
+alleggl-devel
+desktop-file-utils
+dumb-devel
+jpgalleg-devel
+libGLU-devel
+libappstream-glib

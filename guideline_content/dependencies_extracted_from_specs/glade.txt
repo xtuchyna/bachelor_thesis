@@ -1,0 +1,13 @@
+/usr/bin/appstream-util
+/usr/bin/xsltproc
+chrpath
+desktop-file-utils
+docbook-style-xsl
+gettext
+gtk3-devel
+intltool
+itstool
+libxml2-devel
+pygobject3-devel
+python3-devel
+webkit2gtk3-devel

@@ -1,0 +1,8 @@
+cmdtest
+python2-cliapp
+python2-coverage-test-runner
+python2-devel
+python2-markdown
+python2-sphinx
+python2-tracing
+python2-ttystatus

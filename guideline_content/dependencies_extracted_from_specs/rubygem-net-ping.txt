@@ -1,0 +1,8 @@
+iputils
+ruby
+rubygem(fakeweb)
+rubygem(ffi)
+rubygem(net-ldap)
+rubygem(test-unit)
+rubygems
+rubygems-devel

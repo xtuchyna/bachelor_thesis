@@ -1,0 +1,6 @@
+php(language) >= 5.3.2
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit) >= 3.7
+php-composer(symfony/event-dispatcher) < 4
+php-composer(symfony/event-dispatcher) > 2.3
+php-guzzlehttp-guzzle6 >= 6.2

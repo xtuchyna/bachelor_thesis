@@ -1,0 +1,21 @@
+findutils
+make
+perl(:VERSION) >= 5.8.1
+perl(Cache::FileCache)
+perl(Carp::Clan) >= 6.0
+perl(DBD::SQLite) >= 1.25
+perl(DBIx::Class) >= 0.08124
+perl(DBIx::Class::Core)
+perl(DBIx::Class::Schema)
+perl(Digest::SHA)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Storable)
+perl(Test::More)
+perl(base)
+perl(inc::Module::Install) >= 1
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators

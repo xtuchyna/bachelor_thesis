@@ -1,0 +1,5 @@
+gnome-common
+gobject-introspection-devel
+gtk-doc
+gtk3-devel
+libsoup-devel

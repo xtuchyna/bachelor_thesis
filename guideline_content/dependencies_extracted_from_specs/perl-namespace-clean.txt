@@ -1,0 +1,25 @@
+coreutils
+findutils
+make
+perl(B::Hooks::EndOfScope) >= 0.12
+perl(Config)
+perl(DB)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Glob)
+perl(File::Spec)
+perl(File::Temp)
+perl(FindBin)
+perl(IPC::Open2)
+perl(Package::Stash) >= 0.23
+perl(Test::More)
+perl(Variable::Magic)
+perl(base)
+perl(constant)
+perl(lib)
+perl(sort)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter >= 4:5.12

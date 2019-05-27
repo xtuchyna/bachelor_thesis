@@ -1,0 +1,21 @@
+perl(Carp)
+perl(File::Spec)
+perl(Getopt::Long) >= 2.37
+perl(Getopt::Long::Descriptive) >= 0.081
+perl(Module::Build::Tiny) >= 0.035
+perl(Mouse) >= 0.64
+perl(Mouse::Meta::Attribute)
+perl(Mouse::Meta::Class)
+perl(Mouse::Role)
+perl(Mouse::Util::TypeConstraints)
+perl(MouseX::ConfigFromFile)
+perl(MouseX::SimpleConfig) >= 0.07
+perl(Scalar::Util)
+perl(Test::Exception) >= 0.21
+perl(Test::More) >= 0.88
+perl(Test::Mouse)
+perl(Test::Warn) >= 0.21
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,13 @@
+bash-completion
+cmake
+gc
+gcc
+gcc-c++
+geany
+ldc
+libconfig-devel
+libcurl-devel
+libedit-devel
+llvm4.0-devel
+llvm4.0-static
+zlib-devel

@@ -1,0 +1,7 @@
+gettext
+intltool
+libtool
+libusb-devel
+libxfce4ui-devel >= 4.4.0
+xfce4-dev-tools
+xfce4-panel-devel >= 4.3.22

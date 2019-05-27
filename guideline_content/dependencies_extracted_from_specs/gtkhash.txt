@@ -1,0 +1,9 @@
+desktop-file-utils
+gettext
+intltool
+libgcrypt-devel
+mhash-devel
+pkgconfig(gtk+-2.0) >= 2.24
+pkgconfig(gtk+-3.0)
+pkgconfig(libnautilus-extension) >= 3.0.0
+pkgconfig(thunarx-2)

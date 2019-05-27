@@ -1,0 +1,7 @@
+python3-dbus
+python3-dbus-signature-pyparsing
+python3-devel
+python3-hs-dbus-signature
+python3-hypothesis
+python3-pytest
+python3-setuptools

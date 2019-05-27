@@ -1,0 +1,7 @@
+R-Rcpp-devel
+R-devel
+R-lattice
+R-plyr >= 1.8.1
+R-stringr
+R-testthat
+tex(latex)

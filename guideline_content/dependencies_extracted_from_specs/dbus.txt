@@ -1,0 +1,19 @@
+/usr/bin/ducktype
+/usr/bin/xsltproc
+/usr/bin/yelp-build
+audit-libs-devel >= 0.9
+autoconf-archive
+cmake
+dbus-python
+doxygen
+libX11-devel
+libcap-ng-devel
+libtool
+pkgconfig(expat)
+pkgconfig(gio-2.0) >= 2.40.0
+pkgconfig(libselinux) >= 2.0.86
+pkgconfig(libsystemd)
+pkgconfig(systemd)
+pygobject3
+systemd
+xmlto

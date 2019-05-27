@@ -1,0 +1,9 @@
+(php-composer(bacon/bacon-qr-code) >= 1.0 with php-composer(bacon/bacon-qr-code) < 2)
+(php-composer(paragonie/constant_time_encoding) >= 1.0 with php-composer(paragonie/constant_time_encoding) < 2)
+(php-composer(paragonie/random_compat) >= 2.0 with php-composer(paragonie/random_compat) < 3)
+php(language) >= 5.6
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-date
+php-hash
+php-pcre

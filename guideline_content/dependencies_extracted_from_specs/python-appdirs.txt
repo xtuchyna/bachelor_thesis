@@ -1,0 +1,8 @@
+python2-devel
+python2-pip
+python2-setuptools
+python2-wheel
+python3-devel
+python3-pip
+python3-setuptools
+python3-wheel

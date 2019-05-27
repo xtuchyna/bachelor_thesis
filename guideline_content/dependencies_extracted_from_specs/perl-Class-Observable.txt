@@ -1,0 +1,4 @@
+perl(Class::ISA)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl-generators

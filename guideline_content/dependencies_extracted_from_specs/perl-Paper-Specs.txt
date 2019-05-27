@@ -1,0 +1,6 @@
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 0.08
+perl(base)
+perl-generators

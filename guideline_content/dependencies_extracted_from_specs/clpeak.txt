@@ -1,0 +1,4 @@
+cmake >= 2.6
+mesa-libGL-devel
+ocl-icd-devel
+opencl-headers

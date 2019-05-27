@@ -1,0 +1,9 @@
+/usr/bin/rename
+numpy
+python-matplotlib
+python-nose
+python2-devel
+python3-devel
+python3-matplotlib
+python3-nose
+python3-numpy

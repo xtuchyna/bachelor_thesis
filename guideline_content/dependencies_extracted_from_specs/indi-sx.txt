@@ -1,0 +1,7 @@
+cfitsio-devel
+cmake
+libindi = 1.6.2
+libindi-devel = 1.6.2
+libusb-devel
+systemd
+zlib-devel

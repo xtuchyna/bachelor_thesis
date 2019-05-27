@@ -1,0 +1,6 @@
+/usr/bin/perl
+cmake
+desktop-file-utils
+gettext
+kdelibs4-devel
+perl(Getopt::Long)

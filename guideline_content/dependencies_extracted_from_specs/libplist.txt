@@ -1,0 +1,4 @@
+chrpath
+python2-Cython
+python2-devel
+python2-setuptools

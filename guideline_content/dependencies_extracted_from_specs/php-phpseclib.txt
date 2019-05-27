@@ -1,0 +1,5 @@
+/usr/bin/phpab
+/usr/bin/phpunit6
+php-bcmath
+php-composer(fedora/autoloader)
+php-gmp

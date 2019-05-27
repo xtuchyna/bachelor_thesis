@@ -1,0 +1,8 @@
+perl(CGI)
+perl(CGI::Untaint) >= 0.07
+perl(Email::Valid) >= 0.13
+perl(ExtUtils::MakeMaker)
+perl(Mail::Address) >= 1.40
+perl(Test::More)
+perl(Test::More) >= 0.18
+perl-generators

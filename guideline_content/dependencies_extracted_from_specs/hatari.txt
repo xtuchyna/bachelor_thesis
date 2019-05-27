@@ -1,0 +1,11 @@
+SDL2-devel
+cmake
+desktop-file-utils
+gcc
+libappstream-glib
+libpng-devel
+portaudio-devel
+python2-devel
+readline-devel
+systemd-devel
+zlib-devel

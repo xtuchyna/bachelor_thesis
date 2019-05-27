@@ -1,0 +1,13 @@
+GitPython
+python2-cccolutils
+python2-devel
+python2-koji
+python2-mock
+python2-nose
+python2-openidc-client
+python2-pycurl
+python2-requests
+python2-rpmfluff
+python2-setuptools
+python2-six >= 1.9.0
+rpmlint

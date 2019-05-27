@@ -1,0 +1,5 @@
+autoconf
+automake
+gettext-devel
+ncurses-devel
+readline-devel

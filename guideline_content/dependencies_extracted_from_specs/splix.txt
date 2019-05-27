@@ -1,0 +1,5 @@
+cups
+cups-devel
+gcc-c++
+jbigkit-devel
+python3-cups

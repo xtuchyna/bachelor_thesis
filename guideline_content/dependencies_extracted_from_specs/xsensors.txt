@@ -1,0 +1,6 @@
+cairo-devel
+desktop-file-utils
+glib2-devel
+gtk3-devel
+libappstream-glib
+lm_sensors-devel

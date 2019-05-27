@@ -1,0 +1,7 @@
+autoconf
+automake
+kernel-headers
+libmnl-devel >= 1.0.3
+libnfnetlink-devel >= 1.0.1
+libtool
+pkgconfig

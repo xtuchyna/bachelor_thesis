@@ -1,0 +1,5 @@
+R-R6
+R-devel
+R-pbdRPC
+tex(latex)
+zeromq-devel >= 4.0.4

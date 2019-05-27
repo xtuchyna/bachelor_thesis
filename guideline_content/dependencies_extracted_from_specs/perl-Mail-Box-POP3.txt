@@ -1,0 +1,26 @@
+make
+perl(:VERSION) >= 5.10
+perl(Carp)
+perl(Digest::MD5)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IO::Socket)
+perl(IO::Socket::IP)
+perl(List::Util)
+perl(Mail::Box::FastScalar) >= 3
+perl(Mail::Box::Net) >= 3
+perl(Mail::Box::Net::Message)
+perl(Mail::Box::Parser::Perl) >= 3
+perl(Mail::Box::Test) >= 3
+perl(Mail::Transport::Receive) >= 3
+perl(Socket)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

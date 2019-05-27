@@ -1,0 +1,3 @@
+compiler(go-compiler)
+golang(github.com/russross/blackfriday)
+golang(github.com/shurcooL/sanitized_anchor_name)

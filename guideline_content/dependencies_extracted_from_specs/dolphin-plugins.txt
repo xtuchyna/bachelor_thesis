@@ -1,0 +1,10 @@
+desktop-file-utils
+dolphin-devel >= 17.12
+extra-cmake-modules
+kf5-kdelibs4support-devel
+kf5-ki18n-devel
+kf5-kio-devel
+kf5-ktexteditor-devel
+kf5-kxmlgui-devel
+kf5-rpm-macros
+qt5-qtbase-devel

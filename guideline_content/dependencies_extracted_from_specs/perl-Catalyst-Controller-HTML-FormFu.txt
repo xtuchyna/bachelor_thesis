@@ -1,0 +1,42 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Catalyst)
+perl(Catalyst::Action)
+perl(Catalyst::Action::RenderView)
+perl(Catalyst::Component::InstancePerContext)
+perl(Catalyst::Controller)
+perl(Catalyst::Plugin::ConfigLoader) >= 0.23
+perl(Catalyst::Plugin::Session)
+perl(Catalyst::Plugin::Session::State::Cookie)
+perl(Catalyst::Plugin::Session::Store::File)
+perl(Catalyst::Runtime) >= 5.71001
+perl(Catalyst::View::TT)
+perl(Config::Any)
+perl(Data::Dumper)
+perl(File::Spec)
+perl(FindBin)
+perl(HTML::FormFu) >= 1.00
+perl(HTML::FormFu::Deploy)
+perl(HTML::FormFu::MultiForm)
+perl(HTML::FormFu::Util)
+perl(MRO::Compat)
+perl(Module::Install::Metadata)
+perl(Moose)
+perl(MooseX::Attribute::Chained) >= 1.0.1
+perl(Regexp::Assemble)
+perl(Scalar::Util)
+perl(Task::Weaken)
+perl(Test::More) >= 0.92
+perl(Test::WWW::Mechanize) >= 1.16
+perl(Test::WWW::Mechanize::Catalyst)
+perl(base)
+perl(inc::Module::Install)
+perl(lib)
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,8 @@
+/usr/bin/2to3
+gcc
+python2-devel
+python2-numpy
+python2-setuptools
+python3-devel
+python3-numpy
+python3-setuptools

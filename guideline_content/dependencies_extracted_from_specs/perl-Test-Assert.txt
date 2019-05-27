@@ -1,0 +1,35 @@
+coreutils
+findutils
+gnupg2
+hunspell-en
+make
+patch
+perl(Carp)
+perl(Class::Inspector)
+perl(Cwd)
+perl(Exception::Base) >= 0.21
+perl(File::Basename)
+perl(File::Find)
+perl(File::Slurp)
+perl(File::Spec)
+perl(Module::Build)
+perl(Symbol::Util) >= 0.0202
+perl(Test::Builder)
+perl(Test::CheckChanges)
+perl(Test::Distribution)
+perl(Test::Kwalitee)
+perl(Test::MinimumVersion)
+perl(Test::More) >= 0.88
+perl(Test::Perl::Critic)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::Signature)
+perl(Test::Spelling)
+perl(Test::Unit::Lite) >= 0.11
+perl(constant)
+perl(constant::boolean) >= 0.02
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

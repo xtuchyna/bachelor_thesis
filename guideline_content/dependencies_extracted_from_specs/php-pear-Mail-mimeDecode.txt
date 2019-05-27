@@ -1,0 +1,2 @@
+php-pear >= 1:1.6.0
+php-pear(Mail_Mime) > 1.4.0

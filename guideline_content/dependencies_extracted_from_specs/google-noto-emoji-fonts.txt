@@ -1,0 +1,10 @@
+ImageMagick
+cairo-devel
+fontpackages-devel
+fonttools
+nototools
+pngquant
+python2-devel
+python2-fonttools
+python2-nototools
+zopfli

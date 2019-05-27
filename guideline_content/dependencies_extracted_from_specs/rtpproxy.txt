@@ -1,0 +1,9 @@
+autoconf
+automake
+bcg729-devel
+docbook-style-xsl
+gsm-devel
+libtool
+libxslt
+systemd
+systemd-devel

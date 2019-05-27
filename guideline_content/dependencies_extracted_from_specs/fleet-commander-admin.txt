@@ -1,0 +1,15 @@
+dbus-python
+dconf
+desktop-file-utils
+gjs
+libvirt-python
+pexpect
+pygobject2
+pygobject3
+python-dbusmock
+python2-dbus
+python2-dbusmock
+python2-devel
+python2-gobject
+python2-libvirt
+python2-pexpect

@@ -1,0 +1,15 @@
+make
+perl(DateTime) >= 0.27
+perl(DateTime::Set) >= 0.3600
+perl(DateTime::Span)
+perl(DateTime::SpanSet)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Params::Validate)
+perl(Test::More)
+perl(constant)
+perl(integer)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

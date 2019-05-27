@@ -1,0 +1,33 @@
+perl(AnyEvent) >= 7.04
+perl(AnyEvent::CacheDNS) >= 0.08
+perl(AnyEvent::CondVar)
+perl(AnyEvent::HTTP) >= 2.15
+perl(Carp)
+perl(Data::Dumper)
+perl(Digest::SHA) >= 5.47
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Path) >= 2.08
+perl(File::Spec)
+perl(File::Temp)
+perl(FindBin)
+perl(HTTP::Request::Common)
+perl(JSON)
+perl(MIME::Base64) >= 3.08
+perl(Module::Build)
+perl(POSIX)
+perl(Scalar::Util)
+perl(String::Approx) >= 3.26
+perl(Test::More)
+perl(URI)
+perl(URI::Escape)
+perl(XML::Simple) >= 2.18
+perl(base)
+perl(constant)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

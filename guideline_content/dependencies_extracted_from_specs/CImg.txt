@@ -1,0 +1,13 @@
+ImageMagick-c++-devel
+OpenEXR-devel
+cmake
+fftw-devel
+lapack-devel
+libX11-devel
+libXext-devel
+libXrandr-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel
+opencv-devel
+zlib-devel

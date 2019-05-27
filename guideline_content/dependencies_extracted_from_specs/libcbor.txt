@@ -1,0 +1,5 @@
+cmake
+gcc
+gcc-c++
+python3-breathe
+python3-sphinx

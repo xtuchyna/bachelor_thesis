@@ -1,0 +1,33 @@
+breeze-icon-theme-rcc
+cmake(KDb) >= 3.1.0
+cmake(KF5Archive)
+cmake(KF5Codecs)
+cmake(KF5Completion)
+cmake(KF5Config)
+cmake(KF5ConfigWidgets)
+cmake(KF5CoreAddons)
+cmake(KF5Crash)
+cmake(KF5GuiAddons)
+cmake(KF5I18n)
+cmake(KF5IconThemes)
+cmake(KF5ItemViews)
+cmake(KF5KIO)
+cmake(KF5TextEditor)
+cmake(KF5TextWidgets)
+cmake(KF5WidgetsAddons)
+cmake(KF5XmlGui)
+cmake(KPropertyWidgets) >= 3.1.0
+cmake(KReport) >= 3.1.0
+cmake(Marble)
+cmake(Qt5PrintSupport)
+cmake(Qt5Test)
+cmake(Qt5UiTools)
+cmake(Qt5WebKit)
+cmake(Qt5WebKitWidgets)
+cmake(Qt5Widgets)
+cmake(Qt5Xml)
+desktop-file-utils
+extra-cmake-modules
+kf5-rpm-macros
+libappstream-glib
+xorg-x11-server-Xvfb

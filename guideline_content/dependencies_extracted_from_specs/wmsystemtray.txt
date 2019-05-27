@@ -1,0 +1,5 @@
+autoconf
+automake
+libXfixes-devel
+libXmu-devel
+libXpm-devel

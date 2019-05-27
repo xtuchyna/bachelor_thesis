@@ -1,0 +1,6 @@
+SDL-devel
+SDL_image-devel
+allegro-devel
+automake
+libGL-devel
+libtool

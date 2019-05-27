@@ -1,0 +1,3 @@
+/usr/bin/rst2html
+python2-devel
+python3-devel

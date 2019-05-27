@@ -1,0 +1,7 @@
+bzr
+dnf
+dnf-plugins-core
+python2-devel
+python2-markdown
+python3-devel
+systemd

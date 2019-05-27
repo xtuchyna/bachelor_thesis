@@ -1,0 +1,7 @@
+ruby(release)
+rubygem(descendants_tracker) >= 0.0.4
+rubygem(ice_nine) >= 0.11.0
+rubygem(rspec)
+rubygem(rspec-its)
+rubygem(thread_safe) >= 0.3.1
+rubygems-devel

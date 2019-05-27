@@ -1,0 +1,14 @@
+bash
+bash-completion
+git
+help2man
+jing
+libxml2
+libxslt
+pacemaker
+pkgconfig(libxml-2.0)
+pkgconfig(pacemaker)
+python3-devel
+python3-lxml
+python3-setuptools
+which

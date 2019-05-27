@@ -1,0 +1,36 @@
+/usr/bin/diff
+bzip2
+coreutils
+findutils
+grep
+gzip
+lzip >= 1.3
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::Manifest)
+perl(Fcntl)
+perl(File::Find)
+perl(File::Path) >= 2.08
+perl(File::Slurp)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(FileHandle)
+perl(FileHandle::Unget)
+perl(FindBin)
+perl(Storable)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Text::Diff)
+perl(URI::Escape)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+xz

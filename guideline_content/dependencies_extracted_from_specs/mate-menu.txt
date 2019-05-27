@@ -1,0 +1,6 @@
+desktop-file-utils
+gobject-introspection-devel
+intltool
+python2-devel >= 2.7
+python2-distutils-extra
+python2-setuptools

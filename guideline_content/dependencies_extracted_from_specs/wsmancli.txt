@@ -1,0 +1,6 @@
+autoconf
+automake
+curl-devel
+libtool
+openwsman-devel >= 2.1.0
+pkgconfig

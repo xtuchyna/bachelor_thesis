@@ -1,0 +1,17 @@
+/usr/bin/pg_config
+bison
+boost-devel
+boost-python3-devel
+cairo-devel
+chrpath
+cmake
+eigen3-devel
+flex
+inchi-devel
+java-devel
+junit
+numpy
+postgresql-devel
+python2-devel
+python3-devel
+swig

@@ -1,0 +1,14 @@
+ImageMagick-devel
+bison
+desktop-file-utils
+flex
+hdf-devel
+hdf-static
+libGL-devel
+libGLU-devel
+libXinerama-devel
+libXpm-devel
+libtool
+motif-devel
+netcdf-devel
+openssh-clients

@@ -1,0 +1,17 @@
+automake
+desktop-file-utils >= 0.2.93
+gettext
+gtk2-devel
+libICE-devel
+libSM-devel
+libXaw-devel
+libXext-devel
+libXmu-devel
+libXpm-devel
+libXt-devel
+librsvg2-devel
+pango-devel
+texinfo
+texinfo-tex
+xorg-x11-proto-devel
+xorg-x11-xbitmaps

@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(chai)
+npm(chai-passport-strategy)
+npm(mocha)
+npm(passport-strategy)

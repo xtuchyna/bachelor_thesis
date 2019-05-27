@@ -1,0 +1,20 @@
+GeoIP-devel
+bison
+capstats
+cmake
+compat-openssl10-devel
+doxygen
+flex
+gcc-c++
+gperftools-devel
+libpcap-devel
+pysubnettree
+python2-devel
+python2-sphinx
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+rsync
+swig
+systemd
+trace-summary
+zlib-devel

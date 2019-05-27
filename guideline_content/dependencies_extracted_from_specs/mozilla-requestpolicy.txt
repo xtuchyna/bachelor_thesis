@@ -1,0 +1,4 @@
+future
+git
+preprocess
+python-setuptools

@@ -1,0 +1,4 @@
+libappstream-glib
+perl-interpreter >= 5.8
+python2 >= 2.7
+zip

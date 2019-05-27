@@ -1,0 +1,10 @@
+ruby
+ruby(release)
+rubygem(capybara)
+rubygem(memfs) >= 0.4.1
+rubygem(rails)
+rubygem(rails-deprecated_sanitizer)
+rubygem(rspec) < 4
+rubygem(rspec) >= 3.0
+rubygem(rspec-rails)
+rubygems-devel

@@ -1,0 +1,13 @@
+python2-bottle
+python2-devel
+python2-dns
+python2-nose
+python2-setuptools
+python2-sleekxmpp
+python3-bottle
+python3-devel
+python3-dns
+python3-nose
+python3-setuptools
+python3-sleekxmpp
+systemd

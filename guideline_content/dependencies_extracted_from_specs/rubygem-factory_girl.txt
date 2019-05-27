@@ -1,0 +1,11 @@
+/usr/bin/cucumber
+ruby
+ruby(release)
+rubygem(activerecord)
+rubygem(aruba)
+rubygem(mocha) >= 0.12.8
+rubygem(rspec)
+rubygem(rspec-its)
+rubygem(sqlite3)
+rubygem(timecop)
+rubygems-devel

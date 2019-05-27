@@ -1,0 +1,11 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-assembly-plugin)
+mvn(org.apache.xmlgraphics:xmlgraphics-commons)
+mvn(org.apache:apache:pom:)
+mvn(org.mozilla:rhino)
+mvn(org.python:jython)
+mvn(xalan:xalan)
+mvn(xml-apis:xml-apis)
+mvn(xml-apis:xml-apis-ext)

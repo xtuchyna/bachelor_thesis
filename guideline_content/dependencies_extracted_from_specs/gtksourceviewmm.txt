@@ -1,0 +1,2 @@
+gtkmm24-devel >= 2.12
+gtksourceview2-devel >= 2.10.0

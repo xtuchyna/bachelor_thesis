@@ -1,0 +1,10 @@
+perl(CPAN)
+perl(ExtUtils::MakeMaker)
+perl(LWP::UserAgent)
+perl(Test::Exception)
+perl(Test::Mock::LWP)
+perl(Test::More) >= 0.42
+perl(Test::Pod)
+perl(Time::HiRes)
+perl(URI::Escape) >= 1.31
+perl-generators

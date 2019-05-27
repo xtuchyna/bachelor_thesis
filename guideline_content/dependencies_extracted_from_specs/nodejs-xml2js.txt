@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(coffee-script)
+npm(diff)
+npm(sax)
+npm(xmlbuilder) >= 2.4.6
+npm(zap)

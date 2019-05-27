@@ -1,0 +1,10 @@
+mingw32-angleproject >= 0-0.16.git8613f49
+mingw32-filesystem >= 96
+mingw32-openal-soft
+mingw32-qt5-qtbase = 5.10.1
+mingw32-qt5-qtdeclarative = 5.10.1
+mingw64-angleproject >= 0-0.16.git8613f49
+mingw64-filesystem >= 96
+mingw64-openal-soft
+mingw64-qt5-qtbase = 5.10.1
+mingw64-qt5-qtdeclarative = 5.10.1

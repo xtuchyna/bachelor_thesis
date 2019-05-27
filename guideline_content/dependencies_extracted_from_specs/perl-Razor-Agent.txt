@@ -1,0 +1,7 @@
+perl(Digest::SHA1)
+perl(ExtUtils::MakeMaker)
+perl(Net::DNS)
+perl(Time::HiRes)
+perl(URI)
+perl-devel
+perl-generators

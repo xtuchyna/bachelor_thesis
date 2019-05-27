@@ -1,0 +1,16 @@
+ghc-Cabal-devel
+ghc-array-devel
+ghc-cairo-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-glib-devel
+ghc-gtk2hs-buildtools-devel
+ghc-mtl-devel
+ghc-pretty-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-text-devel
+pkgconfig(cairo)
+pkgconfig(pango)
+pkgconfig(pangocairo)

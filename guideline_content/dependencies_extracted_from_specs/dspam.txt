@@ -1,0 +1,10 @@
+autoconf
+automake
+libtool
+mariadb-connector-c-devel
+openldap-devel
+openssl-devel
+perl-generators
+postgresql-devel
+sqlite-devel
+systemd

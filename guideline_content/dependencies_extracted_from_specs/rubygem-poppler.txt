@@ -1,0 +1,9 @@
+poppler-glib
+ruby(release)
+ruby-devel
+rubygem(cairo-gobject)
+rubygem(gdk_pixbuf2)
+rubygem(gio2)
+rubygem(test-unit) >= 3
+rubygem-glib2-devel >= 3.0.8
+rubygems-devel

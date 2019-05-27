@@ -1,0 +1,31 @@
+/usr/bin/appstream-util
+/usr/bin/python
+SDL2-devel
+boost-devel
+cmake
+desktop-file-utils
+enet-devel
+gamin-devel
+gcc-c++
+gloox-devel
+libcurl-devel
+libdnet-devel
+libicu-devel
+libjpeg-turbo-devel
+libpng-devel
+libsodium-devel
+libvorbis-devel
+libxml2-devel
+libzip-devel
+miniupnpc-devel
+mozjs38-devel
+nvidia-texture-tools-devel
+openal-soft-devel
+openjpeg-devel
+pkgconfig
+python2
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+subversion
+valgrind-devel
+wxGTK3-devel

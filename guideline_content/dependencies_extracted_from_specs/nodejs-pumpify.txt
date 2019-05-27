@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(duplexify)
+npm(pump)
+npm(tape)
+npm(through2)

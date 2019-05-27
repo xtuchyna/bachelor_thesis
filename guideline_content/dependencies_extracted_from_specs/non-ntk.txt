@@ -1,0 +1,8 @@
+cairo-devel
+desktop-file-utils
+libjpeg-devel
+pkgconfig(glu)
+pkgconfig(libpng)
+pkgconfig(xft)
+python2
+zlib-devel

@@ -1,0 +1,18 @@
+coreutils
+findutils
+make
+perl(Cwd)
+perl(File::Path) >= 2.08
+perl(File::Spec)
+perl(File::Temp)
+perl(Module::Install::Metadata)
+perl(Module::Install::Repository)
+perl(Module::Install::WriteAll)
+perl(POSIX)
+perl(Test::More) >= 0.88
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,8 @@
+desktop-file-utils
+gettext
+intltool
+pkgconfig(dbus-glib-1) >= 0.34
+pkgconfig(libical) >= 0.43
+pkgconfig(libnotify) >= 0.3.2
+pkgconfig(libxfce4panel-1.0) >= 4.6.0
+popt-devel

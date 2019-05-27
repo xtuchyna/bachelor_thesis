@@ -1,0 +1,15 @@
+doxygen
+graphviz
+gtk2-devel >= 2.18.0
+gtk3-devel >= 3.0.0
+gtkmm24-devel >= 2.20.0
+jack-audio-connection-kit-devel >= 1.9.10
+lilv-devel >= 0.24.0
+lv2-devel >= 1.14.0
+python
+qt-devel >= 4.0.0
+qt5-devel >= 5.1.0
+serd-devel >= 0.14.0
+sord-devel >= 0.12.0
+sratom-devel >= 0.6.0
+suil-devel >= 0.6.0

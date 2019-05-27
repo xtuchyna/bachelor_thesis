@@ -1,0 +1,7 @@
+SDL_mixer-devel
+desktop-file-utils
+intltool
+libcroco-devel >= 0.3.0
+libgnomeui-devel >= 2.0.0
+librsvg2-devel >= 2.0.0
+libtool

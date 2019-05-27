@@ -1,0 +1,14 @@
+findutils
+gcc
+make
+perl(Carp)
+perl(Devel::Leak)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More)
+perl(base)
+perl(strict)
+perl-devel
+perl-generators
+perl-interpreter

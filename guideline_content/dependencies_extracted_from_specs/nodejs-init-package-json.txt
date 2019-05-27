@@ -1,0 +1,11 @@
+nodejs-packaging
+npm(glob)
+npm(npm-package-arg)
+npm(promzard) >= 0.3.0
+npm(read)
+npm(read-package-json)
+npm(rimraf)
+npm(semver)
+npm(tap)
+npm(validate-npm-package-license)
+npm(validate-npm-package-name)

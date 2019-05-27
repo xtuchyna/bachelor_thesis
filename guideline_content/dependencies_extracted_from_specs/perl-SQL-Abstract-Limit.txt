@@ -1,0 +1,17 @@
+perl(Carp)
+perl(Class::DBI)
+perl(DBI::Const::GetInfoType)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(SQL::Abstract) >= 1.2
+perl(Scalar::Util)
+perl(Test::Builder)
+perl(Test::Builder::Module)
+perl(Test::Deep)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(base)
+perl-generators

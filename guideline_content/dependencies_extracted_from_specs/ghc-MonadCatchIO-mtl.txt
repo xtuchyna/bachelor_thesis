@@ -1,0 +1,4 @@
+ghc-Cabal-devel
+ghc-MonadCatchIO-transformers-devel
+ghc-extensible-exceptions-devel
+ghc-rpm-macros

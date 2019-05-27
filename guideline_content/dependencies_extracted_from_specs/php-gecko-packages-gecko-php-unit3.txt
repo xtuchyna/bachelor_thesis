@@ -1,0 +1,7 @@
+php(language) >= 7.0
+php-composer(fedora/autoloader)
+php-dom
+php-libxml
+php-pcre
+php-spl
+phpunit6

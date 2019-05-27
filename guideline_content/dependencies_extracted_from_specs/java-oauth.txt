@@ -1,0 +1,4 @@
+maven-local
+mvn(commons-httpclient:commons-httpclient)
+mvn(javax.servlet:javax.servlet-api)
+mvn(org.apache.httpcomponents:httpclient)

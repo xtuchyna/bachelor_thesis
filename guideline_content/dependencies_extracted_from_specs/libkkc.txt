@@ -1,0 +1,10 @@
+gobject-introspection-devel
+intltool
+json-glib-devel
+marisa-devel
+marisa-python
+pkgconfig(gee-0.8)
+python2-devel
+vala
+vala-devel
+vala-tools

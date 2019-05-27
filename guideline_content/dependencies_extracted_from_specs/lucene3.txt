@@ -1,0 +1,18 @@
+ant
+ant-junit
+apache-commons-codec
+apache-commons-compress
+apache-commons-digester
+apache-ivy
+hamcrest-core
+icu4j
+java-devel >= 1:1.6.0
+java-javadoc
+javacc
+javapackages-local
+jtidy
+junit
+lucene
+regexp
+subversion
+xerces-j2

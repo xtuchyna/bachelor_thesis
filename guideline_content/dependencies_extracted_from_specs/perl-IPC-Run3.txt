@@ -1,0 +1,14 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(Getopt::Long)
+perl(POSIX)
+perl(Test)
+perl(Test::More) >= 0.31
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Time::HiRes)
+perl(constant)
+perl(strict)
+perl-generators

@@ -1,0 +1,4 @@
+rubygem-minitest
+rubygem-rake
+rubygem-test-unit
+rubygems-devel

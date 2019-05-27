@@ -1,0 +1,4 @@
+automake
+desktop-file-utils
+kdelibs3-devel
+libtool

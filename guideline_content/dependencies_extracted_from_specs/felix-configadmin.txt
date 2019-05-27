@@ -1,0 +1,6 @@
+maven-local
+mvn(biz.aQute:bndlib)
+mvn(org.apache.felix:felix-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.osgi:osgi.cmpn)
+mvn(org.osgi:osgi.core)

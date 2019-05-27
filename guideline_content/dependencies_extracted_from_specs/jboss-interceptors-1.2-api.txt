@@ -1,0 +1,5 @@
+jboss-parent
+maven-enforcer-plugin
+maven-local
+maven-plugin-bundle
+maven-source-plugin

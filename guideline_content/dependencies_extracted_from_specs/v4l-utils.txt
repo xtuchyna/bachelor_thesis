@@ -1,0 +1,8 @@
+alsa-lib-devel
+desktop-file-utils
+doxygen
+gettext
+kernel-headers
+libjpeg-devel
+qt5-qtbase-devel
+systemd-devel

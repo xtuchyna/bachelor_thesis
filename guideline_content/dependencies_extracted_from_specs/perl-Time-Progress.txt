@@ -1,0 +1,8 @@
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More) >= 0.88
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

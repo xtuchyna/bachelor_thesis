@@ -1,0 +1,3 @@
+/usr/bin/phpab
+php(language) >= 5.3
+php-composer(phpunit/phpunit) >= 4.5

@@ -1,0 +1,6 @@
+pkgconfig
+python
+python-sphinx
+python2-devel
+python3-devel
+systemd

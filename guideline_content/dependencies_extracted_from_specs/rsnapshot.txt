@@ -1,0 +1,7 @@
+/usr/bin/pod2man
+lvm2
+openssh-clients
+perl(Test::Harness)
+perl(Test::More)
+perl-generators
+rsync

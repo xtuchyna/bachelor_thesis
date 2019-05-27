@@ -1,0 +1,17 @@
+/usr/bin/man
+coreutils
+desktop-file-utils
+enchant-devel >= 1.4.2
+findutils
+gcc
+gettext
+glib2-devel >= 2.24
+gtk3-devel >= 3.2
+gucharmap-devel >= 2.90
+intltool
+libappstream-glib >= 0.3.6
+libxml2-devel
+make
+python2-devel >= 2.7
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

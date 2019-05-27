@@ -1,0 +1,9 @@
+perl(Exporter)
+perl(ExtUtils::Typemaps::Default)
+perl(File::Temp)
+perl(Module::Build)
+perl(Module::Build::WithXSpp)
+perl(Test::More)
+perl(XSLoader)
+perl-devel
+perl-generators

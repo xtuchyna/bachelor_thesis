@@ -1,0 +1,17 @@
+python-futures
+python-mock
+python-nose
+python-setuptools
+python-wheel
+python2-botocore
+python2-devel
+python2-jmespath
+python2-s3transfer
+python3-botocore
+python3-devel
+python3-jmespath
+python3-mock
+python3-nose
+python3-s3transfer
+python3-setuptools
+python3-wheel

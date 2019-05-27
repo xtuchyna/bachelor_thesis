@@ -1,0 +1,8 @@
+blas-devel
+ghostscript
+lapack-devel
+octave-devel
+octave-parallel
+octave-struct >= 1.0.12
+tex(dsfont.sty)
+tex(latex)

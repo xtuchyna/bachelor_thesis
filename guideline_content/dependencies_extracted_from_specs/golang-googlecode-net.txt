@@ -1,0 +1,8 @@
+compiler(go-compiler)
+golang(golang.org/x/crypto/ssh/terminal)
+golang(golang.org/x/text/encoding)
+golang(golang.org/x/text/encoding/charmap)
+golang(golang.org/x/text/encoding/htmlindex)
+golang(golang.org/x/text/secure/bidirule)
+golang(golang.org/x/text/transform)
+golang(golang.org/x/text/unicode/norm)

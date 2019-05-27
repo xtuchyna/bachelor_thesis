@@ -1,0 +1,23 @@
+dos2unix
+python-cherrypy2
+python-configobj
+python-dateutil
+python-elixir
+python-formencode
+python-genshi
+python-kid
+python-nose
+python-paste-script
+python-peak-rules
+python-setuptools
+python-simplejson
+python-sqlalchemy
+python-sqlobject
+python-tgmochikit
+python-toscawidgets
+python-turbocheetah
+python-turbojson >= 1.3
+python-turbokid >= 1.0.5
+python-tw-forms
+python-webtest
+python2-devel

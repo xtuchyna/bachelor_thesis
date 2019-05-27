@@ -1,0 +1,12 @@
+python2-devel
+python2-execnet
+python2-py
+python2-pytest
+python2-pytest-forked
+python2-setuptools_scm
+python3-devel
+python3-execnet
+python3-py
+python3-pytest
+python3-pytest-forked
+python3-setuptools_scm

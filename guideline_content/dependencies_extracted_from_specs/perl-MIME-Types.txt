@@ -1,0 +1,21 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Spec)
+perl(List::Util)
+perl(Mojo::Base)
+perl(Test::MinimumVersion)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(base)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

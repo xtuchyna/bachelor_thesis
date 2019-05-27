@@ -1,0 +1,4 @@
+ibus-devel
+intltool
+libfep-devel
+vala

@@ -1,0 +1,9 @@
+perl(ExtUtils::CBuilder)
+perl(ExtUtils::ParseXS)
+perl(Math::Random::ISAAC)
+perl(Module::Build)
+perl(Test::LeakTrace)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl-devel
+perl-generators

@@ -1,0 +1,10 @@
+/usr/bin/kreadconfig5
+cmake >= 2.6.0
+libmodman-devel >= 2.0.1
+pkgconfig(dbus-1)
+pkgconfig(gio-2.0) >= 2.26
+pkgconfig(javascriptcoregtk-4.0)
+pkgconfig(libnm)
+pkgconfig(mozjs-38)
+python2-devel
+python3-devel

@@ -1,0 +1,47 @@
+apache-commons-csv
+args4j >= 2.0.25
+enunciate >= 2.6.0
+exec-maven-plugin
+findbugs >= 3.0.0
+java-devel >= 1:1.8.0
+jetty-servlet
+jetty-servlets
+jgettext
+jsr-305
+maven-dependency-plugin
+maven-javadoc-plugin
+maven-local
+mvn(com.google.guava:guava)
+mvn(com.sun:tools)
+mvn(commons-beanutils:commons-beanutils)
+mvn(javax.validation:validation-api)
+mvn(net.sourceforge.findbugs:annotations)
+mvn(org.apache.commons:commons-exec)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.apache.maven.plugins:maven-clean-plugin)
+mvn(org.apache.maven.plugins:maven-deploy-plugin)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.apache.maven.plugins:maven-install-plugin)
+mvn(org.apache.maven.plugins:maven-site-plugin)
+mvn(org.assertj:assertj-core)
+mvn(org.codehaus.jackson:jackson-core-asl)
+mvn(org.codehaus.mojo:jaxb2-maven-plugin)
+mvn(org.hibernate:hibernate-validator)
+mvn(org.jboss.resteasy:async-http-servlet-3.0)
+mvn(org.jboss.resteasy:jaxrs-api)
+mvn(org.jboss.resteasy:resteasy-jackson-provider)
+mvn(org.jboss.resteasy:resteasy-multipart-provider)
+mvn(org.jboss:jboss-parent:pom:)
+mvn(org.mockito:mockito-core)
+mvn(org.scannotation:scannotation)
+mvn(org.slf4j:jcl-over-slf4j)
+openprops
+powermock-api-mockito
+powermock-core
+powermock-junit4
+resteasy-core
+simple
+slf4j
+slf4j-log4j12
+spock-core
+xom

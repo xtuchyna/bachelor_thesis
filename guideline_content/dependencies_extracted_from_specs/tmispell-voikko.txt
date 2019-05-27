@@ -1,0 +1,4 @@
+gettext
+glibmm24-devel
+libvoikko-devel
+ncurses-devel

@@ -1,0 +1,9 @@
+/usr/bin/2to3
+python2-devel
+python2-numpy
+python2-setproctitle
+python2-tools
+python3-devel
+python3-numpy
+python3-setproctitle
+python3-setuptools

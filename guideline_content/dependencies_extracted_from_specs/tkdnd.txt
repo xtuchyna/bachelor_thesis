@@ -1,0 +1,4 @@
+libXext-devel
+libXft-devel
+libXt-devel
+tk-devel

@@ -1,0 +1,8 @@
+bison
+gettext
+ghostscript
+groff
+libacl-devel
+libcap-devel
+libtool
+lsof

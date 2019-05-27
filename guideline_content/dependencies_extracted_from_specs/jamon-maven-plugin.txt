@@ -1,0 +1,11 @@
+maven-invoker-plugin
+maven-local
+maven-plugin-plugin
+mvn(junit:junit)
+mvn(org.apache.maven:maven-core)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.codehaus.groovy:groovy)
+mvn(org.codehaus.plexus:plexus-compiler-api)
+mvn(org.jamon:jamon-java-parent:pom:)
+mvn(org.jamon:jamon-processor)
+mvn(org.jamon:jamon-runtime)

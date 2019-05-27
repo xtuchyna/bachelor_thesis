@@ -1,0 +1,19 @@
+desktop-file-utils
+extra-cmake-modules
+kf5-kconfig-devel
+kf5-kcoreaddons-devel
+kf5-kcrash-devel
+kf5-kdbusaddons-devel
+kf5-kdeclarative-devel
+kf5-kdnssd-devel
+kf5-kdoctools-devel
+kf5-kio-devel
+kf5-knewstuff-devel
+kf5-kxmlgui-devel
+kf5-rpm-macros
+libappstream-glib
+libkdegames-devel >= 17.12
+libkmahjongg-devel >= 17.12
+phonon-qt5-devel
+qt5-qtbase-devel
+qt5-qtsvg-devel

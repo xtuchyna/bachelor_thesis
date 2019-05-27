@@ -1,0 +1,8 @@
+gmp-devel >= 3.1.1
+libtermcap-devel
+lockdev-devel >= 1.0.1-8
+ncurses-devel
+openssl-devel >= 0.9.7
+pam-devel
+perl-interpreter
+pkgconfig

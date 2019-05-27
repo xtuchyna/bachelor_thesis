@@ -1,0 +1,6 @@
+perl(Getopt::Long)
+perl(POSIX)
+perl(Text::ParseWords)
+perl(Text::Tabs)
+perl(strict)
+perl-generators

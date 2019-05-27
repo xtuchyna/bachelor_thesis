@@ -1,0 +1,12 @@
+bzip2-devel
+libicu-devel
+libquadmath-devel
+libstdc++-devel
+m4
+mpich-devel
+openmpi-devel
+python-devel
+python2-numpy
+python3-devel
+python3-numpy
+zlib-devel

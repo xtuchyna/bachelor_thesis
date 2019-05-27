@@ -1,0 +1,7 @@
+perl(Algorithm::Diff)
+perl(Module::Build)
+perl(Test::Differences)
+perl(Test::MockObject)
+perl(Test::More)
+perl(Text::Diff)
+perl-generators

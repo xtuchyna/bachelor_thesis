@@ -1,0 +1,8 @@
+maven-local
+mvn(com.google.code.findbugs:annotations)
+mvn(com.google.code.findbugs:jsr305)
+mvn(com.google.guava:guava)
+mvn(javax.inject:javax.inject)
+mvn(org.testng:testng)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

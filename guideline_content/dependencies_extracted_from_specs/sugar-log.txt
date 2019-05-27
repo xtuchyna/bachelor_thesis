@@ -1,0 +1,4 @@
+gettext
+python
+python-devel
+sugar-toolkit-gtk3

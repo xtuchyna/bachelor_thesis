@@ -1,0 +1,4 @@
+maven-local
+mvn(org.codehaus.plexus:plexus-components:pom:)
+mvn(org.codehaus.plexus:plexus-container-default)
+mvn(org.codehaus.plexus:plexus-utils)

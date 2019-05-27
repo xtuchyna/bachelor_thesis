@@ -1,0 +1,22 @@
+perl(Carp)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exception::Assertion)
+perl(Exception::Base)
+perl(File::Basename)
+perl(File::Spec)
+perl(Module::Build)
+perl(Moose) >= 0.94
+perl(Moose::Exporter)
+perl(Moose::Object)
+perl(Moose::Role)
+perl(Moose::Util::MetaRole)
+perl(Scalar::Util)
+perl(Test::Assert)
+perl(Test::Unit::Lite) >= 0.11
+perl(constant)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,7 @@
+chrpath
+libusb-devel
+newt-devel
+perl-generators
+perl-interpreter
+perl-podlators
+udev

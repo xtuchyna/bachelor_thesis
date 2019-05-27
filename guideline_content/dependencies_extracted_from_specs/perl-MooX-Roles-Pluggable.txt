@@ -1,0 +1,14 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Spec)
+perl(Module::Pluggable) >= 4.8
+perl(Module::Pluggable::Object)
+perl(Moo)
+perl(Moo::Role) >= 1.003000
+perl(Test::More) >= 0.9
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

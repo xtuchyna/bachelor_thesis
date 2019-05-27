@@ -1,0 +1,5 @@
+libICE-devel
+libX11-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel >= 4.0

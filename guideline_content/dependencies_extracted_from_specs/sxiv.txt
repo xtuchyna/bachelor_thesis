@@ -1,0 +1,12 @@
+binutils
+coreutils
+desktop-file-utils
+gcc
+giflib-devel
+imlib2-devel
+libX11-devel
+libXft-devel
+libexif-devel
+make
+sed
+xorg-x11-proto-devel

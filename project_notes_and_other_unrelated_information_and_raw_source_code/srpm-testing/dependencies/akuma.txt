@@ -1,0 +1,6 @@
+maven-assembly-plugin
+maven-local
+mvn(net.java.dev.jna:jna)
+mvn(org.kohsuke:pom:pom:)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

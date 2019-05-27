@@ -1,0 +1,7 @@
+perl(AutoLoader)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(HTML::FromText) >= 1.004
+perl-generators

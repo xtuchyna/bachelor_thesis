@@ -1,0 +1,16 @@
+perl(CPAN) >= 1.36
+perl(CPAN::Checksums) >= 1.05
+perl(Cwd)
+perl(File::Basename) >= 2.6
+perl(File::Copy) >= 2.02
+perl(File::Path) >= 1.00
+perl(File::Remove) >= 0.34
+perl(File::Spec) >= 0.80
+perl(File::Spec::Functions)
+perl(File::chmod) >= 0.30
+perl(File::stat) >= 1.00
+perl(Params::Util) >= 0.21
+perl(Test::More) >= 0.42
+perl(Test::Script) >= 1.02
+perl(inc::Module::Install)
+perl-generators

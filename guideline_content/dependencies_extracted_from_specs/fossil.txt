@@ -1,0 +1,3 @@
+openssl-devel
+sqlite-devel
+zlib-devel

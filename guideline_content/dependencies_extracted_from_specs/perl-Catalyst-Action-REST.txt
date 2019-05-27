@@ -1,0 +1,55 @@
+perl(Catalyst)
+perl(Catalyst::Log)
+perl(Catalyst::Request)
+perl(Catalyst::Runtime) >= 5.80030
+perl(Catalyst::Utils)
+perl(Class::Inspector) >= 1.13
+perl(Config)
+perl(Config::General)
+perl(Cpanel::JSON::XS)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Data::Taxi)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker) >= 6.75
+perl(ExtUtils::Manifest)
+perl(Fcntl)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(FindBin)
+perl(FreezeThaw)
+perl(HTML::Parser)
+perl(HTTP::Body)
+perl(HTTP::Headers)
+perl(HTTP::Headers::Util)
+perl(JSON) >= 2.12
+perl(JSON::MaybeXS)
+perl(JSON::PP)
+perl(JSON::XS)
+perl(LWP::UserAgent) >= 5.00
+perl(MRO::Compat) >= 0.10
+perl(Module::Pluggable::Object)
+perl(Moose) >= 1.03
+perl(Moose::Meta::Class)
+perl(Moose::Role)
+perl(Moose::Util::TypeConstraints)
+perl(PHP::Serialization)
+perl(Params::Validate) >= 0.76
+perl(Scalar::Util)
+perl(Test::More) >= 0.88
+perl(Test::Requires)
+perl(URI::Find)
+perl(XML::Simple)
+perl(YAML::Syck)
+perl(base)
+perl(bytes)
+perl(lib)
+perl(namespace::autoclean)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

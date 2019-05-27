@@ -1,0 +1,11 @@
+/usr/bin/perl
+gradle-local
+mvn(ch.qos.logback:logback-classic)
+mvn(com.jcraft:jzlib) >= 1.1.0-2
+mvn(junit:junit)
+mvn(net.iharder:base64)
+mvn(org.apache.sshd:sshd-core)
+mvn(org.bouncycastle:bcpkix-jdk15on)
+mvn(org.bouncycastle:bcprov-jdk15on)
+mvn(org.mockito:mockito-core)
+mvn(org.slf4j:slf4j-api)

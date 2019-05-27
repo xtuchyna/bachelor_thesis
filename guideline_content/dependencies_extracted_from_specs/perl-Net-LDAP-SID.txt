@@ -1,0 +1,9 @@
+/usr/bin/make
+/usr/bin/perl
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.008003

@@ -1,0 +1,9 @@
+desktop-file-utils
+gettext
+gnome-python2-gconf
+gnome-python2-gnome
+intltool
+itstool
+pygtk2-libglade
+python2-bibtex
+yelp-tools

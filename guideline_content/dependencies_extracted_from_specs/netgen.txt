@@ -1,0 +1,4 @@
+desktop-file-utils
+libXt-devel
+m4
+tk-devel

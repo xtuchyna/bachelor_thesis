@@ -1,0 +1,4 @@
+boost-devel
+doxygen
+graphviz-devel >= 2.3
+libgnomecanvasmm26-devel

@@ -1,0 +1,4 @@
+ruby >= 1.8.3
+ruby(release)
+rubygem(test-unit)
+rubygems-devel

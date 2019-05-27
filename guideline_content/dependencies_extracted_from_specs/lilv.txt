@@ -1,0 +1,9 @@
+doxygen
+graphviz
+lv2-devel >= 1.14.0
+numpy
+python2-devel
+serd-devel >= 0.14.0
+sord-devel >= 0.13.0
+sratom-devel >= 0.4.4
+swig

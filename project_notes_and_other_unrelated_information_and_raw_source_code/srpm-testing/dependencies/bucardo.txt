@@ -1,0 +1,38 @@
+perl(Config)
+perl(Cwd)
+perl(DBD::Pg) >= 2.0
+perl(DBD::SQLite)
+perl(DBD::mysql)
+perl(DBI) >= 1.51
+perl(DBIx::Safe)
+perl(Data::Dumper)
+perl(Encode::Locale)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.68
+perl(File::Basename)
+perl(File::Spec)
+perl(Getopt::Long)
+perl(IO::Handle)
+perl(MongoDB)
+perl(Net::SMTP)
+perl(POSIX)
+perl(Pod::Parser)
+perl(Pod::PlainText)
+perl(Redis)
+perl(Sys::Hostname)
+perl(Sys::Syslog)
+perl(Test::More)
+perl(Time::HiRes)
+perl(base)
+perl(boolean)
+perl(lib)
+perl(open)
+perl(sigtrap)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+postgresql-plperl
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

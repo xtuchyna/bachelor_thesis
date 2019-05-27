@@ -1,0 +1,10 @@
+atk-devel
+cairo-devel
+desktop-file-utils
+gettext
+gtk3-devel
+intltool
+libappstream-glib
+libofx-devel
+libsoup-devel
+perl(XML::Parser)

@@ -1,0 +1,28 @@
+asciidoc
+augeas
+augeas-devel
+curl-devel
+dbus-devel
+desktop-file-utils
+doxygen
+gettext
+git
+glib2-devel >= 2.43
+glibc-all-langpacks
+gtk3-devel
+intltool
+json-c-devel
+libproxy-devel
+libtar-devel
+libtool
+libxml2-devel
+lz4
+newt-devel
+python2-devel
+python3-devel
+satyr-devel >= 0.24
+systemd-devel
+texinfo
+xmlrpc-c-devel
+xmlto
+xz

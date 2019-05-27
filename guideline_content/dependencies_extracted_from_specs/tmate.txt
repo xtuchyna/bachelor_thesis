@@ -1,0 +1,10 @@
+autoconf
+libevent-devel
+libssh-devel >= 0.7.0
+libtool
+msgpack-devel >= 1.1.8
+ncurses-devel
+openssl-devel
+pkgconfig
+ruby
+zlib-devel

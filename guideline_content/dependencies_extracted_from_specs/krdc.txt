@@ -1,0 +1,23 @@
+desktop-file-utils
+extra-cmake-modules
+freerdp >= 1:1.1.0
+gettext
+kf5-kbookmarks-devel
+kf5-kcmutils-devel
+kf5-kcompletion-devel
+kf5-kconfig-devel
+kf5-kcoreaddons-devel
+kf5-kcrash-devel
+kf5-kdbusaddons-devel
+kf5-kdnssd-devel
+kf5-kdoctools-devel
+kf5-ki18n-devel
+kf5-kiconthemes-devel
+kf5-knotifications-devel
+kf5-knotifyconfig-devel
+kf5-kwallet-devel
+kf5-kwidgetsaddons
+kf5-kxmlgui-devel
+kf5-rpm-macros
+libvncserver-devel
+oxygen-icon-theme

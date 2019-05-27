@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(agentkeepalive)
+npm(requestretry)
+npm(tape) >= 3.0.0
+npm(tiletype) >= 0.1.0

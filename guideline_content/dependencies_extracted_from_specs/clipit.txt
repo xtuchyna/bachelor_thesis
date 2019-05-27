@@ -1,0 +1,6 @@
+desktop-file-utils
+gcc
+gettext
+gtk2-devel
+intltool
+make

@@ -1,0 +1,5 @@
+bison
+flex
+flex-devel
+libpcap-devel
+pkgconfig(libusb-1.0)

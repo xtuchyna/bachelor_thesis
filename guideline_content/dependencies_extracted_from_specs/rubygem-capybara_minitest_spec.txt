@@ -1,0 +1,7 @@
+ruby
+ruby(release)
+rubygem(awesome_print)
+rubygem(capybara)
+rubygem(minitest) >= 5.6.0
+rubygem(sinatra) >= 0.9.4
+rubygems-devel

@@ -1,0 +1,11 @@
+appdata-tools
+desktop-file-utils
+libjpeg-devel
+pkgconfig(egl)
+pkgconfig(gbm)
+pkgconfig(gl)
+pkgconfig(glesv2)
+pkgconfig(libdrm)
+pkgconfig(libpng12)
+pkgconfig(x11)
+python

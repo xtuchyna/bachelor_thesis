@@ -1,0 +1,9 @@
+perl(Module::Build)
+perl(Pod::Simple)
+perl(Test::Kwalitee)
+perl(Test::More)
+perl(Test::Perl::Critic)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(version)
+perl-generators

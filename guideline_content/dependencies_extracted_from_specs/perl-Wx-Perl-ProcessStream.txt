@@ -1,0 +1,24 @@
+coreutils
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More)
+perl(Time::HiRes) >= 1.2
+perl(Wx) >= 0.5
+perl(Wx::App)
+perl(Wx::Event)
+perl(Wx::EvtHandler)
+perl(Wx::Frame)
+perl(Wx::Perl::Carp)
+perl(Wx::PlCommandEvent)
+perl(Wx::Process)
+perl(base)
+perl(bytes)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+xorg-x11-server-Xvfb
+xorg-x11-xinit

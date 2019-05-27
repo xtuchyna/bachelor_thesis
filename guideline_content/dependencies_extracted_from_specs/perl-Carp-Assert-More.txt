@@ -1,0 +1,17 @@
+make
+perl(Carp)
+perl(Carp::Assert)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IO::File)
+perl(Scalar::Util)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,5 @@
+mocha
+nodejs-packaging
+npm(expand-tilde)
+npm(global-modules)
+npm(user-home)

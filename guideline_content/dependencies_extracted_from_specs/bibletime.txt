@@ -1,0 +1,13 @@
+boost-devel
+clucene-core-devel >= 2.0
+cmake
+dbus-devel
+desktop-file-utils
+gettext
+openssl-devel
+pkgconfig(QtGui) >= 4.5.0
+qt5-linguist
+qt5-qtbase-devel
+qt5-qtsvg-devel
+qt5-qtwebengine-devel
+sword-devel >= 1.7.0

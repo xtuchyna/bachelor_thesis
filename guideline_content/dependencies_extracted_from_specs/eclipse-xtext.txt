@@ -1,0 +1,24 @@
+antlr32-java >= 3.2-10
+apache-commons-lang
+atinject
+eclipse-emf-mwe
+eclipse-emf-runtime
+eclipse-gef
+eclipse-jdt
+eclipse-m2e-core
+eclipse-pde
+eclipse-platform >= 1:4.4
+eclipse-xpand
+eclipse-xtext-antlr-generator
+google-guice
+guava
+junit
+log4j
+maven-antrun-plugin
+maven-archetype-packaging
+maven-dependency-plugin
+maven-local
+objectweb-asm
+sonatype-oss-parent
+tycho
+tycho-extras

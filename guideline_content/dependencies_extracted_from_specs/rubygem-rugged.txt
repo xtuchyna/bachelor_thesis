@@ -1,0 +1,7 @@
+cmake
+git-core
+libgit2-devel
+ruby
+ruby-devel
+rubygem(minitest)
+rubygems-devel

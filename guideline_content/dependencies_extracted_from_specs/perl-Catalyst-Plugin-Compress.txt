@@ -1,0 +1,24 @@
+make
+perl(Catalyst)
+perl(Catalyst::Controller)
+perl(Catalyst::Runtime) >= 5.80001
+perl(Catalyst::Test)
+perl(Catalyst::Utils)
+perl(Compress::Bzip2) >= 2
+perl(Compress::Zlib)
+perl(Encode) >= 2.21
+perl(HTTP::Request::Common)
+perl(List::Util)
+perl(MRO::Compat)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::More)
+perl(base)
+perl(inc::Module::Install) >= 0.91
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

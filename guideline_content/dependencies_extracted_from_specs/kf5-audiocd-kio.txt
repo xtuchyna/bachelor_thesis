@@ -1,0 +1,18 @@
+cdparanoia
+cdparanoia-devel
+cmake(KF5Cddb)
+cmake(KF5CompactDisc)
+cmake(KF5Config)
+cmake(KF5DocTools)
+cmake(KF5I18n)
+cmake(KF5KDELibs4Support)
+cmake(KF5KIO)
+extra-cmake-modules
+kf5-libkcddb-devel >= 17.12
+kf5-libkcompactdisc-devel >= 17.12
+kf5-rpm-macros
+pkgconfig(alsa)
+pkgconfig(flac)
+pkgconfig(phonon4qt5)
+pkgconfig(theora)
+pkgconfig(vorbis)

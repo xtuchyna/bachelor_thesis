@@ -1,0 +1,12 @@
+ghc-Cabal-devel
+ghc-blaze-builder-devel
+ghc-byteorder-devel
+ghc-bytestring-devel
+ghc-case-insensitive-devel
+ghc-fast-logger-devel
+ghc-http-types-devel
+ghc-network-devel
+ghc-rpm-macros
+ghc-unix-devel
+ghc-unix-time-devel
+ghc-wai-devel

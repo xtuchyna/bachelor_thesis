@@ -1,0 +1,10 @@
+atk-devel
+cairo-devel
+gedit-devel
+gettext
+glib2-devel
+gtk3-devel
+intltool
+libgee-devel
+libpeas-devel
+python3-gobject

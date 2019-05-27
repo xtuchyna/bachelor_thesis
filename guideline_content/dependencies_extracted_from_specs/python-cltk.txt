@@ -1,0 +1,8 @@
+python3-GitPython
+python3-devel
+python3-fuzzywuzzy
+python3-gitdb
+python3-nltk
+python3-regex
+python3-setuptools
+python3-whoosh

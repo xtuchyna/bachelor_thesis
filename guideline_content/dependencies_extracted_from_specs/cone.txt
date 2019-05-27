@@ -1,0 +1,13 @@
+aspell-devel
+courier-unicode-devel > 1.2
+gawk
+gnupg
+libidn-devel
+libxml2-devel
+ncurses-devel
+openldap-devel
+openssl-devel
+openssl-perl
+perl-interpreter
+procps
+zlib-devel

@@ -1,0 +1,9 @@
+maven-local
+mvn(com.google.code.findbugs:jsr305)
+mvn(com.google.guava:guava)
+mvn(com.squareup:javapoet)
+mvn(org.apache.commons:commons-lang3)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.codehaus.mojo:exec-maven-plugin)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

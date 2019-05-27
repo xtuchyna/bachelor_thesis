@@ -1,0 +1,6 @@
+autoconf
+automake
+libX11-devel
+libXext-devel
+libtool
+xorg-x11-util-macros

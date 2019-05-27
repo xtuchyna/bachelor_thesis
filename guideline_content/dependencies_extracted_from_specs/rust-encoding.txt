@@ -1,0 +1,6 @@
+(crate(encoding-index-japanese) >= 1.20141219.5 with crate(encoding-index-japanese) < 1.20141220.0)
+(crate(encoding-index-korean) >= 1.20141219.5 with crate(encoding-index-korean) < 1.20141220.0)
+(crate(encoding-index-simpchinese) >= 1.20141219.5 with crate(encoding-index-simpchinese) < 1.20141220.0)
+(crate(encoding-index-singlebyte) >= 1.20141219.5 with crate(encoding-index-singlebyte) < 1.20141220.0)
+(crate(encoding-index-tradchinese) >= 1.20141219.5 with crate(encoding-index-tradchinese) < 1.20141220.0)
+rust-packaging

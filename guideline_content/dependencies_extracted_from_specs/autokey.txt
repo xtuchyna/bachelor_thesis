@@ -1,0 +1,5 @@
+desktop-file-utils
+notify-python
+pygtk2
+pygtk2-libglade
+python-xlib

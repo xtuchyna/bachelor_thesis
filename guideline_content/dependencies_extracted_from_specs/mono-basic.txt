@@ -1,0 +1,5 @@
+mono-data
+mono-devel >= 4.0.1
+mono-web
+mono-winforms
+pkgconfig

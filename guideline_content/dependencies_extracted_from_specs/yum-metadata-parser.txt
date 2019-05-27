@@ -1,0 +1,5 @@
+glib2-devel
+libxml2-devel
+pkgconfig
+python-devel
+sqlite-devel

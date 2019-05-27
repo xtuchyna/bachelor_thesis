@@ -1,0 +1,6 @@
+emacs
+emacs-apel
+flim
+flim-xemacs
+xemacs
+xemacs-packages-extra

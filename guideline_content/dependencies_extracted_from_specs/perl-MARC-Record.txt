@@ -1,0 +1,21 @@
+findutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Getopt::Long)
+perl(IO::File)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(base)
+perl(constant)
+perl(integer)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

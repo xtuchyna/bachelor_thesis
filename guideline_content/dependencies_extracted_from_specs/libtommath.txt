@@ -1,0 +1,11 @@
+ghostscript
+ghostscript-tools-dvipdf
+libtiff-tools
+libtool
+tex(cmr10.tfm)
+tex(fancyhdr.sty)
+tex(hyphen.tex)
+texlive-dvips-bin
+texlive-latex-bin-bin
+texlive-makeindex-bin
+texlive-mfware-bin

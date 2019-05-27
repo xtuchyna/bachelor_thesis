@@ -1,0 +1,15 @@
+GConf2-devel
+autoconf
+automake
+banshee-devel
+fftw-devel
+gnome-doc-utils
+gnome-sharp-devel
+gstreamer-devel
+gstreamer-plugins-base-devel
+intltool
+libsamplerate-devel
+libtool
+lirc-devel
+mono-devel
+notify-sharp-devel

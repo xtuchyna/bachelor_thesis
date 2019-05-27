@@ -1,0 +1,16 @@
+python-guessit-doc
+python2-babelfish
+python2-beautifulsoup4
+python2-click
+python2-devel
+python2-docs
+python2-dogpile-cache
+python2-enzyme
+python2-futures
+python2-guessit
+python2-pysrt
+python2-rarfile
+python2-sphinx
+python2-sphinxcontrib-programoutput
+python2-stevedore
+python3-devel

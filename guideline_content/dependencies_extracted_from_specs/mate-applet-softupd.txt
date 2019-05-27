@@ -1,0 +1,8 @@
+autoconf
+automake
+dnf
+dnfdragora-gui
+gcc
+gettext-devel
+libnotify-devel >= 0.7.0
+mate-panel-devel >= 1.3.0

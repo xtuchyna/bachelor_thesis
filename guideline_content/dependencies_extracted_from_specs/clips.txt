@@ -1,0 +1,13 @@
+ImageMagick
+autoconf
+automake
+desktop-file-utils
+libXaw-devel
+libXext-devel
+libXmu-devel
+libXt-devel
+libtool
+ncurses-devel
+pkgconfig
+xorg-x11-proto-devel
+xorg-x11-xbitmaps

@@ -1,0 +1,7 @@
+extra-cmake-modules
+kf5-karchive-devel
+kf5-ki18n-devel
+kf5-kio-devel
+kf5-rpm-macros
+pkgconfig(Qt5Xml)
+xorg-x11-server-Xvfb

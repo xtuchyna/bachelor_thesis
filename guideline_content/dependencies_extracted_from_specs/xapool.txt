@@ -1,0 +1,5 @@
+ant
+apache-commons-logging
+geronimo-jta
+java-devel
+javapackages-local

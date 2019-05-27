@@ -1,0 +1,4 @@
+mocha
+nodejs-packaging
+npm(align-text)
+npm(should)

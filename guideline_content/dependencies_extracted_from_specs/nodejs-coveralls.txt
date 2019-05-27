@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(js-yaml)
+npm(lcov-parse)
+npm(log-driver)
+npm(minimist)
+npm(request)

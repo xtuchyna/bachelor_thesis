@@ -1,0 +1,6 @@
+R-curl >= 2.5
+R-devel
+R-httpuv
+R-jsonlite
+R-testthat
+tex(latex)

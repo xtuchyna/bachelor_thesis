@@ -1,0 +1,23 @@
+atk-devel
+autoconf
+automake
+gettext
+glibc-devel
+gnome-common
+gnome-doc-utils
+intltool
+libtool
+libxslt
+pkgconfig
+pkgconfig(atk)
+pkgconfig(gio-2.0) >= 2.35.4
+pkgconfig(gio-unix-2.0) >= 2.24
+pkgconfig(glib-2.0) >= 2.35.4
+pkgconfig(gobject-introspection-1.0) >= 0.10
+pkgconfig(gtk+-2.0) >= 2.16
+pkgconfig(gtk+-3.0) >= 2.91
+pkgconfig(json-glib-1.0) >= 0.13.4
+pkgconfig(x11) >= 1.3
+python
+vala-devel
+vala-tools

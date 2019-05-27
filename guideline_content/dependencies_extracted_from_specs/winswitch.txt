@@ -1,0 +1,5 @@
+desktop-file-utils
+javapackages-tools
+libappstream-glib
+python-setuptools
+python2-devel

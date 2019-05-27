@@ -1,0 +1,15 @@
+fontawesome-fonts-web
+python2-devel
+python2-django
+python2-pytest
+python2-requests
+python2-setuptools
+python2-sphinx
+python2-sphinx_rtd_theme
+python3-devel
+python3-django
+python3-pytest
+python3-requests
+python3-setuptools
+python3-sphinx
+python3-sphinx_rtd_theme

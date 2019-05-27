@@ -1,0 +1,36 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Spec::Functions)
+perl(Perl::Critic) >= 1.094
+perl(Perl::Critic::Policy::Modules::ProhibitModuleShebang)
+perl(Pod::Coverage::TrustPod)
+perl(Pod::Usage)
+perl(Test::Builder)
+perl(Test::Builder::Tester)
+perl(Test::CPAN::Changes)
+perl(Test::CPAN::Meta)
+perl(Test::CPAN::Meta::JSON)
+perl(Test::DistManifest)
+perl(Test::EOL)
+perl(Test::HasVersion)
+perl(Test::Kwalitee) >= 1.21
+perl(Test::MinimumVersion)
+perl(Test::More)
+perl(Test::NoTabs)
+perl(Test::Perl::Critic)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Test::Pod::LinkCheck)
+perl(Test::Portability::Files)
+perl(Test::Script)
+perl(Test::Synopsis)
+perl(Test::Vars)
+perl(Test::Version)
+perl(Unicode::CheckUTF8)
+perl(blib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

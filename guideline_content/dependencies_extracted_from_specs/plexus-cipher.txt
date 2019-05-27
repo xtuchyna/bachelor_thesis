@@ -1,0 +1,6 @@
+maven-local
+mvn(javax.enterprise:cdi-api)
+mvn(javax.inject:javax.inject)
+mvn(junit:junit)
+mvn(org.sonatype.plugins:sisu-maven-plugin)
+mvn(org.sonatype.spice:spice-parent:pom:)

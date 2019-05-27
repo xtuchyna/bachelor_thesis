@@ -1,0 +1,2 @@
+ncurses-devel >= 5.0
+pcre-devel >= 3.1

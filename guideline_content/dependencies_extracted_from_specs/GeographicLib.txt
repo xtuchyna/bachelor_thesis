@@ -1,0 +1,7 @@
+cmake
+doxygen
+gcc-c++
+nodejs-packaging
+octave-devel
+python2-devel
+python3-devel

@@ -1,0 +1,20 @@
+SDL-devel
+desktop-file-utils
+freetype-devel >= 2.0
+gettext-devel
+libICE-devel
+libSM-devel
+libX11-devel
+libXScrnSaver-devel
+libXext-devel
+libXi-devel
+libXinerama-devel
+libXt-devel
+libXtst-devel
+libXv-devel
+libXxf86vm-devel
+libappstream-glib
+libpng-devel
+libtool
+libxml2-devel
+zlib-devel

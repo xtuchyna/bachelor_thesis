@@ -1,0 +1,12 @@
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(HTTP::Request::Common)
+perl(LWP::UserAgent)
+perl(Plack::Loader)
+perl(Plack::Test)
+perl(Pod::Coverage::TrustPod)
+perl(Test::More) >= 0.89
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Test::TCP)
+perl(URI)
+perl-generators

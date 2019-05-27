@@ -1,0 +1,6 @@
+asio-devel
+boost-devel
+check-devel
+openssl-devel
+scons
+systemd

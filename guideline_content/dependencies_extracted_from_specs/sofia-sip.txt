@@ -1,0 +1,3 @@
+glib2-devel >= 2.4
+lksctp-tools-devel
+openssl-devel >= 0.9.7

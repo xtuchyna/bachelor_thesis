@@ -1,0 +1,4 @@
+rubygem(railties) < 6
+rubygem(railties) >= 5.0.1
+rubygem(sqlite3)
+rubygems-devel

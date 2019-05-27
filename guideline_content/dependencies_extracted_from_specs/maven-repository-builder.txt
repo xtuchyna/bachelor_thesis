@@ -1,0 +1,12 @@
+maven-local
+mvn(commons-codec:commons-codec)
+mvn(junit:junit)
+mvn(org.apache.maven.shared:maven-common-artifact-filters)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)
+mvn(org.apache.maven.shared:maven-shared-utils)
+mvn(org.apache.maven.shared:maven-test-tools)
+mvn(org.apache.maven.wagon:wagon-file)
+mvn(org.apache.maven.wagon:wagon-http-lightweight)
+mvn(org.apache.maven:maven-artifact)
+mvn(org.apache.maven:maven-compat)
+mvn(org.codehaus.plexus:plexus-component-metadata)

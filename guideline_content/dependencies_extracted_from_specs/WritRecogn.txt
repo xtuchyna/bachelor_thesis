@@ -1,0 +1,7 @@
+desktop-file-utils
+gob2 >= 2.0.0
+gtk-doc
+gtk2-devel >= 2.10
+libtool >= 1.5
+libxml2-devel >= 2.6
+sqlite-devel >= 3.0

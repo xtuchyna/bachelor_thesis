@@ -1,0 +1,4 @@
+perl(ExtUtils::CBuilder)
+perl(Module::Build)
+perl(Test::More)
+perl-generators

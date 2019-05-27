@@ -1,0 +1,24 @@
+coreutils
+findutils
+make
+perl(Date::Manip)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Spec)
+perl(Log::Dispatch)
+perl(Log::Dispatch::File)
+perl(Log::Dispatch::Output)
+perl(Log::Dispatch::Screen)
+perl(POSIX)
+perl(Path::Tiny) >= 0.018
+perl(Test::More) >= 0.88
+perl(Test::Warn)
+perl(base)
+perl(strict)
+perl(utf8)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,11 @@
+airrac-devel
+boost-devel
+cmake
+doxygen
+ghostscript
+python-devel
+readline-devel
+soci-mysql-devel
+soci-sqlite3-devel
+stdair-devel
+tex(latex)

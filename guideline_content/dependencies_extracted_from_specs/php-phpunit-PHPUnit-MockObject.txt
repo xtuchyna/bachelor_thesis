@@ -1,0 +1,6 @@
+(php-composer(doctrine/instantiator) >= 1.0.2 with php-composer(doctrine/instantiator) < 2)
+(php-composer(phpunit/php-text-template) >= 1.2 with php-composer(phpunit/php-text-template) < 2)
+(php-composer(sebastian/exporter) >= 1.2 with php-composer(sebastian/exporter) < 3)
+php(language) >= 5.6
+php-composer(phpunit/phpunit) >= 5.4
+php-fedora-autoloader-devel

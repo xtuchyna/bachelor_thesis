@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(async)
+npm(tap)
+npm(tape)

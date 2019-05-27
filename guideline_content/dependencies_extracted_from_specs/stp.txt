@@ -1,0 +1,10 @@
+bison
+boost-devel
+cmake
+cryptominisat
+cryptominisat-devel
+flex
+gcc-c++
+minisat2-devel
+perl(Getopt::Long)
+python2-devel

@@ -1,0 +1,18 @@
+coreutils
+findutils
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::CBuilder) >= 0.24
+perl(JSON) >= 2.17
+perl(Module::Build) >= 0.36
+perl(Test::Exception) >= 0.27
+perl(Test::More) >= 0.82
+perl(Test::Warn) >= 0.11
+perl(XSLoader)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

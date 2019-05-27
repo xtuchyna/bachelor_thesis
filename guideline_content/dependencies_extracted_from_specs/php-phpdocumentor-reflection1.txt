@@ -1,0 +1,9 @@
+php(language) >= 5.3.3
+php-composer(mockery/mockery) < 1
+php-composer(mockery/mockery) >= 0.8
+php-composer(phpdocumentor/reflection-docblock) < 3
+php-composer(phpdocumentor/reflection-docblock) >= 2.0
+php-composer(phpunit/phpunit) >= 4.0
+php-composer(psr/log) < 2
+php-composer(psr/log) >= 1.0
+php-fedora-autoloader-devel

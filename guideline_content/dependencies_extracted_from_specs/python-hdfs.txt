@@ -1,0 +1,15 @@
+python2-devel
+python2dist(fastavro)
+python2dist(nose)
+python2dist(pandas)
+python2dist(requests-kerberos)
+python2dist(setuptools)
+python2dist(six)
+python2dist(sphinx)
+python3-devel
+python3dist(fastavro)
+python3dist(nose)
+python3dist(pandas)
+python3dist(requests-kerberos)
+python3dist(setuptools)
+python3dist(six)

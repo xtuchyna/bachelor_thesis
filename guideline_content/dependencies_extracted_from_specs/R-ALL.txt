@@ -1,0 +1,5 @@
+R-Biobase >= 2.5.5
+R-devel >= 3.0.0
+R-rpart
+tex(latex)
+texinfo-tex

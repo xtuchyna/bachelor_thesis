@@ -1,0 +1,4 @@
+desktop-file-utils
+irrlicht-devel
+libX11-devel
+libXext-devel

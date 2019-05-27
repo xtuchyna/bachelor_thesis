@@ -1,0 +1,3 @@
+(crate(extprim) >= 1.0.0 with crate(extprim) < 2.0.0)
+(crate(procedural-masquerade) >= 0.1.0 with crate(procedural-masquerade) < 0.2.0)
+rust-packaging

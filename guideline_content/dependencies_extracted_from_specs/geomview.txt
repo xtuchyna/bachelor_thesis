@@ -1,0 +1,12 @@
+byacc
+desktop-file-utils
+flex
+gawk
+libGL-devel
+libGLU-devel
+libXmu-devel
+motif-devel
+tcl-devel
+texi2html
+texinfo
+tk-devel

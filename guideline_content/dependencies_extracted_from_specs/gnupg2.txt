@@ -1,0 +1,19 @@
+bzip2-devel
+curl-devel
+docbook-utils
+fuse
+gcc
+gettext
+gnutls-devel
+libassuan-devel >= 2.1.0
+libgcrypt-devel >= 1.7.0
+libgpg-error-devel >= 1.16
+libksba-devel >= 1.3.0
+libusb-devel
+ncurses-devel
+npth-devel
+openldap-devel
+pcsc-lite-libs
+readline-devel
+sqlite-devel
+zlib-devel

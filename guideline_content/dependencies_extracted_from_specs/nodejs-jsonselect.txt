@@ -1,0 +1,2 @@
+nodejs-packaging
+uglify-js

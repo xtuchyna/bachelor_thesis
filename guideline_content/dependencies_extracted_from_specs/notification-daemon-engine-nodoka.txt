@@ -1,0 +1,5 @@
+autoconf
+automake
+gtk2-devel >= 2.17.1
+libtool
+libxml2-devel

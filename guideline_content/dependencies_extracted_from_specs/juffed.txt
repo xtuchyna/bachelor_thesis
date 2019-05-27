@@ -1,0 +1,6 @@
+cmake
+desktop-file-utils
+pkgconfig(QtGui)
+pkgconfig(enca)
+qscintilla-devel
+qtsingleapplication-devel

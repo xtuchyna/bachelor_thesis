@@ -1,0 +1,8 @@
+curl-devel
+desktop-file-utils
+gettext
+glib2-devel
+goocanvas2-devel
+gtk3-devel
+intltool
+libtool

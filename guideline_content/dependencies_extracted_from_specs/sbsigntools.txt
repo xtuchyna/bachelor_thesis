@@ -1,0 +1,7 @@
+automake
+binutils-devel
+gnu-efi-devel
+help2man
+libuuid-devel
+openssl
+openssl-devel

@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext
+glib2-devel
+qscintilla-qt5-devel
+qt5-qtbase-devel

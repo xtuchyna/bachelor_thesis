@@ -1,0 +1,5 @@
+mecab-devel = 0.996
+mecab-jumandic
+perl(ExtUtils::MakeMaker)
+perl-devel
+perl-generators

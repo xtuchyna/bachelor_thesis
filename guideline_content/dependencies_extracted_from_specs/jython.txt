@@ -1,0 +1,22 @@
+ant
+ant-junit
+antlr32-tool
+apache-commons-compress
+bouncycastle
+bouncycastle-pkix
+glassfish-servlet-api
+guava
+icu4j
+jansi
+javapackages-local
+jctools >= 2.0.2
+jffi
+jffi-native
+jline
+jnr-constants
+jnr-ffi
+jnr-netdb
+jnr-posix
+netty >= 4.1.13
+objectweb-asm
+xerces-j2

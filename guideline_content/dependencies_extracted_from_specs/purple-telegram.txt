@@ -1,0 +1,6 @@
+gettext
+libappstream-glib
+libgcrypt-devel >= 1.6
+pkgconfig(libwebp)
+pkgconfig(purple)
+pkgconfig(zlib)

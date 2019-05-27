@@ -1,0 +1,3 @@
+ruby >= 1.9.3
+ruby(release)
+rubygems-devel >= 1.3.6

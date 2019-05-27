@@ -1,0 +1,2 @@
+pkgconfig(gtk+-2.0) >= 2.20.0
+pkgconfig(gtk+-3.0) >= 3.2.0

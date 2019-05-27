@@ -1,0 +1,5 @@
+golang
+golang(github.com/onsi/ginkgo)
+golang(github.com/onsi/ginkgo/config)
+golang(github.com/onsi/gomega)
+golang(github.com/syndtr/gosnappy/snappy)

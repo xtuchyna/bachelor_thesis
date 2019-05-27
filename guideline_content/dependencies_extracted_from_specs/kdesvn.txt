@@ -1,0 +1,6 @@
+cmake
+desktop-file-utils
+gettext
+kdelibs-devel
+neon-devel
+subversion-devel

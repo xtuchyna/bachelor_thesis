@@ -1,0 +1,5 @@
+perl(AnyEvent)
+perl(ExtUtils::MakeMaker)
+perl(Locale::TextDomain)
+perl(Test::More)
+perl-generators

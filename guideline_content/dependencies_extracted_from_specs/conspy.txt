@@ -1,0 +1,3 @@
+autoconf >= 1.10
+automake >= 1.10
+ncurses-devel

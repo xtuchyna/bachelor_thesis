@@ -1,0 +1,8 @@
+R-R6
+R-crayon
+R-devel
+R-grDevices
+R-mockery
+R-testthat
+R-withr
+tex(latex)

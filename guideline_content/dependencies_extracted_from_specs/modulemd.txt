@@ -1,0 +1,8 @@
+PyYAML
+python2-dateutil
+python2-devel
+python2-setuptools
+python3-PyYAML
+python3-dateutil
+python3-devel
+python3-setuptools

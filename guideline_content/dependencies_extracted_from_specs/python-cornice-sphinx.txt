@@ -1,0 +1,12 @@
+python2-devel
+python2dist(cornice) >= 3.0.0
+python2dist(docutils)
+python2dist(nose)
+python2dist(setuptools)
+python2dist(sphinx)
+python3-devel
+python3dist(cornice) >= 3.0.0
+python3dist(docutils)
+python3dist(nose)
+python3dist(setuptools)
+python3dist(sphinx)

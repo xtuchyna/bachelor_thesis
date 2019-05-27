@@ -1,0 +1,8 @@
+desktop-file-utils
+gettext
+gstreamer >= 0.10.12
+gstreamer-plugins-base
+gstreamer-python
+pygtk2 >= 2.10
+pygtk2-libglade >= 2.10
+python2-devel

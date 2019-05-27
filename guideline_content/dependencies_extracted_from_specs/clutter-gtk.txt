@@ -1,0 +1,3 @@
+clutter-devel >= 1.23.7
+gobject-introspection-devel
+gtk3-devel >= 3.21.0

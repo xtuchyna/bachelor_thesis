@@ -1,0 +1,7 @@
+doxygen
+globus-common-devel >= 15
+globus-gram-protocol-devel >= 11
+globus-gss-assist-devel >= 8
+globus-io-devel >= 9
+globus-rsl-devel >= 9
+openssl

@@ -1,0 +1,15 @@
+perl(Carp)
+perl(HTTP::Request::Common)
+perl(Module::Build::Tiny) >= 0.035
+perl(POSIX)
+perl(POSIX::strftime::Compiler)
+perl(Test::MockTime)
+perl(Test::More) >= 0.98
+perl(Time::Local)
+perl(Try::Tiny) >= 0.12
+perl(URI::Escape) >= 1.60
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.008001

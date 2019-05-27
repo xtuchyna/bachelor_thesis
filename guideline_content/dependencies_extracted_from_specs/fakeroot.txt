@@ -1,0 +1,4 @@
+/usr/bin/getopt
+libacl-devel
+libcap-devel
+sharutils

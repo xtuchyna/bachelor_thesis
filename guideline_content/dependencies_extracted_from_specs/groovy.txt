@@ -1,0 +1,32 @@
+ant
+ant-antlr
+antlr-tool
+apache-commons-beanutils
+apache-commons-cli
+apache-commons-collections
+apache-ivy
+apache-parent
+aqute-bnd
+bsf
+checkstyle
+desktop-file-utils
+glassfish-jsp-api
+glassfish-servlet-api
+gpars
+gradle-local >= 2.1-0.9
+jansi
+jarjar
+java-devel >= 1.8
+javapackages-local
+jline
+junit
+multiverse
+mvn(javax.servlet:jsp-api)
+mvn(javax.servlet:servlet-api)
+mvn(org.apache.ant:ant-junit)
+mvn(org.apache.ant:ant-launcher)
+objectweb-asm3
+qdox
+testng
+unzip
+xstream

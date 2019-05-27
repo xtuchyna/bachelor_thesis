@@ -1,0 +1,9 @@
+desktop-file-utils
+gettext
+gtk2-devel
+intltool
+libcurl-devel
+libglade2-devel
+libmpd-devel
+libnxml-devel
+taglib-devel

@@ -1,0 +1,25 @@
+coreutils
+findutils
+make
+perl(B::PerlReq)
+perl(CPAN::Meta)
+perl(CPAN::Meta::Requirements) >= 2.120620
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Find::Rule::Perl)
+perl(IPC::Cmd)
+perl(Module::CoreList)
+perl(Module::Metadata)
+perl(PerlReq::Utils)
+perl(Pod::Strip)
+perl(Test::Builder::Module)
+perl(Test::Builder::Tester) >= 0.64
+perl(Test::More) >= 0.98
+perl(Test::Needs)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

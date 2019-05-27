@@ -1,0 +1,10 @@
+asciidoc >= 8.6.8
+cmake
+gcc
+libwebsockets-devel >= 2.1.0
+make
+openssl-devel
+python2-devel
+python2-qpid-proton >= 0.21.0
+qpid-proton-c-devel >= 0.21.0
+systemd

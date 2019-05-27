@@ -1,0 +1,10 @@
+pyflakes
+pytest
+python-pytest-cache
+python-setuptools
+python2-devel
+python3-devel
+python3-pyflakes
+python3-pytest
+python3-pytest-cache
+python3-setuptools

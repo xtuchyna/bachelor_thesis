@@ -1,0 +1,11 @@
+alex
+ghc-Cabal-devel
+ghc-array-devel
+ghc-blaze-builder-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-mtl-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-utf8-string-devel
+happy

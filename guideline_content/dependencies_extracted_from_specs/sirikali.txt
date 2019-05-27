@@ -1,0 +1,11 @@
+cmake
+desktop-file-utils
+gcc-c++
+json-devel
+libappstream-glib
+libgcrypt-devel
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Network)
+pkgconfig(libsecret-1)
+pkgconfig(lxqt-wallet)

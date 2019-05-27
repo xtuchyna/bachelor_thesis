@@ -1,0 +1,12 @@
+git
+python-d2to1
+python-openstackdocstheme
+python-pbr
+python-reno
+python-setuptools
+python-sphinx
+python2-devel
+python3-d2to1
+python3-devel
+python3-pbr
+python3-setuptools

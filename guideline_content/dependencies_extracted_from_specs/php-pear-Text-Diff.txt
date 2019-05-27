@@ -1,0 +1,2 @@
+php-pcre
+php-pear

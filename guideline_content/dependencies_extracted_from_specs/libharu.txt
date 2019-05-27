@@ -1,0 +1,4 @@
+cmake
+gcc
+libpng-devel
+zlib-devel

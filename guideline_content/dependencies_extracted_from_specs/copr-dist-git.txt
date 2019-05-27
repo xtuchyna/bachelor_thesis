@@ -1,0 +1,10 @@
+python2-bunch
+python2-jinja2
+python2-mock
+python2-munch
+python2-pytest
+python2-pytest-cov
+python2-requests
+python2-rpkg
+python2-six
+systemd

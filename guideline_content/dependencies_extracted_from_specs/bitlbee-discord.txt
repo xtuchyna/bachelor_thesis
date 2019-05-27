@@ -1,0 +1,6 @@
+autoconf
+automake
+bitlbee-devel
+gcc
+glib2-devel
+libtool

@@ -1,0 +1,15 @@
+perl(CGI::Application::Structured)
+perl(DBIx::Class::Schema::Loader)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Slurp)
+perl(HTML::Template)
+perl(Module::Signature)
+perl(Module::Starter)
+perl(Module::Starter::Plugin::Template)
+perl(Module::Starter::Simple)
+perl(Pod::Coverage)
+perl(Probe::Perl)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::WWW::Mechanize::CGIApp)
+perl-generators

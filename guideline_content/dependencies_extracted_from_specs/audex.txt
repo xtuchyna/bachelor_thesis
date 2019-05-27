@@ -1,0 +1,6 @@
+cdparanoia-devel
+desktop-file-utils
+gettext
+kdelibs4-devel
+libkcddb-devel
+libkcompactdisc-devel

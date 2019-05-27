@@ -1,0 +1,6 @@
+nodejs-packaging >= 6
+npm(es6-promisify)
+npm(extend)
+npm(mocha)
+npm(semver)
+npm(ws)

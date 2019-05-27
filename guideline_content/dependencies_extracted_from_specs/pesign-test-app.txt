@@ -1,0 +1,4 @@
+acl
+gnu-efi
+gnu-efi-devel
+pesign >= 0.104-1

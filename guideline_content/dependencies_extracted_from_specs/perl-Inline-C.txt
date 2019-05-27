@@ -1,0 +1,36 @@
+make
+perl(:VERSION) >= 5.10
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 7.00
+perl(Fcntl)
+perl(File::Copy::Recursive)
+perl(File::Find)
+perl(File::Path)
+perl(File::ShareDir::Install)
+perl(File::Spec) >= 0.8
+perl(FindBin)
+perl(IPC::Cmd)
+perl(Inline) >= 0.58
+perl(Parse::RecDescent) >= 1.967009
+perl(Pegex::Base)
+perl(Pegex::Parser)
+perl(Test::More) >= 0.88
+perl(Test::Warn) >= 0.23
+perl(Time::HiRes)
+perl(YAML::XS)
+perl(autodie)
+perl(base)
+perl(constant)
+perl(diagnostics)
+perl(if)
+perl(lib)
+perl(strict)
+perl(version) >= 0.77
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

@@ -1,0 +1,10 @@
+cmake
+gcc-c++
+libosmium-devel >= 2.13.1
+libosmium-static >= 2.13.1
+man-db
+pandoc
+protozero-devel >= 1.5.1
+protozero-static >= 1.5.1
+rapidjson-devel >= 1.1.0
+rapidjson-static >= 1.1.0

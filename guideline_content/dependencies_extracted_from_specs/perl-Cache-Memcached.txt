@@ -1,0 +1,6 @@
+perl(ExtUtils::MakeMaker)
+perl(Storable)
+perl(String::CRC32)
+perl(Test::More)
+perl(Time::HiRes)
+perl-generators

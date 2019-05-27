@@ -1,0 +1,11 @@
+gettext
+gnome-common
+intltool
+libtool
+pkgconfig(cairo)
+pkgconfig(enchant)
+pkgconfig(gail-3.0)
+pkgconfig(gsettings-desktop-schemas)
+pkgconfig(gtk+-3.0)
+pkgconfig(iso-codes)
+pkgconfig(libsoup-2.4)

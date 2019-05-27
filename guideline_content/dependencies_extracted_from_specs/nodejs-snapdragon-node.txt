@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(define-property)
+npm(isobject)
+npm(lazy-cache)
+npm(snapdragon-util)

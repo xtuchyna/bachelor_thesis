@@ -1,0 +1,4 @@
+alsa-lib-devel
+autoconf
+automake
+libtool

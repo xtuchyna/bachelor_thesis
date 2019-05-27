@@ -1,0 +1,2 @@
+ClanLib-devel >= 2.3
+desktop-file-utils

@@ -1,0 +1,5 @@
+ruby
+ruby(release)
+rubygem(bigdecimal)
+rubygem(rspec2)
+rubygems-devel

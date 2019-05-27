@@ -1,0 +1,32 @@
+coreutils
+findutils
+gcc
+make
+openssl
+openssl-devel
+perl(AutoLoader)
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Path)
+perl(File::Spec)
+perl(HTTP::Tiny)
+perl(IO::Handle)
+perl(IO::Socket::INET)
+perl(MIME::Base64)
+perl(Socket)
+perl(Test::Exception)
+perl(Test::More) >= 0.61
+perl(Test::NoWarnings)
+perl(Test::Pod) >= 1.0
+perl(Test::Warn)
+perl(XSLoader)
+perl(lib)
+perl(strict)
+perl(threads)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

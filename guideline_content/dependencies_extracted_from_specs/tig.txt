@@ -1,0 +1,6 @@
+asciidoc
+bash-completion
+gcc
+git
+ncurses-devel
+xmlto

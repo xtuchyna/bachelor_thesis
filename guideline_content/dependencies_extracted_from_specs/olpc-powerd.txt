@@ -1,0 +1,5 @@
+NetworkManager-glib-devel
+dbus-glib-devel
+kernel-headers
+libusb1-devel
+systemd-devel

@@ -1,0 +1,16 @@
+findutils
+make
+perl(B::Hooks::OP::Check)
+perl(B::Hooks::OP::PPAddr)
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::Depends)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(XSLoader)
+perl(if)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

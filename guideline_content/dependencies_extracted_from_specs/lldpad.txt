@@ -1,0 +1,9 @@
+autoconf
+automake
+flex >= 2.5.33
+kernel-headers >= 2.6.32
+libconfig-devel >= 1.3.2
+libnl3-devel
+libtool
+readline-devel
+systemd

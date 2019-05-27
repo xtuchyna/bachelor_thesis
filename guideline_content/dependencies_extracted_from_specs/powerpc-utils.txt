@@ -1,0 +1,5 @@
+automake
+doxygen
+librtas-devel >= 1.4.0
+libservicelog-devel >= 1.0.1-2
+zlib-devel

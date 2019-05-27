@@ -1,0 +1,8 @@
+gcc
+gmp-devel
+libmpc-devel
+mpfr-devel
+python2-devel
+python2-sphinx
+python3-devel
+python3-sphinx

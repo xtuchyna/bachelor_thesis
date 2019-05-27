@@ -1,0 +1,4 @@
+glib2-devel
+gnome-common
+intltool
+meson

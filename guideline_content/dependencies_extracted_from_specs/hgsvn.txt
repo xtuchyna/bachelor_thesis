@@ -1,0 +1,6 @@
+mercurial >= 1.4.3
+python3-devel
+python3-hglib
+python3-nose
+python3-setuptools
+subversion

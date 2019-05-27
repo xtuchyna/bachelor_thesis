@@ -1,0 +1,20 @@
+cmake(Grantlee5) >= 5.1
+cmake(Qt5Widgets) >= 5.8
+cyrus-sasl-devel
+extra-cmake-modules
+kf5-akonadi-mime-devel >= 17.12.3
+kf5-akonadi-server >= 17.12.3
+kf5-akonadi-server-devel >= 17.12.3
+kf5-akonadi-server-mysql
+kf5-kcalendarcore-devel >= 17.12.3
+kf5-kconfig-devel >= 5.39
+kf5-kcontacts-devel >= 17.12.3
+kf5-kdbusaddons-devel >= 5.39
+kf5-ki18n-devel >= 5.39
+kf5-kio-devel >= 5.39
+kf5-kitemmodels-devel >= 5.39
+kf5-kmime-devel >= 17.12.3
+kf5-prison-devel >= 5.39
+kf5-rpm-macros
+qt5-qtwebengine-devel
+xorg-x11-server-Xvfb

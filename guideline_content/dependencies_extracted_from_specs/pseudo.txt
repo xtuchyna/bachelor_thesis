@@ -1,0 +1,4 @@
+attr
+libattr-devel
+python
+sqlite-devel

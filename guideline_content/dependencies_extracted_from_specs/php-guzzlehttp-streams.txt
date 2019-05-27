@@ -1,0 +1,6 @@
+/usr/bin/phpunit
+php(language) >= 5.4.0
+php-composer(fedora/autoloader)
+php-hash
+php-spl
+php-zlib

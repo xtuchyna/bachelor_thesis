@@ -1,0 +1,4 @@
+rubygem(activesupport)
+rubygem(minitest)
+rubygem(mocha)
+rubygems-devel

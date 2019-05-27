@@ -1,0 +1,22 @@
+ImageMagick
+alsa-lib-devel >= 0.9
+autoconf
+automake
+desktop-file-utils
+expat-devel
+gawk
+gettext-devel
+glibc-devel >= 2.2.0
+gtk2-devel
+gtkspell-devel
+jasper-devel >= 1.701.0
+libXt-devel
+libmcrypt-devel >= 2.5.0
+libnotify-devel
+libtool
+libtool-ltdl-devel
+libv4l-devel
+openssl-devel
+pulseaudio-libs-devel
+sed
+webkitgtk-devel

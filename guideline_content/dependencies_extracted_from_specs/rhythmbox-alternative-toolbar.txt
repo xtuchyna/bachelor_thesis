@@ -1,0 +1,7 @@
+glib2-devel
+gobject-introspection
+gtk3
+intltool
+pygobject2
+python3-gobject
+rhythmbox-devel

@@ -1,0 +1,13 @@
+doxygen
+globus-common-devel >= 15
+globus-gsi-callback-devel >= 4
+globus-gsi-cert-utils-devel >= 8
+globus-gsi-credential-devel >= 5
+globus-gsi-openssl-error-devel >= 2
+globus-gsi-proxy-core-devel >= 8
+globus-gsi-sysconfig-devel >= 8
+globus-openssl-module-devel >= 3
+libtool-ltdl-devel
+openssl
+openssl-devel
+perl(Test::More)

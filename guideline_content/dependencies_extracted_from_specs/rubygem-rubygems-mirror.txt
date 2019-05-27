@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(builder)
+rubygem(minitest)
+rubygem(net-http-persistent)
+rubygems-devel

@@ -1,0 +1,5 @@
+/usr/bin/phpunit6
+php(language) >= 5.3
+php-composer(fedora/autoloader)
+php-composer(symfony/expression-language) < 5
+php-pcre

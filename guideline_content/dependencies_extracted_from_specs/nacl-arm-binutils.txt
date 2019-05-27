@@ -1,0 +1,6 @@
+bison
+flex
+gettext
+ncurses-devel
+texinfo >= 4.0
+zlib-devel

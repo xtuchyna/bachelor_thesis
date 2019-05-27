@@ -1,0 +1,15 @@
+GConf2-devel
+bluez-libs-devel
+desktop-file-utils
+evolution-data-server-devel
+gettext
+gnokii-devel
+gnome-bluetooth-libs-devel
+gnome-icon-theme-devel
+gstreamer-devel >= 0.10
+gtk3-devel
+gtkspell-devel
+intltool
+libcanberra-devel
+perl(XML::Parser)
+telepathy-glib-devel

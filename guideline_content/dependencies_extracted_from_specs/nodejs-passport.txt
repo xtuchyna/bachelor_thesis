@@ -1,0 +1,8 @@
+nodejs-packaging
+npm(chai)
+npm(chai-connect-middleware)
+npm(chai-passport-strategy) >= 0.2.0
+npm(mocha)
+npm(passport-strategy)
+npm(pause)
+npm(proxyquire)

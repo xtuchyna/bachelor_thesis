@@ -1,0 +1,6 @@
+R-BiocGenerics >= 0.3.2
+R-devel >= 3.4.0
+R-methods
+R-tkWidgets
+R-utils
+tex(latex)

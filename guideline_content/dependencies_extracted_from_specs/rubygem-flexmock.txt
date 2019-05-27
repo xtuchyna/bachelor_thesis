@@ -1,0 +1,4 @@
+ruby(release)
+rubygem(minitest) >= 5
+rubygem(rspec) >= 3
+rubygems-devel

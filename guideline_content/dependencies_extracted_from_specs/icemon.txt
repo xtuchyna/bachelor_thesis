@@ -1,0 +1,9 @@
+cmake
+desktop-file-utils
+docbook-dtds
+docbook2X
+gcc-c++
+icecream-devel
+libcap-ng-devel
+lzo-devel
+qt5-devel

@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(grunt)
+npm(grunt-cli)
+npm(grunt-contrib-nodeunit)
+npm(grunt-contrib-watch)

@@ -1,0 +1,7 @@
+caja-devel
+dbus-glib-devel
+gajim
+gtk3-devel
+gupnp-devel
+mate-common
+mate-desktop-devel

@@ -1,0 +1,14 @@
+/usr/bin/appstream-util
+desktop-file-utils
+gettext
+itstool
+meson
+pkgconfig(gio-2.0)
+pkgconfig(gobject-introspection-1.0) >= 1.35.9
+pkgconfig(grilo-0.3) >= 0.3.4
+pkgconfig(gtk+-3.0) >= 3.19.3
+pkgconfig(libmediaart-2.0)
+pkgconfig(py3cairo)
+pkgconfig(pygobject-3.0) >= 3.21.1
+pkgconfig(tracker-sparql-2.0) >= 1.99.1
+python3-devel

@@ -1,0 +1,6 @@
+/usr/bin/iconv
+/usr/bin/perl
+Coin3-devel
+doxygen
+libXi-devel
+qt4-devel

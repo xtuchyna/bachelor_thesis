@@ -1,0 +1,7 @@
+php(language) >= 5.4.0
+php-composer(phpunit/phpunit) >= 4
+php-composer(theseer/autoload)
+php-date
+php-intl
+php-json
+php-spl

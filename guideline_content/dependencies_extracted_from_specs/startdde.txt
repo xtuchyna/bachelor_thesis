@@ -1,0 +1,14 @@
+deepin-gir-generator
+gcc-go
+golang(github.com/BurntSushi/xgb)
+golang(github.com/BurntSushi/xgbutil)
+golang(pkg.deepin.io/dde/api/dxinput)
+golang(pkg.deepin.io/lib)
+golang-deepin-dbus-factory-devel
+pkgconfig(gdk-3.0)
+pkgconfig(glib-2.0)
+pkgconfig(gobject-2.0)
+pkgconfig(libcanberra)
+pkgconfig(systemd)
+pkgconfig(x11)
+pkgconfig(xi)

@@ -1,0 +1,5 @@
+(php-composer(sebastian/recursion-context) >= 3.0 with php-composer(sebastian/recursion-context) < 4)
+php(language) >= 7.0
+php-fedora-autoloader-devel >= 1.0.0
+php-mbstring
+phpunit6

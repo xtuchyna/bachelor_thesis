@@ -1,0 +1,6 @@
+fontconfig
+python-lxml
+python-nose
+python-setuptools
+python2-devel
+python2-fonttools

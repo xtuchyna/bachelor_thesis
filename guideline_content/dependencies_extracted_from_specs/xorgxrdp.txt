@@ -1,0 +1,3 @@
+nasm
+xorg-x11-server-devel
+xrdp-devel

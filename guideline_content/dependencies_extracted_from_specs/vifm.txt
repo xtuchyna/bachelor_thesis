@@ -1,0 +1,6 @@
+autoconf
+automake
+desktop-file-utils
+file-devel
+ncurses-devel
+perl-generators

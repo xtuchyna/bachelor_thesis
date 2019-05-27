@@ -1,0 +1,7 @@
+pngcrush
+ruby
+ruby(release)
+ruby-RMagick
+rubygem(chunky_png)
+rubygem(minitest)
+rubygems-devel

@@ -1,0 +1,8 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-cereal-devel
+ghc-crypto-api-devel
+ghc-filepath-devel
+ghc-hspec-devel
+ghc-rpm-macros
+ghc-tagged-devel

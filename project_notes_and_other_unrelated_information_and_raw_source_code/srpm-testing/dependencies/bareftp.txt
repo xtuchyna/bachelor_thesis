@@ -1,0 +1,12 @@
+desktop-file-utils
+gcc
+gnome-desktop-sharp-devel
+gnome-keyring-sharp-devel
+gnome-sharp-devel
+gtk-sharp2-devel
+gtk-sharp2-gapi
+intltool
+mono-devel
+perl(XML::Parser)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

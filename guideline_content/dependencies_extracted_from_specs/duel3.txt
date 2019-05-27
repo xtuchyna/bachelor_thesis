@@ -1,0 +1,4 @@
+alleggl-devel
+desktop-file-utils
+dumb-devel
+libGLU-devel

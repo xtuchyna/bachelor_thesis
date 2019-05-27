@@ -1,0 +1,8 @@
+/usr/bin/python
+PyYAML
+cabextract
+dpkg
+lzma
+ncompress
+p7zip-plugins
+unshield

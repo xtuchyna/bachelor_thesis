@@ -1,0 +1,10 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Sub::Exporter) >= 0.953
+perl(Sub::Exporter::Util)
+perl(Sub::Install) >= 0.03
+perl(Test::More) >= 0.88
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

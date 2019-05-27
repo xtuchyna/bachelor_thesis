@@ -1,0 +1,34 @@
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Which)
+perl(IO::Select)
+perl(IO::Socket::IP)
+perl(IO::Socket::SSL)
+perl(List::MoreUtils)
+perl(List::Util)
+perl(Net::EmptyPort)
+perl(POSIX)
+perl(Perl::OSType)
+perl(Proc::Guard)
+perl(Scalar::Util)
+perl(Socket)
+perl(Storable)
+perl(String::CRC32)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::TCP)
+perl(Test::Timer)
+perl(Time::HiRes)
+perl(base)
+perl(constant)
+perl(fields)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(version) >= 0.77
+perl(warnings)
+perl-Gearman-Server
+perl-generators
+perl-interpreter

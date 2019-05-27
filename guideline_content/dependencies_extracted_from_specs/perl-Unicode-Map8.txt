@@ -1,0 +1,5 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Unicode::String)
+perl-devel
+perl-generators

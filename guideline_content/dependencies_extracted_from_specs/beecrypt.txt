@@ -1,0 +1,9 @@
+autoconf
+automake
+doxygen
+graphviz
+libtool
+m4
+python2-devel
+tetex-dvips
+tetex-latex

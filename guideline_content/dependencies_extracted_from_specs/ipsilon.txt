@@ -1,0 +1,7 @@
+m2crypto
+python2-devel
+python2-lasso
+python2-openid
+python2-openid-cla
+python2-openid-teams
+python2-setuptools

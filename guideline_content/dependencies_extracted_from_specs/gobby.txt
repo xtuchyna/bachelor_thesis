@@ -1,0 +1,13 @@
+avahi-devel
+avahi-glib-devel
+desktop-file-utils
+gettext-devel
+gnome-vfs2-devel
+gtkmm24-devel
+gtksourceview2-devel
+gtkspell-devel
+intltool
+libXau-devel
+libXdmcp-devel
+libxml++-devel
+obby-devel

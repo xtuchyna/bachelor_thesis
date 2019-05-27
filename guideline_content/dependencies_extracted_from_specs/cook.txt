@@ -1,0 +1,7 @@
+bison
+gettext
+ghostscript
+groff
+m4
+perl-generators
+sharutils

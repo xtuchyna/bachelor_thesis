@@ -1,0 +1,18 @@
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(File::Temp)
+perl(Scalar::Util)
+perl(Test::More) >= 0.88
+perl(constant)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

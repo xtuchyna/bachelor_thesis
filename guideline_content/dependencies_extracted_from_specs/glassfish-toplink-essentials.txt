@@ -1,0 +1,7 @@
+ant
+antlr-tool
+geronimo-jpa
+geronimo-jta
+java-devel
+javapackages-local
+jpackage-utils

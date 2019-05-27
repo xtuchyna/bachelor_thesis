@@ -1,0 +1,2 @@
+ncurses-devel >= 5.4
+readline-devel >= 4.3

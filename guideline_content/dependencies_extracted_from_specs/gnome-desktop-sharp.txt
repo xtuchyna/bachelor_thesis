@@ -1,0 +1,10 @@
+gnome-desktop-devel
+gnome-sharp-devel
+gtk-sharp2-devel >= 2.12.0
+gtk-sharp2-gapi >= 2.12.0
+gtk2-devel
+gtksourceview2-devel
+librsvg2-devel
+libwnck-devel
+mono-devel
+vte-devel

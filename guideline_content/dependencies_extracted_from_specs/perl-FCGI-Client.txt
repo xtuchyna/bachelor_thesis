@@ -1,0 +1,27 @@
+coreutils
+findutils
+make
+perl(Any::Moose) >= 0.1
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker) >= 6.42
+perl(Fcntl)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(HTTP::Request)
+perl(IO::Socket::UNIX)
+perl(List::Util)
+perl(POSIX)
+perl(Test::More)
+perl(Time::HiRes)
+perl(autodie)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,19 @@
+findutils
+gcc
+make
+perl(:VERSION) >= 5.8.8
+perl(Data::Dumper)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(XSLoader)
+perl(base)
+perl(bytes)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

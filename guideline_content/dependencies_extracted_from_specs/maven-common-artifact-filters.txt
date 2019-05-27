@@ -1,0 +1,12 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.maven.plugin-testing:maven-plugin-testing-harness)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)
+mvn(org.apache.maven.shared:maven-shared-utils)
+mvn(org.apache.maven:maven-artifact)
+mvn(org.apache.maven:maven-core)
+mvn(org.apache.maven:maven-model)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.easymock:easymock)
+mvn(org.eclipse.aether:aether-api)
+mvn(org.eclipse.aether:aether-util)

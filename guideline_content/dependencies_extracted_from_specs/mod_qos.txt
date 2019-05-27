@@ -1,0 +1,7 @@
+automake
+gcc
+httpd-devel >= 2.0.0
+libpng-devel
+make
+openssl-devel
+pcre-devel

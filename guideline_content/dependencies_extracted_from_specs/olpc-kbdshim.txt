@@ -1,0 +1,5 @@
+dbus-glib-devel
+glib2-devel
+kernel-headers
+pkgconfig
+systemd-devel

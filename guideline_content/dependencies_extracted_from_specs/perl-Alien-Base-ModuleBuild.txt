@@ -1,0 +1,47 @@
+bash
+perl(Acme::Alien::DontPanic) >= 0.010
+perl(Alien::Base::PkgConfig) >= 1.20
+perl(Archive::Extract)
+perl(Capture::Tiny) >= 0.17
+perl(Carp)
+perl(Config)
+perl(Digest::SHA)
+perl(Env)
+perl(Exporter)
+perl(ExtUtils::Installed)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Path)
+perl(File::ShareDir) >= 1.00
+perl(File::Spec)
+perl(File::Temp)
+perl(File::chdir) >= 0.1005
+perl(HTML::LinkExtor)
+perl(HTTP::Tiny) >= 0.044
+perl(Inline) >= 0.56
+perl(Inline::C)
+perl(Inline::CPP)
+perl(LWP::UserAgent)
+perl(List::Util) >= 1.45
+perl(Module::Build) >= 0.4004
+perl(Net::FTP)
+perl(Path::Tiny) >= 0.077
+perl(Scalar::Util)
+perl(Shell::Config::Generate)
+perl(Shell::Guess)
+perl(Sort::Versions)
+perl(Test2::Mock)
+perl(Test2::Require::Module) >= 0.000071
+perl(Test2::V0) >= 0.000071
+perl(Text::Balanced)
+perl(Text::ParseWords) >= 3.26
+perl(URI)
+perl(URI::file)
+perl(base)
+perl(lib)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

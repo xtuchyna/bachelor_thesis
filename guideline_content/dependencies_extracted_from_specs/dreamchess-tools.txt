@@ -1,0 +1,6 @@
+autoconf
+automake
+libtool
+pkgconfig(SDL_ttf)
+pkgconfig(libpng)
+tristripper-devel

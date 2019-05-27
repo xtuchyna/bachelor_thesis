@@ -1,0 +1,4 @@
+python-devel
+python-genshi >= 0.5.1
+python-setuptools
+python-sphinx >= 0.5.1

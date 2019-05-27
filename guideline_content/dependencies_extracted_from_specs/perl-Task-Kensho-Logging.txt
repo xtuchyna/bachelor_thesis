@@ -1,0 +1,13 @@
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Log::Contextual)
+perl(Log::Dispatch)
+perl(Log::Log4perl)
+perl(Module::Metadata)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

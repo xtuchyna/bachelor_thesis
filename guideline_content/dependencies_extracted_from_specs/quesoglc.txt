@@ -1,0 +1,9 @@
+doxygen
+fontconfig-devel
+freeglut-devel
+fribidi-devel
+glew-devel
+libSM-devel
+libXi-devel
+libXmu-devel
+pkgconfig

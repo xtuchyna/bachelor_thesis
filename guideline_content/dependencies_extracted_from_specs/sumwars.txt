@@ -1,0 +1,14 @@
+cegui-devel
+cmake
+desktop-file-utils
+enet-devel
+freealut-devel
+gettext
+libXrandr-devel
+libogg-devel
+libvorbis-devel
+lua-devel
+ogre-devel
+ois-devel
+physfs-devel
+tinyxml-devel

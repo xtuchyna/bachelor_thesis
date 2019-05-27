@@ -1,0 +1,10 @@
+asciidoc
+coreutils
+make
+python3-devel
+python3-lxml
+python3-nose
+python3-setuptools
+python3-six
+which
+xmlto

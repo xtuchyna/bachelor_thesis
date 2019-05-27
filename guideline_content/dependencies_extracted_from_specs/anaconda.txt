@@ -1,0 +1,24 @@
+audit-libs-devel
+desktop-file-utils
+gdk-pixbuf2-devel
+gettext-devel >= 0.19.8
+glade-devel
+glib2-doc
+gobject-introspection-devel
+gsettings-desktop-schemas
+gtk-doc
+gtk3-devel >= 3.22.17
+gtk3-devel-docs >= 3.22.17
+libarchive-devel >= 3.0.4
+libgnomekbd-devel
+libtimezonemap-devel >= 0.4.1-2
+libxklavier-devel >= 5.4
+libxml2
+metacity
+pango-devel
+python3-bugzilla
+python3-devel
+python3-kickstart >= 3.12-1
+python3-nose
+rpm-devel >= 4.10.0
+systemd

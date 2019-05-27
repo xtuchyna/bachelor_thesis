@@ -1,0 +1,11 @@
+gcc
+git
+krb5-devel >= 1.10
+krb5-libs >= 1.10
+python2-Cython >= 0.21
+python2-devel
+python2-setuptools
+python2-tox
+python3-Cython
+python3-devel
+python3-setuptools

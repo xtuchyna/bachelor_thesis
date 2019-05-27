@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Test)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(XML::Tidy)
+perl(XML::XPath)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

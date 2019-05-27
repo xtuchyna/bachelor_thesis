@@ -1,0 +1,3 @@
+libattr-devel
+libtool
+qt-devel

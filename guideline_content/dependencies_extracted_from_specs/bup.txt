@@ -1,0 +1,12 @@
+git-core
+pandoc
+par2cmdline
+perl(Getopt::Long)
+perl(Pod::Usage)
+perl(Time::HiRes)
+pylibacl
+python2-devel
+python2-tornado
+pyxattr
+rsync
+systemd

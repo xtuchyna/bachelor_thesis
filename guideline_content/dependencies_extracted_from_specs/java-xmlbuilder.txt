@@ -1,0 +1,5 @@
+base64
+junit
+maven-enforcer-plugin
+maven-local
+sonatype-oss-parent

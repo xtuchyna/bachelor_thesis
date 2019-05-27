@@ -1,0 +1,5 @@
+fontpackages-devel
+fonttools
+mkfontdir
+ttmkfdir >= 3.0.6
+xorg-x11-fonts-misc >= 7.5-11

@@ -1,0 +1,10 @@
+bison >= 1.875
+bzip2
+bzip2-devel
+flex >= 2.5.4a
+gcc >= 4.4
+gettext
+libstdc++-devel
+systemd >= 215
+xz-devel
+zlib-devel >= 1.2.2.3

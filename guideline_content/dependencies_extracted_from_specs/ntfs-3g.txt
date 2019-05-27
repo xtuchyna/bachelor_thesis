@@ -1,0 +1,6 @@
+gnutls-devel
+libattr-devel
+libconfig-devel
+libgcrypt-devel
+libtool
+libuuid-devel

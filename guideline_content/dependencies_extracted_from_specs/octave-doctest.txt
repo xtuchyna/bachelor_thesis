@@ -1,0 +1,2 @@
+octave-devel
+texinfo >= 6.0

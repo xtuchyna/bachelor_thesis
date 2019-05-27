@@ -1,0 +1,5 @@
+python2-backports_abc
+python2-devel
+python2-singledispatch
+python3-devel
+python3-setuptools

@@ -1,0 +1,27 @@
+python2-apipkg
+python2-coverage
+python2-devel
+python2-execnet
+python2-futures
+python2-marrow-util < 2.0
+python2-pytest
+python2-pytest-cache
+python2-pytest-cov
+python2-pytest-flakes
+python2-pytest-runner
+python2-pytest-spec
+python2-setuptools
+python2-transaction
+python3-apipkg
+python3-coverage
+python3-devel
+python3-execnet
+python3-marrow-util < 2.0
+python3-pytest
+python3-pytest-cache
+python3-pytest-cov
+python3-pytest-flakes
+python3-pytest-runner
+python3-pytest-spec
+python3-setuptools
+python3-transaction

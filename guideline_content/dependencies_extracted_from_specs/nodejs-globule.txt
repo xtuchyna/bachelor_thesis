@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(glob)
+npm(lodash)
+npm(nodeunit)

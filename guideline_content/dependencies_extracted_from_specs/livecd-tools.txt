@@ -1,0 +1,3 @@
+/usr/bin/pod2man
+python2-devel
+python3-devel

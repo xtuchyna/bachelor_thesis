@@ -1,0 +1,4 @@
+SDL-devel >= 1.2.10
+libjpeg-devel
+libpng-devel
+libtiff-devel

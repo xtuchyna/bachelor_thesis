@@ -1,0 +1,3 @@
+ant
+desktop-file-utils
+java-devel

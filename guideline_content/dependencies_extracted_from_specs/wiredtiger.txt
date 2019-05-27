@@ -1,0 +1,12 @@
+chrpath
+doxygen
+gcc-c++
+gperftools-devel
+java-devel
+libtool
+libzstd-devel
+lz4-devel
+python2-devel
+snappy-devel
+swig
+zlib-devel

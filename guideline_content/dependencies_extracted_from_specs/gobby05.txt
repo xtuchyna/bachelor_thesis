@@ -1,0 +1,8 @@
+desktop-file-utils
+gnome-doc-utils
+gtkmm30-devel
+gtksourceview3-devel
+intltool
+libinfinity-gtk-devel
+libxml++-devel
+rarian-compat

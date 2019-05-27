@@ -1,0 +1,13 @@
+maven-local
+mvn(junit:junit)
+mvn(net.java.dev.javacc:javacc)
+mvn(org.apache.maven.doxia:doxia-sink-api)
+mvn(org.apache.maven.doxia:doxia-site-renderer)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven.reporting:maven-reporting-api)
+mvn(org.apache.maven.reporting:maven-reporting-impl)
+mvn(org.apache.maven:maven-model)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.apache.maven:maven-project)
+mvn(org.codehaus.mojo:mojo-parent:pom:)
+mvn(org.codehaus.plexus:plexus-utils)

@@ -1,0 +1,7 @@
+fuse-devel
+gettext
+glibc-static
+libpfm-devel
+ncurses-devel
+net-snmp-devel
+systemd

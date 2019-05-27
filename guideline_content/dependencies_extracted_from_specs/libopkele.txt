@@ -1,0 +1,8 @@
+boost-devel
+expat-devel
+libcurl-devel
+libuuid-devel
+libxslt
+openssl-devel
+sqlite-devel
+tidy-devel

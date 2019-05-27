@@ -1,0 +1,7 @@
+gcc-gfortran
+metis-devel >= 5.1.0-12
+openblas-devel
+perl-devel
+perl-generators
+scotch-devel
+suitesparse-devel

@@ -1,0 +1,11 @@
+maven-local
+mvn(com.jcraft:jzlib)
+mvn(commons-httpclient:commons-httpclient)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-assembly-plugin)
+mvn(org.apache.mina:mina-core)
+mvn(org.apache.tomcat:tomcat-jni)
+mvn(org.apache:apache:pom:)
+mvn(org.bouncycastle:bcpg-jdk15on)
+mvn(org.bouncycastle:bcpkix-jdk15on)
+mvn(org.slf4j:slf4j-api)

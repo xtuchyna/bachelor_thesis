@@ -1,0 +1,5 @@
+perl(ExtUtils::MakeMaker)
+perl(IO::String)
+perl(Pod::PseudoPod) >= 0.15
+perl(Test::More) >= 0.60
+perl-generators

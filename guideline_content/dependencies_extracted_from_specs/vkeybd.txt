@@ -1,0 +1,4 @@
+desktop-file-utils
+lash-devel
+tk-devel < 1:8.7
+tk-devel >= 1:8.6

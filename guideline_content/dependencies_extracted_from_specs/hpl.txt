@@ -1,0 +1,3 @@
+mpich-devel
+openblas-devel
+openmpi-devel

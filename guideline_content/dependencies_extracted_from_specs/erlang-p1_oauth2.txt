@@ -1,0 +1,3 @@
+erlang-meck >= 0.8.3
+erlang-proper
+erlang-rebar

@@ -1,0 +1,4 @@
+gap-devel
+gap-pkg-alnuth
+gap-pkg-autodoc
+gap-pkg-autpgrp

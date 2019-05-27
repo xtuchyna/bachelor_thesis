@@ -1,0 +1,9 @@
+gcc
+httpd-devel
+make
+perl-generators
+pkgconfig(libcurl)
+pkgconfig(libpcre)
+pkgconfig(libxml-2.0)
+pkgconfig(lua)
+pkgconfig(yajl)

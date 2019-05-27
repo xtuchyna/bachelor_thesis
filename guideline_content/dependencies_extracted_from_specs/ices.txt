@@ -1,0 +1,10 @@
+alsa-lib-devel
+libogg-devel
+libshout-devel >= 2.0
+libtheora-devel
+libvorbis-devel
+libxml2-devel
+pkgconfig
+speex-devel
+systemd-units
+zlib-devel

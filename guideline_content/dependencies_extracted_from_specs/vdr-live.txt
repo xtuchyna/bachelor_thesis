@@ -1,0 +1,4 @@
+cxxtools-devel
+pcre-devel
+tntnet-devel
+vdr-devel >= 2.2.0

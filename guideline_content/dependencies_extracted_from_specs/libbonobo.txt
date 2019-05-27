@@ -1,0 +1,13 @@
+ORBit2-devel >= 2.7.5
+autoconf
+automake
+bison
+dbus-glib-devel
+flex
+gettext
+gtk-doc
+intltool >= 0.14-1
+libtool
+libxml2-devel >= 2.4.21
+popt-devel
+zlib-devel

@@ -1,0 +1,21 @@
+make
+perl(Carp)
+perl(Cwd)
+perl(DBD::SQLite)
+perl(DBIx::Class)
+perl(DBIx::Class::Schema)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find)
+perl(File::Spec)
+perl(File::Temp)
+perl(List::Util)
+perl(Pod::Coverage::TrustPod)
+perl(Test::More)
+perl(Test::Pod) >= 1.41
+perl(Test::Pod::Coverage) >= 1.08
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

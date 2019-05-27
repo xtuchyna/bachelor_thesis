@@ -1,0 +1,14 @@
+pytest
+python-mock
+python-requests
+python-requests-kerberos
+python-setuptools
+python2-beanbag
+python2-devel
+python3-beanbag
+python3-devel
+python3-mock
+python3-pytest
+python3-requests
+python3-requests-kerberos
+python3-setuptools

@@ -1,0 +1,13 @@
+boost-devel
+boost-python3-devel
+gcc-c++
+libosmium-devel >= 2.13.0
+libosmium-static >= 2.13.0
+python2-devel
+python2-mock
+python2-nose
+python3-devel
+python3-mock
+python3-nose
+python3-sphinx
+python3-sphinxcontrib-autoprogram

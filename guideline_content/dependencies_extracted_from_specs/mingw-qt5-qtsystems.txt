@@ -1,0 +1,10 @@
+mingw32-GConf2
+mingw32-filesystem >= 96
+mingw32-gcc-c++
+mingw32-qt5-qtbase >= 5.6.0
+mingw32-qt5-qtdeclarative >= 5.6.0
+mingw64-GConf2
+mingw64-filesystem >= 96
+mingw64-gcc-c++
+mingw64-qt5-qtbase >= 5.6.0
+mingw64-qt5-qtdeclarative >= 5.6.0

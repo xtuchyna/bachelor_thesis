@@ -1,0 +1,25 @@
+coreutils
+findutils
+gcc
+make
+perl(Carp)
+perl(Config)
+perl(Config::Tiny)
+perl(DynaLoader)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IO::Handle)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(Tie::Scalar)
+perl(UNIVERSAL::isa)
+perl(base)
+perl(charnames)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

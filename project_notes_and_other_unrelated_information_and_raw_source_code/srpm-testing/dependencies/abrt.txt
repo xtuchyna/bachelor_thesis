@@ -1,0 +1,37 @@
+asciidoc
+augeas
+dbus-devel
+desktop-file-utils
+doxygen
+gdb-headless
+gettext
+glib2-devel >= 2.43.4
+gsettings-desktop-schemas-devel >= 3.15
+gtk3-devel
+hostname
+intltool
+json-c-devel
+libcap-devel
+libnotify-devel
+libreport-devel >= 2.10.0
+libreport-gtk-devel >= 2.10.0
+libreport-web-devel >= 2.10.0
+libselinux-devel
+libsoup-devel
+libtool
+libxml2-devel
+polkit-devel
+python3-argcomplete
+python3-argh
+python3-devel
+python3-humanize
+python3-libreport
+python3-nose
+python3-sphinx
+python3-systemd
+rpm-devel >= 4.6
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+satyr-devel >= 0.24
+systemd-devel
+xmlto

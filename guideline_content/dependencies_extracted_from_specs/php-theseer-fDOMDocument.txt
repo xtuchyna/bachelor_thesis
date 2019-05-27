@@ -1,0 +1,5 @@
+/usr/bin/phpunit6
+php(language) >= 5.3.3
+php-dom
+php-fedora-autoloader-devel
+php-libxml

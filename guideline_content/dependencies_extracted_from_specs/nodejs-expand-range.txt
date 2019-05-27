@@ -1,0 +1,5 @@
+mocha
+nodejs-packaging
+npm(extend-shallow)
+npm(fill-range)
+npm(should)

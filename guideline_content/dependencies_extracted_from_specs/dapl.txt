@@ -1,0 +1,4 @@
+gcc
+ibacm-devel
+libibverbs-devel >= 1.2.1
+librdmacm-devel >= 1.1.0

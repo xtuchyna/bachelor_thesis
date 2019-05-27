@@ -1,0 +1,7 @@
+boost-devel
+cmake
+doxygen
+flexiport-devel
+graphviz
+python-devel
+python-sphinx

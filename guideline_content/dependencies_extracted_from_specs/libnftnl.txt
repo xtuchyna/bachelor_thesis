@@ -1,0 +1,3 @@
+jansson-devel
+libmnl-devel
+mxml-devel

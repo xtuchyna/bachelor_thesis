@@ -1,0 +1,6 @@
+/usr/bin/appstream-util
+/usr/bin/xmllint
+desktop-file-utils
+gettext
+gtk3-devel
+itstool

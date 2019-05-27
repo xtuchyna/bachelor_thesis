@@ -1,0 +1,20 @@
+cmake(KF5Config)
+cmake(KF5ConfigWidgets)
+cmake(KF5I18n)
+cmake(KF5IconThemes)
+cmake(KF5KIO)
+cmake(KF5Notifications)
+cmake(KF5Wayland)
+cmake(KF5WidgetsAddons)
+cmake(KF5WindowSystem)
+cmake(Qt5DBus)
+cmake(Qt5Widgets)
+extra-cmake-modules
+kf5-rpm-macros
+pkgconfig(Qt5QuickControls2)
+pkgconfig(Qt5X11Extras)
+pkgconfig(x11)
+pkgconfig(xcursor)
+plasma-breeze-devel >= 5.12
+qt5-qtbase-private-devel
+qt5-qtbase-static

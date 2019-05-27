@@ -1,0 +1,3 @@
+(crate(futures) >= 0.1.0 with crate(futures) < 0.2.0 with crate(futures/use_std))
+(crate(num_cpus) >= 1.0.0 with crate(num_cpus) < 2.0.0)
+rust-packaging

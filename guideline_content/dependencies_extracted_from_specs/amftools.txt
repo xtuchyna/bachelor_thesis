@@ -1,0 +1,5 @@
+libzip-devel
+mesa-libGL-devel
+muParser-devel
+rapidxml-devel
+stbi-devel

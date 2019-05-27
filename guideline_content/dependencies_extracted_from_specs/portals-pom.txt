@@ -1,0 +1,3 @@
+maven-install-plugin
+maven-local
+maven-plugins-pom

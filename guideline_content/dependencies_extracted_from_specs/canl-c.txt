@@ -1,0 +1,18 @@
+bison
+c-ares-devel
+flex
+krb5-devel
+libtool
+openssl-devel >= 1.1
+perl(Getopt::Long)
+perl(POSIX)
+perl-interpreter
+pkgconfig
+tex(lastpage.sty)
+tex(latex)
+tex(multirow.sty)
+tex(phvr8t.tfm)
+tex(psyr.tfm)
+tex(ptmr7t.tfm)
+tex(pzcmi8r.tfm)
+tex(ucrr8a.pfb)

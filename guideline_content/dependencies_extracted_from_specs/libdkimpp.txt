@@ -1,0 +1,7 @@
+cmake
+coreutils
+gcc-c++
+make
+openssl-devel
+pkgconfig
+pkgconfig(cppunit)

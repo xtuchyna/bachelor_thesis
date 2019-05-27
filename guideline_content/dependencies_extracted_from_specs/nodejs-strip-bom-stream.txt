@@ -1,0 +1,3 @@
+nodejs-packaging
+npm(first-chunk-stream)
+npm(strip-bom)

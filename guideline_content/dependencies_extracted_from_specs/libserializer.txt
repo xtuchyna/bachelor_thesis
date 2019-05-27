@@ -1,0 +1,5 @@
+ant
+ant-contrib
+java-devel
+jpackage-utils
+libbase >= 1.1.2

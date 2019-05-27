@@ -1,0 +1,25 @@
+/usr/bin/pdflatex
+chrpath
+hevea
+latexmk
+ocaml >= 3.10.0
+ocaml-camlp4-devel
+ocaml-extlib-devel
+ocaml-findlib-devel
+ocaml-menhir-devel
+ocaml-num-devel
+ocaml-ocamldoc
+ocaml-pcre-devel
+ocaml-sexplib-devel
+python3-devel
+texlive-boxedminipage
+texlive-comment
+texlive-endnotes
+texlive-ifsym
+texlive-listings
+texlive-moreverb
+texlive-multirow
+texlive-preprint
+texlive-subfigure
+texlive-wrapfig
+texlive-xypic

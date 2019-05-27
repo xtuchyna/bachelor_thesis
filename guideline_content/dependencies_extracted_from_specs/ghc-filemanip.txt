@@ -1,0 +1,7 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-mtl-devel
+ghc-rpm-macros
+ghc-unix-compat-devel

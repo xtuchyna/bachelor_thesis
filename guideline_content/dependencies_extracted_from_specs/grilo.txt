@@ -1,0 +1,12 @@
+chrpath
+glib2-devel
+gnome-common
+gobject-introspection-devel >= 0.9.0
+gtk-doc
+gtk3-devel
+intltool
+liboauth-devel
+libsoup-devel
+libxml2-devel
+totem-pl-parser-devel
+vala >= 0.27.1

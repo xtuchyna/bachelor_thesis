@@ -1,0 +1,9 @@
+autoconf
+automake
+doxygen
+glib2-devel
+libtool
+libusb1-devel
+nss-devel
+pixman-devel
+systemd

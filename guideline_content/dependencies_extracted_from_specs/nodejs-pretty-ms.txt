@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(is-finite)
+npm(parse-ms)
+npm(plur)

@@ -1,0 +1,10 @@
+make
+perl(:VERSION) >= 5.8.1
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(HTTP::Headers) >= 6
+perl(HTTP::Request)
+perl(Test)
+perl(strict)
+perl-generators
+perl-interpreter

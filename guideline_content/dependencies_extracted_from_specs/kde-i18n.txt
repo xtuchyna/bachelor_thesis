@@ -1,0 +1,3 @@
+findutils
+gettext
+kdelibs3-devel

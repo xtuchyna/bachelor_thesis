@@ -1,0 +1,6 @@
+desktop-file-utils
+libXmu-devel
+libXpm-devel
+pkgconfig(Qt5)
+pkgconfig(Qt5X11Extras)
+qtsingleapplication-qt5-devel

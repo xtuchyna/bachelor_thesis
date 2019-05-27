@@ -1,0 +1,6 @@
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(Test::More)
+perl(XSLoader)
+perl(if)
+perl-devel
+perl-generators

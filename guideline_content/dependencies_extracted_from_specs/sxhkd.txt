@@ -1,0 +1,4 @@
+gcc
+systemd
+xcb-util-devel
+xcb-util-keysyms-devel

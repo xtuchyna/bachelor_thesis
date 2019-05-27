@@ -1,0 +1,14 @@
+python2-astropy
+python2-decorator
+python2-devel
+python2-matplotlib
+python2-numpy
+python2-pillow
+python2-pytest
+python3-astropy
+python3-decorator
+python3-devel
+python3-matplotlib
+python3-numpy
+python3-pillow
+python3-pytest

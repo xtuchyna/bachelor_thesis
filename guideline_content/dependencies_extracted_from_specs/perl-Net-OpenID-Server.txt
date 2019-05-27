@@ -1,0 +1,14 @@
+perl(Carp)
+perl(Digest::SHA)
+perl(ExtUtils::MakeMaker) >= 6.31
+perl(MIME::Base64)
+perl(Net::OpenID::Common) >= 1.11
+perl(Net::OpenID::IndirectMessage)
+perl(Test::More)
+perl(Time::Local)
+perl(URI)
+perl(fields)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

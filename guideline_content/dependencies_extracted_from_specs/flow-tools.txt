@@ -1,0 +1,8 @@
+bison
+doxygen
+flex
+gcc
+mariadb-connector-c-devel
+postgresql-devel
+systemd
+zlib-devel

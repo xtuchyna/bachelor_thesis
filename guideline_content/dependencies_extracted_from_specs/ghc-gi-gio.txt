@@ -1,0 +1,12 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-gi-glib-devel
+ghc-gi-gobject-devel
+ghc-haskell-gi-base-devel
+ghc-haskell-gi-devel
+ghc-haskell-gi-overloading-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-transformers-devel
+pkgconfig(gio-2.0)

@@ -1,0 +1,13 @@
+desktop-file-utils
+gettext
+glib2-devel
+gspell-devel
+gstreamer1-plugins-base-devel
+gstreamer1-plugins-good-gtk
+gtk3-devel
+json-glib-devel
+libnotify-devel
+librsvg2-tools
+libsoup-devel
+sqlite-devel
+vala-devel

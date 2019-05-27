@@ -1,0 +1,13 @@
+mingw32-binutils
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-libgcrypt
+mingw32-libxml2 >= 2.7.2-3
+mingw32-win-iconv
+mingw64-binutils
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-libgcrypt
+mingw64-libxml2 >= 2.7.2-3
+mingw64-win-iconv
+pkgconfig

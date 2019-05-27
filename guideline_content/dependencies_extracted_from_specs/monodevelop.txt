@@ -1,0 +1,12 @@
+cmake
+desktop-file-utils
+git
+gnome-desktop-sharp-devel
+intltool
+libssh2-devel
+mono-addins-devel >= 0.6
+mono-devel >= 3.0.4
+monodoc-devel
+newtonsoft-json
+nuget-devel
+nunit2-devel >= 2.6.3

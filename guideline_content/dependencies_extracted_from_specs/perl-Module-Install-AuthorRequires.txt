@@ -1,0 +1,6 @@
+perl(Module::Install)
+perl(Module::Install::Base)
+perl(Test::More)
+perl(base)
+perl(inc::Module::Install)
+perl-generators

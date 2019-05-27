@@ -1,0 +1,9 @@
+automake
+gettext
+groff
+libcap-ng-devel
+libselinux-devel
+ncurses-devel
+readline-devel
+systemd-units
+util-linux

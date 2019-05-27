@@ -1,0 +1,17 @@
+apache-commons-io
+bsf
+dom4j
+eclipse-platform
+jaxen
+jdom
+maven-enforcer-plugin
+maven-local
+maven-osgi
+maven-plugin-testing-tools
+maven-plugins-pom
+maven-test-tools
+plexus-interactivity-jline
+plexus-resources
+saxpath
+xmlunit
+xom

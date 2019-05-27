@@ -1,0 +1,21 @@
+coreutils
+findutils
+make
+perl(Capture::Tiny) >= 0.13
+perl(Carp)
+perl(Class::MethodMaker) >= 1.02
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fatal)
+perl(Fcntl)
+perl(IO::File)
+perl(POSIX)
+perl(Term::ReadKey) >= 2.14
+perl(Test::Exception) >= 0.31
+perl(Test::More) >= 0.80
+perl(constant)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

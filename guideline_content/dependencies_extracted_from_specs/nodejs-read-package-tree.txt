@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(debuglog)
+npm(dezalgo)
+npm(once) >= 1.3.0
+npm(read-package-json) >= 2.0.0
+npm(readdir-scoped-modules)

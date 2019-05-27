@@ -1,0 +1,5 @@
+compiler(go-compiler)
+golang(github.com/PuerkitoBio/urlesc)
+golang(golang.org/x/net/idna)
+golang(golang.org/x/text/unicode/norm)
+golang(golang.org/x/text/width)

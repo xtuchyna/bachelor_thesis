@@ -1,0 +1,8 @@
+SDL_mixer-devel
+desktop-file-utils
+expat-devel
+freeglut-devel
+libjpeg-devel
+libtiff-devel
+libvorbis-devel
+pcre-devel

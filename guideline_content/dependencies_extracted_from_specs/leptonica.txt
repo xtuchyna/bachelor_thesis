@@ -1,0 +1,11 @@
+autoconf
+automake
+gcc
+giflib-devel
+gnuplot
+libjpeg-devel
+libpng-devel
+libtiff-devel
+libtool
+libwebp-devel
+zlib-devel

@@ -1,0 +1,12 @@
+coreutils
+findutils
+gcc
+make
+perl(Devel::Caller) >= 0.03
+perl(DynaLoader)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(strict)
+perl-devel
+perl-generators
+perl-interpreter

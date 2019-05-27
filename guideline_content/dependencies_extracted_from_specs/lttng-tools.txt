@@ -1,0 +1,9 @@
+autoconf
+automake
+libtool
+libuuid-devel
+libxml2-devel >= 2.7.6
+lttng-ust-devel >= 2.10.0
+popt-devel
+systemd-units
+userspace-rcu-devel >= 0.8.0

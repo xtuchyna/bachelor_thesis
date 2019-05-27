@@ -1,0 +1,7 @@
+gcc-c++
+libtool
+pkgconfig(egl)
+pkgconfig(libcmrt) >= 0.10.0
+pkgconfig(libdrm) >= 2.4.45
+pkgconfig(libva) >= 1.0.0
+pkgconfig(wayland-server)

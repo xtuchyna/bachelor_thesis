@@ -1,0 +1,9 @@
+autoconf
+automake
+gettext
+libcurl-devel
+libgcrypt-devel
+libsysfs-devel
+libxml2-devel
+openssl-devel
+systemd-units

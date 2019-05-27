@@ -1,0 +1,6 @@
+ant
+ant-junit
+java-devel >= 1:1.5.0
+jna
+jpackage-utils
+junit

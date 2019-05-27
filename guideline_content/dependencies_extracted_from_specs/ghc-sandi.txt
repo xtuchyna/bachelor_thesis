@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-conduit-devel
+ghc-exceptions-devel
+ghc-rpm-macros
+ghc-stringsearch-devel

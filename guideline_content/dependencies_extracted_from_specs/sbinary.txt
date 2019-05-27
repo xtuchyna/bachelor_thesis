@@ -1,0 +1,8 @@
+java-devel
+javapackages-tools
+maven-local
+mvn(net.sourceforge.fmpp:fmpp)
+mvn(org.beanshell:bsh)
+mvn(org.freemarker:freemarker)
+mvn(org.scala-lang:scala-compiler)
+mvn(xml-resolver:xml-resolver)

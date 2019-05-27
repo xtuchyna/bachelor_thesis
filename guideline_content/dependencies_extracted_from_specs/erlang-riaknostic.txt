@@ -1,0 +1,3 @@
+erlang-lager
+erlang-meck
+erlang-rebar

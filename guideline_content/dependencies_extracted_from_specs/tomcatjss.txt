@@ -1,0 +1,6 @@
+ant
+apache-commons-lang
+java-devel
+jpackage-utils >= 1.7.5-15
+jss >= 4.4.2-2
+tomcat >= 8.5.23

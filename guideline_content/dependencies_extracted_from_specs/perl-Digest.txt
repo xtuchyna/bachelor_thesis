@@ -1,0 +1,11 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(MIME::Base64)
+perl(Test::More) >= 0.47
+perl(lib)
+perl-generators
+perl-interpreter

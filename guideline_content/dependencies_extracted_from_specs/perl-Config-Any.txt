@@ -1,0 +1,15 @@
+perl(Config::General)
+perl(Config::Tiny)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(JSON::XS)
+perl(Module::Build)
+perl(Module::Pluggable) >= 3.01
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(XML::LibXML)
+perl(XML::Simple)
+perl(YAML::XS)
+perl(version)
+perl-generators

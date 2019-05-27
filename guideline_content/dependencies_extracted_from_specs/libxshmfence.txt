@@ -1,0 +1,5 @@
+autoconf
+automake
+libtool
+pkgconfig(xproto)
+xorg-x11-util-macros

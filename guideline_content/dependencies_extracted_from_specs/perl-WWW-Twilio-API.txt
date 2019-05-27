@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Request)
+perl(LWP::UserAgent) >= 2.03
+perl(Test::More)
+perl(URI::Escape) >= 3.28
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

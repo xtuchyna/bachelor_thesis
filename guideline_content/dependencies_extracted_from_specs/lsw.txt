@@ -1,0 +1,7 @@
+binutils
+coreutils
+gcc
+libX11-devel
+make
+redhat-rpm-config
+sed

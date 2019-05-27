@@ -1,0 +1,5 @@
+autoconf
+automake
+java-devel
+libtool
+tre-devel

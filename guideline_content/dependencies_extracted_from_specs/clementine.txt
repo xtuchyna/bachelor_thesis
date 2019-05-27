@@ -1,0 +1,37 @@
+boost-devel
+cmake
+cryptopp-devel
+dbus-x11
+desktop-file-utils
+fftw-devel
+gettext
+gstreamer1-devel
+gstreamer1-plugins-base-devel
+gtest-devel
+libcdio-devel
+libchromaprint-devel
+libechonest-devel
+libgpod-devel
+libimobiledevice-devel
+liblastfm-devel
+libmtp-devel
+libmygpo-qt-devel
+libnotify-devel
+libplist-devel
+libprojectM-devel >= 2.0.1-7
+libqxt-devel
+libxml2-devel
+pkgconfig(qca2)
+protobuf-devel
+qjson-devel
+qt4-devel
+qtiocompressor-devel
+qtsingleapplication-devel >= 2.6.1-2
+qtsinglecoreapplication-devel
+sha2-devel
+sparsehash-devel
+sqlite-devel
+taglib-devel >= 1.8
+udisks-devel
+xorg-x11-server-Xvfb
+xorg-x11-xauth

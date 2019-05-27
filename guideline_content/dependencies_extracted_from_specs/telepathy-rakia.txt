@@ -1,0 +1,10 @@
+dbus-devel
+dbus-glib-devel
+dbus-python
+gtk-doc
+libxslt
+pygobject2
+python
+python-twisted
+sofia-sip-glib-devel >= 1.12.11
+telepathy-glib-devel >= 0.17.7

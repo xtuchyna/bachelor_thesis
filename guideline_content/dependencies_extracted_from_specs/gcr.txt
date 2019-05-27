@@ -1,0 +1,14 @@
+/usr/bin/gpg2
+/usr/bin/valac
+/usr/bin/xsltproc
+chrpath
+desktop-file-utils
+docbook-style-xsl
+intltool
+libgcrypt-devel
+pkgconfig(gio-unix-2.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(p11-kit-1)
+vala
+valgrind-devel

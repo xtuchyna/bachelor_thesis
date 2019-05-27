@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(mocha)
+npm(rc)
+npm(require-uncached)

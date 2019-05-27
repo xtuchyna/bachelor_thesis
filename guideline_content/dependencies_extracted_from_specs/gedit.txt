@@ -1,0 +1,21 @@
+/usr/bin/appstream-util
+desktop-file-utils
+gettext
+gnome-common
+intltool
+itstool
+pkgconfig(glib-2.0) >= 2.44
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gsettings-desktop-schemas)
+pkgconfig(gspell-1) >= 0.2.5
+pkgconfig(gtk+-3.0) >= 3.22.0
+pkgconfig(gtksourceview-3.0) >= 3.22.0
+pkgconfig(iso-codes)
+pkgconfig(libpeas-gtk-1.0) >= 1.14.1
+pkgconfig(libxml-2.0)
+pkgconfig(pygobject-3.0)
+python3-devel
+python3-gobject >= 3.0.0
+vala
+which
+yelp-tools

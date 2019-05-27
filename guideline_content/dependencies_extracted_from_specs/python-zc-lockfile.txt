@@ -1,0 +1,8 @@
+python-devel
+python-mock
+python-setuptools
+python-zope-testing
+python3-devel
+python3-mock
+python3-setuptools
+python3-zope-testing

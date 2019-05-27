@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-exceptions-devel
+ghc-extensible-exceptions-devel
+ghc-ghc-devel
+ghc-mtl-devel
+ghc-rpm-macros

@@ -1,0 +1,15 @@
+desktop-file-utils
+libX11-devel
+libXaw-devel
+libXcursor-devel
+libXext-devel
+libXfixes-devel
+libXft-devel
+libXmu-devel
+libXpm-devel
+libXrender-devel
+libXt-devel
+libfontenc-devel
+libpng-devel
+libxkbfile-devel
+xorg-x11-util-macros

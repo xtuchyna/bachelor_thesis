@@ -1,0 +1,14 @@
+/usr/bin/sphinx-build
+autoconf
+automake
+gcc
+libtool
+mongodb-server
+openssl
+openssl-devel
+perl-interpreter
+pkgconfig(libbson-1.0) > 1.9
+pkgconfig(libsasl2)
+pkgconfig(snappy)
+pkgconfig(zlib)
+python

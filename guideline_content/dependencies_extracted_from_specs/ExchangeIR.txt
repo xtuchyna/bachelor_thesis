@@ -1,0 +1,5 @@
+maven-assembly-plugin
+maven-file-management
+maven-local
+maven-repository-builder
+plexus-active-collections

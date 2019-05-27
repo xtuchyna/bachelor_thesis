@@ -1,0 +1,9 @@
+perl(HTML::Entities)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod)
+perl(Text::Diff) >= 0.11
+perl(constant)
+perl(strict)
+perl(vars)
+perl-generators

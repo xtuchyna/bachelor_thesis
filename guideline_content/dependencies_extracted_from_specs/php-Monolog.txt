@@ -1,0 +1,23 @@
+php(language) >= 5.3.0
+php-composer(aws/aws-sdk-php) < 4.0
+php-composer(aws/aws-sdk-php) >= 2.8.13
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(psr/log) < 2.0
+php-composer(psr/log) >= 1.0.1
+php-composer(sentry/sentry) < 1.0
+php-composer(sentry/sentry) >= 0.13
+php-composer(swiftmailer/swiftmailer) < 6
+php-composer(swiftmailer/swiftmailer) >= 5.3
+php-curl
+php-date
+php-filter
+php-hash
+php-json
+php-mbstring
+php-openssl
+php-pcre
+php-reflection
+php-sockets
+php-spl
+php-xml

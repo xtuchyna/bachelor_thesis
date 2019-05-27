@@ -1,0 +1,11 @@
+perl(Benchmark)
+perl(Carp)
+perl(Data::Dumper)
+perl(Exporter)
+perl(Math::Trig)
+perl(Module::Build)
+perl(POSIX)
+perl(Test::More)
+perl(Test::Pod::Coverage)
+perl-generators
+perl-interpreter >= 5.006001

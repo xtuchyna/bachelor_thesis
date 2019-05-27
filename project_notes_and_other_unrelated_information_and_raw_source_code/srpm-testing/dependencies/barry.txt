@@ -1,0 +1,18 @@
+autoconf
+automake
+boost-devel
+desktop-file-utils
+doxygen
+fuse-devel
+gettext-devel
+gtkmm24-devel
+libglade2-devel
+libglademm24-devel
+libopensync-devel
+libtar-devel
+libtool
+libusb-devel
+libxml++-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+zlib-devel

@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(compare-func)
+npm(github-url-from-git)
+npm(q)

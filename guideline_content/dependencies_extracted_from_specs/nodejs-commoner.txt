@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(detective)
+npm(iconv-lite)
+npm(mocha)
+npm(private)
+npm(q)
+npm(recast)

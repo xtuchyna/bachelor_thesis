@@ -1,0 +1,4 @@
+alsa-lib-devel
+cmake
+desktop-file-utils
+qt4-devel

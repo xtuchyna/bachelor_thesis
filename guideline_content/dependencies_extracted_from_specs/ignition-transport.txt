@@ -1,0 +1,10 @@
+cmake
+cppzmq-devel
+dos2unix
+doxygen
+graphviz
+ignition-msgs-devel
+pkgconfig(uuid)
+protobuf-devel
+rubygem-ronn
+zeromq-devel

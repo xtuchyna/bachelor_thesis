@@ -1,0 +1,15 @@
+autoconf
+automake
+byacc
+desktop-file-utils
+flex
+gpsd-devel >= 3
+libXaw-devel
+libXext-devel
+libdstr-devel
+libpng-devel
+libtcd-devel
+libtool
+systemd
+systemd-devel
+zlib-devel

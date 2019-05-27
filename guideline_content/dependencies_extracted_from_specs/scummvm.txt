@@ -1,0 +1,13 @@
+SDL-devel
+desktop-file-utils
+flac-devel
+fluidsynth-devel
+freetype-devel
+libappstream-glib
+libjpeg-devel
+libmad-devel
+libpng-devel
+libtheora-devel
+libvorbis-devel
+readline-devel
+zlib-devel

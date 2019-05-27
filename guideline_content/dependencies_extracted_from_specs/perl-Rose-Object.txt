@@ -1,0 +1,9 @@
+perl(B)
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Simple)
+perl(constant)
+perl(lib)
+perl-generators

@@ -1,0 +1,5 @@
+maven-local
+mvn(org.apache.maven.shared:file-management)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.apache.maven:maven-project)
+mvn(org.apache.velocity:velocity)

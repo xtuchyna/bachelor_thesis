@@ -1,0 +1,12 @@
+perl(Devel::AssertOS)
+perl(Module::Build::Tiny)
+perl(Moose) >= 0.33
+perl(MooseX::Getopt) >= 0.07
+perl(MooseX::Types::Path::Class)
+perl(Sub::Exporter::ForMethods)
+perl(Test::Exception)
+perl(Test::Fatal)
+perl(Test::Moose)
+perl(Test::More)
+perl(Test::Pod::Coverage)
+perl-generators

@@ -1,0 +1,10 @@
+autoconf
+automake
+corosync
+corosynclib
+corosynclib-devel
+fuse-devel
+libtool
+systemd
+userspace-rcu-devel
+yasm

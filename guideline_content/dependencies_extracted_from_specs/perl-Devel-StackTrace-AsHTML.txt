@@ -1,0 +1,10 @@
+make
+perl(Data::Dumper)
+perl(Devel::StackTrace)
+perl(ExtUtils::MakeMaker) >= 6.75
+perl(Scalar::Util)
+perl(Test::More) >= 0.88
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

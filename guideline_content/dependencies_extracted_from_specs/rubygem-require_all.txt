@@ -1,0 +1,5 @@
+ruby
+rubygem(coveralls)
+rubygem(rspec) >= 2.14
+rubygem(simplecov) >= 0.7
+rubygems-devel

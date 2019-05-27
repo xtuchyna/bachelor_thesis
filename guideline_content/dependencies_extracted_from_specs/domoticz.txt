@@ -1,0 +1,16 @@
+boost-devel
+cmake
+curl-devel
+fontpackages-devel
+gcc-c++
+git
+libopenzwave-devel >= 1.5.0
+libusb-devel
+lua-devel
+mosquitto-devel
+openssl-devel
+python3-devel
+sqlite-devel
+systemd-devel
+tinyxpath-devel
+zlib-devel

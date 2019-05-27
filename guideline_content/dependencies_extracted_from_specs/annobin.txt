@@ -1,0 +1,4 @@
+coreutils
+gcc-plugin-devel
+info
+pkgconfig

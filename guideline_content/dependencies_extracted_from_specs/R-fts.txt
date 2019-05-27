@@ -1,0 +1,6 @@
+R-BH-devel
+R-devel
+R-stats
+R-utils
+R-zoo
+tex(latex)

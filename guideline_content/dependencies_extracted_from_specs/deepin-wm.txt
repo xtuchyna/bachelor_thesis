@@ -1,0 +1,17 @@
+desktop-file-utils
+gnome-common
+intltool
+pkgconfig(clutter-gtk-1.0)
+pkgconfig(gee-0.8)
+pkgconfig(gnome-desktop-3.0)
+pkgconfig(granite)
+pkgconfig(gudev-1.0)
+pkgconfig(libbamf3)
+pkgconfig(libcanberra)
+pkgconfig(libcanberra-gtk3)
+pkgconfig(libdeepin-mutter)
+pkgconfig(libwnck-3.0)
+pkgconfig(upower-glib)
+pkgconfig(vapigen)
+pkgconfig(xkbcommon-x11)
+pkgconfig(xkbfile)

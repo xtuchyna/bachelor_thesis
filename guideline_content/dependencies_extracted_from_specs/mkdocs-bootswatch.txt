@@ -1,0 +1,4 @@
+fontawesome-fonts
+fontawesome-fonts-web
+js-highlight
+python3-devel

@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(bundler)
+rubygem(rails)
+rubygem(rspec) < 3
+rubygems-devel

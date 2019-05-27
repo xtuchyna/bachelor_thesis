@@ -1,0 +1,5 @@
+autoconf
+boost-devel
+expat-devel
+libaio-devel
+libstdc++-devel

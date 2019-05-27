@@ -1,0 +1,4 @@
+libwvstreams-devel
+lockdev-devel
+openssl-devel
+pkgconfig

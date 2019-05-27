@@ -1,0 +1,7 @@
+ruby(release)
+rubygem(nokogiri) < 2
+rubygem(nokogiri) >= 1.3
+rubygem(rspec-core)
+rubygem(rspec-expectations)
+rubygem(rspec-mocks)
+rubygems-devel

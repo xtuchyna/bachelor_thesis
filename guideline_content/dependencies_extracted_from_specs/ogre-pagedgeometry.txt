@@ -1,0 +1,4 @@
+cmake
+libX11-devel
+ogre-devel
+ois-devel

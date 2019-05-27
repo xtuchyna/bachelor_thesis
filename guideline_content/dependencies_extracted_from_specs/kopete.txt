@@ -1,0 +1,27 @@
+desktop-file-utils
+expat-devel
+giflib-devel
+kdelibs4-devel >= 4.14
+kdepimlibs-devel >= 4.14
+libvncserver-devel
+linphone-devel
+openldap-devel
+openslp-devel
+openssl-devel
+pkgconfig(QJson)
+pkgconfig(alsa)
+pkgconfig(avahi-compat-libdns_sd)
+pkgconfig(jasper)
+pkgconfig(jsoncpp)
+pkgconfig(libgadu) >= 1.8.0
+pkgconfig(libidn)
+pkgconfig(libotr)
+pkgconfig(libv4l2)
+pkgconfig(libxslt)
+pkgconfig(meanwhile)
+pkgconfig(mediastreamer)
+pkgconfig(ortp)
+pkgconfig(qca2)
+pkgconfig(qimageblitz)
+pkgconfig(speex)
+pkgconfig(sqlite3)

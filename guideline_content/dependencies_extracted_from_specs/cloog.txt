@@ -1,0 +1,5 @@
+gmp-devel >= 6.0.0
+isl-devel >= 0.15
+libtool
+texinfo >= 4.12
+texinfo-tex >= 4.12

@@ -1,0 +1,10 @@
+ghc-Cabal-devel
+ghc-aeson-devel
+ghc-containers-devel
+ghc-old-locale-devel
+ghc-parsec-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-time-devel
+ghc-unordered-containers-devel
+ghc-vector-devel

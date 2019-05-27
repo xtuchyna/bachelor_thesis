@@ -1,0 +1,12 @@
+desktop-file-utils
+gettext
+gnome-doc-utils
+gtkmm24-devel
+intltool
+libappstream-glib
+libuuid-devel
+parted-devel
+perl(XML::Parser)
+pkgconfig
+polkit
+rarian-compat

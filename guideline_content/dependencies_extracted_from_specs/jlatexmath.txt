@@ -1,0 +1,4 @@
+ant
+fop
+java-devel
+jpackage-utils

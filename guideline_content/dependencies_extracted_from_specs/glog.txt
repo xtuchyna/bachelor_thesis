@@ -1,0 +1,2 @@
+autoconf
+gflags-devel >= 2.1.0

@@ -1,0 +1,27 @@
+perl(Encode)
+perl(Encode::Newlines) >= 0.03
+perl(Exporter)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Spec)
+perl(File::Temp)
+perl(Getopt::Long)
+perl(IO::String)
+perl(Module::Build)
+perl(Pod::Find)
+perl(Pod::Simple)
+perl(Pod::Usage)
+perl(Pod::Wrap)
+perl(Test::Cmd) >= 1.05
+perl(Test::Distribution) >= 1.22
+perl(Test::More)
+perl(Text::Glob)
+perl(Text::Wrap)
+perl(base)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

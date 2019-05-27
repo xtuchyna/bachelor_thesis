@@ -1,0 +1,4 @@
+dssi-devel
+jack-audio-connection-kit-devel
+ladspa-devel
+liblo-devel

@@ -1,0 +1,11 @@
+coreutils
+perl(Carp)
+perl(Exporter)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(overload)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

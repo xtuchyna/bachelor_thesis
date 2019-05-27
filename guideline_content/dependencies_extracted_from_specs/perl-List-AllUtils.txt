@@ -1,0 +1,15 @@
+findutils
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(List::SomeUtils) >= 0.50
+perl(List::Util) >= 1.45
+perl(List::UtilsBy) >= 0.10
+perl(Sub::Util)
+perl(Test::More) >= 0.96
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

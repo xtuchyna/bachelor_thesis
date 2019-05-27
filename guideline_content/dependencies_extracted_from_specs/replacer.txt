@@ -1,0 +1,12 @@
+maven-local
+mvn(commons-io:commons-io)
+mvn(commons-lang:commons-lang)
+mvn(junit:junit)
+mvn(org.apache.ant:ant)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.hamcrest:hamcrest-all)
+mvn(org.mockito:mockito-all)
+mvn(org.sonatype.oss:oss-parent:pom:)
+mvn(xerces:xercesImpl)
+mvn(xml-apis:xml-apis)

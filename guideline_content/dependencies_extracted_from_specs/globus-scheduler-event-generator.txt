@@ -1,0 +1,8 @@
+doxygen
+globus-common-devel >= 15
+globus-gram-protocol-devel >= 11
+globus-xio-devel >= 3
+globus-xio-gsi-driver-devel >= 2
+libtool-ltdl-devel
+perl(Test::More)
+systemd-units

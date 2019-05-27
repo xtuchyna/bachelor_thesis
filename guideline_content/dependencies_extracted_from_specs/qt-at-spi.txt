@@ -1,0 +1,4 @@
+pkgconfig(QtDBus) >= 4.8.0
+pkgconfig(QtGui)
+pkgconfig(QtXml)
+pkgconfig(atspi-2)

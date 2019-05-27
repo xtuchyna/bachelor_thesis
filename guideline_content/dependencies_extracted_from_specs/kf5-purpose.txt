@@ -1,0 +1,15 @@
+extra-cmake-modules
+gettext
+intltool
+kaccounts-integration-devel
+kde-connect
+kf5-kconfig-devel
+kf5-kcoreaddons-devel
+kf5-kdeclarative-devel
+kf5-ki18n-devel
+kf5-kio-devel
+kf5-rpm-macros
+pkgconfig(Qt5Network)
+pkgconfig(Qt5Qml)
+pkgconfig(accounts-qt5)
+pkgconfig(libaccounts-glib)

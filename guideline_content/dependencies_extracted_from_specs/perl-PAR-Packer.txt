@@ -1,0 +1,46 @@
+ImageMagick
+coreutils
+desktop-file-utils
+findutils
+gcc
+make
+perl(Archive::Zip) >= 1
+perl(Compress::Zlib) >= 1.3
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(ExtUtils::Embed)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Find)
+perl(File::Glob)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp) >= 0.05
+perl(File::stat)
+perl(FindBin)
+perl(Getopt::ArgvFile) >= 1.07
+perl(Getopt::Long)
+perl(IO::Compress::Gzip)
+perl(IPC::Run3) >= 0.048
+perl(MIME::Base64)
+perl(Module::ScanDeps) >= 1.21
+perl(Module::Signature)
+perl(PAR) >= 1.014
+perl(PAR::Dist) >= 0.22
+perl(PAR::SetupTemp)
+perl(Test::More)
+perl(base)
+perl(bytes)
+perl(constant)
+perl(inc::Module::Install) >= 0.92
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

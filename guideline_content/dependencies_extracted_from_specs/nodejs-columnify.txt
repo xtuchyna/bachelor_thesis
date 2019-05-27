@@ -1,0 +1,6 @@
+nodejs-devel
+nodejs-packaging
+npm(chalk)
+npm(strip-ansi)
+npm(tape)
+npm(wcwidth)

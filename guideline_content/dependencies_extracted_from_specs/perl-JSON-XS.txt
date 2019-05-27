@@ -1,0 +1,24 @@
+coreutils
+gcc
+make
+perl(Canary::Stability)
+perl(Data::Dumper)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Getopt::Long)
+perl(Storable)
+perl(Test)
+perl(Test::More)
+perl(Tie::Array)
+perl(Tie::Hash)
+perl(Types::Serialiser)
+perl(XSLoader)
+perl(common::sense)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

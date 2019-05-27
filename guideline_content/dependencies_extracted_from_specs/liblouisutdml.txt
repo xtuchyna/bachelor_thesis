@@ -1,0 +1,10 @@
+ant
+autoconf
+automake
+help2man
+java-devel >= 1:1.6.0
+jpackage-utils
+liblouis-devel >= 2.5.0
+libtool
+libxml2-devel
+texinfo-tex

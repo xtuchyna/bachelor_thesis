@@ -1,0 +1,12 @@
+cmake(KF5ConfigWidgets)
+cmake(KF5IconThemes)
+cmake(KF5Kirigami2)
+cmake(Qt5Gui)
+cmake(Qt5Quick)
+cmake(Qt5Widgets)
+extra-cmake-modules >= 5.44
+kf5-kconfigwidgets-devel >= 5.44
+kf5-kiconthemes-devel >= 5.44
+kf5-kirigami2-devel >= 5.44
+kf5-rpm-macros
+qt5-qtquickcontrols2-devel

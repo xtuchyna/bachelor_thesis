@@ -1,0 +1,10 @@
+cmake(Qt5Gui)
+cmake(Qt5Xml)
+dbus-x11
+extra-cmake-modules >= 5.44.0
+kf5-rpm-macros >= 5.44.0
+ninja-build
+qt5-qtbase-devel
+qt5-qttools-devel
+time
+xorg-x11-server-Xvfb

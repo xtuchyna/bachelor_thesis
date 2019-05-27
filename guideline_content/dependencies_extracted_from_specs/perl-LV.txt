@@ -1,0 +1,11 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Sentinel)
+perl(Sub::Name)
+perl(Test::More) >= 0.47
+perl(Variable::Magic)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

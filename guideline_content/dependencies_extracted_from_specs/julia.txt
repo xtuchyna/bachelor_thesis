@@ -1,0 +1,22 @@
+ImageMagick
+arpack-devel
+dSFMT-devel
+desktop-file-utils
+fftw-devel >= 3.3.2
+gcc-c++
+git
+gmp-devel >= 5.0
+hostname
+libgit2-devel >= 0.23
+libunwind-devel >= 1.2
+llvm3.9-devel
+mpfr-devel >= 3.0
+openblas-threads
+openlibm-devel >= 0.4
+openspecfun-devel >= 0.4
+openssl
+pcre2-devel
+perl-interpreter
+suitesparse-devel
+utf8proc-devel >= 2.1
+zlib-devel

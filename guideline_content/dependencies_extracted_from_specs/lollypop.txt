@@ -1,0 +1,9 @@
+desktop-file-utils
+glib2-devel
+gobject-introspection-devel
+gtk3-devel
+intltool
+itstool
+libappstream-glib
+meson
+python3-devel

@@ -1,0 +1,14 @@
+make
+perl(Carp)
+perl(Class::Std)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(TAP::Harness) >= 3.31
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

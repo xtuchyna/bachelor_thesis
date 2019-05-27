@@ -1,0 +1,5 @@
+autoconf
+automake
+expat-devel
+gcc
+make

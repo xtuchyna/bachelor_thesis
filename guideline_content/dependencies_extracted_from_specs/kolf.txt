@@ -1,0 +1,26 @@
+cmake(KF5Completion)
+cmake(KF5Config)
+cmake(KF5ConfigWidgets)
+cmake(KF5CoreAddons)
+cmake(KF5Crash)
+cmake(KF5DBusAddons)
+cmake(KF5Declarative)
+cmake(KF5DocTools)
+cmake(KF5GuiAddons)
+cmake(KF5I18n)
+cmake(KF5IconThemes)
+cmake(KF5KDEGames) >= 4.9.0
+cmake(KF5KIO)
+cmake(KF5NewStuff)
+cmake(KF5TextWidgets)
+cmake(KF5WidgetsAddons)
+cmake(KF5XmlGui)
+cmake(Qt5Concurrent)
+cmake(Qt5Svg)
+cmake(Qt5Test)
+cmake(Qt5Widgets)
+desktop-file-utils
+extra-cmake-modules
+libappstream-glib
+libkdegames-devel >= 17.12
+pkgconfig(phonon4qt5)

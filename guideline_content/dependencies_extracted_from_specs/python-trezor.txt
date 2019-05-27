@@ -1,0 +1,10 @@
+pkgconfig(bash-completion)
+python3-click
+python3-devel
+python3-ecdsa
+python3-hidapi >= 0.7.99.post20
+python3-mnemonic >= 0.17
+python3-pbkdf2
+python3-protobuf
+python3-requests
+systemd

@@ -1,0 +1,10 @@
+cmake
+desktop-file-utils
+doxygen
+gstreamer1-plugins-base-devel
+libappstream-glib
+libmtp-devel
+libnotify-devel
+qt5-qtbase-devel
+qt5-qttools-devel
+taglib-devel

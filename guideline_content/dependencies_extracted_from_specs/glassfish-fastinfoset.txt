@@ -1,0 +1,9 @@
+maven-local
+maven-surefire-provider-junit
+mvn(com.sun.xml.stream.buffer:streambuffer)
+mvn(com.sun.xsom:xsom)
+mvn(junit:junit)
+mvn(net.java:jvnet-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugin-tools:maven-plugin-tools-api)
+mvn(org.apache.maven.plugins:maven-release-plugin)

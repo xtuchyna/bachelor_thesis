@@ -1,0 +1,16 @@
+findutils
+make
+perl(Carp)
+perl(DBD::SQLite)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Find)
+perl(File::Temp)
+perl(Math::Trig)
+perl(Test::Fatal) >= 0.007
+perl(Test::More) >= 0.94
+perl(constant)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,14 @@
+ant
+atlas-devel
+gcc-gfortran
+javapackages-local
+junit
+mvn(org.sonatype.oss:oss-parent:pom:)
+ruby-devel
+rubygem-RedCloth
+rubygem-ffi
+rubygem-fog-json
+rubygem-hitimes
+rubygem-nokogiri
+rubygem-posix-spawn
+rubygem-redcarpet

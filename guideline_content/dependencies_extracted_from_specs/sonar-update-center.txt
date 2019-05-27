@@ -1,0 +1,12 @@
+maven-local
+mvn(com.google.code.findbugs:jsr305)
+mvn(com.google.guava:guava)
+mvn(commons-io:commons-io)
+mvn(commons-lang:commons-lang)
+mvn(org.apache.maven.plugin-tools:maven-plugin-annotations)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven.shared:maven-dependency-tree)
+mvn(org.apache.maven:maven-archiver)
+mvn(org.apache.maven:maven-core)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.slf4j:slf4j-api)

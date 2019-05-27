@@ -1,0 +1,13 @@
+make
+perl(Carp)
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IPC::Cmd)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

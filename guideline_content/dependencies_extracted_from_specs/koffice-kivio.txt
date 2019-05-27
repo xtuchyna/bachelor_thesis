@@ -1,0 +1,20 @@
+GraphicsMagick-devel
+automake
+bzip2-devel
+cmake
+desktop-file-utils
+fontconfig-devel
+freetype-devel
+gettext
+gettext-devel
+kde-filesystem
+kdelibs3-devel >= 3.5.10-50
+kdelibs4-devel
+libart_lgpl-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel
+libtool
+openssl-devel
+perl-interpreter
+zlib-devel

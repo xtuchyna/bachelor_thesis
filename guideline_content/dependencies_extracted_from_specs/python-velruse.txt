@@ -1,0 +1,7 @@
+python2-anykeystore
+python2-devel
+python2-oauth2
+python2-openid
+python2-pyramid
+python2-requests
+python2-setuptools

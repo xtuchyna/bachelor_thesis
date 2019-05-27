@@ -1,0 +1,4 @@
+gcc-c++
+gettext
+ncurses-devel
+openssl-devel

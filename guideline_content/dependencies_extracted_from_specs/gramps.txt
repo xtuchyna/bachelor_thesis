@@ -1,0 +1,9 @@
+desktop-file-utils
+gettext
+gnome-doc-utils
+intltool
+libappstream-glib
+perl(XML::Parser)
+python3-devel
+python3-gobject
+python3-setuptools

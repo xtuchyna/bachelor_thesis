@@ -1,0 +1,9 @@
+maven-local
+mvn(javax.el:el-api)
+mvn(javax.servlet.jsp:jsp-api)
+mvn(javax.servlet:servlet-api)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.taglibs:taglibs-parent:pom:)
+mvn(org.easymock:easymock)
+mvn(xalan:xalan)

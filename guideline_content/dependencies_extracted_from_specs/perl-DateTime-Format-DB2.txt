@@ -1,0 +1,5 @@
+perl(DateTime)
+perl(DateTime::Format::Builder)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl-generators

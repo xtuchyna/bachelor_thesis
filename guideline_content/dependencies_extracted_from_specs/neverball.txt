@@ -1,0 +1,11 @@
+SDL2_image-devel
+SDL2_mixer-devel
+SDL2_ttf-devel
+desktop-file-utils
+freetype-devel
+gettext
+libGL-devel
+libjpeg-devel
+libpng-devel
+physfs-devel
+zlib-devel

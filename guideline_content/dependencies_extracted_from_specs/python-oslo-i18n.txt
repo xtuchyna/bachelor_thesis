@@ -1,0 +1,15 @@
+git
+python2-babel
+python2-devel
+python2-fixtures
+python2-openstackdocstheme
+python2-pbr
+python2-setuptools
+python2-six
+python2-sphinx
+python3-babel
+python3-devel
+python3-fixtures
+python3-pbr
+python3-setuptools
+python3-six

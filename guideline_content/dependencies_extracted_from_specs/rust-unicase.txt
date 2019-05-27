@@ -1,0 +1,2 @@
+(crate(version_check) >= 0.1.0 with crate(version_check) < 0.2.0)
+rust-packaging

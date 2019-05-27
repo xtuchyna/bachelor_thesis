@@ -1,0 +1,8 @@
+/usr/bin/man
+coreutils
+python2-devel
+python2-ptyprocess
+python2-pytest
+python3-devel
+python3-ptyprocess
+python3-pytest

@@ -1,0 +1,8 @@
+gcc-c++
+kdebase-workspace-devel
+libtool
+pam-devel
+python-pep8
+python2-devel
+systemd
+udev

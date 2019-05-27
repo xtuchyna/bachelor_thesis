@@ -1,0 +1,16 @@
+coreutils
+perl(Carp)
+perl(Module::Build) >= 0.37
+perl(Parse::RecDescent) >= 1.967009
+perl(Pod::Strip)
+perl(Test::Deep)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(UNIVERSAL::require)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

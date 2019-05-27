@@ -1,0 +1,44 @@
+php(language) >= 5.5.0
+php-JMSParser >= 1.0.0-7
+php-cli
+php-composer(doctrine/annotations) < 2.0
+php-composer(doctrine/annotations) >= 1.2.6
+php-composer(doctrine/instantiator) < 2.0
+php-composer(doctrine/instantiator) >= 1.0.3
+php-composer(doctrine/orm) < 3.0
+php-composer(doctrine/orm) >= 2.4.8
+php-composer(fedora/autoloader)
+php-composer(jms/metadata) < 2.0
+php-composer(jms/metadata) >= 1.6.0
+php-composer(jms/parser-lib) < 2.0
+php-composer(phpcollection/phpcollection) < 1.0
+php-composer(phpcollection/phpcollection) >= 0.5.0
+php-composer(phpoption/phpoption) < 2.0
+php-composer(phpoption/phpoption) >= 1.5.0
+php-composer(phpunit/phpunit)
+php-composer(psr/container) < 2.0
+php-composer(psr/container) >= 1.0
+php-composer(symfony/dependency-injection) < 4.0
+php-composer(symfony/dependency-injection) >= 2.7.1
+php-composer(symfony/expression-language) < 4.0
+php-composer(symfony/expression-language) >= 2.7.1
+php-composer(symfony/filesystem) < 4.0
+php-composer(symfony/filesystem) >= 2.7.1
+php-composer(symfony/form) < 4.0
+php-composer(symfony/form) >= 2.7.1
+php-composer(symfony/translation) < 4.0
+php-composer(symfony/translation) >= 2.7.1
+php-composer(symfony/validator) < 4.0
+php-composer(symfony/validator) >= 2.7.1
+php-composer(symfony/yaml) < 4.0
+php-composer(symfony/yaml) >= 2.7.1
+php-composer(twig/twig) < 3.0
+php-composer(twig/twig) >= 1.18.2
+php-date
+php-dom
+php-json
+php-libxml
+php-pcre
+php-reflection
+php-simplexml
+php-spl

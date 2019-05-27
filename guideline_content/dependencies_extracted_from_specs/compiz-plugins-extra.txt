@@ -1,0 +1,11 @@
+compiz-bcop >= 0.8.14
+compiz-plugins-main-devel >= 0.8.14
+gettext-devel
+gtk2-devel
+intltool
+libXrender-devel
+libjpeg-turbo-devel
+libnotify-devel
+libtool
+mesa-libGLU-devel
+perl(XML::Parser)

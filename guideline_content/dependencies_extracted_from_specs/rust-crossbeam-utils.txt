@@ -1,0 +1,2 @@
+(crate(cfg-if) >= 0.1.0 with crate(cfg-if) < 0.2.0)
+rust-packaging

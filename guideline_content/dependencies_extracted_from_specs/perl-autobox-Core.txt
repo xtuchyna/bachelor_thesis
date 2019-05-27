@@ -1,0 +1,17 @@
+coreutils
+make
+perl(B)
+perl(Carp)
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Hash::Util)
+perl(Scalar::Util)
+perl(Test::More) >= 0.88
+perl(Test::Output)
+perl(Want) >= 0.26
+perl(autobox) >= 2.71
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

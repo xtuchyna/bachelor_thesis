@@ -1,0 +1,12 @@
+cmake
+mingw32-boost
+mingw32-filesystem >= 95
+mingw32-gnutls
+mingw32-libxslt
+mingw64-boost
+mingw64-filesystem >= 95
+mingw64-gnutls
+mingw64-libxslt
+python-devel
+ruby
+ruby-devel

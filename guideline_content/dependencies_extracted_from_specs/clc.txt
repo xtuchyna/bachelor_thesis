@@ -1,0 +1,3 @@
+libtelnet-devel >= 0.20
+ncurses-devel
+zlib-devel

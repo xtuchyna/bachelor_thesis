@@ -1,0 +1,12 @@
+ghc-Cabal-devel
+ghc-blaze-html-devel
+ghc-bytestring-devel
+ghc-conduit-devel
+ghc-monad-logger-devel
+ghc-persistent-devel
+ghc-resourcet-devel
+ghc-rpm-macros
+ghc-tagged-devel
+ghc-text-devel
+ghc-transformers-devel
+ghc-unordered-containers-devel

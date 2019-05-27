@@ -1,0 +1,6 @@
+ruby(release)
+rubygem(minitest)
+rubygem(rack)
+rubygem(rots)
+rubygem(ruby-openid)
+rubygems-devel

@@ -1,0 +1,9 @@
+dbus-devel >= 1.1.0
+dbus-glib-devel >= 0.82
+glib2-devel >= 2.25.11
+gnome-doc-utils
+gobject-introspection-devel
+intltool
+libxml2-devel
+sqlite-devel
+telepathy-glib-devel >= 0.19.2

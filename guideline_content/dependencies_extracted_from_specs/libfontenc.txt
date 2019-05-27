@@ -1,0 +1,5 @@
+pkgconfig
+xorg-x11-font-utils
+xorg-x11-proto-devel
+xorg-x11-util-macros
+zlib-devel

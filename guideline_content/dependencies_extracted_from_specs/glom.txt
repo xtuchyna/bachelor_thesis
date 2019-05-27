@@ -1,0 +1,24 @@
+/usr/bin/sphinx-build
+avahi-ui-devel
+boost-python3-devel
+desktop-file-utils
+evince-devel
+gettext-devel
+glibmm24-devel >= 2.46.1
+goocanvasmm2-devel >= 1.90.11
+gtkmm30-devel >= 3.18.0
+gtksourceviewmm3-devel >= 3.18.0
+intltool
+iso-codes-devel
+itstool
+libarchive > 3.0
+libarchive-devel
+libepc-devel >= 0.4.0
+libgda-devel >= 5.2.1
+libgda-postgres >= 5.2.1
+libgdamm-devel >= 4.99.10
+libxml++-devel >= 2.23.1
+libxslt-devel >= 1.1.10
+postgresql-server
+pygobject3-devel >= 2.29.0
+python3-devel

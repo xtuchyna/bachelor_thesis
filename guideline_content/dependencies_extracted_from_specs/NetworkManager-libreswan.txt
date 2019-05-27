@@ -1,0 +1,8 @@
+NetworkManager-devel >= 1:1.2.0
+NetworkManager-libnm-devel >= 1:1.2.0
+gettext
+gtk3-devel
+intltool
+libnl3-devel
+libnma-devel >= 1.2.0
+libsecret-devel

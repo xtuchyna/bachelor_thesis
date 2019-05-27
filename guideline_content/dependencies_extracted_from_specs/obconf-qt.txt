@@ -1,0 +1,12 @@
+cmake
+desktop-file-utils
+kf5-kwindowsystem-devel
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Widgets)
+pkgconfig(Qt5X11Extras)
+pkgconfig(lxqt)
+pkgconfig(obrender-3.5)
+pkgconfig(obt-3.5)
+pkgconfig(sm)
+qt5-linguist

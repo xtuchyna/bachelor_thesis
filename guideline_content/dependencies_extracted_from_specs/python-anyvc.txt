@@ -1,0 +1,9 @@
+mercurial
+python2-apipkg
+python2-devel
+python2-dulwich
+python2-execnet
+python2-hgdistver
+python2-pytest
+python2-setuptools
+python2-subvertpy

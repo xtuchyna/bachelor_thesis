@@ -1,0 +1,3 @@
+gcc-c++
+m17n-lib-devel
+scim-devel

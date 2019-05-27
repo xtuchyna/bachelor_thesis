@@ -1,0 +1,8 @@
+libcmpiutil >= 0.5.4
+libcmpiutil-devel
+libconfig-devel
+libuuid-devel
+libvirt-devel >= 0.9.0
+libxml2-devel
+systemd-units
+tog-pegasus-devel

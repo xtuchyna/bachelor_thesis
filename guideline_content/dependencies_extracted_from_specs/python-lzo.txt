@@ -1,0 +1,5 @@
+lzo-devel
+python-devel
+python-setuptools
+python3-devel
+python3-setuptools

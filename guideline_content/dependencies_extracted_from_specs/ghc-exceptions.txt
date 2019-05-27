@@ -1,0 +1,7 @@
+ghc-Cabal-devel
+ghc-mtl-devel
+ghc-rpm-macros
+ghc-stm-devel
+ghc-template-haskell-devel
+ghc-transformers-compat-devel
+ghc-transformers-devel

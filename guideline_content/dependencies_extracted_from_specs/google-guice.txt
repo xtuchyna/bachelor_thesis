@@ -1,0 +1,15 @@
+hibernate-jpa-2.0-api
+maven-local
+mvn(aopalliance:aopalliance)
+mvn(cglib:cglib)
+mvn(com.google.guava:guava:19.0)
+mvn(javax.inject:javax.inject)
+mvn(javax.servlet:servlet-api)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-remote-resources-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.apache:apache-jar-resource-bundle)
+mvn(org.ow2.asm:asm)
+mvn(org.slf4j:slf4j-api)
+mvn(org.sonatype.plugins:munge-maven-plugin)
+springframework-beans

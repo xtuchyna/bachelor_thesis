@@ -1,0 +1,16 @@
+autoconf
+automake
+gcc
+gcc-c++
+gobject-introspection-devel >= 0.9.5
+gtk-doc >= 1.20
+libtool
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Network)
+pkgconfig(Qt5Qml)
+pkgconfig(gio-2.0) >= 2.46
+pkgconfig(gio-unix-2.0) >= 2.46
+pkgconfig(glib-2.0) >= 2.46
+pkgconfig(json-glib-1.0) >= 1.2
+pkgconfig(libsoup-2.4) >= 2.32
+vala-tools >= 0.16

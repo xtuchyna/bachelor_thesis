@@ -1,0 +1,14 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Net::SNMP)
+perl(POE)
+perl(POE::Kernel)
+perl(POE::Session)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Time::HiRes)
+perl(base)
+perl(constant)
+perl(strict)
+perl-generators
+perl-interpreter

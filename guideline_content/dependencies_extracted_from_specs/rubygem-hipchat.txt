@@ -1,0 +1,7 @@
+ruby(release)
+rubygem(httparty)
+rubygem(json)
+rubygem(rr)
+rubygem(rspec)
+rubygem(webmock)
+rubygems-devel

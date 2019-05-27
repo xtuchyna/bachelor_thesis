@@ -1,0 +1,10 @@
+font(:lang=en)
+perl(Class::XSAccessor) >= 0.06
+perl(Devel::Size) >= 0.71
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Wx) >= 0.88
+perl(YAML::XS)
+perl-generators
+xorg-x11-server-Xvfb
+xorg-x11-xinit

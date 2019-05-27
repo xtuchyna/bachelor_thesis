@@ -1,0 +1,2 @@
+php-cli >= 5.3.0
+php-composer(fedora/autoloader)

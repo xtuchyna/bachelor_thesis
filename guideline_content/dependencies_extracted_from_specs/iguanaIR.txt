@@ -1,0 +1,8 @@
+cmake
+dos2unix
+git
+libusb-devel
+libusb1-devel
+lirc-devel >= 0.9.4
+popt-devel
+systemd

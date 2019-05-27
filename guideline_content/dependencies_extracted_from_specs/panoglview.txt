@@ -1,0 +1,6 @@
+desktop-file-utils
+libjpeg-devel
+libpng-devel
+libtiff-devel
+wxGTK-devel
+zlib-devel

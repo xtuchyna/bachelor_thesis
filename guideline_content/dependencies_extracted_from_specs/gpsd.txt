@@ -1,0 +1,14 @@
+/usr/bin/c++
+bluez-libs-devel
+dbus-devel
+dbus-glib-devel
+desktop-file-utils
+libusb1-devel
+ncurses-devel
+pps-tools-devel
+python2-devel
+python3-devel
+qt-devel
+scons
+systemd
+xmlto

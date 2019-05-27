@@ -1,0 +1,9 @@
+autoconf
+automake
+gcc-c++
+libbinio-devel >= 1.4
+libtool
+pkgconfig
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+texinfo

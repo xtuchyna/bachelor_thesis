@@ -1,0 +1,4 @@
+cmake
+gcc-c++
+make
+python3

@@ -1,0 +1,23 @@
+perl(Carp)
+perl(Crypt::DH::GMP) >= 0.00011
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(HTML::Parser) >= 3.40
+perl(HTTP::Headers::Util)
+perl(HTTP::Request)
+perl(HTTP::Status)
+perl(MIME::Base64)
+perl(Math::BigInt)
+perl(Test::More)
+perl(Time::Local)
+perl(URI::Escape)
+perl(XML::Simple)
+perl(base)
+perl(constant)
+perl(fields)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

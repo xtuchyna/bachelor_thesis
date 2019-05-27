@@ -1,0 +1,6 @@
+emacs
+emacs-vm
+info
+libappstream-glib
+texinfo
+texinfo-tex

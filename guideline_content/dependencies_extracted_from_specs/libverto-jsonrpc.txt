@@ -1,0 +1,4 @@
+findutils
+json-c-devel
+libtool
+libverto-devel >= 0.2.4

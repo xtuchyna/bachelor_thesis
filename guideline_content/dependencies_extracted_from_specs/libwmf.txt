@@ -1,0 +1,8 @@
+dos2unix
+gtk2-devel
+libX11-devel
+libXt-devel
+libjpeg-devel
+libpng-devel
+libtool
+libxml2-devel

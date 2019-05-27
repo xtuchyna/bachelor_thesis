@@ -1,0 +1,10 @@
+boost-devel
+boost-mpich-devel
+boost-openmpi-devel
+cmake
+fftw-devel
+mpich-devel
+openmpi-devel
+python2-Cython
+python2-devel
+python2-numpy

@@ -1,0 +1,6 @@
+coreutils
+findutils
+gcc
+gcc-c++
+p7zip
+sed

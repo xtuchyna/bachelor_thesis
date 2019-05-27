@@ -1,0 +1,12 @@
+autoconf
+automake
+bash
+coreutils
+diffutils
+gcc
+gcc-c++
+glibc-common
+grep
+libtool
+make
+readline-devel

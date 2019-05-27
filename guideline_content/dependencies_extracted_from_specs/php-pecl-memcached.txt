@@ -1,0 +1,12 @@
+cyrus-sasl-devel
+fastlz-devel
+gcc
+libevent-devel > 2
+libmemcached-devel > 1.0.16
+memcached
+php-devel >= 7
+php-json
+php-pear
+php-pecl-igbinary-devel
+php-pecl-msgpack-devel
+zlib-devel

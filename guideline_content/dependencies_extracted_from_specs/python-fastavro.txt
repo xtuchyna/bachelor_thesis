@@ -1,0 +1,9 @@
+python2-devel
+python2dist(cython)
+python2dist(pytest)
+python2dist(setuptools)
+python2dist(sphinx)
+python3-devel
+python3dist(cython)
+python3dist(pytest)
+python3dist(setuptools)

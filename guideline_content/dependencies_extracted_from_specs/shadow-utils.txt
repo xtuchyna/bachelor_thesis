@@ -1,0 +1,14 @@
+audit-libs-devel >= 1.6.5
+autoconf
+automake
+bison
+docbook-dtds
+docbook-style-xsl
+flex
+gettext-devel
+gnome-doc-utils
+libacl-devel
+libattr-devel
+libselinux-devel >= 1.25.2-1
+libsemanage-devel
+libtool

@@ -1,0 +1,8 @@
+catch1-devel
+cmake
+doxygen
+gcc-c++
+graphviz
+protobuf-compiler
+protobuf-devel
+protobuf-lite-devel

@@ -1,0 +1,9 @@
+ImageMagick
+desktop-file-utils
+gettext
+libappstream-glib
+libxml2-devel
+moreutils
+postgresql-devel
+qt5-qtbase-devel
+qt5-qtsvg-devel

@@ -1,0 +1,11 @@
+make
+perl(:VERSION) >= 5.6
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(Scalar::Util) >= 1.14
+perl(Test::More) >= 0.42
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,5 @@
+boost-devel
+chrpath
+cmake
+gcc-c++
+gmp-devel

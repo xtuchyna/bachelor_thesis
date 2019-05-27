@@ -1,0 +1,5 @@
+boost-devel
+cairo-devel
+compat-openssl10-devel
+libpcap-devel
+zlib-devel

@@ -1,0 +1,13 @@
+/usr/bin/desktop-file-validate
+cmake >= 3.1.0
+cmake(Qt5Core)
+cmake(Qt5Gui)
+cmake(Qt5LinguistTools)
+cmake(Qt5Widgets)
+cppcodec-devel
+gcc-c++
+libnitrokey-devel
+make
+pkgconfig(bash-completion)
+pkgconfig(udev)
+systemd

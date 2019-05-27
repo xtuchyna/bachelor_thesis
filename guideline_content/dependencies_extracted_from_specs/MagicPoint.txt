@@ -1,0 +1,14 @@
+bison
+flex
+fontconfig-devel
+giflib-devel
+imake
+imlib2-devel
+libXft-devel
+libXmu-devel
+libmng-devel
+libpng-devel
+m17n-lib-devel
+perl-generators
+perl-interpreter
+sharutils

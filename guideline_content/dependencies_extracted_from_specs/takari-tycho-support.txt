@@ -1,0 +1,4 @@
+maven-local
+mvn(io.takari:takari:pom:)
+mvn(org.eclipse.tycho:target-platform-configuration)
+mvn(org.eclipse.tycho:tycho-maven-plugin)

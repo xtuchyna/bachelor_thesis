@@ -1,0 +1,4 @@
+globus-common-devel >= 15
+globus-xio-devel >= 3
+libnice-devel
+udt-devel

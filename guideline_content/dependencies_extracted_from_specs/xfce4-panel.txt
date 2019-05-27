@@ -1,0 +1,12 @@
+desktop-file-utils
+exo-devel >= 0.3.93
+garcon-devel >= 0.1.5
+gettext
+gtk-doc
+gtk3-devel
+intltool
+libwnck-devel >= 2.30
+libxfce4ui-devel >= 4.12
+libxml2-devel >= 2.4.0
+startup-notification-devel
+xfconf-devel >= 4.12

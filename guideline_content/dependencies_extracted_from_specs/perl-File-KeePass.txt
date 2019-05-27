@@ -1,0 +1,7 @@
+perl(Compress::Raw::Zlib)
+perl(Crypt::Rijndael)
+perl(Digest::SHA)
+perl(ExtUtils::MakeMaker)
+perl(Test::Simple)
+perl(XML::Parser)
+perl-generators

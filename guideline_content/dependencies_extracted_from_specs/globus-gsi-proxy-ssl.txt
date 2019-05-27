@@ -1,0 +1,4 @@
+doxygen
+openssl-devel
+perl(Test::More)
+pkgconfig

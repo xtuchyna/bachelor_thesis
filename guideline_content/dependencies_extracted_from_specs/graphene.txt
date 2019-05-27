@@ -1,0 +1,4 @@
+gcc
+gobject-introspection-devel
+meson
+pkgconfig(gobject-2.0)

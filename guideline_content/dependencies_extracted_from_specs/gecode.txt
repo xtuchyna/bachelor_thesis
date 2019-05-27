@@ -1,0 +1,9 @@
+automake
+bison
+boost-devel
+doxygen
+flex >= 2.5.33
+graphviz
+qt4-devel
+tex(dvips)
+tex(latex)

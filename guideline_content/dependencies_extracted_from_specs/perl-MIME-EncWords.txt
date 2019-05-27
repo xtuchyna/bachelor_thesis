@@ -1,0 +1,22 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Encode) >= 1.98
+perl(Encode::Encoding)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(MIME::Base64) >= 2.13
+perl(MIME::Charset) >= 1.10.1
+perl(Test)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(base)
+perl(charnames)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

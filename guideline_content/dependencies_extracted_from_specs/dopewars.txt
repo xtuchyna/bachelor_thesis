@@ -1,0 +1,8 @@
+SDL_mixer-devel
+autoconf
+automake
+desktop-file-utils
+gettext
+gtk2-devel
+libtool
+ncurses-devel

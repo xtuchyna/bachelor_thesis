@@ -1,0 +1,24 @@
+coreutils
+findutils
+make
+perl(Catalyst)
+perl(Catalyst::Action)
+perl(Catalyst::Controller)
+perl(Catalyst::Runtime) >= 5.80030
+perl(Catalyst::Test)
+perl(Catalyst::View)
+perl(Data::Visitor) >= 0.24
+perl(Data::Visitor::Callback)
+perl(FindBin)
+perl(HTTP::Request::AsCGI)
+perl(MRO::Compat)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::More) >= 0.88
+perl(base)
+perl(inc::Module::Install) >= 0.91
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,11 @@
+coreutils
+findutils
+make
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(Scalar::Util)
+perl(Test::More) >= 0.82
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

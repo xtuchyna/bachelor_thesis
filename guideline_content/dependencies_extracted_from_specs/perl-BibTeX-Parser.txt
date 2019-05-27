@@ -1,0 +1,16 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IO::File)
+perl(IO::String)
+perl(LaTeX::ToUnicode) >= 0.02
+perl(Pod::Coverage) >= 0.18
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(constant)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

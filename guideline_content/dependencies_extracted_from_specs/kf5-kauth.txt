@@ -1,0 +1,6 @@
+extra-cmake-modules >= 5.44
+kf5-kcoreaddons-devel >= 5.44
+kf5-rpm-macros
+polkit-qt5-1-devel
+qt5-qtbase-devel
+qt5-qttools-devel

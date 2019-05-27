@@ -1,0 +1,8 @@
+ocaml >= 3.10.2
+ocaml-camlp4-devel
+ocaml-findlib-devel
+ocaml-ocamldoc
+ocaml-ocamlnet-devel
+ocaml-pcre-devel
+ocaml-ulex-devel
+pcre-devel

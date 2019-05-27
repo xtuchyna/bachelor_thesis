@@ -1,0 +1,10 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(Test::More) >= 0.62
+perl(base)
+perl(lib)
+perl(strict)
+perl-generators
+perl-interpreter

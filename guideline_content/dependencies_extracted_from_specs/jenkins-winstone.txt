@@ -1,0 +1,5 @@
+maven-local
+mvn(commons-io:commons-io)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.eclipse.jetty:jetty-servlet:8.1.14.v20131031)
+mvn(org.eclipse.jetty:jetty-webapp:8.1.14.v20131031)

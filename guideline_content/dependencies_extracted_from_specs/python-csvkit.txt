@@ -1,0 +1,17 @@
+python-sphinx-doc
+python2-devel
+python2-sphinx_rtd_theme
+python2dist(agate) >= 1.6.1
+python2dist(agate-dbf) >= 0.2.0
+python2dist(agate-excel) >= 0.2.2
+python2dist(agate-sql) >= 0.5.3
+python2dist(nose)
+python2dist(six) >= 1.6.1
+python2dist(unittest2)
+python3-devel
+python3dist(agate) >= 1.6.0
+python3dist(agate-dbf) >= 0.2.0
+python3dist(agate-excel) >= 0.2.1
+python3dist(agate-sql) >= 0.5.2
+python3dist(nose)
+python3dist(six) >= 1.6.1

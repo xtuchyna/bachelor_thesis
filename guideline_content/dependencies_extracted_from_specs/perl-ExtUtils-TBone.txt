@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(FileHandle)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

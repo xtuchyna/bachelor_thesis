@@ -1,0 +1,9 @@
+/usr/bin/ssh
+LogService-devel >= 2.7.0
+boost-devel >= 1.46.0
+chrpath
+cmake >= 2.8.5
+git
+omniORB-devel >= 4.1.4
+xerces-c-devel >= 3.0
+xqilla-devel

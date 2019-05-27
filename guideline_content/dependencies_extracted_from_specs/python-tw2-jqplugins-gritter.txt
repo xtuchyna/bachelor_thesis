@@ -1,0 +1,6 @@
+python-setuptools
+python-simplejson
+python-tw2-core
+python-tw2-jqplugins-ui
+python-tw2-jquery
+python2-devel

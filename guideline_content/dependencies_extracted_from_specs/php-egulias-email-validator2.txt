@@ -1,0 +1,10 @@
+php(language) >= 5.5
+php-composer(doctrine/lexer) < 2.0
+php-composer(doctrine/lexer) >= 1.0.1
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-dom
+php-filter
+php-intl
+php-pcre
+php-spl

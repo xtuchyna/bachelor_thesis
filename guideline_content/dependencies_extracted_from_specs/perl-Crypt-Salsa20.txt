@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Digest::MD5)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(FindBin)
+perl(Test::More) >= 0.88
+perl(integer)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

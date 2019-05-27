@@ -1,0 +1,34 @@
+desktop-file-utils
+gcc-c++
+gnome-common
+gobject-introspection >= 1.38.0
+intltool
+pkgconfig(cinnamon-desktop) >= 3.6.0
+pkgconfig(cjs-1.0) >= 3.6.1
+pkgconfig(clutter-1.0) >= 1.12.2
+pkgconfig(colord)
+pkgconfig(dbus-glib-1)
+pkgconfig(gconf-2.0)
+pkgconfig(gl)
+pkgconfig(gnome-bluetooth-1.0)
+pkgconfig(gnome-keyring-1)
+pkgconfig(gstreamer-1.0)
+pkgconfig(gtk-doc)
+pkgconfig(gudev-1.0)
+pkgconfig(json-glib-1.0) >= 0.13.2
+pkgconfig(lcms2)
+pkgconfig(libcanberra)
+pkgconfig(libcinnamon-menu-3.0)
+pkgconfig(libcroco-0.6)
+pkgconfig(libgnome-menu-3.0)
+pkgconfig(libmuffin) >= 3.6.0
+pkgconfig(libnm)
+pkgconfig(libnotify)
+pkgconfig(libpulse)
+pkgconfig(librsvg-2.0)
+pkgconfig(libsoup-2.4)
+pkgconfig(libwacom)
+pkgconfig(polkit-agent-1)
+pkgconfig(upower-glib)
+pkgconfig(xorg-wacom)
+pkgconfig(xtst)

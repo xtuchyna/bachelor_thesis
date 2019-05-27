@@ -1,0 +1,14 @@
+apr-devel
+desktop-file-utils
+firebird-devel
+gcc
+gtk2-devel
+libidn-devel
+libssh-devel
+make
+mariadb-connector-c-devel
+openssl-devel
+pcre-devel
+pkgconfig
+postgresql-devel
+subversion-devel

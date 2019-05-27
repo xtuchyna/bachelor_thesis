@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-deepseq-devel
+ghc-primitive-devel
+ghc-rpm-macros
+ghc-vector-devel
+ghc-vector-th-unbox-devel

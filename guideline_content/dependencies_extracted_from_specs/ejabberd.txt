@@ -1,0 +1,34 @@
+autoconf
+automake
+elixir >= 1.4.4
+erlang-cache_tab >= 1.0.12
+erlang-epam >= 1.0.3
+erlang-esip >= 1.0.21
+erlang-ezlib >= 1.0.3
+erlang-fast_tls >= 1.0.20
+erlang-fast_xml >= 1.1.28
+erlang-fast_yaml >= 1.0.12
+erlang-fs >= 2.12.0
+erlang-iconv >= 1.0.6
+erlang-jiffy >= 0.14.8
+erlang-jose >= 1.8.4
+erlang-lager >= 3.4.2
+erlang-luerl >= 0.2
+erlang-meck >= 0.8.4
+erlang-odbc
+erlang-p1_mysql >= 1.0.3
+erlang-p1_oauth2 >= 0.6.2
+erlang-p1_pgsql >= 1.1.3
+erlang-p1_utils >= 1.0.10
+erlang-rebar
+erlang-riak_client
+erlang-sd_notify
+erlang-stringprep >= 1.0.10
+erlang-stun >= 1.0.20
+erlang-xmpp >= 1.1.19
+expat-devel >= 1.95
+git
+libyaml-devel >= 0.1.4
+openssl-devel >= 1.0.0
+pam-devel
+selinux-policy-devel

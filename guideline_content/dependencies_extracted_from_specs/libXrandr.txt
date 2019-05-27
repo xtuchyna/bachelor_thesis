@@ -1,0 +1,9 @@
+autoconf
+automake
+libtool
+pkgconfig(randrproto) >= 1.5.0
+pkgconfig(x11) >= 1.6.0
+pkgconfig(xext)
+pkgconfig(xrender)
+xorg-x11-proto-devel
+xorg-x11-util-macros

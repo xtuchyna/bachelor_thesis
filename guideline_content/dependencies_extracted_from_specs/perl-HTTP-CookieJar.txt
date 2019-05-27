@@ -1,0 +1,20 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(HTTP::Date)
+perl(HTTP::Request)
+perl(HTTP::Response)
+perl(List::Util)
+perl(Mozilla::PublicSuffix)
+perl(Test::Deep)
+perl(Test::More) >= 0.96
+perl(Test::Requires)
+perl(Time::Local)
+perl(URI)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.8.1

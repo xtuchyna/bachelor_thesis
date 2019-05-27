@@ -1,0 +1,11 @@
+perl(Cache)
+perl(Class::ErrorHandler)
+perl(Compress::Zlib)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Filter::Util::Call)
+perl(LWP)
+perl(Storable)
+perl(Test::More)
+perl(Test::RequiresInternet)
+perl(URI)
+perl-generators

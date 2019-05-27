@@ -1,0 +1,10 @@
+ant
+doxygen
+gcc-c++
+graphviz
+java-devel >= 1:1.7.0
+java-javadoc
+javapackages-local
+make
+python2-devel
+python2-setuptools

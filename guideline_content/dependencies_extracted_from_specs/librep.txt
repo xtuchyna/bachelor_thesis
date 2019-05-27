@@ -1,0 +1,9 @@
+autoconf
+chrpath
+emacs
+gdbm-devel
+gmp-devel
+libffi-devel
+libtool
+readline-devel
+texinfo

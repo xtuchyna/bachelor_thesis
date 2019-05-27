@@ -1,0 +1,11 @@
+make
+perl(Dist::CheckConflicts)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(Module::Build::Tiny) >= 0.039
+perl(Module::Runtime)
+perl(Test::More) >= 0.88
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

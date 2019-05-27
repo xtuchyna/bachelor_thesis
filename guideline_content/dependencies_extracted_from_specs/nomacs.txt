@@ -1,0 +1,12 @@
+cmake
+desktop-file-utils
+lcov
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Svg)
+pkgconfig(exiv2) >= 0.20
+pkgconfig(libraw) >= 0.12.0
+pkgconfig(libtiff-4)
+pkgconfig(libwebp)
+pkgconfig(opencv) >= 2.1.0
+qt5-linguist
+quazip-devel

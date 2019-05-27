@@ -1,0 +1,11 @@
+anthy-devel
+desktop-file-utils
+gettext-devel
+glib2-devel
+gobject-introspection-devel
+ibus
+intltool
+libtool
+pkgconfig
+python3-devel
+python3-gobject

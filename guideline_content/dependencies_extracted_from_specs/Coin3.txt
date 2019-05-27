@@ -1,0 +1,10 @@
+/usr/bin/perl
+/usr/bin/rename
+boost-devel
+bzip2-devel
+doxygen
+fontconfig-devel
+freetype-devel
+libGLU-devel
+libXext-devel
+zlib-devel

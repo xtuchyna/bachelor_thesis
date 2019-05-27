@@ -1,0 +1,4 @@
+compiler(go-compiler)
+golang(github.com/jessevdk/go-flags)
+golang(github.com/stretchr/testify/assert)
+golang(gopkg.in/check.v1)

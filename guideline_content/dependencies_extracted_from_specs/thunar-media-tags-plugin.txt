@@ -1,0 +1,7 @@
+Thunar-devel >= 1.6.0
+exo >= 0.5.0
+gettext
+intltool
+libxfce4util-devel >= 4.6.0
+libxml2-devel
+taglib-devel >= 1.4

@@ -1,0 +1,16 @@
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(Getopt::Long)
+perl(Moo)
+perl(Pod::Usage)
+perl(Scalar::Util)
+perl(Test::Builder)
+perl(Test::More) >= 0.96
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(Text::Wrap)
+perl(strict)
+perl(version) >= 0.99.06
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,11 @@
+nodejs-packaging
+npm(async)
+npm(exit)
+npm(getobject)
+npm(grunt-cli)
+npm(grunt-contrib-nodeunit)
+npm(hooker)
+npm(lodash)
+npm(temporary)
+npm(underscore.string)
+npm(which)

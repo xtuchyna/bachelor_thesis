@@ -1,0 +1,12 @@
+ant
+apache-commons-cli
+cortado
+desktop-file-utils
+fontpackages-devel
+java-devel >= 1:1.8.0
+jorbis
+miglayout >= 4.2
+tetex-tex4ht
+tex(latex)
+xml-commons-apis
+xml-commons-resolver

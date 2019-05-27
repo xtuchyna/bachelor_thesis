@@ -1,0 +1,6 @@
+maven-local
+mvn(com.sun.faces:jsf-api)
+mvn(com.sun.faces:jsf-impl)
+mvn(javax.el:el-api)
+mvn(junit:junit)
+mvn(org.apache.bcel:bcel)

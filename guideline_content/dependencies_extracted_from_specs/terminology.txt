@@ -1,0 +1,7 @@
+autoconf
+automake
+desktop-file-utils
+efl-devel
+elementary-devel
+gettext-devel
+libtool

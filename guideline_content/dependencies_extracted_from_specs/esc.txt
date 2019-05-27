@@ -1,0 +1,40 @@
+alsa-lib-devel
+atk-devel
+autoconf213
+binutils
+bzip2-devel
+coolkey-devel
+dbus-devel
+dbus-glib-devel
+desktop-file-utils
+doxygen
+fontconfig-devel
+freetype-devel >= 2.1.9
+glib2-devel
+gtk2-devel
+hunspell-devel
+krb5-devel
+libIDL-devel
+libX11-devel
+libXrender-devel
+libXt-devel
+libcurl-devel
+libffi-devel
+libjpeg-devel
+libnotify-devel >= 0.7.0
+libpng-devel
+libvpx-devel >= 1.0.0
+mesa-libGL-devel
+nspr-devel
+nss-devel
+nss-static
+pango-devel
+pcsc-lite-devel
+pkgconfig
+pkgconfig(gconf-2.0)
+pulseaudio-libs-devel
+sqlite-devel
+startup-notification-devel
+yasm
+zip
+zlib-devel

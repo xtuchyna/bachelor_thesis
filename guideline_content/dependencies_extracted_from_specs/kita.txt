@@ -1,0 +1,7 @@
+automake
+desktop-file-utils
+gettext
+kdelibs3-devel
+libart_lgpl-devel
+libjpeg-devel
+libtool

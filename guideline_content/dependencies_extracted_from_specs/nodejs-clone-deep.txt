@@ -1,0 +1,6 @@
+mocha
+nodejs-packaging
+npm(for-own)
+npm(is-plain-object)
+npm(shallow-clone)
+npm(should)

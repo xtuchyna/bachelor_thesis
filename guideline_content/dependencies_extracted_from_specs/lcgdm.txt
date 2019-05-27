@@ -1,0 +1,21 @@
+CGSI-gSOAP-devel >= 1.3.4.0
+gcc
+globus-common-devel
+globus-ftp-client-devel
+globus-gass-copy-devel
+globus-gsi-callback-devel
+globus-gsi-credential-devel
+globus-gss-assist-devel
+globus-gssapi-gsi-devel
+groff
+gsoap-devel
+imake
+libnsl2-devel
+libuuid-devel
+mariadb-connector-c-devel
+perl-devel
+python-devel
+python3-devel
+swig
+systemd-units
+voms-devel

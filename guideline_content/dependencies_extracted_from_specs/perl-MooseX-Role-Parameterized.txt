@@ -1,0 +1,28 @@
+perl(CPAN::Meta) >= 2.120900
+perl(CPAN::Meta::Check) >= 0.007
+perl(CPAN::Meta::Requirements)
+perl(Carp)
+perl(Data::Dumper)
+perl(File::Spec)
+perl(Module::Build::Tiny)
+perl(Module::Runtime)
+perl(Moose) >= 2.0300
+perl(Moose::Exporter)
+perl(Moose::Meta::Role)
+perl(Moose::Role)
+perl(Moose::Util)
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::Role::WithOverloading)
+perl(Storable)
+perl(Test::Fatal)
+perl(Test::Moose)
+perl(Test::More) >= 0.96
+perl(Test::Requires)
+perl(lib)
+perl(namespace::autoclean)
+perl(namespace::clean)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

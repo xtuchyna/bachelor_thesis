@@ -1,0 +1,8 @@
+cmake
+cups-devel
+desktop-file-utils
+freetype-devel >= 2.1.7
+libXpm-devel
+libpaper-devel
+libpng-devel
+qt5-devel

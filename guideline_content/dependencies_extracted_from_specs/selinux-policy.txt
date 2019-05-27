@@ -1,0 +1,7 @@
+bzip2
+checkpolicy >= 2.7-1
+gawk
+gcc
+m4
+policycoreutils-devel >= 2.7-1
+python3

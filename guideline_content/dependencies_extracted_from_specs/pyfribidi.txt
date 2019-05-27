@@ -1,0 +1,3 @@
+fribidi-devel
+pkgconfig
+python2-devel

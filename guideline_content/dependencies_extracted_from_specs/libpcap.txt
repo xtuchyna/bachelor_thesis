@@ -1,0 +1,5 @@
+bison
+bluez-libs-devel
+flex
+git
+glibc-kernheaders >= 2.2.0

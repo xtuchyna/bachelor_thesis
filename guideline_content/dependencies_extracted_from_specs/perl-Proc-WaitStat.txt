@@ -1,0 +1,3 @@
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IPC::Signal)
+perl-generators

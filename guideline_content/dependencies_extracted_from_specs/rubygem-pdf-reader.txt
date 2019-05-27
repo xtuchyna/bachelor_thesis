@@ -1,0 +1,9 @@
+ruby >= 1.9.3
+ruby(release)
+rubygem(Ascii85)
+rubygem(afm)
+rubygem(hashery)
+rubygem(rspec)
+rubygem(ruby-rc4)
+rubygem(ttfunk)
+rubygems-devel

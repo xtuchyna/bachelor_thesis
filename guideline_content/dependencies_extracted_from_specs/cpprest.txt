@@ -1,0 +1,5 @@
+boost-devel >= 1.55
+cmake >= 3.0
+gcc-c++
+pkgconfig(openssl) >= 1.0
+websocketpp-devel >= 0.5.1

@@ -1,0 +1,2 @@
+libbsd-devel >= 0.7.0
+ncurses-devel

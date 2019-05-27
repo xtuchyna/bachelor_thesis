@@ -1,0 +1,5 @@
+autoconf
+automake
+libibverbs-devel >= 1.2.0
+libtool
+valgrind-devel

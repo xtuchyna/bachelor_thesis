@@ -1,0 +1,5 @@
+libsodium-devel >= 0.6.0
+php-devel > 5.4
+php-json
+php-pear
+pkgconfig

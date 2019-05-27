@@ -1,0 +1,4 @@
+autoconf
+automake
+python2-devel
+swig

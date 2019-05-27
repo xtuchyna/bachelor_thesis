@@ -1,0 +1,5 @@
+ant
+ant-apache-regexp
+java-devel >= 1.7
+javapackages-local
+urw-fonts

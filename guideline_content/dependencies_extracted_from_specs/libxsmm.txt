@@ -1,0 +1,4 @@
+gcc-c++
+gcc-gfortran
+openblas-devel
+python

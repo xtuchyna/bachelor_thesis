@@ -1,0 +1,11 @@
+GConf2-devel
+desktop-file-utils
+gettext
+gnome-common
+gtk2-devel
+intltool
+perl(XML::Parser)
+pygtk2-devel >= 2.10
+python-devel
+python-keybinder
+vte

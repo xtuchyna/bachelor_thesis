@@ -1,0 +1,4 @@
+desktop-file-utils
+libappstream-glib
+po4a
+qt5-qttools-devel

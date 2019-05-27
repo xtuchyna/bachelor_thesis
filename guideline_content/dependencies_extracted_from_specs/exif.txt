@@ -1,0 +1,2 @@
+libexif-devel
+popt-devel

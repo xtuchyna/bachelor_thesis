@@ -1,0 +1,10 @@
+/usr/bin/2to3
+python2-devel >= 2.7
+python2-html5lib
+python2-lxml
+python2-setuptools
+python2-tools
+python3-devel
+python3-html5lib
+python3-lxml
+python3-setuptools

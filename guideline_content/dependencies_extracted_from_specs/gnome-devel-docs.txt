@@ -1,0 +1,4 @@
+docbook-utils
+gettext
+itstool
+yelp-tools

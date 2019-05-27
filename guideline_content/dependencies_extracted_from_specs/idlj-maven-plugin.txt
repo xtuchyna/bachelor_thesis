@@ -1,0 +1,8 @@
+maven-local
+mvn(avalon-logkit:avalon-logkit)
+mvn(junit:junit)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.codehaus.mojo:mojo-parent:pom:)
+mvn(org.codehaus.plexus:plexus-compiler-api)
+mvn(org.codehaus.plexus:plexus-utils)
+mvn(org.jacorb:jacorb-idl-compiler)

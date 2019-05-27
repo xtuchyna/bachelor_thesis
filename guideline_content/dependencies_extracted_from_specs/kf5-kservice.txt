@@ -1,0 +1,11 @@
+bison
+extra-cmake-modules >= 5.44.0
+flex
+kf5-kconfig-devel >= 5.44.0
+kf5-kcoreaddons-devel >= 5.44.0
+kf5-kcrash-devel >= 5.44.0
+kf5-kdbusaddons-devel >= 5.44.0
+kf5-kdoctools-devel >= 5.44.0
+kf5-ki18n-devel >= 5.44.0
+kf5-rpm-macros >= 5.44.0
+qt5-qtbase-devel

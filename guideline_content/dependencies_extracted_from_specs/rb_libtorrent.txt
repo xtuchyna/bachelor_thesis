@@ -1,0 +1,15 @@
+asio-devel
+automake
+boost-devel
+boost-python3-devel
+chrpath
+libtommath-devel
+libtool
+pkgconfig(python2)
+pkgconfig(python3)
+pkgconfig(zlib)
+python2-devel
+python2-setuptools
+python3-devel
+python3-setuptools
+util-linux

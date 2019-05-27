@@ -1,0 +1,11 @@
+efivar-devel >= 34-1
+elfutils
+gettext
+git
+gnu-efi >= 3.0.5-11
+gnu-efi-devel >= 3.0.5-11
+libabigail
+pesign
+pkgconfig
+popt-devel
+systemd

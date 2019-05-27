@@ -1,0 +1,12 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(List::Util)
+perl(Storable)
+perl(Test::More) >= 0.88
+perl(Test::Most) >= 0.11
+perl(Time::HiRes)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

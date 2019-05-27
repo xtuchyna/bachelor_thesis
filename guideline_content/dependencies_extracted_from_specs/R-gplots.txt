@@ -1,0 +1,9 @@
+R-KernSmooth
+R-MASS
+R-caTools
+R-devel
+R-gdata
+R-grid
+R-gtools
+R-stats
+tex(latex)

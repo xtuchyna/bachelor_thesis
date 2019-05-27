@@ -1,0 +1,11 @@
+autoconf
+automake
+kernel-headers >= 2.6.27-0.308
+libdrm-devel >= 2.4.33-1
+libtool
+libudev-devel
+mesa-libGL-devel >= 6.4-4
+pkgconfig
+xorg-x11-glamor-devel
+xorg-x11-server-devel >= 1.10.99.902
+xorg-x11-util-macros >= 1.1.5

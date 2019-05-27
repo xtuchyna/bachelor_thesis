@@ -1,0 +1,7 @@
+desktop-file-utils
+fdupes
+gobject-introspection-devel
+intltool
+pkgconfig(compiz) >= 0.8.14
+pkgconfig(libcompizconfig) >= 0.8.14
+python3-devel

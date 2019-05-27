@@ -1,0 +1,12 @@
+OpenSceneGraph = 3.4.1
+OpenSceneGraph-devel
+OpenSceneGraph-qt-devel
+cmake
+gcc-c++
+gdal-devel
+geos-devel
+libcurl-devel
+make
+python-sphinx
+qt4-devel
+tinyxml-devel

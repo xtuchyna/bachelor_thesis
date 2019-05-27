@@ -1,0 +1,2 @@
+adns-devel >= 1.2
+python2-devel

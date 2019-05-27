@@ -1,0 +1,8 @@
+perl(ExtUtils::MakeMaker)
+perl(HTML::TreeBuilder)
+perl(HTTP::Request::Common)
+perl(URI::URL)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

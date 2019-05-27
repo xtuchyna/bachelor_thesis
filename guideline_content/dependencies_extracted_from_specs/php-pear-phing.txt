@@ -1,0 +1,4 @@
+dos2unix
+php(language) >= 5.2.0
+php-channel(pear.phing.info)
+php-pear(PEAR) >= 1.8.0

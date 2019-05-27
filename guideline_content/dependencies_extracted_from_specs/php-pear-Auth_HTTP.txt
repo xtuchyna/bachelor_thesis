@@ -1,0 +1,2 @@
+php-pear
+php-pear(Auth) >= 1.2.0

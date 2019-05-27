@@ -1,0 +1,28 @@
+coreutils
+findutils
+gcc
+make
+perl(Class::Struct)
+perl(Data::Dumper)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(Module::Install::AuthorTests)
+perl(Module::Install::Repository)
+perl(Test::Builder::Module)
+perl(Test::More) >= 0.62
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::Spellunker)
+perl(Test::Synopsis)
+perl(Test::Valgrind)
+perl(XSLoader)
+perl(autouse)
+perl(constant)
+perl(inc::Module::Install)
+perl(strict)
+perl(threads)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

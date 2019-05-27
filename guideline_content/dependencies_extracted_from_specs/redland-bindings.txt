@@ -1,0 +1,12 @@
+autoconf
+automake
+perl(ExtUtils::MakeMaker)
+perl-devel
+perl-generators
+php-devel >= 7
+python2-devel
+redland-devel >= 1.0.15
+ruby
+ruby-devel
+rubygem(test-unit)
+swig

@@ -1,0 +1,11 @@
+maven-local
+mvn(commons-codec:commons-codec)
+mvn(junit:junit)
+mvn(net.jcip:jcip-annotations)
+mvn(org.antlr:ST4)
+mvn(org.apache.ant:ant)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven:maven-core)
+mvn(org.apache.maven:maven-plugin-api)

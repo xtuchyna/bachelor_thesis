@@ -1,0 +1,8 @@
+perl(Config::INI::Reader)
+perl(Config::MVP) >= 2
+perl(Config::MVP::Reader)
+perl(Config::MVP::Reader::Findable::ByExtension)
+perl(ExtUtils::MakeMaker)
+perl(Moose)
+perl(Test::More)
+perl-generators

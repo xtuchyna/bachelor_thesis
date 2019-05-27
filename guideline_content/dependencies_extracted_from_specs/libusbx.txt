@@ -1,0 +1,3 @@
+doxygen
+libtool
+systemd-devel

@@ -1,0 +1,9 @@
+doxygen-latex
+erlang
+perl-generators
+python-devel
+python-sphinx
+texlive-framed
+texlive-threeparttable
+texlive-titlesec
+texlive-wrapfig

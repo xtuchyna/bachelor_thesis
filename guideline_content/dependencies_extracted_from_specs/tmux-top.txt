@@ -1,0 +1,3 @@
+compiler(golang)
+golang(github.com/urfave/cli)
+make

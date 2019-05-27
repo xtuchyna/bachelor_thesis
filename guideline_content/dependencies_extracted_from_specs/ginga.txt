@@ -1,0 +1,17 @@
+desktop-file-utils
+fontpackages-devel
+google-roboto-fonts
+python2-QtPy
+python2-astropy
+python2-astropy-helpers
+python2-devel
+python2-matplotlib-qt5
+python2-qt5
+python2-scipy
+python3-QtPy
+python3-astropy
+python3-astropy-helpers
+python3-devel
+python3-matplotlib-qt5
+python3-qt5
+python3-scipy

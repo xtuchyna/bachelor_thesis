@@ -1,0 +1,7 @@
+libutempter-devel
+ncurses-devel
+openssl-devel
+perl-generators
+protobuf-compiler
+protobuf-devel
+zlib-devel

@@ -1,0 +1,25 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Getopt::Long)
+perl(Math::BigFloat)
+perl(Math::BigInt)
+perl(Scalar::Util) >= 1.08
+perl(Test::More)
+perl(Tie::Array)
+perl(Tie::Hash)
+perl(Tie::IxHash)
+perl(bytes)
+perl(constant)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,6 @@
+mpich-devel
+netcdf-devel
+netcdf-mpich-devel
+netcdf-openmpi-devel
+openmpi-devel
+openssh-clients

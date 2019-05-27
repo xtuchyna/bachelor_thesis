@@ -1,0 +1,8 @@
+gcc
+intltool
+perl(IO::Compress::Gzip)
+pkgconfig(gtk+-3.0) >= 3.8.7
+pkgconfig(lasem-0.4) >= 0.4.1
+pkgconfig(libgsf-1) >= 1.14.24
+pkgconfig(librsvg-2.0) >= 2.22.0
+pkgconfig(libxslt)

@@ -1,0 +1,19 @@
+findutils
+gcc
+make
+perl(Carp)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Temp)
+perl(Language::Prolog::Sugar) >= 0.03
+perl(Language::Prolog::Types) >= 0.09
+perl(Language::Prolog::Types::Converter)
+perl(Language::Prolog::Types::overload)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+pl-devel >= 7

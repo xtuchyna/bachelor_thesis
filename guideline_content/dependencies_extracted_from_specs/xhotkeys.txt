@@ -1,0 +1,3 @@
+ImageMagick
+desktop-file-utils
+python-xlib

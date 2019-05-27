@@ -1,0 +1,6 @@
+gcc
+libffi-devel
+ruby(release)
+ruby-devel
+rubygem(rspec)
+rubygems-devel

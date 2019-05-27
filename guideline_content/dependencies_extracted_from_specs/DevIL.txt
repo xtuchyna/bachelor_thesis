@@ -1,0 +1,10 @@
+SDL-devel >= 1.2.5
+allegro-devel
+jasper-devel
+libGLU-devel
+libICE-devel
+libXext-devel
+libjpeg-devel
+libmng-devel
+libpng-devel
+libtiff-devel

@@ -1,0 +1,5 @@
+cmake
+doxygen
+nodejs-less
+python2-breathe
+python2-sphinx

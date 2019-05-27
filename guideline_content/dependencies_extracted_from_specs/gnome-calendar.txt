@@ -1,0 +1,17 @@
+/usr/bin/appstream-util
+desktop-file-utils
+gettext
+gtk-doc
+meson
+pkgconfig(geocode-glib-1.0)
+pkgconfig(gio-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(gsettings-desktop-schemas) >= 3.21.2
+pkgconfig(gtk+-3.0) >= 3.21.6
+pkgconfig(gweather-3.0)
+pkgconfig(libdazzle-1.0)
+pkgconfig(libecal-1.2)
+pkgconfig(libedataserver-1.2) >= 3.17.1
+pkgconfig(libgeoclue-2.0)
+pkgconfig(libical) >= 1.0-9
+pkgconfig(libsoup-2.4)

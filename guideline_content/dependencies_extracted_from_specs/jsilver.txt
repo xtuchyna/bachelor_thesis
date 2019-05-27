@@ -1,0 +1,4 @@
+exec-maven-plugin
+maven-antrun-plugin
+maven-local
+sablecc

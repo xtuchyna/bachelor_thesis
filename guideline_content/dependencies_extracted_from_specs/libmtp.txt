@@ -1,0 +1,4 @@
+chrpath
+doxygen
+libgcrypt-devel
+libusbx-devel

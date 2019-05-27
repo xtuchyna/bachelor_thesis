@@ -1,0 +1,7 @@
+doxygen
+kernel-headers
+libX11-devel
+libXv-devel
+libraw1394-devel
+libusb1-devel
+perl-interpreter

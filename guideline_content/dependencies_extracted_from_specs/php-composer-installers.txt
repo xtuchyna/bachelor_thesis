@@ -1,0 +1,8 @@
+php(language) >= 5.3.0
+php-composer(composer-plugin-api) >= 1.0
+php-composer(composer/composer) < 2.0
+php-composer(composer/composer) >= 1.0
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-pcre
+php-spl

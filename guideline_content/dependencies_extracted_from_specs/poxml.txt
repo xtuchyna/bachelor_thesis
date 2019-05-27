@@ -1,0 +1,6 @@
+extra-cmake-modules
+gettext-devel
+kf5-kdoctools-devel
+kf5-rpm-macros
+pkgconfig(Qt5Xml)
+pkgconfig(libxslt)

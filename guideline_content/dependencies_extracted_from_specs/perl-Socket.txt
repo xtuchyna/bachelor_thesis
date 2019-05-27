@@ -1,0 +1,18 @@
+findutils
+gcc
+make
+perl(Carp)
+perl(Config)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::CBuilder)
+perl(ExtUtils::Constant) >= 0.23
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl(warnings::register)
+perl-devel
+perl-generators
+perl-interpreter

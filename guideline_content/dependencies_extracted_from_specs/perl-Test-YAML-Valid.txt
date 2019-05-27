@@ -1,0 +1,12 @@
+perl(CPAN)
+perl(ExtUtils::MakeMaker)
+perl(Test::Builder)
+perl(Test::Builder::Tester)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(YAML) >= 0.60
+perl(YAML::Syck)
+perl(YAML::Tiny)
+perl(YAML::XS)
+perl-generators

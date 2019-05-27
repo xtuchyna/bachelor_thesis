@@ -1,0 +1,11 @@
+bison
+gcc
+ghostscript
+git
+grep
+libsigsegv-devel
+mpfr-devel
+readline-devel
+texinfo-tex
+texlive-cm-super
+texlive-ec

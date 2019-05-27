@@ -1,0 +1,30 @@
+audit-libs-devel >= 1.0.6
+autoconf
+automake
+dconf
+desktop-file-utils >= 0.2.90
+gettext
+git
+intltool
+keyutils-libs-devel
+libXdmcp-devel
+libattr-devel
+libdmx-devel
+libtool
+nss-devel >= 3.11.1
+pam-devel >= 0.99.8.1-11
+pkgconfig(accountsservice) >= 0.6.3
+pkgconfig(check)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gtk+-3.0) >= 2.99.2
+pkgconfig(iso-codes)
+pkgconfig(libcanberra-gtk3)
+pkgconfig(libselinux)
+pkgconfig(libsystemd)
+pkgconfig(ply-boot-client)
+pkgconfig(systemd)
+pkgconfig(x11)
+pkgconfig(xau)
+pkgconfig(xorg-server)
+systemd
+xorg-x11-server-Xorg

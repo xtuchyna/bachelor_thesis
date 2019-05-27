@@ -1,0 +1,4 @@
+R-devel
+R-grid
+R-testthat
+tex(latex)

@@ -1,0 +1,26 @@
+autoconf
+bluez-libs-devel
+bzip2
+bzip2-devel
+compat-openssl10-devel
+expat-devel >= 2.1.0
+findutils
+gcc-c++
+gdbm-devel
+glibc-devel
+gmp-devel
+libGL-devel
+libX11-devel
+libffi-devel
+ncurses-devel
+pkgconfig
+readline-devel
+sqlite-devel
+systemtap-sdt-devel
+tar
+tcl-devel
+tix-devel
+tk-devel
+valgrind-devel
+xz-devel
+zlib-devel

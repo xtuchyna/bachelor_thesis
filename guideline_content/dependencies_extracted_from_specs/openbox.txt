@@ -1,0 +1,12 @@
+desktop-file-utils
+gcc
+gettext
+imlib2-devel
+libXcursor-devel
+libXinerama-devel
+libXrandr-devel
+libXt-devel
+libpng-devel
+libxml2-devel
+pango-devel
+startup-notification-devel

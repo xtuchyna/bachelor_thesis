@@ -1,0 +1,11 @@
+composer
+php(language) >= 5.3.3
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit) >= 4.8.22
+php-curl
+php-date
+php-filter
+php-json
+php-mbstring
+php-pcre
+php-spl

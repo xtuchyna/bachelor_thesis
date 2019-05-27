@@ -1,0 +1,13 @@
+desktop-file-utils
+gettext
+hunspell-devel
+poppler-qt5-devel
+qt5-qtbase-devel
+qt5-qtscript-devel
+qt5-qtsvg-devel
+qt5-qttools-devel
+qt5-qttools-static
+qtsingleapplication-qt5-devel
+qtsinglecoreapplication-qt5-devel
+quazip-qt5-devel
+zlib-devel

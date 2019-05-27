@@ -1,0 +1,8 @@
+apr-devel
+autoconf
+automake
+gcc
+java-devel
+jpackage-utils
+make
+openssl-devel

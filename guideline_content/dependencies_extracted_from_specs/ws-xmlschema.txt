@@ -1,0 +1,6 @@
+maven-local
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-assembly-plugin)
+mvn(org.apache.maven.plugins:maven-remote-resources-plugin)
+mvn(org.apache:apache-jar-resource-bundle)
+mvn(org.apache:apache:pom:)

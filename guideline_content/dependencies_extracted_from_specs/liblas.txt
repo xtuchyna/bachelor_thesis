@@ -1,0 +1,5 @@
+boost-devel >= 1.53
+cmake
+gdal-devel
+laszip-devel
+libgeotiff-devel

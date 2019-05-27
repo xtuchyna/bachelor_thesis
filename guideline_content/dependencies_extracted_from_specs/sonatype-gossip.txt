@@ -1,0 +1,8 @@
+maven-local
+mvn(com.mycila.maven-license-plugin:maven-license-plugin)
+mvn(junit:junit)
+mvn(org.apache.maven.plugins:maven-release-plugin)
+mvn(org.codehaus.modello:modello-maven-plugin)
+mvn(org.fusesource.jansi:jansi)
+mvn(org.slf4j:slf4j-api)
+mvn(org.sonatype.forge:forge-parent:pom:)

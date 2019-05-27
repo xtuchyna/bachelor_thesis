@@ -1,0 +1,21 @@
+SDL_mixer-devel
+aspell-devel
+attica-devel
+cmake >= 2.6
+dbusmenu-qt-devel
+desktop-file-utils
+dos2unix
+doxygen
+hunspell-devel
+jreen-devel >= 1.1.0
+kdelibs-devel
+libXScrnSaver-devel
+libidn-devel
+libotr-devel
+libpurple-devel
+libqxt-devel
+phonon-devel
+qca2-devel
+qt-devel >= 1:4.7.1
+qt-mobility-devel
+qt-webkit-devel

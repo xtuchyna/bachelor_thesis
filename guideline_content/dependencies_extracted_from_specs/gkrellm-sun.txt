@@ -1,0 +1,2 @@
+gkrellm-devel >= 2.2.0
+libappstream-glib

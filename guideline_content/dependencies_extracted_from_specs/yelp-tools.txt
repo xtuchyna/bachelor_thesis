@@ -1,0 +1,3 @@
+itstool
+libxslt
+pkgconfig(yelp-xsl)

@@ -1,0 +1,12 @@
+maven-local
+mvn(commons-io:commons-io)
+mvn(junit:junit)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)
+mvn(org.apache.maven.shared:maven-shared-utils)
+mvn(org.apache.maven:maven-artifact)
+mvn(org.apache.maven:maven-core)
+mvn(org.apache.maven:maven-model)
+mvn(org.assertj:assertj-core)
+mvn(org.codehaus.plexus:plexus-archiver)
+mvn(org.codehaus.plexus:plexus-interpolation)
+mvn(org.codehaus.plexus:plexus-utils)

@@ -1,0 +1,9 @@
+alsa-lib-devel
+cmake3
+desktop-file-utils
+doxygen
+gettext
+graphviz
+gtk3-devel
+libnotify-devel
+ninja-build

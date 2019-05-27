@@ -1,0 +1,23 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Crypt::Random::Seed)
+perl(Data::Dumper)
+perl(English)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(List::Util)
+perl(MIME::Base64)
+perl(MIME::QuotedPrint) >= 3.03
+perl(Math::Random::ISAAC)
+perl(Scalar::Util) >= 1.21
+perl(Statistics::Basic)
+perl(Test::More) >= 0.98
+perl(Test::Warn)
+perl(Time::HiRes)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

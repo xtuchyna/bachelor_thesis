@@ -1,0 +1,5 @@
+chrpath
+fedora-gnat-project-common >= 2
+gcc-gnat
+gprbuild
+zeromq-devel >= 2.1

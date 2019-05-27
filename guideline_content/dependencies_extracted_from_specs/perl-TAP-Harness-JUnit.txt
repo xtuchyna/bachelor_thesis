@@ -1,0 +1,11 @@
+perl(Encode)
+perl(File::Temp)
+perl(Module::Build)
+perl(Scalar::Util)
+perl(TAP::Harness)
+perl(TAP::Harness) >= 3.05
+perl(TAP::Parser)
+perl(Test::Deep)
+perl(Test::More)
+perl(XML::Simple)
+perl-generators

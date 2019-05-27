@@ -1,0 +1,6 @@
+glassfish-jax-rs-api >= 2.0-2
+junit
+jvnet-parent
+maven-local
+maven-plugin-bundle
+spec-version-maven-plugin

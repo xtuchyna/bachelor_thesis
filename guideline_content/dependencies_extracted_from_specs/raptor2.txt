@@ -1,0 +1,5 @@
+curl-devel
+gtk-doc
+libicu-devel
+pkgconfig(libxslt)
+yajl-devel

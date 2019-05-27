@@ -1,0 +1,2 @@
+nodejs-packaging >= 6
+npm(tape)

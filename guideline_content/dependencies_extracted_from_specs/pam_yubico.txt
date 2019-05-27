@@ -1,0 +1,6 @@
+automake
+libyubikey-devel >= 1.5
+openldap-devel
+pam-devel
+ykclient-devel >= 2.15
+ykpers-devel

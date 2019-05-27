@@ -1,0 +1,7 @@
+perl(Catalyst::Runtime) >= 5.7
+perl(MRO::Compat)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

@@ -1,0 +1,7 @@
+ghc-Cabal-devel
+ghc-binary-devel
+ghc-bytestring-devel
+ghc-deepseq-devel
+ghc-hashable-devel
+ghc-rpm-macros
+ghc-text-devel

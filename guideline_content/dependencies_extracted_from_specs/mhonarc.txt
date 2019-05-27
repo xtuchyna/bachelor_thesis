@@ -1,0 +1,12 @@
+coreutils
+perl(Config)
+perl(Fcntl)
+perl(File::Basename)
+perl(FileHandle)
+perl(Getopt::Long)
+perl(Symbol)
+perl(Time::Local)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

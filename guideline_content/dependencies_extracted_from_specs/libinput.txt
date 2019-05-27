@@ -1,0 +1,8 @@
+gcc
+gcc-c++
+git-core
+meson
+pkgconfig(libevdev) >= 0.4
+pkgconfig(libudev)
+pkgconfig(libwacom) >= 0.20
+pkgconfig(mtdev) >= 1.1.0

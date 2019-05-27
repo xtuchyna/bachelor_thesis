@@ -1,0 +1,5 @@
+cmake
+fcitx-devel
+gettext
+intltool
+m17n-lib-devel

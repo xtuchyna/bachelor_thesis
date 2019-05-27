@@ -1,0 +1,22 @@
+findutils
+font(:lang=en)
+gcc
+make
+perl(Cwd)
+perl(DynaLoader)
+perl(ExtUtils::Depends) >= 0.200
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::PkgConfig) >= 1.03
+perl(File::Spec)
+perl(Glib) >= 1.040
+perl(Glib::MakeHelper)
+perl(Gtk2) >= 1.040
+perl(Gtk2::CodeGen)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig(libgnomecanvas-2.0) >= 2.0.0
+xorg-x11-server-Xvfb

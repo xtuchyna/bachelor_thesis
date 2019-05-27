@@ -1,0 +1,9 @@
+docbook-style-xsl
+gcc
+glib2-devel >= 2.14
+gnutls-devel
+libotr-devel >= 4.0
+libpurple-devel
+libxslt
+pkgconfig(systemd)
+python3-devel

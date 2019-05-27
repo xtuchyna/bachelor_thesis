@@ -1,0 +1,11 @@
+perl(Exporter)
+perl(File::Temp)
+perl(HTTP::Tiny)
+perl(Module::Build)
+perl(Test::More)
+perl(Tie::File)
+perl(URI::_idna)
+perl(open)
+perl-generators
+perl-interpreter >= 5.008
+publicsuffix-list

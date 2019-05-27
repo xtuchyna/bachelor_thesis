@@ -1,0 +1,17 @@
+python3-arrow
+python3-datanommer-models
+python3-devel
+python3-docutils
+python3-fedmsg-core
+python3-fedmsg-meta-fedora-infrastructure
+python3-flask
+python3-flask-sqlalchemy
+python3-freezegun
+python3-mock
+python3-nose
+python3-pygal
+python3-setuptools
+python3-sphinx
+python3-sqlalchemy
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

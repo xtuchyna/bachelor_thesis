@@ -1,0 +1,8 @@
+ImageMagick
+hardlink
+kde-filesystem
+libicns-utils
+netpbm-progs
+optipng
+syslinux-perl
+zopfli

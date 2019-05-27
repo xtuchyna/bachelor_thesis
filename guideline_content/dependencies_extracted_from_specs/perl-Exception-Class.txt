@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(CPAN::Meta) >= 2.120900
+perl(CPAN::Meta::Prereqs)
+perl(Class::Data::Inheritable) >= 0.02
+perl(Devel::StackTrace) >= 2.00
+perl(ExtUtils::MakeMaker) >= 6.75
+perl(File::Spec)
+perl(Scalar::Util)
+perl(Test::More) >= 0.96
+perl(base)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

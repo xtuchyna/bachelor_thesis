@@ -1,0 +1,11 @@
+alsa-lib-devel
+desktop-file-utils
+fftw3-devel
+freeglut-devel
+gcc-c++
+jack-audio-connection-kit-devel
+libXi-devel
+libXmu-devel
+libappstream-glib
+portaudio-devel
+qt4-devel

@@ -1,0 +1,12 @@
+coreutils
+findutils
+make
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(autobox)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

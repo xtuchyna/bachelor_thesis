@@ -1,0 +1,10 @@
+perl(Data::Dumper)
+perl(Exporter)
+perl(Module::Install::Metadata)
+perl(Test::More) >= 0.96
+perl(XSLoader)
+perl(base)
+perl(constant)
+perl(inc::Module::Install)
+perl-devel
+perl-generators

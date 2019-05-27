@@ -1,0 +1,16 @@
+/usr/bin/awk
+GeoIP-devel
+autoconf
+automake
+bzip2-devel
+compat-lua-devel
+gamin-devel
+gdbm-devel
+libattr-devel
+libtool
+mariadb-connector-c-devel
+openldap-devel
+openssl-devel
+pcre-devel
+systemd
+zlib-devel

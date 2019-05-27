@@ -1,0 +1,8 @@
+boost-devel
+doxygen
+help2man
+pkgconfig(cppunit)
+pkgconfig(icu-uc)
+pkgconfig(libpng)
+pkgconfig(librevenge-0.0)
+pkgconfig(zlib)

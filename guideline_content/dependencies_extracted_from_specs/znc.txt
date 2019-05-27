@@ -1,0 +1,14 @@
+automake
+c-ares-devel
+cyrus-sasl-devel
+gettext-devel
+libicu-devel
+openssl-devel >= 0.9.8
+perl(ExtUtils::Embed)
+perl-devel
+perl-generators
+pkgconfig
+python3-devel
+swig
+systemd
+tcl-devel

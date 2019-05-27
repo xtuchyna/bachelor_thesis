@@ -1,0 +1,3 @@
+caledonia-kde-theme
+kde-filesystem
+spherical-cow-kde-theme

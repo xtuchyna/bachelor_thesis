@@ -1,0 +1,14 @@
+perl(Digest::MD5)
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(File::Slurp) >= 9999.08
+perl(FindBin)
+perl(HTML::Tidy)
+perl(List::MoreUtils)
+perl(Test::Differences)
+perl(Test::Exception)
+perl(Test::More) >= 0.42
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Text::Balanced)
+perl-generators

@@ -1,0 +1,11 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Temp)
+perl(POE::Filter)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

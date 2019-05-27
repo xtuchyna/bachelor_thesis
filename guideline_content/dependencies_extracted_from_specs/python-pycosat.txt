@@ -1,0 +1,5 @@
+picosat-devel
+pytest
+python2-devel
+python3-devel
+python3-pytest

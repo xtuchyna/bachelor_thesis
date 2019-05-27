@@ -1,0 +1,7 @@
+SDL_image-devel
+SDL_mixer-devel
+curl-devel
+desktop-file-utils
+libpng-devel
+libtool
+tinyxml-devel

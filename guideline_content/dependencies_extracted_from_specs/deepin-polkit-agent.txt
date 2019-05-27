@@ -1,0 +1,7 @@
+pkgconfig(Qt5)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Gui)
+pkgconfig(dframeworkdbus)
+pkgconfig(dtkwidget) >= 2.0
+pkgconfig(polkit-qt5-1)
+qt5-linguist

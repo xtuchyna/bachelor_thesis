@@ -1,0 +1,4 @@
+rubygem(cucumber)
+rubygem(multi_json)
+rubygem(rspec)
+rubygems-devel

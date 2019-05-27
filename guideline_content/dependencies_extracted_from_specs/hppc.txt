@@ -1,0 +1,13 @@
+maven-local
+mvn(com.google.guava:guava)
+mvn(commons-io:commons-io)
+mvn(org.antlr:antlr4)
+mvn(org.antlr:antlr4-maven-plugin)
+mvn(org.apache.ant:ant)
+mvn(org.apache.ant:ant-junit)
+mvn(org.apache.maven.plugin-tools:maven-plugin-annotations)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven:maven-core)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.apache.velocity:velocity)
+mvn(org.sonatype.oss:oss-parent:pom:)

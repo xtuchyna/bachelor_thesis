@@ -1,0 +1,7 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-rpm-macros
+ghc-text-devel
+pkgconfig(glib-2.0)
+pkgconfig(gobject-2.0)

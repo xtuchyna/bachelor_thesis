@@ -1,0 +1,5 @@
+perl(AnyEvent::Util)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(common::sense)
+perl-generators

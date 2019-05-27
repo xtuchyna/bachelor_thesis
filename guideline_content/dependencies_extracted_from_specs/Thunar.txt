@@ -1,0 +1,17 @@
+desktop-file-utils >= 0.7
+freetype-devel
+gcc-c++
+gettext
+intltool
+libICE-devel
+libpng-devel >= 2:1.2.2-16
+pkgconfig
+pkgconfig(dbus-glib-1) >= 0.34
+pkgconfig(exo-1) >= 0.8.0
+pkgconfig(gudev-1.0) >= 145
+pkgconfig(libexif) >= 0.6.0
+pkgconfig(libnotify) >= 0.4.0
+pkgconfig(libpcre) >= 6.0
+pkgconfig(libstartup-notification-1.0) >= 0.4
+pkgconfig(libxfce4panel-1.0) >= 4.9.0
+pkgconfig(libxfce4ui-1) >= 4.9.0

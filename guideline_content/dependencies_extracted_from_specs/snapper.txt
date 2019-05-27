@@ -1,0 +1,16 @@
+autoconf
+automake
+boost-devel
+btrfs-progs-devel >= 3.12
+dbus-devel
+docbook-style-xsl
+e2fsprogs-devel
+gcc-c++
+gettext
+libacl-devel
+libmount-devel >= 2.24
+libselinux-devel
+libtool
+libxml2-devel
+libxslt
+pam-devel

@@ -1,0 +1,11 @@
+make
+perl(:VERSION) >= 5.5.0
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IO::File)
+perl(UNIVERSAL)
+perl(XML::Parser) >= 2.19
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

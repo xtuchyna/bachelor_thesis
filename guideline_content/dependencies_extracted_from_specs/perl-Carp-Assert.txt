@@ -1,0 +1,9 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Pod::Tests)
+perl(Test::More) >= 0.4
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

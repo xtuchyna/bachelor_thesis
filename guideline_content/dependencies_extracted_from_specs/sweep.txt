@@ -1,0 +1,10 @@
+alsa-lib-devel
+desktop-file-utils
+gtk2-devel
+libmad-devel
+libogg-devel
+libsamplerate-devel
+libsndfile-devel
+libvorbis-devel
+sed
+speex-devel

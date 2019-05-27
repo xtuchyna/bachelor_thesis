@@ -1,0 +1,7 @@
+cmake(KF5Notifications)
+cmake(KF5Wallet)
+gcc-c++
+libgcrypt-devel
+pkgconfig(libsecret-1)
+pkgconfig(lxqt)
+qt5-linguist

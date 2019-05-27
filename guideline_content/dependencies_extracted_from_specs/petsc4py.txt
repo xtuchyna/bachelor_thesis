@@ -1,0 +1,14 @@
+Cython
+hdf5-mpich-devel
+hdf5-openmpi-devel
+numpy
+petsc-mpich-devel >= 3.8.1
+petsc-openmpi-devel >= 3.8.1
+ptscotch-mpich-devel
+ptscotch-openmpi-devel
+python2-devel
+python3-Cython
+python3-devel
+python3-numpy
+scalapack-mpich-devel
+scalapack-openmpi-devel

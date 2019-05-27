@@ -1,0 +1,9 @@
+dbus-devel
+gettext
+glib2-devel
+gobject-introspection-devel
+gtk-doc
+libXi-devel
+libXtst-devel
+meson
+systemd

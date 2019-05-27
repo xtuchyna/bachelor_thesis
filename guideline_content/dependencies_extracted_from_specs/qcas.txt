@@ -1,0 +1,8 @@
+desktop-file-utils
+gcc-c++
+giac-devel
+gmp-devel
+libappstream-glib
+qt-devel
+qt5-qtbase-devel
+qt5-qtsvg-devel

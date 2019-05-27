@@ -1,0 +1,10 @@
+perl(Module::Build)
+perl(Pod::Simple) >= 3.00
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

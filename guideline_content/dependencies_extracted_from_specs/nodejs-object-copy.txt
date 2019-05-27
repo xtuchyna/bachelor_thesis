@@ -1,0 +1,5 @@
+mocha
+nodejs-packaging
+npm(copy-descriptor)
+npm(define-property)
+npm(kind-of)

@@ -1,0 +1,18 @@
+/usr/bin/make
+perl(Convert::ASN1)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::testlib)
+perl(Net::LDAP)
+perl(Net::LDAP::ASN)
+perl(Net::LDAP::Constant)
+perl(Net::LDAP::Entry)
+perl(Test)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(fields)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

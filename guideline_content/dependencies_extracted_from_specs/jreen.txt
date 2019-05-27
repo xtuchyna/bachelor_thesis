@@ -1,0 +1,8 @@
+cmake
+libidn-devel
+pkgconfig(Qt5Network)
+pkgconfig(QtNetwork)
+pkgconfig(libgsasl)
+pkgconfig(qjdns)
+pkgconfig(speex)
+zlib-devel

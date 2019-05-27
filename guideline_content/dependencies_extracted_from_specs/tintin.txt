@@ -1,0 +1,12 @@
+bash
+binutils
+coreutils
+findutils
+gcc
+gnutls-devel
+hostname
+make
+ncurses-devel
+pcre-devel
+sed
+zlib-devel

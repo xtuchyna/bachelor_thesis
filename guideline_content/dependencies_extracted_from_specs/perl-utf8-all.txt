@@ -1,0 +1,33 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Import::Into)
+perl(PerlIO)
+perl(PerlIO::utf8_strict)
+perl(Symbol)
+perl(Test::Exception)
+perl(Test::Fatal)
+perl(Test::More) >= 0.96
+perl(Test::Warn)
+perl(autodie)
+perl(charnames)
+perl(constant)
+perl(feature)
+perl(locale)
+perl(open)
+perl(parent)
+perl(strict)
+perl(threads)
+perl(threads::shared)
+perl(utf8)
+perl(version) >= 0.77
+perl(warnings)
+perl-generators
+perl-interpreter

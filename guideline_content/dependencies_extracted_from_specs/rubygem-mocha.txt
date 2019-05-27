@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(introspection)
+rubygem(metaclass)
+rubygem(minitest)
+rubygems-devel

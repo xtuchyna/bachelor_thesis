@@ -1,0 +1,7 @@
+autoconf
+automake
+libgcrypt-devel
+libtool
+openssl-devel
+python2-devel
+texinfo

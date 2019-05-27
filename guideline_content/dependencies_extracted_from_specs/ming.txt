@@ -1,0 +1,16 @@
+bison
+flex
+freetype-devel
+gcc-c++
+giflib-devel
+libpng-devel
+libtool
+perl(Cwd)
+perl(ExtUtils::MakeMaker)
+perl(strict)
+perl-devel
+perl-generators
+php-devel
+python2-devel
+swig
+tcl-devel

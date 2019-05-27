@@ -1,0 +1,14 @@
+intltool
+itstool
+mingw32-colord-gtk
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-glib2
+mingw32-libgusb >= 0.2.3
+mingw32-libsoup
+mingw64-colord-gtk
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-glib2
+mingw64-libgusb >= 0.2.3
+mingw64-libsoup

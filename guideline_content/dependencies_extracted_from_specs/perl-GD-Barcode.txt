@@ -1,0 +1,4 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(GD)
+perl-generators

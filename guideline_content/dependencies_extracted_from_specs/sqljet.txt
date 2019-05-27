@@ -1,0 +1,8 @@
+ant
+antlr
+antlr3-java
+antlr3-tool
+easymock3
+java-devel
+junit
+stringtemplate4

@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Compress::Zlib)
+perl(Crypt::Blowfish)
+perl(Digest::MD5)
+perl(ExtUtils::MakeMaker)
+perl(FreezeThaw)
+perl(MIME::Base64)
+perl(Test)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

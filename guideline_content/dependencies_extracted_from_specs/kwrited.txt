@@ -1,0 +1,6 @@
+extra-cmake-modules
+kf5-kdelibs4support-devel
+kf5-kpty-devel >= 5.13.0-2
+kf5-rpm-macros
+qt5-qtbase-devel
+qt5-qtx11extras-devel

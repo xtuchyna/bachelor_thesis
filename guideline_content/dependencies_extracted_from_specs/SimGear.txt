@@ -1,0 +1,14 @@
+OpenSceneGraph-devel >= 3.2.0
+boost-devel >= 1.44.0
+cmake
+expat-devel
+freealut-devel
+libXext-devel
+libXi-devel
+libXmu-devel
+libXt-devel
+libcurl-devel
+libjpeg-devel
+mesa-libGLU-devel
+openal-soft-devel
+zlib-devel

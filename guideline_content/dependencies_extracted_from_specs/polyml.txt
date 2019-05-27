@@ -1,0 +1,8 @@
+chrpath
+gcc-c++
+gmp-devel
+libX11-devel
+libXext-devel
+libXt-devel
+libffi-devel
+motif-devel

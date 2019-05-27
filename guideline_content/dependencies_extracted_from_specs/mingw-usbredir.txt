@@ -1,0 +1,6 @@
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-libusbx >= 1.0.9
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-libusbx >= 1.0.9

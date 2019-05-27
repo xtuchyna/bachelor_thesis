@@ -1,0 +1,8 @@
+cmake(KF5CoreAddons)
+cmake(KF5I18n)
+cmake(KF5KIO)
+cmake(KF5Mime)
+cmake(Qt5Network)
+extra-cmake-modules >= 5.29
+kf5-kmime-devel >= 17.12.3
+pkgconfig(libsasl2)

@@ -1,0 +1,12 @@
+maven-local
+mvn(org.apache.commons:commons-exec)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven.reporting:maven-reporting-impl)
+mvn(org.apache.maven.shared:maven-plugin-testing-harness)
+mvn(org.apache.maven.wagon:wagon-provider-api)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.apache.maven:maven-project)
+mvn(org.codehaus.modello:modello-maven-plugin)
+mvn(org.codehaus.mojo:mojo-parent:pom:)
+mvn(org.codehaus.plexus:plexus-i18n)
+mvn(org.codehaus.plexus:plexus-utils)

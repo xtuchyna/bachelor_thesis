@@ -1,0 +1,4 @@
+/usr/bin/pdflatex
+desktop-file-utils
+doxygen-latex
+libX11-devel

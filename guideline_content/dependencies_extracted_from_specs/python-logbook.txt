@@ -1,0 +1,12 @@
+pytest
+python-execnet
+python-jinja2
+python-setuptools
+python-sqlalchemy
+python-zmq
+python2-devel
+python3-devel
+python3-pytest
+python3-setuptools
+python3-sqlalchemy
+python3-zmq

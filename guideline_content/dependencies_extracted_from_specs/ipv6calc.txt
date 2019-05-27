@@ -1,0 +1,14 @@
+curl
+httpd-devel
+libdb-devel
+openssl-devel
+perl(Digest::MD5)
+perl(Digest::SHA1)
+perl(HTML::Entities)
+perl(URI)
+perl(URI::Escape)
+perl(strict)
+perl(warnings)
+perl-generators
+procps-ng
+psmisc

@@ -1,0 +1,2 @@
+catch1-devel
+gcc-c++

@@ -1,0 +1,6 @@
+(crate(matches) >= 0.1.0 with crate(matches) < 0.2.0)
+(crate(rustc-serialize) >= 0.3.0 with crate(rustc-serialize) < 0.4.0)
+(crate(rustc-test) >= 0.2.0 with crate(rustc-test) < 0.3.0)
+(crate(unicode-bidi) >= 0.3.0 with crate(unicode-bidi) < 0.4.0)
+(crate(unicode-normalization) >= 0.1.5 with crate(unicode-normalization) < 0.2.0)
+rust-packaging

@@ -1,0 +1,7 @@
+glib2-devel >= 2.38.0
+gobject-introspection-devel
+gtk-doc
+libusb1-devel >= 1.0.19
+meson
+vala-devel
+vala-tools

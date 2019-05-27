@@ -1,0 +1,26 @@
+coreutils
+findutils
+gcc
+make
+perl(Canary::Stability) >= 2001
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Temp)
+perl(FindBin)
+perl(Getopt::Long)
+perl(POSIX)
+perl(Pod::Usage)
+perl(Test)
+perl(Time::HiRes)
+perl(XSLoader)
+perl(base)
+perl(common::sense)
+perl(lib)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

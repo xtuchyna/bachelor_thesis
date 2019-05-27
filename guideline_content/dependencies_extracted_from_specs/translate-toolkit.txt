@@ -1,0 +1,13 @@
+python3-Levenshtein
+python3-PyYAML
+python3-beautifulsoup4
+python3-chardet
+python3-devel
+python3-diff-match-patch
+python3-enchant
+python3-iniparse
+python3-lxml
+python3-simplejson
+python3-six
+python3-sphinx
+python3-vobject

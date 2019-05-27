@@ -1,0 +1,10 @@
+Xaw3d-devel
+alsa-lib-devel
+desktop-file-utils
+flac-devel
+gtk2-devel
+jack-audio-connection-kit-devel
+libao-devel
+libvorbis-devel
+ncurses-devel
+speex-devel

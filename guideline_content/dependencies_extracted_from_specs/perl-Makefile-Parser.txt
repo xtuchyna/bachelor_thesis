@@ -1,0 +1,36 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Class::Accessor::Fast)
+perl(Class::Trigger) >= 0.13
+perl(Cwd)
+perl(File::Spec)
+perl(File::Temp)
+perl(File::stat)
+perl(FindBin)
+perl(IPC::Run3) >= 0.036
+perl(List::MoreUtils)
+perl(List::Util)
+perl(MDOM::Document::Gmake)
+perl(MDOM::Util)
+perl(Module::Install::Metadata)
+perl(Module::Install::Scripts)
+perl(Module::Install::TestBase)
+perl(Module::Install::WriteAll)
+perl(Spiffy)
+perl(Test::Base)
+perl(Test::Base::Filter)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Text::Balanced)
+perl(Time::HiRes)
+perl(base)
+perl(inc::Module::Install)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

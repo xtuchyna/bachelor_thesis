@@ -1,0 +1,5 @@
+/usr/bin/phpunit6
+php(language) >= 5.3.1
+php-composer(theseer/directoryscanner) < 2
+php-composer(theseer/directoryscanner) >= 1.3
+php-composer(zetacomponents/console-tools) >= 1.7

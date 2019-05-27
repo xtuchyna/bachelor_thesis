@@ -1,0 +1,8 @@
+perl(Class::Load)
+perl(Clone)
+perl(ExtUtils::MakeMaker)
+perl(Mouse)
+perl(Sub::Install)
+perl(Test::Most)
+perl(Try::Tiny)
+perl-generators

@@ -1,0 +1,9 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.aries.quiesce:org.apache.aries.quiesce.api) >= 1.0.0
+mvn(org.apache.aries:org.apache.aries.util) >= 1.0.0
+mvn(org.apache.aries:org.apache.aries.util-r42) >= 1.0.0
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.eclipse.osgi:org.eclipse.osgi)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-simple)

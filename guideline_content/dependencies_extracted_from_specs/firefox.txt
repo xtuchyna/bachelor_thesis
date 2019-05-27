@@ -1,0 +1,40 @@
+autoconf213
+bzip2-devel
+cargo
+clang
+clang-libs
+dbus-glib-devel
+desktop-file-utils
+libjpeg-devel
+libvpx-devel >= 1.4.0
+llvm
+llvm-devel
+nss-devel >= 3.29.1-2.1
+nss-static >= 3.34
+pkgconfig(dri)
+pkgconfig(freetype2) >= 2.1.9
+pkgconfig(gconf-2.0)
+pkgconfig(gtk+-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(hunspell)
+pkgconfig(icu-i18n)
+pkgconfig(krb5)
+pkgconfig(libIDL-2.0)
+pkgconfig(libcurl)
+pkgconfig(libffi)
+pkgconfig(libnotify) >= 0.7.0
+pkgconfig(libpng)
+pkgconfig(libpulse)
+pkgconfig(libstartup-notification-1.0)
+pkgconfig(nspr) >= 4.17.0
+pkgconfig(nss) >= 3.34
+pkgconfig(pango)
+pkgconfig(sqlite3) >= 3.8.4.2
+pkgconfig(xrender)
+pkgconfig(xt)
+pkgconfig(zlib)
+python2-devel
+rust
+system-bookmarks
+yasm
+zip

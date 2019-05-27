@@ -1,0 +1,15 @@
+php(language) >= 5.3.0
+php-composer(phpunit/phpunit)
+php-date
+php-exif
+php-fedora-autoloader-devel
+php-filter
+php-iconv
+php-intl
+php-json
+php-mbstring
+php-pcre
+php-reflection
+php-spl
+php-xml
+python

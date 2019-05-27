@@ -1,0 +1,16 @@
+/usr/bin/execstack
+docbook-utils
+freealut-devel
+freeglut-devel
+gcc
+libGL-devel
+libGLU-devel
+libICE-devel
+libSM-devel
+libX11-devel
+libXi-devel
+libXmu-devel
+libXt-devel
+openal-soft-devel
+readline-devel
+xorg-x11-proto-devel

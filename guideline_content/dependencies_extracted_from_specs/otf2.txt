@@ -1,0 +1,5 @@
+automake
+chrpath
+dos2unix
+libtool
+python2-devel

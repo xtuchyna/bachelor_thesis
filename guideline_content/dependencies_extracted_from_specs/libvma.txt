@@ -1,0 +1,5 @@
+autoconf
+automake
+libnl3-devel
+libtool
+rdma-core-devel

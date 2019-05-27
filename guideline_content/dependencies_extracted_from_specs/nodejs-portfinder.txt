@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(async)
+npm(debug)
+npm(mkdirp)
+npm(vows)

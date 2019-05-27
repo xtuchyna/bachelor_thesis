@@ -1,0 +1,11 @@
+ant-contrib
+eclipse-contributor-tools
+eclipse-emf-examples
+eclipse-emf-query >= 1.10.0
+eclipse-emf-runtime
+eclipse-emf-validation >= 1.10.0
+eclipse-license
+eclipse-pde
+maven-antrun-plugin
+maven-plugin-build-helper
+tycho

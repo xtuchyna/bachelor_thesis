@@ -1,0 +1,7 @@
+desktop-file-utils
+gettext
+kdelibs3-devel
+kdepim3-devel
+qt3
+qt3-devel
+xmlto

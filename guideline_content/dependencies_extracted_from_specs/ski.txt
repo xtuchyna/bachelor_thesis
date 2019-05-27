@@ -1,0 +1,12 @@
+autoconf
+automake
+bison
+elfutils-libelf-devel
+flex
+gperf
+libglade2-devel
+libgnomeui-devel
+libtool
+libtool-ltdl-devel
+motif-devel
+ncurses-devel

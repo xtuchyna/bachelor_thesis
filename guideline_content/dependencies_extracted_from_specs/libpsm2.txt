@@ -1,0 +1,4 @@
+gcc
+libuuid-devel
+numactl-devel
+systemd

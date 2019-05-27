@@ -1,0 +1,3 @@
+pkgconfig
+pkgconfig(gl)
+pkgconfig(glu)

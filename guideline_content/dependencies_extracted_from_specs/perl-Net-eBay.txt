@@ -1,0 +1,23 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(DateTime::Precise)
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Date)
+perl(HTTP::Request::Common)
+perl(HTTP::Status)
+perl(LWP::Protocol::https)
+perl(LWP::UserAgent)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(XML::Dumper)
+perl(XML::Simple)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

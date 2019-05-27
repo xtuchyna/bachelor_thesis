@@ -1,0 +1,3 @@
+compiler(go-compiler)
+golang(github.com/cznic/fileutil)
+golang(golang.org/x/exp/ebnf)

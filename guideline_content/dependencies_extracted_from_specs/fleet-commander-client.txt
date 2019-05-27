@@ -1,0 +1,7 @@
+dbus-python
+dconf
+pygobject2
+pygobject3
+python-dbusmock
+python-gobject
+python2-devel

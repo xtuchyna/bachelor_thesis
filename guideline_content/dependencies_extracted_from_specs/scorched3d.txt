@@ -1,0 +1,17 @@
+ImageMagick
+SDL_net-devel
+autoconf
+automake
+desktop-file-utils
+expat-devel
+fftw-devel
+freealut-devel >= 1.1.0-10
+freetype-devel
+glew-devel
+libGLU-devel
+libjpeg-devel
+libtool
+libvorbis-devel
+lua-devel
+openal-soft-devel
+wxGTK-devel

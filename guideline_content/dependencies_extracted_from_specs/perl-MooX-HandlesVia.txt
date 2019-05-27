@@ -1,0 +1,25 @@
+perl(Class::Method::Modifiers)
+perl(Data::Perl) >= 0.002006
+perl(Data::Perl::Role::Bool)
+perl(Data::Perl::Role::Code)
+perl(Data::Perl::Role::Collection::Array)
+perl(Data::Perl::Role::Collection::Hash)
+perl(Data::Perl::Role::Counter)
+perl(Data::Perl::Role::Number)
+perl(Data::Perl::Role::String)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(Module::Runtime)
+perl(Moo) >= 1.003000
+perl(Moo::Role)
+perl(MooX::Types::MooseLike::Base) >= 0.23
+perl(Role::Tiny::With)
+perl(Test::Exception)
+perl(Test::Fatal)
+perl(Test::More)
+perl(namespace::autoclean)
+perl(namespace::clean)
+perl(overload)
+perl(strict)
+perl(strictures) >= 1
+perl(warnings)
+perl-generators

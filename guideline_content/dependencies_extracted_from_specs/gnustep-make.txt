@@ -1,0 +1,6 @@
+gcc-objc
+latex2html
+tetex-dvips
+tetex-latex
+texi2html
+texinfo-tex

@@ -1,0 +1,2 @@
+mpfr-devel
+octave-devel >= 3.8.0

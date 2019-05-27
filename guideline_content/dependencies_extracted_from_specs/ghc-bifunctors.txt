@@ -1,0 +1,13 @@
+ghc-Cabal-devel
+ghc-QuickCheck-devel
+ghc-base-orphans-devel
+ghc-comonad-devel
+ghc-containers-devel
+ghc-hspec-devel
+ghc-rpm-macros
+ghc-semigroups-devel
+ghc-tagged-devel
+ghc-template-haskell-devel
+ghc-th-abstraction-devel
+ghc-transformers-compat-devel
+ghc-transformers-devel

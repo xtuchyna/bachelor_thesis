@@ -1,0 +1,5 @@
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Response) >= 6
+perl(HTTP::Status) >= 6
+perl(LWP::Protocol) >= 6
+perl-generators

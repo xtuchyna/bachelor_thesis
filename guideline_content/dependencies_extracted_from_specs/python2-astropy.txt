@@ -1,0 +1,22 @@
+cfitsio-devel
+erfa-devel
+expat-devel
+gcc
+git
+graphviz
+python2-Cython
+python2-configobj
+python2-devel
+python2-h5py
+python2-matplotlib
+python2-numpy
+python2-pandas
+python2-ply
+python2-pytest
+python2-pyyaml
+python2-scipy
+python2-setuptools
+python2-six
+python2-sphinx
+texlive-ucs
+wcslib-devel >= 5.14

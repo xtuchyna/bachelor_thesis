@@ -1,0 +1,6 @@
+lsof
+procps-ng
+ruby(release)
+rubygem-bundler
+rubygem-rspec
+rubygems-devel

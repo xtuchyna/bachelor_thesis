@@ -1,0 +1,33 @@
+coreutils
+make
+perl(Config)
+perl(Cwd)
+perl(Devel::PPPort) >= 3.16
+perl(ExtUtils::MM)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::Manifest)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Find)
+perl(File::Path)
+perl(File::Remove) >= 1.42
+perl(File::Spec) >= 3.28
+perl(File::Temp)
+perl(FileHandle)
+perl(FindBin)
+perl(Module::CoreList) >= 2.17
+perl(Module::Install::AuthorTests)
+perl(Module::Install::ExtraTests) >= 0.007
+perl(Parse::CPAN::Meta) >= 1.4413
+perl(Symbol)
+perl(Test::More)
+perl(YAML::Tiny) >= 1.38
+perl(autodie)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

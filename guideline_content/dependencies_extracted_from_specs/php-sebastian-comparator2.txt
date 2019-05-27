@@ -1,0 +1,5 @@
+(php-composer(sebastian/diff) >= 2.0 with php-composer(sebastian/diff) < 4)
+(php-composer(sebastian/exporter) >= 3.1 with php-composer(sebastian/exporter) < 4)
+php(language) >= 7.0
+php-fedora-autoloader-devel
+phpunit6 >= 6.4

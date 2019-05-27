@@ -1,0 +1,20 @@
+findutils
+glibc-common
+make
+perl(Bit::Vector) >= 7.1
+perl(Carp::Clan) >= 6.01
+perl(Config)
+perl(Date::Calc) >= 6.3
+perl(Date::Calc::Object)
+perl(Date::Calendar)
+perl(Date::Calendar::Profiles)
+perl(Date::Calendar::Year)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(bytes)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

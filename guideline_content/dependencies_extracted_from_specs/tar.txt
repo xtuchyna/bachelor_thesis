@@ -1,0 +1,10 @@
+acl
+attr
+autoconf
+automake
+gettext
+libacl-devel
+libselinux-devel
+policycoreutils
+rsh
+texinfo

@@ -1,0 +1,11 @@
+gtest-devel
+libxml2-devel
+pkgconf
+python2-beautifulsoup4
+python2-chardet
+python2-devel
+python2-lxml >= 3.8.0
+python3-beautifulsoup4
+python3-chardet
+python3-devel
+python3-lxml >= 3.8.0

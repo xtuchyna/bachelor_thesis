@@ -1,0 +1,4 @@
+elfutils-libelf-devel
+libtermcap-devel
+postgresql-devel
+systemtap-sdt-devel

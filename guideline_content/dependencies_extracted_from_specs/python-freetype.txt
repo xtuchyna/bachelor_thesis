@@ -1,0 +1,5 @@
+freetype
+python-setuptools
+python2-devel
+python3-devel
+python3-setuptools

@@ -1,0 +1,7 @@
+compiler(go-compiler)
+golang(github.com/Shopify/toxiproxy/client)
+golang(github.com/davecgh/go-spew/spew)
+golang(github.com/eapache/go-resiliency/breaker)
+golang(github.com/eapache/queue)
+golang(github.com/golang/snappy)
+golang(github.com/klauspost/crc32)

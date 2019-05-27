@@ -1,0 +1,5 @@
+globus-common-devel >= 15
+globus-gram-protocol-devel >= 11
+globus-scheduler-event-generator-devel >= 4
+globus-xio-devel >= 3
+perl-generators

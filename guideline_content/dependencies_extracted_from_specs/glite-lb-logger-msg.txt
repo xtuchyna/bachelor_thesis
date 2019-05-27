@@ -1,0 +1,15 @@
+activemq-cpp-devel
+apr-devel
+cppunit-devel
+gcc-c++
+glite-lb-logger-devel
+glite-lbjp-common-log-devel
+glite-lbjp-common-trio-devel
+libtool
+perl(Getopt::Long)
+perl(POSIX)
+perl(Pod::Man)
+perl-Pod-Perldoc
+perl-generators
+perl-interpreter
+pkgconfig

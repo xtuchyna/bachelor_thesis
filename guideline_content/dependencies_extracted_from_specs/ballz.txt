@@ -1,0 +1,4 @@
+allegro-devel
+desktop-file-utils
+dumb-devel
+guichan-devel

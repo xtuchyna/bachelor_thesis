@@ -1,0 +1,6 @@
+maven-local
+mvn(com.google.code.findbugs:jsr305)
+mvn(org.apache.maven.plugins:maven-shade-plugin)
+mvn(org.openjdk.jmh:jmh-core)
+mvn(org.openjdk.jmh:jmh-generator-annprocess)
+mvn(org.sonatype.oss:oss-parent:pom:)

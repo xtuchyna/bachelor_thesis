@@ -1,0 +1,43 @@
+coreutils
+make
+perl(AutoSplit)
+perl(B)
+perl(CPAN::Meta) >= 2.143240
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::CBuilder)
+perl(ExtUtils::Install) >= 1.52
+perl(ExtUtils::Manifest) >= 1.70
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec) >= 0.8
+perl(File::Temp) >= 0.22
+perl(Getopt::Long)
+perl(POSIX)
+perl(Parse::CPAN::Meta) >= 1.4414
+perl(PerlIO)
+perl(Pod::Man)
+perl(Test::Harness)
+perl(Test::More)
+perl(base)
+perl(less)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(subs)
+perl(utf8)
+perl(vars)
+perl(version)
+perl(warnings)
+perl-ExtUtils-ParseXS
+perl-devel
+perl-generators
+perl-interpreter
+sed

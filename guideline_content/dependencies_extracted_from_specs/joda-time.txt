@@ -1,0 +1,7 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.apache.velocity:velocity)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.codehaus.mojo:exec-maven-plugin)
+mvn(org.joda:joda-convert)

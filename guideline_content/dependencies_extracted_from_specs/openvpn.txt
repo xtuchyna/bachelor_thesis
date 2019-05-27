@@ -1,0 +1,12 @@
+gcc
+gnupg2
+iproute
+libselinux-devel
+lz4-devel
+lzo-devel
+openssl-devel
+pam-devel
+perl-macros
+pkcs11-helper-devel >= 1.11
+systemd
+systemd-devel

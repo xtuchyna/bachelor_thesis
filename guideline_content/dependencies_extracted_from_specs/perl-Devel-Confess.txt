@@ -1,0 +1,28 @@
+make
+perl(:VERSION) >= 5.6.0
+perl(Carp)
+perl(Carp::Heavy)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter)
+perl(Exporter::Heavy)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(File::Temp)
+perl(IPC::Open3)
+perl(POSIX)
+perl(Safe)
+perl(Scalar::Util)
+perl(Symbol)
+perl(Test::More)
+perl(UNIVERSAL::can)
+perl(UNIVERSAL::isa)
+perl(base)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(threads)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+nodejs-packaging
+npm(graceful-fs)
+npm(minimatch)
+npm(proxyquire)
+npm(readable-stream)
+npm(set-immediate-shim)
+npm(tap)
+npm(through2)

@@ -1,0 +1,9 @@
+avahi-compat-howl-devel
+expect
+gnutls-devel
+libident-devel
+pam-devel
+procps-ng
+systemd
+telnet
+zlib-devel

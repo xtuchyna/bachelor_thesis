@@ -1,0 +1,8 @@
+/usr/bin/rsvg-convert
+desktop-file-utils
+hicolor-icon-theme
+intltool
+librsvg2
+python2-devel
+python2-distutils-extra
+python2-pyyaml

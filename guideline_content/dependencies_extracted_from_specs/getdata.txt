@@ -1,0 +1,10 @@
+bzip2-devel
+flac-devel
+gcc-gfortran
+libtool-ltdl-devel
+numpy
+python-devel
+slimdata-devel
+xz-devel
+zlib-devel
+zziplib-devel

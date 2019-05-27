@@ -1,0 +1,7 @@
+nodejs-packaging >= 6
+npm(glob)
+npm(istanbul)
+npm(node-uuid)
+npm(nodeunit)
+npm(vow)
+npm(vow-queue)

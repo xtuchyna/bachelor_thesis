@@ -1,0 +1,3 @@
+fann-devel > 2.1
+php-devel > 5.2
+php-pear

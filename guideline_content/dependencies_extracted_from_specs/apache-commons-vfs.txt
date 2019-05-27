@@ -1,0 +1,13 @@
+maven-local
+mvn(com.jcraft:jsch)
+mvn(commons-httpclient:commons-httpclient)
+mvn(commons-logging:commons-logging)
+mvn(commons-net:commons-net)
+mvn(org.apache.ant:ant)
+mvn(org.apache.commons:commons-collections4)
+mvn(org.apache.commons:commons-compress)
+mvn(org.apache.commons:commons-parent:pom:)
+mvn(org.apache.ftpserver:ftpserver-core)
+mvn(org.apache.hadoop:hadoop-common)
+mvn(org.apache.hadoop:hadoop-hdfs)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)

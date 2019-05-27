@@ -1,0 +1,9 @@
+erlang-cuttlefish
+erlang-exometer_core
+erlang-lager
+erlang-meck
+erlang-mochiweb
+erlang-rebar
+erlang-riak_core
+erlang-riak_pb
+erlang-webmachine

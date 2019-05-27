@@ -1,0 +1,8 @@
+autoconf
+automake
+bison
+dos2unix
+flex
+libtool
+openssl-devel
+zlib-devel

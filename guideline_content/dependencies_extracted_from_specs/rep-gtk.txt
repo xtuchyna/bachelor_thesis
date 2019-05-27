@@ -1,0 +1,4 @@
+autoconf
+gtk2-devel
+librep-devel >= 0.90.5
+libtool

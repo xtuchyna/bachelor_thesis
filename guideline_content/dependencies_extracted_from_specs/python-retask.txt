@@ -1,0 +1,8 @@
+python-redis
+python-setuptools
+python-six
+python2-devel
+python3-devel
+python3-redis
+python3-setuptools
+python3-six

@@ -1,0 +1,6 @@
+gettext
+gobject-introspection-devel
+gstreamer1-devel
+gstreamer1-plugins-base-devel
+python2-devel
+sugar-toolkit-gtk3-devel

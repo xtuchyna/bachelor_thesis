@@ -1,0 +1,11 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Date) >= 6
+perl(Test)
+perl(Test::More)
+perl(Time::Local)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

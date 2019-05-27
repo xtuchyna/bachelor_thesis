@@ -1,0 +1,11 @@
+perl(Any::Moose)
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(IO::File)
+perl(Test::Most)
+perl(Text::Clip)
+perl(Try::Tiny)
+perl(strict)
+perl(warnings)
+perl-generators

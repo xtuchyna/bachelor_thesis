@@ -1,0 +1,15 @@
+asciidoc
+gcc
+libudev-devel
+meson
+pkgconfig(gio-2.0)
+pkgconfig(libudev)
+pkgconfig(systemd)
+polkit-devel
+pygobject3-devel
+python3-dbus
+python3-dbusmock
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+systemd
+umockdev-devel

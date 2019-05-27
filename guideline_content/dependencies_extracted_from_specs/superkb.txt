@@ -1,0 +1,7 @@
+cairo-devel
+gdk-pixbuf2-xlib-devel
+imlib2-devel
+libXft-devel
+libXinerama-devel
+pango-devel
+xorg-x11-proto-devel

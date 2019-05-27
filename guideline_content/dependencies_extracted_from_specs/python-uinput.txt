@@ -1,0 +1,4 @@
+kernel-headers
+libudev-devel
+python-devel
+python3-devel

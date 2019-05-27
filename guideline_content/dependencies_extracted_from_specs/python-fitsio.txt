@@ -1,0 +1,6 @@
+cfitsio-devel
+gcc
+python2-devel
+python2-numpy
+python3-devel
+python3-numpy

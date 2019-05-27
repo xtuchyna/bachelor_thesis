@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(SelfLoader)
+perl(Test::More) >= 0.47
+perl(overload)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

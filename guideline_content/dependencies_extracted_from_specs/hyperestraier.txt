@@ -1,0 +1,10 @@
+bzip2-devel
+java-devel
+lzo-devel >= 2.02
+perl(ExtUtils::MakeMaker)
+perl-devel
+perl-generators
+qdbm-devel >= 1.8.75
+ruby-devel
+rubygem(rdoc)
+zlib-devel

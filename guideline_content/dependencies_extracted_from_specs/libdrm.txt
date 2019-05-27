@@ -1,0 +1,10 @@
+/usr/bin/sed
+/usr/bin/xsltproc
+docbook-style-xsl
+gcc
+kernel-headers
+libatomic_ops-devel
+meson >= 0.43
+pkgconfig(pciaccess) >= 0.10
+pkgconfig(udev)
+valgrind-devel

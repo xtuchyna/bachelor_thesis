@@ -1,0 +1,9 @@
+perl(Config)
+perl(Env)
+perl(Getopt::Long)
+perl(LWP::UserAgent)
+perl(Sys::CPU)
+perl(Thread::Queue)
+perl(sigtrap)
+perl(strict)
+perl-generators

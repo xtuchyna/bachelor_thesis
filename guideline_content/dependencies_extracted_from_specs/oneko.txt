@@ -1,0 +1,5 @@
+desktop-file-utils
+gcc
+imake
+libX11-devel
+libXext-devel

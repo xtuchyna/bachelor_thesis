@@ -1,0 +1,28 @@
+make
+perl(:VERSION) >= 5.8.1
+perl(Capture::Tiny)
+perl(Carp)
+perl(Config)
+perl(Env)
+perl(Exporter)
+perl(ExtUtils::CBuilder)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::ParseXS) >= 3.21
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(File::Which) >= 1.10
+perl(Test2::API) >= 1.302015
+perl(Test2::Bundle::Extended) >= 0.000060
+perl(Test2::Require)
+perl(Test2::Require::Module)
+perl(Test::More) >= 0.94
+perl(Text::ParseWords) >= 3.26
+perl(base)
+perl(if)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

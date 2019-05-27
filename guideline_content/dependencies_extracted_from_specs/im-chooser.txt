@@ -1,0 +1,8 @@
+desktop-file-utils
+gcc
+gettext
+gtk3-devel
+imsettings-devel >= 1.3.0
+intltool
+libSM-devel
+libxfce4util-devel

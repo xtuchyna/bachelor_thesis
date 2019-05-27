@@ -1,0 +1,6 @@
+gcc-gfortran
+mpich-devel
+nss-myhostname
+openmpi-devel
+perl-interpreter
+time

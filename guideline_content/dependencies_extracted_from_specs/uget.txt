@@ -1,0 +1,9 @@
+desktop-file-utils
+gcc
+intltool
+libcurl-devel
+libgcrypt-devel
+pkgconfig(appindicator3-0.1)
+pkgconfig(gstreamer-1.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(libnotify)

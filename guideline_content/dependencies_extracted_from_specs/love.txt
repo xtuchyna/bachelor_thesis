@@ -1,0 +1,17 @@
+DevIL-devel
+SDL2-devel
+desktop-file-utils
+flac-devel
+freetype-devel
+libmng-devel
+libmodplug-devel
+libogg-devel
+libtheora-devel
+libtiff-devel
+libtool
+libvorbis-devel
+luajit-devel
+mesa-libGL
+mpg123-devel
+openal-soft-devel
+physfs-devel

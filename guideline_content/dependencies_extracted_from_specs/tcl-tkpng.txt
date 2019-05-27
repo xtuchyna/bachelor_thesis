@@ -1,0 +1,3 @@
+tcl-devel
+tk-devel
+zlib-devel

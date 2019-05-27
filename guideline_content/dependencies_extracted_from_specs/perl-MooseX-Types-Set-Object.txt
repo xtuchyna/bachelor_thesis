@@ -1,0 +1,8 @@
+perl(Module::Build::Tiny)
+perl(Moose) >= 0.50
+perl(MooseX::Types)
+perl(Pod::Coverage)
+perl(Set::Object)
+perl(Test::Fatal)
+perl(Test::use::ok)
+perl-generators

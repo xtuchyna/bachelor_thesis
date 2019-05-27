@@ -1,0 +1,9 @@
+cmake
+doxygen
+freeglut-devel
+libGLU-devel
+libXi-devel
+libXmu-devel
+libjpeg-devel
+mesa-libGL-devel
+pkgconfig

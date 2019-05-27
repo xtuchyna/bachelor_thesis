@@ -1,0 +1,2 @@
+ibus >= 1.5
+ibus-devel >= 1.5

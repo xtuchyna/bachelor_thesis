@@ -1,0 +1,61 @@
+SDL-devel
+SDL_image-devel
+alsa-lib-devel
+autoconf
+automake
+bluez-libs-devel
+corosynclib-devel
+dahdi-tools-devel >= 2.0.0
+dahdi-tools-libs >= 2.0.0
+doxygen
+freeradius-client-devel
+freetds-devel
+gcc
+gcc-c++
+gmime-devel
+graphviz
+gsm-devel
+gtk2-devel
+iksemel-devel
+ilbc-devel
+jansson-devel
+latex2html
+libcap-devel
+libcurl-devel
+libedit-devel
+libical-devel
+libjpeg-devel
+libogg-devel
+libpri-devel >= 1.4.12
+libresample-devel
+libsrtp-devel
+libss7-devel >= 1.0.1
+libtiff-devel
+libtool-ltdl-devel
+libuuid-devel
+libvorbis-devel
+libxml2-devel
+lm_sensors-devel
+lua-devel
+mariadb-connector-c-devel
+ncurses-devel
+neon-devel
+net-snmp-devel
+newt-devel
+openldap-devel
+openssl-devel
+perl
+perl-generators
+perl-interpreter
+pjproject-devel
+popt-devel
+portaudio-devel >= 19
+postgresql-devel
+spandsp-devel >= 0.0.5-0.1.pre4
+speex-devel >= 1.2
+speexdsp-devel >= 1.2
+sqlite-devel
+systemd
+unbound-devel
+unixODBC-devel
+uw-imap-devel

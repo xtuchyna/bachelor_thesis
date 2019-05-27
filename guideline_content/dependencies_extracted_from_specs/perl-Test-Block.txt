@@ -1,0 +1,17 @@
+findutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Scalar::Util)
+perl(Test::Builder) >= 0.17
+perl(Test::Builder::Tester) >= 1.01
+perl(Test::Exception) >= 0.15
+perl(Test::More) >= 0.47
+perl(Tie::Scalar)
+perl(Tie::StdScalar)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

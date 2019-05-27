@@ -1,0 +1,14 @@
+desktop-file-utils
+enchant-devel >= 1.6.0
+gettext-devel
+glib2-devel >= 2.26.0
+gmime-devel >= 2.6.20
+gnutls-devel
+gtk2-devel >= 2.16.0
+gtkspell-devel >= 2.0.7
+intltool
+itstool
+libappstream-glib
+libgnome-keyring-devel >= 3.2.0
+libnotify-devel >= 0.4.1
+yelp-tools

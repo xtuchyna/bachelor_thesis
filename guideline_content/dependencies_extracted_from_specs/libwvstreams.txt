@@ -1,0 +1,5 @@
+compat-openssl10-devel
+dbus-devel
+pkgconfig
+readline-devel
+zlib-devel

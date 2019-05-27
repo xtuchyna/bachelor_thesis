@@ -1,0 +1,10 @@
+SDL2_image-devel
+SDL2_mixer-devel
+cmake
+desktop-file-utils
+enet-devel
+libGL-devel
+libappstream-glib
+libicns-utils
+ncurses-devel
+physfs-devel

@@ -1,0 +1,9 @@
+perl(Carp)
+perl(Catalyst::Runtime) >= 5.80000
+perl(Class::Inspector)
+perl(Devel::InnerPackage)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Most)
+perl(parent)
+perl-generators

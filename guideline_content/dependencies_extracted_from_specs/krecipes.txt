@@ -1,0 +1,8 @@
+desktop-file-utils
+gettext
+kdelibs4-devel
+kdelibs4-webkit-devel
+libxml2-devel
+libxslt-devel
+shared-mime-info
+sqlite-devel

@@ -1,0 +1,5 @@
+automake
+gtk2-devel
+intltool
+libxfce4ui-devel
+xfce4-panel-devel

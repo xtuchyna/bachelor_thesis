@@ -1,0 +1,2 @@
+python-iniparse >= 0.3.2
+python2-devel

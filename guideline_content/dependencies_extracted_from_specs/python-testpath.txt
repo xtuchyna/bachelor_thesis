@@ -1,0 +1,11 @@
+python2-devel
+python2-pathlib2
+python2-pip
+python2-pytest
+python3-devel
+python3-flit
+python3-pathlib2
+python3-pip
+python3-pytest
+python3-sphinx
+python3-sphinx_rtd_theme

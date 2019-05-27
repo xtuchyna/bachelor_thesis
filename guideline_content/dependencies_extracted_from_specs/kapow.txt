@@ -1,0 +1,4 @@
+desktop-file-utils
+libappstream-glib
+qt5-linguist
+qt5-qtbase-devel

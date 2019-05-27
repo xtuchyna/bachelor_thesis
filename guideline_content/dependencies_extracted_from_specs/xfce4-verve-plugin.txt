@@ -1,0 +1,9 @@
+dbus-glib-devel >= 0.34
+exo-devel >= 0.5.0
+gettext
+intltool
+libxfce4ui-devel >= 4.12.0
+libxml2-devel
+pcre-devel >= 5.0
+perl(XML::Parser)
+xfce4-panel-devel >= 4.12.0

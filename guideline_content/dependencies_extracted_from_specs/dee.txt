@@ -1,0 +1,5 @@
+dbus-glib-devel
+gobject-introspection-devel
+gtk-doc
+libicu-devel >= 4.6
+vala-tools

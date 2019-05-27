@@ -1,0 +1,10 @@
+perl(ExtUtils::MakeMaker)
+perl(No::Worries) >= 0.7
+perl(Pod::Coverage) >= 0.18
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(URI::Escape)
+perl-generators
+perl-interpreter

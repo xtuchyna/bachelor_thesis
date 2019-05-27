@@ -1,0 +1,13 @@
+afpfs-ng-devel
+apr-devel
+autoconf
+automake
+compat-openssl10-devel
+freerdp-devel
+libgcrypt-devel
+libssh2-devel
+libtool
+pcre-devel
+perl-Carp
+postgresql-devel
+subversion-devel

@@ -1,0 +1,10 @@
+openssl
+openssl-devel
+perl(AutoLoader)
+perl(Carp)
+perl(Crypt::OpenSSL::Bignum)
+perl(Crypt::OpenSSL::Random)
+perl(ExtUtils::MakeMaker)
+perl(Test)
+perl-devel
+perl-generators

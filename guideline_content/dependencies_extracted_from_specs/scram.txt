@@ -1,0 +1,9 @@
+boost-devel >= 1.61.0
+cmake >= 3.8.0
+cmake(Qt5)
+cmake(Qt5LinguistTools)
+cmake(Qt5Svg)
+desktop-file-utils
+gcc-c++
+gperftools-devel
+libxml2-devel

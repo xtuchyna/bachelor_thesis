@@ -1,0 +1,5 @@
+/usr/bin/closure-compiler
+ruby
+ruby(release)
+rubygem(minitest)
+rubygems-devel

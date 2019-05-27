@@ -1,0 +1,44 @@
+/usr/bin/node
+git-core
+pandoc
+python2-configparser
+python2-dateutil
+python2-devel
+python2-ipykernel
+python2-ipython_genutils
+python2-jupyter-client >= 5.2.0
+python2-jupyter-core >= 4.4.0
+python2-mock
+python2-nbconvert
+python2-nbformat
+python2-nose
+python2-nose_warnings_filters
+python2-pandocfilters
+python2-requests
+python2-send2trash
+python2-setuptools
+python2-terminado >= 0.8.1
+python2-testpath
+python2-tornado
+python2-traitlets >= 4.2.1
+python3-dateutil
+python3-devel
+python3-ipykernel
+python3-ipython-sphinx
+python3-ipython_genutils
+python3-jupyter-client >= 5.2.0
+python3-jupyter-core >= 4.4.0
+python3-nbconvert
+python3-nbformat
+python3-nbsphinx
+python3-nose
+python3-nose_warnings_filters
+python3-pandocfilters
+python3-send2trash
+python3-setuptools
+python3-sphinx
+python3-sphinx_rtd_theme
+python3-terminado >= 0.8.1
+python3-testpath
+python3-tornado
+python3-traitlets >= 4.2.1

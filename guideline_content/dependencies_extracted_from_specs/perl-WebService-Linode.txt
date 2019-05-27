@@ -1,0 +1,14 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(JSON) >= 2.00
+perl(LWP::UserAgent)
+perl(List::Util)
+perl(Module::Build::Tiny) >= 0.039
+perl(Test::MockObject)
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

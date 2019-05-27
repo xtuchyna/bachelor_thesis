@@ -1,0 +1,8 @@
+mocha
+nodejs-packaging
+npm(ansi-cyan)
+npm(ansi-magenta)
+npm(ansi-yellow)
+npm(object.omit)
+npm(object.pick)
+npm(set-getter)

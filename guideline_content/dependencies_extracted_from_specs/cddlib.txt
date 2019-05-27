@@ -1,0 +1,4 @@
+gcc
+gmp-devel
+libtool
+tex(latex)

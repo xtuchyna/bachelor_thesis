@@ -1,0 +1,7 @@
+dos2unix
+nodejs-packaging
+nodeunit
+npm(temp)
+npm(underscore)
+perl-generators
+systemd

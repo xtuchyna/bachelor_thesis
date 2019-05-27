@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(sphericalmercator)
+npm(sqlite3) >= 3.0.0
+npm(tape) >= 3.0.0
+npm(tiletype)

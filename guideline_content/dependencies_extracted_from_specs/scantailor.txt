@@ -1,0 +1,13 @@
+boost-devel
+cmake
+desktop-file-utils
+glibc-static
+libXext-devel
+libXrender-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel
+mesa-libGL-devel
+mesa-libGLU-devel
+qt-devel
+zlib-devel

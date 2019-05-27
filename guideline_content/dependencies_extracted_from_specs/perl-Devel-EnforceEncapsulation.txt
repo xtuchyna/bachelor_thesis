@@ -1,0 +1,7 @@
+perl(Carp)
+perl(English)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

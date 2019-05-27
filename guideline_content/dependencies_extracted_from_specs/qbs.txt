@@ -1,0 +1,10 @@
+gcc-c++
+glibc-static
+libstdc++-static
+make
+qt5-qdoc
+qt5-qhelpgenerator
+qt5-qtbase-devel
+qt5-qtdeclarative-devel
+qt5-qtscript-devel
+qt5-qttools-devel

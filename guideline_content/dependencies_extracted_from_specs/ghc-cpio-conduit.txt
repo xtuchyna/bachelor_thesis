@@ -1,0 +1,7 @@
+ghc-Cabal-devel
+ghc-base16-bytestring-devel
+ghc-binary-devel
+ghc-bytestring-devel
+ghc-conduit-devel
+ghc-conduit-extra-devel
+ghc-rpm-macros

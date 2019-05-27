@@ -1,0 +1,3 @@
+R-devel
+R-testthat
+tex(latex)

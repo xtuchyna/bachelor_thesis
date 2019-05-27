@@ -1,0 +1,18 @@
+coreutils
+findutils
+gcc
+make
+perl(B)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(List::Util)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(XSLoader)
+perl(feature)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

@@ -1,0 +1,9 @@
+dbus-devel
+dbus-glib-devel
+dbus-python
+libxslt
+openssl-devel >= 0.9.7
+pygobject2
+python
+python-twisted
+telepathy-glib-devel >= 0.21.0

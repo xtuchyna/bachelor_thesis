@@ -1,0 +1,4 @@
+desktop-file-utils
+gtk2-devel >= 2.2.0
+openssl-devel
+readline-devel

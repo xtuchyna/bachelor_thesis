@@ -1,0 +1,20 @@
+perl(:VERSION) >= 5.10.1
+perl(I18N::LangTags) >= 0.35
+perl(I18N::LangTags::Detect)
+perl(Locale::Maketext)
+perl(Module::Build)
+perl(Mojo::Base)
+perl(Mojo::URL)
+perl(Mojolicious) >= 5
+perl(Mojolicious::Lite)
+perl(Mojolicious::Plugin)
+perl(Test::Mojo)
+perl(Test::More)
+perl(base)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

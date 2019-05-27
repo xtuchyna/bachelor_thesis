@@ -1,0 +1,14 @@
+make
+perl(Algorithm::Diff) >= 1.18
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Kwiki::CGI)
+perl(Kwiki::Installer)
+perl(Kwiki::Plugin)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

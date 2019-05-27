@@ -1,0 +1,4 @@
+maven-local
+mvn(net.java:jvnet-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.glassfish.build:spec-version-maven-plugin)

@@ -1,0 +1,6 @@
+gammu-devel >= 1.39.0
+libdbi-dbd-sqlite
+python2-devel
+python2-setuptools
+python3-devel
+python3-setuptools

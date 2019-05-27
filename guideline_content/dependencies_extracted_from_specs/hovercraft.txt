@@ -1,0 +1,10 @@
+impressjs
+python3-devel
+python3-docutils
+python3-lxml >= 3.1.0
+python3-manuel
+python3-pygments
+python3-setuptools
+python3-sphinx
+python3-svg-path
+python3-watchdog

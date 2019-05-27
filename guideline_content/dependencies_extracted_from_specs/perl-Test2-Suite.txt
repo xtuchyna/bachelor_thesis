@@ -1,0 +1,48 @@
+make
+perl(B)
+perl(Carp)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::Handle)
+perl(Importer) >= 0.024
+perl(List::Util)
+perl(Module::Pluggable) >= 2.7
+perl(PerlIO)
+perl(Scalar::Util)
+perl(Scope::Guard)
+perl(Sub::Info) >= 0.002
+perl(Sub::Util)
+perl(Term::Table) >= 0.002
+perl(Term::Table::Cell)
+perl(Term::Table::LineBreak)
+perl(Term::Table::Util)
+perl(Test2::API) >= 1.302127
+perl(Test2::API::Context)
+perl(Test2::Event)
+perl(Test2::Event::Exception)
+perl(Test2::Event::Note)
+perl(Test2::Event::Skip)
+perl(Test2::EventFacet)
+perl(Test2::EventFacet::Assert)
+perl(Test2::Formatter::TAP)
+perl(Test2::Hub::Interceptor)
+perl(Test2::Hub::Subtest)
+perl(Test2::IPC)
+perl(Test2::Tools::Tiny)
+perl(Test2::Util)
+perl(Test2::Util::HashBase)
+perl(Test2::Util::Trace)
+perl(Time::HiRes)
+perl(Unicode::GCString)
+perl(base)
+perl(overload)
+perl(strict)
+perl(threads)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

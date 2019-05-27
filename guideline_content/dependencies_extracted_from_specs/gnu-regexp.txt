@@ -1,0 +1,3 @@
+ant
+gnu-getopt
+javapackages-local

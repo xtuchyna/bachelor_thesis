@@ -1,0 +1,10 @@
+autoconf >= 2.58
+automake >= 1.7.9
+krb5-devel
+libtool
+pam-devel
+perl-generators
+systemd
+texinfo
+vim-minimal
+zlib-devel

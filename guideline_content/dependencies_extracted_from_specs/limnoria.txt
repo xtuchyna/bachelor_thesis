@@ -1,0 +1,10 @@
+python-chardet
+python-dateutil
+python-ecdsa
+python-feedparser
+python-mock
+python-pysocks
+python-sqlalchemy
+python2-devel
+python2-gnupg
+pytz

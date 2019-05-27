@@ -1,0 +1,26 @@
+make
+perl(CGI)
+perl(CGI::Application)
+perl(CGI::Application::Dispatch)
+perl(CGI::Application::Plugin::Redirect)
+perl(Carp) >= 0.01
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find)
+perl(File::Temp)
+perl(HTTP::Response)
+perl(HTTP::Server::Simple) >= 0.18
+perl(HTTP::Server::Simple::CGI)
+perl(HTTP::Server::Simple::Static) >= 0.02
+perl(HTTP::Status)
+perl(Scalar::Util) >= 1.18
+perl(Test::Exception)
+perl(Test::HTTP::Server::Simple)
+perl(Test::More) >= 0.88
+perl(Test::Pod)
+perl(Test::WWW::Mechanize)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

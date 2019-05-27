@@ -1,0 +1,7 @@
+perl(AutoLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

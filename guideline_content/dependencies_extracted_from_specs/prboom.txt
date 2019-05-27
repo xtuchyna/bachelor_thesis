@@ -1,0 +1,4 @@
+SDL_mixer-devel
+SDL_net-devel
+autoconf >= 2.69-10
+libGLU-devel

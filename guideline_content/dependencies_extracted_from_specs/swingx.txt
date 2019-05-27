@@ -1,0 +1,6 @@
+java-devel >= 1.6.0
+jpackage-utils
+maven-local
+mvn(net.java:jvnet-parent:pom:)
+mvn(org.kohsuke.metainf-services:metainf-services)
+mvn(org.mockito:mockito-core)

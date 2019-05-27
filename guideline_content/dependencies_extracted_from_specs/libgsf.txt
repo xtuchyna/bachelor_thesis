@@ -1,0 +1,8 @@
+bzip2-devel
+chrpath
+gdk-pixbuf2-devel
+gettext
+glib2-devel
+gobject-introspection-devel
+intltool
+libxml2-devel

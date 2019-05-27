@@ -1,0 +1,12 @@
+ant
+ant-junit
+hostname
+java-headless
+maven-local
+mvn(commons-cli:commons-cli)
+mvn(commons-io:commons-io)
+mvn(junit:junit)
+procps-ng
+python >= 2.6
+python-simplejson
+rabbitmq-server

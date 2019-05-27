@@ -1,0 +1,11 @@
+gettext
+git
+intltool
+libtool
+libxslt
+perl(XML::Parser)
+pkgconfig(glib-2.0)
+pkgconfig(x11) >= 1.4.3
+pkgconfig(xorg-macros) >= 1.12
+pkgconfig(xproto) >= 7.0.20
+xkbcomp

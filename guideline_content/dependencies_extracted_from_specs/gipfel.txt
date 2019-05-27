@@ -1,0 +1,7 @@
+desktop-file-utils
+exiv2-devel
+fltk-devel
+gsl-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel

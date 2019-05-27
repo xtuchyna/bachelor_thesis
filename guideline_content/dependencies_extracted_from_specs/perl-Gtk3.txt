@@ -1,0 +1,23 @@
+findutils
+font(:lang=en)
+gtk3
+make
+perl(Cairo::GObject) >= 1.000
+perl(Carp)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(Glib)
+perl(Glib::Object::Introspection) >= 0.043
+perl(Glib::Object::Subclass)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Test::More)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+xorg-x11-server-Xvfb

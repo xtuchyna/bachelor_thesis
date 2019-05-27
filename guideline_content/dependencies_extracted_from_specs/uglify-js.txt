@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(acorn)
+npm(async)
+npm(mocha)
+npm(optimist)
+npm(source-map)
+web-assets-devel

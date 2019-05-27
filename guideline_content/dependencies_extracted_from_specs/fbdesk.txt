@@ -1,0 +1,13 @@
+fontconfig-devel
+freetype-devel
+imlib2-devel
+libICE-devel
+libSM-devel
+libX11-devel
+libXext-devel
+libXft-devel
+libXpm-devel
+libXrender-devel
+libpng-devel
+libtool
+pkgconfig

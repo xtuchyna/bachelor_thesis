@@ -1,0 +1,4 @@
+maven-local
+mvn(org.apache.felix:felix-parent:pom:)
+mvn(org.osgi:org.osgi.compendium)
+mvn(org.osgi:org.osgi.core)

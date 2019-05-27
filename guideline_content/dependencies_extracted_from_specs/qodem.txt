@@ -1,0 +1,13 @@
+SDL-devel
+autoconf
+automake
+desktop-file-utils
+gcc
+gettext
+glibc-devel
+libXaw-devel
+libXt-devel
+libappstream-glib
+libssh2-devel
+miniupnpc-devel
+ncurses-devel

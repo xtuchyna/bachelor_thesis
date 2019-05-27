@@ -1,0 +1,29 @@
+coreutils
+findutils
+make
+perl(Catalyst) >= 5.70
+perl(Catalyst::Controller)
+perl(Catalyst::Test)
+perl(Devel::StackTrace)
+perl(File::Spec)
+perl(FindBin)
+perl(HTML::Entities)
+perl(MRO::Compat) >= 0.10
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moose)
+perl(MooseX::Emulate::Class::Accessor::Fast)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Perl::Critic)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(base)
+perl(inc::Module::Install) >= 0.87
+perl(lib)
+perl(namespace::autoclean)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

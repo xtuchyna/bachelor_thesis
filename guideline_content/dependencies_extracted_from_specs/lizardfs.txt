@@ -1,0 +1,13 @@
+Judy-devel
+asciidoc
+boost-devel
+cmake
+fuse-devel
+gcc
+gcc-c++
+libdb-devel
+pam-devel
+pkgconfig
+systemd
+systemd-devel
+zlib-devel

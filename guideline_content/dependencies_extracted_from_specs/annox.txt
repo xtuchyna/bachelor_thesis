@@ -1,0 +1,12 @@
+maven-local
+mvn(com.google.code.javaparser:javaparser)
+mvn(com.sun.xml.bind:jaxb-impl)
+mvn(commons-io:commons-io)
+mvn(javax.transaction:jta)
+mvn(junit:junit)
+mvn(org.apache.commons:commons-lang3)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.apache.maven.plugins:maven-assembly-plugin)
+mvn(org.hibernate:hibernate-search-engine)
+mvn(org.sonatype.oss:oss-parent:pom:)

@@ -1,0 +1,14 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(FileHandle)
+perl(IO::File)
+perl(IO::Handle)
+perl(Symbol)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

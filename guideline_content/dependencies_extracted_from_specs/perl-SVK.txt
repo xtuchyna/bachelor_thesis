@@ -1,0 +1,34 @@
+make
+perl(Algorithm::Annotate)
+perl(Algorithm::Diff) >= 1.19
+perl(App::CLI)
+perl(Class::Accessor::Fast)
+perl(Class::Autouse) >= 1.15
+perl(Class::Data::Inheritable)
+perl(Compress::Zlib)
+perl(Data::Hierarchy) >= 0.30
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::MakeMaker) >= 6.42
+perl(File::MMagic)
+perl(File::Type)
+perl(FreezeThaw)
+perl(IO::Digest)
+perl(List::MoreUtils)
+perl(Locale::Maketext::Lexicon)
+perl(Log::Log4perl)
+perl(Path::Class) >= 0.16
+perl(PerlIO::eol) >= 0.13
+perl(PerlIO::via::dynamic) >= 0.11
+perl(PerlIO::via::symlink) >= 0.02
+perl(Pod::Escapes)
+perl(Pod::Simple)
+perl(SVN::Simple::Edit) >= 0.27
+perl(Term::ReadKey)
+perl(Test::More)
+perl(Time::Progress)
+perl(UNIVERSAL::require)
+perl(URI)
+perl(YAML::Syck) >= 0.60
+perl(version) >= 0.68
+perl-generators
+perl-interpreter

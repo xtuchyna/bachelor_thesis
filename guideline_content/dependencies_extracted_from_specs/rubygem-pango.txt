@@ -1,0 +1,12 @@
+liberation-mono-fonts
+pango-devel
+ruby(release)
+ruby-devel
+rubygem(cairo-gobject)
+rubygem(gobject-introspection)
+rubygem(mechanize)
+rubygem(rake)
+rubygem(test-unit)
+rubygem-cairo-devel
+rubygem-glib2-devel >= 3.1.3
+rubygems-devel

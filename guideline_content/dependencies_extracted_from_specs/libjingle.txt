@@ -1,0 +1,13 @@
+alsa-lib-devel
+autoconf
+automake
+expat-devel
+gtk2-devel
+kernel-headers
+libXcomposite-devel
+libXrender-devel
+libsrtp-devel
+libtool
+openssl-devel
+pkgconfig
+systemd-devel

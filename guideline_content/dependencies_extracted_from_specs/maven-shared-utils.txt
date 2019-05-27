@@ -1,0 +1,11 @@
+maven-local
+mvn(com.google.code.findbugs:jsr305)
+mvn(commons-io:commons-io)
+mvn(junit:junit)
+mvn(org.apache.commons:commons-lang3)
+mvn(org.apache.maven.plugin-testing:maven-plugin-testing-harness)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)
+mvn(org.apache.maven:maven-core)
+mvn(org.codehaus.plexus:plexus-container-default)
+mvn(org.fusesource.jansi:jansi)
+mvn(org.hamcrest:hamcrest-core)

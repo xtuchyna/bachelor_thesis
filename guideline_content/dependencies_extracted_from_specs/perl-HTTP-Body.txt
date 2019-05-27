@@ -1,0 +1,11 @@
+perl(Carp)
+perl(Digest::MD5)
+perl(ExtUtils::MakeMaker) >= 6.42
+perl(File::Temp) >= 0.14
+perl(HTTP::Headers)
+perl(IO::File) >= 1.14
+perl(Test::Deep)
+perl(Test::More) >= 0.86
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

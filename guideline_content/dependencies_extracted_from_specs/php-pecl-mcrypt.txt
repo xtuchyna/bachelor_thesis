@@ -1,0 +1,3 @@
+libmcrypt-devel
+php-devel > 7.2
+php-pear

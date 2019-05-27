@@ -1,0 +1,20 @@
+perl(Data::Dumper)
+perl(DateTime)
+perl(Devel::PartialDump) >= 0.13
+perl(Module::Build::Tiny)
+perl(Moose) >= 1.08
+perl(Moose::Meta::TypeCoercion)
+perl(Moose::Meta::TypeConstraint)
+perl(Moose::Meta::TypeConstraint::Parameterizable)
+perl(Moose::Util::TypeConstraints) >= 1.06
+perl(MooseX::Types) >= 0.22
+perl(MooseX::Types::DateTime)
+perl(MooseX::Types::Moose)
+perl(Scalar::Util)
+perl(Sub::Exporter) >= 0.982
+perl(Sub::Exporter::ForMethods)
+perl(Test::Fatal)
+perl(Test::More) >= 0.94
+perl(Test::Needs)
+perl(Test::Requires)
+perl-generators

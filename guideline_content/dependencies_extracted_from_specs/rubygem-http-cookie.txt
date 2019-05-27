@@ -1,0 +1,5 @@
+ruby(release)
+rubygem(domain_name)
+rubygem(sqlite3)
+rubygem(test-unit)
+rubygems-devel

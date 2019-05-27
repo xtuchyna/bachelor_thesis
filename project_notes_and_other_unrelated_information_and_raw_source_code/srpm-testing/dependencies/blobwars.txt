@@ -1,0 +1,10 @@
+SDL_image-devel
+SDL_mixer-devel
+SDL_net-devel
+SDL_ttf-devel
+desktop-file-utils
+gcc-c++
+gettext
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+zlib-devel

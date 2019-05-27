@@ -1,0 +1,6 @@
+armadillo-devel
+boost-devel
+gsl-devel
+perl-generators
+samtools-devel
+zlib-devel

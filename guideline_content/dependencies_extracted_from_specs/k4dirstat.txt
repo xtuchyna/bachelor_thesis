@@ -1,0 +1,5 @@
+cmake
+desktop-file-utils
+extra-cmake-modules
+kf5-kdelibs4support-devel
+zlib-devel

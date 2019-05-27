@@ -1,0 +1,4 @@
+desktop-file-utils
+gettext
+kdelibs3-devel
+lm_sensors-devel

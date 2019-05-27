@@ -1,0 +1,2 @@
+maven-local
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)

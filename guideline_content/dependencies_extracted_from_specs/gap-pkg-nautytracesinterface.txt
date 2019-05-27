@@ -1,0 +1,5 @@
+GAPDoc-latex
+gap-devel
+gcc-c++
+libnauty-devel
+libtool

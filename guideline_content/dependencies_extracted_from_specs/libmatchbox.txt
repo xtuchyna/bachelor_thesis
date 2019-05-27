@@ -1,0 +1,7 @@
+autoconf
+automake
+check-devel
+libjpeg-devel
+libpng-devel
+libtool
+pango-devel

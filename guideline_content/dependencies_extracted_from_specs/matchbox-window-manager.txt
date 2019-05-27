@@ -1,0 +1,12 @@
+expat-devel
+libXcomposite-devel
+libXcursor-devel
+libXdamage-devel
+libXfixes-devel
+libXrender-devel
+libjpeg-devel
+libmatchbox-devel >= 1.9-2
+libpng-devel
+pango-devel
+pkgconfig
+startup-notification-devel

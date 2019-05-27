@@ -1,0 +1,8 @@
+autoconf
+automake
+gcc
+libtool
+pkgconfig(bitlbee) >= 3.4
+pkgconfig(json-glib-1.0) >= 0.14.0
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

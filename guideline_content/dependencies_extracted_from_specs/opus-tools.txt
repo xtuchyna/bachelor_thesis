@@ -1,0 +1,4 @@
+flac-devel
+gcc
+libogg-devel
+opus-devel

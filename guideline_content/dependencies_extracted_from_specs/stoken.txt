@@ -1,0 +1,8 @@
+autoconf
+automake
+desktop-file-utils
+libtool
+pkgconfig(gtk+-3.0)
+pkgconfig(hogweed) >= 2.4
+pkgconfig(libxml-2.0)
+pkgconfig(nettle) >= 2.4

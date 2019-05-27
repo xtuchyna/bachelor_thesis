@@ -1,0 +1,17 @@
+cyrus-sasl-devel
+globus-common-devel >= 15
+globus-gsi-callback-devel >= 4
+globus-gsi-cert-utils-devel >= 8
+globus-gsi-cert-utils-progs
+globus-gsi-credential-devel >= 5
+globus-gsi-proxy-core-devel >= 6
+globus-gsi-sysconfig-devel >= 5
+globus-gss-assist-devel >= 8
+globus-gssapi-gsi-devel >= 9
+globus-proxy-utils
+globus-usage-devel >= 3
+openldap-devel >= 2.3
+pam-devel
+perl-generators
+voms-clients
+voms-devel >= 1.9.12.1

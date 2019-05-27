@@ -1,0 +1,10 @@
+ant-junit
+apache-commons-logging
+apache-commons-parent
+apache-ivy
+bcel
+ivy-local
+jakarta-commons-httpclient
+java-devel
+junit
+xerces-j2

@@ -1,0 +1,8 @@
+mocha
+nodejs-packaging
+npm(array-union)
+npm(arrify)
+npm(glob)
+npm(object-assign)
+npm(pify)
+npm(pinkie-promise)

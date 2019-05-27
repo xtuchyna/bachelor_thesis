@@ -1,0 +1,15 @@
+autoconf
+automake
+fribidi-devel
+gdk-pixbuf2-xlib-devel
+gettext
+giflib-devel
+gnome-desktop-devel
+gnome-vfs2-devel
+imlib-devel
+libICE-devel
+libXft-devel
+libXinerama-devel
+libgnomeui-devel
+popt-devel
+xorg-x11-proto-devel

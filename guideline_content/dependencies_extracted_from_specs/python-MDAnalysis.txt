@@ -1,0 +1,16 @@
+python2-Cython
+python2-GridDataFormats
+python2-biopython
+python2-devel
+python2-joblib
+python2-matplotlib
+python2-mmtf
+python2-mock
+python2-netcdf4
+python2-networkx
+python2-nose
+python2-numpy
+python2-psutil
+python2-scikit-learn
+python2-setuptools
+python2-tempdir

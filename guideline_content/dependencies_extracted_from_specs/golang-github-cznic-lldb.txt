@@ -1,0 +1,7 @@
+compiler(go-compiler)
+golang(github.com/cznic/fileutil)
+golang(github.com/cznic/internal/buffer)
+golang(github.com/cznic/internal/file)
+golang(github.com/cznic/mathutil)
+golang(github.com/cznic/sortutil)
+golang(github.com/cznic/zappy)

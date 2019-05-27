@@ -1,0 +1,16 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-comonad-devel
+ghc-containers-devel
+ghc-contravariant-devel
+ghc-hashable-devel
+ghc-mwc-random-devel
+ghc-primitive-devel
+ghc-profunctors-devel
+ghc-rpm-macros
+ghc-semigroups-devel
+ghc-text-devel
+ghc-transformers-devel
+ghc-unordered-containers-devel
+ghc-vector-builder-devel
+ghc-vector-devel

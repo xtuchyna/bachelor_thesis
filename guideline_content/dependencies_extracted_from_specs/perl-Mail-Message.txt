@@ -1,0 +1,57 @@
+coreutils
+glibc-common
+make
+perl(Carp)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Date::Format)
+perl(Date::Parse)
+perl(Email::Abstract)
+perl(Email::Simple)
+perl(Encode) >= 2.26
+perl(Encode::Alias)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Spec) >= 0.7
+perl(File::Temp)
+perl(Font::Metrics::TimesRoman)
+perl(HTML::FormatText) >= 2.01
+perl(HTML::TreeBuilder) >= 3.13
+perl(IO::File)
+perl(IO::Handle)
+perl(IO::Lines)
+perl(IO::Scalar)
+perl(List::Util)
+perl(MIME::Base64)
+perl(MIME::Entity) >= 3.0
+perl(MIME::Parser)
+perl(MIME::QuotedPrint)
+perl(MIME::Types) >= 1.004
+perl(Mail::Address) >= 2.17
+perl(Mail::Header)
+perl(Mail::Identity)
+perl(Mail::Internet) >= 2.01
+perl(Mail::Transport::Send)
+perl(Net::Domain)
+perl(POSIX)
+perl(Scalar::Util) >= 1.13
+perl(Storable)
+perl(Sys::Hostname)
+perl(Test::More) >= 0.47
+perl(Text::Autoformat)
+perl(Time::HiRes) >= 1.51
+perl(Time::Zone)
+perl(URI) >= 1.23
+perl(User::Identity) >= 0.94
+perl(User::Identity::Collection::Emails)
+perl(base)
+perl(integer)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

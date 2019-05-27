@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(hashish)
+npm(tap)
+npm(wordwrap)

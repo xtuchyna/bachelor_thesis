@@ -1,0 +1,6 @@
+perl(ExtUtils::CChecker)
+perl(ExtUtils::H2PM) >= 0.07
+perl(Module::Build)
+perl(Socket::Netlink) >= 0.04
+perl(Test::More)
+perl-generators

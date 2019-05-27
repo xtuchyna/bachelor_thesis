@@ -1,0 +1,4 @@
+findutils
+perl(Module::Build)
+perl-generators
+perl-interpreter

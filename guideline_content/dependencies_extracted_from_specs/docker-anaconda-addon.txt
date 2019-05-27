@@ -1,0 +1,2 @@
+gettext
+python3-devel

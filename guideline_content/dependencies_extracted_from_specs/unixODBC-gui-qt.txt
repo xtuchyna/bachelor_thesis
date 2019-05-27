@@ -1,0 +1,6 @@
+desktop-file-utils
+libtool
+libtool-ltdl-devel
+qt-assistant-adp-devel
+qt4-devel
+unixODBC-devel

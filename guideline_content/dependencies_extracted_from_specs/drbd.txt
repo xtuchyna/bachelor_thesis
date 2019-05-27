@@ -1,0 +1,5 @@
+docbook-style-xsl
+flex
+libxslt
+perl-generators
+udev

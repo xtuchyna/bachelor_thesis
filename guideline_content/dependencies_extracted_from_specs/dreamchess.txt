@@ -1,0 +1,7 @@
+SDL-devel
+SDL_image-devel
+SDL_mixer-devel
+desktop-file-utils
+glew-devel
+help2man
+mxml-devel

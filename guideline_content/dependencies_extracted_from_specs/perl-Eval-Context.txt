@@ -1,0 +1,27 @@
+perl(Carp)
+perl(Data::Compare)
+perl(Data::Dumper)
+perl(Data::TreeDumper)
+perl(Directory::Scratch::Structured)
+perl(English)
+perl(File::Slurp)
+perl(Module::Build::Compat)
+perl(Package::Generator)
+perl(Readonly)
+perl(Safe) >= 2.16
+perl(Sub::Exporter)
+perl(Sub::Install)
+perl(Symbol)
+perl(Test::Block)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Test::Output)
+perl(Test::Warn)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(version) >= 0.5
+perl(warnings)
+perl-generators
+perl-interpreter

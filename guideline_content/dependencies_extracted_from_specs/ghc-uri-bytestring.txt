@@ -1,0 +1,9 @@
+ghc-Cabal-devel
+ghc-attoparsec-devel
+ghc-blaze-builder-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-rpm-macros
+ghc-template-haskell-devel
+ghc-th-lift-devel
+ghc-th-lift-instances-devel

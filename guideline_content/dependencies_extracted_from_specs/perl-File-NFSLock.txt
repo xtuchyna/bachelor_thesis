@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Temp)
+perl(Sys::Hostname)
+perl(Test::More)
+perl(base)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

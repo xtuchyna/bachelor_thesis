@@ -1,0 +1,4 @@
+help2man
+python2-devel
+python2-eventlet >= 0.9.9
+python2-setuptools

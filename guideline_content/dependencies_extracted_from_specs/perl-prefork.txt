@@ -1,0 +1,16 @@
+/usr/bin/make
+/usr/bin/perl
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec) >= 0.80
+perl(List::Util) >= 0.18
+perl(Perl::MinimumVersion) >= 1.20
+perl(Scalar::Util) >= 1.18
+perl(Test::CPAN::Meta) >= 0.12
+perl(Test::MinimumVersion) >= 0.007
+perl(Test::More) >= 0.47
+perl(Test::Pod) >= 1.00
+perl(inc::Module::Install)
+perl(strict)
+perl(vars)
+perl-generators

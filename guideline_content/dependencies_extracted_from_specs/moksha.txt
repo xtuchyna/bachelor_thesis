@@ -1,0 +1,7 @@
+python-moksha-common
+python-moksha-hub
+python-moksha-wsgi
+python-nose
+python-setuptools
+python-sphinx
+systemd

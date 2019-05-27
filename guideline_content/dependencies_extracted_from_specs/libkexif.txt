@@ -1,0 +1,3 @@
+gettext
+kdelibs3-devel
+libexif-devel >= 0.5.7

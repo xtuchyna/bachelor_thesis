@@ -1,0 +1,12 @@
+asciidoc
+autoconf
+automake
+libtool
+pkgconfig
+pkgconfig(bash-completion)
+pkgconfig(json-c)
+pkgconfig(libkmod)
+pkgconfig(libpmem)
+pkgconfig(libudev)
+pkgconfig(uuid)
+xmlto

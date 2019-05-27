@@ -1,0 +1,5 @@
+doxygen
+numpy
+pdfjam
+python
+texlive-latex

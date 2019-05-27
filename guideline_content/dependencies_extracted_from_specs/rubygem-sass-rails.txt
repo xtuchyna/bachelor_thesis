@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(bundler)
+rubygem(rails)
+rubygem(sass)
+rubygem(sqlite3)
+rubygem(tilt)
+rubygems-devel

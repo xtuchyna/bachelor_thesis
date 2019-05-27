@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(byline)
+npm(duplexer)
+npm(minimist)
+npm(moment)
+npm(tap)
+npm(through)

@@ -1,0 +1,9 @@
+nodejs-packaging
+npm(async)
+npm(colors)
+npm(combined-stream)
+npm(cycle)
+npm(eyes)
+npm(pkginfo)
+npm(stack-trace)
+npm(vows)

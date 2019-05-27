@@ -1,0 +1,13 @@
+GConf2-devel
+desktop-file-utils
+docbook-style-xsl
+gcc-c++
+gmp-devel
+gmpy
+gtk2-devel
+libjpeg-devel
+libpng-devel
+libxslt
+pygtk2-devel
+xorg-x11-fonts-Type1
+xorg-x11-server-Xvfb

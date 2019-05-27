@@ -1,0 +1,7 @@
+desktop-file-utils
+gettext
+guile-devel
+intltool
+libglade2-devel
+ncurses-devel
+readline-devel

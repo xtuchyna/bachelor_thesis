@@ -1,0 +1,25 @@
+SDL2_net-devel
+automake >= 1.8
+bison
+desktop-file-utils
+flex
+fontconfig-devel
+freetype-devel
+fribidi-devel
+gettext
+glew-devel >= 1.5.2
+harfbuzz-devel
+libXrandr-devel
+libogg-devel
+libpng-devel
+libtheora-devel
+libvorbis-devel
+openal-soft-devel
+openssl-devel
+physfs-devel >= 2.0
+popt-devel
+qt5-qt3d-devel
+qt5-qtbase-devel
+qt5-qtscript-devel
+qt5-qtx11extras-devel
+zip

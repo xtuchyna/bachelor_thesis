@@ -1,0 +1,11 @@
+cmake
+libfli-devel
+libnova-devel
+pkgconfig(cfitsio)
+pkgconfig(gsl)
+pkgconfig(libcurl)
+pkgconfig(libjpeg)
+pkgconfig(libusb-1.0)
+pkgconfig(zlib)
+qt5-qtbase-devel
+systemd

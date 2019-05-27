@@ -1,0 +1,6 @@
+clang
+cmake
+libcxxabi-devel
+llvm-devel
+llvm-static
+python3

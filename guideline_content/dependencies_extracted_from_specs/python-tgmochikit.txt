@@ -1,0 +1,3 @@
+dos2unix
+python-nose
+python2-devel

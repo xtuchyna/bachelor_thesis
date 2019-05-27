@@ -1,0 +1,4 @@
+ImageMagick
+allegro-devel
+desktop-file-utils
+dumb-devel

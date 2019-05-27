@@ -1,0 +1,7 @@
+dbus-python-devel
+desktop-file-utils
+gnome-common
+gnome-doc-utils
+gtk3-devel
+intltool
+pygobject3-devel

@@ -1,0 +1,7 @@
+ImageMagick
+desktop-file-utils
+libappstream-glib
+maven-local
+mvn(java_cup:java_cup)
+mvn(junit:junit)
+mvn(org.sonatype.oss:oss-parent:pom:)

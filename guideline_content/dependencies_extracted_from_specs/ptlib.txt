@@ -1,0 +1,11 @@
+SDL-devel
+alsa-lib-devel
+bison
+boost-devel
+expat-devel
+flex
+libv4l-devel
+openldap-devel
+openssl-devel
+pkgconfig
+pulseaudio-libs-devel

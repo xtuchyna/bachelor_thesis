@@ -1,0 +1,19 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(Module::Install::AutoInstall)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(XML::LibXML)
+perl(inc::Module::Install) >= 0.79
+perl(lib::abs) >= 0.90
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

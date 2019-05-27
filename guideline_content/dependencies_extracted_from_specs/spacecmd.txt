@@ -1,0 +1,5 @@
+python
+python-devel
+python-simplejson
+rpm-python
+spacewalk-pylint

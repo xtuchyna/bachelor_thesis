@@ -1,0 +1,4 @@
+mocha
+nodejs-packaging
+npm(rimraf)
+npm(should)

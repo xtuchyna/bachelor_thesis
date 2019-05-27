@@ -1,0 +1,7 @@
+bison
+byacc
+cmake
+flex
+perl-interpreter
+pkgconfig(icu-i18n)
+pkgconfig(icu-uc)

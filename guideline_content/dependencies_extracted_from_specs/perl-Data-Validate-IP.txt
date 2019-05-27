@@ -1,0 +1,17 @@
+findutils
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(NetAddr::IP) >= 4
+perl(Scalar::Util)
+perl(Socket)
+perl(Test::More) >= 0.88
+perl(Test::Requires)
+perl(Test::Taint)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

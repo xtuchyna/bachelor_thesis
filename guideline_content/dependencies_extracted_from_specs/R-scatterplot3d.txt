@@ -1,0 +1,5 @@
+R-devel
+R-grDevices
+R-graphics
+R-stats
+tex(latex)

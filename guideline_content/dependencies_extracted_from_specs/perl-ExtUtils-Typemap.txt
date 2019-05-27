@@ -1,0 +1,9 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::Typemaps)
+perl(File::Spec)
+perl(File::Temp)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators

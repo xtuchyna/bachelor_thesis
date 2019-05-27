@@ -1,0 +1,8 @@
+cairo-gobject-devel
+dconf-devel
+desktop-file-utils
+gobject-introspection-devel
+gtk3-devel
+itstool
+mate-common
+startup-notification-devel

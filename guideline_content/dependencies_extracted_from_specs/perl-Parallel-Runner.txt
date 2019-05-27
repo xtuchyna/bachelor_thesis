@@ -1,0 +1,10 @@
+perl(Carp)
+perl(Child) >= 0.009
+perl(Module::Build) >= 0.40
+perl(POSIX)
+perl(Test::Exception)
+perl(Test::More)
+perl(Time::HiRes)
+perl(strict)
+perl(warnings)
+perl-generators

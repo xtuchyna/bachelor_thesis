@@ -1,0 +1,22 @@
+make
+perl(DateTime)
+perl(ExtUtils::MakeMaker) >= 6.75
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Moose)
+perl(Moose::Role)
+perl(POE)
+perl(POE::Filter::Line)
+perl(POE::Filter::Reference)
+perl(POE::Wheel::Run)
+perl(Package::Stash)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Try::Tiny)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

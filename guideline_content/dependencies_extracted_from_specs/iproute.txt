@@ -1,0 +1,9 @@
+bison
+elfutils-libelf-devel
+flex
+iptables-devel >= 1.4.5
+libdb-devel
+libmnl-devel
+libselinux-devel
+linux-atm-libs-devel
+pkgconfig

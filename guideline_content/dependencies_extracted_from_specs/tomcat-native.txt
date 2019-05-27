@@ -1,0 +1,4 @@
+apr-devel >= 1.4.3
+java-devel
+jpackage-utils
+openssl-devel >= 1.0.2

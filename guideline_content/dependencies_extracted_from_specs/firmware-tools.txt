@@ -1,0 +1,3 @@
+/usr/bin/perl
+python-devel
+rpm-python

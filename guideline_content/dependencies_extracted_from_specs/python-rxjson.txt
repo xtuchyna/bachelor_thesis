@@ -1,0 +1,6 @@
+python-d2to1
+python-setuptools
+python2-devel
+python3-d2to1
+python3-devel
+python3-setuptools

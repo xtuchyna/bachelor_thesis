@@ -1,0 +1,4 @@
+coreutils
+gcc
+grep
+make

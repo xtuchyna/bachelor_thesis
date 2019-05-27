@@ -1,0 +1,12 @@
+avahi-compat-libdns_sd-devel
+gcc-objc
+gmp-devel
+gnustep-make >= 2.0.0
+gnutls-devel
+libffi-devel >= 3.0.9
+libicu-devel
+libxml2-devel
+libxslt-devel
+pkgconfig
+texi2html
+texinfo-tex

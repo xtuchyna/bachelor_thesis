@@ -1,0 +1,14 @@
+make
+perl(B)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Moo) >= 0.009006
+perl(Moo::Role)
+perl(Sub::Quote)
+perl(Test::More) >= 0.94
+perl(lib)
+perl(strict)
+perl(strictures) >= 1
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

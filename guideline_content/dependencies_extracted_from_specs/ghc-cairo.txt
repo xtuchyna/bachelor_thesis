@@ -1,0 +1,12 @@
+ghc-Cabal-devel
+ghc-array-devel
+ghc-bytestring-devel
+ghc-gtk2hs-buildtools-devel
+ghc-mtl-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-utf8-string-devel
+pkgconfig(cairo)
+pkgconfig(cairo-pdf)
+pkgconfig(cairo-ps)
+pkgconfig(cairo-svg)

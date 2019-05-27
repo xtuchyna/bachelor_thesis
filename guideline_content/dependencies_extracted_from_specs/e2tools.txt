@@ -1,0 +1,4 @@
+diffutils
+e2fsprogs
+e2fsprogs-devel >= 1.27
+libcom_err-devel

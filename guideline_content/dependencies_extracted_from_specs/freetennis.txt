@@ -1,0 +1,11 @@
+SDL_gfx-devel
+SDL_mixer-devel
+SDL_ttf-devel
+desktop-file-utils
+gtk2-devel
+libXmu-devel
+ocaml
+ocaml-SDL-devel >= 0.7.2-8
+ocaml-camlimages-devel
+ocaml-lablgl-devel
+ocaml-lablgtk-devel >= 2.10.1-5

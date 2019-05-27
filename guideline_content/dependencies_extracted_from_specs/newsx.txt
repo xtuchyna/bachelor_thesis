@@ -1,0 +1,4 @@
+autoconf
+automake
+inn-devel
+perl-Carp

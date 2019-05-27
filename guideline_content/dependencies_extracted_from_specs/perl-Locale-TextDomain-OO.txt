@@ -1,0 +1,43 @@
+make
+perl(:VERSION) >= 5.8
+perl(Carp)
+perl(Class::Load) >= 0.19
+perl(Clone)
+perl(Config)
+perl(Cwd)
+perl(Encode)
+perl(English)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find)
+perl(Hash::Util)
+perl(JSON) >= 2.50
+perl(JSON::PP)
+perl(Locale::MO::File) >= 0.08
+perl(Locale::PO) >= 0.24
+perl(Locale::TextDomain::OO::Util::ExtractHeader) >= 3.006
+perl(Locale::TextDomain::OO::Util::JoinSplitLexiconKeys) >= 2.002
+perl(Locale::Utils::PlaceholderBabelFish) >= 0.001
+perl(Locale::Utils::PlaceholderMaketext) >= 1.000
+perl(Locale::Utils::PlaceholderNamed) >= 1.000
+perl(Moo) >= 1.003001
+perl(Moo::Role)
+perl(MooX::Singleton)
+perl(MooX::StrictConstructor)
+perl(MooX::Types::MooseLike::Base)
+perl(Path::Tiny) >= 0.052
+perl(Scalar::Util)
+perl(Test::Differences) >= 0.60
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Tie::Sub) >= 0.09
+perl(Try::Tiny)
+perl(namespace::autoclean)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

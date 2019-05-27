@@ -1,0 +1,7 @@
+glib2-devel >= 2.6.0
+gobject-introspection-devel
+iso-codes-devel
+libX11-devel
+libXi-devel
+libxkbfile-devel
+libxml2-devel

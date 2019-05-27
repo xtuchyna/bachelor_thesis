@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(aruba)
+rubygem(cucumber)
+rubygem(rspec)
+rubygems-devel

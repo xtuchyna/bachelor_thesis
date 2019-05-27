@@ -1,0 +1,3 @@
+compiler(go-compiler)
+golang(github.com/bgentry/speakeasy)
+pam-devel

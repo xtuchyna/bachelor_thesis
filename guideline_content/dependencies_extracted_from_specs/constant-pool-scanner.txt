@@ -1,0 +1,4 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.commons:commons-io)
+mvn(org.sonatype.oss:oss-parent:pom:)

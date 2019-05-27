@@ -1,0 +1,18 @@
+git-core
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-jasper
+mingw32-libjpeg-turbo
+mingw32-libpng
+mingw32-libtiff
+mingw32-pkg-config
+mingw32-zlib
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-jasper
+mingw64-libjpeg-turbo
+mingw64-libpng
+mingw64-libtiff
+mingw64-pkg-config
+mingw64-zlib
+p7zip

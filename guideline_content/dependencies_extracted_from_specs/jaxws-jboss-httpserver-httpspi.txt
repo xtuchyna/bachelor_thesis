@@ -1,0 +1,14 @@
+cxf-rt
+java-devel
+jboss-httpserver
+jboss-jaxws-2.2-api
+jboss-servlet-3.0-api
+jpackage-utils
+junit
+maven-compiler-plugin
+maven-dependency-plugin
+maven-install-plugin
+maven-jar-plugin
+maven-javadoc-plugin
+maven-local
+maven-surefire-provider-junit

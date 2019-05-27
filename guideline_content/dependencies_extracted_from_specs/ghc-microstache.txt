@@ -1,0 +1,13 @@
+ghc-Cabal-devel
+ghc-aeson-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-deepseq-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-parsec-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-transformers-devel
+ghc-unordered-containers-devel
+ghc-vector-devel

@@ -1,0 +1,3 @@
+ghc-Cabal-devel
+ghc-colour-devel
+ghc-rpm-macros

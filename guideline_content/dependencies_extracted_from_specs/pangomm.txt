@@ -1,0 +1,5 @@
+cairomm-devel >= 1.2.2
+doxygen
+glibmm24-devel >= 2.48.0
+graphviz
+pango-devel >= 1.38.0

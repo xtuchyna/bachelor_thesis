@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(nokogiri)
+rubygem(rest-client)
+rubygem(rspec)
+rubygems-devel

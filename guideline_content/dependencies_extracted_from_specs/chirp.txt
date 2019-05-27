@@ -1,0 +1,4 @@
+desktop-file-utils
+python2-devel
+python2-libxml2
+python2-pyserial

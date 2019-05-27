@@ -1,0 +1,30 @@
+php-composer(doctrine/common) < 3
+php-composer(doctrine/common) >= 2.5.0
+php-composer(kdyby/strict-objects) < 2
+php-composer(kdyby/strict-objects) >= 1.0
+php-composer(nette/application) < 3
+php-composer(nette/application) >= 2.4
+php-composer(nette/bootstrap) < 3
+php-composer(nette/bootstrap) >= 2.4
+php-composer(nette/caching) < 3
+php-composer(nette/caching) >= 2.5
+php-composer(nette/di) < 3
+php-composer(nette/di) >= 2.4.8
+php-composer(nette/http) < 3
+php-composer(nette/http) >= 2.4.7
+php-composer(nette/reflection) < 3
+php-composer(nette/reflection) >= 2.3
+php-composer(nette/security) < 3
+php-composer(nette/security) >= 2.4
+php-composer(nette/tester) < 3
+php-composer(nette/tester) >= 2.0
+php-composer(nette/utils) < 3
+php-composer(nette/utils) >= 2.4.5
+php-composer(symfony/event-dispatcher) < 5
+php-composer(symfony/event-dispatcher) >= 3.0
+php-composer(tracy/tracy) < 3
+php-composer(tracy/tracy) >= 2.4
+php-fedora-autoloader-devel
+php-pcre
+php-reflection
+php-spl

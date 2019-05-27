@@ -1,0 +1,5 @@
+automake
+openssl-devel
+pkgconfig
+systemd
+systemd-devel

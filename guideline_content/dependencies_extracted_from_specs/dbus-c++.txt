@@ -1,0 +1,8 @@
+autoconf
+automake
+dbus-devel
+ecore-devel
+expat-devel
+glib2-devel
+gtkmm24-devel
+libtool

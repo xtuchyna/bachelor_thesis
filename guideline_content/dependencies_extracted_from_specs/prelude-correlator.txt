@@ -1,0 +1,6 @@
+pkgconfig(libprelude) >= 4.0.0
+python2-devel
+python2-setuptools
+python3-devel
+python3-setuptools
+systemd

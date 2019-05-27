@@ -1,0 +1,12 @@
+/usr/bin/phpab
+/usr/bin/phpunit
+php(language) >= 5.3.0
+php-ctype
+php-dom
+php-iconv
+php-json
+php-mbstring
+php-pcre
+php-reflection
+php-spl
+php-xml

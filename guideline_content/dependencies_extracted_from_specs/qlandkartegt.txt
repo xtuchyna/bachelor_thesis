@@ -1,0 +1,13 @@
+cmake
+desktop-file-utils
+gdal-devel
+gpsd-devel
+libdmtx-devel
+libexif-devel
+libjpeg-devel
+mesa-libGLU-devel
+proj-devel
+qextserialport-devel
+qt-webkit-devel
+qt4-devel
+qtsoap-devel

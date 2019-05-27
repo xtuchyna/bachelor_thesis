@@ -1,0 +1,6 @@
+maven-local
+mvn(com.google.guava:guava)
+mvn(javax.validation:validation-api)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.eclipse.jdt.core.compiler:ecj)

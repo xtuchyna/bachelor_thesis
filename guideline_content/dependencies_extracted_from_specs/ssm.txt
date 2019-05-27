@@ -1,0 +1,5 @@
+autoconf
+automake
+libccp4-devel
+libtool
+mmdb2-devel

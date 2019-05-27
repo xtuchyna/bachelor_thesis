@@ -1,0 +1,7 @@
+flac-devel
+gcc
+gettext
+libao-devel
+libcurl-devel
+libvorbis-devel
+speex-devel

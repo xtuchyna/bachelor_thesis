@@ -1,0 +1,3 @@
+ansible
+python-plumbum
+python2-devel

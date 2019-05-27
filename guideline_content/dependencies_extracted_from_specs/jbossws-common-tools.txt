@@ -1,0 +1,8 @@
+maven-local
+mvn(gnu.getopt:java-getopt)
+mvn(junit:junit)
+mvn(log4j:log4j:12)
+mvn(org.apache.ant:ant)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.jboss.ws:jbossws-api)
+mvn(org.jboss.ws:jbossws-parent:pom:)

@@ -1,0 +1,3 @@
+doxygen
+netsurf-buildsystem
+pkgconfig(check)

@@ -1,0 +1,8 @@
+bison
+doxygen
+flex
+libogg-devel
+liboggz
+libpng-devel
+python2-devel
+valgrind

@@ -1,0 +1,5 @@
+alsa-lib-devel
+desktop-file-utils
+gettext
+gtk2-devel
+libxml2-devel

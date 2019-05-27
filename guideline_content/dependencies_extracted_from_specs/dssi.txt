@@ -1,0 +1,7 @@
+alsa-lib-devel
+jack-audio-connection-kit-devel
+ladspa-devel
+liblo-devel
+libsamplerate-devel
+libsndfile-devel
+qt4-devel

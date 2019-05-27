@@ -1,0 +1,4 @@
+compiler(go-compiler)
+golang(golang.org/x/net/context)
+golang(golang.org/x/net/context/ctxhttp)
+golang(golang.org/x/sys/unix)

@@ -1,0 +1,6 @@
+binutils-devel
+desktop-file-utils
+gettext
+intltool
+libgnomeui-devel
+valgrind >= 3.1.0

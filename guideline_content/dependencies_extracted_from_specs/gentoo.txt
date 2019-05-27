@@ -1,0 +1,3 @@
+desktop-file-utils
+gettext
+gtk3-devel >= 3.12

@@ -1,0 +1,16 @@
+cmake
+desktop-file-utils
+dos2unix
+extra-cmake-modules
+gettext
+gtest-devel
+libappstream-glib
+libindi-static
+libnova-devel
+pkgconfig(cfitsio)
+pkgconfig(eigen3)
+pkgconfig(libcurl)
+pkgconfig(libindi)
+pkgconfig(libusb-1.0)
+pkgconfig(zlib)
+wxGTK3-devel

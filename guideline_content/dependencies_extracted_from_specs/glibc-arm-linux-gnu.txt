@@ -1,0 +1,4 @@
+bison
+gcc-arm-linux-gnu
+kernel-cross-headers
+perl-interpreter

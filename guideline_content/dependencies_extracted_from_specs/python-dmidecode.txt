@@ -1,0 +1,5 @@
+libxml2-devel
+libxml2-python3
+python2-devel
+python2-libxml2
+python3-devel

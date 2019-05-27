@@ -1,0 +1,6 @@
+libev-devel
+libtool
+openssl
+openssl-devel
+pkgconfig
+systemd

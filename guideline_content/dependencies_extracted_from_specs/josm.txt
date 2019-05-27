@@ -1,0 +1,15 @@
+ant
+apache-commons-codec
+apache-commons-compress
+apache-commons-jcs-core
+desktop-file-utils
+gettext
+gnu-getopt
+java-devel >= 1:1.7.0
+javacc
+jpackage-utils
+jsonp
+libappstream-glib
+metadata-extractor2 >= 2.9.0
+signpost-core >= 1.2.1.1
+svgsalamander

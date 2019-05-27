@@ -1,0 +1,13 @@
+dbus-glib-devel
+desktop-file-utils
+gobject-introspection-devel
+gtk3-devel
+libSM-devel
+libcanberra-devel
+libmateweather-devel
+librsvg2-devel
+libwnck3-devel
+mate-common
+mate-desktop-devel
+mate-menus-devel
+yelp-tools

@@ -1,0 +1,5 @@
+cmake
+glib2-devel
+libxcb-devel
+python-docutils
+xcb-util-devel

@@ -1,0 +1,9 @@
+gtk-doc
+meson
+pkgconfig(check)
+pkgconfig(glib-2.0)
+pkgconfig(gnutls)
+pkgconfig(gobject-2.0)
+pkgconfig(gsignond)
+pkgconfig(json-glib-1.0)
+pkgconfig(libsoup-2.4)

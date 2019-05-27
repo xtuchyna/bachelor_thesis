@@ -1,0 +1,7 @@
+allegro-devel
+desktop-file-utils
+dumb-devel
+gcc
+libappstream-glib
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

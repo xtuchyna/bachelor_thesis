@@ -1,0 +1,17 @@
+findutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IO::String)
+perl(POSIX)
+perl(Term::ReadKey) >= 2.3
+perl(Term::Size)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

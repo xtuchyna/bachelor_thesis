@@ -1,0 +1,10 @@
+chrpath
+glib2-devel
+libev-devel
+ocaml >= 3.10.0
+ocaml-camlp4-devel
+ocaml-findlib-devel
+ocaml-ocamlbuild
+ocaml-ocamldoc
+ocaml-react-devel >= 1.0.0
+ocaml-ssl-devel >= 0.5.1

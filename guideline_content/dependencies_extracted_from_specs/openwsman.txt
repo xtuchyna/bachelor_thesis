@@ -1,0 +1,17 @@
+cmake
+libcurl-devel
+libxml2-devel
+openssl-devel
+pam-devel
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig
+python3
+python3-devel
+ruby
+ruby-devel
+rubygems-devel
+sblim-sfcc-devel
+swig
+systemd-units

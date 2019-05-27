@@ -1,0 +1,10 @@
+nodejs-packaging >= 6
+npm(connect)
+npm(connect-livereload)
+npm(grunt)
+npm(grunt-cli)
+npm(grunt-contrib-internal)
+npm(grunt-contrib-nodeunit)
+npm(opn)
+npm(portscanner)
+npm(serve-static)

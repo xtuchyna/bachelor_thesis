@@ -1,0 +1,13 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(POSIX)
+perl(Test::More)
+perl(Time::Local)
+perl(Time::Piece)
+perl(integer)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

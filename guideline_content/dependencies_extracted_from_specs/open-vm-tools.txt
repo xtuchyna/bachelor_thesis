@@ -1,0 +1,26 @@
+autoconf
+automake
+doxygen
+fuse-devel
+gcc-c++
+gdk-pixbuf2-xlib-devel
+glib2-devel >= 2.14.0
+gtk3-devel >= 3.10.0
+gtkmm30-devel >= 3.10.0
+libX11-devel
+libXext-devel
+libXi-devel
+libXinerama-devel
+libXrandr-devel
+libXrender-devel
+libXtst-devel
+libdnet-devel
+libicu-devel
+libmspack-devel
+libtool
+libtool-ltdl-devel
+openssl-devel
+pam-devel
+procps-devel
+systemd
+xmlsec1-openssl-devel

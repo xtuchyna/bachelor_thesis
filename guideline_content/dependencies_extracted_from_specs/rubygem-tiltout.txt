@@ -1,0 +1,5 @@
+ruby(release)
+rubygem(minitest)
+rubygem(mocha)
+rubygem(tilt) >= 1.3
+rubygems-devel

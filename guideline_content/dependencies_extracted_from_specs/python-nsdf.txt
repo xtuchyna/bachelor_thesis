@@ -1,0 +1,5 @@
+python2-devel
+python2-h5py
+python2-nose
+python2-numpy
+python2-sphinx

@@ -1,0 +1,15 @@
+fontconfig-devel
+freetype-devel
+gettext-devel
+libX11-devel
+libXpm-devel
+liberation-sans-fonts
+libjpeg-devel
+libpng-devel
+libtiff-devel
+libtool
+libwebp-devel
+perl-generators
+perl-interpreter
+pkgconfig
+zlib-devel

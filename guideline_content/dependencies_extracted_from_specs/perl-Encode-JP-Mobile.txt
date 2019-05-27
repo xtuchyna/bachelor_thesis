@@ -1,0 +1,20 @@
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(Encode) >= 2.23
+perl(Encode::Alias)
+perl(Encode::CJKConstants)
+perl(Encode::Encoding)
+perl(Encode::MIME::Name)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::ShareDir) >= 0.05
+perl(MIME::Words) >= 5.428
+perl(Test::More)
+perl(XSLoader)
+perl(YAML)
+perl(base)
+perl-Encode-devel
+perl-devel
+perl-generators
+perl-interpreter

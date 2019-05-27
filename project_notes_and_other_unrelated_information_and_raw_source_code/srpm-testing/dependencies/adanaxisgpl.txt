@@ -1,0 +1,12 @@
+SDL_mixer-devel
+desktop-file-utils
+expat-devel
+freeglut-devel
+gcc
+gcc-c++
+libjpeg-devel
+libtiff-devel
+libvorbis-devel
+pcre-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

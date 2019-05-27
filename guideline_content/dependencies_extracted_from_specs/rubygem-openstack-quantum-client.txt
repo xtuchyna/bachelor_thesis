@@ -1,0 +1,4 @@
+ruby(release)
+rubygem(fakeweb)
+rubygem(rspec)
+rubygems-devel

@@ -1,0 +1,17 @@
+/usr/bin/perldoc
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Net::XMPP) >= 1.0
+perl(Net::XMPP::Client)
+perl(Net::XMPP::Connection)
+perl(Net::XMPP::Debug)
+perl(Net::XMPP::IQ)
+perl(Net::XMPP::JID)
+perl(Net::XMPP::Message)
+perl(Net::XMPP::Namespaces)
+perl(Net::XMPP::Presence)
+perl(Net::XMPP::Stanza)
+perl(Test::More)
+perl(Time::Timezone)
+perl(base)
+perl-generators

@@ -1,0 +1,9 @@
+nodejs-packaging
+npm(generic-pool)
+npm(mime)
+npm(mocha)
+npm(request)
+npm(srs) >= 0.4.1
+npm(step)
+npm(underscore)
+npm(zipfile) >= 0.5.5

@@ -1,0 +1,21 @@
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::HomeDir) >= 0.50
+perl(File::Path) >= 2.00
+perl(File::Spec)
+perl(FindBin)
+perl(List::MoreUtils) >= 0.419
+perl(List::MoreUtils::XS) >= 0.418
+perl(Test::More) >= 0.9
+perl(local::lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

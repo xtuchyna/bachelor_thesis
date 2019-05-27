@@ -1,0 +1,16 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(Filter::Simple) >= 0.8
+perl(IO::Capture::Stderr::Extended)
+perl(IO::Capture::Stdout)
+perl(IO::Capture::Stdout::Extended)
+perl(IO::Capture::Tie_STDx)
+perl(List::Util)
+perl(Module::Build)
+perl(Test::Deep)
+perl(Test::More) >= 0.94
+perl(Text::Balanced) >= 2
+perl(Try::Tiny)
+perl(lib)
+perl(version) >= 0.77
+perl-generators

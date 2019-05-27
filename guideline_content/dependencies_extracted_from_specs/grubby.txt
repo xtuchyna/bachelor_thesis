@@ -1,0 +1,7 @@
+git-core
+glib2-devel
+grub2-tools-minimal
+libblkid-devel
+pkgconfig
+popt-devel
+util-linux-ng

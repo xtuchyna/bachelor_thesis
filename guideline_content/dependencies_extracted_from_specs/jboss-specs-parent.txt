@@ -1,0 +1,5 @@
+javapackages-local
+jboss-parent
+jpackage-utils
+maven-compiler-plugin
+maven-release-plugin

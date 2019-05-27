@@ -1,0 +1,17 @@
+python-extras
+python-mimeparse >= 0.1.4
+python-pbr
+python-setuptools
+python-sphinx
+python-testscenarios
+python-traceback2
+python-unittest2 >= 1.0.0
+python2-devel
+python3-devel
+python3-extras
+python3-mimeparse
+python3-pbr
+python3-setuptools
+python3-testscenarios
+python3-traceback2
+python3-unittest2

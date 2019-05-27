@@ -1,0 +1,5 @@
+cmdtest
+python2-cliapp
+python2-devel
+python2-markdown
+python2-pep8

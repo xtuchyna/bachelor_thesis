@@ -1,0 +1,7 @@
+/usr/bin/xsltproc
+docbook-style-xsl
+gettext
+glib2-devel >= 2.44.0
+gobject-introspection-devel
+gtk-doc
+meson

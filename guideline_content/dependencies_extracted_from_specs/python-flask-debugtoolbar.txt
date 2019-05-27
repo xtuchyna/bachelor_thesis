@@ -1,0 +1,12 @@
+python2-blinker
+python2-devel
+python2-flask
+python2-itsdangerous
+python2-setuptools
+python2-werkzeug
+python3-blinker
+python3-devel
+python3-flask
+python3-itsdangerous
+python3-setuptools
+python3-werkzeug

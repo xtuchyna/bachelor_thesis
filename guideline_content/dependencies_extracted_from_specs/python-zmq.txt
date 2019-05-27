@@ -1,0 +1,12 @@
+chrpath
+python2-Cython
+python2-devel
+python2-pytest
+python2-setuptools
+python2-tools
+python2-tornado
+python3-devel
+python3-pytest
+python3-setuptools
+python3-tornado
+zeromq-devel

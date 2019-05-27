@@ -1,0 +1,31 @@
+coreutils
+make
+perl(B)
+perl(CPAN::Meta) >= 2.120900
+perl(CPAN::Meta::Prereqs)
+perl(Carp)
+perl(Const::Fast)
+perl(Eval::Closure)
+perl(Exception::Class)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) > 6.75
+perl(File::Spec)
+perl(Hash::Util)
+perl(List::Util) >= 1.29
+perl(Moose::Util::TypeConstraints)
+perl(Scalar::Util)
+perl(Specio) >= 0.14
+perl(Specio::Declare)
+perl(Specio::Library::Builtins)
+perl(Sub::Util) >= 1.40
+perl(Test2::Plugin::NoWarnings)
+perl(Test2::Require::Module)
+perl(Test2::V0)
+perl(Test::More) >= 1.302015
+perl(Test::Without::Module)
+perl(Types::Standard)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

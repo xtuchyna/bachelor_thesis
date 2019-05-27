@@ -1,0 +1,7 @@
+binutils
+desktop-file-utils
+fpc
+fpc-src
+glibc-devel
+gtk2-devel
+perl-generators

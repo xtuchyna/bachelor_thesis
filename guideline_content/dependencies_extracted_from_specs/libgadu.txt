@@ -1,0 +1,9 @@
+curl-devel
+doxygen
+expat-devel
+gnutls-devel
+gsm-devel
+libxml2-devel
+protobuf-c-devel >= 1.0.0
+speex-devel
+zlib-devel

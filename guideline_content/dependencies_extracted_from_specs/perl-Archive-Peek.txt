@@ -1,0 +1,12 @@
+perl(Archive::Tar)
+perl(Archive::Zip)
+perl(Archive::Zip::MemberRead)
+perl(ExtUtils::MakeMaker)
+perl(IO::Uncompress::Bunzip2)
+perl(Moose)
+perl(MooseX::Types::Path::Class)
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.14
+perl(strict)
+perl(warnings)
+perl-generators

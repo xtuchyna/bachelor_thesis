@@ -1,0 +1,19 @@
+make
+perl(:VERSION) >= 5.8.1
+perl(Carp)
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(HTTP::Date) >= 6
+perl(HTTP::Request) >= 6
+perl(HTTP::Response) >= 6
+perl(HTTP::Status) >= 6
+perl(IO::Socket::IP)
+perl(LWP::MediaTypes) >= 6
+perl(Socket)
+perl(Sys::Hostname)
+perl(Test::More)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

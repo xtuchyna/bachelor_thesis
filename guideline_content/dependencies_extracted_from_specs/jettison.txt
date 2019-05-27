@@ -1,0 +1,6 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.codehaus.woodstox:woodstox-core-asl)
+mvn(org.codehaus:codehaus-parent:pom:)
+mvn(stax:stax-api)

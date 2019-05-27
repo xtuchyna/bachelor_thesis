@@ -1,0 +1,5 @@
+fipscheck
+gawk
+libgpg-error-devel >= 1.11
+pkgconfig
+texinfo

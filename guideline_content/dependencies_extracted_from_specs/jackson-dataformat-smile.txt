@@ -1,0 +1,6 @@
+maven-local
+mvn(com.fasterxml.jackson.core:jackson-core)
+mvn(com.fasterxml.jackson.core:jackson-databind)
+mvn(com.fasterxml.jackson:jackson-parent:pom:)
+mvn(com.google.code.maven-replacer-plugin:replacer)
+mvn(junit:junit)

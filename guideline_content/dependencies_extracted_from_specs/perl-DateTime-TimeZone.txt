@@ -1,0 +1,46 @@
+make
+perl(Class::Singleton) >= 1.03
+perl(Cwd) >= 3
+perl(Data::Dumper)
+perl(DateTime)
+perl(DateTime) >= 0.1501
+perl(DateTime::Duration)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Compare)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Find::Rule)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(Getopt::Long)
+perl(List::Util)
+perl(List::Util) >= 1.33
+perl(Locale::Country) >= 3.11
+perl(Module::Runtime)
+perl(Parallel::ForkManager)
+perl(Params::ValidationCompiler) >= 0.13
+perl(Specio::Library::Builtins)
+perl(Specio::Library::String)
+perl(Storable)
+perl(Sys::Hostname)
+perl(Test::Fatal)
+perl(Test::More) >= 0.96
+perl(Test::Output)
+perl(Test::Requires)
+perl(Test::Taint)
+perl(Try::Tiny)
+perl(base)
+perl(constant)
+perl(integer)
+perl(lib)
+perl(namespace::autoclean)
+perl(overload)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

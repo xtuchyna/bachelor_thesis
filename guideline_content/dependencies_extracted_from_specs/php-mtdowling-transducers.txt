@@ -1,0 +1,4 @@
+/usr/bin/phpunit
+php(language) >= 5.5.0
+php-json
+php-spl

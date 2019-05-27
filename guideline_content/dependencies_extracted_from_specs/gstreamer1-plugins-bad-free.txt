@@ -1,0 +1,56 @@
+OpenEXR-devel
+bluez-libs-devel >= 5.0
+bzip2-devel
+check
+exempi-devel
+fluidsynth-devel
+game-music-emu-devel
+gettext-devel
+gnutls-devel
+gobject-introspection-devel >= 1.31.1
+gsm-devel
+gstreamer1-devel >= 1.14.0
+gstreamer1-plugins-base-devel >= 1.14.0
+gtk-doc
+gtk3-devel >= 3.4
+jasper-devel
+ladspa-devel
+lcms2-devel
+libXt-devel
+libass-devel
+libbs2b-devel >= 3.1.0
+libchromaprint-devel
+libcurl-devel
+libdvdnav-devel
+libexif-devel
+libgcrypt-devel
+libiptcdata-devel
+libkate-devel
+libmodplug-devel
+libmpcdec-devel
+libofa-devel
+liboil-devel
+librsvg2-devel
+libsndfile-devel
+libsrtp-devel
+libvdpau-devel
+libwayland-client-devel
+libwebp-devel
+mesa-libEGL-devel
+mesa-libGL-devel
+mesa-libGLES-devel
+mesa-libGLU-devel
+nettle-devel
+openal-soft-devel
+openjpeg-devel
+openssl-devel
+opus-devel
+orc-devel
+pkgconfig(gudev-1.0)
+pkgconfig(libusb-1.0)
+soundtouch-devel
+wavpack-devel
+webrtc-audio-processing-devel
+wildmidi-devel
+zbar-devel
+zvbi-devel

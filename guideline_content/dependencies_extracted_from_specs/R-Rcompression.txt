@@ -1,0 +1,7 @@
+R-devel >= 3.4.0
+autoconf
+automake
+bzip2-devel
+libtool
+minizip-devel
+zlib-devel

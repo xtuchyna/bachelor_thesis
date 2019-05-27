@@ -1,0 +1,26 @@
+coreutils
+findutils
+glibc-common
+libpcap-devel
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::Constant)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Socket)
+perl(Symbol)
+perl(Test)
+perl(Test::Distribution)
+perl(Test::More) >= 0.45
+perl(XSLoader)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

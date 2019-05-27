@@ -1,0 +1,9 @@
+cmake >= 2.8.6
+fftw3-devel
+pkgconfig(Qt5Core)
+pkgconfig(Qt5DBus)
+pkgconfig(QtNetwork)
+pkgconfig(QtSql)
+pkgconfig(QtXml)
+pkgconfig(samplerate)
+ruby

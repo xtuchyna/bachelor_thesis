@@ -1,0 +1,7 @@
+ant-antlr
+ant-contrib
+ant-junit
+cpptasks
+java-devel
+jpackage-utils
+maven-local

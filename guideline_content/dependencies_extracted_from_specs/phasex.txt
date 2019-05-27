@@ -1,0 +1,9 @@
+alsa-lib-devel >= 0.9.0
+desktop-file-utils
+glibc-devel >= 2.3.0
+gtk2-devel >= 2.4.0
+jack-audio-connection-kit-devel >= 0.99.0
+lash-devel
+libICE-devel
+libsamplerate-devel >= 0.1.2
+perl-interpreter

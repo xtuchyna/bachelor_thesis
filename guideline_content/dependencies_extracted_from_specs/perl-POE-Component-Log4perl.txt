@@ -1,0 +1,6 @@
+perl(ExtUtils::MakeMaker)
+perl(Log::Log4perl)
+perl(POE)
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

@@ -1,0 +1,39 @@
+pyOpenSSL
+pycrypto >= 2.5
+pytest
+python-dateutil
+python-decorator
+python-defusedxml
+python-mako
+python-memcached >= 1.51
+python-paste
+python-pyasn1
+python-pymongo
+python-repoze-who
+python-requests >= 1.0.0
+python-setuptools
+python-six
+python-sphinx
+python-webob
+python-zope-interface
+python2-devel
+python3-crypto >= 2.5
+python3-dateutil
+python3-decorator
+python3-defusedxml
+python3-devel
+python3-mako
+python3-memcached >= 1.51
+python3-paste
+python3-pyOpenSSL
+python3-pyasn1
+python3-pymongo
+python3-pytest
+python3-pytz
+python3-repoze-who
+python3-requests >= 1.0.0
+python3-setuptools
+python3-six
+python3-webob
+python3-zope-interface
+pytz

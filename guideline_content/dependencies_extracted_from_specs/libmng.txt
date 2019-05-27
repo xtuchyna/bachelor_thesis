@@ -1,0 +1,5 @@
+autoconf
+lcms2-devel
+libjpeg-turbo-devel
+libtool
+zlib-devel

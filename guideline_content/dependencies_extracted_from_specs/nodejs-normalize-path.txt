@@ -1,0 +1,5 @@
+/usr/bin/npm
+mocha
+nodejs-packaging
+npm(minimist)
+npm(should)

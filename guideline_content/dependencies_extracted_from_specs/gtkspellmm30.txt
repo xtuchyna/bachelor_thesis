@@ -1,0 +1,5 @@
+gcc-c++
+gtkmm30-devel
+gtkmm30-doc
+gtkspell3-devel
+make

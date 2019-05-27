@@ -1,0 +1,6 @@
+desktop-file-utils
+gcc
+gettext
+intltool
+pkgconfig(gtk+-2.0)
+pkgconfig(libfm)

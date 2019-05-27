@@ -1,0 +1,13 @@
+perl(Config)
+perl(Cwd)
+perl(Digest::MD5)
+perl(IO::Select)
+perl(IO::Socket)
+perl(MIME::Base64)
+perl(Net::SSLeay)
+perl(POSIX)
+perl(Pod::Man)
+perl(Socket)
+perl(Test::Simple)
+perl-generators
+perl-interpreter

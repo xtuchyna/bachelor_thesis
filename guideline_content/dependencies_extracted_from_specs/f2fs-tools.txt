@@ -1,0 +1,6 @@
+autoconf
+automake
+libselinux-devel
+libtool
+libuuid-devel
+uuid-devel

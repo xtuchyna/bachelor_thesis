@@ -1,0 +1,12 @@
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(File::Spec)
+perl(Module::Build)
+perl(POSIX)
+perl(Test::More)
+perl(lib)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

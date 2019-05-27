@@ -1,0 +1,7 @@
+alsa-lib-devel
+asciidoc
+libconfuse-devel
+libnl3-devel
+pulseaudio-libs-devel
+wireless-tools-devel
+yajl-devel

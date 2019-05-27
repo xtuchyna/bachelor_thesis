@@ -1,0 +1,6 @@
+bzip2-devel
+cmake
+fftw-devel
+gcc
+libpng-devel
+zlib-devel

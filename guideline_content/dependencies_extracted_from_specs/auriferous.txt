@@ -1,0 +1,2 @@
+ClanLib06-devel >= ClanLib06-0.6.5-16
+desktop-file-utils

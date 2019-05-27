@@ -1,0 +1,14 @@
+autoconf
+automake
+dbus-devel
+groff
+libcgroup-devel
+libibverbs-devel
+libqb-devel >= 0.14.2
+librdmacm-devel
+libtool
+net-snmp-devel
+nss-devel
+sed
+systemd-units
+zlib-devel

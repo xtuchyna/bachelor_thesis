@@ -1,0 +1,9 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.codehaus.jackson:jackson-mapper-asl)
+mvn(org.hamcrest:hamcrest-library)
+mvn(org.mockito:mockito-core)
+mvn(org.springframework.security:spring-security-crypto)
+mvn(org.springframework.social:spring-social-core)
+mvn(org.springframework:spring-test)

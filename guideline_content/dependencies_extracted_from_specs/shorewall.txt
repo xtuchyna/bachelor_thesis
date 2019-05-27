@@ -1,0 +1,4 @@
+perl(Digest::SHA)
+perl-generators
+perl-interpreter
+systemd

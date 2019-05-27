@@ -1,0 +1,18 @@
+coreutils
+findutils
+make
+perl(Data::Dumper)
+perl(File::Find)
+perl(File::Temp)
+perl(Math::Spline)
+perl(Module::Build)
+perl(SVG) >= 2.27
+perl(Statistics::Descriptive) >= 2.6
+perl(Test::More)
+perl(Tree::DAG_Node) >= 1.04
+perl(base)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

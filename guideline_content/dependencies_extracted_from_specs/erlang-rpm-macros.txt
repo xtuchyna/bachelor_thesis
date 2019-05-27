@@ -1,0 +1,6 @@
+erlang-crypto
+erlang-erlsyslog
+erlang-erts
+python3-pybeam
+python3-pyelftools
+python3-rpm

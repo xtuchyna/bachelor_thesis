@@ -1,0 +1,8 @@
+autoconf
+automake
+gcc
+libtool
+make
+opencl-headers
+ruby
+rubygems

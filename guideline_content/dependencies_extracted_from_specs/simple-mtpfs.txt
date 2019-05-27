@@ -1,0 +1,2 @@
+fuse-devel >= 2.7.3
+libmtp-devel

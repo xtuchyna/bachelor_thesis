@@ -1,0 +1,4 @@
+php(language) >= 5.5
+php-composer(phpunit/phpunit) >= 4.7
+php-fedora-autoloader-devel
+php-spl

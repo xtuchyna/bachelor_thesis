@@ -1,0 +1,36 @@
+ImageMagick-c++-devel
+aspell-devel
+aspell-en
+atk-devel
+boost-devel
+cairo-devel
+cmake
+dbus-glib-devel
+desktop-file-utils
+dos2unix
+freetype-devel
+gc-devel >= 6.4
+gettext
+gnome-vfs2-devel
+gsl-devel
+gtk3-devel
+gtkmm24-devel
+gtkspell3-devel
+intltool
+lcms2-devel
+libappstream-glib
+libgdl-devel
+libjpeg-devel
+libpng-devel >= 1.2
+libsigc++20-devel
+libtool
+libwpd-devel
+libwpg-devel
+libxml2-devel >= 2.6.11
+libxslt-devel >= 1.0.15
+pango-devel
+pkgconfig
+poppler-glib-devel
+popt-devel
+potrace-devel
+python-devel

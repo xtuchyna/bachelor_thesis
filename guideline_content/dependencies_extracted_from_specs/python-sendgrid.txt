@@ -1,0 +1,14 @@
+PyYAML
+python-flask
+python-setuptools
+python-werkzeug
+python2-devel
+python2-http-client
+python2-six
+python3-PyYAML
+python3-devel
+python3-flask
+python3-http-client
+python3-setuptools
+python3-six
+python3-werkzeug

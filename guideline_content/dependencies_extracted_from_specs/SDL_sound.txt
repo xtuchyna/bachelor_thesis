@@ -1,0 +1,9 @@
+SDL-devel
+doxygen
+flac-devel
+libmodplug-devel
+libogg-devel
+libvorbis-devel
+mikmod-devel
+physfs-devel
+speex-devel

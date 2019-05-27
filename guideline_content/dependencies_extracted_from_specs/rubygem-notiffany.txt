@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(nenv)
+rubygem(rspec)
+rubygem(shellany)
+rubygems-devel

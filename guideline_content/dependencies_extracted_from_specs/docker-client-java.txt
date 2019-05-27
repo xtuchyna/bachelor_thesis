@@ -1,0 +1,17 @@
+maven-local
+mvn(com.fasterxml.jackson.core:jackson-databind)
+mvn(com.fasterxml.jackson.datatype:jackson-datatype-guava)
+mvn(com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider)
+mvn(com.github.jnr:jnr-unixsocket) >= 0.18
+mvn(com.google.guava:guava)
+mvn(commons-lang:commons-lang)
+mvn(org.apache.commons:commons-compress)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.httpcomponents:httpclient)
+mvn(org.apache.httpcomponents:httpcore)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.bouncycastle:bcpkix-jdk15on)
+mvn(org.glassfish.jersey.connectors:jersey-apache-connector)
+mvn(org.glassfish.jersey.core:jersey-client)
+mvn(org.glassfish.jersey.media:jersey-media-json-jackson)
+mvn(org.slf4j:slf4j-api)

@@ -1,0 +1,17 @@
+cryptsetup-devel
+device-mapper-devel
+dmraid-devel
+glib2-devel
+glib2-doc
+gobject-introspection-devel
+gtk-doc
+kmod-devel
+libblkid-devel
+libbytesize-devel
+libmount-devel
+nss-devel
+parted-devel
+python2-devel
+python3-devel
+systemd-devel
+volume_key-devel >= 0.3.9-7

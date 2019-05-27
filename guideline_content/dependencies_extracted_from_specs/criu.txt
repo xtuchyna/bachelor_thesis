@@ -1,0 +1,10 @@
+asciidoc
+libcap-devel
+libnet-devel
+libnl3-devel
+perl-interpreter
+protobuf-c-devel
+protobuf-devel
+python2-devel
+systemd
+xmlto

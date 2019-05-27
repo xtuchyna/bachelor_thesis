@@ -1,0 +1,9 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Pod::Parser) >= 1.13
+perl(Test) >= 1.15
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,9 @@
+perl(Cwd)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(Test::More)
+perl(base)
+perl(lib)
+perl-generators
+perl-interpreter >= 1:5.6.1

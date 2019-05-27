@@ -1,0 +1,6 @@
+libtool
+pkgconfig(fontenc)
+pkgconfig(freetype2)
+pkgconfig(x11)
+pkgconfig(xorg-macros) >= 1.8
+zlib-devel

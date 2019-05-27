@@ -1,0 +1,3 @@
+/usr/include/popt.h
+autoconf >= 2.69
+zlib-devel

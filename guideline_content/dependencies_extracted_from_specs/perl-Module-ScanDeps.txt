@@ -1,0 +1,31 @@
+make
+perl(B)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(FileHandle)
+perl(Module::Metadata)
+perl(Module::Pluggable)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Requires)
+perl(autouse)
+perl(constant)
+perl(if)
+perl(lib)
+perl(prefork)
+perl(strict)
+perl(vars)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,9 @@
+gawk
+m4
+ncurses-devel
+ocaml >= 4.02.0
+ocaml-camlp4-devel
+ocaml-compiler-libs
+ocaml-labltk-devel
+ocaml-ocamlbuild-devel
+ocaml-ocamldoc

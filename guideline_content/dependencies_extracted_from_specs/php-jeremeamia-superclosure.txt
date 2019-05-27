@@ -1,0 +1,5 @@
+(php-composer(nikic/php-parser) >= 1.4 with php-composer(nikic/php-parser) < 5)
+(php-composer(symfony/polyfill-php56) >= 1.0 with php-composer(symfony/polyfill-php56) < 2)
+php(language) >= 5.4
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit) >= 4.0

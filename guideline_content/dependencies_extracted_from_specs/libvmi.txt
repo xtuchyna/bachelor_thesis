@@ -1,0 +1,12 @@
+autoconf
+automake
+bison
+flex
+fuse-devel
+gcc
+libtool
+pkgconfig(check)
+pkgconfig(glib-2.0)
+pkgconfig(json-c)
+pkgconfig(libvirt)
+xen-devel

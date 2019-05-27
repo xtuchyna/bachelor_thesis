@@ -1,0 +1,4 @@
+perl(Any::Moose)
+perl(ExtUtils::MakeMaker)
+perl(Test::Most)
+perl-generators

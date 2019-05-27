@@ -1,0 +1,6 @@
+nodejs-grunt-contrib-concat
+nodejs-grunt-contrib-uglify
+nodejs-grunt-wrap
+nodejs-packaging
+uglify-js
+web-assets-devel

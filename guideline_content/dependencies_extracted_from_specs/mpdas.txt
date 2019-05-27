@@ -1,0 +1,2 @@
+libcurl-devel
+libmpdclient-devel

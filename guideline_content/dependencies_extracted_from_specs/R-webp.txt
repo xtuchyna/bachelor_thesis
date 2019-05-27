@@ -1,0 +1,5 @@
+R-devel
+R-jpeg
+R-png
+libwebp-devel
+tex(latex)

@@ -1,0 +1,9 @@
+clutter-gtk-devel
+desktop-file-utils
+gtk3-devel
+intltool
+itstool
+libcanberra-devel
+libgee-devel
+libgnome-games-support-devel
+librsvg2-devel

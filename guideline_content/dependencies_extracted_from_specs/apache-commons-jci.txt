@@ -1,0 +1,13 @@
+ecj >= 3.4.2-13
+maven-antrun-plugin
+maven-local
+maven-plugin-bundle
+mvn(commons-io:commons-io)
+mvn(commons-logging:commons-logging)
+mvn(junit:junit)
+mvn(org.apache.commons:commons-lang3)
+mvn(org.apache.commons:commons-parent:pom:)
+mvn(org.codehaus.groovy:groovy)
+mvn(org.codehaus.janino:janino)
+mvn(rhino:js)
+objectweb-asm3

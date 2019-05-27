@@ -1,0 +1,10 @@
+AllegroOGG-devel
+adime-devel
+automake
+desktop-file-utils
+freetype-devel
+gcc-objc
+glyph-keeper-allegro-devel
+gnustep-base-devel
+libpng-devel
+zziplib-devel

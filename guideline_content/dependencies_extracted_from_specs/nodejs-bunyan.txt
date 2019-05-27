@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(moment)
+npm(mv)
+npm(nodeunit)
+npm(safe-json-stringify)
+npm(vasync)
+npm(verror)

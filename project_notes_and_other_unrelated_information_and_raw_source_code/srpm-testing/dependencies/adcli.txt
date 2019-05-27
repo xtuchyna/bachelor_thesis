@@ -1,0 +1,11 @@
+gcc
+gettext-devel
+intltool
+krb5-devel
+libtool
+libxslt
+openldap-devel
+pkgconfig
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+xmlto

@@ -1,0 +1,27 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(Encode)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IO::Pty) >= 1.08
+perl(IO::Tty)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Symbol)
+perl(Test::More) >= 0.47
+perl(bytes)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

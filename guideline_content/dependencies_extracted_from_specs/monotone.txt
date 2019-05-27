@@ -1,0 +1,12 @@
+bash-completion
+boost-devel >= 1.33.1
+botan-devel >= 1.6.3
+cvs
+expect
+libidn-devel
+lua-devel >= 5.1
+pcre-devel >= 7.4
+perl-generators
+sqlite-devel >= 3.3.8
+systemd
+zlib-devel

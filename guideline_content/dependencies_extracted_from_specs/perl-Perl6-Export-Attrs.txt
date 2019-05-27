@@ -1,0 +1,8 @@
+perl(Attribute::Handlers)
+perl(Carp)
+perl(Module::Build)
+perl(PadWalker)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

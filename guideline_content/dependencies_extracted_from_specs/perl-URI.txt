@@ -1,0 +1,30 @@
+coreutils
+findutils
+make
+perl(Business::ISBN)
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Encode)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(MIME::Base64) >= 2
+perl(Net::Domain)
+perl(Scalar::Util)
+perl(Storable)
+perl(Test)
+perl(Test::More) >= 0.96
+perl(Test::Needs)
+perl(constant)
+perl(integer)
+perl(overload)
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

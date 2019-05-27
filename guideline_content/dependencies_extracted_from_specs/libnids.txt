@@ -1,0 +1,6 @@
+/usr/include/pcap.h
+automake
+glib2-devel
+libnet-devel
+libtool
+pkgconfig

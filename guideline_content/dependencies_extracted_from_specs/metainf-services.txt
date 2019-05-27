@@ -1,0 +1,2 @@
+maven-local
+mvn(org.kohsuke:pom:pom:)

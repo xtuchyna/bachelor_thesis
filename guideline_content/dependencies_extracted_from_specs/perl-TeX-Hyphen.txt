@@ -1,0 +1,8 @@
+make
+perl(Benchmark)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(strict)
+perl(utf8)
+perl(vars)
+perl-generators
+perl-interpreter

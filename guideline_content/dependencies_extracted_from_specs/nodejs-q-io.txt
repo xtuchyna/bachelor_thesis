@@ -1,0 +1,8 @@
+nodejs-packaging
+npm(collections)
+npm(jasmine-node)
+npm(mime)
+npm(mimeparse)
+npm(q)
+npm(qs)
+npm(url2)

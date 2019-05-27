@@ -1,0 +1,10 @@
+desktop-file-utils
+gobject-introspection-devel
+gsettings-desktop-schemas-devel
+intltool
+json-glib-devel
+libnotify-devel
+libpeas-devel
+libxslt-devel
+sqlite-devel
+webkit2gtk3-devel

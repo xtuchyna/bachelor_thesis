@@ -1,0 +1,3 @@
+gawk
+libgcrypt-devel >= 1.2.0
+libgpg-error-devel >= 1.8

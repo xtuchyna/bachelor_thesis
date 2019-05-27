@@ -1,0 +1,16 @@
+libxml2-devel
+libxslt-devel
+python2-cssselect
+python2-devel
+python2-lxml
+python2-queuelib
+python2-sphinx
+python2-twisted
+python2-w3lib
+python3-cssselect
+python3-devel
+python3-lxml
+python3-queuelib
+python3-sphinx
+python3-twisted
+python3-w3lib

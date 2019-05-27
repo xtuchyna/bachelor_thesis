@@ -1,0 +1,7 @@
+check-devel
+chrpath
+gengetopt
+gnupg2
+help2man
+openssl-devel
+pcsc-lite-devel

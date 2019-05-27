@@ -1,0 +1,8 @@
+GConf2-devel
+evolution-data-server-devel
+evolution-devel
+gettext
+gnome-common
+intltool
+libtool
+perl(XML::Parser)

@@ -1,0 +1,13 @@
+alsa-lib-devel
+audiofile-devel
+desktop-file-utils
+fftw-devel
+fltk-devel
+fltk-fluid
+jack-audio-connection-kit-devel
+libogg-devel
+libsamplerate-devel
+libvorbis-devel
+mxml-devel
+portaudio-devel
+zlib-devel

@@ -1,0 +1,8 @@
+desktop-file-utils
+dos2unix
+eigen3-devel
+libQGLViewer-qt5-devel
+libappstream-glib
+mesa-libGLU-devel
+qt5-qtbase-devel
+qt5-qttools-devel

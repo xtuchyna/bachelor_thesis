@@ -1,0 +1,6 @@
+libX11-devel
+perl(ExtUtils::MakeMaker)
+perl(Tk)
+perl(Tk::MMutil)
+perl-devel
+perl-generators

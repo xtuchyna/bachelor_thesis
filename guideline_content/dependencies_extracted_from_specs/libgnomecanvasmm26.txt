@@ -1,0 +1,2 @@
+gtkmm24-devel >= 2.4.0
+libgnomecanvas-devel >= 2.6.0

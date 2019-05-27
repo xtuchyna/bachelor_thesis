@@ -1,0 +1,9 @@
+git
+pandoc
+python3-devel
+python3-ipykernel
+python3-ipython-sphinx
+python3-jupyter-client
+python3-nbconvert
+python3-setuptools
+python3-sphinx

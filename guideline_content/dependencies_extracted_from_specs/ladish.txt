@@ -1,0 +1,14 @@
+PyYAML
+alsa-lib-devel
+boost-devel
+dbus-devel
+dbus-glib-devel
+desktop-file-utils
+expat-devel
+flowcanvas-devel
+gtk2-devel
+intltool
+jack-audio-connection-kit-devel
+libuuid-devel
+pygtk2-devel
+python2-devel

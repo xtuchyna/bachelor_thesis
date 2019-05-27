@@ -1,0 +1,5 @@
+asciidoc
+python3-devel
+python3-setuptools
+systemd-units
+xmlto

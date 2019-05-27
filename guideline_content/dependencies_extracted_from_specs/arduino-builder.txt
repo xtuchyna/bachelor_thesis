@@ -1,0 +1,5 @@
+gcc
+git
+golang >= 1.4.3
+golang(github.com/go-errors/errors)
+golang(github.com/stretchr/testify)

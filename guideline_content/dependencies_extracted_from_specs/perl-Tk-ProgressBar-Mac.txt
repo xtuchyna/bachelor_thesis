@@ -1,0 +1,5 @@
+perl(Tk)
+perl(Tk::MMutil)
+perl-generators
+xorg-x11-fonts-base
+xorg-x11-server-Xvfb

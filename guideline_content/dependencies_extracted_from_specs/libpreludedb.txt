@@ -1,0 +1,19 @@
+bison
+chrpath
+flex
+glib2-devel
+gtk-doc
+libgpg-error-devel
+mariadb-connector-c-devel
+perl-devel
+perl-generators
+pkgconfig(gnutls)
+pkgconfig(libprelude) >= 4.1.0
+pkgconfig(openssl)
+pkgconfig(sqlite3)
+pkgconfig(zlib)
+postgresql-devel
+python2-devel
+python3-devel
+swig
+valgrind

@@ -1,0 +1,6 @@
+ruby(release)
+rubygem(activesupport)
+rubygem(i18n)
+rubygem(rspec)
+rubygem(tzinfo)
+rubygems-devel

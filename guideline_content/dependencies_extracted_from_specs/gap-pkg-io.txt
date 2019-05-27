@@ -1,0 +1,4 @@
+gap-devel
+gap-pkg-autodoc
+gcc
+pkgconfig

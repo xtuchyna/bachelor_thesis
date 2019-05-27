@@ -1,0 +1,15 @@
+cmake
+dbus-python
+doxygen
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Network)
+pkgconfig(Qt5Xml)
+pkgconfig(QtDBus)
+pkgconfig(QtNetwork)
+pkgconfig(QtXml)
+pkgconfig(farstream-0.2)
+pkgconfig(gio-2.0)
+pkgconfig(gstreamer-1.0)
+pkgconfig(telepathy-farstream) >= 0.6
+pkgconfig(telepathy-glib) >= 0.18
+python2-devel >= 2.7

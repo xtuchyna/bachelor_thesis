@@ -1,0 +1,4 @@
+R-devel
+R-testthat
+openssl-devel >= 1.0.1
+tex(latex)

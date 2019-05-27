@@ -1,0 +1,5 @@
+libaio-devel
+libblkid-devel
+python
+python-devel
+systemd-units

@@ -1,0 +1,4 @@
+efivar-devel >= 34-1
+efivar-libs >= 34-1
+git
+popt-devel

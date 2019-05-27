@@ -1,0 +1,8 @@
+perl(Class::DBI) >= 0.9
+perl(DBD::SQLite)
+perl(DBI)
+perl(ExtUtils::MakeMaker)
+perl(SQL::Abstract)
+perl(Test::More)
+perl(base)
+perl-generators

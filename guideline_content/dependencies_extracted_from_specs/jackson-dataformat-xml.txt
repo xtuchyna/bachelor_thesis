@@ -1,0 +1,11 @@
+maven-local
+mvn(com.fasterxml.jackson.core:jackson-annotations) >= 2.9.4
+mvn(com.fasterxml.jackson.core:jackson-core) >= 2.9.4
+mvn(com.fasterxml.jackson.core:jackson-databind) >= 2.9.4
+mvn(com.fasterxml.jackson.module:jackson-module-jaxb-annotations)
+mvn(com.fasterxml.jackson:jackson-base:pom:) >= 2.9.4
+mvn(com.fasterxml.woodstox:woodstox-core)
+mvn(com.google.code.maven-replacer-plugin:replacer)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.codehaus.woodstox:stax2-api)

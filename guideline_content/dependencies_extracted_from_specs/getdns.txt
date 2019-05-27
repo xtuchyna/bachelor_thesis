@@ -1,0 +1,7 @@
+doxygen
+libevent-devel
+libidn2-devel
+libyaml-devel
+openssl-devel
+pkgconfig
+unbound-devel

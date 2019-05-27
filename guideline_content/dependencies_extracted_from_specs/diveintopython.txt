@@ -1,0 +1,11 @@
+ant >= 1.8.2
+ant-commons-net
+desktop-file-utils
+htmldoc
+jakarta-commons-net
+java
+python
+w3m
+xalan-j2
+xerces-j2
+xml-commons-apis

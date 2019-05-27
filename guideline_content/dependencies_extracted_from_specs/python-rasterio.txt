@@ -1,0 +1,29 @@
+gdal
+gdal-devel
+python2-Cython
+python2-affine
+python2-attrs
+python2-boto3
+python2-click-plugins
+python2-cligj
+python2-devel
+python2-enum34
+python2-hypothesis
+python2-numpy
+python2-packaging
+python2-pytest
+python2-setuptools
+python2-snuggs >= 1.4.1
+python3-Cython
+python3-affine
+python3-attrs
+python3-boto3
+python3-click-plugins
+python3-cligj
+python3-devel
+python3-hypothesis
+python3-numpy
+python3-packaging
+python3-pytest
+python3-setuptools
+python3-snuggs >= 1.4.1

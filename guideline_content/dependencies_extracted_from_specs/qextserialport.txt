@@ -1,0 +1,2 @@
+libudev-devel
+qt4-devel

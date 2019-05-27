@@ -1,0 +1,12 @@
+WINGs-devel
+autoconf
+automake
+libICE-devel
+libSM-devel
+libX11-devel
+libXext-devel
+libXpm-devel
+libcurl-devel
+openssl-devel
+pcre-devel
+w3c-libwww-devel

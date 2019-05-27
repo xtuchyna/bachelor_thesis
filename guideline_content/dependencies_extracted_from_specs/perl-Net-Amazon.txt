@@ -1,0 +1,12 @@
+perl(Data::Dumper)
+perl(Digest::SHA)
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Message)
+perl(LWP::UserAgent) >= 5.814
+perl(Log::Log4perl) >= 0.3
+perl(Test::More)
+perl(Time::HiRes)
+perl(URI)
+perl(URI::Escape)
+perl(XML::Simple) >= 2.08
+perl-generators

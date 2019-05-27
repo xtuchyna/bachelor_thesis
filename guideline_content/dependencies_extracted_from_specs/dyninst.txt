@@ -1,0 +1,11 @@
+binutils-devel
+boost-devel
+cmake
+elfutils-libelf-devel
+gcc-c++
+gcc-gfortran
+glibc-static
+libdwarf-devel >= 20111030
+libstdc++-static
+libtirpc-devel
+nasm

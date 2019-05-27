@@ -1,0 +1,13 @@
+cmake
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-lcms2
+mingw32-libpng
+mingw32-libtiff
+mingw32-zlib
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-lcms2
+mingw64-libpng
+mingw64-libtiff
+mingw64-zlib

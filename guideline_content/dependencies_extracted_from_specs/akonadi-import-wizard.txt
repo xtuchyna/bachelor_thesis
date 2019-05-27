@@ -1,0 +1,21 @@
+cmake(KF5Auth)
+cmake(KF5Config)
+cmake(KF5Crash)
+cmake(KF5DBusAddons)
+cmake(KF5DocTools)
+cmake(KF5KIO)
+cmake(KF5Wallet)
+cmake(Qt5Widgets)
+desktop-file-utils
+extra-cmake-modules
+gettext
+kf5-akonadi-server-devel >= 17.12
+kf5-kcontacts-devel >= 17.12
+kf5-kidentitymanagement-devel >= 17.12
+kf5-kmailtransport-devel >= 17.12
+kf5-libkdepim-devel >= 17.12
+kf5-mailcommon-devel >= 17.12
+kf5-mailimporter-devel >= 17.12
+kf5-messagelib-devel >= 17.12
+kf5-pimcommon-devel >= 17.12
+kf5-rpm-macros

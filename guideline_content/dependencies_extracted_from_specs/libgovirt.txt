@@ -1,0 +1,7 @@
+dconf
+glib-networking
+glib2-devel
+gnupg2
+gobject-introspection-devel
+intltool
+rest-devel >= 0.7.92

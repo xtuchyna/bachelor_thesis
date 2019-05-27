@@ -1,0 +1,4 @@
+maven-local
+mvn(commons-logging:commons-logging)
+mvn(log4j:log4j:1.2.17)
+mvn(org.testng:testng)

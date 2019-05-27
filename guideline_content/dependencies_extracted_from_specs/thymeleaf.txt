@@ -1,0 +1,7 @@
+maven-local
+mvn(javax.servlet:javax.servlet-api)
+mvn(net.sourceforge.nekohtml:nekohtml)
+mvn(org.apache.commons:commons-ognl)
+mvn(org.javassist:javassist)
+mvn(org.slf4j:slf4j-api)
+mvn(org.unbescape:unbescape)

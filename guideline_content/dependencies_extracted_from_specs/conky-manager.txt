@@ -1,0 +1,7 @@
+desktop-file-utils
+gettext
+glib2-devel
+gtk3-devel
+json-glib-devel
+libgee-devel
+vala-devel

@@ -1,0 +1,24 @@
+/usr/bin/perl
+/usr/bin/rpmbuild
+/usr/bin/tar
+findutils
+gcc
+make
+perl(AutoLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Path)
+perl(File::ShareDir)
+perl(File::Spec)
+perl(File::Temp)
+perl(RPM2)
+perl(Test::More)
+perl(Test::Simple)
+perl(XSLoader)
+perl(inc::Module::Install)
+perl(strict)
+perl(version) >= 0.77
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

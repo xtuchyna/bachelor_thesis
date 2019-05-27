@@ -1,0 +1,28 @@
+coreutils
+findutils
+make
+perl(Carp::Clan)
+perl(Class::Inspector)
+perl(Config)
+perl(Cwd)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::Manifest)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(FileHandle)
+perl(FindBin)
+perl(Scalar::Util) >= 1.14
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(YAML)
+perl(aliased)
+perl(base)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

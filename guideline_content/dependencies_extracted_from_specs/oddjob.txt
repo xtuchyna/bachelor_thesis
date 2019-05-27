@@ -1,0 +1,13 @@
+cyrus-sasl-devel
+dbus-devel >= 0.22
+dbus-x11
+docbook-dtds
+krb5-devel
+libselinux-devel
+libxml2-devel
+openldap-devel
+pam-devel
+pkgconfig
+python-devel
+systemd-units
+xmlto

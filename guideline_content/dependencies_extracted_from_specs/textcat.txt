@@ -1,0 +1,6 @@
+perl(Benchmark)
+perl(Getopt::Std)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

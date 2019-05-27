@@ -1,0 +1,8 @@
+(crate(linked-hash-map) >= 0.5.0 with crate(linked-hash-map) < 0.6.0)
+(crate(num-traits) >= 0.1.37 with crate(num-traits) < 0.2.0)
+(crate(serde) >= 1.0.0 with crate(serde) < 2.0.0)
+(crate(serde_derive) >= 1.0.0 with crate(serde_derive) < 2.0.0)
+(crate(unindent) >= 0.1.0 with crate(unindent) < 0.2.0)
+(crate(version-sync) >= 0.5.0 with crate(version-sync) < 0.6.0)
+(crate(yaml-rust) >= 0.4.0 with crate(yaml-rust) < 0.5.0)
+rust-packaging

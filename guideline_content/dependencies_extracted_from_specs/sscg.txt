@@ -1,0 +1,7 @@
+gcc
+libpath_utils-devel
+libtalloc-devel
+meson
+ninja-build
+openssl-devel
+popt-devel

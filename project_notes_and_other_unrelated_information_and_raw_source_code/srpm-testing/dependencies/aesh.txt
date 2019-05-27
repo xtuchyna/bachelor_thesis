@@ -1,0 +1,6 @@
+maven-local
+mvn(junit:junit)
+mvn(org.fusesource.jansi:jansi)
+mvn(org.jboss:jboss-parent:pom:)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

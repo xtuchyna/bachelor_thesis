@@ -1,0 +1,2 @@
+cmake >= 2.8
+pkgconfig(QtNetwork) >= 4.7

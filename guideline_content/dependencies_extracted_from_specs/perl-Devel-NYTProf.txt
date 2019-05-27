@@ -1,0 +1,39 @@
+coreutils
+findutils
+gcc
+make
+perl(AutoLoader)
+perl(AutoSplit)
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::testlib)
+perl(File::Copy)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(File::Which)
+perl(Getopt::Long)
+perl(List::Util)
+perl(Scalar::Util)
+perl(Sub::Name) >= 0.11
+perl(Test::Differences)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.04
+perl(XSLoader)
+perl(base)
+perl(constant)
+perl(feature)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+zlib-devel

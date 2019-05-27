@@ -1,0 +1,6 @@
+R-R.methodsS3
+R-devel
+R-methods
+R-tools
+R-utils
+tex(latex)

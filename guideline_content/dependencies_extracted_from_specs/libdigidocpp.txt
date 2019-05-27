@@ -1,0 +1,6 @@
+cmake
+pkgconfig(minizip)
+pkgconfig(openssl)
+vim-common
+xml-security-c-devel
+xsd

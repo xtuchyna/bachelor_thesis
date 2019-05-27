@@ -1,0 +1,4 @@
+desktop-file-utils
+intltool
+libglade2-devel
+perl-XML-Parser

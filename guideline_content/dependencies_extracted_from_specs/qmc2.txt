@@ -1,0 +1,8 @@
+SDL2-devel
+desktop-file-utils
+libXmu-devel
+libarchive-devel
+minizip-devel
+phonon-devel
+qt4-webkit-devel
+rsync

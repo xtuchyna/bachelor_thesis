@@ -1,0 +1,5 @@
+R-devel
+R-repr
+R-testthat
+R-withr
+tex(latex)

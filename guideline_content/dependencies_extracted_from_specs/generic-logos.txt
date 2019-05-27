@@ -1,0 +1,3 @@
+hardlink
+kde-filesystem
+libicns-utils

@@ -1,0 +1,16 @@
+GConf2
+dcmtk-devel
+desktop-file-utils
+gcc-c++
+gettext-devel
+intltool
+libappstream-glib
+libjpeg-turbo-devel
+libpng-devel
+libtiff-devel
+libtool
+openssl-devel
+pkgconfig(gconfmm-2.6)
+pkgconfig(gthread-2.0)
+pkgconfig(gtkmm-2.4)
+pkgconfig(libglademm-2.4)

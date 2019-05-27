@@ -1,0 +1,31 @@
+ImageMagick
+asciidoc
+cmake >= 3.0.0
+desktop-file-utils
+gzip
+lua-devel >= 5.1
+lua-ldoc
+lua-lgi >= 0.8.0
+pkgconfig(cairo)
+pkgconfig(cairo-xcb)
+pkgconfig(dbus-1)
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(glib-2.0) >= 2.40
+pkgconfig(libstartup-notification-1.0) >= 0.10
+pkgconfig(libxdg-basedir) >= 1.0.0
+pkgconfig(x11)
+pkgconfig(xcb) >= 1.6
+pkgconfig(xcb-cursor)
+pkgconfig(xcb-icccm) >= 0.3.8
+pkgconfig(xcb-keysyms) >= 0.3.4
+pkgconfig(xcb-randr)
+pkgconfig(xcb-shape)
+pkgconfig(xcb-util) >= 0.3.8
+pkgconfig(xcb-xinerama)
+pkgconfig(xcb-xkb)
+pkgconfig(xcb-xrm) >= 1.0
+pkgconfig(xcb-xtest)
+pkgconfig(xkbcommon)
+pkgconfig(xkbcommon-x11)
+pkgconfig(xproto) >= 7.0.15
+xmlto

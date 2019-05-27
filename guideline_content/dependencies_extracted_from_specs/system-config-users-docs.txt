@@ -1,0 +1,5 @@
+docbook-dtds
+gettext
+gnome-doc-utils
+pkgconfig
+rarian-compat

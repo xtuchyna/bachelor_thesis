@@ -1,0 +1,15 @@
+bison
+coreutils
+findutils
+flex
+gcc
+gcc-c++
+perl(Data::Dumper)
+perl(Getopt::Long)
+perl(IO::File)
+perl(Pod::Usage)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter
+sed

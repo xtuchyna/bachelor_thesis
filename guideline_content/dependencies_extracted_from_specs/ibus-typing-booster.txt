@@ -1,0 +1,14 @@
+hunspell-cs
+hunspell-de
+hunspell-en
+hunspell-es
+hunspell-fr
+hunspell-it
+hunspell-ko
+ibus-devel
+libappstream-glib
+m17n-db-extras
+m17n-lib
+python3-devel
+python3-enchant
+python3-pyxdg

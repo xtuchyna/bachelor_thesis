@@ -1,0 +1,6 @@
+mocha
+nodejs-packaging
+npm(expand-tilde)
+npm(ini)
+npm(osenv)
+npm(which)

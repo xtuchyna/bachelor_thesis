@@ -1,0 +1,4 @@
+gettext
+pkgconfig(gtk+-unix-print-3.0)
+pkgconfig(xdg-desktop-portal) >= 0.10
+systemd

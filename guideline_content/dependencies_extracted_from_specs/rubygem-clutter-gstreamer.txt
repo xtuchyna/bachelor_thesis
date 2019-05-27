@@ -1,0 +1,10 @@
+/usr/bin/xvfb-run
+clutter-gst2
+mesa-dri-drivers
+rubygem(clutter)
+rubygem(gdk_pixbuf2)
+rubygem(gstreamer)
+rubygem(test-unit)
+rubygem(test-unit-notify)
+rubygem-glib2-devel
+rubygems-devel

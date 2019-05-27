@@ -1,0 +1,7 @@
+CUnit-devel
+autoconf
+automake
+libgcrypt-devel
+libtool
+popt-devel
+rdma-core-devel

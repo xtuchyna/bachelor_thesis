@@ -1,0 +1,71 @@
+apache-commons-cli
+apache-commons-codec
+apache-commons-io
+apache-commons-lang
+apr-devel
+apr-util-devel
+cmake >= 2.8.9-1
+cyrus-sasl-devel
+gcc-c++
+httpd-devel >= 2.4.2
+idm-console-framework >= 1.1.17-4
+jakarta-commons-httpclient
+java-1.8.0-openjdk-devel
+jboss-annotations-1.2-api
+jboss-jaxrs-2.0-api
+jboss-logging
+jpackage-utils >= 1.7.5-10
+jss >= 4.4.2-9
+junit
+ldapjdk >= 4.19-5
+nspr-devel
+nss-devel >= 3.28.3
+nuxwdog-client-java >= 1.0.3-13
+openldap-devel
+pcre-devel
+pkgconfig
+policycoreutils
+policycoreutils-python-utils
+pylint
+python2
+python2-cryptography
+python2-devel
+python2-flake8 >= 2.5.4
+python2-ldap
+python2-libselinux
+python2-lxml
+python2-nss
+python2-policycoreutils
+python2-pyflakes >= 1.2.3
+python2-requests >= 2.6.0
+python2-six
+python2-sphinx
+python3
+python3-cryptography
+python3-devel
+python3-flake8 >= 2.5.4
+python3-lxml
+python3-nss
+python3-pyflakes >= 1.2.3
+python3-pyldap
+python3-pylint
+python3-requests >= 2.6.0
+python3-six
+redhat-rpm-config
+resteasy-atom-provider >= 3.0.17-1
+resteasy-client >= 3.0.17-1
+resteasy-core >= 3.0.17-1
+resteasy-jackson-provider >= 3.0.17-1
+resteasy-jaxb-provider >= 3.0.17-1
+slf4j
+slf4j-jdk14
+systemd
+systemd-units
+tomcat >= 1:8.5.23
+tomcatjss >= 7.3.0
+velocity
+xalan-j2
+xerces-j2
+zip
+zlib
+zlib-devel

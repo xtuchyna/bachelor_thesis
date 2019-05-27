@@ -1,0 +1,10 @@
+ImageMagick
+SDL-devel >= 1.2.5
+SDL_Pango-devel
+SDL_image-devel
+SDL_mixer-devel
+SDL_ttf-devel
+autoconf
+automake
+desktop-file-utils
+librsvg2-devel

@@ -1,0 +1,2 @@
+evolution-data-server-devel
+libopensync-devel = 1:0.22

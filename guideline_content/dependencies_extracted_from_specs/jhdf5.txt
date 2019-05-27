@@ -1,0 +1,11 @@
+ImageMagick
+autoconf
+desktop-file-utils
+hdf-static
+hdf5-devel
+java-devel
+javapackages-local
+junit
+libjpeg-devel
+sed
+slf4j

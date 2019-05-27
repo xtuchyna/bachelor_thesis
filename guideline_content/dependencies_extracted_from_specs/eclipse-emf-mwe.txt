@@ -1,0 +1,13 @@
+antlr32-java
+apache-commons-cli
+cbi-plugins
+eclipse-emf-runtime
+eclipse-license
+eclipse-platform >= 1:4.4
+eclipse-xtext
+google-guice
+guava
+maven-gpg-plugin
+sonatype-oss-parent
+tycho
+tycho-extras

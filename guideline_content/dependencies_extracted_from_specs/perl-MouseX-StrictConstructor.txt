@@ -1,0 +1,10 @@
+perl(Module::Install::Makefile)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Mouse) >= 0.62
+perl(Mouse::Exporter)
+perl(Test::More) >= 0.88
+perl(Test::Mouse)
+perl(inc::Module::Install)
+perl-generators
+perl-interpreter

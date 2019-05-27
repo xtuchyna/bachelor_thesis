@@ -1,0 +1,7 @@
+mocha
+nodejs-packaging
+npm(expect.js)
+npm(lru-cache)
+npm(rimraf)
+npm(shebang-command)
+npm(which)

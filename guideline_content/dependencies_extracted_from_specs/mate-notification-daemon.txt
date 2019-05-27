@@ -1,0 +1,7 @@
+dbus-glib-devel
+desktop-file-utils
+libcanberra-devel
+libnotify-devel
+libwnck3-devel
+mate-common
+mate-desktop-devel

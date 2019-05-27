@@ -1,0 +1,13 @@
+ImageMagick-devel >= 6.4
+bzip2-devel
+freealut-devel
+gawk
+glew-devel
+libGL-devel
+libGLU-devel
+libICE-devel
+libSM-devel
+libX11-devel
+libXt-devel
+quesoglc-devel
+sed

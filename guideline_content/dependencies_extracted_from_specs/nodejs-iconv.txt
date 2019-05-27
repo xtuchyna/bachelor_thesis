@@ -1,0 +1,4 @@
+node-gyp
+nodejs-devel
+npm(nan) >= 2.2.1
+npm(tap)

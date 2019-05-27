@@ -1,0 +1,11 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Module::Pluggable) >= 1.9
+perl(Test::More)
+perl(UNIVERSAL::require)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

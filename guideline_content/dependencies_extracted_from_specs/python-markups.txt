@@ -1,0 +1,10 @@
+python2-devel
+python2-docutils
+python2-markdown
+python2-setuptools
+python2-textile
+python3-devel
+python3-docutils
+python3-markdown
+python3-setuptools
+python3-textile

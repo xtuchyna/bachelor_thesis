@@ -1,0 +1,6 @@
+gawk
+libvirt-devel >= 0.2.1
+ocaml >= 3.10.0
+ocaml-findlib-devel
+ocaml-ocamldoc
+perl-interpreter

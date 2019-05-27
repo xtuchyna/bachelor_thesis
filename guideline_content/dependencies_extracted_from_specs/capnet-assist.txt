@@ -1,0 +1,10 @@
+cmake
+desktop-file-utils
+gettext
+pkgconfig(gcr-3)
+pkgconfig(gcr-ui-3)
+pkgconfig(gio-2.0)
+pkgconfig(granite) >= 0.3
+pkgconfig(gtk+-3.0)
+pkgconfig(webkit2gtk-4.0)
+vala >= 0.26

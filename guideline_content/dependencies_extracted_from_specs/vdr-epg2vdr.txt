@@ -1,0 +1,14 @@
+imlib2-devel
+jansson-devel
+libarchive-devel
+libcurl-devel
+libjpeg-turbo-devel
+libuuid-devel
+libxml2-devel
+libxslt-devel
+mariadb-connector-c-devel
+openssl-devel
+python2-devel
+sqlite-devel
+tinyxml2-devel
+vdr-devel >= 1.7.36

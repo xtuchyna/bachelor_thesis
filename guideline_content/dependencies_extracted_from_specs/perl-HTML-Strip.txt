@@ -1,0 +1,6 @@
+perl(ExtUtils::MakeMaker)
+perl(HTML::Entities)
+perl(Test::Exception)
+perl(Test::More)
+perl-devel
+perl-generators

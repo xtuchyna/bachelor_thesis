@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Module::Install::Metadata)
+perl(Scalar::Util) >= 1.10
+perl(Test::More) >= 0.47
+perl(base)
+perl(constant)
+perl(inc::Module::Install::DSL) >= 1.00
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter
+sed

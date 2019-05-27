@@ -1,0 +1,16 @@
+cyrus-sasl-devel
+gcc
+libdb-devel
+libicu-devel
+libnsl2-devel
+mariadb-connector-c-devel
+openldap-devel
+openssl-devel
+pcre-devel
+perl-generators
+pkgconfig
+postgresql-devel
+sqlite-devel
+systemd-units
+tinycdb-devel
+zlib-devel

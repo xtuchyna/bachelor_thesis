@@ -1,0 +1,5 @@
+cmake(Qt5Widgets)
+extra-cmake-modules >= 5.44.0
+kf5-kconfig-devel >= 5.44.0
+kf5-kwidgetsaddons-devel >= 5.44.0
+kf5-rpm-macros

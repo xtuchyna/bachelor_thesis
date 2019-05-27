@@ -1,0 +1,11 @@
+coreutils
+emacs
+emacs-el
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl-generators
+perl-interpreter
+readline-devel
+sed

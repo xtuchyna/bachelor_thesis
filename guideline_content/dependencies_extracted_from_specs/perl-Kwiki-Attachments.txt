@@ -1,0 +1,15 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(Kwiki::CGI)
+perl(Kwiki::Installer)
+perl(Kwiki::Plugin)
+perl(POSIX)
+perl(Spiffy)
+perl(Spoon::Formatter::WaflPhrase)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,11 @@
+cairo-devel
+dejavu-serif-fonts
+gcc
+ruby(release)
+ruby-devel
+rubygem(native-package-installer)
+rubygem(pkg-config)
+rubygem(poppler)
+rubygem(test-unit)
+rubygem(test-unit-notify)
+rubygems-devel

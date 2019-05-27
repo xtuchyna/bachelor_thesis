@@ -1,0 +1,11 @@
+cmake
+gettext
+pkgconfig(fontconfig)
+pkgconfig(gee-0.8)
+pkgconfig(gtk+-3.0)
+pkgconfig(json-glib-1.0)
+pkgconfig(librsvg-2.0)
+pkgconfig(libsecret-1)
+pkgconfig(libwnck-3.0)
+pkgconfig(vte-2.91)
+vala-devel

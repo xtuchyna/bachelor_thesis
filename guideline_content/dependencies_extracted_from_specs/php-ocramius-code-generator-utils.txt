@@ -1,0 +1,8 @@
+php(language) >= 7.0
+php-composer(fedora/autoloader)
+php-composer(nikic/php-parser) < 4
+php-composer(nikic/php-parser) >= 2.0
+php-composer(phpunit/phpunit) >= 5.0
+php-pcre
+php-reflection
+php-spl

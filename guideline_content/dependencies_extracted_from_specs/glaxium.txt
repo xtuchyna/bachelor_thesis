@@ -1,0 +1,5 @@
+SDL_mixer-devel
+automake
+desktop-file-utils
+libappstream-glib
+libpng-devel

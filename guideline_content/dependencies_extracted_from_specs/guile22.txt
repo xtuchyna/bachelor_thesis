@@ -1,0 +1,8 @@
+gc-devel
+gettext-devel
+gmp-devel
+libffi-devel
+libtool
+libtool-ltdl-devel
+libunistring-devel
+readline-devel

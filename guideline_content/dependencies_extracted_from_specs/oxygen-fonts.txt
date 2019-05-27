@@ -1,0 +1,5 @@
+extra-cmake-modules
+fontforge
+fontpackages-devel
+kf5-rpm-macros
+qt5-qtbase-devel

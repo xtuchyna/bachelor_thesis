@@ -1,0 +1,10 @@
+desktop-file-utils
+imake
+libXaw-devel
+libXext-devel
+libXft-devel
+libjpeg-devel
+libpng-devel
+libutempter-devel
+ncurses-devel
+pkgconfig

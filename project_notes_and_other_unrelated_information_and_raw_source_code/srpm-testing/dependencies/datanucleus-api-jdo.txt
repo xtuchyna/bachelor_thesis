@@ -1,0 +1,10 @@
+datanucleus-maven-parent
+java-devel
+maven-local
+mvn(javax.jdo:jdo-api)
+mvn(javax.transaction:jta)
+mvn(junit:junit)
+mvn(log4j:log4j)
+mvn(org.datanucleus:datanucleus-core)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

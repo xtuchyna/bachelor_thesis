@@ -1,0 +1,9 @@
+desktop-file-utils
+gcc
+gssdp-devel >= 0.4.15
+gtk3-devel
+gupnp-av-devel
+gupnp-devel
+intltool
+libsoup-devel
+libuuid-devel

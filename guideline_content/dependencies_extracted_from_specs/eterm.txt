@@ -1,0 +1,8 @@
+desktop-file-utils
+gawk
+glibc-common
+imlib2-devel
+libXmu-devel
+libast-devel
+pcre-devel
+sed

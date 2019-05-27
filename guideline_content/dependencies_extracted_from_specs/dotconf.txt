@@ -1,0 +1,4 @@
+findutils
+gcc
+glibc-common
+make

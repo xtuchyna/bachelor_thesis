@@ -1,0 +1,16 @@
+cmake
+extra-cmake-modules
+flac-devel
+gcc-c++
+gettext
+id3lib-devel
+kf5-kdoctools-devel
+kf5-kio-devel
+kf5-rpm-macros
+libappstream-glib
+libchromaprint-devel
+libvorbis-devel
+pkgconfig(gstreamer-1.0)
+qt5-qtmultimedia-devel
+readline-devel
+taglib-devel >= 1.4

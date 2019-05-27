@@ -1,0 +1,17 @@
+perl(Algorithm::Diff)
+perl(Carp)
+perl(Encode)
+perl(Errno)
+perl(ExtUtils::MakeMaker)
+perl(IO::File)
+perl(IO::Handle)
+perl(IO::Scalar)
+perl(Test::More) >= 0.047
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

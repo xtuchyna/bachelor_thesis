@@ -1,0 +1,6 @@
+cmake
+doxygen
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Network)
+pkgconfig(QtCore)
+pkgconfig(QtNetwork)

@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(mocha)
+npm(pend)
+npm(stream-equal)
+npm(streamsink)

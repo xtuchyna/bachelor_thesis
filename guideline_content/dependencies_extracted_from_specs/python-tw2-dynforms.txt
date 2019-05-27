@@ -1,0 +1,11 @@
+python-BeautifulSoup
+python-formencode
+python-genshi
+python-nose
+python-setuptools
+python-sieve
+python-strainer
+python-tw2-core
+python-tw2-forms
+python-webtest
+python2-devel

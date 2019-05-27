@@ -1,0 +1,6 @@
+maven-local
+mvn(org.bouncycastle:bcpkix-jdk15on)
+mvn(org.jenkins-ci.main:jenkins-core)
+mvn(org.jenkins-ci.plugins:plugin:pom:)
+mvn(org.jenkins-ci.tools:maven-hpi-plugin)
+mvn(org.kohsuke:access-modifier-checker)

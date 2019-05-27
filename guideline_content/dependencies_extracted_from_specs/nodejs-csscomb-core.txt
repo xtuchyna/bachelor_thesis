@@ -1,0 +1,5 @@
+nodejs-packaging >= 6
+npm(gonzales-pe)
+npm(minimatch)
+npm(vow)
+npm(vow-fs)

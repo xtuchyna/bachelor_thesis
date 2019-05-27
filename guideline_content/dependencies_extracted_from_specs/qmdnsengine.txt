@@ -1,0 +1,3 @@
+doxygen
+gcc-c++
+pkgconfig(Qt5Network)

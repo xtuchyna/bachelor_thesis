@@ -1,0 +1,7 @@
+autoconf
+automake
+glib2-devel >= 2.25.0
+gnome-doc-utils >= 0.3.2
+gtk-doc >= 1.11
+gtk3-devel >= 2.99.3
+libtool

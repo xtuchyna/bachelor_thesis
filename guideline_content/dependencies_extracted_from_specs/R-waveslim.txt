@@ -1,0 +1,3 @@
+R-devel >= 3.4.0
+gcc-gfortran
+tetex-latex

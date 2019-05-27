@@ -1,0 +1,11 @@
+cmake(KF5CoreAddons)
+cmake(KF5I18n)
+cmake(KF5JobWidgets)
+cmake(KF5KIO)
+cmake(KF5Parts)
+cmake(KF5WidgetsAddons)
+cmake(Qt5Designer)
+cmake(Qt5UiTools)
+desktop-file-utils
+extra-cmake-modules
+kf5-rpm-macros

@@ -1,0 +1,6 @@
+coffee-script
+mocha
+nodejs-packaging
+npm(cli-color)
+npm(difflib)
+npm(should)

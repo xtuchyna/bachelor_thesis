@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(Apache::Session)
+perl(Apache::Session::Generate::MD5)
+perl(Apache::Session::Lock::Null)
+perl(Apache::Session::Serialize::Base64)
+perl(ExtUtils::MakeMaker)
+perl(Redis)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+php(language) >= 5.4
+php-composer(phpunit/phpunit) >= 4.0
+php-filter
+php-pcre
+php-spl
+php-tokenizer
+php-xmlreader
+php-xmlwriter

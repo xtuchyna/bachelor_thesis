@@ -1,0 +1,4 @@
+libsexy-devel >= 0.1.10
+libxml2-devel
+pygtk2-devel >= 2.8.0
+python-devel >= 2

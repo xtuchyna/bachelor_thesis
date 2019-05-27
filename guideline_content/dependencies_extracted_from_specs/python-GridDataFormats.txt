@@ -1,0 +1,10 @@
+python2-devel
+python2-nose
+python2-numpy
+python2-six
+python2-tempdir
+python3-devel
+python3-nose
+python3-numpy
+python3-six
+python3-tempdir

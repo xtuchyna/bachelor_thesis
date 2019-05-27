@@ -1,0 +1,32 @@
+coreutils
+findutils
+glib2-devel
+glibc-common
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::Depends) >= 0.300
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::PkgConfig) >= 1.00
+perl(File::Spec)
+perl(I18N::Langinfo)
+perl(IO::File)
+perl(Scalar::Util)
+perl(Storable)
+perl(Test::ConsistentVersion)
+perl(Test::More)
+perl(Tie::Hash)
+perl(base)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter >= 2:5.8.0

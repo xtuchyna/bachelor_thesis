@@ -1,0 +1,21 @@
+php(language) >= 5.2.0
+php-composer(phpunit/phpunit)
+php-ctype
+php-date
+php-dom
+php-gd
+php-iconv
+php-libxml
+php-mbstring
+php-pcre
+php-pecl(igbinary)
+php-pecl(zip)
+php-posix
+php-reflection
+php-simplexml
+php-spl
+php-sqlite3
+php-xml
+php-xmlreader
+php-xmlwriter
+php-zlib

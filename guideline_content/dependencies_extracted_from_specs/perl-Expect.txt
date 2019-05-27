@@ -1,0 +1,22 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.64
+perl(Fcntl)
+perl(File::Temp)
+perl(IO::Handle)
+perl(IO::Pty) >= 1.11
+perl(IO::Tty) >= 1.11
+perl(POSIX)
+perl(Test::Builder)
+perl(Test::More) >= 0.98
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

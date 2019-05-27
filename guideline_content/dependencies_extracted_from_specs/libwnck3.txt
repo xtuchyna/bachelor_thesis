@@ -1,0 +1,12 @@
+autoconf
+automake
+gettext
+glib2-devel
+gnome-common
+gobject-introspection-devel
+gtk3-devel
+intltool
+libXres-devel
+libtool
+pango-devel
+startup-notification-devel

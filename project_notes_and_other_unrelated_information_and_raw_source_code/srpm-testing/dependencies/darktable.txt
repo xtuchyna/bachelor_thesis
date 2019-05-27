@@ -1,0 +1,42 @@
+/usr/bin/pod2man
+GraphicsMagick-devel
+OpenEXR-devel >= 1.6
+cairo-devel
+clang >= 3.9
+cmake >= 3.4
+colord-devel
+colord-gtk-devel
+cups-devel
+desktop-file-utils
+exiv2-devel >= 0.24
+flickcurl-devel
+gcc >= 5.0
+gettext
+gtk3-devel >= 3.14
+intltool
+iso-codes >= 3.66
+json-glib-devel
+lcms2-devel
+lensfun-devel
+libappstream-glib
+libcurl-devel >= 7.18.0
+libgphoto2-devel >= 2.4.5
+libjpeg-devel
+libpng-devel
+librsvg2-devel >= 2.26
+libsecret-devel
+libsoup-devel
+libtiff-devel
+libwebp-devel
+lua-devel >= 5.3
+opencl-headers
+openjpeg2-devel
+osm-gps-map-devel >= 1.0
+perl-interpreter
+pkgconfig >= 0.22
+po4a
+pugixml-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+sqlite-devel
+zlib-devel

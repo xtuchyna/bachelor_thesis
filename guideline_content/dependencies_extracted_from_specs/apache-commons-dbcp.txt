@@ -1,0 +1,7 @@
+maven-local
+mvn(commons-logging:commons-logging)
+mvn(commons-pool:commons-pool)
+mvn(junit:junit)
+mvn(org.apache.commons:commons-parent:pom:)
+mvn(org.apache.geronimo.specs:geronimo-jta_1.1_spec)
+mvn(org.apache.maven.plugins:maven-assembly-plugin)

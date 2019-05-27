@@ -1,0 +1,4 @@
+/usr/bin/dvips
+/usr/bin/makeinfo
+/usr/bin/texindex
+ghostscript

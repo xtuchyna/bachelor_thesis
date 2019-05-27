@@ -1,0 +1,21 @@
+boost-devel
+cmake(KF5Bookmarks)
+cmake(KF5Crash)
+cmake(KF5DBusAddons)
+cmake(KF5DocTools)
+cmake(KF5IconThemes)
+cmake(KF5KIO)
+cmake(KF5SyntaxHighlighting)
+cmake(Qt5Network)
+cmake(Qt5Test)
+cmake(Qt5Widgets)
+desktop-file-utils
+extra-cmake-modules
+gettext
+kf5-kmailtransport-devel >= 17.12
+kf5-kpimtextedit-devel >= 17.12
+kf5-libksieve-devel >= 17.12
+kf5-messagelib-devel >= 17.12
+kf5-pimcommon-devel >= 17.12
+kf5-rpm-macros
+perl-generators

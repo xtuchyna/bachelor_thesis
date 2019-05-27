@@ -1,0 +1,11 @@
+compiler(go-compiler)
+golang(github.com/Sirupsen/logrus)
+golang(github.com/codegangsta/cli) >= 1.1.0-1
+golang(github.com/coreos/go-systemd/dbus)
+golang(github.com/docker/docker/pkg/mount)
+golang(github.com/docker/docker/pkg/symlink)
+golang(github.com/docker/docker/pkg/term)
+golang(github.com/docker/go-units)
+golang(github.com/godbus/dbus)
+golang(github.com/golang/protobuf/proto)
+golang(github.com/syndtr/gocapability/capability) >= 0-0.9

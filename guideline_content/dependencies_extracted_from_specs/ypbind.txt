@@ -1,0 +1,9 @@
+autoconf
+automake
+dbus-glib-devel
+docbook-style-xsl
+gettext-devel
+libnsl2-devel
+libtirpc-devel
+systemd
+systemd-devel

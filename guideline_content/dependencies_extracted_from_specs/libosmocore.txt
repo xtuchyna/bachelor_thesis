@@ -1,0 +1,8 @@
+autoconf
+automake
+doxygen
+findutils
+libtalloc-devel
+libtool
+pcsc-lite-devel
+sed

@@ -1,0 +1,22 @@
+DevIL-devel
+SILLY-devel
+doxygen
+expat-devel
+freeimage-devel
+freetype-devel > 2.0.0
+glew-devel
+glm-devel
+graphviz
+irrlicht-devel >= 1.8
+libGLU-devel
+libICE-devel
+libSM-devel
+libtool
+libxml2-devel
+lua-devel >= 0.5.2
+ogre-devel >= 1.7.0
+ois-devel
+pcre-devel
+pkgconfig >= 0.9.0
+tinyxml-devel
+tolua++-devel >= 1.0.93-14

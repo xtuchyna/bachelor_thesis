@@ -1,0 +1,13 @@
+antlr-tool
+antlr4-runtime
+apache-commons-beanutils
+apache-commons-collections
+apache-commons-logging
+checkstyle >= 7.6
+dom4j
+eclipse-jdt
+guava
+jfreechart
+jfreechart-swt
+tycho
+tycho-extras

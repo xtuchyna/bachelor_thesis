@@ -1,0 +1,7 @@
+autoconf
+automake
+docbook-utils
+e2fsprogs-devel
+gcc
+parted-devel
+w3m

@@ -1,0 +1,11 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(bytes)
+perl(re)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl(warnings::register)
+perl-generators
+perl-interpreter

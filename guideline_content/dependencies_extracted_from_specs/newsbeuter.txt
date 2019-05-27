@@ -1,0 +1,9 @@
+gettext
+json-c-devel
+libcurl-devel
+libxml2-devel
+ncurses-devel
+perl-interpreter
+pkgconfig
+sqlite-devel
+stfl-devel

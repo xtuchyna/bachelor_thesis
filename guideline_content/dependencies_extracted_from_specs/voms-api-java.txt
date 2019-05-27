@@ -1,0 +1,5 @@
+maven-local
+mvn(eu.eu-emi.security:canl) >= 2.5
+mvn(junit:junit)
+mvn(net.jcip:jcip-annotations)
+mvn(org.mockito:mockito-core)

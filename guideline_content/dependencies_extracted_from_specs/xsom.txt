@@ -1,0 +1,6 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(relaxngDatatype:relaxngDatatype)
+relaxngcc

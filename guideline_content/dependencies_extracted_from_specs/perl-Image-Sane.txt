@@ -1,0 +1,29 @@
+ImageMagick
+coreutils
+findutils
+gcc
+make
+perl(:VERSION) >= 5.8
+perl(:VERSION) >= 5.8.5
+perl(English)
+perl(Exception::Class)
+perl(Exporter)
+perl(ExtUtils::Depends)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::PkgConfig)
+perl(File::Spec)
+perl(Readonly)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Requires)
+perl(Try::Tiny)
+perl(XSLoader)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig(sane-backends) >= 1.0.19
+sane-backends
+sane-backends-drivers-scanners

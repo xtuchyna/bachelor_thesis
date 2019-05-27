@@ -1,0 +1,4 @@
+gcc
+pkgconfig(x11)
+pkgconfig(xproto)
+pkgconfig(xtst)

@@ -1,0 +1,7 @@
+autoconf
+automake
+groff-base
+libbind-devel
+libpcap-devel
+libtool
+pkgconfig

@@ -1,0 +1,6 @@
+cmake
+epydoc
+gettext
+libxml2-devel
+libxslt
+python2-devel

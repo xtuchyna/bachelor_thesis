@@ -1,0 +1,6 @@
+mocha
+nodejs-packaging
+npm(connect)
+npm(cookies)
+npm(on-headers)
+npm(supertest)

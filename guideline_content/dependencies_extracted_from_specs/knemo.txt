@@ -1,0 +1,6 @@
+desktop-file-utils
+gettext
+kde-workspace-devel
+libnl3-devel
+perl-generators
+wireless-tools-devel

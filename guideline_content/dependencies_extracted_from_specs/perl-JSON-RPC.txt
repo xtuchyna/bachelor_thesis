@@ -1,0 +1,15 @@
+perl(CGI)
+perl(Class::Accessor::Fast)
+perl(Class::Accessor::Lite)
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Request)
+perl(HTTP::Response)
+perl(JSON) >= 2
+perl(LWP::UserAgent) >= 2.001
+perl(Module::Build)
+perl(Plack::Request)
+perl(Plack::Test)
+perl(Router::Simple)
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

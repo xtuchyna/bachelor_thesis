@@ -1,0 +1,8 @@
+bison
+gcc
+libcap-devel
+libedit-devel
+libseccomp-devel
+nettle-devel
+pps-tools-devel
+systemd

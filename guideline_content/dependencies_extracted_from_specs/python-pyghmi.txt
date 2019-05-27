@@ -1,0 +1,3 @@
+python-pbr
+python-setuptools
+python2-devel

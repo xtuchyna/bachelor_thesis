@@ -1,0 +1,5 @@
+autoconf
+automake
+gettext
+libselinux-devel
+ncurses-devel

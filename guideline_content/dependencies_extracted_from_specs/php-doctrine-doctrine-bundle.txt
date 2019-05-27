@@ -1,0 +1,20 @@
+php(language) >= 5.5.9
+php-composer(doctrine/dbal) >= 2.3
+php-composer(doctrine/doctrine-cache-bundle) >= 1.2
+php-composer(doctrine/orm) >= 2.3
+php-composer(fedora/autoloader)
+php-composer(jdorn/sql-formatter) >= 1.1
+php-composer(phpunit/phpunit)
+php-composer(twig/twig) < 3
+php-composer(twig/twig) >= 1.12
+php-dom
+php-pcre
+php-reflection
+php-spl
+php-symfony3-console
+php-symfony3-dependency-injection
+php-symfony3-doctrine-bridge
+php-symfony3-framework-bundle
+php-symfony3-property-info
+php-symfony3-validator
+php-symfony3-yaml

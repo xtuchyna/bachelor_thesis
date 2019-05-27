@@ -1,0 +1,5 @@
+cmake
+fcitx-devel >= 0.4.8
+gettext
+intltool
+libkkc-devel >= 0.2.3

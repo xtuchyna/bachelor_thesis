@@ -1,0 +1,13 @@
+findutils
+make
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(Moose) >= 2.00
+perl(Moose::Exporter)
+perl(Moose::Role)
+perl(Moose::Util::MetaRole)
+perl(Scalar::Util)
+perl(Test::More) >= 0.61
+perl(constant)
+perl(strict)
+perl-generators
+perl-interpreter

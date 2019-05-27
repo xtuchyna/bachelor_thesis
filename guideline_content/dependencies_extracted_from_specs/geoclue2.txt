@@ -1,0 +1,10 @@
+ModemManager-glib-devel
+avahi-glib-devel
+glib2-devel
+gobject-introspection-devel
+intltool
+itstool
+json-glib-devel
+libnotify-devel
+libsoup-devel
+systemd

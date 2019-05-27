@@ -1,0 +1,7 @@
+/usr/bin/phpunit6
+php(language) >= 5.6
+php-autoloader(zendframework/zend-stdlib) >= 2.7.3
+php-composer(container-interop/container-interop) >= 1.1.0
+php-fedora-autoloader-devel
+php-reflection
+php-spl

@@ -1,0 +1,5 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.commons:commons-parent:pom:)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.easymock:easymock)

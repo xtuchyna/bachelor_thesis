@@ -1,0 +1,8 @@
+gstreamer1-plugins-base
+pkgconfig(gstreamer-1.0)
+ruby(release)
+ruby-devel
+rubygem(test-unit)
+rubygem-glib2-devel >= 3.0.8
+rubygem-gobject-introspection-devel >= 3.0.8
+rubygems-devel

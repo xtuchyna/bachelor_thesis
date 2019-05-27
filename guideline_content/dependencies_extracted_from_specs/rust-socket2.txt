@@ -1,0 +1,4 @@
+(crate(cfg-if) >= 0.1.0 with crate(cfg-if) < 0.2.0)
+(crate(libc) >= 0.2.37 with crate(libc) < 0.3.0)
+(crate(tempdir) >= 0.3.0 with crate(tempdir) < 0.4.0)
+rust-packaging

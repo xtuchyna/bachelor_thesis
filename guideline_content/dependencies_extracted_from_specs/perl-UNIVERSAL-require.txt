@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More) >= 0.47
+perl(UNIVERSAL)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

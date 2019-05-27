@@ -1,0 +1,4 @@
+fuse-devel
+gcc
+libimobiledevice-devel
+libplist-devel

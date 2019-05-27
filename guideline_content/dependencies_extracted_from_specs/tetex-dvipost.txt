@@ -1,0 +1,2 @@
+/usr/bin/kpsewhich
+tex(latex)

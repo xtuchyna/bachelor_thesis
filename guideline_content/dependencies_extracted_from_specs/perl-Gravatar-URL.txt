@@ -1,0 +1,16 @@
+perl(Carp)
+perl(Digest::MD5)
+perl(Digest::SHA)
+perl(Exporter)
+perl(Module::Build)
+perl(Net::DNS) >= 1.01
+perl(Net::DNS::Resolver)
+perl(Test::MockRandom)
+perl(Test::More)
+perl(Test::Warn)
+perl(URI::Escape)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

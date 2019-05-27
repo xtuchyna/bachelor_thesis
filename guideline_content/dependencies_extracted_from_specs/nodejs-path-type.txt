@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(graceful-fs)
+npm(pify)
+npm(pinkie-promise)

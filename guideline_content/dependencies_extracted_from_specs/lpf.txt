@@ -1,0 +1,3 @@
+appdata-tools
+desktop-file-utils
+python2-devel

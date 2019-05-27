@@ -1,0 +1,9 @@
+desktop-file-utils
+intltool
+itstool
+pkgconfig(appstream-glib)
+pkgconfig(clutter-1.0)
+pkgconfig(clutter-gtk-1.0)
+pkgconfig(gee-0.8)
+pkgconfig(gtk+-3.0)
+pkgconfig(libgnome-games-support-1)

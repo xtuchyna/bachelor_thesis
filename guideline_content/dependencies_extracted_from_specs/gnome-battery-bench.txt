@@ -1,0 +1,12 @@
+asciidoc
+desktop-file-utils
+pkgconfig(gio-unix-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(json-glib-1.0)
+pkgconfig(libevdev)
+pkgconfig(polkit-gobject-1)
+pkgconfig(x11)
+pkgconfig(xi)
+pkgconfig(xtst)
+xmlto

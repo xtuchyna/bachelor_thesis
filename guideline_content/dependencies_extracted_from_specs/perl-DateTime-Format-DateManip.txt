@@ -1,0 +1,11 @@
+perl(Carp)
+perl(Date::Manip)
+perl(DateTime)
+perl(DateTime::Duration)
+perl(Module::Build)
+perl(Test::More)
+perl(bytes)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

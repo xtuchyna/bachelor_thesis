@@ -1,0 +1,3 @@
+ClanLib1-devel
+desktop-file-utils
+libappstream-glib

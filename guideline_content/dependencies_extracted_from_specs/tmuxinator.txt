@@ -1,0 +1,4 @@
+ruby
+ruby(release)
+rubygem(rspec-core)
+rubygems-devel >= 1.8.23

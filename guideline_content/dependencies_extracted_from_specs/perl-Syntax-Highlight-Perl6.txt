@@ -1,0 +1,29 @@
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Encode)
+perl(English)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.31
+perl(File::Basename)
+perl(File::Find)
+perl(File::ShareDir)
+perl(File::ShareDir::Install) >= 0.03
+perl(File::Spec)
+perl(File::Temp)
+perl(Getopt::Long)
+perl(IO::File)
+perl(IPC::Open2)
+perl(STD) >= 32116
+perl(Term::ANSIColor) >= 2.00
+perl(Test::Exception) >= 0.27
+perl(Test::More) >= 0.86
+perl(feature)
+perl(open)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,15 @@
+/usr/bin/ps
+/usr/bin/sphinx-build-2
+/usr/bin/sphinx-build-3
+python2-apipkg
+python2-devel
+python2-eventlet
+python2-gevent >= 1.0
+python2-pytest
+python2-setuptools
+python2-setuptools_scm
+python3-apipkg
+python3-devel
+python3-pytest
+python3-setuptools
+python3-setuptools_scm

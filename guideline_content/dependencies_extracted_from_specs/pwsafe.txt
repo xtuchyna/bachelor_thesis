@@ -1,0 +1,10 @@
+libICE-devel
+libSM-devel
+libXau-devel
+libXdmcp-devel
+libXext-devel
+libXmu-devel
+libXt-devel
+ncurses-devel
+openssl-devel
+readline-devel

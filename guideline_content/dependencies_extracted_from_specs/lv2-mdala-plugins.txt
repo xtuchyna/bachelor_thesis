@@ -1,0 +1,3 @@
+gtk2-devel
+lv2-devel
+suil-devel

@@ -1,0 +1,6 @@
+fontconfig
+gettext-devel
+gtk2-devel
+libtool
+libxml2-devel
+pango-devel

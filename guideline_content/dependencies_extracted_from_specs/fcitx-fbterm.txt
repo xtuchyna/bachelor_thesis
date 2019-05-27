@@ -1,0 +1,7 @@
+cmake
+dbus-glib-devel
+fcitx-devel
+gettext
+intltool
+libxml2-devel
+pkgconfig

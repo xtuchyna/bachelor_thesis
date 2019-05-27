@@ -1,0 +1,19 @@
+coreutils
+make
+perl(:VERSION) >= 5.10.1
+perl(B::Deparse)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Regexp::Stringify)
+perl(Scalar::Util)
+perl(Test::More) >= 0.98
+perl(blib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

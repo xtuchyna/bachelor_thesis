@@ -1,0 +1,48 @@
+coreutils
+make
+perl(App::CLI)
+perl(App::CLI::Command)
+perl(App::CLI::Command::Help)
+perl(Archive::Extract)
+perl(CPAN) >= 1.9205
+perl(CPAN::DistnameInfo)
+perl(Carp)
+perl(Class::Accessor::Fast)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Copy::Recursive)
+perl(File::Find)
+perl(File::Path) >= 2.07
+perl(File::Slurp)
+perl(File::Spec::Functions)
+perl(File::Temp) >= 0.18
+perl(File::Which)
+perl(Getopt::Long)
+perl(IPC::Cmd)
+perl(IPC::Run3)
+perl(List::MoreUtils)
+perl(Log::Log4perl)
+perl(Module::Build)
+perl(Module::CoreList)
+perl(Module::Info)
+perl(Module::Install::Metadata)
+perl(Module::Install::Scripts)
+perl(Module::Install::Share)
+perl(Module::Install::WriteAll)
+perl(Scalar::Util)
+perl(Test::More)
+perl(UNIVERSAL::require)
+perl(YAML::Tiny)
+perl(base)
+perl(inc::Module::Install) >= 0.76
+perl(lib)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

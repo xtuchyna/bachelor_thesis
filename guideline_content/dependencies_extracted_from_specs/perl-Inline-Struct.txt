@@ -1,0 +1,13 @@
+coreutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Inline) >= 0.66
+perl(Inline::C) >= 0.62
+perl(Parse::RecDescent)
+perl(Test::More) >= 0.88
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

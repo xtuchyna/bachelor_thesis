@@ -1,0 +1,7 @@
+boost-devel
+cmake
+doxygen
+gettext-devel
+libjpeg-devel
+libpng-devel
+zlib-devel

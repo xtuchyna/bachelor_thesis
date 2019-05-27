@@ -1,0 +1,8 @@
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Server::Simple)
+perl(Test::Builder)
+perl(Test::Builder::Tester) >= 1.04
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl-generators

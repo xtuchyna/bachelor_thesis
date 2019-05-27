@@ -1,0 +1,15 @@
+colord-devel >= 0.1.12
+colord-gtk-devel >= 0.1.22
+desktop-file-utils
+docbook-utils
+exiv2-devel
+gettext
+glib2-devel >= 2.25.9-2
+gtk3-devel >= 3.0.0
+itstool
+lcms2-devel
+libcanberra-devel
+libexif-devel
+libtiff-devel
+meson
+vte291-devel

@@ -1,0 +1,6 @@
+ant
+maven-local
+plexus-classworlds
+plexus-component-factories-pom
+plexus-containers-container-default
+plexus-utils

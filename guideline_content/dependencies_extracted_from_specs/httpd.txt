@@ -1,0 +1,18 @@
+apr-devel >= 1.5.0
+apr-util-devel >= 1.5.0
+autoconf
+brotli-devel
+findutils
+jansson-devel
+libcurl-devel
+libselinux-devel
+libxml2-devel
+lua-devel
+openssl-devel
+pcre-devel >= 5.0
+perl-generators
+perl-interpreter
+pkgconfig
+systemd-devel
+xmlto
+zlib-devel

@@ -1,0 +1,4 @@
+cmake
+dejavu-sans-mono-fonts
+doxygen
+pango-devel

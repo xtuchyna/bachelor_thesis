@@ -1,0 +1,6 @@
+PyKDE4-devel
+cmake
+desktop-file-utils
+gettext
+kdelibs4-devel
+python-devel

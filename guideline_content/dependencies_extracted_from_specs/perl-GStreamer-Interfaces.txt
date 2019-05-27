@@ -1,0 +1,10 @@
+gstreamer-plugins-base-devel
+perl(ExtUtils::Depends) >= 0.205
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::PkgConfig) >= 1.07
+perl(GStreamer) >= 0.06
+perl(Glib) >= 1.180
+perl(Test::More)
+perl-Glib-devel
+perl-devel
+perl-generators

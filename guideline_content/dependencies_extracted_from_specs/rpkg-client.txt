@@ -1,0 +1,6 @@
+python2
+python2-devel
+python2-mock
+python2-pytest
+python2-rpkg
+python2-setuptools

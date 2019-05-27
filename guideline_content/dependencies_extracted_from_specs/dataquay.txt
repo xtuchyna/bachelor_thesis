@@ -1,0 +1,4 @@
+Xvfb
+qt-devel
+redland-devel
+xauth

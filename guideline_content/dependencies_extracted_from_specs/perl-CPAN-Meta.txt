@@ -1,0 +1,29 @@
+coreutils
+findutils
+make
+perl(CPAN::Meta::Requirements) >= 2.121
+perl(CPAN::Meta::YAML) >= 0.011
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(File::Basename)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp) >= 0.20
+perl(IO::Dir)
+perl(JSON::PP) >= 2.27300
+perl(Scalar::Util)
+perl(Storable)
+perl(Test::More) >= 0.88
+perl(lib)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(version) >= 0.88
+perl(warnings)
+perl-generators
+perl-interpreter

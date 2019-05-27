@@ -1,0 +1,19 @@
+perl(Carp)
+perl(Compress::Zlib) >= 1.20
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Find)
+perl(File::HomeDir) >= 0.57
+perl(File::Path) >= 2.04
+perl(File::Spec)
+perl(File::Temp)
+perl(Getopt::Long)
+perl(LWP::UserAgent) >= 5
+perl(Pod::Usage) >= 1.00
+perl(Test::More) >= 0.96
+perl(URI) >= 1
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

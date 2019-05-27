@@ -1,0 +1,11 @@
+maven-local
+mvn(com.google.code.findbugs:bcel-findbugs)
+mvn(commons-collections:commons-collections)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)
+mvn(org.apache.maven.shared:maven-shared-utils)
+mvn(org.apache.maven:maven-artifact:2.2.1)
+mvn(org.apache.maven:maven-model:2.2.1)
+mvn(org.codehaus.plexus:plexus-component-metadata)
+mvn(org.codehaus.plexus:plexus-container-default)
+mvn(org.codehaus.plexus:plexus-digest)
+mvn(org.codehaus.plexus:plexus-utils)

@@ -1,0 +1,32 @@
+blas-devel
+cmake
+desktop-file-utils
+docbook-dtds
+doxygen
+glibc-devel
+graphviz
+graphviz-devel
+hdf5-devel
+jsoncpp-devel
+kdelibs4-devel
+kf5-kcoreaddons-devel
+kf5-syntax-highlighting-devel
+lapack-devel
+libxml2-devel
+netcdf-cxx-devel
+netcdf-devel
+perl-podlators
+phonon-devel
+python-devel
+qt-devel = 1:4.8.7
+qt-devel-private = 1:4.8.7
+qt5-linguist
+qt5-qtbase-devel
+qt5-qtbase-private-devel
+qt5-qtdeclarative-devel
+qt5-qtscript-devel
+qt5-qtsvg-devel
+qt5-qttools-devel
+qt5-qtwebkit-devel
+qtwebkit-devel
+vtk-devel

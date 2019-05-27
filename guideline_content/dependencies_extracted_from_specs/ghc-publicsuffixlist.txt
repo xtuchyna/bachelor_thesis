@@ -1,0 +1,8 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-cereal-devel
+ghc-containers-devel
+ghc-data-default-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-utf8-string-devel

@@ -1,0 +1,3 @@
+cmake
+kdelibs-devel
+libxslt-devel

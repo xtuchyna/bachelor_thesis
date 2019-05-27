@@ -1,0 +1,9 @@
+autoconf
+automake
+libtool
+python3-devel
+python3-django
+python3-django-rest-framework
+python3-psycopg2
+python3-sphinx
+xerces-c-devel

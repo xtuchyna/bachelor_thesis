@@ -1,0 +1,10 @@
+bison
+extra-cmake-modules >= 5.44.0
+flex
+kf5-rpm-macros >= 5.44.0
+libupnp-devel
+media-player-info
+qt5-qtbase-devel
+qt5-qtdeclarative-devel
+qt5-qttools-devel
+systemd-devel

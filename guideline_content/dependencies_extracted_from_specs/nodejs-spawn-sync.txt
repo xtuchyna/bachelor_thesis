@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(concat-stream)
+npm(os-shim)
+npm(try-thread-sleep)

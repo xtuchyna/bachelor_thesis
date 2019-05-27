@@ -1,0 +1,21 @@
+coreutils
+findutils
+make
+perl(CPAN::Meta) >= 2.120900
+perl(Carp)
+perl(Data::Section)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::Dir)
+perl(Module::Load)
+perl(Software::License::CCpack)
+perl(Test::More) >= 0.88
+perl(Test::Pod)
+perl(Text::Template)
+perl(Try::Tiny)
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,7 @@
+cmake
+extra-cmake-modules
+fcitx-devel
+gettext-devel
+libxkbcommon-devel
+qt5-qtbase-devel
+qt5-qtbase-private-devel

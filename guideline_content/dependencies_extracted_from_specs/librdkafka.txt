@@ -1,0 +1,6 @@
+cyrus-sasl-devel
+gcc
+gcc-c++
+lz4-devel
+openssl-devel
+python

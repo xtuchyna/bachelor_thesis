@@ -1,0 +1,11 @@
+/usr/bin/sphinx-build
+python2-devel
+python2-hypothesis
+python2-pytest
+python2-pytest-flakes
+python2-pytest-pep8
+python3-devel
+python3-hypothesis
+python3-pytest
+python3-pytest-flakes
+python3-pytest-pep8

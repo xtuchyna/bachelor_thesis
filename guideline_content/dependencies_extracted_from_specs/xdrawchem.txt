@@ -1,0 +1,5 @@
+desktop-file-utils
+libjpeg-devel
+libtool
+openbabel-devel
+qt3-devel

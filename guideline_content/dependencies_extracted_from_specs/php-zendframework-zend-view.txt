@@ -1,0 +1,35 @@
+php(language) >= 5.6
+php-autoloader(zendframework/zend-eventmanager) >= 2.5
+php-autoloader(zendframework/zend-loader) >= 2.5
+php-autoloader(zendframework/zend-stdlib) >= 2.5
+php-composer(zendframework/zend-authentication) >= 2.5
+php-composer(zendframework/zend-cache) >= 2.6.1
+php-composer(zendframework/zend-config) >= 2.6
+php-composer(zendframework/zend-console) >= 2.6
+php-composer(zendframework/zend-escaper) >= 2.5
+php-composer(zendframework/zend-feed) >= 2.7
+php-composer(zendframework/zend-filter) >= 2.6.1
+php-composer(zendframework/zend-http) >= 2.5.4
+php-composer(zendframework/zend-i18n) >= 2.6
+php-composer(zendframework/zend-json) >= 2.6.1
+php-composer(zendframework/zend-log) >= 2.7
+php-composer(zendframework/zend-modulemanager) >= 2.7.1
+php-composer(zendframework/zend-mvc) >= 2.7
+php-composer(zendframework/zend-mvc-console)
+php-composer(zendframework/zend-mvc-i18n)
+php-composer(zendframework/zend-mvc-plugin-flashmessenger)
+php-composer(zendframework/zend-navigation) >= 2.5
+php-composer(zendframework/zend-paginator) >= 2.5
+php-composer(zendframework/zend-permissions-acl) >= 2.6
+php-composer(zendframework/zend-router) >= 3.0.1
+php-composer(zendframework/zend-serializer) >= 2.6.1
+php-composer(zendframework/zend-servicemanager) >= 2.7.5
+php-composer(zendframework/zend-session) >= 2.8.1
+php-composer(zendframework/zend-uri) >= 2.5
+php-date
+php-dom
+php-fedora-autoloader-devel
+php-filter
+php-pcre
+php-spl
+phpunit6

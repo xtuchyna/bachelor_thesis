@@ -1,0 +1,8 @@
+php(language) >= 5.3
+php-composer(phpunit/phpunit)
+php-date
+php-fedora-autoloader-devel
+php-hash
+php-json
+php-pcre
+php-reflection

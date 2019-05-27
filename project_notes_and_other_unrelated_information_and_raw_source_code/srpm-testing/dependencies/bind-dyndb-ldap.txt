@@ -1,0 +1,11 @@
+autoconf
+automake
+bind-devel >= 32:9.11.3-5
+bind-lite-devel >= 32:9.11.3-5
+bind-pkcs11-devel >= 32:9.11.3-5
+krb5-devel
+libtool
+libuuid-devel
+openldap-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

@@ -1,0 +1,6 @@
+perl(ExtUtils::MakeMaker)
+perl(File::Temp) >= 0.19
+perl(Path::Class)
+perl(Test::More)
+perl(inc::Module::Install)
+perl-generators

@@ -1,0 +1,13 @@
+php(language) >= 5.4.4
+php-composer(nette/tester) >= 1.7
+php-composer(theseer/autoload)
+php-date
+php-fileinfo
+php-iconv
+php-json
+php-mbstring
+php-pcre
+php-reflection
+php-spl
+php-tokenizer
+php-xml

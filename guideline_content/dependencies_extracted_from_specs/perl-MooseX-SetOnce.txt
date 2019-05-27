@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(Moose)
+perl(Moose::Role) >= 0.90
+perl(Test::Fatal)
+perl(Test::Moose)
+perl(Test::More)
+perl-generators

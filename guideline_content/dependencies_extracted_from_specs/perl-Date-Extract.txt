@@ -1,0 +1,11 @@
+perl(Carp)
+perl(Class::Data::Inheritable)
+perl(DateTime::Format::Natural) >= 0.60
+perl(ExtUtils::MakeMaker)
+perl(List::Util)
+perl(Test::MockTime)
+perl(Test::More)
+perl(inc::Module::Install)
+perl(parent)
+perl(warnings)
+perl-generators

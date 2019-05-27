@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(eventmachine)
+rubygem(hoe)
+rubygem(minitest)
+rubygem(rack-test)
+rubygem(sinatra)
+rubygems-devel

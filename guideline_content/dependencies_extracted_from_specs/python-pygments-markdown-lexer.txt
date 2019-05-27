@@ -1,0 +1,6 @@
+python2-devel
+python2-pygments
+python2-setuptools
+python3-devel
+python3-pygments
+python3-setuptools

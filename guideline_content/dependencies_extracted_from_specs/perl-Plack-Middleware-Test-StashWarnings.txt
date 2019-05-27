@@ -1,0 +1,13 @@
+/usr/bin/make
+/usr/bin/perl
+perl(ExtUtils::MakeMaker) >= 6.59
+perl(HTTP::Request::Common)
+perl(Module::Install::AuthorTests)
+perl(Module::Install::ReadmeFromPod)
+perl(Plack)
+perl(Plack::Request)
+perl(Plack::Test)
+perl(Test::More)
+perl(Test::Synopsis)
+perl(inc::Module::Install)
+perl-generators

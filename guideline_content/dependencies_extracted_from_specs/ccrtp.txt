@@ -1,0 +1,6 @@
+commoncpp2-devel >= 1.7.0
+doxygen
+gcc-c++
+libgcrypt-devel
+make
+ucommon-devel

@@ -1,0 +1,12 @@
+pytest
+python-httplib2
+python-requests
+python-setuptools
+python-sphinx
+python-sphinx_rtd_theme
+python2-devel
+python3-devel
+python3-httplib2
+python3-pytest
+python3-requests
+python3-setuptools

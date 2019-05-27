@@ -1,0 +1,2 @@
+desktop-file-utils
+kdelibs4-devel >= 4.14

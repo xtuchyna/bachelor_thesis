@@ -1,0 +1,5 @@
+perl(ExtUtils::MakeMaker)
+perl(Test::CPAN::Meta)
+perl(Test::MinimumVersion)
+perl(Test::Pod)
+perl-generators

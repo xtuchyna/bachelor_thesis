@@ -1,0 +1,9 @@
+dbus-devel >= 0.95
+dbus-glib-devel >= 0.90
+glib2-devel >= 2.36.0
+gobject-introspection-devel >= 1.30
+gtk-doc >= 1.17
+libxslt
+python
+vala-devel >= 0.16.0
+vala-tools

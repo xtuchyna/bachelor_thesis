@@ -1,0 +1,15 @@
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::Harness)
+perl(Test::More)
+perl(bytes)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators

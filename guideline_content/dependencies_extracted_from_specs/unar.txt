@@ -1,0 +1,5 @@
+bzip2-devel
+gcc-objc
+gnustep-base-devel
+libicu-devel
+zlib-devel

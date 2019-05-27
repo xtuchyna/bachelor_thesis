@@ -1,0 +1,7 @@
+SuperLU-devel
+arpack-devel
+atlas-devel
+cmake
+hdf5-devel
+lapack-devel
+openblas-devel

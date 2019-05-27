@@ -1,0 +1,13 @@
+autoconf
+chrpath
+doxygen
+gcc-gfortran
+infiniband-diags-devel
+kernel-headers >= 2.6.32
+libpfm-devel >= 4.6.0-1
+libpfm-static >= 4.6.0-1
+lm_sensors-devel
+ncurses-devel
+net-tools
+perl-generators
+rdma-core-devel

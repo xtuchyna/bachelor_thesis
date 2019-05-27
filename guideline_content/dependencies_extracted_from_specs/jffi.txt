@@ -1,0 +1,11 @@
+ant
+ant-junit
+gcc
+libffi-devel
+make
+maven-local
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.apache.maven.plugins:maven-assembly-plugin)
+mvn(org.sonatype.oss:oss-parent:pom:)

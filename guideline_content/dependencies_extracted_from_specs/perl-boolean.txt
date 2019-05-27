@@ -1,0 +1,16 @@
+findutils
+make
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Find)
+perl(JSON::MaybeXS)
+perl(Test::More)
+perl(base)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(threads)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.005003

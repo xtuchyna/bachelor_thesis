@@ -1,0 +1,7 @@
+cmake
+desktop-file-utils
+icoutils
+libappstream-glib
+qt5-linguist
+qt5-qtbase-devel
+qtsingleapplication-qt5-devel

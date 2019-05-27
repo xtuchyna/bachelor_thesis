@@ -1,0 +1,27 @@
+/usr/bin/2to3
+alsa-lib-devel
+at-spi2-core-devel
+autoconf
+bluez-libs-devel
+byacc
+espeak-devel
+espeak-ng-devel
+gettext
+glibc-kernheaders
+java-devel
+jpackage-utils
+libICE-devel
+libSM-devel
+libX11-devel
+libXaw-devel
+libXext-devel
+libXt-devel
+libXtst-devel
+ocaml
+python3-Cython
+python3-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+speech-dispatcher-devel
+systemd
+tcl-devel

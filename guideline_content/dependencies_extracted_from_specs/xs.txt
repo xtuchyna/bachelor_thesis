@@ -1,0 +1,8 @@
+bison
+boost-devel
+gc-devel
+gcc-c++
+git
+libffi-devel
+meson
+readline-devel

@@ -1,0 +1,10 @@
+python2-devel
+python2dist(mock)
+python2dist(pytest)
+python2dist(setuptools)
+python2dist(tornado)
+python3-devel
+python3dist(mock)
+python3dist(pytest)
+python3dist(setuptools)
+python3dist(tornado)

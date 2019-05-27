@@ -1,0 +1,5 @@
+SDL_net-devel
+autoconf
+automake
+boost-devel >= 1.33.1
+libtool

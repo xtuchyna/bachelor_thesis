@@ -1,0 +1,27 @@
+coreutils
+findutils
+gnupg
+make
+perl(Compress::Bzip2)
+perl(Compress::Zlib)
+perl(Data::Compare)
+perl(Data::Dumper)
+perl(Digest::MD5) >= 2.36
+perl(Digest::SHA)
+perl(DirHandle)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::File) >= 1.14
+perl(Module::Signature) >= 0.79
+perl(Safe)
+perl(Socket)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 0.18
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

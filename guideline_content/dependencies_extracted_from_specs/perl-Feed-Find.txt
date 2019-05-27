@@ -1,0 +1,23 @@
+coreutils
+findutils
+make
+perl(Class::ErrorHandler)
+perl(HTML::Parser)
+perl(LWP::UserAgent)
+perl(Module::Install::AuthorTests)
+perl(Module::Install::Include)
+perl(Module::Install::Metadata)
+perl(Module::Install::ReadmeFromPod)
+perl(Module::Install::Repository)
+perl(Module::Install::TestBase)
+perl(Module::Install::WriteAll)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Synopsis)
+perl(URI)
+perl(base)
+perl(constant)
+perl(inc::Module::Install)
+perl(strict)
+perl(vars)
+perl-generators

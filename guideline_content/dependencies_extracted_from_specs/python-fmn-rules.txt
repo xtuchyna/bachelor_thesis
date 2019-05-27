@@ -1,0 +1,6 @@
+fedmsg
+python-dogpile-cache
+python-fedmsg-meta-fedora-infrastructure
+python-fedora
+python-nose
+python2-devel

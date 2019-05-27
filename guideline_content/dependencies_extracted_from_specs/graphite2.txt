@@ -1,0 +1,10 @@
+asciidoc
+cmake
+doxygen
+freetype-devel
+python2-fonttools
+texlive-helvetic
+texlive-multirow
+texlive-sectsty
+texlive-tocloft
+texlive-xtab

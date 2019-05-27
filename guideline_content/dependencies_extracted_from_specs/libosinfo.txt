@@ -1,0 +1,12 @@
+/usr/bin/pod2man
+check-devel
+glib2-devel
+gobject-introspection-devel
+hwdata
+intltool
+libsoup-devel
+libxml2-devel >= 2.6.0
+libxslt-devel >= 1.0.0
+osinfo-db
+vala
+vala-tools

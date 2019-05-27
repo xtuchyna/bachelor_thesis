@@ -1,0 +1,5 @@
+nodejs-devel
+nodejs-packaging
+npm(hosted-git-info)
+npm(semver) >= 4.0.0
+npm(tap)

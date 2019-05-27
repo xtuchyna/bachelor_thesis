@@ -1,0 +1,11 @@
+/usr/bin/pod2man
+cyrus-sasl-devel
+gnutls-devel
+gobject-introspection-devel
+gtk2-devel >= 2.14
+gtk3-devel
+intltool
+libgcrypt-devel
+pulseaudio-libs-devel
+vala-tools
+zlib-devel

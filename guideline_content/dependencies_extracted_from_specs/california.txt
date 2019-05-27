@@ -1,0 +1,14 @@
+desktop-file-utils
+intltool
+itstool
+pkgconfig(gee-0.8)
+pkgconfig(glib-2.0)
+pkgconfig(goa-1.0)
+pkgconfig(gobject-2.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gtk+-3.0) >= 3.12.2
+pkgconfig(libecal-1.2)
+pkgconfig(libgdata)
+pkgconfig(libsoup-2.4)
+vala
+xdg-utils

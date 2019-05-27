@@ -1,0 +1,17 @@
+perl(CGI)
+perl(Carp::Assert::More)
+perl(ExtUtils::MakeMaker)
+perl(HTML::Lint)
+perl(HTML::TokeParser)
+perl(HTML::TreeBuilder)
+perl(HTTP::Server::Simple) >= 0.42
+perl(HTTP::Server::Simple::CGI)
+perl(LWP) >= 6.02
+perl(Test::Builder::Tester) >= 1.09
+perl(Test::LongString) >= 0.15
+perl(Test::More) >= 0.96
+perl(Test::Pod) >= 0.08
+perl(Test::Pod::Coverage) >= 1.00
+perl(URI::file)
+perl(WWW::Mechanize) >= 1.68
+perl-generators

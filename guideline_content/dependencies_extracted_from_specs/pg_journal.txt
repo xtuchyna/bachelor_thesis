@@ -1,0 +1,4 @@
+openssl-devel
+pkgconfig
+postgresql-devel >= 9.4.0-1
+systemd-devel

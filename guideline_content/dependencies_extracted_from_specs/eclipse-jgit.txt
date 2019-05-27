@@ -1,0 +1,27 @@
+eclipse-filesystem
+git
+jgit = 4.11.0
+maven-local
+mvn(args4j:args4j)
+mvn(com.google.code.gson:gson)
+mvn(com.googlecode.javaewah:JavaEWAH) >= 1.1.6
+mvn(com.jcraft:jsch)
+mvn(com.jcraft:jzlib)
+mvn(javax.servlet:javax.servlet-api)
+mvn(junit:junit)
+mvn(org.apache.ant:ant)
+mvn(org.apache.commons:commons-compress)
+mvn(org.apache.httpcomponents:httpclient)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.apache.maven.plugins:maven-clean-plugin)
+mvn(org.apache.maven.plugins:maven-install-plugin)
+mvn(org.apache.maven.plugins:maven-shade-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.bouncycastle:bcprov-jdk15on)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.eclipse.jetty:jetty-servlet)
+mvn(org.hamcrest:hamcrest-library)
+mvn(org.osgi:osgi.core)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-simple)
+tycho

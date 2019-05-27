@@ -1,0 +1,12 @@
+python2-dateutil
+python2-devel
+python2-invoke
+python2-pytest
+python2-pytest-cov
+python2-six
+python3-dateutil
+python3-devel
+python3-invoke
+python3-pytest
+python3-pytest-cov
+python3-six

@@ -1,0 +1,7 @@
+nodejs-debug
+nodejs-grunt
+nodejs-grunt-cli
+nodejs-grunt-contrib-nodeunit
+nodejs-grunt-contrib-watch
+nodejs-int64-buffer
+nodejs-packaging

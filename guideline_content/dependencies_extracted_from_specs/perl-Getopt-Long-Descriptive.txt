@@ -1,0 +1,25 @@
+coreutils
+findutils
+make
+perl(CPAN::Meta) >= 2.120900
+perl(CPAN::Meta::Check) >= 0.011
+perl(CPAN::Meta::Requirements)
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Spec)
+perl(Getopt::Long) >= 2.33
+perl(List::Util)
+perl(Moose::Conflicts)
+perl(Params::Validate) >= 0.97
+perl(Scalar::Util)
+perl(Sub::Exporter) >= 0.972
+perl(Sub::Exporter::Util)
+perl(Test::Fatal)
+perl(Test::More) >= 0.96
+perl(Test::Warnings) >= 0.005
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

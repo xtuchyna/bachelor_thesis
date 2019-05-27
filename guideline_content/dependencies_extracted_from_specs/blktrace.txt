@@ -1,0 +1,3 @@
+libaio-devel
+librsvg2-devel
+python2

@@ -1,0 +1,11 @@
+libxcb-devel
+python-cffi >= 1.1.2
+python-pycparser
+python-setuptools
+python-six
+python2-devel
+python3-cffi >= 1.1.2
+python3-devel
+python3-pycparser
+python3-setuptools
+python3-six

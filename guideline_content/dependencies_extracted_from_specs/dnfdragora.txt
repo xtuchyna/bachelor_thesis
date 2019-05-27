@@ -1,0 +1,10 @@
+cmake >= 3.4.0
+desktop-file-utils
+gettext
+libappstream-glib
+pkgconfig
+python3-PyYAML
+python3-devel >= 3.4.0
+python3-dnfdaemon
+python3-sphinx
+python3-yui

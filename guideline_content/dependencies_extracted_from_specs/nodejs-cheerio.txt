@@ -1,0 +1,7 @@
+mocha
+nodejs-packaging
+npm(css-select)
+npm(dom-serializer)
+npm(expect.js)
+npm(htmlparser2)
+npm(lodash)

@@ -1,0 +1,3 @@
+SDL-devel >= 1.2.4
+freetype-devel >= 2.0
+zlib-devel

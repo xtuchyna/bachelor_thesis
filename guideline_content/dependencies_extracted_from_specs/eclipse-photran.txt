@@ -1,0 +1,5 @@
+eclipse-cdt >= 1:9.0.0
+eclipse-launchbar
+eclipse-license
+tycho
+tycho-extras

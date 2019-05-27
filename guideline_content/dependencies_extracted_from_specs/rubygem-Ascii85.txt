@@ -1,0 +1,4 @@
+/usr/bin/pod2man
+ruby(release)
+rubygem(minitest)
+rubygems-devel

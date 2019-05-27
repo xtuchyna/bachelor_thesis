@@ -1,0 +1,9 @@
+gcc-c++
+libtool
+pkgconfig(egl)
+pkgconfig(glesv2)
+pkgconfig(libbsd)
+pkgconfig(libva-drm)
+pkgconfig(libva-wayland)
+pkgconfig(libva-x11)
+pkgconfig(libyami)

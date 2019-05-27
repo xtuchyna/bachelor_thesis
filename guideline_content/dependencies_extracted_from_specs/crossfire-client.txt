@@ -1,0 +1,13 @@
+ImageMagick
+SDL-devel
+SDL_image-devel
+cmake
+curl-devel
+desktop-file-utils
+gtk+-devel
+gtk2-devel
+libglade2-devel
+libpng-devel
+lua-devel
+perl-interpreter
+vala

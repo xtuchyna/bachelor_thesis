@@ -1,0 +1,5 @@
+ruby
+ruby(release)
+rubygem(chronic)
+rubygem(minitest) >= 4.7.3
+rubygems-devel

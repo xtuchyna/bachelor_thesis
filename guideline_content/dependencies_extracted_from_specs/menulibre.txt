@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext
+intltool
+python3-devel
+python3-distutils-extra

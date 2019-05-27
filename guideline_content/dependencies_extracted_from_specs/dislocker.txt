@@ -1,0 +1,5 @@
+/usr/bin/ruby
+cmake
+fuse-devel
+mbedtls-devel
+ruby-devel

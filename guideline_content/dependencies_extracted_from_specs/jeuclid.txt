@@ -1,0 +1,11 @@
+ant
+apache-commons-cli >= 1.1
+apache-commons-lang
+apache-commons-logging
+batik >= 1.7
+desktop-file-utils
+fop >= 0.95
+java-devel >= 1:1.6.0
+jcip-annotations
+jpackage-utils
+xmlgraphics-commons >= 1.3

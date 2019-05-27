@@ -1,0 +1,6 @@
+R-devel
+R-methods
+R-plyr
+R-sp
+R-testthat
+tex(latex)

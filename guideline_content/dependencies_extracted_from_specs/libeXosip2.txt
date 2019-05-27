@@ -1,0 +1,5 @@
+c-ares-devel
+doxygen
+libosip2-devel >= 3.6.0
+openssl-devel
+ortp-devel >= 0.14.2

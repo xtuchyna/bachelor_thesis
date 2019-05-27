@@ -1,0 +1,7 @@
+cairo-devel
+pkgconfig
+python-xpyb-devel
+python2-devel
+python2-pytest
+python3-devel
+python3-pytest

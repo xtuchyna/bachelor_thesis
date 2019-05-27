@@ -1,0 +1,6 @@
+docbook-dtds
+docbook-style-xsl
+docbook2X
+libxml2
+perl-generators
+perl-podlators

@@ -1,0 +1,3 @@
+libattr-devel
+pam-devel
+perl-interpreter

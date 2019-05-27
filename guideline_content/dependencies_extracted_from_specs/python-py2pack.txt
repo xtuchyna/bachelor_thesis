@@ -1,0 +1,12 @@
+python-jinja2
+python-lxml
+python-requests
+python-setuptools
+python-six
+python2-devel
+python3-devel
+python3-jinja2
+python3-lxml
+python3-requests
+python3-setuptools
+python3-six

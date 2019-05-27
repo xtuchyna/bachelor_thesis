@@ -1,0 +1,10 @@
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Spec::Functions)
+perl(Test::More)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Network)
+pkgconfig(QtCore)
+pkgconfig(QtNetwork)
+pkgconfig(qca2)
+pkgconfig(qca2-qt5)
+qca-ossl
+qca-qt5-ossl

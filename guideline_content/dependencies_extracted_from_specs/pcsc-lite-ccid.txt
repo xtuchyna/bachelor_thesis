@@ -1,0 +1,6 @@
+gcc
+gnupg2
+libusb1-devel
+pcsc-lite-devel >= 1.8.9
+perl-Getopt-Long
+perl-interpreter

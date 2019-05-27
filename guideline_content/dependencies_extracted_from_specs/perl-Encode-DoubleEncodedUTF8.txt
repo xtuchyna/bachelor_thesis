@@ -1,0 +1,20 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Encode) >= 2.12
+perl(Encode::Encoding)
+perl(Module::Install::Include)
+perl(Module::Install::Metadata)
+perl(Module::Install::ReadmeFromPod)
+perl(Module::Install::TestBase)
+perl(Module::Install::WriteAll)
+perl(Test::Base)
+perl(Test::More)
+perl(base)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

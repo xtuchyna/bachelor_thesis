@@ -1,0 +1,4 @@
+extra-cmake-modules
+kde-filesystem
+kf5-rpm-macros
+qt5-qtbase-devel

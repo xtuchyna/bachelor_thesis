@@ -1,0 +1,6 @@
+cmake
+cmake(ITK)
+fftw-devel
+gcc-c++
+gdcm-devel
+vxl-devel

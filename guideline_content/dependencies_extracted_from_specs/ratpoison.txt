@@ -1,0 +1,10 @@
+emacs
+libX11-devel
+libXft-devel
+libXi-devel
+libXinerama-devel
+libXrandr-devel
+libXt-devel
+libXtst-devel
+perl-generators
+readline-devel

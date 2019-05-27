@@ -1,0 +1,11 @@
+goocanvas-devel
+perl(Cairo) >= 1.00
+perl(ExtUtils::Depends) >= 0.2
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::PkgConfig) >= 1.0
+perl(Glib) >= 1.103
+perl(Glib::MakeHelper)
+perl(Gtk2) >= 1.100
+perl(Test::More)
+perl-devel
+perl-generators

@@ -1,0 +1,8 @@
+perl(Archive::Zip)
+perl(Data::UUID)
+perl(ExtUtils::MakeMaker)
+perl(Moose)
+perl(Test::More)
+perl(XML::Writer)
+perl(version)
+perl-generators

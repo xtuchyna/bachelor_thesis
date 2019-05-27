@@ -1,0 +1,9 @@
+CUnit-devel
+autoconf
+automake
+gcc
+globus-gssapi-gsi-devel
+krb5-devel
+libtool
+openssl-devel
+zlib-devel

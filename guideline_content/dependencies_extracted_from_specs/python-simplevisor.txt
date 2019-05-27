@@ -1,0 +1,5 @@
+perl-No-Worries
+perl-generators
+python-simplejson
+python2-devel
+python3-devel

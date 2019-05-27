@@ -1,0 +1,14 @@
+coreutils
+findutils
+gcc
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More) >= 0.88
+perl(Text::Levenshtein::Damerau::XS)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

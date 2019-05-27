@@ -1,0 +1,16 @@
+findutils
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(Unicode::Stringprep) >= 1
+perl(Unicode::Stringprep::Mapping)
+perl(Unicode::Stringprep::Prohibited)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

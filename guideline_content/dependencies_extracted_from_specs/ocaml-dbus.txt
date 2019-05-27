@@ -1,0 +1,4 @@
+chrpath
+dbus-devel
+ocaml >= 3.10.0-7
+ocaml-findlib

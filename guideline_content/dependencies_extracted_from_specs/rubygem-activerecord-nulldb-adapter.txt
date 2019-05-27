@@ -1,0 +1,4 @@
+ruby(release)
+rubygem(activerecord)
+rubygem(rspec) < 3
+rubygems-devel

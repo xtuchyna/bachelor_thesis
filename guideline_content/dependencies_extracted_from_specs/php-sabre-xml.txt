@@ -1,0 +1,9 @@
+php(language) >= 5.5.5
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(sabre/uri) >= 1.0
+php-dom
+php-pcre
+php-spl
+php-xmlreader
+php-xmlwriter

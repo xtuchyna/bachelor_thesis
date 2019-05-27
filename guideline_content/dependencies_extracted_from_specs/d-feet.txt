@@ -1,0 +1,10 @@
+desktop-file-utils
+gettext
+glib2-devel
+gobject-introspection-devel
+gtk3-devel
+intltool
+itstool
+libappstream-glib
+python2-pep8
+python3-devel

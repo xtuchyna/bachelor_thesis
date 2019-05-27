@@ -1,0 +1,4 @@
+autoconf
+qt-devel
+qt3-devel
+scim-devel >= 1.4.6

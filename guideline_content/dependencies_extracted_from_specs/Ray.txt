@@ -1,0 +1,4 @@
+bzip2-devel
+mpich-devel
+openmpi-devel
+zlib-devel

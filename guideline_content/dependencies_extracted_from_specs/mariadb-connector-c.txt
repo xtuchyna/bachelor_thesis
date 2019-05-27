@@ -1,0 +1,5 @@
+cmake
+gcc-c++
+libcurl-devel
+openssl-devel
+zlib-devel

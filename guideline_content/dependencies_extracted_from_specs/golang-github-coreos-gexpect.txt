@@ -1,0 +1,3 @@
+compiler(go-compiler)
+golang(github.com/kballard/go-shellquote)
+golang(github.com/kr/pty)

@@ -1,0 +1,6 @@
+ruby(release)
+ruby-devel
+rubygem(rr)
+rubygem(rspec) >= 3
+rubygems
+vim-filesystem

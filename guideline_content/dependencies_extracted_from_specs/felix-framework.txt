@@ -1,0 +1,7 @@
+maven-local
+mvn(org.apache.felix:felix-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.felix:org.apache.felix.resolver) >= 1.8.0
+mvn(org.easymock:easymock)
+mvn(org.osgi:org.osgi.annotation)
+mvn(org.ow2.asm:asm-all)

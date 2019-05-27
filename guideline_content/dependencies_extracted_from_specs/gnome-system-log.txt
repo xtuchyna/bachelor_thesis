@@ -1,0 +1,5 @@
+desktop-file-utils
+docbook-dtds
+gtk3-devel
+intltool
+itstool

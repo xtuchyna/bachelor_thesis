@@ -1,0 +1,3 @@
+libXi-devel
+libXtst-devel
+libpng-devel

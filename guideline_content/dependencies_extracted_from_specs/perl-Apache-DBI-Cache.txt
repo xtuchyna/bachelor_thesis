@@ -1,0 +1,9 @@
+perl(BerkeleyDB)
+perl(Class::DBI)
+perl(DBD::SQLite)
+perl(DBD::mysql)
+perl(DBI) >= 1.37
+perl(ExtUtils::MakeMaker)
+perl(Test::Deep)
+perl(Test::More)
+perl-generators

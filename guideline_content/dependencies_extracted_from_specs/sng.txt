@@ -1,0 +1,6 @@
+/usr/share/X11/rgb.txt
+gcc
+grep
+libpng-devel
+make
+zlib-devel

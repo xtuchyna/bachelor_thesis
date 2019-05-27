@@ -1,0 +1,22 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(SelectSaver)
+perl(Test::More) >= 0.44
+perl(base)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

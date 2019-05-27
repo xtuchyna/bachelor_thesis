@@ -1,0 +1,7 @@
+cmake
+doxygen
+gcc-c++ >= 4.4
+graphviz
+hardlink
+perl-interpreter
+valgrind

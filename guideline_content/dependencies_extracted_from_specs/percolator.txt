@@ -1,0 +1,10 @@
+boost-devel
+boost-static
+bzip2-devel
+cmake
+pkgconfig(libtirpc)
+pkgconfig(sqlite3)
+pkgconfig(tokyocabinet)
+pkgconfig(xerces-c)
+xsd
+zlib-devel

@@ -1,0 +1,31 @@
+alsa-lib-devel
+autoconf
+automake
+binutils
+cups-devel
+desktop-file-utils
+elfutils-devel
+fontconfig
+freetype-devel
+gcc >= 4.8.3-8
+gcc-c++
+gdb
+giflib-devel
+gtk2-devel
+java-1.8.0-openjdk-devel
+lcms2-devel
+libX11-devel
+libXi-devel
+libXinerama-devel
+libXt-devel
+libXtst-devel
+libjpeg-devel
+libpng-devel
+libxslt
+nss-devel
+nss-softokn-freebl-devel >= 3.16.1
+pkgconfig
+systemtap-sdt-devel
+tzdata-java >= 2015d
+xorg-x11-proto-devel
+zip

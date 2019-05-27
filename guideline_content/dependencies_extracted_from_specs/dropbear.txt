@@ -1,0 +1,6 @@
+gcc
+libtomcrypt-devel
+libtommath-devel
+pam-devel
+systemd
+zlib-devel

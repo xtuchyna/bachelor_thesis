@@ -1,0 +1,12 @@
+python2-devel
+python2-dns
+python2-mock
+python2-nose
+python2-pyOpenSSL
+python2-urllib3
+python3-devel
+python3-dns
+python3-mock
+python3-nose
+python3-pyOpenSSL
+python3-urllib3

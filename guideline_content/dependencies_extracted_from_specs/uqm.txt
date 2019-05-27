@@ -1,0 +1,8 @@
+ImageMagick
+SDL-devel >= 1.2.8
+SDL_image-devel >= 1.2.4
+desktop-file-utils
+libGLU-devel
+libmikmod-devel
+libvorbis-devel
+zlib-devel

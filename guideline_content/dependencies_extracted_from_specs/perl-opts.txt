@@ -1,0 +1,9 @@
+perl(ExtUtils::MakeMaker) >= 6.42
+perl(Filter::Util::Call)
+perl(Getopt::Long) >= 2.37
+perl(Module::Build)
+perl(PadWalker) >= 1.9
+perl(Test::Exception)
+perl(Test::More)
+perl(Text::Table)
+perl-generators

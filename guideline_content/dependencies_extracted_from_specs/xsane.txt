@@ -1,0 +1,9 @@
+desktop-file-utils >= 0.2.92
+gcc
+gettext-devel
+gimp-devel
+lcms2-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel
+sane-backends-devel >= 1.0.19-15

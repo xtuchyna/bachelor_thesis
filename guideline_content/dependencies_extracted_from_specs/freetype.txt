@@ -1,0 +1,4 @@
+bzip2-devel
+libX11-devel
+libpng-devel
+zlib-devel

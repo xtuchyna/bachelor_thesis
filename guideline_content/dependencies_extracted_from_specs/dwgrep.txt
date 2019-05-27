@@ -1,0 +1,6 @@
+bison
+cmake
+elfutils-devel
+flex
+gtest-devel
+python3-sphinx

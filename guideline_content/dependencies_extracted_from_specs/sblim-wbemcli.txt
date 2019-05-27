@@ -1,0 +1,6 @@
+autoconf
+automake
+binutils-devel >= 2.17.50.0.3-4
+curl-devel >= 7.9.3
+libtool
+pkgconfig

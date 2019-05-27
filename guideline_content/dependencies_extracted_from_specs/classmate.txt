@@ -1,0 +1,5 @@
+maven-local
+mvn(com.fasterxml:oss-parent:pom:)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)

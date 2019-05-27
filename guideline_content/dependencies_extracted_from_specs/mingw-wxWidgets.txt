@@ -1,0 +1,15 @@
+gettext
+mingw32-expat
+mingw32-filesystem >= 68
+mingw32-gcc-c++
+mingw32-libjpeg
+mingw32-libpng
+mingw32-libtiff
+mingw32-zlib
+mingw64-expat
+mingw64-filesystem >= 68
+mingw64-gcc-c++
+mingw64-libjpeg
+mingw64-libpng
+mingw64-libtiff
+mingw64-zlib

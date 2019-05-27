@@ -1,0 +1,8 @@
+dbus-glib-devel
+desktop-file-utils
+exo-devel
+gettext
+glib2-devel
+gtksourceview3-devel
+intltool
+libxfce4util-devel

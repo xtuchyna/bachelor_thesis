@@ -1,0 +1,7 @@
+chrpath
+cmake >= 2.6.3
+doxygen
+graphviz
+omniORB-devel >= 4.1.2
+python-docutils
+systemd

@@ -1,0 +1,7 @@
+GtkAda-devel
+PragmARC-devel
+desktop-file-utils
+fedora-gnat-project-common >= 3
+gcc-gnat
+gprbuild
+unzip

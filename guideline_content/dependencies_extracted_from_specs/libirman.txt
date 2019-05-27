@@ -1,0 +1,4 @@
+autoconf
+automake
+libtool
+lirc-devel >= 0.9.4

@@ -1,0 +1,12 @@
+bzip2-devel
+desktop-file-utils
+eb-devel
+hunspell-devel
+libXtst-devel
+libtiff-devel
+libvorbis-devel
+lzo-devel
+phonon-devel
+qt-devel
+qt-webkit-devel
+qtsingleapplication-devel

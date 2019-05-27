@@ -1,0 +1,5 @@
+cmake(KF5CoreAddons)
+cmake(KF5Parts)
+cmake(Qt5Svg)
+extra-cmake-modules
+kf5-rpm-macros

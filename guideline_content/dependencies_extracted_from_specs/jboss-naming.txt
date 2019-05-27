@@ -1,0 +1,9 @@
+java-devel
+jboss-common-core
+jboss-logging
+jboss-parent
+jpackage-utils
+maven-antrun-plugin
+maven-enforcer-plugin
+maven-local
+rmic-maven-plugin

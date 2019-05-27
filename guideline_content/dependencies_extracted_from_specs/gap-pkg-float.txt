@@ -1,0 +1,8 @@
+GAPDoc-latex
+cxsc-devel
+gap-devel
+gcc-c++
+libfplll-devel
+libmpc-devel
+mpfi-devel
+mpfr-devel

@@ -1,0 +1,8 @@
+/usr/bin/xsltproc
+alsa-lib-devel
+cmake
+desktop-file-utils
+docbook-style-xsl
+doxygen
+qt4-devel
+shared-mime-info

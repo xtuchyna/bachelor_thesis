@@ -1,0 +1,10 @@
+binutils-devel
+cmake
+libedit-devel
+libffi-devel
+libstdc++-static
+multilib-rpm-config
+ncurses-devel
+python3-sphinx
+valgrind-devel
+zlib-devel

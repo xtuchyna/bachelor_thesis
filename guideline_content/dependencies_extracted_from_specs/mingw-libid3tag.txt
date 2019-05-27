@@ -1,0 +1,7 @@
+gperf
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-zlib >= 1.1.4
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-zlib >= 1.1.4

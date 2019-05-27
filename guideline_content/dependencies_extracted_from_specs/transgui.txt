@@ -1,0 +1,4 @@
+/usr/bin/execstack
+desktop-file-utils
+fpc
+lazarus

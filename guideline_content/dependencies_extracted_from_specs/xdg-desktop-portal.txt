@@ -1,0 +1,6 @@
+/usr/bin/xmlto
+pkgconfig(flatpak)
+pkgconfig(fuse)
+pkgconfig(gio-unix-2.0)
+pkgconfig(libpipewire-0.1)
+systemd

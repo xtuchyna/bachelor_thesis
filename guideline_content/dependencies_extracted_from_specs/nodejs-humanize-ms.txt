@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(mocha)
+npm(ms)
+npm(should)

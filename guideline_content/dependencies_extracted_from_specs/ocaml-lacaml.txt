@@ -1,0 +1,8 @@
+blas-devel
+lapack-devel
+ocaml
+ocaml-camlp4-devel
+ocaml-compiler-libs
+ocaml-findlib-devel
+ocaml-ocamlbuild-devel
+ocaml-ocamldoc

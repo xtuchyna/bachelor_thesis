@@ -1,0 +1,7 @@
+GraphicsMagick-devel
+fontconfig-devel
+freetype-devel
+fribidi-devel
+libdvdread-devel >= 0.9.4-4
+libpng-devel
+libxml2-devel >= 2.6.0

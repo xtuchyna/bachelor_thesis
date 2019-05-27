@@ -1,0 +1,10 @@
+enchant-devel
+gcc
+gettext-devel
+glib2-devel
+gpgme-devel
+libotr-devel >= 4.0.0
+libtool
+loudmouth-devel
+ncurses-devel
+openssl-devel

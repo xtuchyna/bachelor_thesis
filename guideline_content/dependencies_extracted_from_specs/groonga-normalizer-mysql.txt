@@ -1,0 +1,1 @@
+groonga-devel >= 3.0.3

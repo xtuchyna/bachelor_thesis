@@ -1,0 +1,29 @@
+make
+perl(:VERSION) >= 5.6
+perl(Capture::Tiny)
+perl(Cwd)
+perl(Data::Section) >= 0.200002
+perl(Dist::Zilla) >= 6
+perl(Dist::Zilla::File::InMemory)
+perl(Dist::Zilla::Plugin::NextRelease) >= 6.005
+perl(Dist::Zilla::Role::BeforeRelease)
+perl(Dist::Zilla::Role::FileGatherer)
+perl(Dist::Zilla::Role::FileMunger)
+perl(Dist::Zilla::Role::TextTemplate)
+perl(Dist::Zilla::Tester)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(List::Util)
+perl(Moose) >= 2
+perl(Moose::Util::TypeConstraints)
+perl(Path::Tiny)
+perl(Sub::Exporter::ForMethods)
+perl(Test::Fatal)
+perl(Test::Harness)
+perl(Test::More) >= 0.88
+perl(autodie) >= 2.00
+perl(namespace::autoclean) >= 0.28
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,12 @@
+desktop-file-utils
+docbook5-schemas
+docbook5-style-xsl
+emacs-common
+gc-devel
+gcc
+gmp-devel
+libX11-devel
+libatomic_ops-static
+libffi-devel
+pkgconfig
+xmlto

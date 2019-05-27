@@ -1,0 +1,19 @@
+/usr/bin/appstream-util
+clang-devel
+cmake
+gcc
+gcc-c++
+llvm-devel
+ncurses-devel
+ocl-icd-devel
+pkgconfig(egl) >= 11.0.0
+pkgconfig(gl)
+pkgconfig(libdrm)
+pkgconfig(libdrm_intel) >= 2.4.52
+pkgconfig(libva)
+pkgconfig(libva-x11)
+pkgconfig(x11)
+pkgconfig(xext)
+pkgconfig(xfixes)
+python3-devel
+zlib-devel

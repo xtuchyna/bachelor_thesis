@@ -1,0 +1,6 @@
+autoconf
+automake
+libgearman-devel > 1.1.0
+libtool
+php-devel
+php-pear

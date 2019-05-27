@@ -1,0 +1,21 @@
+coreutils
+findutils
+make
+perl(Data::Dumper)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moo)
+perl(MooX::HandlesVia)
+perl(Scalar::Util)
+perl(Test::More) >= 0.88
+perl(Try::Tiny)
+perl(Types::Standard) >= 0.008
+perl(URI)
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

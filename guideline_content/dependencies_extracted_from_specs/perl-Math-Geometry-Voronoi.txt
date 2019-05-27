@@ -1,0 +1,11 @@
+dos2unix
+perl(Class::Accessor::Fast)
+perl(ExtUtils::MakeMaker)
+perl(List::Util)
+perl(Params::Validate)
+perl(Scalar::Util)
+perl(Test::More)
+perl(XSLoader)
+perl(base)
+perl-devel
+perl-generators

@@ -1,0 +1,18 @@
+cmake
+cmake(KF5Config)
+cmake(KF5CoreAddons)
+cmake(KF5GuiAddons)
+cmake(KF5WidgetsAddons)
+cmake(KPropertyWidgets) >= 3.1.0
+cmake(Marble)
+cmake(Qt5PrintSupport)
+cmake(Qt5Qml)
+cmake(Qt5WebKitWidgets)
+cmake(Qt5Widgets)
+cmake(Qt5Xml)
+extra-cmake-modules
+gcc-c++
+kf5-rpm-macros
+kproperty-devel >= 3.1.0
+pkgconfig
+python

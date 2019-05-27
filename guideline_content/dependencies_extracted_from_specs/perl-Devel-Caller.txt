@@ -1,0 +1,16 @@
+findutils
+gcc
+make
+perl(B)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(PadWalker) >= 0.08
+perl(Test::More)
+perl(XSLoader)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

@@ -1,0 +1,5 @@
+chrpath
+cmake
+llvm-devel = 6.0.0
+ncurses-devel
+zlib-devel

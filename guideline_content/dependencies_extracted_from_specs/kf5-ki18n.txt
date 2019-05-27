@@ -1,0 +1,8 @@
+extra-cmake-modules >= 5.44.0
+gettext
+kf5-rpm-macros >= 5.44.0
+perl-interpreter
+python2
+qt5-qtbase-devel
+qt5-qtdeclarative-devel
+qt5-qtscript-devel

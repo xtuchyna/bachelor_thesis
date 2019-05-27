@@ -1,0 +1,4 @@
+R-BufferedMatrix-devel
+R-affyio
+R-devel >= 3.4.0
+tex(latex)

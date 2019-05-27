@@ -1,0 +1,7 @@
+dbus-devel
+docbook-utils
+libnl3-devel
+openssl-devel
+qt-devel >= 4.0
+readline-devel
+systemd-units

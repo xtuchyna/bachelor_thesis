@@ -1,0 +1,14 @@
+coreutils
+findutils
+perl(Carp)
+perl(IO::Socket::SSL)
+perl(LWP::UserAgent)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

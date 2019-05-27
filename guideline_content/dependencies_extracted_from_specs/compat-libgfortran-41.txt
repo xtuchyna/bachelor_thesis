@@ -1,0 +1,5 @@
+bison
+flex
+gcc-gfortran >= 4.1.2
+gettext
+texinfo

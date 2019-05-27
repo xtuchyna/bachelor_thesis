@@ -1,0 +1,10 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-conduit-devel
+ghc-conduit-extra-devel
+ghc-cryptonite-devel
+ghc-exceptions-devel
+ghc-memory-devel
+ghc-resourcet-devel
+ghc-rpm-macros
+ghc-transformers-devel

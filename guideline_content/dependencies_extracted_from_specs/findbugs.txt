@@ -1,0 +1,21 @@
+ant
+apache-commons-lang
+docbook-style-xsl
+dom4j
+findbugs-bcel
+jFormatString
+java-devel >= 1:1.6.0
+javapackages-local
+jaxen
+jcip-annotations
+jdepend
+jpackage-utils
+jsr-305
+junit
+libxslt
+make
+objectweb-asm
+perl-generators
+perl-interpreter
+tex(latex)
+texlive-preprint

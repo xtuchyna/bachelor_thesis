@@ -1,0 +1,11 @@
+alsa-lib-devel
+automake
+cmigemo-devel
+desktop-file-utils
+git
+gnutls-devel
+gtkmm24-devel
+libSM-devel
+libgcrypt-devel
+libtool
+libxcrypt-devel

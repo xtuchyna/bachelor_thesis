@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(md5-hex)
+npm(mkdirp)
+npm(write-file-atomic)

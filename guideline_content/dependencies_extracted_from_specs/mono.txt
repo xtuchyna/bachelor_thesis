@@ -1,0 +1,10 @@
+bison
+cmake
+gcc-c++
+gettext-devel
+libgdiplus-devel >= 2.10
+libicu-devel
+mono-core >= 4.0
+pkgconfig
+valgrind-devel
+zlib-devel

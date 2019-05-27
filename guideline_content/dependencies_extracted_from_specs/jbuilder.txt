@@ -1,0 +1,4 @@
+/usr/bin/sphinx-build
+ocaml >= 4.02.3
+ocaml-findlib-devel
+ocaml-menhir

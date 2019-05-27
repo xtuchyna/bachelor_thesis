@@ -1,0 +1,6 @@
+extra-cmake-modules
+gtk3-devel
+kf5-kconfig-devel
+kf5-kcoreaddons-devel
+kf5-rpm-macros
+qt5-qtbase-devel

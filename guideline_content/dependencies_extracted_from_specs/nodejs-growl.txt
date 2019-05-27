@@ -1,0 +1,2 @@
+libnotify-devel
+nodejs-packaging

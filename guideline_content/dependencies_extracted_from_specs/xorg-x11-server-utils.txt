@@ -1,0 +1,15 @@
+libtool
+pkgconfig(xbitmaps)
+pkgconfig(xcursor)
+pkgconfig(xext)
+pkgconfig(xi)
+pkgconfig(xinerama)
+pkgconfig(xmu)
+pkgconfig(xpm)
+pkgconfig(xrandr)
+pkgconfig(xrender)
+pkgconfig(xt)
+pkgconfig(xtrans)
+pkgconfig(xxf86misc)
+pkgconfig(xxf86vm)
+xorg-x11-util-macros

@@ -1,0 +1,7 @@
+gstreamer-devel >= 0.10.36
+gstreamer-plugins-base-devel >= 0.10.36
+libX11-devel
+pygobject2-devel >= 2.11.2
+pygtk2-devel >= 2.8.0
+python >= 2.3
+python-devel >= 2.3

@@ -1,0 +1,18 @@
+/usr/bin/chrpath
+bison
+cmake3
+gcc-c++
+glslang-devel
+ninja-build
+pkgconfig(SPIRV-Tools) = 2018.1.0
+pkgconfig(libsystemd)
+pkgconfig(pciaccess)
+pkgconfig(wayland-client)
+pkgconfig(wayland-cursor)
+pkgconfig(wayland-egl)
+pkgconfig(wayland-server)
+pkgconfig(x11)
+pkgconfig(xcb)
+pkgconfig(xrandr)
+python3
+spirv-headers-devel

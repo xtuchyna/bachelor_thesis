@@ -1,0 +1,5 @@
+(crate(log) >= 0.4.0 with crate(log) < 0.5.0)
+(crate(memchr) >= 2.0.0 with crate(memchr) < 3.0.0)
+(crate(regex) >= 0.2.1 with crate(regex) < 0.3.0)
+(crate(regex-syntax) >= 0.4.0 with crate(regex-syntax) < 0.5.0)
+rust-packaging

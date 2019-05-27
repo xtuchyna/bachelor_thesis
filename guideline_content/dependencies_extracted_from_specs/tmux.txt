@@ -1,0 +1,3 @@
+libevent-devel
+libutempter-devel
+ncurses-devel

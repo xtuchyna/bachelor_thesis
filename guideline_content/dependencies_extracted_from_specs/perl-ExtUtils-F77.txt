@@ -1,0 +1,3 @@
+gcc-gfortran
+perl(ExtUtils::MakeMaker)
+perl-generators

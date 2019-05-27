@@ -1,0 +1,4 @@
+Pyrex
+netpbm-progs
+python2-devel
+zlib-devel

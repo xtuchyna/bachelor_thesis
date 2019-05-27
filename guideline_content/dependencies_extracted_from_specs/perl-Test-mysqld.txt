@@ -1,0 +1,24 @@
+coreutils
+findutils
+make
+mysql-compat-server
+perl(Class::Accessor::Lite)
+perl(Cwd)
+perl(DBD::mysql)
+perl(DBI)
+perl(ExtUtils::MakeMaker)
+perl(File::Copy::Recursive)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(Module::Build::Tiny) >= 0.035
+perl(POSIX)
+perl(Test::More)
+perl(Test::SharedFork) >= 0.06
+perl(Time::HiRes)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+ant
+apache-ivy
+apiviz
+java-devel >= 1:1.6.0
+javassist
+jdepend
+jpackage-utils
+junit

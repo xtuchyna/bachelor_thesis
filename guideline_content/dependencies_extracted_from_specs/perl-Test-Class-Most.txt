@@ -1,0 +1,11 @@
+perl(Carp)
+perl(Module::Build)
+perl(Test::Class) >= 0.38
+perl(Test::Class::Load)
+perl(Test::More)
+perl(Test::Most) >= 0.31
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

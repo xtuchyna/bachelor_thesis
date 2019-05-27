@@ -1,0 +1,4 @@
+automake
+compat-openssl10-devel
+libtool
+pkgconfig(openssl)

@@ -1,0 +1,7 @@
+desktop-file-utils
+gstreamer-plugins-base-devel
+gtk3-devel
+keybinder3-devel
+libnotify-devel
+pulseaudio-libs-devel
+xfconf-devel

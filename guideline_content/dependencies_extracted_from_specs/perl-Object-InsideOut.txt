@@ -1,0 +1,24 @@
+coreutils
+findutils
+make
+perl(B)
+perl(Config)
+perl(Data::Dumper) >= 2.131
+perl(Exception::Class) >= 1.32
+perl(ExtUtils::MakeMaker)
+perl(Math::Random::MT::Auto) >= 6.18
+perl(Scalar::Util) >= 1.23
+perl(Storable)
+perl(Test::More) >= 0.98
+perl(Thread::Queue)
+perl(Want) >= 0.21
+perl(attributes)
+perl(base)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(threads)
+perl(threads::shared)
+perl(warnings)
+perl-generators
+perl-interpreter

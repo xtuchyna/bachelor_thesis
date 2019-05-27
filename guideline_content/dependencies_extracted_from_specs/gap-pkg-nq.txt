@@ -1,0 +1,5 @@
+gap-devel
+gap-pkg-autodoc
+gap-pkg-polycyclic
+gcc
+gmp-devel

@@ -1,0 +1,4 @@
+/usr/bin/pkg-config
+python3-devel
+python3-setuptools
+systemd

@@ -1,0 +1,6 @@
+autoconf
+automake
+gtk-sharp2-devel
+libtool
+mono-devel >= 2.4
+pkgconfig

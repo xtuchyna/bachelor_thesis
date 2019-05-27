@@ -1,0 +1,3 @@
+fontforge
+fontpackages-devel
+xgridfit >= 2.2-4.a.20100725cvs.fc14

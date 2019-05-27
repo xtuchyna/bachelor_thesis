@@ -1,0 +1,3 @@
+eclipse-license
+eclipse-mylyn-tasks-bugzilla >= 3.7.0
+tycho

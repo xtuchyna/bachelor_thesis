@@ -1,0 +1,31 @@
+cmake
+gcc-c++
+gettext
+libetpan-devel
+lm_sensors-devel
+pkgconfig(alsa)
+pkgconfig(dbusmenu-glib-0.4)
+pkgconfig(dbusmenu-gtk3-0.4)
+pkgconfig(fftw3)
+pkgconfig(gio-2.0)
+pkgconfig(gldi) = 3.4.1
+pkgconfig(glib-2.0)
+pkgconfig(gnome-vfs-2.0)
+pkgconfig(indicator3-0.4)
+pkgconfig(libexif)
+pkgconfig(libgnome-menu-3.0)
+pkgconfig(libgnomeui-2.0)
+pkgconfig(libical)
+pkgconfig(libpulse)
+pkgconfig(libxklavier)
+pkgconfig(upower-glib)
+pkgconfig(vte-2.91)
+pkgconfig(webkit2gtk-4.0)
+pkgconfig(xxf86vm)
+pkgconfig(zeitgeist-1.0)
+python2-devel
+python3-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+ruby-devel
+vala

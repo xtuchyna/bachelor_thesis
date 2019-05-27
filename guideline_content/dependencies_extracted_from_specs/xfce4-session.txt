@@ -1,0 +1,21 @@
+GConf2-devel
+dbus-devel >= 1.1.0
+dbus-glib-devel >= 0.84
+desktop-file-utils
+gettext
+glib2-devel >= 2.24.0
+gnome-doc-utils
+gnome-keyring-devel
+intltool
+libSM-devel
+libtool
+libwnck-devel >= 2.30
+libxfce4ui-devel >= 4.12.1
+libxslt
+polkit-devel
+startup-notification-devel
+systemd-devel >= 195
+xfce4-dev-tools
+xfce4-panel-devel >= 4.12
+xfconf-devel >= 4.12
+xorg-x11-server-utils

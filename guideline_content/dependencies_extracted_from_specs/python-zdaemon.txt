@@ -1,0 +1,16 @@
+python-ZConfig
+python-devel
+python-manuel
+python-mock
+python-setuptools
+python-six
+python-zc-customdoctests
+python-zope-testing
+python3-ZConfig
+python3-devel
+python3-manuel
+python3-mock
+python3-setuptools
+python3-six
+python3-zc-customdoctests
+python3-zope-testing

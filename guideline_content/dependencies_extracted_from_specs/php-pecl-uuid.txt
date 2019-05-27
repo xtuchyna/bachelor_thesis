@@ -1,0 +1,3 @@
+libuuid-devel
+php-devel
+php-pear

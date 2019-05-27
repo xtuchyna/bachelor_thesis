@@ -1,0 +1,3 @@
+fontforge
+fontpackages-devel
+python3-devel

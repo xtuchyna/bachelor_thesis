@@ -1,0 +1,24 @@
+mingw32-LibRaw
+mingw32-OpenEXR
+mingw32-filesystem >= 95
+mingw32-gcc-c++
+mingw32-ilmbase
+mingw32-jxrlib
+mingw32-lcms2
+mingw32-libjpeg-turbo
+mingw32-libpng
+mingw32-libtiff
+mingw32-libwebp
+mingw32-openjpeg2
+mingw64-LibRaw
+mingw64-OpenEXR
+mingw64-filesystem >= 95
+mingw64-gcc-c++
+mingw64-ilmbase
+mingw64-jxrlib
+mingw64-lcms2
+mingw64-libjpeg-turbo
+mingw64-libpng
+mingw64-libtiff
+mingw64-libwebp
+mingw64-openjpeg2

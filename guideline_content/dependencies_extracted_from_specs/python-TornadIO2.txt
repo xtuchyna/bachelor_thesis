@@ -1,0 +1,4 @@
+python-setuptools
+python-simplejson
+python-tornado
+python2-devel

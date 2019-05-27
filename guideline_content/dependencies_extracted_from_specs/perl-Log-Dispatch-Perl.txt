@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Log::Dispatch) >= 1.16
+perl(Log::Dispatch::Output)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

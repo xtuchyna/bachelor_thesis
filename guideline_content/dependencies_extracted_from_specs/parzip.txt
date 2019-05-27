@@ -1,0 +1,4 @@
+gcc-c++
+meson
+pkgconfig(liblzma)
+pkgconfig(zlib)

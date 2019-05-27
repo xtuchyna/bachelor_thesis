@@ -1,0 +1,7 @@
+alsa-lib-devel
+cmake
+desktop-file-utils
+drumstick0-devel >= 0.4
+gettext
+kde-filesystem
+kdelibs4-devel

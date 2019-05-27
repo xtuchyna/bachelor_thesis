@@ -1,0 +1,12 @@
+bison
+cim-schema
+flex
+libcurl-devel
+openslp-devel
+openssl-devel
+pam-devel
+perl-generators
+sblim-cmpi-devel
+sblim-sfcCommon-devel
+systemd
+zlib-devel

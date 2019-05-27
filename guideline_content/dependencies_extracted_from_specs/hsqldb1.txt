@@ -1,0 +1,5 @@
+ant
+glassfish-servlet-api
+java-devel
+javapackages-local
+junit

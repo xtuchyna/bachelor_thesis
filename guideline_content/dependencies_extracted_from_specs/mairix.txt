@@ -1,0 +1,4 @@
+bison
+bzip2-devel
+flex
+zlib-devel

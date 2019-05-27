@@ -1,0 +1,6 @@
+perl(Catalyst::Runtime)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

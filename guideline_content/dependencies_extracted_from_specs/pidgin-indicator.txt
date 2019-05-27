@@ -1,0 +1,5 @@
+gettext
+intltool
+perl(XML::Parser)
+pkgconfig(appindicator-0.1)
+pkgconfig(pidgin)

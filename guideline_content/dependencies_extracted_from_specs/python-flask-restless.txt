@@ -1,0 +1,14 @@
+python-dateutil > 2.2
+python-flask >= 1:0.10
+python-flask-sqlalchemy
+python-sqlalchemy >= 0.8
+python2-devel
+python2-mimerender >= 0.5.2
+python2-nose
+python3-dateutil > 2.2
+python3-devel
+python3-flask >= 1:0.10
+python3-flask-sqlalchemy
+python3-mimerender >= 0.5.2
+python3-nose
+python3-sqlalchemy >= 0.8

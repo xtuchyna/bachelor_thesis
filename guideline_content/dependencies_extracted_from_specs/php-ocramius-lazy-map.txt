@@ -1,0 +1,3 @@
+php(language) >= 5.3.3
+php-phpunit-PHPUnit >= 3.7
+php-theseer-autoload

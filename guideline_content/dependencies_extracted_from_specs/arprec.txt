@@ -1,0 +1,5 @@
+catdoc
+chrpath
+gcc-gfortran
+libtool
+qd-devel

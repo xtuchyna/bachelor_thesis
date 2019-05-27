@@ -1,0 +1,8 @@
+perl(Encode::Locale)
+perl(ExtUtils::MakeMaker)
+perl(JSON)
+perl(LWP::UserAgent)
+perl(Test::MockObject)
+perl(Test::More)
+perl(Test::Pod::Coverage)
+perl-generators

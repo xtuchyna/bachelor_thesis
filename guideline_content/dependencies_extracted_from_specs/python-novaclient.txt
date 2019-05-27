@@ -1,0 +1,13 @@
+git
+python-keystoneauth1
+python-openstackdocstheme
+python-oslo-serialization
+python-oslo-utils
+python-pbr
+python-prettytable
+python-setuptools
+python-sphinx
+python2-devel
+python3-devel
+python3-pbr
+python3-setuptools

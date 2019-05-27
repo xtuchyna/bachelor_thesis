@@ -1,0 +1,8 @@
+chrpath
+clutter-devel
+clutter-gtk-devel
+gobject-introspection-devel
+gtk3-devel
+libsoup-devel
+sqlite-devel
+vala

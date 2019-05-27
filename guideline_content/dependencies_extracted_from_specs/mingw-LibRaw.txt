@@ -1,0 +1,11 @@
+autoconf
+automake
+libtool
+mingw32-filesystem >= 95
+mingw32-gcc-c++
+mingw32-jasper
+mingw32-lcms2
+mingw64-filesystem >= 95
+mingw64-gcc-c++
+mingw64-jasper
+mingw64-lcms2

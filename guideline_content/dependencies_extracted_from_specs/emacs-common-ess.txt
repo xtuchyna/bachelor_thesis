@@ -1,0 +1,8 @@
+R-core
+emacs
+tex(epsf.tex)
+tex(fullpage.sty)
+tex(latex)
+tex(parskip.sty)
+tex(svn.sty)
+texinfo-tex

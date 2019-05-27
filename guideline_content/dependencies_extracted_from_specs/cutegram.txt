@@ -1,0 +1,4 @@
+/usr/bin/desktop-file-validate
+gcc-c++
+qt5-qtbase-devel
+qt5-qtdeclarative-devel

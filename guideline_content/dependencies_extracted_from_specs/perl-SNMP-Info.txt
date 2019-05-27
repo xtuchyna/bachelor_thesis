@@ -1,0 +1,16 @@
+coreutils
+findutils
+glibc-common
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(Exporter)
+perl(Math::BigInt)
+perl(Module::Build) >= 0.42
+perl(SNMP)
+perl(Test::More) >= 0.88
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

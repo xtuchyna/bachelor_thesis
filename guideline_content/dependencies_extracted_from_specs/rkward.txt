@@ -1,0 +1,10 @@
+R-devel >= 3.4.4
+blas-devel
+cmake
+desktop-file-utils
+gettext
+giflib-devel
+kdelibs-webkit-devel
+kdelibs4-devel
+lapack-devel
+pcre-devel

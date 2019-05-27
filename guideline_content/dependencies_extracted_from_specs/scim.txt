@@ -1,0 +1,10 @@
+autoconf
+automake
+gettext
+gnome-common
+gtk2-devel
+gtk3-devel
+intltool
+libXt-devel
+libtool
+libtool-ltdl-devel

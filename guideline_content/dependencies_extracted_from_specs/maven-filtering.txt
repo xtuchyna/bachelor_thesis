@@ -1,0 +1,9 @@
+maven-local
+mvn(com.google.code.findbugs:jsr305)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)
+mvn(org.apache.maven.shared:maven-shared-utils)
+mvn(org.apache.maven:maven-core)
+mvn(org.codehaus.plexus:plexus-component-metadata)
+mvn(org.codehaus.plexus:plexus-interpolation)
+mvn(org.codehaus.plexus:plexus-utils)
+mvn(org.sonatype.plexus:plexus-build-api)

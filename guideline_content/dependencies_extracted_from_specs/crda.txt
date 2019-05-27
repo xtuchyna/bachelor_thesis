@@ -1,0 +1,7 @@
+kernel-headers >= 2.6.27
+libgcrypt-devel
+libnl3-devel
+m2crypto
+openssl
+pkgconfig
+python

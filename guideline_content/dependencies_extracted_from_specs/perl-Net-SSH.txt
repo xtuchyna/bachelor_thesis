@@ -1,0 +1,13 @@
+coreutils
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IO::File)
+perl(IO::Select)
+perl(IPC::Open2)
+perl(IPC::Open3)
+perl(POSIX)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

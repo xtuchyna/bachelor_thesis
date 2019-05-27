@@ -1,0 +1,32 @@
+py-bcrypt
+python-alembic
+python-arrow
+python-binaryornot
+python-bleach
+python-blinker
+python-celery
+python-chardet
+python-cryptography
+python-docutils
+python-enum34
+python-fedora
+python-flask
+python-flask-multistatic
+python-flask-wtf
+python-markdown
+python-munch
+python-nose
+python-openid
+python-openid-cla
+python-openid-teams
+python-psutil
+python-pygit2 >= 0.20.1
+python-pygments
+python-redis
+python-setuptools
+python-sqlalchemy > 0.8
+python-straight-plugin
+python-wtforms
+python2-devel
+systemd
+systemd-devel

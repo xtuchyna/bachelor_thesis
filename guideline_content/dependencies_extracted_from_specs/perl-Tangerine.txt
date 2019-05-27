@@ -1,0 +1,16 @@
+findutils
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(List::Util) >= 1.33
+perl(PPI)
+perl(Scalar::Util)
+perl(Test::More)
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(version) >= 0.77
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

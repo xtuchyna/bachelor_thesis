@@ -1,0 +1,24 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(English)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Find) >= 1.01
+perl(File::Spec)
+perl(FindBin)
+perl(IO::File) >= 1.14
+perl(PPI) >= 1.113
+perl(PPI::Document)
+perl(Readonly) >= 1.03
+perl(Readonly::XS) >= 1.02
+perl(Statistics::Basic::Mean)
+perl(Statistics::Basic::Median)
+perl(Statistics::Basic::StdDev)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.04
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

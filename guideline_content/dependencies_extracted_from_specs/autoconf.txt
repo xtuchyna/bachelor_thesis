@@ -1,0 +1,9 @@
+emacs
+erlang
+gcc-gfortran
+help2man
+m4 >= 1.4.14
+perl(Data::Dumper)
+perl(Text::ParseWords)
+perl-generators
+perl-macros

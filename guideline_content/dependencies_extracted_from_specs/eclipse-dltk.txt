@@ -1,0 +1,12 @@
+eclipse-emf-runtime
+eclipse-license >= 1.0.1
+eclipse-manpage
+eclipse-mylyn >= 3.21.0-4
+eclipse-pde >= 1:4.6.0
+eclipse-rse
+h2
+lucene
+lucene-analysis
+mockito
+tycho
+tycho-extras

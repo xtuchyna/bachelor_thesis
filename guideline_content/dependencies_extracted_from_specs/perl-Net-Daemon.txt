@@ -1,0 +1,6 @@
+perl(ExtUtils::MakeMaker)
+perl(Getopt::Long)
+perl(IO::Socket)
+perl(Test::More)
+perl-Pod-Perldoc
+perl-generators

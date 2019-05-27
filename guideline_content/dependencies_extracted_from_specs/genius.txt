@@ -1,0 +1,14 @@
+desktop-file-utils
+flex
+gettext
+gmp-devel
+gnome-doc-utils
+gtksourceview2-devel
+intltool
+libgnomeui-devel
+mpfr-devel
+pkgconfig
+popt
+readline-devel
+scrollkeeper
+vte-devel

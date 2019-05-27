@@ -1,0 +1,3 @@
+automake
+mpich-devel
+openmpi-devel

@@ -1,0 +1,9 @@
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More)
+perl(URI)
+perl(URI::_server)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

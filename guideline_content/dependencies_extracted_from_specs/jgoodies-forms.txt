@@ -1,0 +1,5 @@
+dejavu-sans-fonts
+fontconfig
+maven-local
+mvn(com.jgoodies:jgoodies-common) >= 1.8.0
+mvn(org.sonatype.oss:oss-parent:pom:)

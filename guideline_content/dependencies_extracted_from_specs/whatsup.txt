@@ -1,0 +1,14 @@
+autoconf
+automake
+expat-devel
+ganglia-devel
+libgenders-devel
+libibcommon-devel
+libibumad-devel
+libtool
+libtool-ltdl-devel
+opensm-devel
+perl(ExtUtils::MakeMaker)
+perl-devel
+perl-generators
+systemd-units

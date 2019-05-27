@@ -1,0 +1,12 @@
+SDL_image-devel
+SDL_mixer-devel
+binutils-devel
+binutils-static
+cmake
+curl-devel
+desktop-file-utils
+gd-devel
+hawknl-devel
+libxml2-devel
+libzip-devel
+zlib-devel

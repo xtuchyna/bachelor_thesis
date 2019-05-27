@@ -1,0 +1,19 @@
+perl(Capture::Tiny)
+perl(Config)
+perl(Cwd::Guard)
+perl(Devel::CheckCompiler)
+perl(Devel::PPPort)
+perl(ExtUtils::CBuilder)
+perl(File::Basename)
+perl(File::Copy::Recursive)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(Module::Build)
+perl(Test::More) >= 0.88
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

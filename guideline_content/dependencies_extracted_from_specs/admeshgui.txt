@@ -1,0 +1,10 @@
+desktop-file-utils
+libappstream-glib
+pkgconfig(Qt5) >= 5.4
+pkgconfig(Qt5Core) >= 5.4
+pkgconfig(Qt5Gui) >= 5.4
+pkgconfig(Qt5OpenGL) >= 5.4
+pkgconfig(Qt5Svg) >= 5.4
+pkgconfig(Qt5Widgets) >= 5.4
+pkgconfig(libadmesh) >= 0.98.2
+stlsplit-devel

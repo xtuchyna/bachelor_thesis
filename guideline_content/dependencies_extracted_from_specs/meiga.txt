@@ -1,0 +1,9 @@
+dbus-glib-devel
+desktop-file-utils
+gnome-common
+gssdp-devel
+gtk2-devel
+gupnp-devel
+intltool
+libsoup-devel
+libtool

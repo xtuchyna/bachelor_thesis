@@ -1,0 +1,5 @@
+cmake(Qt5Gui)
+extra-cmake-modules >= 5.44.0
+kf5-rpm-macros >= 5.44.0
+pkgconfig(libdmtx)
+pkgconfig(libqrencode)

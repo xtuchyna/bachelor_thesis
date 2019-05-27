@@ -1,0 +1,18 @@
+clang
+emacs
+gettext
+glib2-devel
+gtk2-devel
+gyp >= 0.1-0.4.840svn
+ibus-devel >= 1.5.4
+libstdc++-devel
+libxcb-devel
+ninja-build
+protobuf-c
+protobuf-devel
+python
+qt5-devel
+xemacs
+xemacs-packages-extra
+zinnia-devel
+zlib-devel

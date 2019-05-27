@@ -1,0 +1,17 @@
+python2-astropy
+python2-devel
+python2-matplotlib
+python2-nose
+python2-numpy
+python2-scikit-learn
+python2-scipy
+python2-setuptools
+python3-astropy
+python3-devel
+python3-matplotlib
+python3-nose
+python3-numpy
+python3-scikit-learn
+python3-scipy
+python3-setuptools
+xorg-x11-server-Xvfb

@@ -1,0 +1,14 @@
+apt-devel >= 0.5.15lorg3.92
+autoconf
+automake
+desktop-file-utils
+gettext
+gtk2-devel
+intltool
+libglade2-devel
+libstdc++-devel
+libtool
+perl-XML-Parser
+rpm-devel >= 4.13
+scrollkeeper
+xmlto

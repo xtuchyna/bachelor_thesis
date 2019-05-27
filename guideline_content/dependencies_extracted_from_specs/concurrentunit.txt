@@ -1,0 +1,4 @@
+maven-local
+mvn(org.hamcrest:hamcrest-all)
+mvn(org.sonatype.oss:oss-parent:pom:)
+mvn(org.testng:testng)

@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker)
+perl(IO::File) >= 1.14
+perl(IO::String)
+perl(Mixin::Linewise::Readers)
+perl(Mixin::Linewise::Writers)
+perl(Test::More)
+perl-generators

@@ -1,0 +1,8 @@
+SDL2-devel
+cmake
+desktop-file-utils
+fontconfig-devel
+gcc-c++
+gtk3-devel
+libappstream-glib
+sqlite-devel

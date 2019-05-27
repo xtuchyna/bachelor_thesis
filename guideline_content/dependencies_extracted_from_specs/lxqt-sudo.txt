@@ -1,0 +1,5 @@
+cmake >= 3.0
+kf5-kwindowsystem-devel
+pkgconfig(Qt5Widgets)
+pkgconfig(lxqt) >= 0.11.0
+qt5-linguist

@@ -1,0 +1,5 @@
+autoconf
+automake
+gettext
+pcre-devel >= 3.9-10
+texinfo

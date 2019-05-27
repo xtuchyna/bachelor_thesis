@@ -1,0 +1,21 @@
+PyQt4-devel
+bison
+cmake
+dbus-devel
+flex
+gcc-c++
+glusterfs-api-devel >= 3.12.3
+krb5-devel
+libacl-devel
+libattr-devel
+libblkid-devel
+libcap-devel
+libnfsidmap-devel
+libntirpc-devel = 1.6.2
+librados-devel >= 0.61
+libuuid-devel
+pkgconfig
+python-sphinx
+python2-devel
+systemd
+xfsprogs-devel

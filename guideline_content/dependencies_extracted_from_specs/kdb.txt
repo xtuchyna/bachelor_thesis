@@ -1,0 +1,14 @@
+cmake
+cmake(KF5CoreAddons)
+cmake(Qt5Test)
+cmake(Qt5Widgets)
+cmake(Qt5Xml)
+extra-cmake-modules
+gcc-c++
+kf5-rpm-macros
+libicu-devel
+mariadb-connector-c-devel
+pkgconfig
+pkgconfig(sqlite3)
+postgresql-devel
+python

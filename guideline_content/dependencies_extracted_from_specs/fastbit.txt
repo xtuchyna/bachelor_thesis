@@ -1,0 +1,7 @@
+autoconf
+automake
+bison
+flex
+gcc-c++
+java-devel
+perl-interpreter

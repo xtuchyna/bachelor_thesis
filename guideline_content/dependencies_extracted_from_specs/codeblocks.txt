@@ -1,0 +1,15 @@
+astyle-devel >= 3.1
+boost-devel
+bzip2-devel
+desktop-file-utils
+dos2unix
+gamin-devel
+hunspell-devel
+libICE-devel
+libappstream-glib
+libtool
+squirrel-devel
+tinyxml-devel
+wxGTK-devel
+zip
+zlib-devel

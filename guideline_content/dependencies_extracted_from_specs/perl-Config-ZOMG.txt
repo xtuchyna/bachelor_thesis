@@ -1,0 +1,16 @@
+findutils
+make
+perl(Config::Any)
+perl(Config::General)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(Hash::Merge::Simple)
+perl(List::Util)
+perl(Moo)
+perl(Sub::Quote)
+perl(Test::Deep)
+perl(Test::More)
+perl(Test::Warn)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

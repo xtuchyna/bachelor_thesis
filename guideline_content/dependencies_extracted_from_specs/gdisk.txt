@@ -1,0 +1,3 @@
+libuuid-devel
+ncurses-devel
+popt-devel

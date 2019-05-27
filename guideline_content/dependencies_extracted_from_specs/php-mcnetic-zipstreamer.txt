@@ -1,0 +1,10 @@
+php(language) >= 5.3.0
+php-composer(phpunit/phpunit)
+php-composer(theseer/autoload)
+php-date
+php-hash
+php-mbstring
+php-pcre
+php-pecl(Xdebug)
+php-pecl(pecl_http)
+php-spl

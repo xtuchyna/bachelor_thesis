@@ -1,0 +1,8 @@
+perl(Carp::Clan) >= 5.4
+perl(Devel::StackTrace)
+perl(Devel::Symdump)
+perl(ExtUtils::MakeMaker)
+perl(Scalar::Util)
+perl(Test::Exception)
+perl(Test::More)
+perl-generators

@@ -1,0 +1,6 @@
+rubygem(activemodel)
+rubygem(minitest)
+rubygem(mocha)
+rubygem(rails)
+rubygem(rails-controller-testing)
+rubygems-devel

@@ -1,0 +1,3 @@
+cmake
+elfutils-devel >= 0.130
+zlib-devel

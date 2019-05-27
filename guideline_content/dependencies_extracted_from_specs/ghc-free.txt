@@ -1,0 +1,15 @@
+ghc-Cabal-devel
+ghc-bifunctors-devel
+ghc-comonad-devel
+ghc-containers-devel
+ghc-distributive-devel
+ghc-exceptions-devel
+ghc-mtl-devel
+ghc-prelude-extras-devel
+ghc-profunctors-devel
+ghc-rpm-macros
+ghc-semigroupoids-devel
+ghc-semigroups-devel
+ghc-template-haskell-devel
+ghc-transformers-compat-devel
+ghc-transformers-devel

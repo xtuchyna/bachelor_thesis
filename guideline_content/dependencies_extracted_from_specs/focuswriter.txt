@@ -1,0 +1,6 @@
+desktop-file-utils
+enchant-devel
+hunspell-devel
+libao-devel
+libzip-devel
+qt-devel

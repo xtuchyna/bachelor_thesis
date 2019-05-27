@@ -1,0 +1,8 @@
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IO::Socket::SSL) >= 1.19
+perl(LWP::Protocol::https)
+perl(Net::LDAP)
+perl(Net::SMTP)
+perl(strict)
+perl(warnings)
+perl-generators

@@ -1,0 +1,22 @@
+findutils
+make
+perl(:VERSION) >= 5.10.0
+perl(CPAN::Meta)
+perl(CPAN::Meta::Requirements)
+perl(Capture::Tiny)
+perl(Class::Load)
+perl(Class::Tiny)
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(File::Basename)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::pushd)
+perl(Getopt::Lucid)
+perl(List::Util)
+perl(Pod::Usage)
+perl(Test::Deep)
+perl(Test::More) >= 0.92
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

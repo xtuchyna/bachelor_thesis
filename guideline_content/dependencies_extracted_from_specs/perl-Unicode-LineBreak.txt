@@ -1,0 +1,24 @@
+coreutils
+findutils
+libthai-devel
+make
+perl(Carp)
+perl(Config)
+perl(Encode) >= 1.98
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(MIME::Charset) >= 1.006.2
+perl(Test::More) >= 0.45
+perl(Test::Pod) >= 1.00
+perl(XSLoader)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig
+sed
+sombok-devel

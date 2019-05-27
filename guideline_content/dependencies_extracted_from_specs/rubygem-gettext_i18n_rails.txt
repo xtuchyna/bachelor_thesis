@@ -1,0 +1,14 @@
+ruby
+ruby(release)
+rubygem(actionmailer)
+rubygem(activerecord)
+rubygem(fast_gettext)
+rubygem(gettext) >= 3.0.2
+rubygem(haml)
+rubygem(railties)
+rubygem(rspec)
+rubygem(ruby_parser) >= 3.7.1
+rubygem(slim)
+rubygem(sqlite3)
+rubygem(temple)
+rubygems-devel

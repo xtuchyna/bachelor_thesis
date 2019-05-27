@@ -1,0 +1,2 @@
+maven-local
+mvn(org.sonatype.oss:oss-parent:pom:)

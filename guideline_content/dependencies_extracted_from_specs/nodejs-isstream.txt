@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(core-util-is)
+npm(inherits)
+npm(isarray)
+npm(readable-stream)
+npm(string_decoder)
+npm(tape)

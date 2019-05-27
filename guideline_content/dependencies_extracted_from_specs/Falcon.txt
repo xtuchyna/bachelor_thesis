@@ -1,0 +1,4 @@
+cmake
+pcre-devel
+sqlite-devel
+zlib-devel

@@ -1,0 +1,11 @@
+automake
+bison
+compat-openssl10-devel
+coreutils
+libasr-devel >= 1.0.1
+libdb4-devel
+libevent-devel
+libtool
+make
+pam-devel
+systemd

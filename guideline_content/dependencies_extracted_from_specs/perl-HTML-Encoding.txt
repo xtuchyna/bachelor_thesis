@@ -1,0 +1,5 @@
+perl(ExtUtils::MakeMaker)
+perl(HTML::Parser)
+perl(HTTP::Headers::Util)
+perl(Test::More)
+perl-generators

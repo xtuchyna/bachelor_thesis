@@ -1,0 +1,6 @@
+cmake
+dos2unix
+mingw32-filesystem
+mingw32-gcc-c++
+mingw64-filesystem
+mingw64-gcc-c++

@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-byteable-devel
+ghc-bytestring-devel
+ghc-crypto-cipher-types-devel
+ghc-rpm-macros
+ghc-securemem-devel

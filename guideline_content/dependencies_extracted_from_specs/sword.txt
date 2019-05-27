@@ -1,0 +1,11 @@
+clucene-core-devel
+cmake
+cppunit-devel
+curl-devel
+icu
+libicu-devel
+libidn-devel
+openssl-devel
+python-devel
+swig
+zlib-devel

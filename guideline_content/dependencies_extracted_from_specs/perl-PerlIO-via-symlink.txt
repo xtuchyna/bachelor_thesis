@@ -1,0 +1,11 @@
+perl(Config)
+perl(Errno)
+perl(POSIX)
+perl(Symbol)
+perl(Test)
+perl(Test::More)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

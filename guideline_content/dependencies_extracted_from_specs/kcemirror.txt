@@ -1,0 +1,3 @@
+kdelibs3-devel
+librapi-devel
+libsynce-devel

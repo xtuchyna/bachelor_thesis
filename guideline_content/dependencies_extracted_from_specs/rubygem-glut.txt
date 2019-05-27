@@ -1,0 +1,5 @@
+freeglut-devel
+libGL-devel
+libGLU-devel
+ruby-devel
+rubygems-devel

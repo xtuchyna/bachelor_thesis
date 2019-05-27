@@ -1,0 +1,5 @@
+fftw-devel
+libtool
+numpy
+procps-ng
+python2

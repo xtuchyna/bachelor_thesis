@@ -1,0 +1,7 @@
+chrpath
+cube-devel >= 4.3
+mpich-devel
+openmpi-devel
+openssh-clients
+otf2-devel >= 2.0
+zlib-devel

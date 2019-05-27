@@ -1,0 +1,16 @@
+python2-attrs
+python2-devel
+python2-idna
+python2-pyOpenSSL
+python2-pyasn1
+python2-pyasn1-modules
+python2-pytest
+python2-setuptools
+python3-attrs
+python3-devel
+python3-idna
+python3-pyOpenSSL
+python3-pyasn1
+python3-pyasn1-modules
+python3-pytest
+python3-setuptools

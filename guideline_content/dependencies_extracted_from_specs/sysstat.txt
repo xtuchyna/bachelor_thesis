@@ -1,0 +1,3 @@
+gettext
+lm_sensors-devel
+systemd

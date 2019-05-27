@@ -1,0 +1,9 @@
+f2fs-tools-devel
+gtest-devel
+libselinux-devel
+libusbx-devel
+openssl-devel
+ruby
+rubygems
+systemd
+zlib-devel

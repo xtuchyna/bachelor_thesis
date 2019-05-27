@@ -1,0 +1,12 @@
+cmake(KF5ConfigWidgets)
+cmake(KF5CoreAddons)
+cmake(KF5DocTools)
+cmake(KF5I18n)
+cmake(KF5IconThemes)
+cmake(KF5KCMUtils)
+cmake(KF5KIO)
+cmake(KF5Notifications)
+cmake(KF5WidgetsAddons)
+cmake(KF5XmlGui)
+desktop-file-utils
+extra-cmake-modules

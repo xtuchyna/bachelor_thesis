@@ -1,0 +1,6 @@
+asciidoc
+coreutils
+gcc
+make
+openssl-devel
+xmlto

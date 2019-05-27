@@ -1,0 +1,3 @@
+gcc
+perl(ExtUtils::MakeMaker)
+perl-generators

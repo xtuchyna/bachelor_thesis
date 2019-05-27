@@ -1,0 +1,28 @@
+chrpath
+dbus-python
+findutils
+pkgconfig(QtAssistantClient)
+pkgconfig(QtDBus)
+pkgconfig(QtDeclarative)
+pkgconfig(QtDesigner)
+pkgconfig(QtGui)
+pkgconfig(QtHelp)
+pkgconfig(QtMultimedia)
+pkgconfig(QtNetwork)
+pkgconfig(QtOpenGL)
+pkgconfig(QtScript)
+pkgconfig(QtScriptTools)
+pkgconfig(QtSql)
+pkgconfig(QtSvg)
+pkgconfig(QtTest)
+pkgconfig(QtWebKit)
+pkgconfig(QtXml)
+pkgconfig(QtXmlPatterns)
+pkgconfig(dbus-1)
+pkgconfig(dbus-python)
+pkgconfig(phonon)
+python2-devel
+python3-dbus
+python3-devel
+python3-sip-devel >= 4.19
+sip-devel >= 4.19

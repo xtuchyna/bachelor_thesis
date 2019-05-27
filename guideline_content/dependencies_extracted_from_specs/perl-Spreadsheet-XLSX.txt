@@ -1,0 +1,8 @@
+perl(Archive::Zip) >= 1.16
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Spreadsheet::ParseExcel) >= 0.45
+perl(Test::More)
+perl(Test::NoWarnings)
+perl-generators

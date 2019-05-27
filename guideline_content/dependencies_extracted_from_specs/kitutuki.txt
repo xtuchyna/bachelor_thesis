@@ -1,0 +1,5 @@
+autoconf
+cmigemo-devel
+ncurses-devel
+oniguruma-devel
+readline-devel

@@ -1,0 +1,7 @@
+maven-local
+maven-plugin-bundle
+mvn(javax.inject:javax.inject)
+mvn(org.apache.geronimo.specs:geronimo-annotation_1.1_spec)
+mvn(org.apache.geronimo.specs:specs:pom:)
+mvn(org.jboss.spec.javax.el:jboss-el-api_2.2_spec)
+mvn(org.jboss.spec.javax.interceptor:jboss-interceptors-api_1.1_spec)

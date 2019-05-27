@@ -1,0 +1,4 @@
+/usr/bin/phpab
+/usr/bin/phpunit
+php-composer(zetacomponents/base) >= 1.8
+php-composer(zetacomponents/unit-test)

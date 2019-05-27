@@ -1,0 +1,6 @@
+gnupg
+php(language) > 5.4
+php-cli
+php-devel
+php-fedora-autoloader-devel
+php-xml

@@ -1,0 +1,6 @@
+/usr/bin/dbus-daemon
+ruby
+ruby(release)
+rubygem(nokogiri)
+rubygem(rspec)
+rubygems-devel

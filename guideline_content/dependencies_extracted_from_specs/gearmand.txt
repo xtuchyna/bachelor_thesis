@@ -1,0 +1,16 @@
+boost-devel >= 1.37.0
+boost-thread
+gperf
+gperftools-devel
+hiredis-devel
+libevent-devel
+libmemcached-devel
+libuuid-devel
+mariadb-connector-c-devel
+memcached
+openssl-devel
+postgresql-devel
+sqlite-devel
+systemd
+tokyocabinet-devel
+zlib-devel

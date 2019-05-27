@@ -1,0 +1,2 @@
+python-cliapp
+python2-devel

@@ -1,0 +1,12 @@
+autoconf
+automake
+libtool
+pkgconfig(dleyna-core-1.0) >= 0.5.0
+pkgconfig(gio-2.0) >= 2.28
+pkgconfig(glib-2.0) >= 2.28
+pkgconfig(gobject-2.0) >= 2.28
+pkgconfig(gssdp-1.0) >= 0.13.2
+pkgconfig(gupnp-1.0) >= 0.20.3
+pkgconfig(gupnp-av-1.0) >= 0.11.5
+pkgconfig(gupnp-dlna-2.0) >= 0.9.4
+pkgconfig(libsoup-2.4) >= 2.28.2

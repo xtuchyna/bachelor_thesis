@@ -1,0 +1,6 @@
+cairomm-devel
+cmake
+faust
+libsndfile-devel
+lv2-devel
+non-ntk-devel

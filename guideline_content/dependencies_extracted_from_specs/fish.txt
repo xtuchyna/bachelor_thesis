@@ -1,0 +1,7 @@
+doxygen
+gcc
+gcc-c++
+gettext
+ncurses-devel
+pcre2-devel
+python3-devel

@@ -1,0 +1,3 @@
+SDL2-devel
+SDL2-static
+doxygen

@@ -1,0 +1,4 @@
+libevent-devel >= 2.0
+openssl-devel
+systemd
+systemd-units

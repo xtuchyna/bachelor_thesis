@@ -1,0 +1,13 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(POSIX)
+perl(Pod::Coverage) >= 0.18
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(Tk) >= 800
+perl(Tk::Canvas)
+perl(Tk::Derived)
+perl(base)
+perl-generators
+perl-interpreter

@@ -1,0 +1,25 @@
+/usr/bin/python2
+autoconf
+automake
+docbook-style-xsl
+gdb
+git
+glib-networking
+glib2-devel >= 2.37.4
+golang-bin
+golang-src
+intltool
+krb5-devel
+krb5-server
+libssh-devel >= 0.7.1
+libxslt-devel
+openssl-devel
+pam-devel
+pcp-libs-devel
+pkgconfig(gio-unix-2.0)
+pkgconfig(json-glib-1.0)
+pkgconfig(polkit-agent-1) >= 0.105
+sed
+systemd-devel
+xmlto
+zlib-devel

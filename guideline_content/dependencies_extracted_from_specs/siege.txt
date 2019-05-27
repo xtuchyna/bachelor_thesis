@@ -1,0 +1,3 @@
+libjoedog-devel
+libtool
+openssl-devel

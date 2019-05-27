@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(actionpack)
+rubygem(minitest)
+rubygem(mocha)
+rubygem(rack-test)
+rubygem(webmock)
+rubygems-devel

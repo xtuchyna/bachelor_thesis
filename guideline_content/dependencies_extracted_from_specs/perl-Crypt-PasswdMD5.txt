@@ -1,0 +1,8 @@
+perl(Digest::MD5) >= 2.53
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More) >= 0.94
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

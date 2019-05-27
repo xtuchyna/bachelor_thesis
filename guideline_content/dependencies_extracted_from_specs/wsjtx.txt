@@ -1,0 +1,15 @@
+asciidoc
+boost-devel
+cmake
+desktop-file-utils
+dos2unix
+execstack
+fftw-devel
+gcc-c++
+gcc-gfortran
+hamlib-devel
+libusbx-devel
+portaudio-devel
+qt5-devel
+rubygem-asciidoctor
+tar

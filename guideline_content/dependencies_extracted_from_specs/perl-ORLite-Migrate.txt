@@ -1,0 +1,25 @@
+coreutils
+make
+perl(Carp)
+perl(DBD::SQLite) >= 1.21
+perl(DBI) >= 1.58
+perl(Exporter)
+perl(File::Basename)
+perl(File::Path) >= 2.04
+perl(File::Spec) >= 3.28
+perl(File::Spec::Functions)
+perl(File::pushd)
+perl(IPC::Run3)
+perl(Module::Install::Metadata)
+perl(ORLite) >= 1.28
+perl(Params::Util) >= 0.37
+perl(Probe::Perl)
+perl(Test::More) >= 0.47
+perl(inc::Module::Install::DSL) >= 1.04
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

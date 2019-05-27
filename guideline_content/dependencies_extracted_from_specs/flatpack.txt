@@ -1,0 +1,8 @@
+maven-local
+mvn(jdom:jdom)
+mvn(junit:junit)
+mvn(net.sourceforge.jexcelapi:jxl)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-simple)
+mvn(org.sonatype.oss:oss-parent:pom:)

@@ -1,0 +1,4 @@
+/usr/bin/execstack
+gcc
+gcc-gfortran
+perl-devel

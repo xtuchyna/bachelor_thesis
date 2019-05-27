@@ -1,0 +1,22 @@
+python2-devel
+python2dist(colander)
+python2dist(coverage)
+python2dist(mock)
+python2dist(nose)
+python2dist(pyramid) >= 1.7
+python2dist(setuptools)
+python2dist(simplejson)
+python2dist(sphinx)
+python2dist(venusian)
+python2dist(webtest)
+python3-devel
+python3dist(colander)
+python3dist(coverage)
+python3dist(mock)
+python3dist(nose)
+python3dist(pyramid) >= 1.7
+python3dist(setuptools)
+python3dist(simplejson)
+python3dist(sphinx)
+python3dist(venusian)
+python3dist(webtest)

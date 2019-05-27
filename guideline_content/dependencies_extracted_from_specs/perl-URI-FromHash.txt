@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Module::Build::Compat)
+perl(Params::Validate)
+perl(Test::Fatal)
+perl(Test::More)
+perl(URI) >= 1.22
+perl-generators

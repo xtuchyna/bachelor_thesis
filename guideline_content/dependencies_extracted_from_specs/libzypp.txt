@@ -1,0 +1,25 @@
+/usr/bin/appdata2solv
+/usr/bin/comps2solv
+/usr/bin/helix2solv
+/usr/bin/repo2solv
+/usr/bin/rpmmd2solv
+/usr/bin/susetags2solv
+asciidoc
+boost-devel
+cmake
+doxygen
+gettext
+glib2-devel
+gpgme-devel
+graphviz
+libsolv-devel >= 0.6.28-2
+libsolv-tools >= 0.6.28-2
+pkgconfig(libcurl)
+pkgconfig(libproxy-1.0)
+pkgconfig(libudev)
+pkgconfig(libxml-2.0)
+pkgconfig(openssl) >= 1.1
+pkgconfig(popt)
+pkgconfig(rpm)
+pkgconfig(udev)
+pkgconfig(zlib)

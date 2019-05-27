@@ -1,0 +1,14 @@
+dbus-glib-devel >= 0.34
+desktop-file-utils
+gcc
+gettext
+gstreamer1-devel >= 0.10.2
+gstreamer1-plugins-base-devel
+gtk2-devel >= 2.10.0
+intltool
+libappstream-glib
+libburn-devel >= 0.4.2
+libgudev1-devel
+libisofs-devel >= 0.6.2
+libxfce4ui-devel >= 4.12.0
+thunar-vfs-devel

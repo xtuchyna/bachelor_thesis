@@ -1,0 +1,23 @@
+CharLS-devel >= 1.0
+cmake
+compat-openssl10-devel
+docbook5-style-xsl
+doxygen
+expat-devel
+fontconfig-devel
+gcc
+gcc-c++
+gl2ps-devel
+graphviz
+json-c-devel
+libogg-devel
+libtheora-devel
+libuuid-devel
+libxml2-devel
+libxslt-devel
+mesa-libOSMesa-devel
+pkgconfig(libopenjp2)
+poppler-devel
+python2-devel
+python3-devel
+swig

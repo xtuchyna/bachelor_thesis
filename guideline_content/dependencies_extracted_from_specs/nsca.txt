@@ -1,0 +1,2 @@
+libmcrypt-devel
+systemd-units

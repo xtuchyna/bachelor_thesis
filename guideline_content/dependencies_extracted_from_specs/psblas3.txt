@@ -1,0 +1,9 @@
+MUMPS-mpich-devel >= 4.10.0-21
+MUMPS-openmpi-devel >= 4.10.0-21
+gcc-gfortran
+metis-devel
+mpich-devel
+openblas-devel
+openblas-srpm-macros
+openmpi-devel
+suitesparse-devel

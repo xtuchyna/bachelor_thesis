@@ -1,0 +1,1 @@
+libusb-devel >= 0.1.12

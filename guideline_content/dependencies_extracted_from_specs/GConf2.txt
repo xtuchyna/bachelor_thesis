@@ -1,0 +1,13 @@
+autoconf
+automake
+dbus-glib-devel >= 0.8
+gettext
+glib2-devel >= 2.25.9
+gobject-introspection-devel >= 0.6.7
+gtk-doc >= 0.9
+intltool
+libtool
+libxml2-devel >= 2.4.12
+libxslt-devel
+pkgconfig >= 0.14
+polkit-devel >= 0.92

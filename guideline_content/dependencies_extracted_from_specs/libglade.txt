@@ -1,0 +1,9 @@
+coreutils
+gcc
+gettext
+glibc-common
+gnome-libs-devel >= 1:1.4.1.2
+gtk-doc
+libxml-devel >= 1:1.8.16
+make
+sed

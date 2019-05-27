@@ -1,0 +1,14 @@
+python2-devel
+python3-devel
+python3dist(cryptography)
+python3dist(defusedxml)
+python3dist(httpretty)
+python3dist(nose)
+python3dist(oauthlib)
+python3dist(pyjwt)
+python3dist(python3-openid)
+python3dist(python3-saml)
+python3dist(requests)
+python3dist(requests-oauthlib)
+python3dist(six)
+python3dist(unittest2)

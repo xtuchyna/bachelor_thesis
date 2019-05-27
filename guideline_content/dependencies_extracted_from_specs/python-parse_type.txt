@@ -1,0 +1,11 @@
+python-enum34
+python-sphinx >= 1.1
+python2-devel
+python2-parse >= 1.6
+python2-setuptools
+python2-six
+python3-devel
+python3-parse
+python3-setuptools
+python3-six
+python3-sphinx >= 1.1

@@ -1,0 +1,9 @@
+gtksourceview2-devel
+ruby(release)
+ruby-devel
+rubygem(test-unit)
+rubygem-cairo-devel
+rubygem-glib2-devel >= 3.0.8
+rubygem-gtk2-devel >= 3.0.8
+rubygems-devel
+xorg-x11-server-Xvfb

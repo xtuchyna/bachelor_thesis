@@ -1,0 +1,9 @@
+perl(ExtUtils::MakeMaker)
+perl(Moose)
+perl(Moose::Role)
+perl(Moose::Util::TypeConstraints)
+perl(Test::More)
+perl(Test::Pod)
+perl(strict)
+perl(warnings)
+perl-generators

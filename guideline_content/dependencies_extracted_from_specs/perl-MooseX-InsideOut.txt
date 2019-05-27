@@ -1,0 +1,9 @@
+perl(Class::MOP) >= 0.80
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Hash::Util::FieldHash::Compat)
+perl(Moose) >= 0.94
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(namespace::clean) >= 0.11
+perl-generators

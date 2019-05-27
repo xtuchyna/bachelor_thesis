@@ -1,0 +1,4 @@
+desktop-file-utils
+libappstream-glib
+nuvolasdk >= 4.5.0
+python3-six

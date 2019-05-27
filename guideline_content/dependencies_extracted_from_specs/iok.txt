@@ -1,0 +1,8 @@
+desktop-file-utils
+gcc
+gettext
+gtk3-devel
+intltool
+libXtst-devel
+libxml2-devel
+unique3-devel

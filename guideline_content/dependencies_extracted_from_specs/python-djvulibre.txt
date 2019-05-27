@@ -1,0 +1,12 @@
+Cython
+djvulibre-devel
+djvulibre-libs
+python-docutils
+python-nose
+python-sphinx >= 1.0
+python2-devel
+python3-Cython >= 0.20
+python3-devel
+python3-docutils
+python3-nose
+python3-sphinx >= 1.0

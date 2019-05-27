@@ -1,0 +1,18 @@
+gnome-common
+intltool
+perl(XML::Parser)
+pkgconfig(cjs-1.0) >= 3.4.0
+pkgconfig(clutter-gst-3.0)
+pkgconfig(clutter-gtk-1.0)
+pkgconfig(gstreamer-plugins-base-1.0)
+pkgconfig(gtk-doc)
+pkgconfig(gtksourceview-3.0)
+pkgconfig(libmusicbrainz5)
+pkgconfig(libnemo-extension)
+pkgconfig(libnotify)
+pkgconfig(pygobject-2.0)
+pkgconfig(pygobject-3.0)
+pkgconfig(webkit2gtk-4.0)
+pkgconfig(xreader-view-1.5)
+python2-devel
+python2-distutils-extra

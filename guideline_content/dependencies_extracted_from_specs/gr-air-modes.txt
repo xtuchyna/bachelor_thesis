@@ -1,0 +1,14 @@
+PyQt4-devel
+boost-devel
+cmake
+doxygen
+gnuradio-devel
+graphviz
+numpy
+python-devel
+python-zmq
+qwt-devel
+scipy
+sqlite-devel
+swig
+uhd-devel

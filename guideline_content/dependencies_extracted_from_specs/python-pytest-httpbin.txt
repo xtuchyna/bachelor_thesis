@@ -1,0 +1,12 @@
+python-httpbin
+python-pytest
+python-setuptools
+python-six
+python2-devel
+python2-requests
+python3-devel
+python3-httpbin
+python3-pytest
+python3-requests
+python3-setuptools
+python3-six

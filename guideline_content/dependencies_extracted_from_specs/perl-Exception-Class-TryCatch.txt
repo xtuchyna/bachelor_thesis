@@ -1,0 +1,4 @@
+perl(Exception::Class) >= 1.2
+perl(Module::Build)
+perl(Test::More) >= 0.47
+perl-generators

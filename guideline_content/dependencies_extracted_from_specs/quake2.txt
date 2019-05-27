@@ -1,0 +1,7 @@
+SDL2-devel
+desktop-file-utils
+libogg-devel
+libvorbis-devel
+mesa-libGL-devel
+openal-soft-devel
+zlib-devel

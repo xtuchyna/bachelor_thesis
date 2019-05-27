@@ -1,0 +1,14 @@
+/usr/bin/xmlto
+/usr/bin/xsltproc
+docbook-dtds
+docbook-style-xsl
+flatpak >= 0.10.2
+gettext
+libcap-devel
+libdwarf-devel
+pkgconfig(glib-2.0) >= 2.44
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(json-glib-1.0)
+pkgconfig(libelf)
+pkgconfig(libsoup-2.4)
+pkgconfig(ostree-1) >= 2017.14

@@ -1,0 +1,10 @@
+autoconf
+automake
+desktop-file-utils
+gettext
+gettext-devel
+gtkmm24-devel
+libpng-devel
+libtool
+m4
+pkgconfig

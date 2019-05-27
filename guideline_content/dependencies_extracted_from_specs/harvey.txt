@@ -1,0 +1,10 @@
+appstream
+desktop-file-utils
+gettext
+libappstream-glib
+meson
+pkgconfig(glib-2.0)
+pkgconfig(gobject-2.0)
+pkgconfig(granite)
+pkgconfig(gtk+-3.0)
+vala

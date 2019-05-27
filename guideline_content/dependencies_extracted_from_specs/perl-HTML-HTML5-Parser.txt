@@ -1,0 +1,34 @@
+coreutils
+findutils
+make
+perl(:VERSION) >= 5.10.0
+perl(Carp)
+perl(Encode)
+perl(Encode::Encoding)
+perl(Exporter)
+perl(HTML::HTML5::Entities) >= 0.002
+perl(HTTP::Tiny)
+perl(IO::HTML)
+perl(IO::Handle)
+perl(IO::Socket)
+perl(LWP::UserAgent)
+perl(Moo)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Test::More) >= 0.61
+perl(Try::Tiny)
+perl(URI::Escape)
+perl(URI::file)
+perl(XML::LibXML) >= 1.94
+perl(XML::LibXML::Devel)
+perl(XML::LibXML::Devel::SetLineNumber)
+perl(bytes)
+perl(constant)
+perl(inc::Module::Package)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

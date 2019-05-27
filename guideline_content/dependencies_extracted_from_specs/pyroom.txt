@@ -1,0 +1,4 @@
+desktop-file-utils
+gettext
+pygtk2
+python2-devel

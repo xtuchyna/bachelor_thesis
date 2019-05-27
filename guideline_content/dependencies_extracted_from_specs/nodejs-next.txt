@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(deferred)
+npm(es5-ext)
+npm(memoizee)
+npm(tad)

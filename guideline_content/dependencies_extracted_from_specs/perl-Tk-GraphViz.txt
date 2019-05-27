@@ -1,0 +1,4 @@
+perl(ExtUtils::MakeMaker)
+perl(Reaper) >= 1
+perl(Tk) >= 800.02
+perl-generators

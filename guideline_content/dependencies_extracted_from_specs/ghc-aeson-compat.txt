@@ -1,0 +1,17 @@
+ghc-Cabal-devel
+ghc-aeson-devel
+ghc-attoparsec-devel
+ghc-attoparsec-iso8601-devel
+ghc-base-compat-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-exceptions-devel
+ghc-hashable-devel
+ghc-rpm-macros
+ghc-scientific-devel
+ghc-tagged-devel
+ghc-text-devel
+ghc-time-devel
+ghc-time-locale-compat-devel
+ghc-unordered-containers-devel
+ghc-vector-devel

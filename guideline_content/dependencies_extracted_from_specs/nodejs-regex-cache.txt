@@ -1,0 +1,5 @@
+mocha
+nodejs-packaging
+npm(is-equal-shallow)
+npm(is-primitive)
+npm(should)

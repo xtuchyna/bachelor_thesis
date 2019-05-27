@@ -1,0 +1,6 @@
+dbus-x11
+doxygen
+graphviz
+libproxy-devel
+qt5-qtbase-devel
+time

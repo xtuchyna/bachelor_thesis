@@ -1,0 +1,14 @@
+chrpath
+ghc-Cabal-devel
+ghc-Diff-devel
+ghc-blaze-html-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-mtl-devel
+ghc-parsec-devel
+ghc-pcre-light-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-utf8-string-devel

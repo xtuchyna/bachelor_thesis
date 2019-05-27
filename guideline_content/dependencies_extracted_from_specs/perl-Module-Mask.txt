@@ -1,0 +1,11 @@
+perl(Carp)
+perl(Carp::Heavy)
+perl(Module::Build) >= 0.40
+perl(Module::Build::Compat) >= 0.02
+perl(Module::Util) >= 1.00
+perl(Scalar::Util) >= 1.01
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(lib)
+perl-generators

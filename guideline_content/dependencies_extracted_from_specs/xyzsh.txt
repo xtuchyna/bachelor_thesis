@@ -1,0 +1,3 @@
+cmigemo-devel
+libedit-devel
+oniguruma-devel

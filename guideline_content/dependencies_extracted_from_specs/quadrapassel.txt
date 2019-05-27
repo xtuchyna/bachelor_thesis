@@ -1,0 +1,8 @@
+clutter-gtk-devel
+desktop-file-utils
+gtk3-devel
+intltool
+itstool
+libappstream-glib
+libcanberra-devel
+librsvg2-devel

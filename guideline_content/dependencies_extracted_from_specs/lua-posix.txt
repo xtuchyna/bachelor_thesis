@@ -1,0 +1,4 @@
+lua-devel
+lua-lunit
+ncurses-devel
+perl-interpreter

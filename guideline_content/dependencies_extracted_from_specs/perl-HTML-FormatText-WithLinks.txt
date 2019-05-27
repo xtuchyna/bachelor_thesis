@@ -1,0 +1,12 @@
+perl(ExtUtils::MakeMaker)
+perl(HTML::FormatText)
+perl(HTML::TreeBuilder)
+perl(Test::MockObject)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 0.08
+perl(URI::WithBase)
+perl(base)
+perl(strict)
+perl(vars)
+perl-generators

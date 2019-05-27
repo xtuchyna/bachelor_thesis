@@ -1,0 +1,11 @@
+ant
+ant-contrib
+apache-commons-cli
+desktop-file-utils
+gettext-devel
+icedtea-web
+java-devel >= 1:1.6.0
+jpackage-utils
+jspecview >= 2-6.1464svn
+naga
+web-assets-devel

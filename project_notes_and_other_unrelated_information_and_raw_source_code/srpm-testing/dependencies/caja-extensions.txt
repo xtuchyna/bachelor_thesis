@@ -1,0 +1,9 @@
+caja-devel
+dbus-glib-devel
+gajim
+gtk3-devel
+gupnp-devel
+mate-common
+mate-desktop-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

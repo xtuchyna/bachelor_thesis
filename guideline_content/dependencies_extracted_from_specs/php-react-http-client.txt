@@ -1,0 +1,18 @@
+php-composer(evenement/evenement) < 3.0
+php-composer(evenement/evenement) >= 2.0
+php-composer(fedora/autoloader)
+php-composer(guzzlehttp/psr7) < 2.0
+php-composer(guzzlehttp/psr7) >= 1.0
+php-composer(phpunit/phpunit)
+php-composer(react/dns) < 0.5.0
+php-composer(react/dns) >= 0.4.0
+php-composer(react/event-loop) < 0.5.0
+php-composer(react/event-loop) >= 0.4.0
+php-composer(react/promise) < 3.0
+php-composer(react/promise) >= 2.2
+php-composer(react/socket-client) < 1.0
+php-composer(react/socket-client) >= 0.3
+php-composer(react/stream) < 0.5.0
+php-composer(react/stream) >= 0.4.0
+php-json
+php-spl

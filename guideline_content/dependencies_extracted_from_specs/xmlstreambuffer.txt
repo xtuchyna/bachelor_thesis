@@ -1,0 +1,8 @@
+junit
+jvnet-parent
+maven-enforcer-plugin
+maven-local
+maven-plugin-bundle
+maven-surefire-provider-junit
+stax-ex >= 1.7.1
+woodstox-core

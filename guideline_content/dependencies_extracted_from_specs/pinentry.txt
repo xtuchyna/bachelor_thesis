@@ -1,0 +1,10 @@
+gcr-devel
+gtk2-devel
+libassuan-devel
+libcap-devel
+libgpg-error-devel
+libsecret-devel
+ncurses-devel
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Widgets)

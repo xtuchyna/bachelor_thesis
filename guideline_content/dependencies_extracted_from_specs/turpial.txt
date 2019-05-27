@@ -1,0 +1,4 @@
+python-devel
+python-setuptools
+python2-babel
+pytz

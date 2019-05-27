@@ -1,0 +1,13 @@
+nodejs-packaging
+npm(debug)
+npm(encodeurl)
+npm(escape-html)
+npm(istanbul)
+npm(mocha)
+npm(on-finished)
+npm(parseurl)
+npm(readable-stream)
+npm(safe-buffer)
+npm(statuses)
+npm(supertest)
+npm(unpipe)

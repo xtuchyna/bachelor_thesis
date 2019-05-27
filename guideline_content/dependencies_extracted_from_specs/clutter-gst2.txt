@@ -1,0 +1,4 @@
+clutter-devel
+gobject-introspection-devel
+gstreamer1-devel
+gstreamer1-plugins-base-devel

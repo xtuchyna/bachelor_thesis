@@ -1,0 +1,4 @@
+SDL-devel
+desktop-file-utils
+gtk3-devel
+libappstream-glib

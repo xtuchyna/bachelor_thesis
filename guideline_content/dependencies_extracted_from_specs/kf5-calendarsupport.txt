@@ -1,0 +1,26 @@
+cmake(KF5Akonadi)
+cmake(KF5AkonadiCalendar)
+cmake(KF5AkonadiMime)
+cmake(KF5CalendarCore)
+cmake(KF5CalendarUtils)
+cmake(KF5Codecs)
+cmake(KF5Holidays)
+cmake(KF5IdentityManagement)
+cmake(KF5KdepimDBusInterfaces)
+cmake(KF5Mime)
+cmake(KF5PimCommon)
+cmake(Qt5Test)
+cmake(Qt5UiTools)
+cmake(Qt5Widgets)
+extra-cmake-modules >= 5.23.0
+kdepim-apps-libs-devel >= 17.12.3
+kf5-akonadi-calendar-devel >= 17.12.3
+kf5-akonadi-mime-devel >= 17.12.3
+kf5-akonadi-server-devel >= 17.12.3
+kf5-kcalendarcore-devel >= 17.12.3
+kf5-kcalendarutils-devel >= 17.12.3
+kf5-kholidays-devel >= 17.12.3
+kf5-kidentitymanagement-devel >= 17.12.3
+kf5-kmime-devel >= 17.12.3
+kf5-pimcommon-devel >= 17.12.3
+kf5-rpm-macros >= 5.23.0

@@ -1,0 +1,6 @@
+perl(Module::Build)
+perl(Scalar::Util)
+perl(Test::Builder::Tester)
+perl(Test::More)
+perl(base)
+perl-generators

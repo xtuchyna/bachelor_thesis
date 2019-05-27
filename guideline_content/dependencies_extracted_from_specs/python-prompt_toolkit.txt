@@ -1,0 +1,12 @@
+python2-devel
+python2-pygments
+python2-pytest
+python2-setuptools
+python2-six >= 1.9.0
+python2-wcwidth
+python3-devel
+python3-pygments
+python3-pytest
+python3-setuptools
+python3-six >= 1.9.0
+python3-wcwidth

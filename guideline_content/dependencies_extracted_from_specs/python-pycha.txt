@@ -1,0 +1,6 @@
+desktop-file-utils
+pycairo
+python-tools
+python2-devel
+python3-cairo
+python3-devel

@@ -1,0 +1,11 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-hashable-devel
+ghc-rpm-macros
+ghc-split-devel
+ghc-text-devel
+ghc-transformers-devel
+ghc-unordered-containers-devel
+ghc-vector-algorithms-devel
+ghc-vector-devel

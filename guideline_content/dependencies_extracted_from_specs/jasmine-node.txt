@@ -1,0 +1,11 @@
+coffee-script
+jasmine
+nodejs-packaging
+npm(fileset)
+npm(gaze)
+npm(jasmine-growl-reporter)
+npm(jasmine-reporters)
+npm(mkdirp)
+npm(require-cs)
+npm(requirejs)
+npm(walkdir)

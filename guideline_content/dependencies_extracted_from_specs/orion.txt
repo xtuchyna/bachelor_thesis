@@ -1,0 +1,8 @@
+desktop-file-utils
+gcc-c++
+libappstream-glib
+pkgconfig(Qt5)
+pkgconfig(Qt5Multimedia)
+pkgconfig(Qt5QuickControls2)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5WebEngine)

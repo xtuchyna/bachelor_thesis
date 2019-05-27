@@ -1,0 +1,10 @@
+/usr/bin/pod2man
+perl(File::Temp)
+perl(FindBin)
+perl(Getopt::Long)
+perl(Pod::Usage)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

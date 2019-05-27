@@ -1,0 +1,5 @@
+perl(CGI::Untaint) >= 1.2
+perl(Catalyst) >= 5.5
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl-generators

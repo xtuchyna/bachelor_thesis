@@ -1,0 +1,58 @@
+coreutils
+findutils
+make
+perl(Archive::Tar) >= 1.50
+perl(Archive::Zip)
+perl(CPAN::Meta) >= 2.110350
+perl(CPAN::Meta::Requirements) >= 2.121
+perl(Carp)
+perl(Compress::Zlib)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Digest::SHA)
+perl(DirHandle)
+perl(Dumpvalue)
+perl(Expect)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp) >= 0.16
+perl(FileHandle)
+perl(FindBin)
+perl(Getopt::Std)
+perl(HTTP::Tiny) >= 0.005
+perl(Hash::Util)
+perl(Module::Build)
+perl(Net::Ping)
+perl(POSIX)
+perl(Perl::Version)
+perl(Pod::Usage)
+perl(Safe)
+perl(Sort::Versions)
+perl(Sys::Hostname)
+perl(Term::ReadLine)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 0.18
+perl(Text::ParseWords)
+perl(Text::Wrap)
+perl(YAML) >= 0.60
+perl(autouse)
+perl(base)
+perl(constant)
+perl(if)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

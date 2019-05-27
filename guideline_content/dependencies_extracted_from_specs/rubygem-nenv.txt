@@ -1,0 +1,4 @@
+rubygem(coveralls)
+rubygem(rspec) < 4
+rubygem(rspec) >= 3.1
+rubygems-devel

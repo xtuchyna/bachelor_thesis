@@ -1,0 +1,9 @@
+apiextractor-devel
+cmake
+generatorrunner-devel
+libxslt-devel
+python-sphinx
+python2-devel
+python3-devel
+qt4-devel
+sparsehash-devel

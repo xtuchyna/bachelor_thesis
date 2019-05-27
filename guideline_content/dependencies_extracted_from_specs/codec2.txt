@@ -1,0 +1,4 @@
+cmake
+libsamplerate-devel
+speex-devel
+speexdsp-devel

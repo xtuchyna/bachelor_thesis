@@ -1,0 +1,15 @@
+php(language) >= 5.5
+php-cli
+php-composer(akamai-open/edgegrid-auth) < 2.0
+php-composer(akamai-open/edgegrid-auth) >= 1.0
+php-composer(guzzlehttp/guzzle) < 7.0
+php-composer(guzzlehttp/guzzle) >= 6.1.1
+php-composer(monolog/monolog) < 2.0
+php-composer(monolog/monolog) >= 1.15
+php-composer(phpunit/phpunit)
+php-composer(psr/log) < 2.0
+php-composer(psr/log) >= 1.0.1
+php-fedora-autoloader-devel
+php-json
+php-pcre
+php-reflection

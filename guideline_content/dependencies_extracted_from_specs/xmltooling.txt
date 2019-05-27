@@ -1,0 +1,11 @@
+autoconf
+automake
+boost-devel
+cxxtest
+doxygen
+graphviz
+libcurl-devel
+libtool
+log4cpp-devel
+xerces-c-devel
+xml-security-c-devel

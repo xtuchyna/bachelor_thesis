@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(duplexer)
+npm(sprintf)
+npm(tap-parser)
+npm(through2)

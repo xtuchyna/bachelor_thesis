@@ -1,0 +1,11 @@
+libbsd
+libbsd-devel
+libdb-devel
+libmemcached-devel
+libtool
+opendbx-devel
+openldap-devel
+openssl-devel
+pkgconfig
+sendmail-milter-devel
+systemd

@@ -1,0 +1,13 @@
+/usr/bin/make
+/usr/bin/perl
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(Scalar::Util)
+perl(Test::Fatal)
+perl(Test::More) >= 0.47
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.006

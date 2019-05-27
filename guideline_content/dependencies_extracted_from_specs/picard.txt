@@ -1,0 +1,7 @@
+PyQt4
+PyQt4-webkit
+desktop-file-utils
+gettext
+libofa-devel
+python-mutagen
+python2-devel

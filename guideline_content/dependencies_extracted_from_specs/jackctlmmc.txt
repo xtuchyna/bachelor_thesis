@@ -1,0 +1,5 @@
+alsa-lib-devel
+desktop-file-utils
+jack-audio-connection-kit-devel
+lash-devel
+qt-devel

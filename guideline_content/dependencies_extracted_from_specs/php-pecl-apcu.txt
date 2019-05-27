@@ -1,0 +1,4 @@
+gcc
+pcre-devel
+php-devel > 7
+php-pear

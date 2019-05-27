@@ -1,0 +1,17 @@
+findutils
+make
+perl(Dumpvalue)
+perl(ExtUtils::MakeMaker::CPANfile)
+perl(File::Spec)
+perl(File::Temp) >= 0.19
+perl(FindBin)
+perl(JSON::PP) >= 2.00
+perl(Opcode)
+perl(Safe)
+perl(Test::More) >= 0.88
+perl(strict)
+perl(version) >= 0.83
+perl(version::vpp)
+perl(warnings)
+perl-generators
+perl-interpreter

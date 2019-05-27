@@ -1,0 +1,9 @@
+ImageMagick
+cmake >= 2.8
+desktop-file-utils
+libappstream-glib
+pkgconfig(freetype2)
+pkgconfig(libssh2)
+pkgconfig(smbclient)
+pkgconfig(x11)
+utf8proc-devel

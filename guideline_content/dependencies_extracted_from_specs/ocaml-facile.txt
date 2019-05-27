@@ -1,0 +1,2 @@
+ocaml >= 3.02
+ocaml-findlib-devel

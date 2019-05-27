@@ -1,0 +1,10 @@
+perl(File::Find::Rule)
+perl(File::Slurp)
+perl(LWP::Protocol::https)
+perl(LWP::UserAgent)
+perl(List::MoreUtils)
+perl(Locale::Country)
+perl(Module::Build)
+perl(XML::Twig)
+perl(version)
+perl-generators

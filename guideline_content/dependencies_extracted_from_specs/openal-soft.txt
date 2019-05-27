@@ -1,0 +1,8 @@
+SDL2-devel
+SDL_sound-devel
+alsa-lib-devel
+cmake
+fluidsynth-devel
+portaudio-devel
+pulseaudio-libs-devel
+qt5-devel

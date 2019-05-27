@@ -1,0 +1,8 @@
+php(language) >= 5.5
+php-autoloader(zendframework/zend-escaper) >= 2.5
+php-autoloader(zendframework/zend-servicemanager) >= 2.7.5
+php-autoloader(zendframework/zend-stdlib) >= 2.7
+php-composer(phpunit/phpunit) >= 4.0
+php-fedora-autoloader-devel
+php-pcre
+php-spl

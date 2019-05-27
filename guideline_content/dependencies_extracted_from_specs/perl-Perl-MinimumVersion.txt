@@ -1,0 +1,20 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Find::Rule) >= 0.32
+perl(File::Find::Rule::Perl) >= 1.04
+perl(File::Spec) >= 0.80
+perl(Getopt::Long)
+perl(List::Util) >= 1.20
+perl(PPI) >= 1.215
+perl(PPI::Util)
+perl(PPIx::Regexp) >= 0.033
+perl(Params::Util) >= 0.25
+perl(Perl::Critic::Utils) >= 1.104
+perl(Test::More) >= 0.47
+perl(Test::Script) >= 1.03
+perl(strict)
+perl(vars)
+perl(version) >= 0.76
+perl(warnings)
+perl-generators

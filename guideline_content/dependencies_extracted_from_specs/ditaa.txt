@@ -1,0 +1,7 @@
+ant
+apache-commons-cli
+batik
+java-devel >= 1:1.6.0
+jericho-html
+jpackage-utils
+xml-commons-apis

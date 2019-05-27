@@ -1,0 +1,14 @@
+/usr/bin/appstream-util
+desktop-file-utils
+gettext
+intltool
+pygobject3
+python-pexpect
+python2-devel
+python2-distutils-extra
+python2-setuptools
+python3-devel
+python3-distutils-extra
+python3-gobject
+python3-pexpect
+python3-setuptools

@@ -1,0 +1,9 @@
+gcc
+gdbm-devel
+libdb-devel
+make
+perl(Config)
+perl(ExtUtils::Embed)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl-devel
+perl-generators

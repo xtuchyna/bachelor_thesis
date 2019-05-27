@@ -1,0 +1,13 @@
+coreutils
+perl(Carp)
+perl(English)
+perl(FileHandle)
+perl(FindBin)
+perl(Module::Build)
+perl(Test::More) >= 0.42
+perl(bytes)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

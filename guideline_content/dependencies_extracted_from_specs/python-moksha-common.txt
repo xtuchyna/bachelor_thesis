@@ -1,0 +1,16 @@
+python-decorator
+python-kitchen
+python-mock
+python-nose
+python-setuptools
+python-six
+python2-devel
+python3-decorator
+python3-devel
+python3-kitchen
+python3-mock
+python3-nose
+python3-pytz
+python3-setuptools
+python3-six
+pytz

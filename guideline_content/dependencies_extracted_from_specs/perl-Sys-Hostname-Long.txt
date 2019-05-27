@@ -1,0 +1,15 @@
+coreutils
+hostname
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) > 6.75
+perl(IO::Socket)
+perl(POSIX)
+perl(Sys::Hostname)
+perl(Test)
+perl(lib)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

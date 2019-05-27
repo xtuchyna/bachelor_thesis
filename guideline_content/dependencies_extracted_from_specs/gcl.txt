@@ -1,0 +1,17 @@
+binutils-devel
+binutils-static
+bzip2
+emacs
+gcc
+gmp-devel
+libXaw-devel
+readline-devel
+selinux-policy-devel
+tcl-devel
+tex(latex)
+tex-ec
+texinfo
+texinfo-tex
+tk-devel
+xemacs
+xemacs-packages-extra

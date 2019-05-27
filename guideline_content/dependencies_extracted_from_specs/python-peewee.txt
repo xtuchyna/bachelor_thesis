@@ -1,0 +1,11 @@
+python2-Cython
+python2-apsw
+python2-devel
+python2-flask
+python2-setuptools
+python3-Cython
+python3-apsw
+python3-devel
+python3-flask
+python3-setuptools
+python3-sphinx

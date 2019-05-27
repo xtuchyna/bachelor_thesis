@@ -1,0 +1,23 @@
+/usr/bin/pod2man
+intltool
+mingw32-binutils
+mingw32-cairo
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-gettext
+mingw32-gnutls
+mingw32-gtk2
+mingw32-gtk3
+mingw32-libgcrypt
+mingw32-win-iconv
+mingw64-binutils
+mingw64-cairo
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-gettext
+mingw64-gnutls
+mingw64-gtk2
+mingw64-gtk3
+mingw64-libgcrypt
+mingw64-win-iconv
+pkgconfig

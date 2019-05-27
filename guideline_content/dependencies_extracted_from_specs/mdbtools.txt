@@ -1,0 +1,13 @@
+autoconf
+automake
+bison
+desktop-file-utils
+flex
+gnome-common
+libgnomeui-devel
+libtool
+libxml2-devel
+rarian-compat
+readline-devel
+txt2man
+unixODBC-devel

@@ -1,0 +1,9 @@
+gtkmm30-devel
+libglademm24-devel
+libgnomecanvasmm26-devel
+libgtop2-devel
+libtool
+libxfce4ui-devel
+lm_sensors-devel
+xfce4-dev-tools
+xfce4-panel-devel

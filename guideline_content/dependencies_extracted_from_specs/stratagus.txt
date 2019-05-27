@@ -1,0 +1,16 @@
+SDL-devel
+bzip2-devel
+cmake
+compat-lua-devel
+compat-tolua++-devel
+dos2unix
+libGL-devel
+libGLU-devel
+libmng-devel
+libpng-devel
+libtheora-devel
+libvorbis-devel
+mesa-libGLES-devel
+mikmod-devel
+sqlite-devel
+zlib-devel

@@ -1,0 +1,4 @@
+desktop-file-utils
+gtk3-devel
+intltool
+libxml2-devel

@@ -1,0 +1,3 @@
+libXft-devel
+tcl-devel
+tk-devel

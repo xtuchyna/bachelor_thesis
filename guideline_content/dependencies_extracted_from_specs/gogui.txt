@@ -1,0 +1,5 @@
+ant
+desktop-file-utils
+docbook-style-xsl
+java-devel
+jpackage-utils

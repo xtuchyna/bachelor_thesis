@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(mkfiletree)
+npm(sinon)
+npm(tap)

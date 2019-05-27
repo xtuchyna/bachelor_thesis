@@ -1,0 +1,8 @@
+desktop-file-utils
+gettext
+gnome-common
+intltool
+pkgconfig(gtk+-3.0)
+pkgconfig(libcanberra)
+pkgconfig(liblightdm-gobject-1)
+vala

@@ -1,0 +1,5 @@
+asciidoc
+automake
+gcc
+libxml2-devel
+xmlto

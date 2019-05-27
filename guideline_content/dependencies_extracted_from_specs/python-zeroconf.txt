@@ -1,0 +1,6 @@
+python3-devel
+python3-mock
+python3-netifaces
+python3-pytest
+python3-setuptools
+python3-six

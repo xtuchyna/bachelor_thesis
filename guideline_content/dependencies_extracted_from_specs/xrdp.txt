@@ -1,0 +1,14 @@
+checkpolicy
+gcc
+hardlink
+libX11-devel
+libXfixes-devel
+libXrandr-devel
+nasm
+openssl
+pam-devel
+pkgconfig(fuse)
+pkgconfig(openssl)
+pkgconfig(pixman-1)
+pkgconfig(systemd)
+selinux-policy-devel

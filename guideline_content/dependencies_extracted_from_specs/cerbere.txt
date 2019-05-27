@@ -1,0 +1,7 @@
+cmake
+desktop-file-utils
+gettext
+pkgconfig(gee-0.8)
+pkgconfig(glib-2.0) >= 2.32.0
+vala >= 0.16
+vala-tools

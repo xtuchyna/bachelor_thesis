@@ -1,0 +1,12 @@
+mocha
+nodejs-packaging
+npm(arr-flatten)
+npm(collection-visit)
+npm(component-emitter)
+npm(get-value)
+npm(has-value)
+npm(kind-of)
+npm(lazy-cache)
+npm(set-value)
+npm(should)
+npm(to-object-path)

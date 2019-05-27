@@ -1,0 +1,7 @@
+desktop-file-utils
+gettext
+gnome-doc-utils
+libglade2-devel
+libgnomeui-devel
+libpcap-devel
+scrollkeeper

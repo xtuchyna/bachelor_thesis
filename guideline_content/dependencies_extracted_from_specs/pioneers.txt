@@ -1,0 +1,7 @@
+desktop-file-utils
+gettext
+gtk2-devel
+intltool
+libgnome-devel
+perl(XML::Parser)
+scrollkeeper

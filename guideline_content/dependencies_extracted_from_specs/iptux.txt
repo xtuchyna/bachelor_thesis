@@ -1,0 +1,6 @@
+GConf2-devel
+dbus-devel
+desktop-file-utils
+gettext
+gstreamer-devel
+gtk2-devel

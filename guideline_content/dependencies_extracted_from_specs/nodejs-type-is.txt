@@ -1,0 +1,4 @@
+mocha
+nodejs-packaging
+npm(media-typer)
+npm(mime-types)

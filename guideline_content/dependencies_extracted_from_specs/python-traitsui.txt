@@ -1,0 +1,12 @@
+/usr/bin/2to3
+/usr/bin/xvfb-run
+python2-devel
+python2-nose
+python2-pyface
+python2-pyface-qt
+python2-setuptools
+python3-devel
+python3-nose
+python3-pyface
+python3-pyface-qt
+python3-setuptools

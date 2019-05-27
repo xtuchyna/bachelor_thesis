@@ -1,0 +1,11 @@
+gcc
+gcc-c++
+gd-devel
+libjpeg-devel
+libtool-ltdl-devel
+lockdev-devel
+make
+pkgconfig(libexif)
+pkgconfig(libusb-1.0)
+pkgconfig(libxml-2.0)
+systemd

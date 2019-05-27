@@ -1,0 +1,8 @@
+boost-devel >= 1.42.0
+cmake >= 2.8.2
+doxygen
+flann-devel
+graphviz
+ode-devel
+python
+ruby

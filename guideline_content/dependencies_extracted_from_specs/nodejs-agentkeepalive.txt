@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(humanize-ms)
+npm(mocha)
+npm(pedding)
+npm(should)
+npm(should-http)
+openssl

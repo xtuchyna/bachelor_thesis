@@ -1,0 +1,15 @@
+perl(Carp)
+perl(Date::Parse)
+perl(DateTime)
+perl(DateTime::Format::Flexible)
+perl(DateTime::Format::ICal)
+perl(DateTime::Format::Natural)
+perl(DateTime::TimeZone)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.31
+perl(Scalar::Util)
+perl(Test::Most)
+perl(Time::Zone)
+perl(base)
+perl(constant)
+perl-generators

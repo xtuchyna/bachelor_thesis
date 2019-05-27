@@ -1,0 +1,23 @@
+each module must be labeled by number, machine learning on text would be inefficient
+*scikit has a LabelEncoder (p99)
+*one-hot encoding vectors
+*pipelines (p103) are great for automization of dataset transformations (which have to be done before feeding data to algorithm)
+
+we need some function to measure the errors done by trained algorithm (RMSE, MAE, etc)
+
+dont forget about the validation set during training
+*cross-validation p109
+
+custom dataset preparing described in p101
+
+feature scaling (p100) would not be needed, as we probably won't use neural networks and the number of modules would not be high
+
+Ensemble Learning - building one model on top of other models (Random Forests and Decision Trees)
+*p109
+*we can use this in our algorithm if we want better results
+
+we should compare the scores from different models so we would choose the best one
+
+after we select the best model, we should fine tune it - find out the best hyperparameters (p112)
+fi
+

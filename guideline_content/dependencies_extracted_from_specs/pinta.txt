@@ -1,0 +1,8 @@
+desktop-file-utils
+gcc
+gettext
+gtk-sharp2-devel
+intltool
+libappstream-glib
+mono-addins-devel
+mono-devel

@@ -1,0 +1,5 @@
+latex2html
+libgs-devel
+python2-devel
+python2-tools
+tetex-latex

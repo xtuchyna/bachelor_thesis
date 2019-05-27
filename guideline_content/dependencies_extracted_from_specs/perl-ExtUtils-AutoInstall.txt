@@ -1,0 +1,20 @@
+/usr/bin/make
+/usr/bin/perl
+coreutils
+findutils
+perl(CPAN)
+perl(CPANPLUS) >= 0.043
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(ExtUtils::MakeMaker)
+perl(LWP::Simple)
+perl(Sort::Versions) >= 1.2
+perl(Symbol)
+perl(Test)
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(version)
+perl-generators

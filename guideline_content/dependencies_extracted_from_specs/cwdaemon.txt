@@ -1,0 +1,4 @@
+perl-generators
+pkgconfig
+systemd
+unixcw-devel

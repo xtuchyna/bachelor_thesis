@@ -1,0 +1,5 @@
+asciidoc
+intltool
+libtool
+texinfo
+xmlto

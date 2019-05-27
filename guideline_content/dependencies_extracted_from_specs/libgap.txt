@@ -1,0 +1,5 @@
+gap-devel
+gap-libs
+gcc
+libtool
+python2-devel

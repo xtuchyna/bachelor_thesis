@@ -1,0 +1,6 @@
+gettext
+gobject-introspection-devel
+gtk3-devel >= 3.0.0
+intltool
+libXt-devel
+ncurses-devel

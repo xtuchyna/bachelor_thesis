@@ -1,0 +1,6 @@
+gobject-introspection-devel
+gstreamer1-devel >= 1.0.0
+gstreamer1-plugins-base-devel >= 1.0.0
+gupnp-igd-devel
+libnice-devel >= 0.1.3
+python-devel

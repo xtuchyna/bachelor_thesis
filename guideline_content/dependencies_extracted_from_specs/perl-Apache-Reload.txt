@@ -1,0 +1,26 @@
+coreutils
+findutils
+make
+perl(Apache2::Connection)
+perl(Apache2::Const)
+perl(Apache2::RequestIO)
+perl(Apache2::RequestRec)
+perl(Apache2::RequestUtil)
+perl(Apache2::ServerUtil)
+perl(Apache::Test) >= 1.34
+perl(Apache::TestMM)
+perl(Apache::TestRequest)
+perl(Apache::TestRunPerl)
+perl(Apache::TestUtil)
+perl(Config)
+perl(File::Spec::Functions)
+perl(ModPerl::MM)
+perl(ModPerl::Util)
+perl(Test::More)
+perl(lib)
+perl(mod_perl2) >= 1.99022
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

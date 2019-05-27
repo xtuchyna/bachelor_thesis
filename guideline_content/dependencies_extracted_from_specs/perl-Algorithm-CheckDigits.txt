@@ -1,0 +1,19 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(Exporter)
+perl(File::Spec)
+perl(Module::Build)
+perl(Probe::Perl)
+perl(Test)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(Test::Version)
+perl(integer)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,14 @@
+php(language) >= 5.6
+php-cli
+php-date
+php-dom
+php-hash
+php-json
+php-mbstring
+php-pcre
+php-phar
+php-reflection
+php-session
+php-spl
+php-tokenizer
+php-xml

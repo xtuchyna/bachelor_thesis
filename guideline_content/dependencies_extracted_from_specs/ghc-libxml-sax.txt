@@ -1,0 +1,7 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-xml-types-devel
+libxml2-devel
+pkgconfig(libxml-2.0)

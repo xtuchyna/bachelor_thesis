@@ -1,0 +1,16 @@
+clang
+clang-devel
+cmake
+compiler-rt
+glew-devel
+hwloc-devel
+libedit-devel
+libtool
+libtool-ltdl-devel
+llvm
+llvm-devel
+mesa-libEGL-devel
+mesa-libGL-devel
+ocl-icd-devel
+uthash-devel
+zlib-devel

@@ -1,0 +1,5 @@
+ruby
+ruby(release)
+rubygem(pdf-reader)
+rubygem(rspec)
+rubygems-devel

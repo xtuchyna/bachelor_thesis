@@ -1,0 +1,10 @@
+bison
+c-ares-devel
+cppunit-devel
+gcc-c++
+gettext
+gnutls-devel
+libgcrypt-devel
+libxml2-devel
+make
+sqlite-devel

@@ -1,0 +1,13 @@
+findutils
+make
+perl(DBD::SQLite)
+perl(DBI)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Text::Table)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

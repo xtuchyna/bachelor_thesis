@@ -1,0 +1,7 @@
+autoconf
+automake
+gcc
+libtool
+pkgconfig(gthread-2.0)
+pkgconfig(gtk+-2.0)
+rtfilter-devel

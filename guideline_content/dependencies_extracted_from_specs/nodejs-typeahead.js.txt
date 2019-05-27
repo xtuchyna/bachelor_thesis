@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(grunt-cli)
+npm(grunt-contrib-uglify)
+npm(grunt-sed)
+npm(semver)
+web-assets-devel

@@ -1,0 +1,5 @@
+coreutils
+gawk
+gcc >= 4.1
+make
+sed

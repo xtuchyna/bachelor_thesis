@@ -1,0 +1,10 @@
+GConf2-devel
+desktop-file-utils
+gettext
+gnet2-devel
+gstreamer-devel
+gtk2-devel
+intltool
+libglade2-devel
+pcre-devel
+vte-devel

@@ -1,0 +1,10 @@
+python2-devel
+python2-heapdict
+python2-lmdb
+python2-psutil
+python2-pytest
+python3-devel
+python3-heapdict
+python3-lmdb
+python3-psutil
+python3-pytest

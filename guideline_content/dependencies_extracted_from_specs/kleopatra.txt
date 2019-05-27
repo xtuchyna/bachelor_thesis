@@ -1,0 +1,22 @@
+boost-devel
+cmake(KF5Codecs)
+cmake(KF5Config)
+cmake(KF5DBusAddons)
+cmake(KF5DocTools)
+cmake(KF5I18n)
+cmake(KF5IconThemes)
+cmake(KF5KCMUtils)
+cmake(KF5Notifications)
+cmake(KF5TextWidgets)
+cmake(KF5WindowSystem)
+cmake(KF5XmlGui)
+cmake(QGpgme)
+cmake(Qt5Network)
+cmake(Qt5Test)
+cmake(Qt5Widgets)
+extra-cmake-modules >= 5.23.0
+gpgmepp-devel >= 1.7.1
+kf5-kmime-devel >= 17.12
+kf5-libkleo-devel >= 17.12
+kf5-rpm-macros >= 5.23.0
+libassuan2-devel

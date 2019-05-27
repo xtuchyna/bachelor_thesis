@@ -1,0 +1,8 @@
+eclipse-license
+eclipse-pde >= 1:4.2.0
+eclipse-swtbot
+jacoco >= 0.7.6
+maven-dependency-plugin
+maven-local
+maven-plugin-build-helper
+tycho

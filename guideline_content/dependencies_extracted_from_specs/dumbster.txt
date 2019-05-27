@@ -1,0 +1,4 @@
+ant >= 1.6
+javamail
+jpackage-utils >= 1.6
+junit

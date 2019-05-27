@@ -1,0 +1,15 @@
+autoconf
+automake
+bison
+cmake
+desktop-file-utils
+pcre-devel
+pkgconfig(Qt5)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5X11Extras)
+pkgconfig(gl)
+pkgconfig(python3)
+pkgconfig(vulkan)
+pkgconfig(x11)
+pkgconfig(xcb)
+pkgconfig(xcb-keysyms)

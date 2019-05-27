@@ -1,0 +1,10 @@
+desktop-file-utils
+exo-devel
+gettext
+intltool
+libXext-devel >= 1.0.0
+libXfixes-devel >= 4.0.0
+libappstream-glib
+libsoup-devel >= 2.26.0
+libxfce4ui-devel >= 4.12
+xfce4-panel-devel >= 4.12

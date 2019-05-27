@@ -1,0 +1,17 @@
+coreutils
+perl(Digest::MD5)
+perl(Encode)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Module::Build) >= 0.28
+perl(Test)
+perl(Test::More)
+perl(Test::TrailingSpace)
+perl(XML::Parser)
+perl(blib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter >= 4:5.12.0

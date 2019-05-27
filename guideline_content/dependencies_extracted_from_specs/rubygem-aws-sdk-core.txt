@@ -1,0 +1,8 @@
+rubygem(builder) < 4
+rubygem(builder) >= 3.0
+rubygem(jmespath) < 2
+rubygem(jmespath) >= 1.0
+rubygem(rspec) >= 3
+rubygem(simplecov)
+rubygem(webmock)
+rubygems-devel

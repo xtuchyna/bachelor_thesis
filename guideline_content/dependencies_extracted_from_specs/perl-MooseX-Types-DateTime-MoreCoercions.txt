@@ -1,0 +1,23 @@
+coreutils
+findutils
+make
+perl(DateTime) >= 0.4302
+perl(DateTime::Duration) >= 0.4302
+perl(DateTimeX::Easy) >= 0.085
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Moose) >= 0.41
+perl(MooseX::Types) >= 0.04
+perl(MooseX::Types::DateTime) >= 0.07
+perl(MooseX::Types::Moose) >= 0.04
+perl(Test::Fatal)
+perl(Test::More)
+perl(Time::Duration::Parse) >= 0.06
+perl(if)
+perl(namespace::autoclean)
+perl(namespace::clean) >= 0.19
+perl(ok)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

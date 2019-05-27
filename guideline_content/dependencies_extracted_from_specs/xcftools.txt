@@ -1,0 +1,3 @@
+gettext
+libpng-devel
+perl-generators

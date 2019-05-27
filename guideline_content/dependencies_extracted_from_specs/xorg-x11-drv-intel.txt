@@ -1,0 +1,27 @@
+autoconf
+automake
+bison
+cairo-devel
+flex
+kernel-headers >= 2.6.32.3
+libX11-devel
+libXScrnSaver-devel
+libXcursor-devel
+libXdamage-devel
+libXext-devel
+libXfixes-devel
+libXfont2-devel
+libXinerama-devel
+libXrandr-devel
+libXrender-devel
+libXtst-devel
+libXvMC-devel
+libdrm-devel >= 2.4.25
+libtool
+libudev-devel
+libxcb-devel >= 1.5
+mesa-libGL-devel >= 6.5-9
+pixman-devel
+python
+xcb-util-devel
+xorg-x11-server-devel >= 1.10.99.902

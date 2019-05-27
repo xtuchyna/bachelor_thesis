@@ -1,0 +1,14 @@
+automake
+dbus-glib-devel
+desktop-file-utils
+gettext
+git
+gtk-doc
+gtk2-devel
+gtk3-devel
+intltool
+libexif-devel
+libtool
+libxslt
+menu-cache-devel >= 0.3.2
+vala

@@ -1,0 +1,4 @@
+cmake >= 2.8.9-1
+gcc-c++
+java-1.8.0-openjdk-devel
+jpackage-utils >= 1.7.5-10

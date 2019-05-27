@@ -1,0 +1,4 @@
+chrpath
+libcurl-devel
+libxml2-devel
+raptor2-devel

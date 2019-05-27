@@ -1,0 +1,13 @@
+perl(Cwd)
+perl(File::Path)
+perl(File::Spec::Functions)
+perl(Module::Build) >= 0.40
+perl(String::ShellQuote)
+perl(Test::More)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+zeromq-devel

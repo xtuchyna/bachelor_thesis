@@ -1,0 +1,2 @@
+maven-local
+mvn(org.jboss:jboss-parent:pom:)

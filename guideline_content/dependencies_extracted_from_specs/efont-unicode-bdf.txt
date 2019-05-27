@@ -1,0 +1,4 @@
+fontconfig
+gzip
+ttmkfdir
+xorg-x11-font-utils

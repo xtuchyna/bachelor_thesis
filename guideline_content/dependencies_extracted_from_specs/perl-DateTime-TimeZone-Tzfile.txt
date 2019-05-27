@@ -1,0 +1,16 @@
+coreutils
+perl(Carp)
+perl(Date::ISO8601)
+perl(DateTime::TimeZone::SystemV) >= 0.009
+perl(IO::File) >= 1.13
+perl(IO::Handle) >= 1.08
+perl(Module::Build)
+perl(Params::Classify)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(integer)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

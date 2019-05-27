@@ -1,0 +1,4 @@
+desktop-file-utils
+pkgconfig(gdk-3.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(vte-2.91)

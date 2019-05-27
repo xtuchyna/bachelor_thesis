@@ -1,0 +1,11 @@
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IPC::System::Simple)
+perl(Test)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+procps-ng
+sed

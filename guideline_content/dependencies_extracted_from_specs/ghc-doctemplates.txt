@@ -1,0 +1,13 @@
+ghc-Cabal-devel
+ghc-aeson-devel
+ghc-blaze-html-devel
+ghc-blaze-markup-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-hspec-devel
+ghc-parsec-devel
+ghc-rpm-macros
+ghc-scientific-devel
+ghc-text-devel
+ghc-unordered-containers-devel
+ghc-vector-devel

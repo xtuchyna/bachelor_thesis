@@ -1,0 +1,6 @@
+python3-devel
+python3-django
+python3-django-jsonfield
+python3-setuptools
+python3-six
+python3-tox

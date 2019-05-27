@@ -1,0 +1,14 @@
+SDL-devel
+adplug-devel
+alsa-lib-devel
+desktop-file-utils
+flac-devel
+libX11-devel
+libXext-devel
+libXpm-devel
+libXxf86vm-devel
+libmad-devel
+libvorbis-devel
+ncurses-devel
+texinfo
+zlib-devel

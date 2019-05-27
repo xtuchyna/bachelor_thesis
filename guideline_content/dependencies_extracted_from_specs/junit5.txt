@@ -1,0 +1,10 @@
+asciidoc
+maven-local
+mvn(com.univocity:univocity-parsers)
+mvn(junit:junit)
+mvn(net.sf.jopt-simple:jopt-simple)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.surefire:common-java5)
+mvn(org.apache.maven.surefire:surefire-api)
+mvn(org.apiguardian:apiguardian-api)
+mvn(org.opentest4j:opentest4j)

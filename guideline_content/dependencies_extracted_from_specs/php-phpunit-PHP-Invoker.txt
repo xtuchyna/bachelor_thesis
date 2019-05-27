@@ -1,0 +1,4 @@
+(php-composer(phpunit/php-timer) >= 1.0.6 with php-composer(phpunit/php-timer) < 2)
+/usr/bin/phpab
+/usr/bin/phpunit
+php(language) >= 5.2.7

@@ -1,0 +1,7 @@
+/usr/bin/xsltproc
+desktop-file-utils
+docbook-style-xsl
+docbook-utils
+gettext
+intltool
+pkgconfig(gtk+-2.0)

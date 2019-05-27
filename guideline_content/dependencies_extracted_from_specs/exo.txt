@@ -1,0 +1,11 @@
+chrpath
+desktop-file-utils
+gettext
+gtk-doc
+intltool >= 0.31
+libnotify-devel
+perl-URI
+pkgconfig(glib-2.0) >= 2.24.0
+pkgconfig(gtk+-2.0) >= 2.20.0
+pkgconfig(libxfce4ui-1) >= 4.12
+pkgconfig(libxfce4util-1.0) >= 4.12

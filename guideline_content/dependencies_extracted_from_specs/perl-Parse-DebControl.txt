@@ -1,0 +1,12 @@
+make
+perl(Compress::Zlib)
+perl(ExtUtils::MakeMaker)
+perl(IO::Scalar)
+perl(LWP::Simple)
+perl(LWP::UserAgent)
+perl(Test::More)
+perl(lib)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

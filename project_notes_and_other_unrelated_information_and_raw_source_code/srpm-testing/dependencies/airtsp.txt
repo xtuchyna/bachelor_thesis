@@ -1,0 +1,18 @@
+boost-devel
+boost-python3-devel
+cmake
+doxygen
+gcc-c++
+ghostscript
+graphviz
+python3-devel
+readline-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+soci-mysql-devel
+soci-sqlite3-devel
+stdair-devel
+tex(latex)
+tex(sectsty.sty)
+tex(tocloft.sty)
+tex(xtab.sty)

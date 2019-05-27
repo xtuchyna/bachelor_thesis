@@ -1,0 +1,6 @@
+autoconf
+automake
+gcc
+libtool
+pkgconfig(gio-2.0)
+pkgconfig(libgit2)

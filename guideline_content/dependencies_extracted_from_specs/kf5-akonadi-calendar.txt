@@ -1,0 +1,19 @@
+cyrus-sasl-devel
+dbus-x11
+extra-cmake-modules
+kf5-akonadi-contacts-devel >= 17.12.3
+kf5-akonadi-server >= 17.12.3
+kf5-akonadi-server-devel >= 17.12.3
+kf5-akonadi-server-mysql
+kf5-kcalendarcore-devel >= 17.12.3
+kf5-kcalendarutils-devel >= 17.12.3
+kf5-kcodecs-devel >= 5.23.0
+kf5-kcontacts-devel >= 17.12.3
+kf5-kdelibs4support-devel >= 5.23.0
+kf5-kidentitymanagement-devel >= 17.12.3
+kf5-kio-devel >= 5.23.0
+kf5-kmailtransport-devel >= 17.12.3
+kf5-kwallet-devel >= 5.23.0
+kf5-rpm-macros
+qt5-qtbase-devel
+xorg-x11-server-Xvfb

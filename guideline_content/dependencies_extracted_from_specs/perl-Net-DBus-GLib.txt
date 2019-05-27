@@ -1,0 +1,17 @@
+dbus-devel
+dbus-glib-devel
+findutils
+gcc
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Glib)
+perl(Net::DBus) >= 0.33.0
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

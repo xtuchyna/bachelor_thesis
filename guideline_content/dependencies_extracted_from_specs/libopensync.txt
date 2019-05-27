@@ -1,0 +1,9 @@
+autoconf
+chrpath
+doxygen
+glib2-devel
+libxml2-devel
+pkgconfig
+python2-devel
+sqlite-devel
+swig

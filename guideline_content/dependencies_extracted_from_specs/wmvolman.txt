@@ -1,0 +1,6 @@
+autoconf
+automake
+glib2-devel
+libX11-devel
+libdockapp-devel
+libudisks2-devel

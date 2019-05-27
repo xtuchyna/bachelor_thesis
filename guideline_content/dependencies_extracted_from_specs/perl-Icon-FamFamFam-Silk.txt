@@ -1,0 +1,11 @@
+coreutils
+findutils
+make
+perl(:VERSION) >= 5.6.0
+perl(MIME::Base64)
+perl(Test::More) >= 0.61
+perl(URI)
+perl(inc::Module::Package)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,9 @@
+autoconf
+automake
+bind-devel >= 32:9.11.1-1.P1
+bind-lite-devel >= 32:9.11.1-1.P1
+bind-pkcs11-devel >= 32:9.11.1-1.P1
+krb5-devel
+libtool
+libuuid-devel
+openldap-devel

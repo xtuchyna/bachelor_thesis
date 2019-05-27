@@ -1,0 +1,17 @@
+git
+glpk-devel
+jbuilder
+ocaml > 4.02.3
+ocaml-cmdliner-devel
+ocaml-cudf-devel
+ocaml-dose3-devel
+ocaml-extlib-devel
+ocaml-findlib-devel
+ocaml-mccs-devel
+ocaml-ocamlbuild
+ocaml-ocamlgraph-devel
+ocaml-opam-file-format-devel
+ocaml-re-devel
+ocaml-result-devel
+ocaml-zip-devel
+zlib-devel

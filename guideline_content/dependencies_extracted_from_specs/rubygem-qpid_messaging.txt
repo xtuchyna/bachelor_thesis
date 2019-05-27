@@ -1,0 +1,6 @@
+gcc-c++
+qpid(cpp-client-devel)(x86-64) = 1.37.0
+ruby(release)
+ruby-devel
+rubygems-devel
+swig

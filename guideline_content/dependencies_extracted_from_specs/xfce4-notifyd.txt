@@ -1,0 +1,10 @@
+desktop-file-utils
+glib2-devel >= 2.42.0
+gtk3-devel >= 3.20.0
+intltool
+libnotify-devel >= 0.7.0
+libxfce4ui-devel >= 4.12.0
+libxfce4util-devel >= 4.12.0
+systemd
+xfce4-panel-devel >= 4.12.0
+xfconf-devel >= 4.10.0

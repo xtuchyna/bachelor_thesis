@@ -1,0 +1,10 @@
+dosfstools
+gcc-aarch64-linux-gnu
+gcc-arm-linux-gnu
+gcc-x86_64-linux-gnu
+genisoimage
+iasl
+libuuid-devel
+mtools
+nasm
+python

@@ -1,0 +1,11 @@
+autoconf
+automake
+kernel-headers >= 2.6.32.3
+libXext-devel
+libXrandr-devel
+libXv-devel
+libtool
+libudev-devel
+mesa-libGL-devel >= 6.5-9
+pkgconfig(libdrm_omap)
+xorg-x11-server-devel >= 1.4.99.1-0.15

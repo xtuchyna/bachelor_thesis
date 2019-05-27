@@ -1,0 +1,4 @@
+mocha
+nodejs-packaging
+npm(readable-stream)
+npm(stream-pair)

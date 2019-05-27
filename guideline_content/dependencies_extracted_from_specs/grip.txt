@@ -1,0 +1,7 @@
+cdparanoia-devel
+curl-devel
+desktop-file-utils
+gettext
+id3lib-devel
+libgnomeui-devel
+vte-devel

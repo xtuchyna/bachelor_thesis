@@ -1,0 +1,5 @@
+autoconf
+automake
+gstreamer1-devel >= 1.0
+gstreamer1-plugins-base-devel >= 1.0
+libtool

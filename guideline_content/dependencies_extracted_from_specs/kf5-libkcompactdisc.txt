@@ -1,0 +1,9 @@
+cmake(KF5CoreAddons)
+cmake(KF5I18n)
+cmake(KF5KDELibs4Support)
+cmake(KF5Solid)
+cmake(Qt5DBus)
+extra-cmake-modules
+kf5-rpm-macros
+pkgconfig(alsa)
+pkgconfig(phonon4qt5)

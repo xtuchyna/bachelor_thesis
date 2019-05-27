@@ -1,0 +1,7 @@
+php(language) >= 5.5
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit) >= 4.8
+php-curl
+php-json
+php-pcre
+php-spl

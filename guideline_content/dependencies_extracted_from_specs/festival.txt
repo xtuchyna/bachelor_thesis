@@ -1,0 +1,3 @@
+ncurses-devel
+pulseaudio-libs-devel
+texi2html

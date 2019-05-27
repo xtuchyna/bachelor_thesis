@@ -1,0 +1,10 @@
+ant-junit
+hamcrest
+maven-local
+python2-devel
+python2-setuptools
+python3-devel
+python3-nose
+python3-setuptools
+python3-sphinx
+sonatype-oss-parent

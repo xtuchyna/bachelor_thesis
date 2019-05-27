@@ -1,0 +1,9 @@
+nodejs-packaging
+npm(each-async)
+npm(grunt-cli)
+npm(grunt-contrib-clean)
+npm(grunt-simple-mocha)
+npm(log-symbols)
+npm(pretty-bytes)
+npm(svgmin)
+npm(svgo)

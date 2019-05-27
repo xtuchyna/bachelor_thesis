@@ -1,0 +1,12 @@
+desktop-file-utils
+freeglut-devel
+gettext-devel
+gtkglext-devel
+libGLU-devel
+libXmu-devel
+libXt-devel
+libgnomeui-devel
+libjpeg-devel
+libpng-devel
+lua-devel
+zlib-devel

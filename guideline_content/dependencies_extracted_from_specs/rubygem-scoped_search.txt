@@ -1,0 +1,6 @@
+rubygem(actionview) >= 4.2.0
+rubygem(activerecord) >= 4.2.0
+rubygem(rspec) < 4.0
+rubygem(rspec) >= 3.0
+rubygem(sqlite3)
+rubygems-devel

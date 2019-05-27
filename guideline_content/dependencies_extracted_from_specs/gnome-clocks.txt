@@ -1,0 +1,14 @@
+desktop-file-utils
+gettext
+itstool
+libappstream-glib
+meson
+pkgconfig(geocode-glib-1.0) >= 1.0
+pkgconfig(glib-2.0) >= 2.44
+pkgconfig(gnome-desktop-3.0) >= 3.8
+pkgconfig(gobject-2.0) >= 2.44
+pkgconfig(gsound) >= 0.98
+pkgconfig(gtk+-3.0) >= 3.20
+pkgconfig(gweather-3.0) >= 3.27.2
+pkgconfig(libgeoclue-2.0) >= 2.4
+vala

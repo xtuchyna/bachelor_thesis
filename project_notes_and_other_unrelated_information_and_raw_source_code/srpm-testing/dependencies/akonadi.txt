@@ -1,0 +1,11 @@
+automoc4
+boost-devel
+cmake >= 2.8.8
+gcc-c++
+libxslt
+pkgconfig(QtDBus)
+pkgconfig(QtSql)
+pkgconfig(QtXml)
+pkgconfig(shared-mime-info)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

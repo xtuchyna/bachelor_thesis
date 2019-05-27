@@ -1,0 +1,15 @@
+coreutils
+findutils
+lz4-devel
+perl(Config)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(Test::More) >= 0.82
+perl(XSLoader)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

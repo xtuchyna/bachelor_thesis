@@ -1,0 +1,9 @@
+chrpath
+glib-networking
+glib2-devel >= 2.38.0
+intltool
+krb5-devel >= 1.11
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(libxml-2.0)
+pkgconfig(sqlite3)
+vala

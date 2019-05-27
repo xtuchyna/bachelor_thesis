@@ -1,0 +1,8 @@
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Daemon) >= 1
+perl(IO::Socket::SSL) >= 0.93
+perl(IO::Socket::SSL::Utils)
+perl-generators
+perl-interpreter

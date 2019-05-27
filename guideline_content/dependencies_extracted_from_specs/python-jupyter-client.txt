@@ -1,0 +1,12 @@
+python2-devel
+python2-setuptools
+python3-dateutil
+python3-devel
+python3-ipykernel
+python3-jupyter-core
+python3-setuptools
+python3-sphinx
+python3-sphinxcontrib-github-alt
+python3-sphinxcontrib-napoleon
+python3-traitlets
+python3-zmq >= 13

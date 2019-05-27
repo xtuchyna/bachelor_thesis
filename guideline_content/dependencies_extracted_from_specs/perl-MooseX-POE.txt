@@ -1,0 +1,9 @@
+perl(ExtUtils::MakeMaker) >= 6.42
+perl(Moose) >= 2.0002
+perl(MooseX::Daemonize)
+perl(MooseX::Declare)
+perl(POE) >= 1.310
+perl(Test::Fatal) >= 0.003
+perl(Test::Moose)
+perl(Test::More) >= 0.90
+perl-generators

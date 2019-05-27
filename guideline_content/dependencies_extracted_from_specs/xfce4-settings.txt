@@ -1,0 +1,15 @@
+desktop-file-utils >= 0.7
+exo-devel >= 0.5.0
+garcon-devel >= 0.1.10
+gettext
+intltool
+libXrandr-devel
+libcanberra-devel
+libglade2-devel
+libnotify-devel
+libwnck-devel
+libxfce4ui-devel >= 4.12
+libxfce4util-devel >= 4.12
+libxklavier-devel
+xfconf-devel >= 4.12
+xorg-x11-drv-libinput-devel

@@ -1,0 +1,5 @@
+ruby >= 2.2.2
+ruby(release)
+rubygem(activesupport) = 5.1.5
+rubygem(globalid)
+rubygems-devel

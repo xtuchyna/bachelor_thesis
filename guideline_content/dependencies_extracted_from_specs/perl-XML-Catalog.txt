@@ -1,0 +1,12 @@
+perl(Cwd)
+perl(ExtUtils::MakeMaker)
+perl(LWP::Simple)
+perl(Test::More)
+perl(Text::ParseWords)
+perl(URI::URL)
+perl(XML::Parser)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

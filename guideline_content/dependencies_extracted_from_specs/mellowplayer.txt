@@ -1,0 +1,21 @@
+cmake
+desktop-file-utils
+libappstream-glib
+pkgconfig(Qt5Concurrent)
+pkgconfig(Qt5Core)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Location)
+pkgconfig(Qt5Network)
+pkgconfig(Qt5Qml)
+pkgconfig(Qt5Quick)
+pkgconfig(Qt5QuickControls2)
+pkgconfig(Qt5Sql)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5WebChannel) >= 5.9.3
+pkgconfig(Qt5WebEngine)
+pkgconfig(Qt5Widgets)
+pkgconfig(libnotify)
+python-sphinx
+python3-devel
+qt5-linguist

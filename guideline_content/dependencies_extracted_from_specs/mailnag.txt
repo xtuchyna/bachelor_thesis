@@ -1,0 +1,4 @@
+desktop-file-utils
+gettext
+libappstream-glib
+python2-devel

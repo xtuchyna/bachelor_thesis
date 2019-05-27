@@ -1,0 +1,8 @@
+felix-osgi-core
+glassfish-servlet-api
+javapackages-local
+jts
+lucene >= 6.1.0
+lucene-analysis >= 6.1.0
+lucene-queryparser >= 6.1.0
+slf4j

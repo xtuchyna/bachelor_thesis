@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext
+kdebase-workspace-devel
+libappstream-glib
+libkdegames4-devel

@@ -1,0 +1,11 @@
+autoconf
+automake
+environment(modules)
+flex
+gcc
+libevent-devel
+libtool
+perl-interpreter
+pkgconf
+pkgconfig(hwloc)
+pkgconfig(munge)

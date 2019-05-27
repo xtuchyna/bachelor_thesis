@@ -1,0 +1,6 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Language::Prolog::Types)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl-generators

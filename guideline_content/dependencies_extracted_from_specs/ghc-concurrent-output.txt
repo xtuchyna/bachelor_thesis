@@ -1,0 +1,12 @@
+ghc-Cabal-devel
+ghc-ansi-terminal-devel
+ghc-async-devel
+ghc-directory-devel
+ghc-exceptions-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-stm-devel
+ghc-terminal-size-devel
+ghc-text-devel
+ghc-transformers-devel
+ghc-unix-devel

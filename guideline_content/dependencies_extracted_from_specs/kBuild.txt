@@ -1,0 +1,7 @@
+autoconf
+automake
+bison
+byacc
+flex
+gettext-devel
+libacl-devel

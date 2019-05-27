@@ -1,0 +1,7 @@
+gcc
+maven-local
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.sonatype.oss:oss-parent:pom:)
+sqlite-devel

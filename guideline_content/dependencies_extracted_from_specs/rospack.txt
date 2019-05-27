@@ -1,0 +1,7 @@
+boost-devel
+cmake
+doxygen
+gtest
+ros-catkin-devel
+texlive-epstopdf-bin
+tinyxml-devel

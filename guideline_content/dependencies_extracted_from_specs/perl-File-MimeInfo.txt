@@ -1,0 +1,19 @@
+findutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::BaseDir) >= 0.03
+perl(File::DesktopEntry) >= 0.04
+perl(File::Spec)
+perl(Path::Tiny)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(bytes)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+shared-mime-info

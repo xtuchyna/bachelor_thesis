@@ -1,0 +1,10 @@
+/usr/bin/pod2html
+/usr/bin/pod2man
+autoconf
+automake
+gcc
+libtool
+openssl-devel
+pkgconfig
+systemd
+util-linux

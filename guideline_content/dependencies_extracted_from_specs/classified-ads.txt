@@ -1,0 +1,12 @@
+desktop-file-utils
+gettext
+libappstream-glib
+libnatpmp-devel
+miniupnpc-devel
+openssl-devel
+opus-devel
+qt5-qtbase-devel
+qt5-qtmultimedia-devel
+tcl-devel
+tk-devel
+zlib-devel

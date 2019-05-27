@@ -1,0 +1,20 @@
+boost-devel
+cmake(KF5Akonadi)
+cmake(KF5AkonadiNotes)
+cmake(KF5CalendarCore)
+cmake(KF5CalendarUtils)
+cmake(KF5Contacts)
+cmake(KF5CoreAddons)
+cmake(KF5Mime)
+kf5-akonadi-notes-devel
+kf5-akonadi-server-devel
+kf5-kcalendarcore-devel
+kf5-kcalendarutils-devel
+kf5-kcontacts-devel
+kf5-kmime-devel
+libcurl-devel
+libkolabxml-devel >= 1.1.1
+python2-devel
+swig
+xerces-c-devel
+xorg-x11-server-Xvfb

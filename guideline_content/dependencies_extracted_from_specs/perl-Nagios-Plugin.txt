@@ -1,0 +1,22 @@
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Spec)
+perl(IO::File)
+perl(Monitoring::Plugin)
+perl(Monitoring::Plugin::Config)
+perl(Monitoring::Plugin::ExitResult)
+perl(Monitoring::Plugin::Functions)
+perl(Monitoring::Plugin::Getopt)
+perl(Monitoring::Plugin::Performance)
+perl(Monitoring::Plugin::Range)
+perl(Monitoring::Plugin::Threshold)
+perl(Test::More) >= 0.62
+perl(base)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

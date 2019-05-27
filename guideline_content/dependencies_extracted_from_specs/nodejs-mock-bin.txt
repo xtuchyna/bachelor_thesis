@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(cmd-shim)
+npm(pify)
+npm(shebang-regex)
+npm(shelljs)
+npm(temp-write)

@@ -1,0 +1,10 @@
+desktop-file-utils
+gtksourceview2-devel
+ocaml
+ocaml-findlib
+ocaml-lablgtk-devel
+ocaml-num-devel
+ocaml-ocamlgraph-devel
+ocaml-ocplib-simplex-devel
+ocaml-zarith-devel
+ocaml-zip-devel

@@ -1,0 +1,11 @@
+perl(Carp)
+perl(Class::Data::Inheritable) >= 0.02
+perl(Cwd)
+perl(DBI) >= 1.2
+perl(DBIx::ContextualFetch) >= 1
+perl(ExtUtils::MakeMaker)
+perl(Test::More) >= 0.18
+perl(base)
+perl(strict)
+perl-generators
+perl-interpreter

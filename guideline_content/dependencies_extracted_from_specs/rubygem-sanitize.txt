@@ -1,0 +1,5 @@
+ruby
+ruby(release)
+rubygem(minitest4)
+rubygem(nokogiri)
+rubygems-devel >= 1.2.0

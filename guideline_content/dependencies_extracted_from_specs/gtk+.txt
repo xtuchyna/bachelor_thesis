@@ -1,0 +1,10 @@
+coreutils
+gettext
+glib-devel >= 1:1.2.10
+glibc-common
+libX11-devel
+libXext-devel
+libXi-devel
+libXt-devel
+libtool
+make

@@ -1,0 +1,3 @@
+blas-devel
+gcc-gfortran
+lapack-devel

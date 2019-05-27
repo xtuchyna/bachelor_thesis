@@ -1,0 +1,7 @@
+maven-local
+mvn(io.tesla.tycho:tycho-support:pom:)
+osgi(org.eclipse.core.resources)
+osgi(org.eclipse.equinox.common)
+osgi(org.eclipse.equinox.registry)
+osgi(org.eclipse.m2e.core)
+osgi(org.eclipse.m2e.maven.runtime)

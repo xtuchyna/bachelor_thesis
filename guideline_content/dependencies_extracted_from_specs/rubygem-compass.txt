@@ -1,0 +1,7 @@
+rubygem(chunky_png)
+rubygem(compass-core)
+rubygem(compass-import-once)
+rubygem(diff-lcs)
+rubygem(minitest)
+rubygem(mocha)
+rubygems-devel

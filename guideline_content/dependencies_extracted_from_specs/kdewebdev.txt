@@ -1,0 +1,7 @@
+automake
+desktop-file-utils
+kdelibs3-devel >= 3.5.10
+libtool
+libxml2-devel
+libxslt-devel
+perl-interpreter

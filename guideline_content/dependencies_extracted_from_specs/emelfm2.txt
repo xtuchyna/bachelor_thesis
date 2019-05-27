@@ -1,0 +1,8 @@
+dbus-glib-devel
+desktop-file-utils
+file-devel
+gettext
+gtk2-devel
+gtkspell-devel
+libacl-devel
+udisks-devel

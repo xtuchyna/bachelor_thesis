@@ -1,0 +1,10 @@
+cmake >= 2.6.2
+findutils
+gettext
+glib2-devel
+gob2 >= 2.0.16
+gtk2-devel
+ibus-devel >= 1.3
+libX11-devel
+libchewing-devel >= 0.3.3
+pkgconfig

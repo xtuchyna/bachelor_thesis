@@ -1,0 +1,10 @@
+SDL-devel
+SDL_Pango-devel
+SDL_image-devel
+SDL_mixer-devel
+SDL_net-devel
+cairo-devel
+doxygen
+libpng-devel
+librsvg2-devel
+libxml2-devel

@@ -1,0 +1,2 @@
+byacc
+flex >= 2.5

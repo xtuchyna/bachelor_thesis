@@ -1,0 +1,8 @@
+fedmsg
+python2-devel
+python2-fedfind
+python2-libcloud
+python2-mock
+python2-nose
+python2-paramiko
+python2-setuptools

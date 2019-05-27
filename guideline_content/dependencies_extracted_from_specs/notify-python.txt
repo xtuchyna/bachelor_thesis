@@ -1,0 +1,8 @@
+autoconf
+dbus-devel
+dbus-glib-devel
+gtk2-devel
+libnotify-devel >= 0.7.0
+pkgconfig
+pygtk2-devel
+python-devel

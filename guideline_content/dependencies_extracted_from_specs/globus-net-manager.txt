@@ -1,0 +1,4 @@
+doxygen
+globus-common-devel >= 15.27
+globus-xio-devel >= 5
+python2-devel

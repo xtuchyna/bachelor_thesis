@@ -1,0 +1,6 @@
+python2-devel
+python2-requests
+python2-sphinx
+python3-devel
+python3-requests
+python3-sphinx

@@ -1,0 +1,6 @@
+maven-local
+mvn(commons-beanutils:commons-beanutils)
+mvn(commons-lang:commons-lang)
+mvn(commons-logging:commons-logging)
+mvn(junit:junit)
+mvn(log4j:log4j:12)

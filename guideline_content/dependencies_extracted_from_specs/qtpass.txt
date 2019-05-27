@@ -1,0 +1,6 @@
+desktop-file-utils
+gcc
+gcc-c++
+pkgconfig(Qt5Svg)
+qt5-linguist
+qt5-qtbase-devel

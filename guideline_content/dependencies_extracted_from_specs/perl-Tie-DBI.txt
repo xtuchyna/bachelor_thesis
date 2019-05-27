@@ -1,0 +1,12 @@
+perl(Carp)
+perl(DBD::SQLite)
+perl(DBI)
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

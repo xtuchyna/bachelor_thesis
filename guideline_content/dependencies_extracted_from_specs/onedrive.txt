@@ -1,0 +1,4 @@
+ldc
+libcurl-devel
+sqlite-devel
+systemd

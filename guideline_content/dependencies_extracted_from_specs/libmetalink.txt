@@ -1,0 +1,2 @@
+CUnit-devel
+expat-devel

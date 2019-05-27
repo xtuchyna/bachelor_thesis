@@ -1,0 +1,15 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(POE)
+perl(POE::Component::Server::SimpleHTTP)
+perl(POE::Component::Server::SimpleHTTP::Response)
+perl(POE::Session)
+perl(SOAP::Constants)
+perl(SOAP::Lite)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

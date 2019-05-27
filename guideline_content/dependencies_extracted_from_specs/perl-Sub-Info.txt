@@ -1,0 +1,12 @@
+findutils
+make
+perl(:VERSION) >= 5.8.1
+perl(B)
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Importer) >= 0.024
+perl(Test2::Tools::Tiny) >= 1.302072
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

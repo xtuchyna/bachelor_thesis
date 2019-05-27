@@ -1,0 +1,5 @@
+/usr/bin/awk
+bzip2-devel
+libxml2-devel
+openssl-devel
+zlib-devel

@@ -1,0 +1,17 @@
+maven-local
+mvn(commons-io:commons-io)
+mvn(junit:junit)
+mvn(org.apache.maven.plugin-tools:maven-plugin-annotations)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.apache.maven.shared:maven-plugin-testing-harness)
+mvn(org.apache.maven:maven-compat)
+mvn(org.apache.maven:maven-core)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.apache.maven:maven-project)
+mvn(org.codehaus.castor:castor-codegen) >= 1.3.2-9
+mvn(org.codehaus.castor:castor-xml-schema) >= 1.3.2-9
+mvn(org.codehaus.mojo:mojo-parent:pom:)
+mvn(org.codehaus.plexus:plexus-compiler-api)
+mvn(org.codehaus.plexus:plexus-utils)
+mvn(velocity:velocity)

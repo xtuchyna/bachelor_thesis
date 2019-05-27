@@ -1,0 +1,18 @@
+coreutils
+findutils
+make
+perl(Exporter)
+perl(File::Copy)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(Getopt::Long)
+perl(Locale::Maketext::Gettext)
+perl(Module::Install::Metadata)
+perl(Test::More)
+perl(inc::Module::Install::DSL) >= 0.92
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

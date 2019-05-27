@@ -1,0 +1,5 @@
+libnsl2-devel
+libtirpc-devel
+perl-interpreter
+rpcgen
+systemd-units

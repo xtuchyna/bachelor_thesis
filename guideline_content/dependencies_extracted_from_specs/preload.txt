@@ -1,0 +1,4 @@
+basesystem
+glib2-devel
+help2man
+systemd

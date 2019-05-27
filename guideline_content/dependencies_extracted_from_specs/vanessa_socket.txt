@@ -1,0 +1,5 @@
+autoconf
+automake
+libtool
+popt-devel
+vanessa_logger-devel >= 0.0.8

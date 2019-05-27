@@ -1,0 +1,8 @@
+autoconf
+automake
+gettext-devel
+libevent-devel
+libsodium-devel
+libtool
+libtool-ltdl-devel
+systemd-devel

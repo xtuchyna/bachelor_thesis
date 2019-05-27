@@ -1,0 +1,21 @@
+desktop-file-utils
+eclipse-contributor-tools
+eclipse-launchbar >= 1:2.2.0
+eclipse-license
+eclipse-linuxtools-docker >= 5.3.0
+eclipse-pde
+eclipse-platform
+eclipse-remote >= 2.1.0
+eclipse-swtbot >= 2.4.0
+eclipse-tm-terminal
+eclipse-tm-terminal-connectors >= 4.3.0
+exec-maven-plugin
+freemarker
+gcc-c++
+google-gson
+lpg-java-compat
+make
+maven-antrun-plugin
+mockito
+tycho
+tycho-extras

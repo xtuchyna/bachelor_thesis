@@ -1,0 +1,25 @@
+PyYAML >= 3.1.0
+python-coverage
+python-fixtures
+python-hacking
+python-mock
+python-oslo-config
+python-oslo-i18n
+python-oslo-serialization
+python-oslo-sphinx
+python-oslotest
+python-pbr
+python-requests
+python-requests-mock
+python-sphinx
+python2-devel
+python3-PyYAML >= 3.1.0
+python3-coverage
+python3-devel
+python3-fixtures
+python3-hacking
+python3-mock
+python3-oslotest
+python3-pbr
+python3-requests
+python3-requests-mock

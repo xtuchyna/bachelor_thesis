@@ -1,0 +1,12 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Test::Builder)
+perl(Test::Exception)
+perl(Test::More) >= 0.92
+perl(Test::NoWarnings)
+perl(Test::Pod) >= 1.00
+perl(Test::Tester) >= 0.09
+perl(Test::UseAllModules)
+perl(lib)
+perl-generators

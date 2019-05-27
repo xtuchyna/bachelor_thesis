@@ -1,0 +1,27 @@
+celt051-devel
+cyrus-sasl-devel
+git-core
+gobject-introspection-devel
+gstreamer1-devel
+gstreamer1-plugins-base-devel
+gtk-doc
+gtk3-devel
+intltool
+libacl-devel
+libcacard-devel
+libgudev1-devel
+libjpeg-turbo-devel
+libphodav-devel
+libsoup-devel >= 2.49.91
+libusb1-devel >= 1.0.9
+lz4-devel
+openssl-devel
+opus-devel
+pixman-devel
+polkit-devel
+pulseaudio-libs-devel
+spice-protocol >= 0.12.11
+usbredir-devel >= 0.5.2
+usbutils
+vala-tools
+zlib-devel

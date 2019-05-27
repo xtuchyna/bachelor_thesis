@@ -1,0 +1,22 @@
+asio-devel
+autoconf
+automake
+boost-devel
+c-ares-devel
+cajun-jsonapi-devel
+cppunit-devel
+db4-cxx-devel
+db4-devel
+gperf
+libtool
+mysql-devel
+openssl-devel >= 0.9.8
+pcre-devel
+perl
+popt-devel
+postgresql-devel
+python-devel
+python-pycxx-devel
+radcli-devel
+systemd
+xerces-c-devel

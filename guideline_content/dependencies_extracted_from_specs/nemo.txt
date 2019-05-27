@@ -1,0 +1,14 @@
+desktop-file-utils
+intltool
+meson
+pkgconfig(cinnamon-desktop) >= 3.6.0
+pkgconfig(exempi-2.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gtk-doc)
+pkgconfig(libexif)
+pkgconfig(libnotify)
+pkgconfig(libselinux)
+pkgconfig(libxml-2.0)
+pkgconfig(sm)
+pkgconfig(xapp) >= 1.1.0
+python3-gobject-base

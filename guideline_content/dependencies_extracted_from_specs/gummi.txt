@@ -1,0 +1,6 @@
+desktop-file-utils
+gtk2-devel
+gtksourceview2-devel
+gtkspell-devel
+intltool
+poppler-glib-devel

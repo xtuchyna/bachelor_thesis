@@ -1,0 +1,10 @@
+gdbm-devel
+gettext
+groff
+less
+libpipeline-devel
+perl-interpreter
+perl-version
+po4a
+systemd
+zlib-devel

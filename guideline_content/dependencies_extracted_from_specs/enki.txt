@@ -1,0 +1,11 @@
+desktop-file-utils
+python3-devel
+python3-markdown
+python3-mock
+python3-pyparsing
+python3-qt5
+python3-qutepart
+python3-regex
+python3-setuptools
+python3-sphinx
+xorg-x11-server-Xvfb

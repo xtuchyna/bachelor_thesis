@@ -1,0 +1,6 @@
+/usr/bin/appstream-util
+cmake
+desktop-file-utils
+qt5-qtbase-devel
+qtiocompressor-devel
+zlib-devel

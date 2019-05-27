@@ -1,0 +1,4 @@
+libtool-ltdl-devel
+libxml2-python
+python-devel
+xmlsec1-openssl-devel

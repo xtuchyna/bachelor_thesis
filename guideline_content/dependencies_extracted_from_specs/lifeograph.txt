@@ -1,0 +1,6 @@
+cmake
+desktop-file-utils
+enchant-devel
+gtkmm30-devel
+intltool
+libgcrypt-devel

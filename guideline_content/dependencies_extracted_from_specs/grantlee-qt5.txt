@@ -1,0 +1,8 @@
+cmake >= 2.8.12
+doxygen
+graphviz
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Script)
+pkgconfig(Qt5Test)
+qt5-linguist
+xorg-x11-server-Xvfb

@@ -1,0 +1,8 @@
+perl(File::Find)
+perl(File::Temp)
+perl(Module::Build)
+perl(Moose)
+perl(Test::More) >= 0.88
+perl(Test::Script)
+perl(Try::Tiny)
+perl-generators

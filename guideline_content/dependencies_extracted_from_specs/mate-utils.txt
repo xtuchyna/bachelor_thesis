@@ -1,0 +1,13 @@
+desktop-file-utils
+e2fsprogs-devel
+hardlink
+libX11-devel
+libXmu-devel
+libcanberra-devel
+libgtop2-devel
+mate-common
+mate-panel-devel
+mesa-libGL-devel
+popt-devel
+usermode
+yelp-tools

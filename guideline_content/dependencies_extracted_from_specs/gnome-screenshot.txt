@@ -1,0 +1,6 @@
+desktop-file-utils
+gettext
+gtk3-devel
+libappstream-glib-devel
+libcanberra-devel
+meson

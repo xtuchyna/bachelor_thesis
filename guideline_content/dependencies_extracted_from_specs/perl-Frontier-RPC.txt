@@ -1,0 +1,11 @@
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Daemon)
+perl(HTTP::Request)
+perl(HTTP::Status)
+perl(LWP::UserAgent)
+perl(MIME::Base64)
+perl(XML::Parser)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

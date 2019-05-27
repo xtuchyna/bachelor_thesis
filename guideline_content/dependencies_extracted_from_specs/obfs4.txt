@@ -1,0 +1,8 @@
+compiler(go-compiler)
+golang(git.torproject.org/pluggable-transports/goptlib.git)
+golang(github.com/agl/ed25519/extra25519)
+golang(github.com/dchest/siphash)
+golang(golang.org/x/crypto/curve25519)
+golang(golang.org/x/crypto/hkdf)
+golang(golang.org/x/crypto/nacl/secretbox)
+golang(golang.org/x/net/proxy)

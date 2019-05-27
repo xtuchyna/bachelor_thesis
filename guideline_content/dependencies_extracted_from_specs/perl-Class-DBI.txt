@@ -1,0 +1,15 @@
+perl(Class::Accessor)
+perl(Class::Data::Inheritable)
+perl(Class::Trigger)
+perl(Clone)
+perl(DBD::SQLite)
+perl(Date::Simple)
+perl(ExtUtils::MakeMaker)
+perl(Ima::DBI)
+perl(Pod::Perldoc)
+perl(Test::More)
+perl(Time::Piece::MySQL)
+perl(UNIVERSAL::moniker)
+perl(version)
+perl-DBD-Pg
+perl-generators

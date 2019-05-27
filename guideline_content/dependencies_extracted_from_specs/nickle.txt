@@ -1,0 +1,7 @@
+bison
+docbook-utils-pdf
+ncurses-devel
+readline-devel
+texlive-collection-fontsrecommended
+texlive-collection-htmlxml
+texlive-collection-latexrecommended

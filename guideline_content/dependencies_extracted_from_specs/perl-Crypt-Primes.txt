@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(Crypt::Random) >= 0.33
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Math::Pari) >= 2.001804
+perl(Test)
+perl(integer)
+perl(lib)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter
+sed

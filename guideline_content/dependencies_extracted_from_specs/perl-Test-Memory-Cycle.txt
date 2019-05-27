@@ -1,0 +1,15 @@
+make
+perl(Devel::Cycle) >= 1.07
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Getopt::Long)
+perl(Scalar::Util)
+perl(Test::Builder)
+perl(Test::Builder::Tester)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

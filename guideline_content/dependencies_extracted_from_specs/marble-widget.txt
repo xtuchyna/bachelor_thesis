@@ -1,0 +1,8 @@
+cmake
+desktop-file-utils
+extra-cmake-modules
+kde-filesystem
+marble-astro-devel
+pkgconfig(QtGui)
+pkgconfig(QtWebKit)
+pkgconfig(phonon)

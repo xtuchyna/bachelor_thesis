@@ -1,0 +1,4 @@
+cmake
+pkgconfig(QJson)
+pkgconfig(Qt5Network)
+pkgconfig(QtNetwork)

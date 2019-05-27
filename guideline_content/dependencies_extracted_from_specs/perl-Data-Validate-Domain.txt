@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Net::Domain::TLD) >= 1.74
+perl(Test2::Plugin::UTF8)
+perl(Test::More) >= 1.302015
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

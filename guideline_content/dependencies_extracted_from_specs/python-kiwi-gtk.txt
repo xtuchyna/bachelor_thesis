@@ -1,0 +1,5 @@
+gettext
+pkgconfig
+pygtk2-devel >= 2.8
+python-setuptools
+python2-devel

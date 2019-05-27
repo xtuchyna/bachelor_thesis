@@ -1,0 +1,35 @@
+make
+perl(CPAN)
+perl(Catalyst::Plugin::Session) >= 0.10
+perl(Catalyst::Plugin::Session::State::Cookie)
+perl(Catalyst::Runtime)
+perl(Class::Inspector)
+perl(Class::MOP)
+perl(Digest::MD5)
+perl(Digest::SHA1)
+perl(MRO::Compat)
+perl(Module::Install::AuthorRequires)
+perl(Module::Install::AuthorTests)
+perl(Module::Install::Authority)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moose)
+perl(MooseX::Emulate::Class::Accessor::Fast)
+perl(String::RewritePrefix)
+perl(Test::EOL)
+perl(Test::Exception)
+perl(Test::MockObject)
+perl(Test::More) >= 0.88
+perl(Test::NoTabs)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::WWW::Mechanize::Catalyst)
+perl(Try::Tiny)
+perl(inc::Module::Install)
+perl(namespace::clean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

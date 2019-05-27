@@ -1,0 +1,9 @@
+binutils
+gcc
+gettext
+glib2-devel >= 2.50
+gtk3-devel >= 3.20
+intltool
+json-c-devel
+libnotify-devel
+meson >= 0.43

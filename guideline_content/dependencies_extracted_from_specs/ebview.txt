@@ -1,0 +1,5 @@
+desktop-file-utils
+eb-devel
+gettext
+gtk2-devel
+pangox-compat-devel

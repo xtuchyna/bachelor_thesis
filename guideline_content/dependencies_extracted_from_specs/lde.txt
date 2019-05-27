@@ -1,0 +1,5 @@
+bison
+dos2unix
+gpm-devel
+ncurses-devel
+perl-interpreter

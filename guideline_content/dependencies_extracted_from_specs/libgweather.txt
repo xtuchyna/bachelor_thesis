@@ -1,0 +1,10 @@
+gettext
+gtk-doc
+meson
+pkgconfig(geocode-glib-1.0)
+pkgconfig(gladeui-2.0)
+pkgconfig(gobject-introspection-1.0) >= 0.10
+pkgconfig(gtk+-3.0) >= 3.13.5
+pkgconfig(libsoup-2.4) >= 2.34
+pkgconfig(libxml-2.0) >= 2.6.0
+vala

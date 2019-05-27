@@ -1,0 +1,8 @@
+perl(CGI)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IO::File)
+perl(Test::More)
+perl(constant)
+perl-generators

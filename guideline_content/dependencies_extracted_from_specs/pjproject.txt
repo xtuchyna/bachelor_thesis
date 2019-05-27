@@ -1,0 +1,13 @@
+alsa-lib-devel
+autoconf
+gcc
+gcc-c++
+gsm-devel
+libsrtp-devel
+libuuid-devel
+openssl-devel
+pkgconfig
+portaudio-devel
+python2-devel
+speex-devel
+speexdsp-devel

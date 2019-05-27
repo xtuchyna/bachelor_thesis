@@ -1,0 +1,9 @@
+python2-devel
+python2-enum34
+python2-marshmallow
+python2-pytest
+python2-setuptools
+python3-devel
+python3-marshmallow
+python3-pytest
+python3-setuptools

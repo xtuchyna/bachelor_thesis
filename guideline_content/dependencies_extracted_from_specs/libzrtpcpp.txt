@@ -1,0 +1,7 @@
+ccrtp-devel
+cmake
+doxygen
+gcc-c++
+libgcrypt-devel
+make
+openssl-devel

@@ -1,0 +1,4 @@
+glibc-devel
+ncurses-devel
+perl-interpreter
+readline-devel

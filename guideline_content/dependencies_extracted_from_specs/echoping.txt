@@ -1,0 +1,9 @@
+autoconf
+automake
+libidn-devel
+libtool
+openldap-devel
+openssl-devel
+popt-devel
+postgresql-devel
+zlib-devel

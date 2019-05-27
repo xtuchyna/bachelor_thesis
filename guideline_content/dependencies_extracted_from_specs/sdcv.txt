@@ -1,0 +1,6 @@
+cmake
+gcc-c++
+gettext-devel
+glib2-devel
+readline-devel
+zlib-devel

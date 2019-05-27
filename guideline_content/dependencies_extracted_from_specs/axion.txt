@@ -1,0 +1,12 @@
+ant
+ant-junit
+java-devel
+javapackages-local
+mvn(commons-codec:commons-codec)
+mvn(commons-collections:commons-collections)
+mvn(commons-logging:commons-logging)
+mvn(commons-primitives:commons-primitives)
+mvn(jakarta-regexp:jakarta-regexp)
+mvn(junit:junit)
+mvn(log4j:log4j:1.2.17)
+mvn(net.java.dev.javacc:javacc)

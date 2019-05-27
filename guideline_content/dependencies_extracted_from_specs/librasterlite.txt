@@ -1,0 +1,9 @@
+geos-devel
+libgeotiff-devel
+libjpeg-devel
+libpng-devel
+libspatialite-devel
+libtiff-devel
+proj-devel
+sqlite-devel
+zlib-devel

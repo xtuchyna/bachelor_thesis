@@ -1,0 +1,25 @@
+coreutils
+findutils
+gcc
+libgcrypt-devel >= 1.3.0
+make
+perl(Config)
+perl(Devel::CheckLib)
+perl(Devel::Size)
+perl(ExtUtils::Liblist)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::testlib)
+perl(Test)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(Thread::Queue)
+perl(XSLoader)
+perl(lib)
+perl(strict)
+perl(threads)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

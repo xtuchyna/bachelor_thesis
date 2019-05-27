@@ -1,0 +1,10 @@
+PyYAML
+fedmsg
+python-datanommer-models
+python-fedmsg-meta-fedora-infrastructure
+python-mock
+python-nose
+python-setuptools
+python-tahrir-api
+python-zope-sqlalchemy
+python2-devel

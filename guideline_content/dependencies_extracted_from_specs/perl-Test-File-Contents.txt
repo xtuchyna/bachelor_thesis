@@ -1,0 +1,14 @@
+perl(Digest::MD5)
+perl(Exporter)
+perl(File::Spec)
+perl(Module::Build)
+perl(Test::Builder) >= 0.70
+perl(Test::Builder::Tester)
+perl(Test::Builder::Tester::Color)
+perl(Test::More)
+perl(Text::Diff) >= 0.35
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

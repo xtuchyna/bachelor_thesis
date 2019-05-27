@@ -1,0 +1,4 @@
+autoconf
+bzip2-devel
+pkgconfig
+zlib-devel

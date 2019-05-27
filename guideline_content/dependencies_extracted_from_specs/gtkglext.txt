@@ -1,0 +1,7 @@
+gcc
+gtk2-devel
+libGL-devel
+libGLU-devel
+libXmu-devel
+libXt-devel
+pangox-compat-devel

@@ -1,0 +1,11 @@
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(Test)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

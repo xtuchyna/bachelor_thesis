@@ -1,0 +1,10 @@
+autoconf
+automake
+docbook-style-xsl
+doxygen
+gcc
+libjpeg-turbo-devel
+libtiff-devel
+libtool
+libxml2-devel
+libxslt

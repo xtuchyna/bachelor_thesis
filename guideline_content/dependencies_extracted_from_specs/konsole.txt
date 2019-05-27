@@ -1,0 +1,4 @@
+desktop-file-utils
+kdelibs4-devel >= 4.14
+pkgconfig(x11)
+pkgconfig(xrender)

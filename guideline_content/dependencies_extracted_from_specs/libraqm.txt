@@ -1,0 +1,4 @@
+freetype-devel
+fribidi-devel
+gtk-doc
+harfbuzz-devel

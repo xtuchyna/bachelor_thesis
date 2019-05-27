@@ -1,0 +1,9 @@
+GAPDoc-latex
+gap-devel
+gap-pkg-aclib
+gap-pkg-carat
+gap-pkg-cryst
+gap-pkg-crystcat
+gap-pkg-hap
+gap-pkg-polycyclic
+gap-pkg-polymaking

@@ -1,0 +1,21 @@
+perl(Config)
+perl(Cwd)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(FindBin)
+perl(IO::Scalar)
+perl(Log::Log4perl) >= 1.13
+perl(Moo) >= 1.000007
+perl(Moo::Role)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

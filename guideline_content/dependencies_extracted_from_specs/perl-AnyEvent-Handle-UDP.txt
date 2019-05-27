@@ -1,0 +1,18 @@
+perl(AnyEvent)
+perl(AnyEvent::Socket)
+perl(AnyEvent::Util)
+perl(Carp)
+perl(Errno)
+perl(IO::Socket::INET)
+perl(Module::Build::Tiny) >= 0.034
+perl(Scalar::Util)
+perl(Socket)
+perl(Sub::Name)
+perl(Symbol)
+perl(Test::Fatal)
+perl(Test::More) >= 0.89
+perl(namespace::clean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

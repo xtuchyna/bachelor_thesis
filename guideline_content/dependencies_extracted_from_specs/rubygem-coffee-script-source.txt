@@ -1,0 +1,5 @@
+js-coffee-script = 1.10.0
+ruby
+ruby(release)
+rubygems-devel
+web-assets-devel

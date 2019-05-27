@@ -1,0 +1,13 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.maven.plugin-testing:maven-plugin-testing-harness)
+mvn(org.apache.maven.plugin-tools:maven-plugin-annotations)
+mvn(org.apache.maven.plugins:maven-plugins:pom:)
+mvn(org.apache.maven:maven-archiver)
+mvn(org.apache.maven:maven-artifact)
+mvn(org.apache.maven:maven-compat)
+mvn(org.apache.maven:maven-core)
+mvn(org.apache.maven:maven-model)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.codehaus.plexus:plexus-archiver)
+mvn(org.codehaus.plexus:plexus-utils)

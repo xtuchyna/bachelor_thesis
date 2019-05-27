@@ -1,0 +1,27 @@
+cmake(KF5Activities)
+cmake(KF5ActivitiesStats)
+cmake(KF5Config)
+cmake(KF5Crash)
+cmake(KF5DBusAddons)
+cmake(KF5Declarative)
+cmake(KF5DocTools)
+cmake(KF5I18n)
+cmake(KF5IconThemes)
+cmake(KF5ItemViews)
+cmake(KF5KCMUtils)
+cmake(KF5KHtml)
+cmake(KF5KIO)
+cmake(KF5Kirigami2)
+cmake(KF5Package)
+cmake(KF5Service)
+cmake(KF5WidgetsAddons)
+cmake(KF5WindowSystem)
+cmake(KF5XmlGui)
+cmake(Qt5Qml)
+cmake(Qt5Quick)
+cmake(Qt5QuickWidgets)
+cmake(Qt5Widgets)
+desktop-file-utils
+extra-cmake-modules
+kf5-kirigami2-devel >= 2.1
+kf5-rpm-macros

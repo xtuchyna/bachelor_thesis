@@ -1,0 +1,8 @@
+perl(ExtUtils::MakeMaker)
+perl(JSON)
+perl(JSON::XS) >= 2.00
+perl(Moose)
+perl(MooseX::Types)
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

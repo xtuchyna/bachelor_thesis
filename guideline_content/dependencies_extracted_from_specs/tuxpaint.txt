@@ -1,0 +1,14 @@
+SDL-devel >= 1.2.4
+SDL_Pango-devel
+SDL_image-devel
+SDL_mixer-devel
+SDL_ttf-devel
+desktop-file-utils
+freetype-devel >= 2.0
+fribidi-devel
+gettext
+gperf
+libpaper-devel
+libpng-devel
+librsvg2-devel
+netpbm-devel

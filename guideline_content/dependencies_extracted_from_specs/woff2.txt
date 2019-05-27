@@ -1,0 +1,2 @@
+brotli-devel >= 1.0
+cmake

@@ -1,0 +1,4 @@
+cmake
+gcc
+krb5-devel
+libnsl2-devel

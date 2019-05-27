@@ -1,0 +1,11 @@
+bison
+cmake
+doxygen
+flex
+gcc
+pkgconfig(gnuradio-runtime)
+pkgconfig(libad9361)
+pkgconfig(libiio)
+python2-devel
+python2-setuptools
+swig

@@ -1,0 +1,4 @@
+ghc-Cabal-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-time-devel

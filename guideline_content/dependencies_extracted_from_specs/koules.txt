@@ -1,0 +1,6 @@
+SDL2_gfx-devel
+desktop-file-utils
+libX11-devel
+libXext-devel
+svgalib-devel
+xmkmf

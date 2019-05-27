@@ -1,0 +1,9 @@
+binutils
+desktop-file-utils
+gcc
+girara-devel
+glib2-devel
+libappstream-glib
+meson >= 0.43
+poppler-glib-devel >= 0.18
+zathura-devel >= 0.3.9

@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Class::Loader) >= 2.00
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(IO::Socket)
+perl(Math::Pari) >= 2.001804
+perl(Test)
+perl(lib)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

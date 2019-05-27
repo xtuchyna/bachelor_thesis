@@ -1,0 +1,10 @@
+maven-local
+mvn(commons-collections:commons-collections)
+mvn(junit:junit)
+mvn(org.apache.ant:ant)
+mvn(org.apache.poi:poi)
+mvn(org.apache.poi:poi-ooxml)
+mvn(org.slf4j:jcl-over-slf4j)
+mvn(org.slf4j:slf4j-api)
+mvn(org.sonatype.oss:oss-parent:pom:)
+mvn(stax:stax-api)

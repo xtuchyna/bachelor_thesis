@@ -1,0 +1,21 @@
+make
+perl(Capture::Tiny)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Find)
+perl(File::ShareDir::Install) >= 0.06
+perl(File::Spec)
+perl(Pegex) >= 0.30
+perl(Pegex::Parser)
+perl(Test::Builder)
+perl(Test::More)
+perl(YAML::XS)
+perl(base)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

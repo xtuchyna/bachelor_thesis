@@ -1,0 +1,3 @@
+kf5-rpm-macros
+python2-sphinx
+qt5-qttools-devel

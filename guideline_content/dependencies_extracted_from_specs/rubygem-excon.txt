@@ -1,0 +1,12 @@
+/usr/bin/rackup
+/usr/bin/shindo
+ruby
+ruby(release)
+rubygem(activesupport)
+rubygem(delorean)
+rubygem(eventmachine)
+rubygem(open4)
+rubygem(puma)
+rubygem(rspec)
+rubygem(sinatra)
+rubygems-devel

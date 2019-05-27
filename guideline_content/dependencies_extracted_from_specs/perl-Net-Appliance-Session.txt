@@ -1,0 +1,13 @@
+perl(Class::Load)
+perl(Module::Build)
+perl(Moo)
+perl(Moo::Role)
+perl(MooX::Types::MooseLike::Base)
+perl(Net::CLI::Interact) >= 2.300002
+perl(Sub::Quote)
+perl(Test::More) >= 0.88
+perl(Try::Tiny)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

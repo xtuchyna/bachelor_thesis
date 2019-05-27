@@ -1,0 +1,9 @@
+curl-devel
+expat-devel
+libtermcap-devel
+libtool
+lzma-devel
+ncurses-devel
+openssl-devel
+python2-devel
+zlib-devel

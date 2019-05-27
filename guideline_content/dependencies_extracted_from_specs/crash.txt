@@ -1,0 +1,8 @@
+bison
+gcc
+gcc-c++
+lzo-devel
+ncurses-devel
+readline-devel
+snappy-devel
+zlib-devel

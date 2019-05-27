@@ -1,0 +1,8 @@
+autoconf
+automake
+desktop-file-utils
+gettext
+intltool
+libgnomeui-devel
+libtool
+perl(XML::Parser)

@@ -1,0 +1,11 @@
+perl(Carp::Assert)
+perl(Class::Data::Inheritable)
+perl(Class::ISA)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

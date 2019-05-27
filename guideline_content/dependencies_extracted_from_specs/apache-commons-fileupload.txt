@@ -1,0 +1,6 @@
+maven-local
+mvn(commons-io:commons-io)
+mvn(javax.portlet:portlet-api)
+mvn(javax.servlet:servlet-api)
+mvn(junit:junit)
+mvn(org.apache.commons:commons-parent:pom:)

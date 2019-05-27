@@ -1,0 +1,10 @@
+dbus-glib-devel
+desktop-file-utils
+gtk3-devel
+gtkmm30-devel
+libgtop2-devel
+librsvg2-devel
+libwnck3-devel
+libxml2-devel
+mate-common
+pkgconfig(libsystemd)

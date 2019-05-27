@@ -1,0 +1,7 @@
+perl(Devel::Refcount)
+perl(ExtUtils::MakeMaker)
+perl(Test::Builder)
+perl(Test::Builder::Tester)
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

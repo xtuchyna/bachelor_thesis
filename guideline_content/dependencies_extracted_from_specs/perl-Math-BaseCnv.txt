@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Math::BigInt)
+perl(Memoize)
+perl(Test)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

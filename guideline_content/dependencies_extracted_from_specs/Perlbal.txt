@@ -1,0 +1,47 @@
+coreutils
+findutils
+make
+perl(BSD::Resource)
+perl(Benchmark)
+perl(Carp)
+perl(Danga::Socket) >= 1.59
+perl(Digest::MD5)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Path)
+perl(File::Temp)
+perl(FindBin)
+perl(Getopt::Long)
+perl(HTTP::Date)
+perl(HTTP::Request)
+perl(HTTP::Response)
+perl(Hash::Util)
+perl(IO::AIO) >= 1.6
+perl(IO::File)
+perl(IO::Handle)
+perl(IO::Select)
+perl(IO::Socket)
+perl(IO::Socket::INET)
+perl(LWP::UserAgent)
+perl(List::Util)
+perl(Net::Netmask)
+perl(POSIX)
+perl(Perlbal::XS::HTTPHeaders) >= 0.20
+perl(Scalar::Util)
+perl(Socket)
+perl(Sys::Syscall)
+perl(Sys::Syslog)
+perl(Test::More) >= 0.94
+perl(Time::HiRes)
+perl(base)
+perl(constant)
+perl(fields)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+systemd

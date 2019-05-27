@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(os-homedir)
+npm(os-tmpdir)
+npm(tap)

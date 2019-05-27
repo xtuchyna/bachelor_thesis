@@ -1,0 +1,7 @@
+geoip
+geoip-devel
+httpd-devel
+mod_form-devel
+perl-generators
+python-sphinx
+python2-devel

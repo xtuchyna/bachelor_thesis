@@ -1,0 +1,8 @@
+expat-devel
+libiodbc-devel
+libtool-ltdl-devel
+mariadb-connector-c-devel
+openssl-devel
+pcre-devel
+sqlite-devel
+zlib-devel

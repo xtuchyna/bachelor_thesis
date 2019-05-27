@@ -1,0 +1,12 @@
+/usr/bin/make
+/usr/bin/perl
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Time::Local)
+perl(Time::Piece) >= 1.08
+perl(strict)
+perl(warnings)
+perl-generators

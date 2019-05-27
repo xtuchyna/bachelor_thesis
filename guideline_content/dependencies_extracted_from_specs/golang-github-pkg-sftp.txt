@@ -1,0 +1,4 @@
+compiler(go-compiler)
+golang(github.com/kr/fs)
+golang(github.com/pkg/errors)
+golang(golang.org/x/crypto/ssh)

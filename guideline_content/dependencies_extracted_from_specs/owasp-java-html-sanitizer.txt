@@ -1,0 +1,5 @@
+maven-local
+mvn(com.google.code.findbugs:jsr305)
+mvn(com.google.guava:guava)
+mvn(commons-codec:commons-codec)
+mvn(junit:junit)

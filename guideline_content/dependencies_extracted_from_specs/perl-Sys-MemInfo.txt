@@ -1,0 +1,10 @@
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Copy)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators

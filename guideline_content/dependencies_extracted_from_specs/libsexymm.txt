@@ -1,0 +1,3 @@
+gtkmm24-devel >= 2.4.0
+libsexy-devel >= 0.1.10
+libxml2-devel

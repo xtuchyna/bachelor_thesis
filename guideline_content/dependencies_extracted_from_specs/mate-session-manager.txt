@@ -1,0 +1,10 @@
+dbus-glib-devel
+desktop-file-utils
+gtk3-devel
+libSM-devel
+libXtst-devel
+mate-common
+pangox-compat-devel
+systemd-devel
+xmlto
+xorg-x11-xtrans-devel

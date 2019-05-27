@@ -1,0 +1,8 @@
+perl(ExtUtils::MakeMaker)
+perl(POE) >= 1.004
+perl(POE::Filter::Line)
+perl(POE::Wheel::ReadWrite)
+perl(POE::Wheel::SocketFactory)
+perl(Test::More) >= 0.47
+perl-generators
+perl-interpreter >= 1:5.6.0

@@ -1,0 +1,6 @@
+gzip
+python
+python-setuptools
+python2-devel
+rpm-python
+systemd

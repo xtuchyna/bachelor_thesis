@@ -1,0 +1,10 @@
+automake
+desktop-file-utils
+gettext-devel
+gnome-common
+ibus-devel >= 1.3.99
+intltool
+libhangul-devel >= 0.1.0
+libtool
+pkgconfig
+python3

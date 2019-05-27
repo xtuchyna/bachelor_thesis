@@ -1,0 +1,4 @@
+gcc-c++
+m4
+texinfo-tex
+yasm

@@ -1,0 +1,11 @@
+perl(AnyEvent)
+perl(AnyEvent::DNS)
+perl(Data::Dumper)
+perl(File::Spec::Functions)
+perl(Module::Build) >= 0.40
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

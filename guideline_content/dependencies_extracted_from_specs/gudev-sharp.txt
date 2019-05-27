@@ -1,0 +1,7 @@
+autoconf
+automake
+gtk-sharp2-devel
+gtk-sharp2-gapi
+gtk2-devel
+libgudev1-devel
+mono-devel

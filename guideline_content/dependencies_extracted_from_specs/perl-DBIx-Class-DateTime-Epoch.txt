@@ -1,0 +1,24 @@
+coreutils
+make
+perl(:VERSION) >= 5.6.1
+perl(DBICx::TestDatabase)
+perl(DBIx::Class) >= 0.08103
+perl(DBIx::Class::Core)
+perl(DBIx::Class::InflateColumn::DateTime)
+perl(DBIx::Class::Schema)
+perl(DBIx::Class::TimeStamp) >= 0.07
+perl(DateTime)
+perl(DateTime::Format::SQLite)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(base)
+perl(inc::Module::Install) >= 1.05
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

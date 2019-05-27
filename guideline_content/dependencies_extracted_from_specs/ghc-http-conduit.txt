@@ -1,0 +1,15 @@
+ghc-Cabal-devel
+ghc-aeson-devel
+ghc-bytestring-devel
+ghc-conduit-devel
+ghc-conduit-extra-devel
+ghc-exceptions-devel
+ghc-http-client-devel
+ghc-http-client-tls-devel
+ghc-http-types-devel
+ghc-lifted-base-devel
+ghc-monad-control-devel
+ghc-mtl-devel
+ghc-resourcet-devel
+ghc-rpm-macros
+ghc-transformers-devel

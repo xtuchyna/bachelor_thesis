@@ -1,0 +1,9 @@
+perl(Carp)
+perl(Module::Build) >= 0.28
+perl(Test::More)
+perl(attributes)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

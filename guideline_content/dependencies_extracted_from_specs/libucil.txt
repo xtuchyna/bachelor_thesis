@@ -1,0 +1,17 @@
+/usr/bin/perl
+alsa-lib-devel
+autoconf
+automake
+gettext
+gettext-devel
+glib2-devel
+gtk-doc >= 1.4
+intltool
+libogg-devel
+libpng-devel
+libtheora-devel
+libtool
+libunicap-devel
+libvorbis-devel
+pango-devel
+perl(XML::Parser)

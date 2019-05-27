@@ -1,0 +1,12 @@
+/usr/bin/dos2unix
+desktop-file-utils
+enchant-devel
+espeak-devel
+gettext
+gnome-doc-utils
+gtk2-devel
+intltool
+libsigc++20-devel
+perl(XML::Parser)
+pkgconfig(libxml-2.0)
+rarian-compat

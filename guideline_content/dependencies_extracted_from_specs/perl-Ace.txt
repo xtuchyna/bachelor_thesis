@@ -1,0 +1,11 @@
+coreutils
+findutils
+make
+perl(Config)
+perl(Cwd)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Path)
+perl(Pod::Html)
+perl-generators
+perl-interpreter

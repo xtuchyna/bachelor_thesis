@@ -1,0 +1,21 @@
+/usr/bin/ogrinfo
+gdal-devel >= 1.8
+python2-Cython
+python2-click-plugins
+python2-cligj
+python2-devel
+python2-enum34
+python2-munch
+python2-nose
+python2-pytest
+python2-shapely
+python2-six
+python3-Cython
+python3-click-plugins
+python3-cligj
+python3-devel
+python3-munch
+python3-nose
+python3-pytest
+python3-shapely
+python3-six

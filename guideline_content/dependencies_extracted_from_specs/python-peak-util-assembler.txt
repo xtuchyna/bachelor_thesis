@@ -1,0 +1,4 @@
+python-decoratortools >= 1.2
+python-peak-util-symbols >= 1.0
+python-setuptools
+python2-devel

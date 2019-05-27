@@ -1,0 +1,4 @@
+libint-devel
+numpy
+python-devel
+python-setuptools

@@ -1,0 +1,7 @@
+perl(Module::Build)
+perl(Test::Deep)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Warn)
+perl(namespace::clean)
+perl-generators

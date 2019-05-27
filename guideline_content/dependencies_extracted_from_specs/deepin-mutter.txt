@@ -1,0 +1,25 @@
+cogl-devel >= 1.22.2-7
+desktop-file-utils
+gnome-common
+intltool
+pkgconfig(clutter-1.0)
+pkgconfig(clutter-wayland-1.0)
+pkgconfig(gl)
+pkgconfig(gnome-desktop-3.0)
+pkgconfig(gnome-doc-utils)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gsettings-desktop-schemas)
+pkgconfig(gtk+-3.0)
+pkgconfig(gtk-doc)
+pkgconfig(gudev-1.0)
+pkgconfig(ice)
+pkgconfig(libcanberra-gtk)
+pkgconfig(libinput)
+pkgconfig(libstartup-notification-1.0)
+pkgconfig(libsystemd)
+pkgconfig(sm)
+pkgconfig(upower-glib)
+pkgconfig(xkbcommon-x11)
+pkgconfig(xkbfile)
+pkgconfig(xkeyboard-config)
+zenity

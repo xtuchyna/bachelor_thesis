@@ -1,0 +1,10 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.apache.maven.plugins:maven-release-plugin)
+mvn(org.jboss.logging:jboss-logging)
+mvn(org.jboss.logging:jboss-logging-processor)
+mvn(org.jboss.spec.javax.jms:jboss-jms-api_1.1_spec)
+mvn(org.jboss.spec.javax.servlet:jboss-servlet-api_3.0_spec)
+mvn(org.jboss.ws:jbossws-api) >= 1.0.1
+mvn(org.jboss.ws:jbossws-parent:pom:)

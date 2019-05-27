@@ -1,0 +1,20 @@
+alsa-lib-devel
+cdparanoia-devel
+chrpath
+gcc-c++
+gettext
+gobject-introspection-devel >= 0.6.3
+gstreamer-devel >= 0.10.36
+gtk-doc >= 1.3
+gtk2-devel
+iso-codes-devel
+libXv-devel
+libgudev1-devel
+libogg-devel >= 1.0
+liboil-devel >= 0.3.6
+libtheora-devel >= 1.0
+libvisual-devel
+libvorbis-devel >= 1.0
+orc-devel >= 0.4.11
+pango-devel
+pkgconfig

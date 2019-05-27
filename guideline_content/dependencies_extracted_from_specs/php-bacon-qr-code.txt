@@ -1,0 +1,9 @@
+php(language) >= 5.4
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-ctype
+php-gd
+php-iconv
+php-reflection
+php-simplexml
+php-spl

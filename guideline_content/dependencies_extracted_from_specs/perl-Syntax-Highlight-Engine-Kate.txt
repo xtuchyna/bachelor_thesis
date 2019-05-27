@@ -1,0 +1,29 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(Exporter)
+perl(File::Basename)
+perl(File::Find)
+perl(File::Spec::Functions)
+perl(List::Util)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Term::ANSIColor)
+perl(Test::Differences) >= 0.61
+perl(Test::More) >= 1.00
+perl(Test::Warn) >= 0.30
+perl(Time::HiRes)
+perl(XML::Dumper)
+perl(XML::TokeParser)
+perl(base)
+perl(constant)
+perl(diagnostics)
+perl(inc::Module::Install) >= 0.91
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,17 @@
+make
+perl(AutoLoader)
+perl(Callback)
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(Symbol)
+perl(Test)
+perl(Test::More)
+perl(Tie::Array)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

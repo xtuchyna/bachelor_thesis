@@ -1,0 +1,5 @@
+perl(ExtUtils::CppGuess) >= 0.04
+perl(File::Spec)
+perl(Module::Build) >= 0.26
+perl(Test::More)
+perl-generators

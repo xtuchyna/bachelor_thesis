@@ -1,0 +1,8 @@
+glib2-devel
+gnome-online-accounts-devel
+gobject-introspection-devel
+gtk-doc
+json-glib-devel
+libsoup-devel
+pkgconfig
+rest-devel

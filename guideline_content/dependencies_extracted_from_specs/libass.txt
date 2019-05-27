@@ -1,0 +1,5 @@
+enca-devel
+fontconfig-devel
+fribidi-devel
+harfbuzz-devel >= 0.9.5
+libpng-devel

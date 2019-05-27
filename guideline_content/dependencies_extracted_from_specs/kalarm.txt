@@ -1,0 +1,46 @@
+boost-devel
+cmake(KF5Auth)
+cmake(KF5Codecs)
+cmake(KF5Completion)
+cmake(KF5Config)
+cmake(KF5ConfigWidgets)
+cmake(KF5DBusAddons)
+cmake(KF5DocTools)
+cmake(KF5GuiAddons)
+cmake(KF5I18n)
+cmake(KF5IconThemes)
+cmake(KF5JobWidgets)
+cmake(KF5KCMUtils)
+cmake(KF5KDELibs4Support)
+cmake(KF5KIO)
+cmake(KF5Notifications)
+cmake(KF5Service)
+cmake(KF5WidgetsAddons)
+cmake(KF5WindowSystem)
+cmake(KF5XmlGui)
+cmake(Qt5DBus)
+cmake(Qt5Gui)
+cmake(Qt5Network)
+cmake(Qt5X11Extras)
+desktop-file-utils
+extra-cmake-modules
+gettext
+kdepim-apps-libs-devel >= 17.12
+kf5-akonadi-contacts-devel >= 17.12
+kf5-akonadi-mime-devel >= 17.12
+kf5-akonadi-server-devel >= 17.12
+kf5-kalarmcal-devel >= 17.12
+kf5-kcalendarcore-devel >= 17.12
+kf5-kcalendarutils-devel >= 17.12
+kf5-kholidays-devel >= 17.12
+kf5-kidentitymanagement-devel >= 17.12
+kf5-kmailtransport-devel >= 17.12
+kf5-kmime-devel >= 17.12
+kf5-kpimtextedit-devel >= 17.12
+kf5-libkdepim-devel >= 17.12
+kf5-mailcommon-devel >= 17.12
+kf5-pimcommon-devel >= 17.12
+kf5-rpm-macros
+libappstream-glib
+perl-generators
+pkgconfig(phonon4qt5)

@@ -1,0 +1,3 @@
+docbook-style-xsl
+docbook5-style-xsl
+libxslt

@@ -1,0 +1,22 @@
+make
+perl(:VERSION) >= 5.6
+perl(Config)
+perl(Cwd)
+perl(English)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find)
+perl(Hash::Util)
+perl(Sub::Exporter)
+perl(Test::Builder::Module) >= 0.99
+perl(Test::Differences) >= 0.60
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::Tester)
+perl(Text::Diff)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

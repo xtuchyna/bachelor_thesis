@@ -1,0 +1,4 @@
+bsf
+maven-enforcer-plugin
+maven-local
+sonatype-oss-parent

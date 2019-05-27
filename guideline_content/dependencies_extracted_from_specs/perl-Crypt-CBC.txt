@@ -1,0 +1,9 @@
+perl(Crypt::Blowfish)
+perl(Crypt::Blowfish_PP)
+perl(Crypt::DES)
+perl(Crypt::Rijndael)
+perl(Digest::MD5) >= 2.00
+perl(ExtUtils::MakeMaker)
+perl(bytes)
+perl(constant)
+perl-generators

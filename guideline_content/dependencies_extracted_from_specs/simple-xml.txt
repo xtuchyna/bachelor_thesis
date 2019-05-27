@@ -1,0 +1,9 @@
+ant
+ant-junit
+bea-stax
+bea-stax-api
+java-devel
+javapackages-local
+javapackages-tools
+junit
+xpp3

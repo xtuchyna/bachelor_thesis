@@ -1,0 +1,2 @@
+buildnumber-maven-plugin
+maven-local

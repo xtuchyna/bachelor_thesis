@@ -1,0 +1,6 @@
+coffee-script
+nodejs-packaging
+npm(csv-generate)
+npm(csv-parse)
+npm(csv-stringify)
+npm(stream-transform)

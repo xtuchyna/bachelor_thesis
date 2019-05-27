@@ -1,0 +1,5 @@
+perl(Module::Build) >= 0.38
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.04
+perl-generators

@@ -1,0 +1,3 @@
+gcc
+jasper-devel
+libpng-devel

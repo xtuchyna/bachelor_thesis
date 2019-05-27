@@ -1,0 +1,6 @@
+autoconf
+automake
+gcc
+lockdev-devel >= 1.0.0-14
+systemd-units
+texi2html

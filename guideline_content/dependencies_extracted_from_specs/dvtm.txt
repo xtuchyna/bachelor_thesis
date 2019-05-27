@@ -1,0 +1,7 @@
+binutils
+coreutils
+gcc
+make
+ncurses
+ncurses-devel
+sed

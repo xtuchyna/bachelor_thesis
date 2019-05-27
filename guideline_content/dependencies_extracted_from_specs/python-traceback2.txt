@@ -1,0 +1,13 @@
+python-contextlib2
+python-fixtures
+python-linecache2
+python-pbr
+python-testtools
+python-unittest2
+python2-devel
+python3-contextlib2
+python3-devel
+python3-fixtures
+python3-pbr
+python3-testtools
+python3-unittest2

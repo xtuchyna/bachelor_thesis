@@ -1,0 +1,24 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(FileHandle)
+perl(FindBin)
+perl(Locale::Maketext::Simple)
+perl(Module::CoreList) >= 2.22
+perl(Module::Load) >= 0.28
+perl(Module::Metadata) >= 1.000005
+perl(Params::Check)
+perl(Test::More)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(version) >= 0.69
+perl(warnings)
+perl-generators
+perl-interpreter

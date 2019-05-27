@@ -1,0 +1,15 @@
+dbus-glib-devel >= 0.70
+desktop-file-utils
+gettext
+glib2-devel >= 2.32.0
+gtk3-devel >= 3.2.0
+intltool
+libcanberra-devel
+libcurl-devel >= 7.16.3
+libevent-devel >= 2.0.10
+libnatpmp-devel >= 20150609-1
+libnotify-devel >= 0.4.3
+openssl-devel >= 1.1.0
+qt5-qtbase-devel
+systemd
+systemd-devel

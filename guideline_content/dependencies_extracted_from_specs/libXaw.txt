@@ -1,0 +1,12 @@
+autoconf
+automake
+libtool
+lynx
+pkgconfig(x11)
+pkgconfig(xext)
+pkgconfig(xmu)
+pkgconfig(xpm)
+pkgconfig(xproto)
+pkgconfig(xt)
+xmlto
+xorg-x11-util-macros

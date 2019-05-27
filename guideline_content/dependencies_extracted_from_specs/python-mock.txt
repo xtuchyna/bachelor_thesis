@@ -1,0 +1,10 @@
+python-funcsigs
+python-pbr
+python-setuptools
+python-unittest2
+python2-devel
+python3-devel
+python3-funcsigs
+python3-pbr
+python3-setuptools
+python3-unittest2

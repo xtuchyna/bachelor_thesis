@@ -1,0 +1,7 @@
+PyYAML
+git
+python2-devel
+python2-pytest
+python3-PyYAML
+python3-devel
+python3-pytest

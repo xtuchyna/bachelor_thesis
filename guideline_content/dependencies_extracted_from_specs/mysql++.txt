@@ -1,0 +1,4 @@
+gcc-c++
+make
+mariadb-connector-c-devel
+sed

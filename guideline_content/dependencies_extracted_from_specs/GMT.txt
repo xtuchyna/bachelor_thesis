@@ -1,0 +1,14 @@
+bash-completion
+cmake
+dcw-gmt
+fftw-devel
+gdal-devel
+glib2-devel
+gshhg-gmt-nc4
+less
+libXaw-devel
+libXext-devel
+libXmu-devel
+libXt-devel
+netcdf-devel
+pcre-devel

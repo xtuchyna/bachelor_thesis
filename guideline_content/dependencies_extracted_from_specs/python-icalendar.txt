@@ -1,0 +1,11 @@
+python2-dateutil
+python2-devel
+python2-pip
+python2-pytz
+python2-setuptools
+python2-tox
+python3-dateutil
+python3-devel
+python3-pip
+python3-pytz
+python3-setuptools

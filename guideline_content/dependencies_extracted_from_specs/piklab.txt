@@ -1,0 +1,7 @@
+cmake
+desktop-file-utils
+gettext
+kdelibs4-devel
+libusb-devel
+ncurses-devel
+readline-devel

@@ -1,0 +1,12 @@
+maven-local
+mvn(commons-io:commons-io)
+mvn(commons-logging:commons-logging)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.httpcomponents:httpclient)
+mvn(org.apache.httpcomponents:httpclient-cache)
+mvn(org.apache.httpcomponents:httpcore)
+mvn(org.apache.httpcomponents:httpcore-nio)
+mvn(org.apache.httpcomponents:project:pom:)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.mockito:mockito-core)

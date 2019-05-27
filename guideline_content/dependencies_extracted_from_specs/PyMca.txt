@@ -1,0 +1,10 @@
+ImageMagick
+PyQt4
+PyQwt
+desktop-file-utils
+mesa-libGL-devel
+mesa-libGLU-devel
+numpy
+python-setuptools
+python2-devel
+qhull-devel

@@ -1,0 +1,9 @@
+libgcrypt-devel
+libgpg-error-devel
+libxslt-devel
+libyaz-devel
+ruby(release)
+ruby-devel
+rubygem(rake)
+rubygem(test-unit)
+rubygems-devel

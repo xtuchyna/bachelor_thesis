@@ -1,0 +1,9 @@
+autoconf
+automake
+erlang-p1_utils >= 1.0.10
+erlang-rebar
+gcc
+gd-devel
+libjpeg-turbo-devel
+libpng-devel
+libwebp-devel

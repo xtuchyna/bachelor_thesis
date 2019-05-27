@@ -1,0 +1,14 @@
+bison
+cyrus-sasl-devel
+desktop-file-utils
+flex
+flex-static
+gpgme-devel
+kdelibs3-devel >= 3.5.10
+libXScrnSaver-devel
+libXpm-devel
+libart_lgpl-devel
+lockdev-devel
+perl(Data::Dumper)
+python-devel
+zlib-devel

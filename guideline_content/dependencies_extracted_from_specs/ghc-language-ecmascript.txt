@@ -1,0 +1,12 @@
+ghc-Cabal-devel
+ghc-Diff-devel
+ghc-QuickCheck-devel
+ghc-containers-devel
+ghc-data-default-class-devel
+ghc-mtl-devel
+ghc-parsec-devel
+ghc-rpm-macros-extra
+ghc-semigroups-devel
+ghc-template-haskell-devel
+ghc-uniplate-devel
+ghc-wl-pprint-devel

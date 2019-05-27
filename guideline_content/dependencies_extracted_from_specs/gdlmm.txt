@@ -1,0 +1,3 @@
+glibmm24-devel
+gtkmm30-devel
+libgdl-devel

@@ -1,0 +1,7 @@
+docbook-dtds
+docbook-style-dsssl
+docbook-style-xsl
+libxslt
+python-nose
+python2
+python2-devel

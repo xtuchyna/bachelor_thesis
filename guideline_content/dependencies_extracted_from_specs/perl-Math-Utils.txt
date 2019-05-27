@@ -1,0 +1,14 @@
+perl(:VERSION) >= 5.10.1
+perl(Carp)
+perl(Exporter)
+perl(Math::BigRat)
+perl(Math::Complex)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(Test::Simple)
+perl(integer)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

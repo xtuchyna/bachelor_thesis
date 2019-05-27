@@ -1,0 +1,10 @@
+/usr/bin/shindo
+ruby
+ruby(release)
+rubygem(fog-core)
+rubygem(fog-json)
+rubygem(fog-xml)
+rubygem(minitest)
+rubygem(mocha) >= 1.1.0
+rubygem(ruby-libvirt)
+rubygems-devel

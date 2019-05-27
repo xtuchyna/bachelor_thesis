@@ -1,0 +1,6 @@
+maven-local
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-assembly-plugin)
+mvn(org.apache.maven.plugins:maven-release-plugin)
+mvn(org.bouncycastle:bcprov-jdk15on)
+mvn(org.testng:testng)

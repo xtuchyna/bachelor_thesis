@@ -1,0 +1,12 @@
+cyrus-sasl-devel
+gcc
+ghostscript
+groff
+hesiod-devel
+libdb-devel
+libnsl2-devel
+m4
+openldap-devel
+openssl-devel
+setup >= 2.5.31-1
+systemd

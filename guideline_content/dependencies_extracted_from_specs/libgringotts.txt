@@ -1,0 +1,5 @@
+bzip2-devel
+libmcrypt-devel
+mhash-devel
+textutils
+zlib-devel

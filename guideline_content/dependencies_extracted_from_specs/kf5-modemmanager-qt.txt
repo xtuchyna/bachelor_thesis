@@ -1,0 +1,4 @@
+ModemManager-devel >= 1.0.0
+extra-cmake-modules >= 5.44.0
+kf5-rpm-macros >= 5.44.0
+qt5-qtbase-devel

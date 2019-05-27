@@ -1,0 +1,11 @@
+perl(Attribute::Handlers)
+perl(Carp)
+perl(Module::Build::Tiny) >= 0.034
+perl(PadWalker)
+perl(Test::Distribution)
+perl(Test::More)
+perl(Test::Pod) >= 1.41
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

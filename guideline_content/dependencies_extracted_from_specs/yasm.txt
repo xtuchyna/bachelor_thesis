@@ -1,0 +1,4 @@
+bison
+byacc
+gettext-devel
+xmlto

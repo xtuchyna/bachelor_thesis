@@ -1,0 +1,13 @@
+checkpolicy
+cmake
+cups-devel
+desktop-file-utils
+hardlink
+poppler-cpp-devel
+poppler-devel
+qt5-qtbase-devel
+qt5-qttools-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+selinux-policy-devel
+snappy-devel

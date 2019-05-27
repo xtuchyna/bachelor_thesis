@@ -1,0 +1,35 @@
+coreutils
+findutils
+glibc-common
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(Digest::BubbleBabble)
+perl(Digest::HMAC) >= 1.03
+perl(Digest::MD5) >= 2.13
+perl(Digest::SHA) >= 5.23
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find)
+perl(File::Spec)
+perl(FileHandle)
+perl(Getopt::Long)
+perl(IO::File)
+perl(IO::Socket)
+perl(IO::Socket::INET)
+perl(MIME::Base64) >= 2.11
+perl(Socket)
+perl(Test::Builder)
+perl(Test::More)
+perl(Test::Pod) >= 1.45
+perl(Time::Local)
+perl(base)
+perl(constant)
+perl(integer)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

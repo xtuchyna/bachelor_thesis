@@ -1,0 +1,13 @@
+cmake
+gcc
+libsolv-devel >= 0.6.21-1
+pkgconfig(check)
+pkgconfig(gio-unix-2.0) >= 2.46.0
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gtk-doc)
+pkgconfig(librepo)
+python2-devel
+python2-nose
+python3-devel
+python3-nose
+rpm-devel >= 4.11.0

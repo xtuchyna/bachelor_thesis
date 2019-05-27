@@ -1,0 +1,5 @@
+maven-local
+mvn(com.google.code.findbugs:jsr305)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.sonatype.oss:oss-parent:pom:)

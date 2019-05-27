@@ -1,0 +1,4 @@
+alsa-lib-devel
+desktop-file-utils
+jack-audio-connection-kit-devel
+libX11-devel

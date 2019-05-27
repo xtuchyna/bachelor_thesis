@@ -1,0 +1,8 @@
+perl(ExtUtils::MakeMaker)
+perl(Geo::Constants) >= 0.04
+perl(Geo::Ellipsoids) >= 0.09
+perl(Geo::Functions) >= 0.03
+perl(Package::New)
+perl(Test::More)
+perl(Test::Simple)
+perl-generators

@@ -1,0 +1,6 @@
+gettext
+intltool
+itstool
+pkgconfig(gtk+-3.0) >= 3.0.0
+pkgconfig(libnotify) >= 0.6.1
+which

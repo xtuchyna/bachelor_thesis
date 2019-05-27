@@ -1,0 +1,5 @@
+ruby
+ruby(release)
+rubygem(simplecov)
+rubygem(test-unit)
+rubygems-devel

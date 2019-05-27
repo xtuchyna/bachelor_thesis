@@ -1,0 +1,4 @@
+bison
+flex
+glib2-devel
+libxslt

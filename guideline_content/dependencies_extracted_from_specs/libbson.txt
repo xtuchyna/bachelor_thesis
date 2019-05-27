@@ -1,0 +1,8 @@
+/usr/bin/sphinx-build
+autoconf
+automake
+coreutils
+findutils
+gcc
+libtool
+make

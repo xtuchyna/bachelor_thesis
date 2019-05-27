@@ -1,0 +1,5 @@
+cmake
+gtkmm24-devel
+lv2-c++-tools-devel
+lv2-devel
+stk-devel

@@ -1,0 +1,4 @@
+krb5-devel
+ruby-devel
+rubygem(rake)
+rubygems-devel

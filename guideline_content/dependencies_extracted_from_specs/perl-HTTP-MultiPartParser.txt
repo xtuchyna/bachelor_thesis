@@ -1,0 +1,19 @@
+/usr/bin/make
+perl(Carp)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(FindBin)
+perl(IO::File)
+perl(Module::Install::ReadmeFromPod)
+perl(Scalar::Util)
+perl(Test::Deep)
+perl(Test::More) >= 0.88
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter >= 1:5.8.1

@@ -1,0 +1,14 @@
+make
+perl(CPAN::Meta::Converter) >= 2.141170
+perl(Cwd)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Path)
+perl(File::Spec::Functions)
+perl(FindBin)
+perl(Module::CPANfile)
+perl(Test::More) >= 0.88
+perl(strict)
+perl(version) >= 0.76
+perl(warnings)
+perl-generators
+perl-interpreter

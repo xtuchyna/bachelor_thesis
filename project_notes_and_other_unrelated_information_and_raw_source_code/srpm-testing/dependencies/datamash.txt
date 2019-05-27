@@ -1,0 +1,9 @@
+bash-completion
+gcc
+gettext
+perl(Data::Dumper)
+perl(Digest::MD5)
+perl(Digest::SHA)
+pkgconfig
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

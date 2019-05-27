@@ -1,0 +1,5 @@
+dblatex
+flex
+libsepol-static >= 2.7-3
+pandoc
+xmlto

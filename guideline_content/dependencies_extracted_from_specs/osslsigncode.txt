@@ -1,0 +1,5 @@
+autoconf
+automake
+curl-devel
+libgsf-devel
+openssl-devel

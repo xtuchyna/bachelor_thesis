@@ -1,0 +1,10 @@
+autoconf
+automake
+expat-devel
+fontpackages-devel
+freetype-devel >= 2.8-7
+gettext
+gperf
+itstool
+libtool
+libuuid-devel

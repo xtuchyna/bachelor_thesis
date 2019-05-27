@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(minitest)
+rubygem(rack)
+rubygem(rack-test)
+rubygems-devel

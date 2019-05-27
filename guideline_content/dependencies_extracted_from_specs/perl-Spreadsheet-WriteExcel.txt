@@ -1,0 +1,13 @@
+perl(Carp)
+perl(Date::Calc)
+perl(Date::Manip)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(OLE::Storage_Lite) >= 0.19
+perl(Parse::RecDescent)
+perl(Test::More)
+perl(Time::Local)
+perl(autouse)
+perl-generators

@@ -1,0 +1,7 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Test::Base)
+perl(Test::More)
+perl(Test::Pod) >= 1.18
+perl(Test::Pod::Coverage) >= 1.04
+perl-generators

@@ -1,0 +1,5 @@
+gcc
+glib2-devel
+perl
+pkgconfig
+strace

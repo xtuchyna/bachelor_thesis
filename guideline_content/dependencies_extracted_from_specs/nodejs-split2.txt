@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(callback-stream)
+npm(safe-buffer)
+npm(tap)
+npm(through2)

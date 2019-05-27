@@ -1,0 +1,7 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

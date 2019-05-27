@@ -1,0 +1,7 @@
+ehcache-parent
+maven-gpg-plugin
+maven-idea-plugin
+maven-local
+maven-release-plugin
+maven-shared
+maven-source-plugin

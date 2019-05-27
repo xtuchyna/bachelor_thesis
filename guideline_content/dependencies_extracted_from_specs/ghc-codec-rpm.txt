@@ -1,0 +1,15 @@
+ghc-Cabal-devel
+ghc-attoparsec-binary-devel
+ghc-attoparsec-devel
+ghc-bytestring-devel
+ghc-conduit-devel
+ghc-conduit-extra-devel
+ghc-cpio-conduit-devel
+ghc-exceptions-devel
+ghc-lzma-conduit-devel
+ghc-mtl-devel
+ghc-parsec-devel
+ghc-pretty-devel
+ghc-resourcet-devel
+ghc-rpm-macros
+ghc-text-devel

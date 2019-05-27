@@ -1,0 +1,12 @@
+perl(:VERSION) >= 5.8.1
+perl(Carp)
+perl(Data::Dumper)
+perl(List::Util)
+perl(Module::Build::Tiny) >= 0.035
+perl(Module::Load)
+perl(Test::More) >= 0.98
+perl(strict)
+perl(version) >= 0.77
+perl(warnings)
+perl-generators
+perl-interpreter

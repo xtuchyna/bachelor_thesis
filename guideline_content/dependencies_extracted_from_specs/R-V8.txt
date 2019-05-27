@@ -1,0 +1,10 @@
+R-Rcpp-devel
+R-curl
+R-devel
+R-jsonlite
+R-testthat
+R-utils
+js-underscore
+tex(latex)
+v8-314-devel
+web-assets-devel

@@ -1,0 +1,5 @@
+boost-devel
+cmake
+libcurl-devel
+libusb-devel
+systemd

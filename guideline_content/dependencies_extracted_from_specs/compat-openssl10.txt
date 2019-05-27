@@ -1,0 +1,10 @@
+/usr/bin/cmp
+/usr/bin/pod2man
+/usr/bin/rename
+coreutils
+gcc
+lksctp-tools-devel
+perl-generators
+perl-interpreter
+sed
+zlib-devel

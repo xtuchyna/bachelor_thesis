@@ -1,0 +1,13 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IPC::Open3)
+perl(Test2::API)
+perl(Test2::Event)
+perl(Test::Builder)
+perl(Test::More) >= 0.45
+perl(lib)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

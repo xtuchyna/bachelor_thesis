@@ -1,0 +1,8 @@
+python-nose >= 1.0
+python-setuptools
+python-six
+python2-devel
+python3-devel
+python3-nose >= 1.0
+python3-setuptools
+python3-six

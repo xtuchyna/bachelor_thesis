@@ -1,0 +1,13 @@
+perl(ExtUtils::MakeMaker)
+perl(Test)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(XML::DOM)
+perl(XML::XPath)
+perl(XML::XPathEngine) >= 0.10
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

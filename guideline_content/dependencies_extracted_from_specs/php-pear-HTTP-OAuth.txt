@@ -1,0 +1,5 @@
+php-pear
+php-pear(Cache_Lite)
+php-pear(HTTP_Request2) >= 0.5.1
+php-pear(Log)
+php-pear(pear.phpunit.de/PHPUnit)

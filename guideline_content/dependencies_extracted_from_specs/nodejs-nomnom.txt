@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(chalk)
+npm(nodeunit)
+npm(underscore)

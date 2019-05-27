@@ -1,0 +1,7 @@
+dconf-devel
+desktop-file-utils
+glib2-devel
+gtk3-devel
+libSM-devel
+mate-common
+vte291-devel

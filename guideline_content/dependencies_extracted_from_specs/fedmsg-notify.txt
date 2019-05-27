@@ -1,0 +1,4 @@
+desktop-file-utils
+pygobject3
+python-setuptools
+python2-devel

@@ -1,0 +1,12 @@
+maven-local
+mvn(asm:asm-tree)
+mvn(junit:junit)
+mvn(log4j:log4j:1.2.17)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.fusesource.hawtbuf:hawtbuf)
+mvn(org.fusesource:fusesource-pom:pom:)
+mvn(org.osgi:org.osgi.compendium)
+mvn(org.osgi:org.osgi.core)
+mvn(org.scala-lang:scala-compiler)
+mvn(org.scala-lang:scala-library)

@@ -1,0 +1,7 @@
+gettext-devel
+gmp-devel
+gtk-doc
+mpfr-devel
+pcre-devel
+python2-devel
+python3-devel

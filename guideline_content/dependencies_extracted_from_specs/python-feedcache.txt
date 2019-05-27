@@ -1,0 +1,6 @@
+python-feedparser
+python2-devel
+python2-futures
+python2-nose
+python2-setuptools
+python2-shove

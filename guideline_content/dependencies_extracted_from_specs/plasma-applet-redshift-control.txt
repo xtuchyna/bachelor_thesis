@@ -1,0 +1,5 @@
+cmake
+extra-cmake-modules
+kf5-ki18n-devel
+kf5-plasma-devel
+kf5-rpm-macros

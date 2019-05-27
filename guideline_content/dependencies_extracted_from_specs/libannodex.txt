@@ -1,0 +1,10 @@
+autoconf
+automake
+docbook-utils
+doxygen
+gcc-c++
+libcmml-devel >= 0.8
+libogg-devel >= 1.0
+liboggz-devel >= 0.9.1
+libsndfile-devel
+libtool

@@ -1,0 +1,5 @@
+compiler(go-compiler)
+deepin-dbus-generator
+golang(pkg.deepin.io/lib)
+jq
+libxml2

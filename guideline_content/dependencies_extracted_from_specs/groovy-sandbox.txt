@@ -1,0 +1,5 @@
+groovy18 >= 1.8.9-20
+maven-local
+mvn(junit:junit)
+mvn(org.codehaus.groovy:groovy:1.8.9)
+mvn(org.kohsuke:pom:pom:)

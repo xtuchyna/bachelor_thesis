@@ -1,0 +1,7 @@
+ahven-devel
+asciidoc
+fedora-gnat-project-common
+gcc-gnat
+gnupg2
+gprbuild
+make

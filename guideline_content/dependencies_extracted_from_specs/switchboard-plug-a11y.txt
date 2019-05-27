@@ -1,0 +1,9 @@
+cmake
+gettext
+pkgconfig(glib-2.0)
+pkgconfig(granite)
+pkgconfig(gthread-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(switchboard-2.0)
+vala >= 0.22.0
+vala-tools

@@ -1,0 +1,14 @@
+python2-devel
+python2-setuptools
+python2dist(mock)
+python2dist(pkginfo)
+python2dist(pytest)
+python2dist(requests)
+python2dist(six)
+python3-devel
+python3-setuptools
+python3dist(mock)
+python3dist(pkginfo)
+python3dist(pytest)
+python3dist(requests)
+python3dist(six)

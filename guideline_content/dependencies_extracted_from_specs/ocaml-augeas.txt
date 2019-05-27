@@ -1,0 +1,5 @@
+augeas-devel >= 0.1.0
+chrpath
+ocaml >= 3.09.0
+ocaml-findlib-devel
+ocaml-ocamldoc

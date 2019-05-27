@@ -1,0 +1,2 @@
+ImageMagick
+desktop-file-utils

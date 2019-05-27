@@ -1,0 +1,4 @@
+R-devel
+R-methods
+R-utils
+tex(latex)

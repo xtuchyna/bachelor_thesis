@@ -1,0 +1,33 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(Exporter::Tiny) >= 0.038
+perl(ExtUtils::MakeMaker) >= 6.75
+perl(File::Basename)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::File)
+perl(IO::Handle)
+perl(List::MoreUtils::XS) >= 0.426
+perl(List::Util)
+perl(Math::Trig)
+perl(PerlIO)
+perl(Scalar::Util)
+perl(Storable)
+perl(Test::Builder::Module)
+perl(Test::LeakTrace)
+perl(Test::More) >= 0.96
+perl(Text::ParseWords)
+perl(Tie::Array)
+perl(base)
+perl(constant)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

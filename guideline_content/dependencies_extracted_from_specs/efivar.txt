@@ -1,0 +1,4 @@
+git
+glibc-static
+libabigail
+popt-devel

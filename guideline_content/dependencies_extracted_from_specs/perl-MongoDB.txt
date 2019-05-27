@@ -1,0 +1,79 @@
+coreutils
+findutils
+gcc
+make
+mongodb-server
+perl(BSON::Decimal128) >= 1
+perl(BSON::Types)
+perl(Carp)
+perl(Config)
+perl(Config::AutoConf) >= 0.22
+perl(Cpanel::JSON::XS)
+perl(Cwd)
+perl(Data::Dumper)
+perl(DateTime)
+perl(DateTime::Tiny) >= 1
+perl(Digest::MD5)
+perl(Encode)
+perl(Errno)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(File::Compare)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(FileHandle)
+perl(IO::File)
+perl(IO::Socket)
+perl(IO::Socket::IP) >= 0.32
+perl(JSON::MaybeXS) >= 1.002005
+perl(JSON::PP) >= 2.27300
+perl(JSON::Tiny)
+perl(List::Util)
+perl(MIME::Base64)
+perl(Math::BigInt)
+perl(Module::Install::Base)
+perl(Module::Install::Compiler)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Mojo::JSON)
+perl(Moo) >= 2
+perl(Moo::Role)
+perl(Path::Tiny) >= 0.054
+perl(Safe::Isa)
+perl(Scalar::Util)
+perl(Socket)
+perl(Sub::Quote)
+perl(Test::Deep) >= 0.111
+perl(Test::Fatal)
+perl(Test::Harness) >= 3.31
+perl(Test::More) >= 0.96
+perl(Tie::IxHash)
+perl(Time::HiRes)
+perl(Time::Moment) >= 0.22
+perl(Try::Tiny)
+perl(Type::Library)
+perl(Type::Utils)
+perl(Types::Serialiser)
+perl(Types::Standard)
+perl(XSLoader)
+perl(bigint)
+perl(boolean) >= 0.25
+perl(bytes)
+perl(constant)
+perl(if)
+perl(inc::Module::Install)
+perl(lib)
+perl(namespace::clean)
+perl(overload)
+perl(strict)
+perl(threads)
+perl(threads::shared)
+perl(utf8)
+perl(version)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig(libbson-1.0)
+sed

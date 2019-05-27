@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(mocha)
+npm(simple-assert)
+npm(type-detect)

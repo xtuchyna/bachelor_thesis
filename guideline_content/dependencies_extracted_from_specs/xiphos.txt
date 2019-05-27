@@ -1,0 +1,16 @@
+GConf2-devel
+biblesync-devel >= 1.1.2
+dbus-glib-devel
+desktop-file-utils
+docbook-utils
+gettext
+gnome-doc-utils
+gtk3-devel
+gtkhtml3-devel
+intltool
+libglade2-devel
+libgsf-devel
+libuuid-devel
+rarian-compat
+sword-devel >= 1.7.3
+webkit2gtk3-devel

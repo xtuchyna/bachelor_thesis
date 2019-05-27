@@ -1,0 +1,21 @@
+perl(CPAN::Meta) >= 2.120900
+perl(File::Spec)
+perl(File::Temp) >= 0.18
+perl(File::pushd)
+perl(Module::Build::Tiny) >= 0.034
+perl(Module::Metadata)
+perl(Moose) >= 2
+perl(Moose::Conflicts)
+perl(MooseX::Getopt)
+perl(MooseX::Types)
+perl(MooseX::Types::Moose)
+perl(MooseX::Types::Stringlike)
+perl(Path::Tiny)
+perl(Test::Fatal)
+perl(Test::More) >= 0.96
+perl(if)
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,25 @@
+desktop-file-utils
+gettext >= 0.19.8
+libosinfo-vala
+meson
+pkgconfig(clutter-gtk-1.0)
+pkgconfig(glib-2.0) >= 2.52
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(govirt-1.0)
+pkgconfig(gtk+-3.0) >= 3.22.20
+pkgconfig(gtk-vnc-2.0)
+pkgconfig(gudev-1.0)
+pkgconfig(json-glib-1.0)
+pkgconfig(libarchive)
+pkgconfig(libosinfo-1.0) >= 1.1.0
+pkgconfig(libsecret-1)
+pkgconfig(libsoup-2.4) >= 2.44
+pkgconfig(libusb-1.0)
+pkgconfig(libvirt-gconfig-1.0)
+pkgconfig(libvirt-gobject-1.0)
+pkgconfig(libxml-2.0)
+pkgconfig(tracker-sparql-2.0)
+pkgconfig(webkit2gtk-4.0)
+spice-gtk3-vala
+vala >= 0.36.0
+yelp-tools

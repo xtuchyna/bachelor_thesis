@@ -1,0 +1,3 @@
+ruby(release)
+rubygem(minitest)
+rubygems-devel

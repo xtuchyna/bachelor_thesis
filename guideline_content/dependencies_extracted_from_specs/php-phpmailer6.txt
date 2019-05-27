@@ -1,0 +1,13 @@
+/usr/sbin/smtp-sink
+php(language) >= 5.5
+php-ctype
+php-date
+php-fedora-autoloader-devel
+php-filter
+php-hash
+php-imap
+php-intl
+php-mbstring
+php-openssl
+php-pcre
+php-phpunit-PHPUnit >= 4.8

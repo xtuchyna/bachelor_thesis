@@ -1,0 +1,8 @@
+autoconf
+automake
+glib2-devel
+krb5-devel
+libsodium-devel
+libtool
+libuuid-devel
+openpgm-devel

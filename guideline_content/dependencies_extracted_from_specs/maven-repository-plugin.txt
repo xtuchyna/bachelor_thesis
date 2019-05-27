@@ -1,0 +1,16 @@
+ant
+java-devel >= 1:1.6.0
+jpackage-utils
+junit
+maven-compiler-plugin
+maven-install-plugin
+maven-jar-plugin
+maven-javadoc-plugin
+maven-local
+maven-plugin-plugin
+maven-plugin-testing-harness
+maven-resources-plugin
+maven-shared-verifier
+maven-surefire-plugin
+maven-surefire-provider-junit
+plexus-utils

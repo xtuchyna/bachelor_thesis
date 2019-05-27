@@ -1,0 +1,6 @@
+mocha
+nodejs-packaging
+npm(depd)
+npm(inherits)
+npm(setprototypeof)
+npm(statuses)

@@ -1,0 +1,16 @@
+/usr/bin/pod2man
+bison
+dejagnu
+elfutils-devel
+flex
+gcc-c++
+gettext
+gmp-devel
+libmpc-devel
+mpfr-devel
+nacl-arm-binutils
+ppl-pwl-devel
+sharutils
+texinfo
+texinfo-tex
+zlib-devel

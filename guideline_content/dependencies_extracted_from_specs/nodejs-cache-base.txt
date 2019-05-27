@@ -1,0 +1,8 @@
+mocha
+nodejs-packaging
+npm(collection-visit)
+npm(component-emitter)
+npm(lazy-cache)
+npm(set-value)
+npm(union-value)
+npm(unset-value)

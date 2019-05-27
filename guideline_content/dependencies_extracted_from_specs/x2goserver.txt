@@ -1,0 +1,8 @@
+desktop-file-utils
+findutils
+man2html-core
+perl(ExtUtils::MakeMaker)
+perl-generators
+shadow-utils
+systemd
+xorg-x11-xinit

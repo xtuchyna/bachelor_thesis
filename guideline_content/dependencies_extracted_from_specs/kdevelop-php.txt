@@ -1,0 +1,15 @@
+extra-cmake-modules
+gettext
+grantlee-qt5-devel
+kdevelop-pg-qt-devel >= 1.90.91
+kdevplatform-devel >= 5.2.1
+kf5-kcmutils-devel
+kf5-kdelibs4support-devel
+kf5-ki18n-devel
+kf5-knewstuff-devel
+kf5-knotifyconfig-devel
+kf5-ktexteditor-devel
+kf5-rpm-macros
+kf5-threadweaver-devel
+qt5-qtbase-devel
+qt5-qtwebkit-devel

@@ -1,0 +1,72 @@
+coreutils
+gcc
+perl(:VERSION) >= 5.10.0
+perl(CLASS) >= 1.00
+perl(Capture::Tiny) >= 0.06
+perl(Carp)
+perl(Carp::Fix::1_25) >= 1.000000
+perl(Child) >= 0.009
+perl(Config)
+perl(Data::Dumper)
+perl(DateTime) >= 0.47
+perl(DateTime::Format::Epoch) >= 0.11
+perl(DateTime::TimeZone::Tzfile) >= 0.002
+perl(Devel::Declare::MethodInstaller::Simple) >= 0.006009
+perl(Digest::MD5) >= 2.36
+perl(Digest::SHA) >= 5.45
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::CBuilder) >= 0.26
+perl(File::Spec)
+perl(File::Temp)
+perl(File::chdir) >= 0.1002
+perl(Hash::FieldHash) >= 0.06
+perl(Hash::Merge::Simple) >= 0.04
+perl(Hash::StoredIterator) >= 0.007
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(IPC::System::Simple) >= 1.18
+perl(Import::Into) >= 1.002003
+perl(JSON::MaybeXS) >= 1.003005
+perl(List::MoreUtils) >= 0.22
+perl(Modern::Perl) >= 1.03
+perl(Module::Build) >= 0.36
+perl(Module::Load) >= 0.16
+perl(Object::ID) >= v0.1.0
+perl(POSIX)
+perl(Path::Tiny) >= 0.036
+perl(Perl6::Caller) >= 0.100
+perl(PerlIO)
+perl(Scalar::Util)
+perl(Sub::Name)
+perl(Taint::Util) >= 0.06
+perl(Test::More) >= 0.88
+perl(Test::Most)
+perl(Test::Output) >= 0.16
+perl(Test::Warn) >= 0.11
+perl(Text::Wrap) >= 2009.0305
+perl(Time::y2038)
+perl(Try::Tiny) >= 0.02
+perl(Want) >= 0.18
+perl(YAML::Any) >= 0.70
+perl(autobox) >= 2.80
+perl(autobox::Core) >= 1.0
+perl(autobox::List::Util) >= 20090629
+perl(autobox::dump) >= 20090426
+perl(autodie) >= 2.12
+perl(autovivification) >= 0.06
+perl(base)
+perl(constant)
+perl(if)
+perl(indirect) >= 0.24
+perl(lib)
+perl(mro)
+perl(open)
+perl(overload)
+perl(parent) >= 0.221
+perl(true::VERSION) >= 0.16
+perl(utf8::all) >= 0.015
+perl(version) >= 0.77
+perl-devel
+perl-generators
+perl-interpreter >= 4:5.10.0

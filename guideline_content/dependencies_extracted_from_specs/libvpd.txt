@@ -1,0 +1,4 @@
+libstdc++-devel
+libtool
+sqlite-devel
+zlib-devel

@@ -1,0 +1,4 @@
+gcc-c++
+libdrm-devel
+libtool
+libva-devel

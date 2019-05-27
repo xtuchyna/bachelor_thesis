@@ -1,0 +1,24 @@
+boost-devel
+kdelibs4-devel
+liblastfm-devel >= 1.0
+pkgconfig(QJson) >= 0.8.1
+pkgconfig(QtDBus)
+pkgconfig(QtGui)
+pkgconfig(QtNetwork)
+pkgconfig(QtWebKit)
+pkgconfig(QtXmlPatterns)
+pkgconfig(TelepathyQt4)
+pkgconfig(gnutls)
+pkgconfig(libattica) >= 0.4.0
+pkgconfig(libclucene-core) >= 2.3
+pkgconfig(libechonest) >= 2.2
+pkgconfig(libjreen) >= 1.1.1
+pkgconfig(liblucene++)
+pkgconfig(libsparsehash)
+pkgconfig(phonon) >= 4.5.0
+pkgconfig(qca2)
+pkgconfig(taglib)
+qtkeychain-devel
+qtweetlib-devel >= 0.4
+quazip-devel
+websocketpp-devel

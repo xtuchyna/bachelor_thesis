@@ -1,0 +1,6 @@
+desktop-file-utils
+dos2unix
+gettext
+qt5-devel
+qt5-qtbase-devel
+qt5-qttools-devel

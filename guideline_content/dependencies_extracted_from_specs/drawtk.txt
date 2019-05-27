@@ -1,0 +1,7 @@
+SDL-devel
+fontconfig-devel
+freeimage-devel
+freetype-devel
+gcc
+gstreamer-devel
+gstreamer-plugins-base-devel

@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(IO::File)
+perl(IO::Handle)
+perl(Test::More) >= 0.88
+perl(base)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

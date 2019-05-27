@@ -1,0 +1,6 @@
+gcc-gfortran
+glibc-devel
+lapack-devel
+mpich-devel-static
+openblas-devel
+openmpi-devel

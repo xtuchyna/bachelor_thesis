@@ -1,0 +1,3 @@
+(crate(errno) >= 0.2.0 with crate(errno) < 0.3.0)
+(crate(libc) >= 0.2.0 with crate(libc) < 0.3.0)
+rust-packaging

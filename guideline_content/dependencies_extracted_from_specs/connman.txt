@@ -1,0 +1,7 @@
+dbus-devel >= 1.4
+glib2-devel >= 2.28
+gnutls-devel
+iptables-devel
+readline-devel
+systemd-units
+wpa_supplicant >= 1.0

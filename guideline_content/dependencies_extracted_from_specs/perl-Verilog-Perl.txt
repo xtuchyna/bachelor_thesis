@@ -1,0 +1,36 @@
+bison
+findutils
+flex
+gcc-c++
+gdbm-devel
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Digest::SHA)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Path)
+perl(File::Spec)
+perl(Getopt::Long)
+perl(IO::File)
+perl(POSIX)
+perl(Pod::Usage) >= 1.34
+perl(Scalar::Util)
+perl(Storable)
+perl(Test)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Time::HiRes)
+perl(base)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

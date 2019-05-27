@@ -1,0 +1,9 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Term::ReadKey)
+perl(Term::ReadLine::Gnu)
+perl(Term::Size)
+perl(Test::Simple)
+perl(strict)
+perl(warnings)
+perl-generators

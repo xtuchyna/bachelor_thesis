@@ -1,0 +1,16 @@
+coreutils
+findutils
+gcc
+make
+perl(Config)
+perl(DynaLoader)
+perl(ExtUtils::Depends)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

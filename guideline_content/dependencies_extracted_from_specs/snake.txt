@@ -1,0 +1,3 @@
+pykickstart
+python-devel
+python-setuptools

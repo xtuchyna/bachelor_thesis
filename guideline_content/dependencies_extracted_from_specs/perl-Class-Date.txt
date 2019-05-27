@@ -1,0 +1,17 @@
+perl(Carp)
+perl(DynaLoader)
+perl(Env::C)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Time::Local)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

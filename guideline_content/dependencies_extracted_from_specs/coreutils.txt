@@ -1,0 +1,16 @@
+attr
+autoconf
+automake
+gcc
+gettext-devel
+glibc-langpack-en
+gmp-devel
+hostname
+libacl-devel
+libattr-devel
+libcap-devel
+libselinux-devel
+libselinux-utils
+openssl-devel
+strace
+texinfo

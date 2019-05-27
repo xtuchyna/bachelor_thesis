@@ -1,0 +1,29 @@
+coreutils
+findutils
+gcc
+make
+perl(AutoLoader)
+perl(Capture::Tiny)
+perl(Carp)
+perl(Config)
+perl(Config::AutoConf)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::CBuilder)
+perl(ExtUtils::Constant)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Spec)
+perl(Test::LeakTrace)
+perl(Test::More)
+perl(Text::ParseWords)
+perl(lib)
+perl(parent)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig
+pkgconfig(libstatgrab) >= 0.90

@@ -1,0 +1,39 @@
+/usr/bin/7z
+coreutils
+findutils
+make
+perl(Carp)
+perl(Compress::Raw::Lzma) >= 2.081
+perl(Compress::Raw::Zlib) >= 2
+perl(Config)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 5.16
+perl(File::Copy)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(IO::Compress::Base) >= 2.081
+perl(IO::Compress::Base::Common) >= 2.081
+perl(IO::Compress::Zip)
+perl(IO::File)
+perl(IO::Handle)
+perl(IO::String)
+perl(IO::Uncompress::AnyUncompress)
+perl(IO::Uncompress::Base) >= 2.081
+perl(IO::Uncompress::Unzip)
+perl(Test::NoWarnings)
+perl(Test::Pod) >= 1.00
+perl(bytes)
+perl(constant)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(threads::shared)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+xz
+xz-lzma-compat

@@ -1,0 +1,14 @@
+boost-devel
+boost-python-devel
+boost-python3-devel
+cmake
+fftw-devel
+gcc-c++
+gcc-gfortran
+libX11-devel
+libjpeg-turbo-devel
+libpng-devel
+openblas-devel
+python2-devel
+python3-devel
+sqlite-devel

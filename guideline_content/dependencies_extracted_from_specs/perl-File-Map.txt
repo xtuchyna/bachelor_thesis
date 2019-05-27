@@ -1,0 +1,27 @@
+coreutils
+findutils
+perl(Carp)
+perl(Config)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IO::Socket::INET)
+perl(IPC::Open3)
+perl(Module::Build)
+perl(POSIX)
+perl(PerlIO::Layers)
+perl(Scalar::Util)
+perl(Sub::Exporter::Progressive) >= 0.001005
+perl(Test::Fatal)
+perl(Test::More)
+perl(Test::Warnings) >= 0.005
+perl(Time::HiRes)
+perl(XSLoader)
+perl(open)
+perl(strict)
+perl(subs)
+perl(threads)
+perl(utf8)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter >= 5.008

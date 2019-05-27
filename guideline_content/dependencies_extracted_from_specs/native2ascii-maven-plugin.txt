@@ -1,0 +1,10 @@
+maven-enforcer-plugin
+maven-invoker-plugin
+maven-local
+maven-plugin-plugin
+mvn(junit:junit)
+mvn(org.apache.maven.shared:maven-invoker)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.apache.maven:maven-project)
+mvn(org.codehaus.mojo:mojo-parent:pom:)

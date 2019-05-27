@@ -1,0 +1,10 @@
+ebook-tools-devel
+extra-cmake-modules >= 5.44
+kf5-karchive-devel >= 5.44
+kf5-ki18n-devel >= 5.44
+kf5-rpm-macros
+libattr-devel
+pkgconfig(exiv2) >= 0.20
+pkgconfig(poppler-qt5)
+pkgconfig(taglib) >= 1.9
+qt5-qtbase-devel

@@ -1,0 +1,24 @@
+cmake(Qt5DBus)
+cmake(Qt5Quick)
+cmake(Qt5Widgets)
+cmake(Qt5X11Extras)
+extra-cmake-modules
+gettext
+kdecoration-devel >= 5.12
+kdelibs4-devel
+kf5-frameworkintegration-devel
+kf5-kauth-devel
+kf5-kcmutils-devel
+kf5-kcompletion-devel
+kf5-kconfig-devel
+kf5-kcoreaddons-devel
+kf5-kguiaddons-devel
+kf5-ki18n-devel
+kf5-kpackage-devel
+kf5-kservice-devel
+kf5-kwayland-devel
+kf5-kwindowsystem-devel
+kf5-plasma-devel
+kf5-rpm-macros
+libxcb-devel
+plasma-packagestructure

@@ -1,0 +1,3 @@
+json-glib-devel
+libpurple-devel
+zlib-devel

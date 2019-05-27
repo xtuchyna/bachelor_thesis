@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(istanbul)
+npm(mocha)
+npm(stream-to-array)

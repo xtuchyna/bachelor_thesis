@@ -1,0 +1,12 @@
+perl(Carp)
+perl(Digest::SHA) >= 5.22
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(Statistics::Basic)
+perl(Test::More) >= 0.45
+perl(Time::HiRes) >= 1.98
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

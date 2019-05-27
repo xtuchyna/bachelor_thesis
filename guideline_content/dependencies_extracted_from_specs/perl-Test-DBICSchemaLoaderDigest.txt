@@ -1,0 +1,8 @@
+perl(Digest::MD5)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Temp)
+perl(Test::More)
+perl(Test::More) >= 0.88
+perl(base)
+perl-generators

@@ -1,0 +1,10 @@
+autoconf
+automake
+bison
+boost-devel
+desktop-file-utils
+flex
+gcc-c++
+git
+libtool
+zlib-devel

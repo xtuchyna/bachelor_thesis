@@ -1,0 +1,7 @@
+ant
+java-devel
+javapackages-local
+nekohtml
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+xerces-j2

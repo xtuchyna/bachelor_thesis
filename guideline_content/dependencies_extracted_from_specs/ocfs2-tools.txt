@@ -1,0 +1,14 @@
+autoconf
+automake
+corosynclib-devel
+dlm-devel
+glib2-devel >= 2.2.3
+libaio-devel
+libblkid-devel
+libcom_err-devel
+libuuid-devel
+pacemaker-libs-devel
+pygtk2 >= 1.99.16
+python2-devel >= 2.5
+readline-devel
+systemd

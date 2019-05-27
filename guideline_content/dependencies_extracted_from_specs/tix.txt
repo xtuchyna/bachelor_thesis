@@ -1,0 +1,3 @@
+libX11-devel
+tcl-devel >= 8.4.13
+tk-devel >= 8.4.13

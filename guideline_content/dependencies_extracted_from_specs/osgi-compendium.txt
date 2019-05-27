@@ -1,0 +1,6 @@
+maven-local
+mvn(javax.persistence:persistence-api)
+mvn(javax.servlet:javax.servlet-api)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.osgi:osgi.annotation)
+mvn(org.osgi:osgi.core)

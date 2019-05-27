@@ -1,0 +1,17 @@
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IO::Pty)
+perl(IPC::Open3)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Test::More)
+perl(base)
+perl(blib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

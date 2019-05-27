@@ -1,0 +1,13 @@
+classloader-leak-test-framework
+java-comment-preprocessor
+java-devel >= 1.8
+maven-enforcer-plugin
+maven-local
+maven-plugin-build-helper
+maven-plugin-bundle
+mvn(com.ongres.scram:client)
+mvn(org.apache.maven.plugins:maven-clean-plugin)
+postgresql-contrib
+postgresql-devel
+postgresql-server
+properties-maven-plugin

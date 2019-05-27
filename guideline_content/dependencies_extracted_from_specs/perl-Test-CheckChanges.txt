@@ -1,0 +1,20 @@
+perl(Carp)
+perl(Cwd)
+perl(English)
+perl(File::Basename)
+perl(File::Glob)
+perl(File::Spec)
+perl(Module::Build)
+perl(Module::Build::Version)
+perl(Perl::Critic::Policy::NamingConventions::Capitalization)
+perl(Perl::Critic::Policy::ValuesAndExpressions::ProhibitMagicNumbers)
+perl(Test::Builder)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Perl::Critic)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

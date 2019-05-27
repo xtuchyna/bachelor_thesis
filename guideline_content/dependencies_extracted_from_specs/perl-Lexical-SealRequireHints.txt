@@ -1,0 +1,14 @@
+findutils
+gcc
+perl(Module::Build)
+perl(Test::More) >= 0.41
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(Thread::Semaphore)
+perl(strict)
+perl(threads)
+perl(threads::shared)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

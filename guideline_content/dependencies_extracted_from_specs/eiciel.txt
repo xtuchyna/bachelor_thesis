@@ -1,0 +1,5 @@
+desktop-file-utils
+gtkmm30-devel
+libacl-devel
+libgnomeui-devel
+nautilus-devel

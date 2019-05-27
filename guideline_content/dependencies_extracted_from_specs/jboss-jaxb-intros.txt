@@ -1,0 +1,11 @@
+apache-commons-beanutils
+apache-commons-logging
+glassfish-jaxb
+glassfish-jaxb-api
+java-devel
+jvnet-parent
+maven-compiler-plugin
+maven-install-plugin
+maven-jar-plugin
+maven-javadoc-plugin
+maven-local

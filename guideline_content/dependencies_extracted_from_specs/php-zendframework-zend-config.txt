@@ -1,0 +1,13 @@
+php(language) >= 5.5
+php-autoloader(zendframework/zend-filter) >= 2.5
+php-autoloader(zendframework/zend-i18n) >= 2.5
+php-autoloader(zendframework/zend-json) >= 2.5
+php-autoloader(zendframework/zend-servicemanager) >= 2.5
+php-autoloader(zendframework/zend-stdlib) >= 2.7
+php-composer(phpunit/phpunit) >= 4.0
+php-fedora-autoloader-devel
+php-libxml
+php-pcre
+php-spl
+php-xmlreader
+php-xmlwriter

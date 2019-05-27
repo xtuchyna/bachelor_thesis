@@ -1,0 +1,6 @@
+R-Rcpp-devel
+R-bindr
+R-devel
+R-plogr-devel
+R-testthat
+tex(latex)

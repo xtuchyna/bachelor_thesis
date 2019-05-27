@@ -1,0 +1,17 @@
+alsa-lib-devel
+cmake >= 2.8
+compat-openssl10-devel
+cups-devel
+gsm-devel
+gstreamer1-plugins-base-devel
+libXcursor-devel
+libXdamage-devel
+libXi-devel
+libXinerama-devel
+libXrandr-devel
+libXv-devel
+libjpeg-turbo-devel
+libxkbfile-devel
+pcsc-lite-devel
+pulseaudio-libs-devel
+xmlto

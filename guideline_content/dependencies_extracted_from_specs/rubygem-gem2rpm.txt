@@ -1,0 +1,5 @@
+/usr/bin/rpmdev-packager
+ruby
+ruby(release)
+rubygem(minitest)
+rubygems-devel

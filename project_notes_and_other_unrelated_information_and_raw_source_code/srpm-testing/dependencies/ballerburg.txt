@@ -1,0 +1,9 @@
+ImageMagick
+SDL-devel >= 1.2.0
+cmake
+desktop-file-utils
+gcc
+gettext
+libappstream-glib
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

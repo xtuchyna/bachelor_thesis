@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker)
+perl(HTML::Parser) >= 3.56
+perl(HTML::StripScripts) >= 1.04
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

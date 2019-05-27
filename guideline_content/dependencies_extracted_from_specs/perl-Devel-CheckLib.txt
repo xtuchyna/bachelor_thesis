@@ -1,0 +1,15 @@
+make
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp) >= 0.16
+perl(IO::CaptureOutput) >= 1.0801
+perl(IO::File)
+perl(Mock::Config)
+perl(Test::More) >= 0.62
+perl(Text::ParseWords)
+perl(lib)
+perl-generators
+perl-interpreter

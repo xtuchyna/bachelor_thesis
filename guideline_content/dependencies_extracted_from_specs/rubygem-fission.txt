@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(CFPropertyList)
+rubygem(fakefs)
+rubygem(rspec)
+rubygems-devel

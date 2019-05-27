@@ -1,0 +1,4 @@
+maven-local
+mvn(commons-codec:commons-codec)
+mvn(commons-io:commons-io)
+mvn(junit:junit)

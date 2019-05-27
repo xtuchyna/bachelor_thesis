@@ -1,0 +1,4 @@
+fedora-gnat-project-common
+gcc-gnat
+gprbuild
+zlib-devel

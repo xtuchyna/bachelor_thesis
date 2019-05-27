@@ -1,0 +1,23 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Data::UUID)
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(HTML::HTML5::Entities)
+perl(JSON)
+perl(Moo) >= 1.000000
+perl(MooX::Types::MooseLike::Base)
+perl(Path::Class::Dir)
+perl(Path::Class::File)
+perl(Plack::Request)
+perl(Plack::Response)
+perl(Test::More) >= 0.61
+perl(Text::Template)
+perl(aliased)
+perl(constant)
+perl(strict)
+perl-generators
+perl-interpreter
+sed
+systemd

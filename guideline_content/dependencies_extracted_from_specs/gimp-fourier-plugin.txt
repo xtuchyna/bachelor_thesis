@@ -1,0 +1,3 @@
+dos2unix
+fftw3-devel
+gimp-devel

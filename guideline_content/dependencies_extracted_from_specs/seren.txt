@@ -1,0 +1,4 @@
+alsa-lib-devel
+gmp-devel
+ncurses-devel
+opus-devel

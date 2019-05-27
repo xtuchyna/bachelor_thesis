@@ -1,0 +1,13 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(HTML::Entities)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.09
+perl(Text::Context::EitherSide) >= 1.1
+perl(UNIVERSAL::require) >= 0.03
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

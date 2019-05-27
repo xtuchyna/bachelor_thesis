@@ -1,0 +1,4 @@
+gstreamer1-devel
+gstreamer1-plugins-base-devel
+libdmapsharing-devel >= 2.9.21
+vips-devel >= 7.38

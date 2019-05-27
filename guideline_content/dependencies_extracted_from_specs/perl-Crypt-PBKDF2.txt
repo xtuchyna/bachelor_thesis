@@ -1,0 +1,26 @@
+findutils
+make
+perl(Carp)
+perl(Digest) >= 1.16
+perl(Digest::HMAC) >= 1.01
+perl(Digest::SHA)
+perl(Digest::SHA3) >= 0.22
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(MIME::Base64)
+perl(Module::Runtime)
+perl(Moo) >= 2
+perl(Moo::Role) >= 2
+perl(Scalar::Util)
+perl(Test::Fatal)
+perl(Test::More)
+perl(Try::Tiny) >= 0.04
+perl(Type::Tiny) >= 1.000005
+perl(Types::Standard)
+perl(constant)
+perl(namespace::autoclean)
+perl(strict)
+perl(strictures) >= 2
+perl(warnings)
+perl-generators
+perl-interpreter

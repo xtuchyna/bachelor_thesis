@@ -1,0 +1,21 @@
+CheMPS2-devel
+atlas-devel
+bison-devel
+byacc
+cmake
+dvipng
+flex
+gcc-c++
+gcc-gfortran
+graphviz
+gsl-devel
+hdf5-devel
+libint-devel >= 1.1.5-3
+perl-devel
+pybind11-static
+python3-devel >= 2.7
+python3-numpy
+python3-sphinx >= 1.1
+tex(latex)
+tex-preview
+zlib-devel

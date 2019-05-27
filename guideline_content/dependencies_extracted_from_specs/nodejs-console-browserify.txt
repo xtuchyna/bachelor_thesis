@@ -1,0 +1,3 @@
+nodejs-packaging
+npm(date-now)
+npm(tape)

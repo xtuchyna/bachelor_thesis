@@ -1,0 +1,17 @@
+bash
+bzip2-devel
+coreutils
+findutils
+gcc
+gdbm-devel
+glibc-common
+groff-base
+libdb-devel
+make
+perl-generators
+perl-interpreter
+procps
+sed
+systemtap-sdt-devel
+tar
+zlib-devel

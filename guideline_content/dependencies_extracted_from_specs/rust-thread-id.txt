@@ -1,0 +1,2 @@
+(crate(libc) >= 0.2.6 with crate(libc) < 0.3.0)
+rust-packaging

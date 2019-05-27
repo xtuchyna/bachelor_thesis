@@ -1,0 +1,14 @@
+git
+pyOpenSSL >= 0.14
+python-keystoneauth1
+python-openstackdocstheme
+python-oslo-utils
+python-pbr
+python-prettytable
+python-setuptools
+python-sphinx
+python-warlock
+python2-devel
+python3-devel
+python3-pbr
+python3-setuptools

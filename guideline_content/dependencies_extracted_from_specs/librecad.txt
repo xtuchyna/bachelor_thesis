@@ -1,0 +1,10 @@
+boost-devel
+desktop-file-utils
+freetype-devel
+libdxfrw-devel >= 0.6.3-3
+muParser-devel
+qt3-devel
+qt5-qtbase-devel
+qt5-qtsvg-devel
+shapelib-devel
+wqy-microhei-fonts

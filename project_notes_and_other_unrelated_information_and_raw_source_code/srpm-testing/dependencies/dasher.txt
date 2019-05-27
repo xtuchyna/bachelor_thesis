@@ -1,0 +1,16 @@
+at-spi2-core-devel
+autoconf
+automake
+desktop-file-utils
+expat-devel
+gcc
+gcc-c++
+gettext
+gnome-common
+gnome-doc-utils
+intltool
+libXtst-devel
+libtool
+libwnck-devel >= 2.9.92
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

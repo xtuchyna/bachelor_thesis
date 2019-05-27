@@ -1,0 +1,6 @@
+boost-devel
+gettext
+gmp-devel
+kdelibs4-devel
+libgcrypt-devel
+pkgconfig(qca2)

@@ -1,0 +1,8 @@
+gettext
+perl(ExtUtils::Embed)
+perl-devel
+perl-generators
+python2-devel
+ruby-devel
+rubygems-devel
+swig

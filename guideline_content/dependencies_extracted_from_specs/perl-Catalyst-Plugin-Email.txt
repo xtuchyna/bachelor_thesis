@@ -1,0 +1,8 @@
+perl(Catalyst) >= 2.99
+perl(Email::MIME)
+perl(Email::MIME::Creator)
+perl(Email::Send)
+perl(Email::Simple::Creator)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More)
+perl-generators

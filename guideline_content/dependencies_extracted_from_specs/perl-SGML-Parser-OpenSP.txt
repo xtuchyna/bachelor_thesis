@@ -1,0 +1,8 @@
+opensp-devel
+perl(Class::Accessor)
+perl(ExtUtils::MakeMaker)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Pod)
+perl-devel
+perl-generators

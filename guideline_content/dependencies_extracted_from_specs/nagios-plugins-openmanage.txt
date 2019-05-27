@@ -1,0 +1,4 @@
+docbook-style-xsl
+libxml2
+libxslt
+perl-generators

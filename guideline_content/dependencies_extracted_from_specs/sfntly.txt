@@ -1,0 +1,8 @@
+ant
+ant-junit
+beust-jcommander
+icu4j
+icu4j-charset
+java-devel
+jpackage-utils
+junit

@@ -1,0 +1,6 @@
+cmake(KF5GAPI)
+cmake(KF5I18n)
+cmake(KF5KIO)
+cmake(Qt5Keychain)
+desktop-file-utils
+extra-cmake-modules

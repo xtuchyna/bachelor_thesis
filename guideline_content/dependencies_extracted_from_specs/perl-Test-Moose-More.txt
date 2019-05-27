@@ -1,0 +1,31 @@
+make
+perl(Carp)
+perl(Data::OptList)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(List::MoreUtils)
+perl(List::Util) >= 1.45
+perl(Moose)
+perl(Moose::Deprecated)
+perl(Moose::Meta::Attribute)
+perl(Moose::Role)
+perl(Moose::Util)
+perl(Moose::Util::MetaRole)
+perl(Moose::Util::TypeConstraints)
+perl(Scalar::Util)
+perl(Sub::Exporter::Progressive)
+perl(Syntax::Keyword::Junction)
+perl(TAP::SimpleOutput) >= 0.009
+perl(Test::Builder)
+perl(Test::Builder::Tester)
+perl(Test::CheckDeps) >= 0.010
+perl(Test::Moose)
+perl(Test::More) >= 0.94
+perl(blib)
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

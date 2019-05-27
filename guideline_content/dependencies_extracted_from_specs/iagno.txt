@@ -1,0 +1,8 @@
+desktop-file-utils
+glib2-devel
+gtk3-devel
+intltool
+itstool
+libappstream-glib
+libcanberra-devel
+librsvg2-devel

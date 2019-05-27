@@ -1,0 +1,11 @@
+SDL_image-devel
+SDL_net-devel
+SDL_ttf-devel
+boost-devel
+desktop-file-utils
+libvorbis-devel
+portaudio-devel
+python
+scons
+speex-devel
+zlib-devel

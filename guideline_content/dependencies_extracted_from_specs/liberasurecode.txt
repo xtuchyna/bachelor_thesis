@@ -1,0 +1,9 @@
+autoconf
+automake
+coreutils
+doxygen
+findutils
+gcc
+libtool
+make
+sed

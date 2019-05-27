@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(activemodel) >= 5.0
+rubygem(activemodel-serializers-xml)
+rubygem(activesupport) >= 5.0
+rubygem(bundler)
+rubygem(mocha)
+rubygems-devel

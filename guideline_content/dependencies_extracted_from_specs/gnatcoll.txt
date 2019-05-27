@@ -1,0 +1,13 @@
+GtkAda3-devel
+autoconf
+chrpath
+fedora-gnat-project-common >= 2
+gcc-gnat
+gmp-devel
+gprbuild >= 2017
+libgpr-devel
+postgresql-devel
+pygtk2-devel
+readline-devel
+sqlite-devel
+xmlada-devel

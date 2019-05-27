@@ -1,0 +1,11 @@
+cairo-devel
+compiz-bcop >= 0.8.14
+compiz-devel >= 0.8.14
+gettext-devel
+intltool
+libXrender-devel
+libjpeg-devel
+libtool
+mesa-libGLU-devel
+pango-devel
+perl(XML::Parser)

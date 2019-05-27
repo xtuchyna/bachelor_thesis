@@ -1,0 +1,16 @@
+/usr/bin/valac
+/usr/bin/waf-3
+desktop-file-utils
+gcc
+gobject-introspection-devel
+libappstream-glib
+pkgconfig(dioriteglib4) >= 4.9.0
+pkgconfig(gstreamer-1.0)
+pkgconfig(json-glib-1.0)
+pkgconfig(libnotify)
+pkgconfig(libsecret-1)
+pkgconfig(libsoup-2.4)
+pkgconfig(sqlite3)
+pkgconfig(uuid)
+pkgconfig(webkit2gtk-4.0)
+python3-pyparsing

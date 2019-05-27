@@ -1,0 +1,5 @@
+SDL-devel
+alsa-lib-devel
+desktop-file-utils
+libappstream-glib
+pulseaudio-libs-devel

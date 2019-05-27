@@ -1,0 +1,5 @@
+desktop-file-utils
+dssi-devel
+fftw-devel
+gtk2-devel
+liblo-devel

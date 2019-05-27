@@ -1,0 +1,17 @@
+OCE-devel
+boost-devel
+cmake
+dos2unix
+doxygen
+f2c
+f2c-devel
+freeimage-devel
+freetype-devel
+gcc-c++
+gcc-gfortran
+graphviz
+libSM-devel
+libX11-devel
+libXext-devel
+mesa-libGLU-devel
+tbb-devel

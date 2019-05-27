@@ -1,0 +1,8 @@
+/usr/bin/2to3
+coreutils
+findutils
+gcc
+gmp-devel >= 4.1
+libtomcrypt-devel >= 1.16
+python2-devel >= 2.4
+python3-devel

@@ -1,0 +1,5 @@
+ant
+javapackages-local
+mvn(org.scala-lang:scala-compiler)
+mvn(org.scala-lang:scala-library)
+sbt

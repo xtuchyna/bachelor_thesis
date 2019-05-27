@@ -1,0 +1,4 @@
+cmake
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Qml)
+pkgconfig(dconf)

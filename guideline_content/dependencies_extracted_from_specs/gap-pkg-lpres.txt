@@ -1,0 +1,8 @@
+gap-devel
+gap-pkg-ace
+gap-pkg-ace-doc
+gap-pkg-autodoc
+gap-pkg-autpgrp
+gap-pkg-fga
+gap-pkg-nq
+gap-pkg-polycyclic

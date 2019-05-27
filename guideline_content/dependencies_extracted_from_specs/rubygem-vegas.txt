@@ -1,0 +1,7 @@
+ruby(release)
+rubygem(bacon)
+rubygem(minitest)
+rubygem(mocha)
+rubygem(sinatra)
+rubygem(thin)
+rubygems-devel

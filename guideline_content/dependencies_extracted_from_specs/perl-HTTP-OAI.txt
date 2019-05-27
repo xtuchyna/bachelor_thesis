@@ -1,0 +1,38 @@
+coreutils
+glibc-common
+perl(CGI)
+perl(Carp)
+perl(Data::Dumper)
+perl(Encode) >= 2.12
+perl(Exporter)
+perl(HTTP::Headers)
+perl(HTTP::Request)
+perl(HTTP::Response)
+perl(IO::File)
+perl(LWP::MemberMixin)
+perl(LWP::UserAgent)
+perl(Module::Build::Tiny) >= 0.034
+perl(POSIX)
+perl(Test)
+perl(Test::More)
+perl(URI)
+perl(XML::LibXML) >= 1.6
+perl(XML::LibXML::SAX) >= 1.04
+perl(XML::LibXML::SAX::Builder)
+perl(XML::LibXML::SAX::Parser)
+perl(XML::LibXML::XPathContext)
+perl(XML::NamespaceSupport)
+perl(XML::SAX)
+perl(XML::SAX::Base) >= 1
+perl(XML::SAX::ParserFactory)
+perl(XML::SAX::Writer)
+perl(base)
+perl(bytes)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

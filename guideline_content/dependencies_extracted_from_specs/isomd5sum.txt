@@ -1,0 +1,4 @@
+gcc
+popt-devel
+python2-devel
+python3-devel

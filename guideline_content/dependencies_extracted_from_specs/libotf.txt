@@ -1,0 +1,4 @@
+chrpath
+freetype-devel
+gcc
+libXaw-devel

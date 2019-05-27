@@ -1,0 +1,4 @@
+pycairo
+python2-devel
+python3-cairo
+python3-devel

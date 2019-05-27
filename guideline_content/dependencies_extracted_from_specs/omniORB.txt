@@ -1,0 +1,5 @@
+byacc
+gcc-c++
+make
+openssl-devel
+python3-devel

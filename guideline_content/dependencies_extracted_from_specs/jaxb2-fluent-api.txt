@@ -1,0 +1,4 @@
+maven-enforcer-plugin
+maven-local
+mvn(org.glassfish.jaxb:jaxb-xjc)
+mvn(org.sonatype.oss:oss-parent:pom:)

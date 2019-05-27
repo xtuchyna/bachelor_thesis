@@ -1,0 +1,5 @@
+cairo-devel >= 1.4.0
+gettext
+gobject-introspection-devel
+gtk3-devel >= 2.91.3
+pkgconfig

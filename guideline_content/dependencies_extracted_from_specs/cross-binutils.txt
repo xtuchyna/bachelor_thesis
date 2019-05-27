@@ -1,0 +1,11 @@
+/usr/bin/pod2man
+bison
+coreutils
+findutils
+flex
+gcc
+gettext
+perl
+sed
+texinfo >= 4.0
+zlib-devel

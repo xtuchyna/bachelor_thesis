@@ -1,0 +1,21 @@
+coreutils
+findutils
+gcc
+make
+perl(B::Hooks::OP::Check) >= 0.19
+perl(B::Utils) >= 0.19
+perl(DynaLoader)
+perl(ExtUtils::Depends)
+perl(Module::Install::Makefile)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Scalar::Util)
+perl(Test::More)
+perl(inc::Module::Install)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

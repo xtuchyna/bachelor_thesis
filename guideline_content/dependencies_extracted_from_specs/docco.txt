@@ -1,0 +1,9 @@
+coffee-script
+nodejs-packaging
+npm(commander)
+npm(fs-extra)
+npm(highlight.js)
+npm(jsonfile)
+npm(marked)
+npm(underscore)
+python-pygments

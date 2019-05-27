@@ -1,0 +1,6 @@
+autoconf
+automake
+cups-devel
+doxygen
+libtool
+pango-devel

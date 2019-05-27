@@ -1,0 +1,2 @@
+kdegames3-devel >= 3.5.10
+kdelibs3-devel >= 3.5.10

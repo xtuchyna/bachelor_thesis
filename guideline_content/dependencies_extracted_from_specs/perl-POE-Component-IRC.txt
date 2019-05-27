@@ -1,0 +1,49 @@
+coreutils
+make
+perl(:VERSION) >= 5.8.1
+perl(Carp)
+perl(Crypt::PasswdMD5)
+perl(Data::Dumper)
+perl(Digest::MD5)
+perl(Encode::Guess)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Glob)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(IO::Handle)
+perl(IRC::Utils) >= 0.12
+perl(List::Util) >= 1.33
+perl(POE) >= 1.311
+perl(POE::Component::Client::DNS) >= 0.99
+perl(POE::Component::Client::Ident::Agent)
+perl(POE::Component::Syndicator)
+perl(POE::Driver::SysRW)
+perl(POE::Filter)
+perl(POE::Filter::IRCD) >= 2.42
+perl(POE::Filter::Line)
+perl(POE::Filter::Stackable)
+perl(POE::Filter::Stream)
+perl(POE::Filter::Zlib::Stream) >= 1.96
+perl(POE::Wheel::FollowTail)
+perl(POE::Wheel::ReadWrite)
+perl(POE::Wheel::SocketFactory)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Socket)
+perl(Socket6)
+perl(Socket::GetAddrInfo)
+perl(Test::Differences) >= 0.61
+perl(Test::More) >= 0.47
+perl(base)
+perl(constant)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

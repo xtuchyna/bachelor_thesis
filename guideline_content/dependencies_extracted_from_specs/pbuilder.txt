@@ -1,0 +1,5 @@
+dblatex
+dpkg-dev
+make
+man-db
+python2

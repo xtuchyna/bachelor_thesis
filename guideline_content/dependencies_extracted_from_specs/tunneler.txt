@@ -1,0 +1,4 @@
+SDL-devel
+autoconf
+automake
+desktop-file-utils

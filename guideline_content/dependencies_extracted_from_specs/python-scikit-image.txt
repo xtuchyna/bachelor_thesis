@@ -1,0 +1,21 @@
+numpy
+python-matplotlib
+python-networkx-core
+python-nose
+python-pillow
+python-setuptools
+python-six >= 1.3
+python2-devel
+python2-pywt
+python3-devel
+python3-matplotlib
+python3-networkx-core
+python3-nose
+python3-numpy
+python3-pillow
+python3-pywt
+python3-scipy
+python3-setuptools
+python3-six >= 1.3
+scipy
+xorg-x11-server-Xvfb

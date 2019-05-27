@@ -1,0 +1,3 @@
+lzo-devel
+xz-devel
+zlib-devel

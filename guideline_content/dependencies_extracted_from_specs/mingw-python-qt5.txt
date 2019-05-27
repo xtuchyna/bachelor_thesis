@@ -1,0 +1,34 @@
+mingw32-filesystem >= 102
+mingw32-gcc-c++
+mingw32-python2
+mingw32-qt5-qtbase >= 5.10.1
+mingw32-qt5-qtlocation >= 5.10.1
+mingw32-qt5-qtmultimedia >= 5.10.1
+mingw32-qt5-qtsensors >= 5.10.1
+mingw32-qt5-qtsvg >= 5.10.1
+mingw32-qt5-qttools >= 5.10.1
+mingw32-qt5-qtwebkit
+mingw32-qt5-qtxmlpatterns >= 5.10.1
+mingw32-sip
+mingw64-filesystem >= 102
+mingw64-gcc-c++
+mingw64-python2
+mingw64-qt5-qtbase >= 5.10.1
+mingw64-qt5-qtlocation >= 5.10.1
+mingw64-qt5-qtmultimedia >= 5.10.1
+mingw64-qt5-qtsensors >= 5.10.1
+mingw64-qt5-qtsvg >= 5.10.1
+mingw64-qt5-qttools >= 5.10.1
+mingw64-qt5-qtwebkit
+mingw64-qt5-qtxmlpatterns >= 5.10.1
+mingw64-sip
+python2-devel
+qt5-qtbase-devel >= 5.10.1
+qt5-qtlocation-devel >= 5.10.1
+qt5-qtmultimedia-devel >= 5.10.1
+qt5-qtsensors-devel >= 5.10.1
+qt5-qtsvg-devel >= 5.10.1
+qt5-qttools-devel >= 5.10.1
+qt5-qtwebkit-devel
+qt5-qtxmlpatterns-devel >= 5.10.1
+sip-devel

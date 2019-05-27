@@ -1,0 +1,9 @@
+autoconf
+autoconf-archive
+automake
+gettext
+glib2-devel >= 2.4
+libmpdclient-devel > 2.5
+lirc-devel
+ncurses-devel
+ruby-devel

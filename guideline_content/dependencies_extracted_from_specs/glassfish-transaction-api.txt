@@ -1,0 +1,7 @@
+maven-local
+mvn(javax.enterprise:cdi-api)
+mvn(net.java:jvnet-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-remote-resources-plugin)
+mvn(org.glassfish.build:spec-version-maven-plugin)
+mvn(org.glassfish:legal)

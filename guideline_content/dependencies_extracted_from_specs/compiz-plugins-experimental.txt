@@ -1,0 +1,9 @@
+compiz-bcop >= 0.8.14
+compiz-plugins-extra-devel >= 0.8.14
+compiz-plugins-main-devel >= 0.8.14
+intltool
+libXScrnSaver-devel
+libtool
+mesa-libGL-devel
+mesa-libGLU-devel
+perl(XML::Parser)

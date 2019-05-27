@@ -1,0 +1,15 @@
+python-jsonschema
+python-openstackdocstheme >= 1.11.0
+python-oslo-sphinx
+python-setuptools
+python-sphinx
+python-sushy >= 0.1.0
+python2-devel
+python2-pbr >= 2.0
+python2-sushy-tests >= 0.1.0
+python3-devel
+python3-jsonschema
+python3-pbr >= 2.0
+python3-setuptools
+python3-sushy >= 0.1.0
+python3-sushy-tests >= 0.1.0

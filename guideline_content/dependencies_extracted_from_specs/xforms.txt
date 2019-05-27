@@ -1,0 +1,8 @@
+ImageMagick
+libGL-devel
+libX11-devel
+libXpm-devel
+libjpeg-devel
+texi2html
+texinfo
+texinfo-tex

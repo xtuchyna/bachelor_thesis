@@ -1,0 +1,52 @@
+coreutils
+perl(Archive::Tar)
+perl(Archive::Zip)
+perl(AutoSplit)
+perl(CPAN::Meta) >= 2.142060
+perl(CPAN::Meta::Converter) >= 2.141170
+perl(CPAN::Meta::Merge)
+perl(CPAN::Meta::YAML) >= 0.003
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::CBuilder) >= 0.27
+perl(ExtUtils::Install) >= 0.3
+perl(ExtUtils::Installed)
+perl(ExtUtils::Manifest) >= 1.54
+perl(ExtUtils::Mkbootstrap)
+perl(ExtUtils::Packlist)
+perl(ExtUtils::ParseXS) >= 2.21
+perl(File::Basename)
+perl(File::Compare)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Path)
+perl(File::ShareDir) >= 1.00
+perl(File::Spec) >= 0.82
+perl(File::Spec::Functions)
+perl(File::Temp) >= 0.15
+perl(Getopt::Long)
+perl(Module::Metadata) >= 1.000002
+perl(PAR::Dist)
+perl(Parse::CPAN::Meta) >= 1.4401
+perl(Perl::OSType) >= 1
+perl(Pod::Readme)
+perl(TAP::Harness)
+perl(TAP::Harness::Env)
+perl(Test::Harness) >= 3.29
+perl(Test::More) >= 0.49
+perl(Text::ParseWords)
+perl(base)
+perl(inc::latest)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(version) >= 0.87
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

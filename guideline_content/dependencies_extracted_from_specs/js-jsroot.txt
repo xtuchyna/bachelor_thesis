@@ -1,0 +1,4 @@
+closure-compiler
+uglify-js
+web-assets-devel
+yuicompressor

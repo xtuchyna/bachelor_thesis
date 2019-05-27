@@ -1,0 +1,5 @@
+perl(AnyEvent) >= 5.33
+perl(ExtUtils::MakeMaker)
+perl(common::sense)
+perl-generators
+perl-interpreter

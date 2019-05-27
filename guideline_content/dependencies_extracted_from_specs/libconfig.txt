@@ -1,0 +1,6 @@
+bison
+flex
+tex(cm-super-t1.enc)
+tex(ecbx1095.tfm)
+tex(ecrm1095.tfm)
+texinfo-tex

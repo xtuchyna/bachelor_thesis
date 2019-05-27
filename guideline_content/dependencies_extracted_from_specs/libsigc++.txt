@@ -1,0 +1,4 @@
+docbook-style-xsl
+doxygen
+libxslt
+m4

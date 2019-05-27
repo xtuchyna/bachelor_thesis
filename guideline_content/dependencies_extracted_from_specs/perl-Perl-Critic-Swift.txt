@@ -1,0 +1,16 @@
+perl(English)
+perl(File::Spec)
+perl(List::MoreUtils) >= 0.21
+perl(Module::Build)
+perl(Perl::Critic::Policy) >= 1.082
+perl(Perl::Critic::TestUtils) >= 1.082
+perl(Perl::Critic::Utils) >= 1.082
+perl(Test::More)
+perl(Test::Perl::Critic) >= 1.01
+perl(base)
+perl(strict)
+perl(utf8)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

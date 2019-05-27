@@ -1,0 +1,36 @@
+/usr/bin/pod2html
+/usr/bin/pod2man
+autoconf
+automake
+gettext-devel
+gnupg2
+libtool
+libxml2-devel
+ocaml
+ocaml-findlib-devel
+perl(Carp)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IO::Scalar)
+perl(IO::Stringy)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(XSLoader)
+perl(bytes)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+python2-devel
+python3-devel
+readline-devel
+ruby-devel
+rubygem(json)
+rubygem(minitest)
+rubygem(rdoc)
+rubygem-rake

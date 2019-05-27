@@ -1,0 +1,6 @@
+automake
+boost-devel
+desktop-file-utils
+gcc-c++
+libtool
+qt-devel

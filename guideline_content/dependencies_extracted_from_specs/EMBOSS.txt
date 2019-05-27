@@ -1,0 +1,11 @@
+autoconf
+expat-devel
+gd-devel
+libharu-devel
+libtool
+mariadb-connector-c-devel
+openssl-devel
+pam-devel
+pcre-devel
+postgresql-devel
+zlib-devel

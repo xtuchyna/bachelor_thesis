@@ -1,0 +1,15 @@
+autoconf
+automake
+bzip2-devel
+desktop-file-utils
+gpm-devel
+libX11-devel
+libXt-devel
+libevent-devel
+libjpeg-devel
+libpng-devel
+librsvg2-devel
+libtiff-devel
+openssl-devel
+svgalib-devel
+zlib-devel

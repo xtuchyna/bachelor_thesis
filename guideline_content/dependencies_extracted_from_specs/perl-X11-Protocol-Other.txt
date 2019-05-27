@@ -1,0 +1,24 @@
+coreutils
+findutils
+make
+perl(:VERSION) >= 5.4
+perl(Carp)
+perl(Encode) >= 1
+perl(Encode::Encoding)
+perl(Encode::HanExtra) >= 0.06
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IO::Select)
+perl(IPC::SysV)
+perl(Math::BigInt)
+perl(Scalar::Util)
+perl(Sys::Hostname)
+perl(Test)
+perl(X11::Protocol)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

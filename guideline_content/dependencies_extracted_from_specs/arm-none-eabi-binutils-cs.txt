@@ -1,0 +1,7 @@
+bison
+cloog
+flex
+perl-podlators
+ppl-devel
+texinfo
+texinfo-tex

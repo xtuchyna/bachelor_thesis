@@ -1,0 +1,8 @@
+compiz-bcop >= 0.8.14
+compiz-devel >= 0.8.14
+gettext
+intltool
+libX11-devel
+mesa-libGL-devel
+perl(XML::Parser)
+protobuf-devel

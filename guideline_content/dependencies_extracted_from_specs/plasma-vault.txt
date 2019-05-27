@@ -1,0 +1,13 @@
+cmake(KF5Activities)
+cmake(KF5Config)
+cmake(KF5ConfigWidgets)
+cmake(KF5CoreAddons)
+cmake(KF5DBusAddons)
+cmake(KF5I18n)
+cmake(KF5IconThemes)
+cmake(KF5KIO)
+cmake(KF5Plasma)
+cmake(KF5SysGuard)
+cmake(Qt5Quick)
+extra-cmake-modules
+kf5-rpm-macros

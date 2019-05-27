@@ -1,0 +1,9 @@
+python2-devel
+python2-jsonpatch
+python2-jsonschema
+python2-setuptools
+python3-devel
+python3-jsonpatch
+python3-jsonschema
+python3-setuptools
+python3-six

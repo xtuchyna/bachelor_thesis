@@ -1,0 +1,9 @@
+python-BeautifulSoup
+python-genshi
+python-mako
+python-setuptools
+python-sqlalchemy
+python-tw2-core
+python-tw2-jquery
+python-tw2-sqla
+python2-devel

@@ -1,0 +1,7 @@
+php(language) >= 5.4.0
+php-composer(fedora/autoloader)
+php-composer(phpoption/phpoption) < 2.0
+php-composer(phpoption/phpoption) >= 1.5.0
+php-composer(phpunit/phpunit)
+php-date
+php-spl

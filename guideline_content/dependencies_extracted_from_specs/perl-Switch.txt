@@ -1,0 +1,9 @@
+perl(ExtUtils::MakeMaker)
+perl(Filter::Util::Call)
+perl(Text::Balanced)
+perl(if)
+perl(overload)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

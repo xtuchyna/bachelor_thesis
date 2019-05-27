@@ -1,0 +1,6 @@
+boost-devel
+cmake
+dos2unix
+ogre-devel
+ois-devel
+unar

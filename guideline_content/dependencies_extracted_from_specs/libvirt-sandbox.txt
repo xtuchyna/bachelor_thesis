@@ -1,0 +1,11 @@
+/usr/bin/pod2man
+glib2-devel >= 2.32.0
+glibc-static
+gobject-introspection-devel
+intltool
+libselinux-devel
+libvirt-gobject-devel >= 0.2.1
+xz-devel >= 5.0.0
+xz-static
+zlib-devel >= 1.2.0
+zlib-static

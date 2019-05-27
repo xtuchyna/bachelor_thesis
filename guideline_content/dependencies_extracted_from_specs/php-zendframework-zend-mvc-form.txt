@@ -1,0 +1,5 @@
+php-autoloader(zendframework/zend-code) >= 2.6.3
+php-autoloader(zendframework/zend-form) >= 2.8.4
+php-autoloader(zendframework/zend-i18n) >= 2.7.2
+php-autoloader(zendframework/zend-servicemanager)
+php-cli

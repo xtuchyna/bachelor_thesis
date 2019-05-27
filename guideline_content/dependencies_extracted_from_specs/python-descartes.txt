@@ -1,0 +1,8 @@
+python2-devel
+python2-matplotlib
+python2-numpy
+python2-shapely
+python3-devel
+python3-matplotlib
+python3-numpy
+python3-shapely

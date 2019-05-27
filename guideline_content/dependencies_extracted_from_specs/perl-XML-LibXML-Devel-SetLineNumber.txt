@@ -1,0 +1,16 @@
+findutils
+gcc
+make
+perl(:VERSION) >= 5.8.3
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(Test::More) >= 0.47
+perl(XML::LibXML) >= 1.90
+perl(XML::LibXML::Devel)
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig(libxml-2.0)

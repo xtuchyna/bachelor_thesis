@@ -1,0 +1,12 @@
+bison
+flex
+gcc-c++
+git-core
+make
+pkgconfig(geoip)
+pkgconfig(libcurl)
+pkgconfig(libpcre)
+pkgconfig(libxml-2.0)
+pkgconfig(lmdb)
+pkgconfig(yajl)
+ssdeep-devel

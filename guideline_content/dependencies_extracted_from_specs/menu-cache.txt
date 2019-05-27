@@ -1,0 +1,2 @@
+pkgconfig(glib-2.0)
+pkgconfig(libfm-extra)

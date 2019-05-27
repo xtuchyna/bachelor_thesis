@@ -1,0 +1,4 @@
+nodejs-devel
+nodejs-packaging
+npm(dezalgo)
+npm(npm-package-arg)

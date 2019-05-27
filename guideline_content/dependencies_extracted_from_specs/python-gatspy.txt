@@ -1,0 +1,8 @@
+python2-astroML
+python2-devel
+python2-nose
+python2-supersmoother
+python3-astroML
+python3-devel
+python3-nose
+python3-supersmoother

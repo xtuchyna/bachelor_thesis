@@ -1,0 +1,5 @@
+compat-lua >= 5.1
+compat-lua-devel >= 5.1
+expat-devel
+lua >= 5.3
+lua-devel >= 5.3

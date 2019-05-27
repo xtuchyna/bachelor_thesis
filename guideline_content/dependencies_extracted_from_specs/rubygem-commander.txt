@@ -1,0 +1,3 @@
+rubygem(highline)
+rubygem(rspec)
+rubygems-devel

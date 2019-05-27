@@ -1,0 +1,9 @@
+/usr/bin/cmake
+git
+ruby(release)
+ruby-devel
+rubygem(builder)
+rubygem(json)
+rubygem(minitest) < 5
+rubygem(rake)
+rubygem(rdoc)

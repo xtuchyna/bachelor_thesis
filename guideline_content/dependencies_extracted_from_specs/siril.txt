@@ -1,0 +1,17 @@
+autoconf
+automake
+curl-devel
+desktop-file-utils
+giflib-devel
+intltool
+libappstream-glib
+pkgconfig(cfitsio)
+pkgconfig(fftw3)
+pkgconfig(gsl)
+pkgconfig(gtk+-3.0)
+pkgconfig(libconfig)
+pkgconfig(libjpeg)
+pkgconfig(libpng)
+pkgconfig(libraw)
+pkgconfig(libtiff-4)
+pkgconfig(opencv)

@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(mkdirp)
+npm(npmlog)
+npm(rimraf)
+npm(semver)
+npm(tap)

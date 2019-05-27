@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(Filter::Util::Call)
+perl(Scalar::Util)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

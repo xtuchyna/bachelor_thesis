@@ -1,0 +1,3 @@
+eclipse-cdt
+maven-local
+tycho

@@ -1,0 +1,6 @@
+git
+gnu-efi = 3.0w
+gnu-efi-devel = 3.0w
+openssl
+openssl-devel
+pesign >= 0.106-1

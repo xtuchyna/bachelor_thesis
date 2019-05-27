@@ -1,0 +1,9 @@
+PyQt4-devel
+desktop-file-utils
+python-qt5-devel
+python3-PyQt4-devel
+python3-qt5-devel
+python3-sip
+qt4-devel
+qt5-qtbase-devel
+sip

@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(activesupport)
+rubygem(minitest)
+rubygem(net-ldap) >= 0.8.0
+rubygems-devel

@@ -1,0 +1,23 @@
+dbus-glib-devel >= 0.7.2
+desktop-file-utils
+gettext
+glib2-devel >= 2.15.6
+gobject-introspection-devel
+gstreamer1-devel >= 0.11.92
+gstreamer1-plugins-base-devel >= 0.11.92
+gtk-doc
+gtk3-devel >= 2.99.0
+intltool
+itstool
+libSM-devel
+libappstream-glib
+libburn-devel >= 0.4.0
+libcanberra-devel
+libisofs-devel >= 0.6.4
+libnotify-devel >= 0.7.0
+libxml2-devel >= 2.6.0
+libxslt
+nautilus-devel >= 2.22.2
+totem-pl-parser-devel >= 2.22.0
+tracker-devel
+yelp-tools

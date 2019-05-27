@@ -1,0 +1,4 @@
+python-nose
+python-setuptools
+python-webtest
+python2-devel

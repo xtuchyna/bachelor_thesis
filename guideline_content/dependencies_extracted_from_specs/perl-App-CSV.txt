@@ -1,0 +1,16 @@
+perl(ExtUtils::MakeMaker)
+perl(Getopt::Long)
+perl(IO::Handle)
+perl(IO::String)
+perl(IPC::Run)
+perl(Moose)
+perl(MooseX::Getopt)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::TempDir)
+perl(Text::CSV)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.006000

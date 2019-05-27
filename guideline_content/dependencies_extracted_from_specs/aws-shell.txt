@@ -1,0 +1,8 @@
+awscli
+python3-boto3
+python3-configobj
+python3-devel
+python3-prompt_toolkit
+python3-pygments
+python3-setuptools
+python3-tox

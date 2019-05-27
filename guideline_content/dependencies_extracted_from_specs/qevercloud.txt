@@ -1,0 +1,8 @@
+cmake
+cmake(Qt5Core)
+cmake(Qt5Network)
+cmake(Qt5WebEngineCore)
+cmake(Qt5WebEngineWidgets)
+cmake(Qt5Widgets)
+doxygen
+qt5-doctools

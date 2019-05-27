@@ -1,0 +1,27 @@
+perl(CPAN::Meta) >= 2.120900
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(List::Util)
+perl(Pod::Coverage::TrustPod)
+perl(Software::License)
+perl(Test::CPAN::Meta::JSON)
+perl(Test::CheckDeps) >= 0.010
+perl(Test::DistManifest)
+perl(Test::EOL)
+perl(Test::MinimumVersion)
+perl(Test::Mojibake)
+perl(Test::More) >= 0.96
+perl(Test::NoTabs)
+perl(Test::Pod) >= 1.41
+perl(Test::Pod::Coverage) >= 1.08
+perl(Test::Portability::Files)
+perl(Test::Synopsis)
+perl(Test::Vars)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

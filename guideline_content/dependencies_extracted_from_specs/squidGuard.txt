@@ -1,0 +1,6 @@
+bison
+byacc
+flex
+libdb-devel
+openldap-devel
+perl-generators

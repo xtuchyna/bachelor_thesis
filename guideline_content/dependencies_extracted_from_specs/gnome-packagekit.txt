@@ -1,0 +1,20 @@
+PackageKit-devel >= 0.5.0
+cairo-devel
+desktop-file-utils
+docbook-utils
+fontconfig-devel
+gettext
+glib2-devel >= 2.25.8
+gtk3-devel
+itstool
+libappstream-glib
+libcanberra-devel
+libgudev1-devel
+libnotify-devel >= 0.7.0
+libtool
+libxslt
+meson
+polkit-devel
+startup-notification-devel
+systemd-devel
+xorg-x11-proto-devel

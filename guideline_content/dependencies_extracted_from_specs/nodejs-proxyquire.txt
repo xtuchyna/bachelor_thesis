@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(fill-keys)
+npm(mocha)
+npm(module-not-found-error)
+npm(resolve)
+npm(should)

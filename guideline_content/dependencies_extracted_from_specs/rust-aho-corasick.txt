@@ -1,0 +1,2 @@
+(crate(memchr) >= 2.0.0 with crate(memchr) < 3.0.0)
+rust-packaging

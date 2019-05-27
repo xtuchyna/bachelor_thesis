@@ -1,0 +1,7 @@
+desktop-file-utils
+gettext
+intltool
+itstool
+libappstream-glib
+perl(XML::Parser)
+python3-devel

@@ -1,0 +1,8 @@
+nodejs-packaging
+npm(async)
+npm(globule)
+npm(grunt)
+npm(grunt-cli)
+npm(grunt-contrib-nodeunit)
+npm(nodeunit)
+npm(rimraf)

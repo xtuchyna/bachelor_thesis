@@ -1,0 +1,7 @@
+bison
+check-devel
+flex
+flex-static
+gcc
+pkgconfig
+systemd

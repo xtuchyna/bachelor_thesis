@@ -1,0 +1,13 @@
+R-Biobase >= 2.5.5
+R-BiocGenerics >= 0.1.12
+R-affyio
+R-devel >= 3.4.0
+R-grDevices
+R-graphics
+R-methods
+R-preprocessCore-devel
+R-stats
+R-tkWidgets
+R-utils
+tex(latex)
+zlib-devel

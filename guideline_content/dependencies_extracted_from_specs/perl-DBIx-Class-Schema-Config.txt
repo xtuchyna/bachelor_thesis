@@ -1,0 +1,20 @@
+perl(Config::Any) >= 0.23
+perl(DBD::SQLite)
+perl(DBI)
+perl(DBIx::Class) >= 0.08100
+perl(DBIx::Class::Schema)
+perl(Data::Dumper)
+perl(File::HomeDir)
+perl(Hash::Merge)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Storable)
+perl(Test::More)
+perl(base)
+perl(inc::Module::Install)
+perl(lib)
+perl(namespace::clean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

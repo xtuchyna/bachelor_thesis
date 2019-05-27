@@ -1,0 +1,15 @@
+perl(Config)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.52
+perl(File::Spec) >= 0.82
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(Scalar::Util) >= 1.18
+perl(Test::More) >= 0.47
+perl(overload)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

@@ -1,0 +1,9 @@
+/usr/bin/python
+bison
+boost-devel
+flex
+gputils
+latex2html
+lyx
+tex(ulem.sty)
+texinfo

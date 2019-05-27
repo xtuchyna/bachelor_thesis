@@ -1,0 +1,5 @@
+SDL-devel >= 1.2.10
+flac-devel
+fluidsynth-devel
+libvorbis-devel
+mikmod-devel >= 3.1.10

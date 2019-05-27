@@ -1,0 +1,17 @@
+perl(File::Copy::Recursive)
+perl(File::DirCompare)
+perl(File::ShareDir)
+perl(HTML::Template)
+perl(Module::Build)
+perl(Module::Signature)
+perl(Module::Starter) >= 1.71
+perl(Pod::Coverage) >= 0.18
+perl(Test::Builder)
+perl(Test::MockTime)
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage)
+perl(Test::WWW::Mechanize::CGIApp)
+perl(Time::Piece)
+perl(Titanium)
+perl-generators

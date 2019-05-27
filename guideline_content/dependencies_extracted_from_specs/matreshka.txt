@@ -1,0 +1,7 @@
+chrpath
+fedora-gnat-project-common >= 3
+gcc-gnat
+gprbuild
+postgresql-devel
+sqlite-devel
+valgrind

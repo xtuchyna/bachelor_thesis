@@ -1,0 +1,9 @@
+maven-local
+mvn(com.github.jnr:jnr-constants)
+mvn(com.github.jnr:jnr-enxio) >= 0.16-3
+mvn(com.github.jnr:jnr-ffi)
+mvn(com.github.jnr:jnr-posix)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.sonatype.oss:oss-parent:pom:)

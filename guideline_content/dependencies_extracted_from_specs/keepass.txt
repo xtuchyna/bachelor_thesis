@@ -1,0 +1,10 @@
+ImageMagick
+archmage
+desktop-file-utils
+libappstream-glib
+libgdiplus-devel
+mono-devel
+mono-web
+mono-winforms
+python-devel
+xorg-x11-server-Xvfb

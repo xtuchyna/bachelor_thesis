@@ -1,0 +1,3 @@
+desktop-file-utils
+gobject-introspection-devel
+python3-devel

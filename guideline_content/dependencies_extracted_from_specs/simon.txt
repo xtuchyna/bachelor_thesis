@@ -1,0 +1,15 @@
+bison
+desktop-file-utils
+flex
+flex-static
+gcc-c++
+gettext
+kdelibs4-devel
+kdepimlibs-devel
+opencv-devel
+pkgconfig(alsa)
+pkgconfig(pocketsphinx)
+pkgconfig(qwt) >= 6
+pkgconfig(samplerate)
+pkgconfig(sphinxbase)
+qaccessibilityclient-devel

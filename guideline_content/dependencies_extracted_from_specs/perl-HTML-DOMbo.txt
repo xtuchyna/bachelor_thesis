@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(HTML::Element)
+perl(Test)
+perl(XML::DOM)
+perl(XML::Element)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

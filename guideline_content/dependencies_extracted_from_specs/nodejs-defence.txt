@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(commonmark)
+npm(glob)
+npm(tape)

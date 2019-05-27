@@ -1,0 +1,9 @@
+GAPDoc-latex
+gap-devel
+gap-pkg-atlasrep
+gap-pkg-ctbllib
+gap-pkg-io
+gcc
+ghostscript
+ncurses-devel
+netpbm-progs

@@ -1,0 +1,14 @@
+GeoIP-devel
+boost-devel >= 1.48.0
+cmake
+davix-devel >= 0.6.0
+dmlite-devel >= 0.8.0
+dmlite-private-devel >= 0.8.0
+gfal2-devel
+lfc-devel >= 1.8.8
+libmaxminddb-devel
+libmemcached-devel
+openssl-devel
+protobuf-devel
+python
+python-devel

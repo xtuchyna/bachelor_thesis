@@ -1,0 +1,15 @@
+coreutils
+findutils
+glibc-common
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(HTML::LinkExtor)
+perl(LWP::UserAgent)
+perl(MIME::Lite)
+perl(Test)
+perl(URI::URL)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

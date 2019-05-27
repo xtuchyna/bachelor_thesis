@@ -1,0 +1,11 @@
+ghc-Cabal-devel
+ghc-aeson-devel
+ghc-attoparsec-devel
+ghc-bytestring-devel
+ghc-cabal-doctest-devel
+ghc-lens-devel
+ghc-rpm-macros
+ghc-scientific-devel
+ghc-text-devel
+ghc-unordered-containers-devel
+ghc-vector-devel

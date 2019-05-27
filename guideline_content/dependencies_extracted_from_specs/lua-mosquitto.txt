@@ -1,0 +1,5 @@
+gcc
+lua >= 5.1
+lua-devel >= 5.1
+mosquitto-devel
+pkgconfig

@@ -1,0 +1,2 @@
+libX11-devel
+xorg-x11-proto-devel

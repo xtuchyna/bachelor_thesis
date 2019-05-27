@@ -1,0 +1,4 @@
+octave-devel
+octave-doctest >= 0.5.0
+python
+sympy >= 1.0

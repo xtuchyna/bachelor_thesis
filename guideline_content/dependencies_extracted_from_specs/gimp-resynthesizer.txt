@@ -1,0 +1,5 @@
+automake
+gimp
+gimp-devel
+intltool
+libappstream-glib

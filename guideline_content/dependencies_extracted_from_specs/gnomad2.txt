@@ -1,0 +1,9 @@
+desktop-file-utils
+gettext
+gtk2-devel
+intltool
+libgudev1-devel
+libid3tag-devel
+libmtp-devel
+libnjb-devel
+taglib-devel

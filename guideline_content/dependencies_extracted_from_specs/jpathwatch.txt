@@ -1,0 +1,4 @@
+ant
+gcc-c++
+javapackages-local
+make

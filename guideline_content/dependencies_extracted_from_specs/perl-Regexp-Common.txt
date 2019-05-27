@@ -1,0 +1,14 @@
+/usr/bin/make
+/usr/bin/perl
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Regexp)
+perl(overload)
+perl(re)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators

@@ -1,0 +1,4 @@
+libicu-devel
+readline-devel
+scons
+valgrind-devel

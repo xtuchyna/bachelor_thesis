@@ -1,0 +1,30 @@
+coreutils
+findutils
+gcc
+perl(:VERSION) >= 5.10
+perl(Carp) >= 1.08
+perl(Data::Dumper) >= 2.125
+perl(ExtUtils::CBuilder) >= 0.27
+perl(ExtUtils::PkgConfig) >= 1.12
+perl(Fatal)
+perl(File::Spec) >= 0.82
+perl(Getopt::Long)
+perl(Glib) >= 1.223
+perl(Glib::Install::Files)
+perl(IPC::Cmd)
+perl(List::Util) >= 1.21
+perl(Module::Build)
+perl(PPI) >= 1.206
+perl(PPI::Document)
+perl(Scalar::Util) >= 1.21
+perl(Task::Weaken)
+perl(Test::More) >= 0.94
+perl(Time::Piece)
+perl(YAML::XS)
+perl(constant)
+perl(lib)
+perl-Glib-devel
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig(glib-2.0)

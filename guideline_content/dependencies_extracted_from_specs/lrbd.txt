@@ -1,0 +1,7 @@
+python-mock
+python-netifaces
+python-nose
+python-rados
+python-rbd
+python2-devel
+systemd

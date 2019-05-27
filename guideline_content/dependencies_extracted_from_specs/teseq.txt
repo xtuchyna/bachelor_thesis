@@ -1,0 +1,4 @@
+check
+perl(Getopt::Long)
+perl(Time::HiRes)
+perl-generators

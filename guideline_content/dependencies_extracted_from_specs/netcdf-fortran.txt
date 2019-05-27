@@ -1,0 +1,8 @@
+gcc-gfortran
+libtool
+mpich-devel
+netcdf-devel >= 4.4.0
+netcdf-mpich-devel
+netcdf-openmpi-devel
+openmpi-devel
+openssh-clients

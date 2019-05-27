@@ -1,0 +1,9 @@
+autoconf
+docbook-style-dsssl
+krb5-devel
+libdbi-devel >= 0.9
+mariadb-connector-c-devel
+openjade
+openssl-devel
+postgresql-devel
+sqlite-devel

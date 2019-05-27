@@ -1,0 +1,11 @@
+docbook2X
+doxygen
+firebird-devel
+freetds-devel
+gettext
+mysql-devel
+ncurses-devel
+postgresql-devel
+readline-devel
+sqlite-devel
+sqlite2-devel

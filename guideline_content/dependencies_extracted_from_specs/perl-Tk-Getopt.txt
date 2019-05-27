@@ -1,0 +1,24 @@
+make
+perl(Carp)
+perl(Cwd)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Spec)
+perl(File::Temp)
+perl(Getopt::Long)
+perl(Safe)
+perl(Test::More)
+perl(Tk) >= 804
+perl(Tk::BrowseEntry)
+perl(Tk::CmdLine)
+perl(Tk::DirTree)
+perl(Tk::FileSelect)
+perl(Tk::Font)
+perl(Tk::Optionmenu)
+perl(Tk::Photo)
+perl(Tk::Pixmap)
+perl(Tk::Tiler)
+perl(constant)
+perl-generators
+perl-interpreter

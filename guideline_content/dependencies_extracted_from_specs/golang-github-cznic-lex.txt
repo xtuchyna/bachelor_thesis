@@ -1,0 +1,3 @@
+compiler(go-compiler)
+golang(github.com/cznic/fileutil)
+golang(github.com/cznic/lexer)

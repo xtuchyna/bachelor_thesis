@@ -1,0 +1,6 @@
+gcc
+glpk-devel
+jbuilder
+ocaml
+ocaml-cudf-devel
+ocaml-findlib-devel

@@ -1,0 +1,8 @@
+avahi-compat-libdns_sd-devel
+cmake3
+desktop-file-utils
+libX11-devel
+libXtst-devel
+libcurl-devel
+openssl-devel
+qt-devel

@@ -1,0 +1,6 @@
+bison
+cmake
+extra-cmake-modules
+flex
+kf5-rpm-macros
+qt5-qtbase-devel

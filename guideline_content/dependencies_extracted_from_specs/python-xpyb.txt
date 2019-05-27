@@ -1,0 +1,3 @@
+libxcb-devel
+python2-devel
+xcb-proto

@@ -1,0 +1,13 @@
+perl(Carp)
+perl(Cwd)
+perl(Exporter)
+perl(File::Spec)
+perl(Module::Build)
+perl(Pod::Coverage) >= 0.18
+perl(Test::Builder::Module)
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(base)
+perl(version)
+perl-generators

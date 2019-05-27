@@ -1,0 +1,6 @@
+autoconf
+automake
+libpciaccess-devel
+libtool
+lldpad-devel >= 0.9.43
+systemd

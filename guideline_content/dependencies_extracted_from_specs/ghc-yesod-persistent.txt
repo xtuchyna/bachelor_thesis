@@ -1,0 +1,10 @@
+ghc-Cabal-devel
+ghc-blaze-builder-devel
+ghc-conduit-devel
+ghc-persistent-devel
+ghc-persistent-template-devel
+ghc-resource-pool-devel
+ghc-resourcet-devel
+ghc-rpm-macros
+ghc-transformers-devel
+ghc-yesod-core-devel

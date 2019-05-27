@@ -1,0 +1,25 @@
+/usr/bin/g-ir-scanner
+autoconf
+automake
+chrpath
+cmake
+gcc-c++
+git
+gnome-common
+gperf
+gtk-doc
+libattr-devel
+libcap-devel
+libtool
+pkgconfig(check)
+pkgconfig(expat)
+pkgconfig(json-glib-1.0)
+pkgconfig(libarchive)
+pkgconfig(librepo)
+pkgconfig(libsolv)
+pkgconfig(libsystemd)
+pkgconfig(ostree-1) >= 2018.2
+pkgconfig(polkit-gobject-1)
+pkgconfig(rpm)
+python2-devel
+python2-sphinx

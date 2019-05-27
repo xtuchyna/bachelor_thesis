@@ -1,0 +1,6 @@
+cppunit-devel
+doxygen
+freeglut-devel
+freetype-devel
+libXi-devel
+libXmu-devel

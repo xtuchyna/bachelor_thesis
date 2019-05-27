@@ -1,0 +1,13 @@
+desktop-file-utils
+perl(Archive::Zip)
+perl(DBD::SQLite) >= 1.12
+perl(DBI) >= 1.40
+perl(ExtUtils::MakeMaker) >= 6.5503
+perl(HTML::Parser)
+perl(IPC::Run3)
+perl(Term::ReadLine)
+perl(Term::ReadLine::Gnu)
+perl(Test::More)
+perl-generators
+perl-interpreter
+zip

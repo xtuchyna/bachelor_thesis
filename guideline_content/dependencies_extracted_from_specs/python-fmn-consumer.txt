@@ -1,0 +1,10 @@
+fedmsg
+python-arrow
+python-bleach
+python-fmn-lib
+python-nose
+python-requests
+python-setuptools
+python2-devel
+systemd
+systemd-devel

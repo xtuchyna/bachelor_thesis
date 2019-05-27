@@ -1,0 +1,3 @@
+libconfig-devel
+libcurl-devel
+pam-devel

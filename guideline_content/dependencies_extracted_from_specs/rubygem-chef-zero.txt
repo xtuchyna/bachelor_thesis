@@ -1,0 +1,7 @@
+ruby
+ruby(release)
+rubygem(hashie)
+rubygem(mixlib-log)
+rubygem(rack)
+rubygem(rspec)
+rubygems-devel

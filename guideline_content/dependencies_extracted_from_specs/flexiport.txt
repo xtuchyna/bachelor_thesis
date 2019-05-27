@@ -1,0 +1,4 @@
+cmake
+doxygen
+graphviz
+python-sphinx

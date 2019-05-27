@@ -1,0 +1,9 @@
+garcon-devel
+gettext
+intltool
+librsvg2-devel >= 2.18
+libwnck-devel >= 2.12
+libwnck3-devel
+libxfce4ui-devel >= 4.8.0
+libxklavier-devel >= 5.0
+xfce4-panel-devel >= 4.8.0

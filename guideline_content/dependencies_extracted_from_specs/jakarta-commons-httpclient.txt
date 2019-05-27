@@ -1,0 +1,7 @@
+ant
+apache-commons-codec
+apache-commons-logging >= 1.0.3
+apache-commons-logging-javadoc
+java-javadoc
+junit
+maven-local

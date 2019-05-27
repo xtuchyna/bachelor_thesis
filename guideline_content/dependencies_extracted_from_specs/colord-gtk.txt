@@ -1,0 +1,10 @@
+colord-devel >= 0.1.23
+docbook-utils
+gettext
+glib2-devel
+gobject-introspection-devel
+gtk-doc
+gtk3-devel
+intltool
+lcms2-devel >= 2.2
+vala-tools

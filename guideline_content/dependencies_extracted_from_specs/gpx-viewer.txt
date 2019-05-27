@@ -1,0 +1,9 @@
+desktop-file-utils
+gtk2-devel
+intltool
+libchamplain-devel
+libchamplain-gtk-devel
+libgdl-devel
+libxml2-devel
+unique-devel
+vala-devel

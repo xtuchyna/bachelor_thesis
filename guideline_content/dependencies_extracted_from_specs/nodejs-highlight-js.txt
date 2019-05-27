@@ -1,0 +1,4 @@
+nodejs-packaging
+python3
+uglify-js
+web-assets-devel

@@ -1,0 +1,9 @@
+perl(Data::Dumper)
+perl(Devel::ArgNames)
+perl(Exporter)
+perl(Test::More)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

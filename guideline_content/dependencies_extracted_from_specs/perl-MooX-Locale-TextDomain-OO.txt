@@ -1,0 +1,15 @@
+make
+perl(:VERSION) >= 5.8.1
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Locale::TextDomain::OO)
+perl(Locale::TextDomain::OO::Lexicon::Hash)
+perl(Moo) >= 1.003
+perl(Moo::Role)
+perl(MooX::Locale::Passthrough)
+perl(Scalar::Util)
+perl(Test::More) >= 0.90
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

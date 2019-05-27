@@ -1,0 +1,19 @@
+coreutils
+findutils
+make
+perl(CPAN::Meta::Requirements) >= 2.120620
+perl(Carp)
+perl(Encode)
+perl(Encode::Encoding) >= 0.1
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(HTML::Entities) >= 1.27
+perl(HTML::Parser) >= 3.35
+perl(Module::Metadata)
+perl(Pod::LaTeX) >= 0.56
+perl(Test::More) >= 0.1
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

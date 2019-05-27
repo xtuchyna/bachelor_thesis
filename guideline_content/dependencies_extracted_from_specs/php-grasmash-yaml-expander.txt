@@ -1,0 +1,8 @@
+php(language) >= 5.4
+php-composer(dflydev/dot-access-data) < 2.0
+php-composer(dflydev/dot-access-data) >= 1.1.0
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(symfony/yaml) < 4.0
+php-composer(symfony/yaml) >= 2.8.11
+php-pcre

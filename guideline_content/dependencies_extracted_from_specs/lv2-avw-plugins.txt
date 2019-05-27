@@ -1,0 +1,5 @@
+gtk2-devel
+jack-audio-connection-kit-devel
+lv2-c++-tools-devel >= 1.0.4
+lv2-devel
+slv2-devel

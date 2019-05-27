@@ -1,0 +1,6 @@
+coreutils
+gcc
+pkgconfig
+pkgconfig(gdk-2.0)
+pkgconfig(gdk-pixbuf-2.0)
+sed

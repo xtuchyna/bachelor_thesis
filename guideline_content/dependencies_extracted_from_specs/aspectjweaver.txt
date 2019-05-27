@@ -1,0 +1,4 @@
+ant
+apache-commons-logging
+javapackages-local
+objectweb-asm

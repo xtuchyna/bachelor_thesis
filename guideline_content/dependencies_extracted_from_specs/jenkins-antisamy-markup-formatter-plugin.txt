@@ -1,0 +1,5 @@
+maven-local
+mvn(com.googlecode.owasp-java-html-sanitizer:owasp-java-html-sanitizer)
+mvn(org.jenkins-ci.main:jenkins-core)
+mvn(org.jenkins-ci.plugins:plugin:pom:)
+mvn(org.kohsuke:access-modifier-checker)

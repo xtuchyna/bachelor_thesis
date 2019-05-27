@@ -1,0 +1,25 @@
+coreutils
+glibc-common
+make
+perl(Archive::Zip) >= 1.3
+perl(Carp)
+perl(Date::Calc)
+perl(Date::Manip)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Temp) >= 0.19
+perl(IO::File) >= 1.14
+perl(List::Util)
+perl(Test::More)
+perl(autouse)
+perl(integer)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

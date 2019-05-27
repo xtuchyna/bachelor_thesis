@@ -1,0 +1,19 @@
+coreutils
+findutils
+make
+perl(AppConfig) >= 1.52
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Copy)
+perl(File::Spec)
+perl(File::Temp) >= 0.12
+perl(FileHandle)
+perl(IPC::Run3)
+perl(Log::Dispatch) >= 2
+perl(POSIX)
+perl(Test::More) >= 0.32
+perl(base)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

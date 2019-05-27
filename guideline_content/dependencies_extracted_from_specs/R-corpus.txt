@@ -1,0 +1,7 @@
+R-Matrix
+R-devel
+R-knitr
+R-stats
+R-testthat
+R-utf8
+tex(latex)

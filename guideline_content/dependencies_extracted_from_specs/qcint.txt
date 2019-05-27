@@ -1,0 +1,4 @@
+atlas-devel
+cmake
+numpy
+python2-devel

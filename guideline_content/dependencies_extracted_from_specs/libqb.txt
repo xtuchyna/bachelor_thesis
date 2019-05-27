@@ -1,0 +1,7 @@
+autoconf
+automake
+check-devel
+doxygen
+gcc
+libtool
+procps

@@ -1,0 +1,4 @@
+perl(Config)
+perl-generators
+perl-interpreter
+perl-podlators

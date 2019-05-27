@@ -1,0 +1,11 @@
+GConf2-devel
+chrpath
+dbus-glib-devel
+glib2-devel
+gobject-introspection-devel >= 1.36
+gtk-doc
+gtk3-devel
+libsoup-devel
+libxml2-devel
+pkgconfig
+vala >= 0.20

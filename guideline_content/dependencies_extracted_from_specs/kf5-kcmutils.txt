@@ -1,0 +1,13 @@
+extra-cmake-modules >= 5.44.0
+kf5-kconfigwidgets-devel >= 5.44.0
+kf5-kcoreaddons-devel >= 5.44.0
+kf5-kdeclarative-devel >= 5.44.0
+kf5-ki18n-devel >= 5.44.0
+kf5-kiconthemes-devel >= 5.44.0
+kf5-kitemviews-devel >= 5.44.0
+kf5-kpackage-devel >= 5.44.0
+kf5-kservice-devel >= 5.44.0
+kf5-kxmlgui-devel >= 5.44.0
+kf5-rpm-macros >= 5.44.0
+qt5-qtbase-devel
+qt5-qtdeclarative-devel

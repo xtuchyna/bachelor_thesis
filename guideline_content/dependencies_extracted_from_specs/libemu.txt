@@ -1,0 +1,9 @@
+autoconf
+automake
+gettext-devel
+git
+libdasm-devel
+libtool
+pkgconfig
+python2-devel
+python2-setuptools

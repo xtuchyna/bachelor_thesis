@@ -1,0 +1,5 @@
+bison
+elfutils-devel
+flex
+glib2-devel
+redhat-rpm-config

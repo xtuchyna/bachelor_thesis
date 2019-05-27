@@ -1,0 +1,12 @@
+perl(Class::Accessor::Chained::Fast)
+perl(ExtUtils::MakeMaker)
+perl(File::Find::Rule)
+perl(File::HomeDir)
+perl(File::stat)
+perl(HTTP::Cookies)
+perl(LWP::UserAgent)
+perl(Path::Class)
+perl(Storable)
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

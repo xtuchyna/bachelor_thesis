@@ -1,0 +1,5 @@
+SDL2-devel
+SDL2_image-devel
+SDL2_mixer-devel
+desktop-file-utils
+libappstream-glib

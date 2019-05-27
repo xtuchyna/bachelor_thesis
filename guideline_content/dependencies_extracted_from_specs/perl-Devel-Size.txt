@@ -1,0 +1,20 @@
+findutils
+gcc
+make
+perl(:VERSION) >= 5.5
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage) >= 1.08
+perl(Tie::Scalar)
+perl(XSLoader)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

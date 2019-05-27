@@ -1,0 +1,3 @@
+nodejs-packaging
+npm(arraybuffer-equal)
+npm(hex-to-array-buffer)

@@ -1,0 +1,7 @@
+ruby >= 2.2.0
+ruby(release)
+rubygem(rack-test)
+rubygem(rspec)
+rubygem(rspec-its)
+rubygem(sinatra)
+rubygems-devel

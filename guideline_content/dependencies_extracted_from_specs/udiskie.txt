@@ -1,0 +1,9 @@
+asciidoc
+gettext
+gtk3
+python3-PyYAML
+python3-devel
+python3-docopt
+python3-gobject
+python3-setuptools
+udisks2

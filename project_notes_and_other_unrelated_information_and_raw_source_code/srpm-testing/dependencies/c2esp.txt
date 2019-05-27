@@ -1,0 +1,8 @@
+cups
+cups-devel
+cups-filters-devel
+gcc
+jbigkit-devel
+python3-cups
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

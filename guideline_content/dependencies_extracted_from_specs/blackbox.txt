@@ -1,0 +1,6 @@
+autoconf
+automake
+libXext-devel
+libXft-devel
+libXt-devel
+libtool

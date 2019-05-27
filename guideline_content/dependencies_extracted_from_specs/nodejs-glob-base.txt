@@ -1,0 +1,3 @@
+nodejs-packaging
+npm(glob-parent)
+npm(is-glob)

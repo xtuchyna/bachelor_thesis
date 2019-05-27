@@ -1,0 +1,4 @@
+desktop-file-utils
+libX11-devel
+ocaml-camlp4-devel
+ocaml-labltk-devel

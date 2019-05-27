@@ -1,0 +1,5 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More) >= 0.32
+perl(base)
+perl-generators

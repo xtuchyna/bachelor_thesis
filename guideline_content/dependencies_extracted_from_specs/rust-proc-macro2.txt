@@ -1,0 +1,2 @@
+(crate(unicode-xid) >= 0.1.0 with crate(unicode-xid) < 0.2.0)
+rust-packaging

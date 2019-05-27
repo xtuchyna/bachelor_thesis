@@ -1,0 +1,8 @@
+desktop-file-utils
+gettext
+gnutls-devel
+ncurses-devel
+perl-generators
+pkgconfig
+readline-devel
+zlib-devel

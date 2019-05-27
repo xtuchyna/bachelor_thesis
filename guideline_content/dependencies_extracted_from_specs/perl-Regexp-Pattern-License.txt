@@ -1,0 +1,10 @@
+make
+perl
+perl(ExtUtils::MakeMaker)
+perl(Regexp::Pattern)
+perl(Test::Exception)
+perl(Test::More)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators

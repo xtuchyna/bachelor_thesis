@@ -1,0 +1,19 @@
+/usr/bin/pod2html
+/usr/bin/pod2man
+apr-devel >= 1
+autoconf
+automake
+expat-devel
+freetype-devel
+libart_lgpl-devel
+libconfuse-devel
+libmemcached-devel
+libpng-devel
+libtirpc-devel
+libtool
+pcre-devel
+python2-devel
+rpcgen
+rrdtool-devel
+rsync
+systemd

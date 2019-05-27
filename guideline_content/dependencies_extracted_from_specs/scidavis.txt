@@ -1,0 +1,14 @@
+PyQt4-devel
+desktop-file-utils
+doxygen
+gcc-c++
+gsl-devel
+libappstream-glib
+muParser-devel
+python2-devel
+qt-assistant-adp-devel
+qt-devel
+qwt5-qt4-devel
+qwtplot3d-qt4-devel
+sip-devel
+zlib-devel

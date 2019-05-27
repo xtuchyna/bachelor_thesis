@@ -1,0 +1,21 @@
+perl(App::Prove)
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.64
+perl(Fcntl)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(IO::Handle)
+perl(Module::Build)
+perl(Storable)
+perl(Test::Builder) >= 0.32
+perl(Test::Builder::Module)
+perl(Test::Builder::Tester)
+perl(Test::More) >= 0.88
+perl(Test::Requires)
+perl(Tie::Array)
+perl(Tie::Scalar)
+perl(Time::HiRes)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators

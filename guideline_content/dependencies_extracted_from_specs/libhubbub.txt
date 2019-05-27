@@ -1,0 +1,5 @@
+doxygen
+netsurf-buildsystem
+pkgconfig(check)
+pkgconfig(json-c)
+pkgconfig(libparserutils)

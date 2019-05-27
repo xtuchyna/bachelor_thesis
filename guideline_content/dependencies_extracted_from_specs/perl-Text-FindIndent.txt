@@ -1,0 +1,12 @@
+findutils
+make
+perl(File::Spec)
+perl(Module::Install::Metadata)
+perl(Test::More) >= 0.80
+perl(constant)
+perl(inc::Module::Install::DSL) >= 1.10
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter
+sed

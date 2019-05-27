@@ -1,0 +1,12 @@
+bison
+byacc
+checkpolicy
+flex
+gawk
+gcc
+libdbi-devel
+libtool
+libtool-ltdl-devel
+selinux-policy-devel
+systemd
+zlib-devel

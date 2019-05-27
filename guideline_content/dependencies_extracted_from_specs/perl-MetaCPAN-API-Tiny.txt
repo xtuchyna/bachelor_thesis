@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Tiny) >= 0.017
+perl(JSON::PP)
+perl(Test::More)
+perl(Test::Pod) >= 1.41
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

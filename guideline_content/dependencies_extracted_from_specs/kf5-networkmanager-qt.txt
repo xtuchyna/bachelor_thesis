@@ -1,0 +1,5 @@
+extra-cmake-modules >= 5.44.0
+kf5-rpm-macros >= 5.44.0
+pkgconfig(NetworkManager) >= 0.9.8
+pkgconfig(libnm)
+qt5-qtbase-devel

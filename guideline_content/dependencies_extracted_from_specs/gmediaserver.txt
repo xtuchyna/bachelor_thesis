@@ -1,0 +1,11 @@
+byacc
+e2fsprogs-devel
+file-devel
+flex
+gettext
+id3lib-devel
+libupnp-devel
+perl-interpreter
+pkgconfig
+systemd
+taglib-devel

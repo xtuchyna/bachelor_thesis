@@ -1,0 +1,9 @@
+cmake
+cmake(KF5Config)
+cmake(KF5CoreAddons)
+cmake(KF5GuiAddons)
+cmake(KF5WidgetsAddons)
+extra-cmake-modules
+gcc-c++
+kf5-rpm-macros
+pkgconfig

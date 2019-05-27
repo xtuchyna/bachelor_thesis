@@ -1,0 +1,15 @@
+findutils
+make
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moose)
+perl(MooseX::ClassAttribute) >= 0.25
+perl(Test::More)
+perl(inc::Module::Install)
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

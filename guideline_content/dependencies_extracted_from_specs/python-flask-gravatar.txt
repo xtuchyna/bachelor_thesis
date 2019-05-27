@@ -1,0 +1,4 @@
+python2-devel
+python2-pytest-runner
+python3-devel
+python3-pytest-runner

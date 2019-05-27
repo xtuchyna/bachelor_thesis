@@ -1,0 +1,11 @@
+/usr/bin/make
+/usr/bin/perl
+perl(ExtUtils::MakeMaker)
+perl(Scalar::Util) >= 1.18
+perl(Test::Exception) >= 0.15
+perl(Test::Memory::Cycle) >= 1.02
+perl(Test::More) >= 1.001002
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators

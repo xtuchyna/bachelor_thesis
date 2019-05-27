@@ -1,0 +1,19 @@
+desktop-file-utils
+gettext
+glib2-devel >= 2.15.3
+gnome-desktop-sharp >= 2.20.1
+gnome-desktop-sharp-devel >= 2.20.1
+gnome-keyring-sharp-devel
+gnome-sharp-devel >= 2.16.1
+gnome-terminal
+gtk-sharp2-devel >= 1.9
+gtk2-devel >= 2.12.0
+intltool
+libappindicator-sharp-devel
+libtool
+mono-data-sqlite >= 1.9
+mono-devel >= 1.9
+openssh-clients
+perl(XML::Parser)
+rdesktop
+vnc

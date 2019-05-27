@@ -1,0 +1,6 @@
+bash-completion
+gettext
+perl(Data::Dumper)
+perl(Digest::MD5)
+perl(Digest::SHA)
+pkgconfig

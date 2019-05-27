@@ -1,0 +1,7 @@
+coreutils
+gcc
+make
+ncurses-devel
+openssl-devel
+pcre-devel
+sed

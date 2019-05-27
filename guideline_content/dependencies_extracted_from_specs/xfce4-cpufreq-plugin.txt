@@ -1,0 +1,3 @@
+intltool
+libxfce4ui-devel >= 4.9
+xfce4-panel-devel >= 4.9

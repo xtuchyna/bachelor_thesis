@@ -1,0 +1,14 @@
+cantor-devel
+desktop-file-utils
+extra-cmake-modules
+fftw-devel
+gettext-devel
+gsl-devel
+hdf5-devel
+kf5-kdelibs4support-devel
+kf5-kio-devel
+kf5-knewstuff-devel
+libappstream-glib
+netcdf-devel
+qt5-qtconfiguration-devel
+qt5-qtsvg-devel

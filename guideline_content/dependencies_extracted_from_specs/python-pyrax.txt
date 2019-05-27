@@ -1,0 +1,3 @@
+python-mock
+python-setuptools
+python2-devel

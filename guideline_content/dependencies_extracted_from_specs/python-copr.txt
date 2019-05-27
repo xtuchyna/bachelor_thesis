@@ -1,0 +1,13 @@
+libxslt
+python3-devel
+python3-docutils
+python3-marshmallow
+python3-mock
+python3-pylint
+python3-pytest
+python3-requests
+python3-requests-toolbelt
+python3-setuptools
+python3-six
+python3-sphinx
+util-linux

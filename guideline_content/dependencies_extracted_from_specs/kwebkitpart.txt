@@ -1,0 +1,16 @@
+cmake(KF5Config)
+cmake(KF5CoreAddons)
+cmake(KF5I18n)
+cmake(KF5IconThemes)
+cmake(KF5KIO)
+cmake(KF5Parts)
+cmake(KF5Sonnet)
+cmake(KF5WebKit)
+cmake(Qt5DBus)
+cmake(Qt5Gui)
+cmake(Qt5PrintSupport)
+cmake(Qt5WebKitWidgets)
+cmake(Qt5Widgets)
+extra-cmake-modules
+gettext
+kf5-rpm-macros

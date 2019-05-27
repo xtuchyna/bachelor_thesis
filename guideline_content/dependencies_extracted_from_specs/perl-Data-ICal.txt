@@ -1,0 +1,18 @@
+/usr/bin/make
+/usr/bin/perl
+perl(CPAN)
+perl(Class::Accessor)
+perl(Class::ReturnValue)
+perl(ExtUtils::MakeMaker) >= 6.36
+perl(File::Remove)
+perl(MIME::QuotedPrint)
+perl(Test::LongString)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::Warn)
+perl(Text::vFile::asData)
+perl(YAML::Tiny)
+perl(inc::Module::Install)
+perl-generators

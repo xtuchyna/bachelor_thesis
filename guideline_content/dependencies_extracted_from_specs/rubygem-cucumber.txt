@@ -1,0 +1,14 @@
+js-jquery1
+ruby
+ruby(release)
+rubygem(aruba)
+rubygem(builder)
+rubygem(bundler)
+rubygem(cucumber-core)
+rubygem(cucumber-wire)
+rubygem(multi_json)
+rubygem(multi_test)
+rubygem(nokogiri)
+rubygem(rspec)
+rubygems-devel
+web-assets-devel

@@ -1,0 +1,9 @@
+cairo-devel
+docbook-style-xsl
+kernel-headers
+libpng-devel
+libxslt
+pango-devel >= 1.21.0
+pkgconfig(gtk+-3.0)
+pkgconfig(libdrm)
+pkgconfig(libudev)

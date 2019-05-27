@@ -1,0 +1,19 @@
+ant
+ant-junit
+java-devel >= 1:1.8.0
+javapackages-local
+mvn(antlr:antlr)
+mvn(bcel:bcel)
+mvn(bsf:bsf)
+mvn(com.jcraft:jsch)
+mvn(commons-logging:commons-logging-api)
+mvn(commons-net:commons-net)
+mvn(javax.mail:mail)
+mvn(jdepend:jdepend)
+mvn(junit:junit)
+mvn(log4j:log4j:1.2.13)
+mvn(org.tukaani:xz)
+mvn(oro:oro)
+mvn(regexp:regexp)
+mvn(xalan:xalan)
+mvn(xml-resolver:xml-resolver)

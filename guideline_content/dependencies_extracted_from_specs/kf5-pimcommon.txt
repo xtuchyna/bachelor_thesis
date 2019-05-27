@@ -1,0 +1,42 @@
+boost-devel
+cmake(Grantlee5)
+cmake(KF5Archive)
+cmake(KF5Codecs)
+cmake(KF5Completion)
+cmake(KF5Config)
+cmake(KF5ConfigWidgets)
+cmake(KF5CoreAddons)
+cmake(KF5DBusAddons)
+cmake(KF5I18n)
+cmake(KF5IconThemes)
+cmake(KF5ItemModels)
+cmake(KF5ItemViews)
+cmake(KF5JobWidgets)
+cmake(KF5KIO)
+cmake(KF5NewStuff)
+cmake(KF5Service)
+cmake(KF5Wallet)
+cmake(KF5WidgetsAddons)
+cmake(KF5WindowSystem)
+cmake(KF5XmlGui)
+cmake(Qt5DBus)
+cmake(Qt5Designer)
+cmake(Qt5Network)
+cmake(Qt5PrintSupport)
+cmake(Qt5Test)
+cmake(Qt5UiTools)
+cmake(Qt5Widgets)
+cmake(Qt5Xml)
+extra-cmake-modules >= 5.28
+kf5-akonadi-contacts-devel >= 17.12.3
+kf5-akonadi-mime-devel >= 17.12.3
+kf5-akonadi-server-devel >= 17.12.3
+kf5-kcalendarcore-devel >= 17.12.3
+kf5-kcontacts-devel >= 17.12.3
+kf5-kimap-devel >= 17.12.3
+kf5-kmime-devel >= 17.12.3
+kf5-kpimtextedit-devel >= 17.12.3
+kf5-libkdepim-devel >= 17.12.3
+kf5-rpm-macros >= 5.28
+pkgconfig(Qt5WebEngineWidgets)
+pkgconfig(libxslt)

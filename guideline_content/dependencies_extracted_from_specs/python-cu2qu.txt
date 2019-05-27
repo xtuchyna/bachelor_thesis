@@ -1,0 +1,14 @@
+python2-defcon
+python2-devel
+python2-fonttools
+python2-pytest
+python2-pytest-runner
+python2-setuptools
+python2-ufolib
+python3-defcon
+python3-devel
+python3-fonttools
+python3-pytest
+python3-pytest-runner
+python3-setuptools
+python3-ufolib

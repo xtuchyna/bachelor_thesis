@@ -1,0 +1,13 @@
+/usr/bin/pod2man
+binutils-devel
+bison
+chrpath
+dejagnu
+flex
+groff
+libffi-devel
+libtool-ltdl-devel
+ncurses-devel
+python2-devel
+tcl-devel
+zip

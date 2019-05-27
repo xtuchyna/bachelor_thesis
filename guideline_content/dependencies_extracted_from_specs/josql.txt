@@ -1,0 +1,7 @@
+ant
+aqute-bnd
+gentlyweb-utils
+java-devel
+java-javadoc
+javacc
+javapackages-local

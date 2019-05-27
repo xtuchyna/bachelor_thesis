@@ -1,0 +1,7 @@
+gcc
+postgresql-devel
+postgresql-server
+ruby(release)
+ruby-devel
+rubygem(rspec)
+rubygems-devel

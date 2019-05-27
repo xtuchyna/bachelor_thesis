@@ -1,0 +1,12 @@
+autoconf
+automake
+gettext
+libtool
+pkgconfig(presentproto)
+pkgconfig(x11)
+pkgconfig(xext)
+pkgconfig(xextproto)
+pkgconfig(xfixes)
+pkgconfig(xproto)
+pkgconfig(xrandr)
+xorg-x11-util-macros

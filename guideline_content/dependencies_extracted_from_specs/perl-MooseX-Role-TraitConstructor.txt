@@ -1,0 +1,11 @@
+perl(ExtUtils::MakeMaker)
+perl(List::Util)
+perl(Moose) >= 0.40
+perl(Moose::Role)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::use::ok)
+perl(ok)
+perl(strict)
+perl(warnings)
+perl-generators

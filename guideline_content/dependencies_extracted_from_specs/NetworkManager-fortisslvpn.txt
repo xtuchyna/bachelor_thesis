@@ -1,0 +1,11 @@
+NetworkManager-devel >= 1:1.2.0
+NetworkManager-libnm-devel >= 1:1.2.0
+dbus-devel >= 0.74
+gettext
+glib2-devel >= 2.32
+gtk3-devel >= 3.4
+intltool
+libnma-devel >= 1.2.0
+libsecret-devel
+libtool
+ppp-devel

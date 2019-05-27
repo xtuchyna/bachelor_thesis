@@ -1,0 +1,4 @@
+asciidoc
+make
+python2
+xmlto

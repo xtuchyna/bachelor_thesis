@@ -1,0 +1,4 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Tk) >= 800.015
+perl-generators

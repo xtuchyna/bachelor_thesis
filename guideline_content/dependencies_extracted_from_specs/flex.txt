@@ -1,0 +1,4 @@
+bison
+gettext
+help2man
+m4

@@ -1,0 +1,16 @@
+coreutils
+perl(Archive::Tar) >= 0.22
+perl(Archive::Zip) >= 1.07
+perl(Cwd)
+perl(File::MMagic) >= 1.27
+perl(File::Spec::Functions)
+perl(MIME::Types) >= 1.16
+perl(Module::Build) > 0.28
+perl(Module::Find) >= 0.05
+perl(Test::More) >= 0.4
+perl(Test::Warn)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

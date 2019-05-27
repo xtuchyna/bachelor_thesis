@@ -1,0 +1,2 @@
+php-composer(fedora/autoloader)
+php-composer(phpspec/phpspec) >= 2.5

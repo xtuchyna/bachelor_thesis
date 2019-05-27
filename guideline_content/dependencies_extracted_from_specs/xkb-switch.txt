@@ -1,0 +1,3 @@
+cmake
+libX11-devel
+libxkbfile-devel

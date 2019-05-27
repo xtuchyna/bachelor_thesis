@@ -1,0 +1,7 @@
+desktop-file-utils
+gettext
+gutenprint-devel
+lcms-devel
+libjpeg-devel
+libtiff-devel
+netpbm-devel

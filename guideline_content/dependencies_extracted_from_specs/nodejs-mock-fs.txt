@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(chai)
+npm(mocha)
+npm(semver)

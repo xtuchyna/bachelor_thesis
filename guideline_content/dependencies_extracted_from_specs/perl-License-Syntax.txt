@@ -1,0 +1,15 @@
+perl(Carp)
+perl(DBD::SQLite)
+perl(DBI)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(POSIX)
+perl(Pod::Coverage) >= 0.18
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(Text::CSV)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

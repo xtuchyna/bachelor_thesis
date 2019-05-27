@@ -1,0 +1,22 @@
+perl(B::Hooks::OP::Annotation) >= 0.43
+perl(Config)
+perl(Devel::CheckLib) >= 0.4
+perl(Devel::PPPort) >= 3.19
+perl(ExtUtils::ParseXS) >= 3.18
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Spec)
+perl(File::Temp)
+perl(FindBin)
+perl(Module::Install) >= 0.91
+perl(Module::Install::AuthorTests)
+perl(Module::Install::Base)
+perl(Module::Install::Repository)
+perl(Test::More) >= 0.88
+perl(Test::Spellunker)
+perl(constant)
+perl(inc::Module::Install)
+perl(lib)
+perl-generators
+perl-interpreter

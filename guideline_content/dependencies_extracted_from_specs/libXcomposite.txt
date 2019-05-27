@@ -1,0 +1,7 @@
+autoconf
+automake
+libtool
+pkgconfig(compositeproto) >= 0.4
+pkgconfig(xext)
+pkgconfig(xfixes)
+xorg-x11-util-macros

@@ -1,0 +1,8 @@
+appstream-qt-devel
+desktop-file-utils
+extra-cmake-modules
+gettext-devel
+kf5-plasma-devel
+kf5-rpm-macros
+libappstream-glib
+qt5-qtdeclarative-devel

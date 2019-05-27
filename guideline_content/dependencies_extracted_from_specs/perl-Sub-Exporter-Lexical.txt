@@ -1,0 +1,11 @@
+/usr/bin/make
+/usr/bin/perl
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Lexical::Sub)
+perl(Sub::Exporter) >= 0.978
+perl(Test::More) >= 0.96
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 1:v5.12.0

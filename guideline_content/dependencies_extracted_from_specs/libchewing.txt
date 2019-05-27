@@ -1,0 +1,7 @@
+autoconf
+automake
+libtool
+pkgconfig
+python2-devel
+sqlite-devel
+texinfo

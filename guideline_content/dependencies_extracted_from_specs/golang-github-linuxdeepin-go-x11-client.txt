@@ -1,0 +1,3 @@
+compiler(go-compiler)
+golang(golang.org/x/text/encoding/charmap)
+golang(gopkg.in/check.v1)

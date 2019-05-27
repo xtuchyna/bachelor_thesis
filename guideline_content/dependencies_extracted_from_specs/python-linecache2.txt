@@ -1,0 +1,8 @@
+python-fixtures
+python-pbr
+python-unittest2
+python2-devel
+python3-devel
+python3-fixtures
+python3-pbr
+python3-unittest2

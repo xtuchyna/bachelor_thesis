@@ -1,0 +1,2 @@
+gettext
+libinvm-i18n-devel

@@ -1,0 +1,23 @@
+coreutils
+perl(Error)
+perl(Module::Build)
+perl(Net::DNS) >= 0.62
+perl(Net::DNS::RR)
+perl(Net::DNS::Resolver)
+perl(Net::DNS::Resolver::Programmable) >= 0.003
+perl(NetAddr::IP) >= 4
+perl(Sys::Hostname)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(URI) >= 1.13
+perl(URI::Escape)
+perl(base)
+perl(blib)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

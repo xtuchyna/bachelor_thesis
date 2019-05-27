@@ -1,0 +1,2 @@
+glibc-devel
+rust-packaging

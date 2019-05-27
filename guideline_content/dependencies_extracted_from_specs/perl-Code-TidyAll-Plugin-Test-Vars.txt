@@ -1,0 +1,18 @@
+/usr/bin/make
+/usr/bin/perl
+perl(Capture::Tiny)
+perl(Code::TidyAll) >= 0.50
+perl(Code::TidyAll::Plugin)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(Moo)
+perl(PPI::Document)
+perl(Path::Class)
+perl(Path::Tiny)
+perl(Test::More) >= 0.96
+perl(Test::Vars) >= 0.008
+perl(autodie)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.006

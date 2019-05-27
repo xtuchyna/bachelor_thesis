@@ -1,0 +1,24 @@
+perl(:VERSION) >= 5.6
+perl(CPAN::Meta)
+perl(Dist::Zilla) >= 4.300039
+perl(Dist::Zilla::File::InMemory)
+perl(Dist::Zilla::Role::BuildPL)
+perl(Dist::Zilla::Role::FileGatherer)
+perl(Dist::Zilla::Role::MetaProvider)
+perl(Dist::Zilla::Role::PrereqSource)
+perl(Dist::Zilla::Role::TextTemplate)
+perl(List::Util) >= 1.33
+perl(Module::Build::Tiny) >= 0.039
+perl(Module::Metadata)
+perl(Moose)
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::Types::Perl)
+perl(Path::Tiny)
+perl(Test::DZil)
+perl(Test::Deep)
+perl(Test::Fatal)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

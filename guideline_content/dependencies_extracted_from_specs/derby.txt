@@ -1,0 +1,10 @@
+ant
+apache-parent
+glassfish-servlet-api
+jakarta-oro
+javacc
+javapackages-local
+json_simple
+junit
+lucene4
+systemd

@@ -1,0 +1,28 @@
+make
+perl(Carp) >= 1.17
+perl(Mock::Quick)
+perl(Modern::Perl)
+perl(Module::Build)
+perl(Moose)
+perl(Net::IDN::Encode) >= 2.003
+perl(Net::IDN::Nameprep) >= 1.101
+perl(Net::IDN::Punycode) >= 1.100
+perl(Perl6::Export::Attrs)
+perl(Perl::Critic)
+perl(Regexp::Assemble::Compressed)
+perl(Smart::Comments)
+perl(Test::Class)
+perl(Test::Deep)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Perl::Critic)
+perl(Test::Routine)
+perl(Test::Routine::Util)
+perl(Unicode::CharName) >= 1.07
+perl(autobox)
+perl(autobox::Core)
+perl(base)
+perl(lib)
+perl(namespace::autoclean)
+perl-generators
+sed

@@ -1,0 +1,17 @@
+botan-devel
+clang-devel
+desktop-file-utils
+diffutils
+libappstream-glib
+llvm-devel
+pkgconfig(Qt5Designer) >= 5.6.0
+pkgconfig(Qt5Help) >= 5.6.0
+pkgconfig(Qt5Script) >= 5.6.0
+pkgconfig(Qt5WebKit) >= 5.6.0
+pkgconfig(Qt5X11Extras) >= 5.6.0
+pkgconfig(Qt5XmlPatterns) >= 5.6.0
+qbs-devel
+qt5-qdoc
+qt5-qtbase-devel >= 5.6.0
+qt5-qtbase-private-devel
+qt5-qtquickcontrols

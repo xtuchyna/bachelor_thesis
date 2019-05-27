@@ -1,0 +1,9 @@
+byacc
+flex
+librtas-devel >= 1.4.0
+libservicelog-devel
+libvpd-devel
+ncurses-devel
+perl-interpreter
+systemd-devel
+systemd-units

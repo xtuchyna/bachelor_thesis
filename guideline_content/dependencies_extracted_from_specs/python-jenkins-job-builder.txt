@@ -1,0 +1,30 @@
+python2-devel
+python2-fasteners
+python2-fixtures
+python2-jenkins >= 0.4.15
+python2-jinja2
+python2-mock
+python2-pbr
+python2-pytest
+python2-setuptools
+python2-six >= 1.9.0
+python2-sphinx
+python2-stevedore >= 1.17.1
+python2-testscenarios
+python2-testtools
+python2-yaml >= 3.10.0
+python3-devel
+python3-fasteners
+python3-fixtures
+python3-jenkins >= 0.4.15
+python3-jinja2
+python3-mock
+python3-pbr
+python3-pytest
+python3-setuptools
+python3-six >= 1.9.0
+python3-sphinx
+python3-stevedore >= 1.17.1
+python3-testscenarios
+python3-testtools
+python3-yaml >= 3.10.0

@@ -1,0 +1,13 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::Manifest)
+perl(FindBin)
+perl(Test::Builder) >= 0.30
+perl(Test::More) >= 0.60
+perl(Test::Pod) >= 1.18
+perl(Test::Pod::Coverage) >= 1.04
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

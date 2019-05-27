@@ -1,0 +1,9 @@
+clthreads-devel
+clxclient-devel
+desktop-file-utils
+gcc-c++
+jack-audio-connection-kit-devel
+libXft-devel
+libpng-devel
+libsndfile-devel
+zita-resampler-devel

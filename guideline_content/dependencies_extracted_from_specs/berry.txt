@@ -1,0 +1,11 @@
+chrpath
+desktop-file-utils
+hicolor-icon-theme
+libappstream-glib
+pkgconfig(Qt5Core) >= 5.2.0
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Multimedia)
+pkgconfig(Qt5Network)
+pkgconfig(Qt5Qml)
+pkgconfig(Qt5Script)
+pkgconfig(exiv2)

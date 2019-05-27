@@ -1,0 +1,4 @@
+hiredis-devel
+php-devel
+php-pear
+redis

@@ -1,0 +1,16 @@
+ImageMagick
+alsa-lib-devel
+cmake
+desktop-file-utils
+dssi-devel
+fftw3-devel
+fltk-devel
+fltk-fluid
+jack-audio-connection-kit-devel
+lash-devel
+libXpm-devel
+liblo-devel
+mxml-devel
+non-ntk-devel
+portaudio-devel
+zlib-devel

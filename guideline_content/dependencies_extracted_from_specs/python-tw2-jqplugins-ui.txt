@@ -1,0 +1,15 @@
+python-BeautifulSoup
+python-coverage
+python-formencode
+python-genshi
+python-mako
+python-nose
+python-paste-deploy
+python-setuptools
+python-strainer
+python-tw2-core
+python-tw2-forms
+python-tw2-jquery
+python-webob >= 0.9.7
+python-webtest
+python2-devel

@@ -1,0 +1,3 @@
+emacs(bin)
+emacs-el >= %{_emacs_version}
+pkgconfig

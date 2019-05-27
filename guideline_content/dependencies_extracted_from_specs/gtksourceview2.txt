@@ -1,0 +1,7 @@
+GConf2-devel
+gettext
+glib2-devel >= 2.13.6
+gobject-introspection-devel
+gtk2-devel >= 2.12.0
+intltool >= 0.35
+libxml2-devel

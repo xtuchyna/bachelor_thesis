@@ -1,0 +1,10 @@
+desktop-file-utils
+gettext
+gtk3-devel
+intltool
+json-glib-devel
+keybinder3-devel
+libgee-devel
+libnotify-devel
+vala-devel
+zeitgeist-devel

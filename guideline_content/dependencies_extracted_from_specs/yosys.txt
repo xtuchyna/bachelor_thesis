@@ -1,0 +1,17 @@
+abc >= 1.01-9
+bison
+flex
+graphviz
+iverilog
+libffi-devel
+pkgconfig
+python3
+readline-devel
+tcl-devel
+texlive-beamer
+texlive-collection-bibtexextra
+texlive-collection-fontsextra
+texlive-collection-latexextra
+texlive-collection-publishers
+texlive-collection-science
+txt2man

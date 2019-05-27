@@ -1,0 +1,9 @@
+autoconf
+automake
+doxygen
+git
+glib2-devel
+libgudev1-devel
+libtool
+systemd
+systemd-devel

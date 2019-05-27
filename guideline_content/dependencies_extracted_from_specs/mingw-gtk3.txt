@@ -1,0 +1,30 @@
+gdk-pixbuf2-devel
+gettext
+glib2-devel
+gtk-update-icon-cache
+mingw32-atk
+mingw32-binutils
+mingw32-cairo
+mingw32-filesystem >= 98
+mingw32-gcc
+mingw32-gdk-pixbuf
+mingw32-gettext
+mingw32-glib2
+mingw32-libepoxy
+mingw32-pango
+mingw32-pixman
+mingw32-win-iconv
+mingw32-zlib
+mingw64-atk
+mingw64-binutils
+mingw64-cairo
+mingw64-filesystem >= 98
+mingw64-gcc
+mingw64-gdk-pixbuf
+mingw64-gettext
+mingw64-glib2
+mingw64-libepoxy
+mingw64-pango
+mingw64-pixman
+mingw64-win-iconv
+mingw64-zlib

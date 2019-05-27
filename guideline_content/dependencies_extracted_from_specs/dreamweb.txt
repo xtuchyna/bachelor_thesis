@@ -1,0 +1,4 @@
+desktop-file-utils
+dos2unix
+fdupes
+vorbis-tools

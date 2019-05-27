@@ -1,0 +1,7 @@
+chrpath
+gettext
+glib2-devel
+java-devel >= 1:1.6.0
+jpackage-utils
+python2-devel
+python3-devel

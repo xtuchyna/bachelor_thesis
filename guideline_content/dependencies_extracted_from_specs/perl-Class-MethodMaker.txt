@@ -1,0 +1,46 @@
+coreutils
+findutils
+gcc
+make
+perl(AutoLoader) >= 5.57
+perl(B::Deparse) >= 0.59
+perl(Carp)
+perl(Config)
+perl(Cwd) >= 2.01
+perl(Data::Dumper)
+perl(Env)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::testlib)
+perl(Fatal) >= 1.02
+perl(Fcntl) >= 1.03
+perl(File::Basename)
+perl(File::Compare) >= 1.1002
+perl(File::Find)
+perl(File::Path) >= 1.04.01
+perl(File::Spec) >= 0.6
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(File::stat)
+perl(FindBin) >= 1.42
+perl(Getopt::Long)
+perl(IO::File) >= 1.08
+perl(IPC::Run)
+perl(POSIX) >= 1.03
+perl(Test) >= 1.12.2
+perl(Tie::Hash)
+perl(Tie::Scalar)
+perl(Tie::StdArray)
+perl(Tie::StdHash)
+perl(Tie::StdScalar)
+perl(XSLoader)
+perl(base)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl(warnings::register)
+perl-devel
+perl-generators
+perl-interpreter

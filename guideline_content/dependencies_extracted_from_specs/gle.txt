@@ -1,0 +1,19 @@
+cairo-devel
+dos2unix
+ghostscript
+libX11-devel
+libXt-devel
+libjpeg-devel
+libpng-devel
+libstdc++-devel >= 3.0
+libtiff-devel
+mesa-libGL-devel
+mesa-libGLU-devel
+ncurses-devel
+poppler-glib-devel
+qt-devel >= 4.1.1
+tex(latex)
+tex(rotating.sty)
+tex(supertabular.sty)
+xorg-x11-proto-devel
+zlib-devel

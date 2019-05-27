@@ -1,0 +1,4 @@
+gcc
+libXext-devel
+libXmu-devel
+libXt-devel

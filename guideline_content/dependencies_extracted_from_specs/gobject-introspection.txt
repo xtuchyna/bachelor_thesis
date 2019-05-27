@@ -1,0 +1,17 @@
+bison
+cairo-gobject-devel
+chrpath
+flex
+fontconfig-devel
+freetype-devel
+gettext
+glib2-devel >= 2.56.1
+gtk-doc
+libX11-devel
+libXfixes-devel
+libXft-devel
+libffi-devel
+libxml2-devel
+mesa-libGL-devel
+python3-devel
+python3-mako

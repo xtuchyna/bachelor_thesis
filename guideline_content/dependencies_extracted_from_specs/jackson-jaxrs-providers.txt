@@ -1,0 +1,22 @@
+maven-local
+mvn(com.fasterxml.jackson.core:jackson-core) >= 2.9.4
+mvn(com.fasterxml.jackson.core:jackson-databind) >= 2.9.4
+mvn(com.fasterxml.jackson.dataformat:jackson-dataformat-cbor)
+mvn(com.fasterxml.jackson.dataformat:jackson-dataformat-smile)
+mvn(com.fasterxml.jackson.dataformat:jackson-dataformat-xml)
+mvn(com.fasterxml.jackson.dataformat:jackson-dataformat-yaml)
+mvn(com.fasterxml.jackson.module:jackson-module-jaxb-annotations)
+mvn(com.fasterxml.jackson:jackson-base:pom:) >= 2.9.4
+mvn(com.google.code.maven-replacer-plugin:replacer)
+mvn(com.google.guava:guava)
+mvn(javax.ws.rs:javax.ws.rs-api)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.codehaus.woodstox:stax2-api)
+mvn(org.codehaus.woodstox:woodstox-core-asl)
+mvn(org.eclipse.jetty:jetty-server)
+mvn(org.eclipse.jetty:jetty-servlet)
+mvn(org.glassfish.jersey.containers:jersey-container-servlet)
+mvn(org.glassfish.jersey.core:jersey-server)
+mvn(org.jboss.resteasy:resteasy-jaxrs)
+mvn(org.ow2.asm:asm)

@@ -1,0 +1,12 @@
+ant
+autoconf
+automake
+doxygen
+fontconfig-devel
+freetype-devel
+graphviz
+java-devel >= 1:1.8.0
+jpackage-utils
+libtool
+libxml2-devel
+texlive-latex

@@ -1,0 +1,7 @@
+blosc-devel >= 1.9.0
+numpy
+python2-devel
+python2-psutil
+python3-devel
+python3-numpy
+python3-psutil

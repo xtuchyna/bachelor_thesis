@@ -1,0 +1,18 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::Manifest)
+perl(File::Path)
+perl(File::Slurp::Tiny)
+perl(File::Spec)
+perl(File::Temp)
+perl(FileHandle)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(constant)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators

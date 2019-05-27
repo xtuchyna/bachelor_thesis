@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Cwd)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Path)
+perl(File::Temp)
+perl(FindBin)
+perl(Path::Class)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter >= 5.005

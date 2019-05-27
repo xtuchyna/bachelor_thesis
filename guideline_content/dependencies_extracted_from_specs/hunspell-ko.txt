@@ -1,0 +1,4 @@
+hunspell
+perl-interpreter
+python
+python-lxml

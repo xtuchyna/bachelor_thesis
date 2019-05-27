@@ -1,0 +1,7 @@
+python2-blinker
+python2-devel
+python2-flask
+python2-flask-sqlalchemy
+python2-setuptools
+python2-sqlalchemy
+python2-whoosh

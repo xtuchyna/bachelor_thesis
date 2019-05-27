@@ -1,0 +1,30 @@
+coreutils
+findutils
+perl(Benchmark)
+perl(DBD::Pg)
+perl(DBD::SQLite)
+perl(DBD::mysql)
+perl(DBI)
+perl(Data::Dumper)
+perl(Exporter)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::Handle)
+perl(Module::Build) >= 0.38
+perl(Term::ANSIColor)
+perl(Test::More) >= 0.96
+perl(Test::PostgreSQL)
+perl(Test::Requires)
+perl(Test::mysqld)
+perl(Text::ASCIITable)
+perl(Time::HiRes)
+perl(base)
+perl(constant)
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,6 @@
+cmake
+desktop-file-utils
+gettext
+gtkmm30-devel
+libarchive-devel
+openssl-devel

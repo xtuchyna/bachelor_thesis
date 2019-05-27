@@ -1,0 +1,26 @@
+coreutils
+findutils
+gcc
+make
+perl(CPAN::Meta) >= 2.120900
+perl(CPAN::Meta::Prereqs)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(Moose) >= 0.94
+perl(Moose::Exporter)
+perl(Moose::Role) >= 1.15
+perl(Moose::Util::MetaRole)
+perl(Test::More) >= 0.96
+perl(Test::Warnings)
+perl(XSLoader)
+perl(aliased)
+perl(if)
+perl(lib)
+perl(namespace::autoclean) >= 0.16
+perl(namespace::clean) >= 0.19
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

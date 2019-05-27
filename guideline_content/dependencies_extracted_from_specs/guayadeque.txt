@@ -1,0 +1,12 @@
+cmake
+dbus-devel
+desktop-file-utils
+gettext-devel
+gstreamer1-plugins-base-devel
+libappstream-glib
+libcurl-devel
+libgpod-devel
+sqlite-devel
+taglib-devel
+wxGTK3-devel
+wxsqlite3-devel

@@ -1,0 +1,22 @@
+perl(Apache::Session::Flex)
+perl(Apache::Session::Wrapper) >= 0.13
+perl(Cwd)
+perl(Digest::SHA1)
+perl(File::Basename)
+perl(File::Find::Rule)
+perl(File::Path)
+perl(File::Spec)
+perl(HTML::Mason) >= 1.16
+perl(HTML::Mason::Exceptions)
+perl(HTML::Mason::Request)
+perl(HTML::Mason::Tests)
+perl(Module::Build)
+perl(Params::Validate)
+perl(Test::More)
+perl(Test::Pod)
+perl(Time::HiRes)
+perl(base)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

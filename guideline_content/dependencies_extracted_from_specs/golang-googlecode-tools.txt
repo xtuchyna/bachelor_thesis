@@ -1,0 +1,4 @@
+compiler(go-compiler)
+golang(golang.org/x/net/html)
+golang(golang.org/x/net/html/atom)
+golang-docs

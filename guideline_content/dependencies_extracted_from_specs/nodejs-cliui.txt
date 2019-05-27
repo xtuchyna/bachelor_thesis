@@ -1,0 +1,6 @@
+mocha
+nodejs-packaging
+npm(chai)
+npm(chalk)
+npm(string-width)
+npm(wrap-ansi)

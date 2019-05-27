@@ -1,0 +1,6 @@
+perl(CGI)
+perl(Class::ISA)
+perl(HTML::Template)
+perl(Module::Build)
+perl(Test::More)
+perl-generators

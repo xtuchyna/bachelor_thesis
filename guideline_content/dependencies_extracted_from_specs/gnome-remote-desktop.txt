@@ -1,0 +1,8 @@
+meson >= 0.36.0
+pkgconfig
+pkgconfig(gio-unix-2.0) >= 2.32
+pkgconfig(glib-2.0) >= 2.32
+pkgconfig(gstreamer-1.0) >= 1.10.0
+pkgconfig(gstreamer-video-1.0) >= 1.10.0
+pkgconfig(libvncserver) >= 0.9.11
+systemd

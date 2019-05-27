@@ -1,0 +1,6 @@
+boost-devel
+cmake
+mysql-devel
+postgresql-devel
+sqlite-devel
+unixODBC-devel

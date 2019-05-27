@@ -1,0 +1,8 @@
+R-Biobase
+R-BiocGenerics
+R-MASS
+R-devel >= 3.4.0
+R-methods
+R-stats4
+R-survival
+tex(latex)

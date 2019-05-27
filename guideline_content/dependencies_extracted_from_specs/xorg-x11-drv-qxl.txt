@@ -1,0 +1,9 @@
+glib2-devel
+libXfont2-devel
+libdrm-devel >= 2.4.46-1
+libtool
+libudev-devel
+pkgconfig
+spice-protocol >= 0.12.1
+spice-server-devel >= 0.8.0
+xorg-x11-server-devel >= 1.1.0-1

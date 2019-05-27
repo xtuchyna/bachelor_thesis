@@ -1,0 +1,3 @@
+gcc
+java-devel
+libserialport-devel

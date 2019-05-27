@@ -1,0 +1,38 @@
+perl(CPAN::Meta)
+perl(CPAN::Meta::Requirements) >= 2.120900
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec::Functions)
+perl(Getopt::Long) >= 2.37
+perl(Getopt::Long::Descriptive) >= 0.081
+perl(List::Util)
+perl(Module::Build::Tiny) >= 0.035
+perl(Module::Runtime)
+perl(Moose)
+perl(Moose::Meta::Attribute)
+perl(Moose::Meta::Class)
+perl(Moose::Role) >= 0.56
+perl(Moose::Util)
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::ConfigFromFile) >= 0.08
+perl(MooseX::Role::Parameterized)
+perl(MooseX::SimpleConfig) >= 0.07
+perl(MooseX::StrictConstructor)
+perl(Path::Tiny) >= 0.009
+perl(Scalar::Util)
+perl(Test::Deep)
+perl(Test::Fatal) >= 0.003
+perl(Test::Moose)
+perl(Test::More) >= 0.88
+perl(Test::Requires) >= 0.05
+perl(Test::Trap)
+perl(Test::Warnings) >= 0.009
+perl(Try::Tiny)
+perl(YAML)
+perl(if)
+perl(namespace::autoclean)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

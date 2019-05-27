@@ -1,0 +1,8 @@
+alsa-lib-devel
+autoconf
+automake
+gcc
+libtool
+make
+pkgconfig
+pulseaudio-libs-devel

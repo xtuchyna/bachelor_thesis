@@ -1,0 +1,7 @@
+ImageMagick
+SDL_image-devel
+SDL_mixer-devel
+desktop-file-utils
+libjpeg-devel
+libpng-devel
+libvorbis-devel

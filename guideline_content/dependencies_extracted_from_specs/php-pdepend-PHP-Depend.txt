@@ -1,0 +1,18 @@
+php(language) >= 5.3.7
+php-bcmath
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit) >= 4.8
+php-date
+php-dom
+php-iconv
+php-libxml
+php-mbstring
+php-pcre
+php-reflection
+php-simplexml
+php-spl
+php-symfony3-config
+php-symfony3-dependency-injection
+php-symfony3-filesystem
+php-tokenizer
+php-xml

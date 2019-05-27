@@ -1,0 +1,4 @@
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(gio-2.0)
+pkgconfig(libarchive)
+pkgconfig(libxml-2.0)

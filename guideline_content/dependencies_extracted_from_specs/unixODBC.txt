@@ -1,0 +1,8 @@
+autoconf
+automake
+bison
+flex
+libtool
+libtool-ltdl-devel
+multilib-rpm-config
+readline-devel

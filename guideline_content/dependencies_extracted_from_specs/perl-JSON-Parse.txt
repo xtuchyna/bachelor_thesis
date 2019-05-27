@@ -1,0 +1,16 @@
+gcc
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(FindBin)
+perl(Test::More)
+perl(XSLoader)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

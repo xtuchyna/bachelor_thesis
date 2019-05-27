@@ -1,0 +1,12 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IO::Socket)
+perl(Math::BigInt) >= 1.997
+perl(Socket)
+perl(Test::More) >= 0.90
+perl(Time::Local)
+perl(constant)
+perl-generators

@@ -1,0 +1,10 @@
+perl(Getopt::ArgvFile) >= 1.09
+perl(HTML::Entities)
+perl(HTML::LinkList) >= 0.1501
+perl(HTML::SimpleParse) >= 0.1
+perl(Module::Build)
+perl(Test::Distribution)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

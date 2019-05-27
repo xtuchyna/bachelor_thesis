@@ -1,0 +1,10 @@
+cmake
+desktop-file-utils
+dos2unix
+doxygen
+freetype-devel
+graphviz
+libX11-devel
+libuuid-devel
+ogre-devel
+ois-devel

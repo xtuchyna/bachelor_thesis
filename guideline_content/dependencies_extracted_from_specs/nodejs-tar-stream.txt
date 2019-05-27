@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(bl)
+npm(concat-stream)
+npm(end-of-stream)
+npm(tape)
+npm(xtend)

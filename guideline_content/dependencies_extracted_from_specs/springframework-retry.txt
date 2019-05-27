@@ -1,0 +1,9 @@
+maven-local
+mvn(junit:junit)
+mvn(log4j:log4j:1.2.17)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.aspectj:aspectjweaver)
+mvn(org.easymock:easymock)
+mvn(org.springframework:spring-context)
+mvn(org.springframework:spring-test)
+mvn(org.springframework:spring-tx)

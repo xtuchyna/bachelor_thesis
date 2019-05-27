@@ -1,0 +1,13 @@
+ImageMagick
+SDL-devel
+alsa-lib-devel
+freeglut-devel
+freetype-devel
+libGL-devel
+libGLU-devel
+libX11-devel
+libXaw-devel
+libXi-devel
+libpng-devel
+perl-interpreter
+zlib-devel

@@ -1,0 +1,15 @@
+perl(Carp)
+perl(Data::Section::Simple)
+perl(Digest::MD5)
+perl(Encode)
+perl(File::Basename)
+perl(File::Spec)
+perl(IO::File)
+perl(Module::Build::Tiny) >= 0.035
+perl(Scalar::Util)
+perl(Test::More)
+perl(URI::Escape)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators

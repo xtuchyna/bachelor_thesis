@@ -1,0 +1,5 @@
+erlang-fast_tls >= 1.0.20
+erlang-p1_utils >= 1.0.10
+erlang-rebar
+erlang-stun >= 1.0.20
+gcc

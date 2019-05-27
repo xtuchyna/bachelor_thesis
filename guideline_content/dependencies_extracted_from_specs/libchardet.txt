@@ -1,0 +1,9 @@
+coreutils
+findutils
+gcc
+gcc-c++
+glibc-common
+libstdc++-devel
+make
+perl-interpreter
+sed

@@ -1,0 +1,3 @@
+python2-blinker
+python2-devel
+python2-nose

@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-array-devel
+ghc-cpphs-devel
+ghc-pretty-devel
+ghc-rpm-macros
+happy

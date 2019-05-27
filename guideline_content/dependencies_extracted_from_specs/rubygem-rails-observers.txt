@@ -1,0 +1,9 @@
+ruby
+ruby(release)
+rubygem(activeresource)
+rubygem(bundler)
+rubygem(minitest)
+rubygem(mocha)
+rubygem(rails) >= 4.0
+rubygem(sqlite3)
+rubygems-devel

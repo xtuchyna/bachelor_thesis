@@ -1,0 +1,5 @@
+maven-local
+mvn(org.apache.maven.plugin-tools:maven-plugin-annotations)
+mvn(org.apache.maven.plugins:maven-plugins:pom:)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.apache.maven:maven-toolchain)

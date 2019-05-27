@@ -1,0 +1,5 @@
+eclipse-epp-logging
+maven-install-plugin
+maven-plugin-build-helper
+tycho
+tycho-extras

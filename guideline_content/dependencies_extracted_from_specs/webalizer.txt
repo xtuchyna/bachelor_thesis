@@ -1,0 +1,4 @@
+GeoIP-devel
+bzip2-devel
+gd-devel
+libdb-devel

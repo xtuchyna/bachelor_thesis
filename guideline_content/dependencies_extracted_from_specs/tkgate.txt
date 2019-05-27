@@ -1,0 +1,5 @@
+desktop-file-utils
+libICE-devel
+libSM-devel
+tcl-devel
+tk-devel

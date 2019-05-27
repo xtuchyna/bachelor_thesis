@@ -1,0 +1,17 @@
+perl(Class::Accessor::Lite) >= 0.04
+perl(Fcntl)
+perl(File::Temp)
+perl(List::MoreUtils)
+perl(Module::Install::ReadmeFromPod)
+perl(Parallel::Scoreboard)
+perl(Proc::Wait3) >= 0.03
+perl(Scope::Guard)
+perl(Signal::Mask)
+perl(Test::More)
+perl(Test::Requires)
+perl(Test::SharedFork)
+perl(Time::HiRes)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators

@@ -1,0 +1,4 @@
+ghostscript
+groff
+libtool
+man-db

@@ -1,0 +1,20 @@
+make
+perl(:VERSION) >= 5.6.0
+perl(B)
+perl(Class::Method::Modifiers)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Moo) >= 1.001000
+perl(Moo::Role)
+perl(Test::Fatal)
+perl(Test::More) >= 0.88
+perl(constant)
+perl(feature)
+perl(strict)
+perl(strictures) >= 1
+perl(warnings)
+perl-generators
+perl-interpreter

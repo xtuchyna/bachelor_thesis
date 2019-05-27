@@ -1,0 +1,5 @@
+compiler(go-compiler)
+golang(github.com/coreos/pkg/capnslog)
+golang(github.com/coreos/pkg/health)
+golang(github.com/coreos/pkg/timeutil)
+golang(github.com/jonboulle/clockwork)

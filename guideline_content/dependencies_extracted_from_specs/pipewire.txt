@@ -1,0 +1,18 @@
+alsa-lib-devel
+doxygen
+graphviz
+libv4l-devel
+meson >= 0.35.0
+pkgconfig
+pkgconfig(dbus-1)
+pkgconfig(gio-unix-2.0) >= 2.32
+pkgconfig(glib-2.0) >= 2.32
+pkgconfig(gstreamer-1.0) >= 1.10.0
+pkgconfig(gstreamer-allocators-1.0) >= 1.10.0
+pkgconfig(gstreamer-base-1.0) >= 1.10.0
+pkgconfig(gstreamer-net-1.0) >= 1.10.0
+pkgconfig(gstreamer-plugins-base-1.0) >= 1.10.0
+pkgconfig(libudev)
+sbc-devel
+systemd-devel >= 184
+xmltoman

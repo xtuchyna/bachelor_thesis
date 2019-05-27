@@ -1,0 +1,3 @@
+desktop-file-utils
+qt4-devel
+qtsoap-devel

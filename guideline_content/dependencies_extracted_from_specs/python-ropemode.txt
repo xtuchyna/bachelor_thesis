@@ -1,0 +1,3 @@
+python-rope
+python-setuptools
+python2-devel

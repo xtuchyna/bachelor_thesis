@@ -1,0 +1,12 @@
+perl(DBD::SQLite)
+perl(DBI)
+perl(DateTime)
+perl(DateTime::Format::MySQL)
+perl(DateTime::Format::SQLite)
+perl(ExtUtils::MakeMaker)
+perl(Moose)
+perl(MooseX::SemiAffordanceAccessor)
+perl(MooseX::StrictConstructor)
+perl(MooseX::Types)
+perl(Test::More)
+perl-generators

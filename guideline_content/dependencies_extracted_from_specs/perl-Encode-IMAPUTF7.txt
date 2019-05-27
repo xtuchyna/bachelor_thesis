@@ -1,0 +1,14 @@
+make
+perl(Encode)
+perl(Encode::Encoding)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Spec)
+perl(MIME::Base64)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

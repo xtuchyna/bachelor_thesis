@@ -1,0 +1,16 @@
+desktop-file-utils
+docbook-style-xsl
+gettext
+gettext-devel
+gtk2-devel
+intltool
+libX11-devel
+libXt-devel
+libtool
+libxml2-devel
+libxslt
+pciutils-devel
+perl(XML::Parser)
+pkgconfig
+tidy
+xml-common

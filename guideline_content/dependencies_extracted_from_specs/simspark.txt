@@ -1,0 +1,16 @@
+DevIL-devel
+ImageMagick
+SDL-devel
+boost-devel
+cmake
+freetype-devel
+libGL-devel
+libGLU-devel
+ode-devel
+qt-devel
+ruby
+ruby-devel
+tex(latex)
+tex(subfigure.sty)
+tex(titlesec.sty)
+tex(wrapfig.sty)

@@ -1,0 +1,14 @@
+perl(Directory::Scratch)
+perl(ExtUtils::MakeMaker)
+perl(File::NFSLock)
+perl(Module::Build::Tiny)
+perl(Moose) >= 0.87
+perl(MooseX::Types::Path::Class)
+perl(Path::Class)
+perl(Sub::Exporter)
+perl(Test::CheckDeps)
+perl(Test::Requires)
+perl(Test::use::ok)
+perl(namespace::autoclean)
+perl(namespace::clean) >= 0.08
+perl-generators

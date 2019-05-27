@@ -1,0 +1,8 @@
+mocha
+nodejs-packaging
+npm(chai)
+npm(debug)
+npm(hook-std)
+npm(memoizee)
+npm(memwatch-next)
+npm(object-assign)

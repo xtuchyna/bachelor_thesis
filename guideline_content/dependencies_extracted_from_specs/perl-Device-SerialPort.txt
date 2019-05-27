@@ -1,0 +1,3 @@
+perl(ExtUtils::MakeMaker)
+perl-devel
+perl-generators

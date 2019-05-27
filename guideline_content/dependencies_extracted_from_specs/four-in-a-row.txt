@@ -1,0 +1,7 @@
+desktop-file-utils
+gettext-devel
+gtk3-devel >= 3.13.2
+itstool
+libcanberra-devel
+librsvg2-devel
+zlib-devel

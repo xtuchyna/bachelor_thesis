@@ -1,0 +1,21 @@
+perl(Carp)
+perl(Digest::MD5)
+perl(ExtUtils::ParseXS) >= 3.07
+perl(ExtUtils::Typemaps)
+perl(File::Basename)
+perl(File::Path)
+perl(File::Spec)
+perl(IO::Handle)
+perl(Module::Build)
+perl(Test::Base)
+perl(Test::Base::Filter)
+perl(Test::Differences)
+perl(Test::More)
+perl(base)
+perl(if)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,4 @@
+boost-devel
+doxygen
+pkgconfig(cppunit)
+pkgconfig(zlib)

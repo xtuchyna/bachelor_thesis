@@ -1,0 +1,2 @@
+doxygen
+wxGTK-devel

@@ -1,0 +1,7 @@
+libaio-devel
+libpmem-devel
+libpmemblk-devel
+librbd1-devel
+librdmacm-devel
+numactl-devel
+zlib-devel

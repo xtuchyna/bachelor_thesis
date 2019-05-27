@@ -1,0 +1,9 @@
+gcc
+glibc-static
+libselinux-devel >= 1.27.7-2
+libselinux-static
+libsepol-devel
+libsepol-static
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+uClibc-static

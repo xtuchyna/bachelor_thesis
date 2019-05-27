@@ -1,0 +1,11 @@
+desktop-file-utils
+exiv2-devel
+gdal-devel
+proj-devel
+qt5-qtbase-devel
+qt5-qtsvg-devel
+qt5-qttools-devel
+qt5-qtwebkit-devel
+qtsingleapplication-qt5-devel
+sqlite-devel
+zlib-devel

@@ -1,0 +1,11 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.geronimo.specs:geronimo-jms_1.1_spec)
+mvn(org.apache.geronimo.specs:specs:pom:)
+mvn(org.apache.maven.doxia:doxia-module-markdown)
+mvn(org.apache.maven.plugins:maven-site-plugin)
+mvn(org.apache:apache:pom:)
+mvn(org.bouncycastle:bcpkix-jdk15on)
+mvn(org.fusesource.hawtbuf:hawtbuf)
+mvn(org.fusesource.hawtdispatch:hawtdispatch-transport)
+mvn(org.mockito:mockito-core)

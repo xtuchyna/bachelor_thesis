@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker) >= 6.64
+perl(Test::Builder::Module)
+perl(Test::More) >= 0.47
+perl(Test::Perl::Critic)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,6 @@
+cmake
+git
+libarcus-devel = 3.2.1
+polyclipping-devel >= 6.1.2
+protobuf-devel
+rapidjson-devel

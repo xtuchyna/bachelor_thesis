@@ -1,0 +1,11 @@
+maven-local
+mvn(commons-io:commons-io)
+mvn(commons-logging:commons-logging)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.james:james-project:pom:)
+mvn(org.apache.maven.plugins:maven-assembly-plugin)
+mvn(org.apache.maven.plugins:maven-remote-resources-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.apache.rat:apache-rat-plugin)
+mvn(org.codehaus.mojo:javacc-maven-plugin)

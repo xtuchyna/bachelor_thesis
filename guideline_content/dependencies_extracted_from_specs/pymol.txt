@@ -1,0 +1,12 @@
+desktop-file-utils
+freeglut-devel
+freetype-devel
+glew-devel
+libGL-devel
+libappstream-glib
+libpng-devel
+libxml2-devel
+msgpack-devel
+python3-devel
+python3-setuptools
+python3-simplejson

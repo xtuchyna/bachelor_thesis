@@ -1,0 +1,3 @@
+gettext
+intltool
+python-devel >= 2.4

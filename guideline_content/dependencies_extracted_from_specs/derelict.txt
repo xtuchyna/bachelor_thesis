@@ -1,0 +1,4 @@
+geany
+ldc
+ldc-phobos-devel
+libcurl-devel

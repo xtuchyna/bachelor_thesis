@@ -1,0 +1,3 @@
+R-RUnit
+R-devel >= 3.0.0
+tex(latex)

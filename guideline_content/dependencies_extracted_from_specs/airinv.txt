@@ -1,0 +1,16 @@
+/usr/bin/epstopdf
+airrac-devel
+boost-devel
+cmake
+cppzmq-devel
+doxygen
+ghostscript
+python-devel
+readline-devel
+rmol-devel
+sevmgr-devel
+soci-mysql-devel
+soci-sqlite3-devel
+stdair-devel
+tex(latex)
+zeromq-devel

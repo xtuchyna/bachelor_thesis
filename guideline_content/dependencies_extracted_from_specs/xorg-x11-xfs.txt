@@ -1,0 +1,8 @@
+font-util >= 1.1
+libtool
+pkgconfig(libfs)
+pkgconfig(x11)
+pkgconfig(xfont2) >= 2.0
+pkgconfig(xorg-macros)
+pkgconfig(xtrans)
+systemd

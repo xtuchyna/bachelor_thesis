@@ -1,0 +1,4 @@
+ruby(release)
+rubygem(minitest)
+rubygem(rails) > 3.1
+rubygems-devel

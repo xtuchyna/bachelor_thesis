@@ -1,0 +1,4 @@
+dos2unix
+python3-devel
+python3-setuptools
+python3-sphinx

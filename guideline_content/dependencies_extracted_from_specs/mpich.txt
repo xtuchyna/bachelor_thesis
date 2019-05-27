@@ -1,0 +1,7 @@
+automake
+gcc-gfortran
+hwloc-devel >= 1.8
+python2-devel
+python3-devel
+rpm-mpi-hooks
+valgrind-devel

@@ -1,0 +1,59 @@
+coreutils
+findutils
+gcc
+make
+perl(B)
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dump::Streamer)
+perl(Data::Dumper)
+perl(Declare::Constraints::Simple)
+perl(Devel::PPPort) >= 3.33
+perl(ExtUtils::ParseXS) >= 3.22
+perl(Fatal)
+perl(File::Basename)
+perl(File::Find)
+perl(File::Spec)
+perl(Filter::Simple)
+perl(FindBin)
+perl(HTTP::Headers)
+perl(IO::Handle)
+perl(IO::String)
+perl(List::Util)
+perl(Locale::US)
+perl(Module::Build::XSUtil)
+perl(Moose)
+perl(Params::Coerce)
+perl(Path::Class)
+perl(Pod::Coverage::Moose)
+perl(Regexp::Common)
+perl(Scalar::Util) >= 1.14
+perl(Test)
+perl(Test::Builder)
+perl(Test::Builder::Tester)
+perl(Test::Deep)
+perl(Test::Exception)
+perl(Test::Fatal)
+perl(Test::LeakTrace) >= 0.10
+perl(Test::More) >= 0.88
+perl(Test::Output)
+perl(Test::Requires)
+perl(Tie::Array)
+perl(Tie::Hash)
+perl(Tie::Scalar)
+perl(URI)
+perl(XSLoader) >= 0.02
+perl(base)
+perl(constant)
+perl(if)
+perl(lib)
+perl(mro)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(version) >= 0.9913
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

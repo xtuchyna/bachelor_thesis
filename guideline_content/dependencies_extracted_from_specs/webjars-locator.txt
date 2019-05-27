@@ -1,0 +1,6 @@
+maven-local
+mvn(com.fasterxml.jackson.core:jackson-databind)
+mvn(org.apache.maven.plugins:maven-release-plugin)
+mvn(org.eclipse.aether:aether-util)
+mvn(org.sonatype.oss:oss-parent:pom:)
+mvn(org.webjars:webjars-locator-core)

@@ -1,0 +1,4 @@
+gcc-c++
+perl-Pod-Html
+perl-podlators
+python

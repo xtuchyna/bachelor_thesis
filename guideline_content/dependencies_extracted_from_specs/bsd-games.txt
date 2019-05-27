@@ -1,0 +1,6 @@
+bison
+flex
+flex-devel
+gcc
+ncurses-devel
+words

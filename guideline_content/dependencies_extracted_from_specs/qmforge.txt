@@ -1,0 +1,3 @@
+PyQt4
+python2-cclib
+python2-devel

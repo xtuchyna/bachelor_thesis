@@ -1,0 +1,7 @@
+augeas-devel >= 0.5.2
+git
+libnl3-devel
+libxml2-devel
+libxslt-devel
+readline-devel
+systemd

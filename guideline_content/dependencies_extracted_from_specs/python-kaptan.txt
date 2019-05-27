@@ -1,0 +1,4 @@
+PyYAML
+python2-devel
+python3-PyYAML
+python3-devel

@@ -1,0 +1,4 @@
+libaccounts-glib-devel
+qt5-qtbase-devel
+signon-glib-devel
+telepathy-mission-control-devel

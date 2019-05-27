@@ -1,0 +1,7 @@
+bison
+check-devel
+console-setup
+flex
+gettext
+pam-devel
+xkeyboard-config

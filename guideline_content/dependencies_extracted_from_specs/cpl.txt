@@ -1,0 +1,3 @@
+cfitsio-devel >= 3.350
+fftw-devel
+wcslib-devel

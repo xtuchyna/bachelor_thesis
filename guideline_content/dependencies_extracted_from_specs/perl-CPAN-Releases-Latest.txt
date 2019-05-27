@@ -1,0 +1,16 @@
+findutils
+make
+perl(CPAN::DistnameInfo)
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::HomeDir)
+perl(File::Spec::Functions)
+perl(MetaCPAN::Client) >= 2.006000
+perl(Module::Runtime)
+perl(Moo)
+perl(Test::More) >= 0.88
+perl(autodie)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

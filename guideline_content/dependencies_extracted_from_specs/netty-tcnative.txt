@@ -1,0 +1,16 @@
+apr-devel
+autoconf
+automake
+compat-openssl10-devel
+glibc-devel
+libtool
+maven-antrun-plugin
+maven-hawtjni-plugin
+maven-local
+maven-plugin-build-helper
+maven-plugin-bundle
+maven-remote-resources-plugin
+maven-source-plugin
+mvn(kr.motd.maven:os-maven-plugin)
+netty
+sonatype-oss-parent

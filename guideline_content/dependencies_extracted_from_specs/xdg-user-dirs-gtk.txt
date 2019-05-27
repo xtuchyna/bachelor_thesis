@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext
+gtk3-devel
+intltool
+xdg-user-dirs

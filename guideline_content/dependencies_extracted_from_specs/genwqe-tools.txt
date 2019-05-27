@@ -1,0 +1,2 @@
+help2man
+zlib-devel >= 1.2.7

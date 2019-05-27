@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(ffi) >= 1.3.0
+rubygem(mime-types) >= 1.18
+rubygem(rack)
+rubygem(rspec)
+rubygem(sinatra)
+rubygems-devel >= 1.3.6

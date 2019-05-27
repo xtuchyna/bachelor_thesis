@@ -1,0 +1,6 @@
+mocha
+nodejs-packaging
+npm(cross-spawn)
+npm(extend-shallow)
+npm(is-extglob)
+npm(is-windows)

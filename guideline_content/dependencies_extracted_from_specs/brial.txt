@@ -1,0 +1,4 @@
+boost-devel
+gd-devel
+m4ri-devel
+python2-devel

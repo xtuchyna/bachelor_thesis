@@ -1,0 +1,15 @@
+coreutils
+make
+perl(:VERSION) >= 5.8.1
+perl(Module::Install::Include)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Regexp::Assemble)
+perl(Test::More)
+perl(base)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

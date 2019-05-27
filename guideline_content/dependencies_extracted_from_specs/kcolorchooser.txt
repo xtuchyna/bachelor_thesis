@@ -1,0 +1,6 @@
+cmake(KF5I18n)
+cmake(KF5WidgetsAddons)
+cmake(KF5XmlGui)
+desktop-file-utils
+extra-cmake-modules
+kf5-rpm-macros

@@ -1,0 +1,12 @@
+findutils
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(List::Util)
+perl(Test::More)
+perl(lib)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

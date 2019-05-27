@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(deep-extend)
+npm(ini)
+npm(minimist)
+npm(strip-json-comments)

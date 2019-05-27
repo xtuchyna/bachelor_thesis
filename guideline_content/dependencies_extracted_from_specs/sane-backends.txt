@@ -1,0 +1,12 @@
+/usr/bin/latex
+gcc
+gettext
+gphoto2-devel
+libieee1284-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel
+libusbx-devel
+libv4l-devel
+systemd
+systemd-devel

@@ -1,0 +1,4 @@
+R-crayon
+R-devel
+R-methods
+tex(latex)

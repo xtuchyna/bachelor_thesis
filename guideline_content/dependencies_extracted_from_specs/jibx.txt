@@ -1,0 +1,16 @@
+ant
+ant-junit
+bcel
+bea-stax-api
+dom4j
+eclipse-equinox-osgi >= 1:4.6.0
+eclipse-jdt >= 1:4.6.0
+eclipse-platform >= 1:4.6.0
+javapackages-local
+jdom
+joda-time
+junit
+log4j12
+objectweb-asm3
+qdox
+xpp3

@@ -1,0 +1,9 @@
+cmake
+gettext
+pkgconfig(glib-2.0) >= 2.32
+pkgconfig(gnome-desktop-3.0)
+pkgconfig(granite)
+pkgconfig(gtk+-3.0)
+pkgconfig(switchboard-2.0)
+vala >= 0.22.0
+vala-tools

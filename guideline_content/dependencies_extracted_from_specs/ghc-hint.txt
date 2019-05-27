@@ -1,0 +1,12 @@
+ghc-Cabal-devel
+ghc-HUnit-devel
+ghc-directory-devel
+ghc-exceptions-devel
+ghc-extensible-exceptions-devel
+ghc-filepath-devel
+ghc-ghc-devel
+ghc-ghc-paths-devel
+ghc-mtl-devel
+ghc-random-devel
+ghc-rpm-macros
+ghc-unix-devel

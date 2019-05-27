@@ -1,0 +1,6 @@
+maven-local
+mvn(com.jcraft:jzlib)
+mvn(commons-lang:commons-lang)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache:apache:pom:)
+mvn(org.slf4j:slf4j-api)

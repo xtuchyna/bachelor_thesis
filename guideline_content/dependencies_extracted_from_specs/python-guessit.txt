@@ -1,0 +1,8 @@
+python2-babelfish
+python2-dateutil
+python2-devel
+python2-pytest-runner
+python2-rebulk
+python2-sphinx
+python3-devel
+python3-pytest-runner

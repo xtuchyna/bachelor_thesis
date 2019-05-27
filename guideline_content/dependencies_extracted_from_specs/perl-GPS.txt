@@ -1,0 +1,3 @@
+perl(Device::SerialPort)
+perl(ExtUtils::MakeMaker)
+perl-generators

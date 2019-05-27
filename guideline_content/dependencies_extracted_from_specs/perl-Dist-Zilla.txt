@@ -1,0 +1,97 @@
+coreutils
+make
+perl(App::Cmd::Command::version)
+perl(App::Cmd::Setup) >= 0.330
+perl(App::Cmd::Tester) >= 0.306
+perl(App::Cmd::Tester::CaptureExternal)
+perl(Archive::Tar)
+perl(CPAN::Meta) >= 2.120900
+perl(CPAN::Meta::Check) >= 0.011
+perl(CPAN::Meta::Converter) >= 2.101550
+perl(CPAN::Meta::Merge)
+perl(CPAN::Meta::Prereqs) >= 2.120630
+perl(CPAN::Meta::Requirements) >= 2.121
+perl(CPAN::Meta::Validator) >= 2.101550
+perl(CPAN::Uploader) >= 0.103004
+perl(Carp)
+perl(Config)
+perl(Config::INI::Reader)
+perl(Config::MVP::Assembler)
+perl(Config::MVP::Assembler::WithBundles) >= 2.200010
+perl(Config::MVP::Reader) >= 2.101540
+perl(Config::MVP::Reader::Findable::ByExtension)
+perl(Config::MVP::Reader::Finder)
+perl(Config::MVP::Reader::INI) >= 2.101461
+perl(Config::MVP::Section) >= 2.200009
+perl(Data::Dumper)
+perl(Data::Section) >= 0.200002
+perl(DateTime) >= 0.44
+perl(Digest::MD5)
+perl(Encode)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::Manifest) >= 1.66
+perl(File::Copy::Recursive)
+perl(File::Find::Rule)
+perl(File::HomeDir)
+perl(File::Path)
+perl(File::ShareDir)
+perl(File::ShareDir::Install) >= 0.06
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(File::pushd)
+perl(Hash::Merge::Simple)
+perl(JSON::MaybeXS)
+perl(List::AllUtils)
+perl(List::Util) >= 1.45
+perl(Log::Dispatchouli) >= 1.102220
+perl(Module::CoreList)
+perl(Module::Runtime)
+perl(Moose) >= 0.92
+perl(Moose::Role)
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::LazyRequire)
+perl(MooseX::Role::Parameterized) >= 1.01
+perl(MooseX::SetOnce)
+perl(MooseX::Types)
+perl(MooseX::Types::Moose)
+perl(MooseX::Types::Perl)
+perl(PPI)
+perl(PPI::Document)
+perl(Params::Util)
+perl(Path::Class) >= 0.22
+perl(Path::Tiny) >= 0.052
+perl(Perl::PrereqScanner) >= 1.016
+perl(Pod::Eventual) >= 0.091480
+perl(Scalar::Util)
+perl(Software::License) >= 0.101370
+perl(Software::License::None)
+perl(Software::LicenseUtils)
+perl(String::Formatter) >= 0.100680
+perl(String::RewritePrefix) >= 0.006
+perl(Sub::Exporter)
+perl(Sub::Exporter::ForMethods)
+perl(Sub::Exporter::Util)
+perl(Term::Encoding)
+perl(Term::ReadKey)
+perl(Term::ReadLine)
+perl(Term::UI)
+perl(Test::Deep)
+perl(Test::FailWarnings)
+perl(Test::Fatal)
+perl(Test::File::ShareDir)
+perl(Test::More) >= 0.96
+perl(Text::Glob) >= 0.08
+perl(Text::Template)
+perl(Try::Tiny)
+perl(YAML::Tiny)
+perl(autodie)
+perl(lib)
+perl(namespace::autoclean)
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

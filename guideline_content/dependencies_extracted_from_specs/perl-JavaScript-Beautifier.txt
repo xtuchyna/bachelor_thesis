@@ -1,0 +1,11 @@
+dos2unix
+perl(Exporter)
+perl(Module::Build) >= 0.35
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.22
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

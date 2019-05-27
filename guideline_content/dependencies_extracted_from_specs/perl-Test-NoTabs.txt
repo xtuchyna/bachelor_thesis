@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(CPAN::Meta) >= 2.120900
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Spec)
+perl(File::Temp)
+perl(FindBin)
+perl(Test::Builder)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

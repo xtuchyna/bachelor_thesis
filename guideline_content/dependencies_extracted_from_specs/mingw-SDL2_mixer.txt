@@ -1,0 +1,10 @@
+mingw32-SDL2
+mingw32-filesystem >= 95
+mingw32-flac
+mingw32-gcc
+mingw32-libvorbis
+mingw64-SDL2
+mingw64-filesystem >= 95
+mingw64-flac
+mingw64-gcc
+mingw64-libvorbis

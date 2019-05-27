@@ -1,0 +1,4 @@
+/usr/bin/bacon
+ruby
+ruby(release)
+rubygems-devel

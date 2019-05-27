@@ -1,0 +1,5 @@
+arm-none-eabi-binutils
+arm-none-eabi-gcc
+arm-none-eabi-gcc-c++
+texinfo
+texinfo-tex

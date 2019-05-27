@@ -1,0 +1,12 @@
+desktop-file-utils
+gettext
+intltool
+libappstream-glib
+libglade2-devel
+libgnome-devel
+libgnomeui-devel
+libqalculate-devel
+mpfr-devel
+perl(XML::Parser)
+pkgconfig
+scrollkeeper

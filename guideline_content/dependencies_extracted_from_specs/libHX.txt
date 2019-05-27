@@ -1,0 +1,4 @@
+gcc-c++
+gpg
+perl-interpreter
+xz

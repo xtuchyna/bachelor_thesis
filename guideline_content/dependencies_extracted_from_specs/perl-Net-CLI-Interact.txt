@@ -1,0 +1,21 @@
+coreutils
+findutils
+perl(Class::Load)
+perl(Class::Mix)
+perl(File::ShareDir)
+perl(IO::Pty)
+perl(List::Util)
+perl(Log::Dispatch::Config)
+perl(Log::Dispatch::Configurator::Any)
+perl(Module::Build)
+perl(Moo)
+perl(Moo::Role)
+perl(MooX::Types::MooseLike::Base)
+perl(Path::Class)
+perl(Sub::Quote)
+perl(Test::More) >= 0.88
+perl(Time::HiRes)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

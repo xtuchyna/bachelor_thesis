@@ -1,0 +1,5 @@
+gawk(abi) < 3.0
+gawk(abi) >= 2.0
+gawk-devel >= 4.2.1
+gcc-c++
+rapidjson-devel

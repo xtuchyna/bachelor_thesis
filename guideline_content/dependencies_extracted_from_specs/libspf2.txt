@@ -1,0 +1,8 @@
+automake
+doxygen
+graphviz
+perl(ExtUtils::MakeMaker)
+perl(String::Escape)
+perl(Test::Pod)
+perl-devel
+perl-generators

@@ -1,0 +1,4 @@
+atkmm-devel
+clutter-devel
+gtkmm30-devel
+pangomm-devel

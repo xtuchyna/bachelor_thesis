@@ -1,0 +1,11 @@
+autoconf-archive
+automake
+check-devel
+gcc
+libtool
+make
+pkgconfig
+python-docutils
+uuid-devel
+varnish
+varnish-devel

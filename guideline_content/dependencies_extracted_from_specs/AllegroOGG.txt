@@ -1,0 +1,2 @@
+allegro-devel
+libvorbis-devel

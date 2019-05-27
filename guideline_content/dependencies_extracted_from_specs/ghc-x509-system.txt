@@ -1,0 +1,11 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-mtl-devel
+ghc-pem-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-x509-devel
+ghc-x509-store-devel

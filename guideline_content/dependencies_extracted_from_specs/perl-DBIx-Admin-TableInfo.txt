@@ -1,0 +1,9 @@
+make
+perl(Data::Dumper::Concise) >= 2.022
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Moo) >= 2.002004
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

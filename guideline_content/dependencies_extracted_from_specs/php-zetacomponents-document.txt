@@ -1,0 +1,15 @@
+php(language) >= 5.3.0
+php-composer(phpunit/phpunit)
+php-composer(zetacomponents/base) < 2.0
+php-composer(zetacomponents/base) >= 1.0
+php-composer(zetacomponents/unit-test) < 2.0
+php-composer(zetacomponents/unit-test) >= 1.0
+php-ctype
+php-date
+php-dom
+php-fedora-autoloader-devel
+php-iconv
+php-libxml
+php-pcre
+php-spl
+php-xsl

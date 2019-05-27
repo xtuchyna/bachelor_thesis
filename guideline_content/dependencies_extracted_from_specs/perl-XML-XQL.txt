@@ -1,0 +1,17 @@
+make
+perl(Carp)
+perl(Date::Manip) >= 5.33
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(LWP::UserAgent)
+perl(POSIX)
+perl(Parse::Yapp::Driver)
+perl(XML::DOM) >= 1.29
+perl(XML::Parser) >= 2.30
+perl(XML::RegExp)
+perl(base)
+perl(fields)
+perl(overload)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

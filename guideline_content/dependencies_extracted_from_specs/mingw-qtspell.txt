@@ -1,0 +1,13 @@
+cmake
+mingw32-enchant2
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-qt
+mingw32-qt5-qtbase-devel
+mingw32-qt5-qttools
+mingw64-enchant2
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-qt
+mingw64-qt5-qtbase-devel
+mingw64-qt5-qttools

@@ -1,0 +1,8 @@
+bison
+dbus-x11
+extra-cmake-modules
+kf5-kdelibs4support-devel >= 5.15
+kf5-rpm-macros
+libical-devel
+qt5-qtbase-devel
+xorg-x11-server-Xvfb

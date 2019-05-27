@@ -1,0 +1,10 @@
+maven-local
+mvn(cglib:cglib)
+mvn(junit:junit)
+mvn(org.apache.maven.plugins:maven-dependency-plugin)
+mvn(org.beanshell:bsh)
+mvn(org.codehaus.mojo:exec-maven-plugin)
+mvn(org.hamcrest:hamcrest-library)
+mvn(org.objenesis:objenesis)
+mvn(org.ow2.asm:asm)
+mvn(org.sonatype.oss:oss-parent:pom:)

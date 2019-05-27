@@ -1,0 +1,14 @@
+perl(Carp)
+perl(Data::Dump)
+perl(Exporter)
+perl(Module::Build)
+perl(Scalar::Util)
+perl(Test::Exception)
+perl(Test::FailWarnings)
+perl(Test::More)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

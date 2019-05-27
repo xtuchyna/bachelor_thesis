@@ -1,0 +1,6 @@
+desktop-file-utils
+gettext
+libappstream-glib
+python-psutil
+python-twisted
+python2-devel

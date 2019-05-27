@@ -1,0 +1,7 @@
+boost-devel
+cxxtest
+doxygen
+log4cpp-devel
+xerces-c-devel >= 2.8.0
+xml-security-c-devel >= 1.4.0
+xmltooling-devel >= 1.6.0

@@ -1,0 +1,10 @@
+R-DBI
+R-RSQLite
+R-devel
+R-grDevices
+R-graphics
+R-lattice
+R-methods
+R-stats
+R-testthat
+tex(latex)

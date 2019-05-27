@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+ruby(rubygems)
+rubygem(mixlib-log)
+rubygem(rspec)
+rubygems-devel

@@ -1,0 +1,4 @@
+bison
+flex
+flex-static
+python2-devel

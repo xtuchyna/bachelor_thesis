@@ -1,0 +1,6 @@
+/usr/bin/node
+ruby
+ruby(release)
+rubygem(execjs)
+rubygem(test-unit)
+rubygems-devel

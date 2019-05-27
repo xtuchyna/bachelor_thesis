@@ -1,0 +1,21 @@
+make
+perl(Catalyst::Plugin::Session) >= 0.27
+perl(Catalyst::Plugin::Session::State::Cookie) >= 0.03
+perl(Class::Data::Inheritable)
+perl(HTML::TokeParser::Simple)
+perl(MIME::Types)
+perl(MRO::Compat)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::MockObject) >= 1.01
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Test::WWW::Mechanize::Catalyst)
+perl(URI)
+perl(URI::Find)
+perl(URI::QueryParam)
+perl(inc::Module::Install)
+perl-generators
+perl-interpreter
+sed

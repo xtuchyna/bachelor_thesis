@@ -1,0 +1,12 @@
+desktop-file-utils
+gettext
+intltool
+pkgconfig(dbus-1) >= 0.60
+pkgconfig(dbus-glib-1) >= 0.70
+pkgconfig(libnotify) >= 0.4.1
+pkgconfig(libxfce4panel-1.0) >= 4.6.0
+pkgconfig(libxfce4ui-2) >= 4.12.0
+pkgconfig(libxfconf-0) >= 4.6.0
+pkgconfig(xrandr) >= 1.2.0
+upower-devel
+xorg-x11-proto-devel >= 1.0.0

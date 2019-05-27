@@ -1,0 +1,11 @@
+python-fixtures
+python-mock
+python-oslo-sphinx
+python-pbr
+python-reno
+python-sphinx
+python2-devel
+python3-devel
+python3-fixtures
+python3-mock
+python3-pbr

@@ -1,0 +1,21 @@
+/usr/bin/hostname
+java-devel
+jpackage-utils
+mx4j
+perl(Directory::Scratch)
+perl(HTML::Template)
+perl(LWP::UserAgent)
+perl(Log::Log4perl) >= 1.18
+perl(Module::Build)
+perl(Net::SNMP)
+perl(Net::SSLeay)
+perl(Net::Server)
+perl(Test::Exception)
+perl(Test::MockModule)
+perl(Test::MockObject)
+perl(Test::Pod::Coverage)
+perl(Time::HiRes)
+perl-Carp
+perl-generators
+perl-interpreter >= 5.8
+systemd-units

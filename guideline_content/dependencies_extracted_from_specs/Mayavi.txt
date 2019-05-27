@@ -1,0 +1,8 @@
+/usr/bin/sphinx-build
+desktop-file-utils
+numpy
+python2-devel
+python2-setuptools
+python2-traits
+vtk-python
+xorg-x11-server-Xvfb

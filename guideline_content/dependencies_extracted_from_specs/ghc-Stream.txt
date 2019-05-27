@@ -1,0 +1,4 @@
+ghc-Cabal-devel
+ghc-QuickCheck-devel
+ghc-lazysmallcheck-devel
+ghc-rpm-macros

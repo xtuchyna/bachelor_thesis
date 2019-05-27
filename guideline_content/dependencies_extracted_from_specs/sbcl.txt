@@ -1,0 +1,9 @@
+common-lisp-controller
+ed
+gcc
+ghostscript
+hostname
+sbcl
+texinfo
+time
+zlib-devel

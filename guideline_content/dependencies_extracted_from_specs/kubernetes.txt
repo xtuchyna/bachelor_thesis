@@ -1,0 +1,5 @@
+go-bindata
+go-md2man
+golang >= 1.2-7
+rsync
+systemd

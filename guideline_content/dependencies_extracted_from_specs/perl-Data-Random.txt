@@ -1,0 +1,28 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Find)
+perl(File::Path)
+perl(File::Temp)
+perl(FileHandle)
+perl(FindBin)
+perl(GD)
+perl(JSON)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Time::Piece)
+perl(YAML::Tiny)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

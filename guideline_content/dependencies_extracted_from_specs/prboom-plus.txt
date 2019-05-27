@@ -1,0 +1,9 @@
+SDL_image-devel
+SDL_mixer-devel
+SDL_net-devel
+desktop-file-utils
+dumb-devel
+fluidsynth-devel
+libGLU-devel
+libpng-devel
+pcre-devel

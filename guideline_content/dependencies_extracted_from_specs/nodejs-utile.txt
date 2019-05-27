@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(deep-equal)
+npm(i)
+npm(mkdirp)
+npm(ncp)
+npm(rimraf)
+npm(vows)

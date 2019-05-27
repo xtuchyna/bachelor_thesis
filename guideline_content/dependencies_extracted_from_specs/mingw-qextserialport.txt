@@ -1,0 +1,8 @@
+mingw32-filesystem >= 95
+mingw32-gcc-c++
+mingw32-qt
+mingw32-qt5-qtbase
+mingw64-filesystem >= 95
+mingw64-gcc-c++
+mingw64-qt
+mingw64-qt5-qtbase

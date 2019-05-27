@@ -1,0 +1,12 @@
+coreutils
+glibc-common
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Scalar::Util)
+perl(Test)
+perl(XML::SAX::Base) >= 1.02
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

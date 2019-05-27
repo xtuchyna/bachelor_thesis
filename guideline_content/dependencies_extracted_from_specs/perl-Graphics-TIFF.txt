@@ -1,0 +1,31 @@
+coreutils
+findutils
+gcc
+grep
+libtiff-tools
+make
+perl(:VERSION) >= 5.10
+perl(:VERSION) >= 5.8.5
+perl(English)
+perl(Exporter)
+perl(ExtUtils::Depends)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::PkgConfig)
+perl(File::Spec)
+perl(Image::Magick)
+perl(Readonly)
+perl(Test::Deep)
+perl(Test::More)
+perl(Test::Requires)
+perl(XSLoader)
+perl(base)
+perl(feature)
+perl(if)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig(libtiff-4) >= 4.0.3
+util-linux
+which

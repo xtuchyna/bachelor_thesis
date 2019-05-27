@@ -1,0 +1,7 @@
+mocha
+nodejs-packaging
+npm(extend-shallow)
+npm(is-extendable)
+npm(is-plain-object)
+npm(split-string)
+npm(to-object-path)

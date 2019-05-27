@@ -1,0 +1,7 @@
+php-devel > 7
+php-json
+php-pear
+php-pecl-raphf-devel >= 1.1.0
+postgresql-contrib
+postgresql-devel > 9
+postgresql-server

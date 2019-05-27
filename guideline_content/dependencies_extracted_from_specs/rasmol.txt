@@ -1,0 +1,13 @@
+CBFlib-devel
+CQRlib-devel
+CVector-devel
+NearTree-devel
+desktop-file-utils
+gtk2-devel
+imake
+libX11-devel
+libXext-devel
+libXi-devel
+libXpm-devel
+vte-devel
+xforms-devel

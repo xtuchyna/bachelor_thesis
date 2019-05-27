@@ -1,0 +1,22 @@
+/usr/bin/appstream-util
+SDL_Pango-devel
+SDL_mixer-devel
+desktop-file-utils
+gettext
+glib2-devel
+perl(Alien::SDL) >= 1.413
+perl(ExtUtils::CBuilder)
+perl(File::Slurp)
+perl(File::Spec::Functions)
+perl(IO::File)
+perl(IPC::System::Simple)
+perl(Locale::Maketext::Extract)
+perl(Module::Build) >= 0.36
+perl(SDL) >= 2.511
+perl(Test::More)
+perl(autodie)
+perl(lib)
+perl(parent)
+perl-devel
+perl-generators
+systemd

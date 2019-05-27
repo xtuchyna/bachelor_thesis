@@ -1,0 +1,10 @@
+autoconf
+automake
+hidapi-devel
+libtool
+libzip-devel
+perl(ExtUtils::MakeMaker)
+perl-devel
+perl-generators
+python2-devel
+swig

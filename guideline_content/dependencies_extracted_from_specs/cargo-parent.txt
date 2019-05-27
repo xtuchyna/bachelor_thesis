@@ -1,0 +1,4 @@
+codehaus-parent
+maven-checkstyle-plugin
+maven-local
+maven-release-plugin

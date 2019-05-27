@@ -1,0 +1,3 @@
+python-urlgrabber
+python2-devel
+python2-rpm

@@ -1,0 +1,16 @@
+doxygen-latex
+gcc-c++
+ghostscript-tools-dvipdf
+javapackages-local
+mpfr-devel
+ocaml
+ocaml-camlidl-devel
+ocaml-findlib
+ocaml-mlgmpidl-devel
+ocaml-ocamldoc
+perl-interpreter
+ppl-devel
+tex(adjustbox.sty)
+tex(fullpage.sty)
+tex(tabu.sty)
+texinfo-tex

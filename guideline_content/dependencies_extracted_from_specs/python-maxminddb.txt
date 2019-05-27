@@ -1,0 +1,8 @@
+libmaxminddb-devel
+python2-devel
+python2-ipaddress
+python2-nose
+python2-setuptools
+python3-devel
+python3-nose
+python3-setuptools

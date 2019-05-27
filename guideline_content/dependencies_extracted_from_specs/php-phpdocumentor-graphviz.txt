@@ -1,0 +1,6 @@
+graphviz
+php(language) >= 5.3.3
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-pcre
+php-spl

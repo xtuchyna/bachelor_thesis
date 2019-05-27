@@ -1,0 +1,13 @@
+cppunit-devel
+glite-jobid-api-c-devel
+glite-lb-client-devel
+glite-lb-state-machine-devel
+glite-lb-types
+glite-lbjp-common-jp-interface-devel
+glite-lbjp-common-maildir-devel
+glite-lbjp-common-trio-devel
+libtool
+perl(Getopt::Long)
+perl(POSIX)
+perl-interpreter
+pkgconfig

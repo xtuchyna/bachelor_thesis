@@ -1,0 +1,10 @@
+perl(IO::Capture::Stderr)
+perl(Module::Build)
+perl(Test::Distribution)
+perl(Test::Kwalitee)
+perl(Test::More)
+perl(Test::Signature)
+perl(Test::Warn)
+perl(YAML)
+perl-generators
+perl-interpreter

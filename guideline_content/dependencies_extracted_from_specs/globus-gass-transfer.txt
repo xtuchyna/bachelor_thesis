@@ -1,0 +1,5 @@
+doxygen
+globus-common-devel >= 15
+globus-gss-assist-devel >= 8
+globus-gssapi-gsi-devel >= 10
+globus-io-devel >= 8

@@ -1,0 +1,8 @@
+cdparanoia-devel
+cmake
+desktop-file-utils
+gettext
+kdelibs-devel
+kdemultimedia-devel
+qt4-devel
+taglib-devel

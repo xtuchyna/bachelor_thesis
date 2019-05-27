@@ -1,0 +1,12 @@
+python2-asttokens
+python2-devel
+python2-flake8
+python2-pycodestyle
+python2-pytest
+python2-setuptools
+python3-asttokens
+python3-devel
+python3-flake8
+python3-pycodestyle
+python3-pytest
+python3-setuptools

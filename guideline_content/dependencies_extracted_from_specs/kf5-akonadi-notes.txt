@@ -1,0 +1,7 @@
+cmake(Qt5Xml)
+cyrus-sasl-devel
+extra-cmake-modules
+kf5-akonadi-server-devel >= 17.12.3
+kf5-ki18n-devel >= 5.23
+kf5-kmime-devel >= 17.12.3
+kf5-rpm-macros

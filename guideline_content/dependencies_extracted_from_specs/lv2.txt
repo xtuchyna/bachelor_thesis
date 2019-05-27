@@ -1,0 +1,7 @@
+doxygen
+gcc
+graphviz
+libsndfile-devel
+python2-devel
+python2-pygments
+python2-rdflib

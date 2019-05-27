@@ -1,0 +1,15 @@
+cmake
+cppunit-devel
+doxygen
+fontconfig-devel
+freetype-devel
+gcc-c++
+ghostscript
+libidn-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel
+lua-devel
+openssl-devel
+texlive-epstopdf-bin
+zlib-devel

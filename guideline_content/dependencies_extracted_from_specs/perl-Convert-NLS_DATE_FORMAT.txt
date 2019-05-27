@@ -1,0 +1,7 @@
+perl(Exporter)
+perl(Module::Build::Tiny) >= 0.035
+perl(Test::More) >= 0.98
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

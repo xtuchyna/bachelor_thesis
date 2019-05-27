@@ -1,0 +1,6 @@
+gcc
+make
+pkgconfig
+python-docutils >= 0.6
+varnish
+varnish-libs-devel

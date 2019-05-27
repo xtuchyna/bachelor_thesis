@@ -1,0 +1,9 @@
+coffee-script
+expresso
+nodejs-packaging
+npm(async)
+npm(console.log)
+npm(ejs)
+npm(paperboy)
+npm(should)
+npm(tap)

@@ -1,0 +1,11 @@
+boost-devel
+desktop-file-utils
+expat-devel
+gettext-devel
+libappstream-glib
+libcurl-devel
+pkgconfig(dbus-glib-1)
+pkgconfig(gtk+-3.0)
+pkgconfig(lua)
+ragel
+scons

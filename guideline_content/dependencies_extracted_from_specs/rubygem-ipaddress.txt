@@ -1,0 +1,2 @@
+rubygem(minitest)
+rubygems-devel

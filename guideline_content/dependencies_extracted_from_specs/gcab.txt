@@ -1,0 +1,8 @@
+gettext
+git
+glib2-devel
+gobject-introspection-devel
+gtk-doc
+meson
+vala-tools
+zlib-devel

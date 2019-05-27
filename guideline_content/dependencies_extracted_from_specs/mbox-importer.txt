@@ -1,0 +1,12 @@
+cmake(KF5Config)
+cmake(KF5Crash)
+cmake(KF5KIO)
+cmake(KF5Service)
+cmake(Qt5Widgets)
+desktop-file-utils
+extra-cmake-modules
+gettext
+kf5-akonadi-server-devel >= 17.12
+kf5-mailcommon-devel >= 17.12
+kf5-mailimporter-devel >= 17.12
+kf5-rpm-macros

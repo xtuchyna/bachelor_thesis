@@ -1,0 +1,8 @@
+perl(:VERSION) >= 5.10
+perl(Module::Build) >= 0.37
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

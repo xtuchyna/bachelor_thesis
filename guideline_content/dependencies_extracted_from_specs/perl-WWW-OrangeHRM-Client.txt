@@ -1,0 +1,14 @@
+make
+perl(DateTime)
+perl(DateTime::Duration)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(HTML::TreeBuilder::LibXML)
+perl(Test::More)
+perl(WWW::Mechanize)
+perl(strict)
+perl(utf8)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

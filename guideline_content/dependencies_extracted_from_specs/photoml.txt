@@ -1,0 +1,10 @@
+dcraw
+imageinfo
+libxml2
+libxslt
+perl-DateManip
+perl-Image-ExifTool >= 6.77
+perl-generators
+perl-interpreter
+xgrep
+xhtml1-dtds

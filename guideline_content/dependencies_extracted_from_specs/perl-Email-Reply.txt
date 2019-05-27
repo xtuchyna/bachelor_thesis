@@ -1,0 +1,14 @@
+perl(Capture::Tiny)
+perl(Email::Abstract) >= 2.01
+perl(Email::Address) >= 1.80
+perl(Email::MIME) >= 1.82
+perl(Email::MIME::Modifier)
+perl(Email::Simple)
+perl(Email::Simple::Creator)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(Test::More) >= 0.88
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,14 @@
+PyYAML
+python-catkin-sphinx
+python-catkin_pkg
+python-nose
+python-rosdistro >= 0.4.0
+python-rospkg >= 1.0.34
+python-sphinx
+python2-devel
+python3-PyYAML
+python3-catkin_pkg
+python3-devel
+python3-nose
+python3-rosdistro >= 0.4.0
+python3-rospkg >= 1.0.34

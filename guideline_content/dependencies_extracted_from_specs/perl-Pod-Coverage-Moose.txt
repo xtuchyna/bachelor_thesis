@@ -1,0 +1,22 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Class::Load)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Moose) >= 2.1300
+perl(Moose::Role)
+perl(MooseX::AttributeHelpers)
+perl(MooseX::Role::WithOverloading)
+perl(Pod::Coverage)
+perl(Test::More) >= 0.88
+perl(Test::Requires)
+perl(if)
+perl(lib)
+perl(namespace::autoclean) >= 0.08
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

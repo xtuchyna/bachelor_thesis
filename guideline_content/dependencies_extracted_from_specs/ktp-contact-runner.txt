@@ -1,0 +1,7 @@
+extra-cmake-modules
+kf5-ki18n-devel
+kf5-krunner-devel
+kf5-kservice-devel
+kf5-rpm-macros
+ktp-common-internals-devel >= 17.12
+qt5-qtbase-devel

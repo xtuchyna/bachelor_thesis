@@ -1,0 +1,4 @@
+cmake
+doxygen
+pkgconfig(libxml-2.0)
+pkgconfig(neon)

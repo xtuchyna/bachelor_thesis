@@ -1,0 +1,6 @@
+argyllcms
+lcms2-devel
+potrace-devel
+pycairo-devel
+python-devel
+python-pillow-devel

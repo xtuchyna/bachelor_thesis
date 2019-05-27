@@ -1,0 +1,3 @@
+erlang-edown
+erlang-rebar
+ocl-icd-devel

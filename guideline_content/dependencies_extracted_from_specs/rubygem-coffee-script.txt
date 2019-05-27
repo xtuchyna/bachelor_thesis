@@ -1,0 +1,7 @@
+/usr/bin/node
+ruby
+ruby(release)
+rubygem(coffee-script-source)
+rubygem(execjs)
+rubygem(minitest)
+rubygems-devel

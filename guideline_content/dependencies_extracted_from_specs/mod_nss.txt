@@ -1,0 +1,17 @@
+apr-devel
+apr-util-devel
+autoconf
+automake
+bison
+flex
+hostname
+httpd-devel
+libtool
+nspr-devel >= 4.9.2
+nss-devel >= 3.14.0.0
+nss-tools
+openssl
+pkgconfig
+python-ndg_httpsclient
+python-nose
+python-requests >= 2.7.0

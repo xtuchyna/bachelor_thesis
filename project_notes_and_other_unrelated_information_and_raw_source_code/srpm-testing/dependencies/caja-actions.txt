@@ -1,0 +1,10 @@
+caja-devel
+dblatex
+libSM-devel
+libgtop2-devel
+libuuid-devel
+libxml2-devel
+mate-common
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+yelp-tools

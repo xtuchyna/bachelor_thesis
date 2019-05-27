@@ -1,0 +1,5 @@
+autoconf
+automake
+libtool
+readline-devel
+tcl-devel

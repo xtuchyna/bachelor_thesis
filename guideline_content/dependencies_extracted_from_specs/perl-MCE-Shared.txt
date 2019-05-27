@@ -1,0 +1,29 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(IO::FDPass) >= 1.2
+perl(MCE) >= 1.835
+perl(MCE::Flow)
+perl(MCE::Mutex)
+perl(MCE::Signal)
+perl(MCE::Util)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Socket)
+perl(Storable) >= 2.04
+perl(Symbol)
+perl(Test::More) >= 0.88
+perl(Time::HiRes)
+perl(base)
+perl(bytes)
+perl(constant)
+perl(overload)
+perl(overloading)
+perl(strict)
+perl(threads)
+perl(threads::shared)
+perl(warnings)
+perl-generators
+perl-interpreter

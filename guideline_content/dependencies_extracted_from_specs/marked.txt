@@ -1,0 +1,3 @@
+nodejs-packaging
+uglify-js
+web-assets-devel

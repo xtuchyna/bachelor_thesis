@@ -1,0 +1,11 @@
+htmlunit
+javacc-maven-plugin
+jcl-over-slf4j
+junit
+logback
+maven-local
+maven-plugin-exec
+maven-site-plugin
+mockito
+regexp
+tomcat-servlet-3.1-api

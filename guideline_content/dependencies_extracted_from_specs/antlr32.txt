@@ -1,0 +1,8 @@
+ant-antlr
+antlr32-maven-plugin = 3.2
+exec-maven-plugin
+maven-local
+maven-plugin-build-helper
+maven-plugin-bundle
+maven-plugin-plugin
+stringtemplate >= 3.2

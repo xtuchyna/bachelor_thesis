@@ -1,0 +1,17 @@
+coreutils
+perl(Cwd)
+perl(Data::Dumper)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Path)
+perl(File::Temp)
+perl(Getopt::Long)
+perl(Storable)
+perl(strict)
+perl-generators
+perl-interpreter
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+sed
+txt2man

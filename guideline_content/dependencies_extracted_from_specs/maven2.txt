@@ -1,0 +1,9 @@
+maven-local
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.apache.maven.plugins:maven-shade-plugin)
+mvn(org.apache.maven.wagon:wagon-provider-api)
+mvn(org.apache.maven:maven-parent:pom:)
+mvn(org.codehaus.modello:modello-maven-plugin)
+mvn(org.codehaus.plexus:plexus-container-default)
+mvn(org.codehaus.plexus:plexus-interpolation)
+mvn(org.codehaus.plexus:plexus-utils)

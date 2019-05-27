@@ -1,0 +1,33 @@
+GeoIP-devel
+autoconf
+docbook-style-xsl
+findutils
+fstrm-devel
+gcc
+json-c-devel
+krb5-devel
+kyua
+libcap-devel
+libcmocka-devel
+libdb-devel
+libidn2-devel
+libpq-devel
+libtool
+libxml2-devel
+libxslt
+lmdb-devel
+make
+mariadb-connector-c-devel
+openldap-devel
+openssl-devel
+pkgconfig
+protobuf-c-devel
+python3-devel
+python3-ply
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+sed
+selinux-policy
+softhsm
+sqlite-devel
+systemd

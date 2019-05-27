@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(IO::Handle)
+perl(Scalar::Util)
+perl(Term::ReadKey)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Want)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,7 @@
+XmlSchema
+apache-commons-logging
+axiom
+log4j12
+maven-local
+maven-plugin-bundle
+xerces-j2

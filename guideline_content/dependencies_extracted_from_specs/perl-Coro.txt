@@ -1,0 +1,33 @@
+coreutils
+findutils
+gcc
+libecb-static
+make
+perl(AnyEvent) >= 7
+perl(AnyEvent::Socket)
+perl(AnyEvent::Util)
+perl(Canary::Stability)
+perl(Carp)
+perl(Config)
+perl(EV) >= 4
+perl(EV::MakeMaker)
+perl(Errno)
+perl(Event) >= 1.08
+perl(Event::MakeMaker)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Guard) >= 0.5
+perl(IO::Socket::INET)
+perl(Scalar::Util)
+perl(Socket)
+perl(Storable) >= 2.15
+perl(XSLoader)
+perl(base)
+perl(common::sense)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

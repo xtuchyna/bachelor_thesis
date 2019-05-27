@@ -1,0 +1,8 @@
+gettext-devel
+glib2-devel
+gtk-doc
+libicu-devel
+libidn2-devel
+libunistring-devel
+libxslt
+publicsuffix-list

@@ -1,0 +1,28 @@
+coreutils
+make
+perl(:VERSION) >= 5.8.1
+perl(Compress::Zlib)
+perl(FindBin)
+perl(HTTP::Request::Common)
+perl(IO::Handle::Util)
+perl(Module::Install::AuthorTests)
+perl(Module::Install::Metadata)
+perl(Module::Install::ReadmeFromPod)
+perl(Module::Install::Repository)
+perl(Module::Install::WriteAll)
+perl(Plack::Builder)
+perl(Plack::Loader)
+perl(Plack::Middleware)
+perl(Plack::Test)
+perl(Plack::Util)
+perl(Plack::Util::Accessor)
+perl(Test::More) >= 0.96
+perl(Test::Requires)
+perl(constant)
+perl(inc::Module::Install)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

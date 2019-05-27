@@ -1,0 +1,15 @@
+gettext
+glib2-devel
+intltool
+mingw32-binutils
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-gettext
+mingw32-gtk3
+mingw32-libxml2
+mingw64-binutils
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-gettext
+mingw64-gtk3
+mingw64-libxml2

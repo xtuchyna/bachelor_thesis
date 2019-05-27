@@ -1,0 +1,3 @@
+glib2-devel
+libXmu-devel
+xorg-x11-proto-devel

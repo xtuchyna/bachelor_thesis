@@ -1,0 +1,6 @@
+maven-local
+mvn(com.sun:tools)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.kohsuke:pom:pom:)
+mvn(org.mockito:mockito-all)

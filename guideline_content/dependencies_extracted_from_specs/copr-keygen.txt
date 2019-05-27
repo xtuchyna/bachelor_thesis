@@ -1,0 +1,12 @@
+python3-devel
+python3-flask
+python3-mock
+python3-pytest
+python3-pytest-cov
+python3-requests
+python3-setuptools
+python3-six
+python3-sphinx
+python3-sphinxcontrib-httpdomain
+systemd
+util-linux

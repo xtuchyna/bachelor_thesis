@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(deep-is)
+npm(fast-levenshtein)
+npm(levn)
+npm(prelude-ls)
+npm(type-check)
+npm(wordwrap)

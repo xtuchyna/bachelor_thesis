@@ -1,0 +1,7 @@
+perl(Math::BigInt)
+perl(Module::Build)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

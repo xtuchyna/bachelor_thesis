@@ -1,0 +1,11 @@
+docbook-style-xsl
+gettext
+gstreamer1-plugins-base
+gstreamer1-plugins-good
+js-jquery1 >= 1.11.0
+libxslt
+python3-devel
+python3-genshi
+python3-gexiv2
+python3-gstreamer1
+python3-pillow

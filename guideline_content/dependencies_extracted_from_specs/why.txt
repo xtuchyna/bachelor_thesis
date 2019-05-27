@@ -1,0 +1,17 @@
+auto-destdir
+coq
+desktop-file-utils
+frama-c
+gappalib-coq
+ocaml
+ocaml-apron-devel
+ocaml-camlp5-devel
+ocaml-findlib
+ocaml-mlgmpidl-devel
+ocaml-ocamldoc
+ocaml-ocamlgraph-devel
+ocaml-zarith-devel
+pvs
+why3
+xemacs
+xemacs-packages-extra

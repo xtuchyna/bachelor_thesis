@@ -1,0 +1,15 @@
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(Data::Serializer)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(Sys::Syslog)
+perl(Test::More)
+perl(Time::HiRes)
+perl(strict)
+perl-generators
+perl-interpreter

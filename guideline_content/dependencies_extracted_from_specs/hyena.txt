@@ -1,0 +1,4 @@
+gtk-sharp2-devel
+mono-data
+mono-devel
+mono-nunit-devel >= 2.4.7

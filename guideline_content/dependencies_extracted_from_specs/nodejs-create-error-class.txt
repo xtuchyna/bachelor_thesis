@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(capture-stack-trace)
+npm(inherits)
+npm(mocha)

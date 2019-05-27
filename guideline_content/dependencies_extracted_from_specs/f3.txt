@@ -1,0 +1,2 @@
+parted-devel
+systemd-devel

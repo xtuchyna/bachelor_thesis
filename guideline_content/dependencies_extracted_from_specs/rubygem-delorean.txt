@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(activesupport)
+rubygem(chronic)
+rubygem(rspec)
+rubygems-devel

@@ -1,0 +1,13 @@
+ruby
+ruby(release)
+rubygem(activemodel)
+rubygem(asciidoctor)
+rubygem(creole)
+rubygem(org-ruby)
+rubygem(rails-controller-testing)
+rubygem(railties)
+rubygem(redcarpet)
+rubygem(sass)
+rubygem(temple)
+rubygem(tilt)
+rubygems-devel

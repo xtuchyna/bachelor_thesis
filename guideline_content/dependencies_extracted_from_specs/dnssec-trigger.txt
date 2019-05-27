@@ -1,0 +1,8 @@
+NetworkManager-libnm-devel
+desktop-file-utils
+gcc
+gtk2-devel
+ldns-devel
+openssl-devel
+python3-devel
+systemd

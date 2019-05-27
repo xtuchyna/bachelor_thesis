@@ -1,0 +1,5 @@
+desktop-file-utils
+inews
+texlive-collection-latexextra
+tk-devel
+transfig

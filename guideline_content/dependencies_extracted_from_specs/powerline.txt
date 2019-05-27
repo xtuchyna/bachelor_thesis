@@ -1,0 +1,8 @@
+fdupes
+fontconfig
+python3-devel
+python3-setuptools
+python3-sphinx
+systemd
+tmux
+vim-minimal

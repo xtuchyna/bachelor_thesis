@@ -1,0 +1,36 @@
+/usr/bin/ssh
+autoconf
+automake
+docbook-style-xsl
+gettext-devel >= 0.19.4
+libexif-devel
+libgcrypt-devel >= 1.2.2
+libsmbclient-devel >= 3.4.0
+libtool
+libusb-devel >= 1.0.21
+pkgconfig
+pkgconfig(avahi-client) >= 0.6
+pkgconfig(avahi-glib) >= 0.6
+pkgconfig(dbus-glib-1)
+pkgconfig(fuse) >= 2.8.0
+pkgconfig(gcr-3)
+pkgconfig(glib-2.0) >= 2.51.0
+pkgconfig(goa-1.0) >= 3.17.1
+pkgconfig(gudev-1.0) >= 147
+pkgconfig(libarchive) >= 3.0.22
+pkgconfig(libbluray)
+pkgconfig(libcap)
+pkgconfig(libcdio_paranoia) >= 0.78.2
+pkgconfig(libgdata) >= 0.17.9
+pkgconfig(libgphoto2) >= 2.5.0
+pkgconfig(libimobiledevice-1.0) >= 1.2
+pkgconfig(libmtp) >= 1.1.12
+pkgconfig(libnfs) >= 1.9.8
+pkgconfig(libplist) >= 0.15
+pkgconfig(libsecret-1)
+pkgconfig(libsoup-2.4) >= 2.42.0
+pkgconfig(libxslt)
+pkgconfig(polkit-gobject-1)
+pkgconfig(talloc) >= 1.3.0
+pkgconfig(udisks2) >= 1.97
+systemd-devel >= 206

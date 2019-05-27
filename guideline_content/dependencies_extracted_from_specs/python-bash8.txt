@@ -1,0 +1,9 @@
+python-babel
+python-fixtures
+python-oslo-sphinx
+python-pbr
+python-sphinx
+python2-devel
+python3-devel
+python3-fixtures
+python3-pbr

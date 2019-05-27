@@ -1,0 +1,6 @@
+java-devel
+javacc-maven-plugin
+jpackage-utils
+maven-enforcer-plugin
+maven-local
+sonatype-oss-parent

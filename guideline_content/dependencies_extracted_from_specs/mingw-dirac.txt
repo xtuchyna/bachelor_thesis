@@ -1,0 +1,4 @@
+mingw32-binutils
+mingw32-filesystem >= 23
+mingw32-gcc
+mingw32-gcc-c++

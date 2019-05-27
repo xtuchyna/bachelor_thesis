@@ -1,0 +1,11 @@
+LibRaw-devel
+cfitsio-devel
+cmake
+dcraw
+libgphoto2-devel
+libindi = 1.6.2
+libindi-devel = 1.6.2
+libjpeg-devel
+libusb-devel
+systemd
+zlib-devel

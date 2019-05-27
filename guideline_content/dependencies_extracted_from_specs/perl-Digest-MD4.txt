@@ -1,0 +1,14 @@
+gdbm-devel
+libdb-devel
+perl(Config)
+perl(DynaLoader)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(MIME::Base64)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

@@ -1,0 +1,39 @@
+make
+perl(:VERSION) >= 5.8.1
+perl(App::Nopaste)
+perl(B::Concise) >= 0.62
+perl(B::Keywords)
+perl(CPAN::Meta::Requirements) >= 2.120620
+perl(Data::Dump::Streamer) >= 2.39
+perl(Data::Dumper::Concise)
+perl(Devel::Peek)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::HomeDir)
+perl(File::Next)
+perl(File::Spec)
+perl(Lexical::Persistence)
+perl(Module::Metadata)
+perl(Module::Refresh)
+perl(Module::Runtime)
+perl(Moose) >= 0.93
+perl(Moose::Meta::Role)
+perl(Moose::Role)
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::Getopt) >= 0.18
+perl(MooseX::Object::Pluggable) >= 0.0009
+perl(PPI)
+perl(PPI::Dumper)
+perl(Scalar::Util)
+perl(Sys::SigAction)
+perl(Term::ANSIColor)
+perl(Term::ReadLine)
+perl(Test::Fatal)
+perl(Test::More) >= 0.94
+perl(Time::HiRes)
+perl(blib)
+perl(if)
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

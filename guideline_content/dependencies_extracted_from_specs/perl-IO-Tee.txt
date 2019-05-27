@@ -1,0 +1,11 @@
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IO::File)
+perl(IO::Handle)
+perl(Symbol)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

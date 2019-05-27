@@ -1,0 +1,9 @@
+perl(DBD::SQLite)
+perl(DBI)
+perl(File::Temp)
+perl(JSON)
+perl(Module::Build)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl-generators

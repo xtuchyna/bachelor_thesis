@@ -1,0 +1,4 @@
+autoconf
+automake
+erlang-rebar
+pam-devel

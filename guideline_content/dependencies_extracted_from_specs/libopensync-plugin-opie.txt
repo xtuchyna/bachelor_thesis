@@ -1,0 +1,3 @@
+libcurl-devel
+libopensync-devel = 1:0.22
+openssl-devel

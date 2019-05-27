@@ -1,0 +1,3 @@
+ibus-devel > 1.3.0
+libappstream-glib
+python3-devel

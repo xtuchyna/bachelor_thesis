@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(graceful-fs)
+npm(mkdirp)
+npm(path-is-inside)
+npm(rimraf)
+npm(tap)
+npm(tmp)

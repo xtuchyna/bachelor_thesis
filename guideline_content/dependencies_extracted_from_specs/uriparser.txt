@@ -1,0 +1,5 @@
+cpptest-devel
+doxygen
+gcc
+graphviz
+make

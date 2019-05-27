@@ -1,0 +1,6 @@
+autoconf
+automake
+gettext
+jack-audio-connection-kit-devel
+libsamplerate-devel
+libtool

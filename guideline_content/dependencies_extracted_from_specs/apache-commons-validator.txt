@@ -1,0 +1,8 @@
+maven-local
+mvn(commons-beanutils:commons-beanutils)
+mvn(commons-collections:commons-collections)
+mvn(commons-digester:commons-digester)
+mvn(commons-logging:commons-logging)
+mvn(junit:junit)
+mvn(org.apache.commons:commons-parent:pom:)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)

@@ -1,0 +1,3 @@
+(crate(bitflags) >= 0.9.0 with crate(bitflags) < 0.10.0)
+(crate(getopts) >= 0.2.0 with crate(getopts) < 0.3.0)
+rust-packaging

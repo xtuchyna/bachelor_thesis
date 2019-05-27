@@ -1,0 +1,14 @@
+(php-composer(mockery/mockery) >= 0.9 with php-composer(mockery/mockery) < 1.0)
+(php-composer(psr/log) >= 1.0.1 with php-composer(psr/log) < 2.0)
+(php-composer(robrichards/xmlseclibs) >= 3.0 with php-composer(robrichards/xmlseclibs) < 4.0)
+php(language) >= 5.4
+php-composer(phpunit/phpunit)
+php-date
+php-dom
+php-fedora-autoloader-devel
+php-libxml
+php-openssl
+php-pcre
+php-soap
+php-spl
+php-zlib

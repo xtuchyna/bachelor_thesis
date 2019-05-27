@@ -1,0 +1,8 @@
+nodejs-packaging >= 6
+npm(commoner)
+npm(defs)
+npm(esprima-fb)
+npm(mocha)
+npm(recast)
+npm(semver)
+npm(through)

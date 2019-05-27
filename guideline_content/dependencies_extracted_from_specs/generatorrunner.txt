@@ -1,0 +1,4 @@
+apiextractor-devel
+cmake
+python-sphinx
+qt4-devel

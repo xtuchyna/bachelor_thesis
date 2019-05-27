@@ -1,0 +1,5 @@
+bison
+libtool
+ncurses-devel
+readline-devel
+xbase-devel >= 3.1.2

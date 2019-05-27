@@ -1,0 +1,9 @@
+anaconda >= 21.35
+gettext
+openscap
+openscap-python
+openscap-utils
+python-cpio
+python-mock
+python-nose
+python2-devel

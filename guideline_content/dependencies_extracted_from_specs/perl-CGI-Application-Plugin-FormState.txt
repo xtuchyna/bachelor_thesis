@@ -1,0 +1,8 @@
+perl(CGI)
+perl(CGI::Application)
+perl(CGI::Application::Plugin::Session)
+perl(CGI::Session)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

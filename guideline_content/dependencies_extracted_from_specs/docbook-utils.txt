@@ -1,0 +1,4 @@
+docbook-style-dsssl
+openjade
+perl-SGMLSpm
+perl-generators

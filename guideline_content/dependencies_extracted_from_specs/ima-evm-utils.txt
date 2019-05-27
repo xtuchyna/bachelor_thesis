@@ -1,0 +1,9 @@
+asciidoc
+autoconf
+automake
+keyutils-libs-devel
+libattr-devel
+libtool
+libxslt
+m4
+openssl-devel

@@ -1,0 +1,8 @@
+nodejs-packaging
+npm(atob)
+npm(resolve-url)
+npm(setimmediate)
+npm(simple-asyncify)
+npm(source-map-url)
+npm(tape)
+npm(urix)

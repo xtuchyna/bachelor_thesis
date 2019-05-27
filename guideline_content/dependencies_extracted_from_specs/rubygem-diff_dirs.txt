@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(mocha)
+rubygem(shoulda-context)
+rubygem(test-unit)
+rubygems-devel

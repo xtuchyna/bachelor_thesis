@@ -1,0 +1,13 @@
+autoconf
+automake
+desktop-file-utils
+libXpm-devel
+libXt-devel
+libgs-devel
+libtool
+ngspice
+pkgconfig(cairo)
+pkgconfig(fontconfig)
+tcl-devel
+tk-devel
+zlib-devel

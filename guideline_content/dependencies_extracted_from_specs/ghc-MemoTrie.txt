@@ -1,0 +1,3 @@
+ghc-Cabal-devel
+ghc-rpm-macros-extra
+ghc-transformers-devel

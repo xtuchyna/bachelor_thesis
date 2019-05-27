@@ -1,0 +1,10 @@
+cmake
+gettext
+mingw32-expat
+mingw32-filesystem >= 95
+mingw32-gcc-c++
+mingw32-zlib
+mingw64-expat
+mingw64-filesystem >= 95
+mingw64-gcc-c++
+mingw64-zlib

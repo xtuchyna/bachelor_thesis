@@ -1,0 +1,5 @@
+bison
+flex
+krb5-devel
+openssl-devel
+postgresql-devel

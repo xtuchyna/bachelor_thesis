@@ -1,0 +1,3 @@
+perl-interpreter
+python
+wordnet = 3.0

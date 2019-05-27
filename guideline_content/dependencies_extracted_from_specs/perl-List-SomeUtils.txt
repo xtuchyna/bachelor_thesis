@@ -1,0 +1,26 @@
+coreutils
+make
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::HasCompiler) >= 0.014
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(List::Util)
+perl(Module::Implementation)
+perl(Scalar::Util)
+perl(Storable)
+perl(Test::Builder::Module)
+perl(Test::LeakTrace)
+perl(Test::More) >= 0.96
+perl(Text::ParseWords)
+perl(Tie::Array)
+perl(base)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,19 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Slurper)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Log::Any)
+perl(Log::ger)
+perl(Moo)
+perl(PPI)
+perl(Test::Differences)
+perl(Test::More) >= 0.98
+perl(blib)
+perl(experimental)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

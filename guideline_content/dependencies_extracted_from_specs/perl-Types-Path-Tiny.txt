@@ -1,0 +1,18 @@
+/usr/bin/make
+/usr/bin/perl
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Spec::Functions)
+perl(File::Temp) >= 0.18
+perl(File::pushd)
+perl(List::Util)
+perl(Path::Tiny)
+perl(Test::More) >= 0.96
+perl(Type::Library) >= 0.008
+perl(Type::Utils)
+perl(Types::Standard)
+perl(Types::TypeTiny) >= 0.004
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.008001

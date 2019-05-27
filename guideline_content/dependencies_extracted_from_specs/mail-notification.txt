@@ -1,0 +1,17 @@
+GConf2
+GConf2-devel
+cyrus-sasl-devel >= 2.0
+dbus-glib-devel
+desktop-file-utils
+gettext
+glib2-devel >= 2.14
+gmime-devel >= 2.4
+gob2 >= 2.0.17
+gtk2-devel
+gtk3-devel
+libgnome-devel
+libgnome-keyring-devel
+libnotify-devel >= 0.4.1
+openssl-devel >= 0.9.6
+perl-XML-Parser
+scrollkeeper

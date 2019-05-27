@@ -1,0 +1,12 @@
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::CBuilder)
+perl(File::Temp)
+perl(Module::Build::Tiny) >= 0.035
+perl(Test::More) >= 0.96
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,12 @@
+desktop-file-utils
+gettext
+glib2-devel
+gsettings-desktop-schemas-devel
+gspell-devel
+gtk3-devel
+gtksourceview3-devel
+intltool
+itstool
+pkgconfig(gee-0.8)
+tepl-devel
+vala

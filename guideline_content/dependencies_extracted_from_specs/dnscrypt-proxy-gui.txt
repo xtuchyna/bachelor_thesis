@@ -1,0 +1,10 @@
+cmake
+desktop-file-utils
+extra-cmake-modules
+gcc-c++
+glibc-headers
+kf5-kauth-devel
+kf5-knotifications-devel
+qt5-qtbase-devel
+qt5-qtbase-private-devel
+systemd

@@ -1,0 +1,5 @@
+ImageMagick
+desktop-file-utils
+lua-devel
+python-devel
+wxGTK3-devel

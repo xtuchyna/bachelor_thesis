@@ -1,0 +1,10 @@
+cmake
+extra-cmake-modules
+findutils
+gettext
+kdelibs4-devel >= 4.14.4
+kf5-kdoctools-devel
+kf5-ki18n-devel
+kf5-rpm-macros
+qt5-qtbase-devel
+qt5-qttools-devel

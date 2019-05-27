@@ -1,0 +1,7 @@
+R-BiocGenerics >= 0.23.3
+R-devel >= 3.4.0
+R-methods
+R-stats
+R-stats4
+R-utils
+tex(latex)

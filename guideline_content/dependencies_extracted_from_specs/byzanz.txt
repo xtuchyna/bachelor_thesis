@@ -1,0 +1,13 @@
+autoconf
+automake
+cairo-devel >= 1.8.10
+gettext-devel
+glib2-devel >= 2.6.0
+gnome-common
+gstreamer1-devel
+gstreamer1-plugins-base-devel
+gtk3-devel
+intltool
+libXdamage-devel >= 1.0
+libtool
+perl(XML::Parser)

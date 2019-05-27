@@ -1,0 +1,6 @@
+autoconf >= 2.69
+kyua-testers-devel >= 0.2
+libatf-c++-devel >= 0.20
+libatf-sh-devel >= 0.20
+lutok-devel >= 0.4-1
+sqlite-devel >= 3.6.22

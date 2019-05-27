@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(chai)
+npm(mocha)
+npm(npm)
+npm(rewire)
+npm(shelljs)
+npm(sinon)

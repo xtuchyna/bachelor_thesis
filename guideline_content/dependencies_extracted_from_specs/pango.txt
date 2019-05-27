@@ -1,0 +1,14 @@
+cairo-gobject-devel
+gcc
+gtk-doc
+help2man
+meson
+pkgconfig(cairo) >= 1.12.10
+pkgconfig(fontconfig) >= 2.11.91
+pkgconfig(freetype2) >= 2.1.5
+pkgconfig(fribidi) >= 0.19.7
+pkgconfig(glib-2.0) >= 2.33.12
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(harfbuzz) >= 1.2.3
+pkgconfig(libthai) >= 0.1.9
+pkgconfig(xft) >= 2.0.0

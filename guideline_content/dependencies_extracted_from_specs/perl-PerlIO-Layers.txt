@@ -1,0 +1,16 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(Exporter) >= 5.57
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(List::Util)
+perl(Module::Build) >= 0.37
+perl(PerlIO)
+perl(Test::More) >= 0.82
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

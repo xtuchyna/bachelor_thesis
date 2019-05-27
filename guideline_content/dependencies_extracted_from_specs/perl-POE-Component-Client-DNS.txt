@@ -1,0 +1,16 @@
+coreutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Net::DNS) >= 0.65
+perl(POE) >= 1.294
+perl(Scalar::Util)
+perl(Socket)
+perl(Test::More) >= 0.96
+perl(Test::NoWarnings) >= 1.02
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

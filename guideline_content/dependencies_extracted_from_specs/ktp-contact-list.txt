@@ -1,0 +1,17 @@
+desktop-file-utils
+extra-cmake-modules
+gettext
+kf5-kcmutils-devel
+kf5-kdbusaddons-devel
+kf5-ki18n-devel
+kf5-kiconthemes-devel
+kf5-kio-devel
+kf5-knotifications-devel
+kf5-knotifyconfig-devel
+kf5-kpeople-devel
+kf5-kwindowsystem-devel
+kf5-kxmlgui-devel
+kf5-rpm-macros
+ktp-common-internals-devel >= 17.12
+qt5-qtbase-devel
+telepathy-qt5-devel

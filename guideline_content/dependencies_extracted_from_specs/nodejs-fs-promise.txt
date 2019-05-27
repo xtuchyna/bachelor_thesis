@@ -1,0 +1,4 @@
+mocha
+nodejs-packaging
+npm(fs-extra)
+npm(mz)

@@ -1,0 +1,10 @@
+findutils
+make
+perl(:VERSION) >= 5.2.0
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Socket)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

@@ -1,0 +1,3 @@
+qt5-qtbase-devel >= 5.10.1
+qt5-qtbase-private-devel
+speech-dispatcher-devel >= 0.8

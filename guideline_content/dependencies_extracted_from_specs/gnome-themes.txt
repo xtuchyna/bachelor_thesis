@@ -1,0 +1,9 @@
+autoconf
+automake
+gettext
+gtk2-devel
+gtk2-engines-devel
+icon-naming-utils
+intltool
+libtool
+pkgconfig

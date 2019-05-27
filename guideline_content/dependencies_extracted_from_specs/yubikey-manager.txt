@@ -1,0 +1,9 @@
+pcsc-lite-devel
+python3-devel
+python3dist(click)
+python3dist(cryptography)
+python3dist(pyopenssl)
+python3dist(pyscard)
+python3dist(pyusb)
+python3dist(six)
+swig

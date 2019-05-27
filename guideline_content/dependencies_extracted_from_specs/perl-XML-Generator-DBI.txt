@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(DBD::SQLite) >= 0.27
+perl(DBI)
+perl(ExtUtils::MakeMaker)
+perl(MIME::Base64)
+perl(Test)
+perl(Test::More)
+perl(XML::SAX)
+perl(XML::SAX::Base)
+perl(XML::SAX::Writer)
+perl(constant)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

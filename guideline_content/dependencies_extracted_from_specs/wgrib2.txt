@@ -1,0 +1,4 @@
+g2clib-static
+mariadb-connector-c-devel
+netcdf-devel
+zlib-devel

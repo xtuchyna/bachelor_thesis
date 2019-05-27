@@ -1,0 +1,3 @@
+alfont-devel
+desktop-file-utils
+dumb-devel

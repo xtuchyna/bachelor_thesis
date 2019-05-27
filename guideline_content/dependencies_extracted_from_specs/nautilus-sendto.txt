@@ -1,0 +1,5 @@
+gettext
+gobject-introspection-devel
+gtk3-devel
+libappstream-glib-devel
+meson

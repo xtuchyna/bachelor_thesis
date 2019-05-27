@@ -1,0 +1,43 @@
+freerdp1.2-devel
+glib2-devel
+libjpeg-turbo-devel
+libunwind-devel
+pam-devel
+pkgconfig(cairo)
+pkgconfig(cairo) >= 1.10.0
+pkgconfig(cairo-xcb)
+pkgconfig(colord) >= 0.1.27
+pkgconfig(dbus-1) >= 1.6
+pkgconfig(egl)
+pkgconfig(gbm) >= 10.2
+pkgconfig(glesv2)
+pkgconfig(lcms2)
+pkgconfig(libdrm) >= 2.4.30
+pkgconfig(libinput) >= 0.8.0
+pkgconfig(libpng)
+pkgconfig(libsystemd) >= 209
+pkgconfig(libudev) >= 136
+pkgconfig(libva) >= 0.34.0
+pkgconfig(libva-drm) >= 0.34.0
+pkgconfig(libwebp)
+pkgconfig(libxml-2.0) >= 2.6
+pkgconfig(mtdev) >= 1.1.0
+pkgconfig(pangocairo)
+pkgconfig(pixman-1) >= 0.25.2
+pkgconfig(wayland-client) >= 1.12.0
+pkgconfig(wayland-cursor)
+pkgconfig(wayland-egl)
+pkgconfig(wayland-protocols) >= 1.13
+pkgconfig(wayland-scanner)
+pkgconfig(wayland-server)
+pkgconfig(x11)
+pkgconfig(x11-xcb)
+pkgconfig(xcb)
+pkgconfig(xcb-composite)
+pkgconfig(xcb-shm)
+pkgconfig(xcb-xfixes)
+pkgconfig(xcb-xkb)
+pkgconfig(xcursor)
+pkgconfig(xkbcommon)
+poppler-devel
+poppler-glib-devel

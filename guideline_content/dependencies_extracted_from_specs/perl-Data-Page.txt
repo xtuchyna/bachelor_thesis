@@ -1,0 +1,15 @@
+perl(Carp)
+perl(Class::Accessor::Chained::Fast)
+perl(ExtUtils::MakeMaker)
+perl(Pod::Perldoc)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(base)
+perl(integer)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

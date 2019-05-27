@@ -1,0 +1,6 @@
+alsa-lib-devel
+fftw-devel
+iniparser-devel
+libtool
+ncurses-devel
+pulseaudio-libs-devel

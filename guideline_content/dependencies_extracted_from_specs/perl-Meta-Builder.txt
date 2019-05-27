@@ -1,0 +1,6 @@
+perl(Carp)
+perl(Fennec::Lite)
+perl(Module::Build)
+perl(Test::Exception)
+perl(Test::More)
+perl-generators

@@ -1,0 +1,9 @@
+autoconf
+automake
+glib2-devel
+python-subprocess32
+python2
+python2-devel
+python2-six
+util-linux
+yajl-devel

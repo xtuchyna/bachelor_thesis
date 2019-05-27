@@ -1,0 +1,7 @@
+SDL_gfx-devel
+SDL_mixer-devel
+SDL_ttf-devel
+desktop-file-utils
+glew-devel
+libappstream-glib
+libpng-devel

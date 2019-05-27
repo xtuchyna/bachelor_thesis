@@ -1,0 +1,5 @@
+OpenEXR-devel
+cmake
+gcc-c++
+hdf5-devel
+zlib-devel

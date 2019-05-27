@@ -1,0 +1,9 @@
+clips-devel >= 6.30
+cppunit-devel >= 1.11
+doxygen
+glibmm24-devel >= 2.6.0
+libtermcap-devel
+libtool
+libxslt
+m4
+pkgconfig

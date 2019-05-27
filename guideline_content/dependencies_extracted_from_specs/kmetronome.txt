@@ -1,0 +1,9 @@
+alsa-lib-devel >= 1.0
+cmake
+desktop-file-utils
+drumstick-devel >= 1.0
+gettext
+qt5-qtbase-devel >= 5.1
+qt5-qtsvg-devel >= 5.1
+qt5-qttools-devel >= 5.1
+qt5-qtx11extras-devel >= 5.1

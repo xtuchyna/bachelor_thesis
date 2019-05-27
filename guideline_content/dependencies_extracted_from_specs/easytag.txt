@@ -1,0 +1,17 @@
+appdata-tools
+desktop-file-utils
+docbook-dtds
+docbook-style-xsl
+id3lib-devel >= 3.7.12
+intltool
+itstool
+libxslt
+pkgconfig(flac)
+pkgconfig(gtk+-3.0)
+pkgconfig(id3tag)
+pkgconfig(libnautilus-extension)
+pkgconfig(opusfile)
+pkgconfig(speex)
+pkgconfig(taglib)
+pkgconfig(vorbisfile)
+pkgconfig(wavpack)

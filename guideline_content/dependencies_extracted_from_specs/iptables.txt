@@ -1,0 +1,12 @@
+bison
+flex
+gcc
+kernel-headers
+libpcap-devel
+libselinux-devel
+pkgconfig(libmnl) >= 1.0
+pkgconfig(libnetfilter_conntrack)
+pkgconfig(libnfnetlink)
+pkgconfig(libnftnl)
+pkgconfig(libnftnl) >= 1.0.5
+systemd

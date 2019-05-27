@@ -1,0 +1,10 @@
+babl-devel
+breathe
+doxygen
+gcc
+gegl03-devel
+glib2-devel
+gobject-introspection-devel
+intltool
+json-c-devel
+python2-sphinx

@@ -1,0 +1,5 @@
+m4
+pkgconfig(xcb-image)
+pkgconfig(xcb-render)
+pkgconfig(xcb-renderutil)
+pkgconfig(xcb-util) >= 0.3.8

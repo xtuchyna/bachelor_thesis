@@ -1,0 +1,15 @@
+perl(CPAN::Meta) > 2.120900
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Find::Rule)
+perl(File::Find::Rule::Perl)
+perl(Perl::MinimumVersion) >= 1.32
+perl(Test::Builder)
+perl(Test::More) >= 0.96
+perl(Test::Tester)
+perl(YAML::Tiny) >= 1.40
+perl(base)
+perl(strict)
+perl(version) >= 0.70
+perl(warnings)
+perl-generators

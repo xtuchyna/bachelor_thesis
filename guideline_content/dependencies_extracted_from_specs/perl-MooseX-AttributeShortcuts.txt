@@ -1,0 +1,36 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(List::Util) >= 1.33
+perl(Moose) >= 1.14
+perl(Moose::Exporter)
+perl(Moose::Meta::TypeConstraint)
+perl(Moose::Role)
+perl(Moose::Util)
+perl(Moose::Util::MetaRole)
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::Meta::TypeConstraint::Mooish)
+perl(MooseX::Role::Parameterized)
+perl(MooseX::SemiAffordanceAccessor)
+perl(MooseX::Types::Common::String)
+perl(MooseX::Types::Moose)
+perl(MooseX::Types::Path::Class)
+perl(MooseX::Util)
+perl(Path::Class)
+perl(Test::CheckDeps) >= 0.010
+perl(Test::Fatal)
+perl(Test::Moose)
+perl(Test::Moose::More) >= 0.049
+perl(Test::More) >= 0.94
+perl(Test::Requires)
+perl(aliased)
+perl(blib)
+perl(constant)
+perl(lib)
+perl(namespace::autoclean) >= 0.24
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

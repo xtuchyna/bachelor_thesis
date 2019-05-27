@@ -1,0 +1,6 @@
+python2-devel
+python2-pymongo
+python2-pymongo-gridfs
+python2-sphinx
+python2-tools
+python3-devel

@@ -1,0 +1,26 @@
+make
+perl(B)
+perl(Carp)
+perl(Class::Load)
+perl(Class::Unload)
+perl(Devel::OverrideGlobalRequire)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Copy)
+perl(File::Find)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Moose)
+perl(Moose::Role)
+perl(Test::Fatal)
+perl(Test::Moose)
+perl(Test::More) >= 0.88
+perl(Test::Requires)
+perl(Try::Tiny)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

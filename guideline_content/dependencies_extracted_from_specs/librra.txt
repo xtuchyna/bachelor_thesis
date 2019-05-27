@@ -1,0 +1,6 @@
+Pyrex
+libmimedir-devel
+libmimedir-static
+librapi-devel >= 0.14
+libsynce-devel >= 0.14
+libtool

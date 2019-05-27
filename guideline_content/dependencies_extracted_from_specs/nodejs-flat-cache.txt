@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(circular-json)
+npm(del)
+npm(read-json-sync)
+npm(write)

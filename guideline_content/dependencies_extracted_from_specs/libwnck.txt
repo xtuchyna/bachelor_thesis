@@ -1,0 +1,9 @@
+gettext
+glib2-devel
+gobject-introspection-devel
+gtk2-devel
+intltool
+libXres-devel
+libXt-devel
+pango-devel
+startup-notification-devel

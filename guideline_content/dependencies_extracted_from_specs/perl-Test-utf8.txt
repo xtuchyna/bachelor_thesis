@@ -1,0 +1,17 @@
+coreutils
+make
+perl(Encode)
+perl(Exporter)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::Builder)
+perl(Test::Builder::Tester) >= 0.09
+perl(Test::More)
+perl(base)
+perl(charnames)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,7 @@
+autoconf
+desktop-file-utils
+freetype-devel
+gtk2-devel
+libICE-devel
+libX11-devel
+pango-devel

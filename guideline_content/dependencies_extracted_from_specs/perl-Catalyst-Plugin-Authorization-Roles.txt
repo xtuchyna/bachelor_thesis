@@ -1,0 +1,22 @@
+findutils
+make
+perl(Catalyst::Authentication::User)
+perl(Catalyst::Authentication::User::Hash)
+perl(Catalyst::Exception)
+perl(Catalyst::Plugin::Authentication) >= 0.10003
+perl(Catalyst::Runtime) >= 5.7
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Scalar::Util)
+perl(Set::Object) >= 1.14
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(UNIVERSAL::isa) >= 0.05
+perl(base)
+perl(inc::Module::Install) >= 0.91
+perl(warnings)
+perl-generators
+perl-interpreter
+perl-interpreter >= 1:5.8.0

@@ -1,0 +1,6 @@
+ruby >= 1.9.3
+ruby(release)
+rubygem(activemodel) >= 4.1
+rubygem(activesupport) >= 4.1
+rubygem(railties) >= 4.1
+rubygems-devel

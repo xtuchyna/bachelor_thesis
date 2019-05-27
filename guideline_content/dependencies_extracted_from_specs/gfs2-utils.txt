@@ -1,0 +1,11 @@
+automake
+bison
+check-devel
+flex
+gettext-devel
+kernel-headers
+libblkid-devel
+libtool
+libuuid-devel
+ncurses-devel
+zlib-devel

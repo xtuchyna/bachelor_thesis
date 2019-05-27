@@ -1,0 +1,7 @@
+ruby >= 1.9.2
+ruby(release)
+rubygem(activerecord)
+rubygem(mocha)
+rubygem(sqlite3)
+rubygem(timecop)
+rubygems-devel

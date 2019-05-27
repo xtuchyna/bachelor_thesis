@@ -1,0 +1,11 @@
+make
+perl(Data::Grove)
+perl(Data::Grove::Visitor)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(UNIVERSAL)
+perl(XML::Parser::PerlSAX)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl-generators
+perl-interpreter

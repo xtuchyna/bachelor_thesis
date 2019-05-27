@@ -1,0 +1,10 @@
+autoconf
+automake
+libtool
+mono-data
+mono-data-oracle
+mono-data-sqlite
+mono-devel
+mono-nunit-devel
+mono-web-devel
+monodoc-devel

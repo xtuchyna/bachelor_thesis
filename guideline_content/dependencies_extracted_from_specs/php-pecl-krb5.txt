@@ -1,0 +1,5 @@
+gcc
+krb5-devel >= 1.8
+php-devel > 5.2
+php-pear
+pkgconfig(com_err)

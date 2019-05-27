@@ -1,0 +1,7 @@
+autoconf
+automake
+libX11-devel >= 1.5.99.902
+libtool
+pkgconfig(videoproto)
+pkgconfig(xv)
+xorg-x11-util-macros

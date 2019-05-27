@@ -1,0 +1,18 @@
+bzip2-devel
+cfitsio-devel
+cppunit-devel
+doxygen
+graphviz
+hdf-static
+hdf5-devel
+libdap-devel >= 3.14.0
+libicu-devel
+libtirpc-devel
+libtool
+libuuid-devel
+netcdf-devel
+openssl-devel
+pkgconfig
+readline-devel
+systemd
+zlib-devel

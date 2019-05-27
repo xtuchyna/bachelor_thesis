@@ -1,0 +1,6 @@
+/usr/bin/phpab
+/usr/bin/phpunit6
+gcc
+php-devel >= 7
+php-json
+php-pear

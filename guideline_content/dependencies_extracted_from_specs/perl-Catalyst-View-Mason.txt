@@ -1,0 +1,11 @@
+perl(Capture::Tiny)
+perl(Catalyst) >= 5.50
+perl(Catalyst::Helper)
+perl(ExtUtils::MakeMaker)
+perl(HTML::Mason)
+perl(MRO::Compat)
+perl(Test::Exception)
+perl(Test::File)
+perl(Test::More)
+perl(parent)
+perl-generators

@@ -1,0 +1,17 @@
+perl(Carp)
+perl(Class::Accessor::Fast)
+perl(Config)
+perl(IO::Select)
+perl(Module::Build) >= 0.42
+perl(Test::Deep)
+perl(Test::Fatal)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

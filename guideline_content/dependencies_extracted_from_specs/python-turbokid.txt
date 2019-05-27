@@ -1,0 +1,4 @@
+python2-devel
+python2-kid
+python2-nose
+python2-setuptools

@@ -1,0 +1,6 @@
+geronimo-osgi-support
+geronimo-parent-poms
+java-devel
+jpackage-utils
+maven-local
+maven-plugin-bundle

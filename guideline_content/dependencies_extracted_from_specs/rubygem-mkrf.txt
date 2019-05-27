@@ -1,0 +1,6 @@
+libxml2-devel
+ruby(release)
+ruby(rubygems)
+ruby-devel
+rubygem(rake)
+rubygems-devel

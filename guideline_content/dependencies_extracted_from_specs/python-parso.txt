@@ -1,0 +1,6 @@
+python2-devel
+python2-pytest >= 3.0.0
+python2-setuptools
+python3-devel
+python3-pytest >= 3.0.0
+python3-setuptools

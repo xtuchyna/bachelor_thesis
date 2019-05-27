@@ -1,0 +1,5 @@
+cmake
+libxml2-devel
+libxslt-devel
+python-sphinx
+qt4-devel

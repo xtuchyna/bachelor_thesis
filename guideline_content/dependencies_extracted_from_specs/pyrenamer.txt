@@ -1,0 +1,7 @@
+GConf2-devel
+desktop-file-utils
+gettext
+perl(XML::Parser)
+pygtk2-devel
+python2-exif
+python2-eyed3

@@ -1,0 +1,6 @@
+glib2-devel >= 2.50.0
+libsigc++20-devel >= 2.9.1
+m4
+perl(Getopt::Long)
+perl-generators
+perl-interpreter

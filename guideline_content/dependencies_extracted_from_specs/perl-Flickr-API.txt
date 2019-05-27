@@ -1,0 +1,27 @@
+findutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(Digest::MD5)
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(HTTP::Message) >= 1.56
+perl(HTTP::Request)
+perl(HTTP::Request::Common)
+perl(HTTP::Response)
+perl(LWP::UserAgent)
+perl(Net::OAuth)
+perl(Scalar::Util)
+perl(Storable)
+perl(Term::ReadLine)
+perl(Test::More)
+perl(Test::Script)
+perl(URI) >= 1.18
+perl(XML::LibXML::Simple)
+perl(XML::Parser::Lite::Tree) >= 0.06
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

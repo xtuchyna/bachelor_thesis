@@ -1,0 +1,8 @@
+SDL-devel
+desktop-file-utils
+ftplib-devel
+gettext
+libXv-devel
+libdc1394-devel >= 2.0.0
+libgnomeui-devel
+libraw1394-devel

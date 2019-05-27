@@ -1,0 +1,36 @@
+chrpath
+coreutils
+findutils
+perl(Capture::Tiny) >= 0.06
+perl(Carp)
+perl(Config)
+perl(Config::AutoConf) >= 0.16
+perl(Cwd)
+perl(DynaLoader)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::CBuilder) >= 0.27
+perl(ExtUtils::LibBuilder) >= 0.02
+perl(ExtUtils::Mkbootstrap)
+perl(ExtUtils::ParseXS)
+perl(Fcntl)
+perl(File::Copy)
+perl(File::Path)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(IO::File)
+perl(IO::Handle)
+perl(Module::Build)
+perl(Test::More)
+perl(Unicode::Normalize)
+perl(base)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-Scalar-List-Utils >= 1.42
+perl-devel
+perl-generators
+perl-interpreter
+sed

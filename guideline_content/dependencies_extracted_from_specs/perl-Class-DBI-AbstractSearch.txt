@@ -1,0 +1,14 @@
+perl(Class::DBI)
+perl(DBD::SQLite)
+perl(DBI)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Pod::Perldoc)
+perl(SQL::Abstract)
+perl(SQL::Abstract::Limit)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

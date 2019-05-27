@@ -1,0 +1,15 @@
+blacs-mpich-devel
+blacs-openmpi-devel
+gcc-gfortran
+metis-devel
+mpich-devel
+openblas-devel
+openblas-srpm-macros
+openmpi-devel
+openssh-clients
+ptscotch-mpich-devel
+ptscotch-openmpi-devel
+rpm-mpi-hooks
+scalapack-mpich-devel
+scalapack-openmpi-devel
+scotch-devel

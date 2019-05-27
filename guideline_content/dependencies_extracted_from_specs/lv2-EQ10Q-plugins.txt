@@ -1,0 +1,6 @@
+gtkmm24-devel
+lv2-c++-tools-static
+lv2-devel
+pkgconfig
+plotmm-devel
+pstreams-devel

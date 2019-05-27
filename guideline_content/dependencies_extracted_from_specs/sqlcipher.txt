@@ -1,0 +1,4 @@
+pkgconfig(libcrypto)
+pkgconfig(sqlite3)
+readline-devel
+tcl

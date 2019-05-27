@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(bacon)
+rubygem(eventmachine)
+rubygem(rspec-core)
+rubygems-devel

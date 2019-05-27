@@ -1,0 +1,5 @@
+ruby >= 1.9
+rubygem(minitest) < 6
+rubygem(minitest) >= 5.0
+rubygem(webmock)
+rubygems-devel >= 1.8

@@ -1,0 +1,8 @@
+chrpath
+dbus-glib-devel
+gnome-common
+gtk-doc
+gtk2-devel
+gtk3-devel
+libtool
+pkgconfig

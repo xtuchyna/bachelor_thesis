@@ -1,0 +1,5 @@
+ruby(release)
+rubygem(mocha)
+rubygem(net-ssh)
+rubygem(test-unit)
+rubygems-devel

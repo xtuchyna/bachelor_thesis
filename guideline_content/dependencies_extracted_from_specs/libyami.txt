@@ -1,0 +1,5 @@
+gcc-c++
+libtool
+libva-devel
+pkgconfig(libdrm)
+pkgconfig(x11)

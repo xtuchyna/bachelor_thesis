@@ -1,0 +1,7 @@
+exo-devel
+gettext
+gnome-common
+gobject-introspection-devel
+intltool
+pkgconfig(gtk+-3.0)
+pkgconfig(liblightdm-gobject-1)

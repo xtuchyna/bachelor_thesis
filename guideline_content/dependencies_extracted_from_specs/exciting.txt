@@ -1,0 +1,13 @@
+FoXlibf-devel
+arpack-devel
+fftw3-devel
+gcc-gfortran
+libxc-devel
+libxslt
+lynx
+mpich-devel
+openblas-devel
+openmpi-devel
+perl-Data-Dumper
+perl-interpreter
+time

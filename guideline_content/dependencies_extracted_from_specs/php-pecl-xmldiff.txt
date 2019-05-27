@@ -1,0 +1,7 @@
+diffmark-devel
+dos2unix
+libxml2-devel
+php-devel
+php-dom
+php-libxml
+php-pear

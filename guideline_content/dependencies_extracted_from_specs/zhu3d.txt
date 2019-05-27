@@ -1,0 +1,5 @@
+cmake
+desktop-file-utils
+dos2unix
+make
+qt4-devel

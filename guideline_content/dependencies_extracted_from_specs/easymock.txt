@@ -1,0 +1,12 @@
+maven-local
+mvn(cglib:cglib)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-remote-resources-plugin)
+mvn(org.apache.maven.surefire:surefire-junit47)
+mvn(org.apache.maven.surefire:surefire-testng)
+mvn(org.apache:apache-jar-resource-bundle)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.objenesis:objenesis)
+mvn(org.ow2.asm:asm)
+mvn(org.testng:testng)

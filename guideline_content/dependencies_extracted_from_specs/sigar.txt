@@ -1,0 +1,8 @@
+ant
+cmake
+cpptasks
+gcc
+javapackages-local
+log4j12
+mx4j
+perl-interpreter

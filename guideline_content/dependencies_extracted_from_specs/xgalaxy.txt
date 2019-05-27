@@ -1,0 +1,7 @@
+ImageMagick
+alsa-lib-devel
+desktop-file-utils
+libXmu-devel
+libXpm-devel
+libXt-devel
+libXxf86vm-devel

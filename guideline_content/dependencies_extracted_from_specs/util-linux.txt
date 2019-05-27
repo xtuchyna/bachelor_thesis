@@ -1,0 +1,14 @@
+audit-libs-devel >= 1.0.6
+gcc
+gettext-devel
+libcap-ng-devel
+libselinux-devel
+libuser-devel
+libutempter-devel
+ncurses-devel
+pam-devel
+popt-devel
+python3-devel
+systemd
+systemd-devel
+zlib-devel

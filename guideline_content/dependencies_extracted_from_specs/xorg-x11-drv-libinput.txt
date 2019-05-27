@@ -1,0 +1,8 @@
+autoconf
+automake
+libevdev-devel
+libinput-devel >= 0.6.0-3
+libtool
+libudev-devel
+xorg-x11-server-devel >= 1.14.0
+xorg-x11-util-macros

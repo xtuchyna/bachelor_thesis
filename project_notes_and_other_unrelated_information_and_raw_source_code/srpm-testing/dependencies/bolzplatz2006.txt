@@ -1,0 +1,23 @@
+DevIL-devel
+ant
+desktop-file-utils
+dom4j
+gcc-c++
+java-1.8.0-openjdk-devel
+libGLU-devel
+libXcursor-devel
+libXext-devel
+libXrandr-devel
+libXrender-devel
+libXt-devel
+libXxf86vm-devel
+libappstream-glib
+libjpeg-devel
+libpng-devel
+libvorbis-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+sdljava
+swig
+vecmath1.2
+xml-commons-apis

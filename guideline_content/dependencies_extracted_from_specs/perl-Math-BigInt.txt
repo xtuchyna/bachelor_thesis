@@ -1,0 +1,20 @@
+make
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Math::Complex) >= 1.39
+perl(Pod::Coverage) >= 0.18
+perl(Test::More) >= 0.94
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(base)
+perl(constant)
+perl(integer)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

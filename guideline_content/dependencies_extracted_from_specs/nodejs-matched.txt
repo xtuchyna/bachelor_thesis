@@ -1,0 +1,14 @@
+mocha
+nodejs-packaging
+npm(arr-union)
+npm(async-array-reduce)
+npm(bluebird)
+npm(chai)
+npm(extend-shallow)
+npm(fs-exists-sync)
+npm(glob)
+npm(has-glob)
+npm(is-valid-glob)
+npm(lazy-cache)
+npm(resolve-dir)
+npm(rimraf)

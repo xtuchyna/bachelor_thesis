@@ -1,0 +1,4 @@
+rubygem(minitest) >= 5.3.0
+rubygem(mocha) >= 0.14.0
+rubygem(rack-test)
+rubygems-devel

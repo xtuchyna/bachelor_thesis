@@ -1,0 +1,17 @@
+graphviz
+graphviz-gd
+php(language) >= 5.2.8
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-ctype
+php-date
+php-dom
+php-json
+php-libxml
+php-mbstring
+php-pcre
+php-reflection
+php-simplexml
+php-spl
+php-xml
+raptor2

@@ -1,0 +1,4 @@
+fontforge
+fontpackages-devel >= 1.13
+libappstream-glib
+xorg-x11-font-utils

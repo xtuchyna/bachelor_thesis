@@ -1,0 +1,12 @@
+cmake
+gc-devel
+git
+gtk2-devel
+httpd-devel
+mariadb-connector-c-devel
+mbedtls-devel
+ninja-build
+openssl-devel
+pcre-devel
+pkgconfig
+sqlite-devel >= 3

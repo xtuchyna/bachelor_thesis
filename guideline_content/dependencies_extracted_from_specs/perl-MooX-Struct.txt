@@ -1,0 +1,27 @@
+make
+perl(:VERSION) >= 5.8
+perl(B::Deparse)
+perl(B::Hooks::EndOfScope)
+perl(Carp)
+perl(Data::Dumper)
+perl(Data::Printer) >= 0.36
+perl(Data::Printer::Filter)
+perl(Exporter::Tiny) >= 0.044
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IO::Handle)
+perl(Moo) >= 1.000
+perl(Moo::Role)
+perl(Object::ID)
+perl(Scalar::Util)
+perl(Term::ANSIColor)
+perl(Test::More) >= 0.61
+perl(Types::Standard) >= 1.000
+perl(Types::TypeTiny) >= 1.000
+perl(if)
+perl(namespace::clean)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

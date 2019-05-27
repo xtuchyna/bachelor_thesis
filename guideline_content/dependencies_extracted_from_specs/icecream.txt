@@ -1,0 +1,12 @@
+autoconf
+automake
+checkpolicy
+docbook2X
+environment(modules)
+firewalld-filesystem
+hardlink
+libcap-ng-devel
+libtool
+lzo-devel
+selinux-policy-devel
+systemd

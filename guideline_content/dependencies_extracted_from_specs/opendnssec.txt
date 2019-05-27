@@ -1,0 +1,9 @@
+CUnit-devel
+doxygen
+ldns-devel >= 1.6.12
+libxml2-devel
+openssl-devel
+perl-interpreter
+procps-ng
+sqlite-devel
+systemd-units

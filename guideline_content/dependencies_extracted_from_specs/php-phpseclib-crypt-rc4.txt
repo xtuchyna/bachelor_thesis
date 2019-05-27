@@ -1,0 +1,2 @@
+php-channel(phpseclib.sourceforge.net)
+php-pear(PEAR)

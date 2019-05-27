@@ -1,0 +1,8 @@
+atlas-devel
+doxygen-latex
+gcc-c++
+ghostscript-core
+givaro-devel
+gmp-devel
+libtool
+tex(stmaryrd.sty)

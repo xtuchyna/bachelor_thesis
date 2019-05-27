@@ -1,0 +1,11 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find)
+perl(File::Temp)
+perl(Moo)
+perl(Role::Tiny)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

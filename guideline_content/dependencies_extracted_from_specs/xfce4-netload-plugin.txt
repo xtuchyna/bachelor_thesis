@@ -1,0 +1,5 @@
+gettext
+intltool
+libxml2-devel
+pkgconfig(libxfce4panel-1.0) >= 4.12.0
+pkgconfig(libxfce4ui-1) >= 4.12.0

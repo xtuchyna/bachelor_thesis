@@ -1,0 +1,5 @@
+gettext
+gtk2-devel >= 2.12
+intltool
+menu-cache-devel >= 0.3.2
+startup-notification-devel

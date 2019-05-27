@@ -1,0 +1,6 @@
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Log::Any::Adapter::Base)
+perl(Log::Any::Adapter::Util)
+perl(Test::More)
+perl-generators

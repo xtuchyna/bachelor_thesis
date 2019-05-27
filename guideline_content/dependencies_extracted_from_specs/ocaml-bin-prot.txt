@@ -1,0 +1,8 @@
+chrpath
+ocaml >= 3.12.0
+ocaml-camlp4-devel
+ocaml-findlib-devel
+ocaml-ocamlbuild
+ocaml-ocamldoc
+ocaml-ounit-devel
+ocaml-type-conv >= 3.0.4

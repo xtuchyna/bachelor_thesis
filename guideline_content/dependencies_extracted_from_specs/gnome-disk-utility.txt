@@ -1,0 +1,17 @@
+/usr/bin/appstream-util
+desktop-file-utils
+docbook-style-xsl
+gettext
+libxslt
+meson
+pkgconfig(dvdread)
+pkgconfig(glib-2.0)
+pkgconfig(gnome-settings-daemon)
+pkgconfig(gtk+-3.0)
+pkgconfig(libcanberra-gtk3)
+pkgconfig(liblzma)
+pkgconfig(libnotify)
+pkgconfig(libsecret-1)
+pkgconfig(libsystemd)
+pkgconfig(pwquality)
+pkgconfig(udisks2)

@@ -1,0 +1,15 @@
+perl(Class::Load)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Temp)
+perl(List::MoreUtils)
+perl(Moose)
+perl(Package::Stash) >= 0.18
+perl(String::RewritePrefix)
+perl(Test::More)
+perl(Test::Most)
+perl(Test::Script)
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators

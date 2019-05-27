@@ -1,0 +1,4 @@
+javapackages-tools
+mvn(org.scalacheck:scalacheck_2.10)
+sbt
+scala

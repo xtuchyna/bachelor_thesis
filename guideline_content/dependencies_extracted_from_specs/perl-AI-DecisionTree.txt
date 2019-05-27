@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(DynaLoader)
+perl(ExtUtils::MakeMaker)
+perl(GraphViz)
+perl(Test)
+perl(Test::More)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(nokogiri)
+rubygem(shoulda)
+rubygem(test-unit)
+rubygem(vcr)
+rubygem(webmock)
+rubygems-devel

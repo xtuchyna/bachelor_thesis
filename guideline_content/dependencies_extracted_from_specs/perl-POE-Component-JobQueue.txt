@@ -1,0 +1,5 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(POE) >= 1.007
+perl(POE::Session)
+perl-generators

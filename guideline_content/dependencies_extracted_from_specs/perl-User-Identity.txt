@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Geography::Countries)
+perl(List::Util)
+perl(Scalar::Util)
+perl(Test::More)
+perl(base)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

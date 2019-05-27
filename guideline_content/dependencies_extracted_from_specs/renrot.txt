@@ -1,0 +1,5 @@
+perl(ExtUtils::MakeMaker)
+perl(Getopt::Long) >= 2.34
+perl(Image::ExifTool) >= 5.72
+perl-generators
+perl-interpreter

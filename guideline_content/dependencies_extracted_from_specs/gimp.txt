@@ -1,0 +1,43 @@
+aalib-devel
+alsa-lib-devel >= 1.0.0
+atk-devel >= 2.2.0
+babl-devel >= 0.1.10
+bzip2-devel
+cairo-devel >= 1.10.2
+chrpath >= 0.13-5
+curl-devel >= 7.15.1
+dbus-glib-devel >= 0.70
+fontconfig-devel >= 2.2.0
+freetype-devel >= 2.1.7
+gdk-pixbuf2-devel >= 2.24.1
+gegl-devel >= 0.2.0
+gettext
+glib2-devel >= 2.30.2
+gnome-keyring-devel >= 0.4.5
+gtk-doc >= 1.0
+gtk2-devel >= 2.24.10
+intltool
+iso-codes-devel
+jasper-devel
+lcms2-devel >= 2.2
+libX11-devel
+libXmu-devel
+libXpm-devel
+libappstream-glib
+libexif-devel >= 0.6.15
+libgnomeui-devel >= 2.10.0
+libgs-devel
+libgudev1-devel >= 167
+libjpeg-devel
+libmng-devel
+libpng-devel >= 1.2.37
+librsvg2-devel >= 2.36.0
+libtiff-devel
+libwmf-devel >= 0.2.8
+pango-devel >= 1.29.4
+pkgconfig
+poppler-glib-devel >= 0.20.0
+pygobject2-devel
+pygtk2-devel >= 2.10.4
+python2-devel
+zlib-devel

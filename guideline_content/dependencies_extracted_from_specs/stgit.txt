@@ -1,0 +1,4 @@
+asciidoc
+git-core
+python2-devel
+xmlto

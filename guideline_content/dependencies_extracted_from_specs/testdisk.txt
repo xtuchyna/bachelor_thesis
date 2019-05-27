@@ -1,0 +1,9 @@
+desktop-file-utils
+e2fsprogs-devel
+libewf-devel
+libjpeg-devel
+libuuid-devel
+ncurses-devel >= 5.2
+ntfs-3g-devel
+qt-devel
+zlib-devel

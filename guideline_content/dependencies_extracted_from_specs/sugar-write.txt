@@ -1,0 +1,6 @@
+gettext
+gobject-introspection-devel
+libabiword-devel
+python2-abiword
+python2-devel
+sugar-toolkit-gtk3-devel

@@ -1,0 +1,7 @@
+ghc-Cabal-devel
+ghc-async-devel
+ghc-bytestring-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-stm-devel
+ghc-transformers-devel

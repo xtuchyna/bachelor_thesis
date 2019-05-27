@@ -1,0 +1,8 @@
+compiler(go-compiler)
+golang(github.com/BurntSushi/freetype-go/freetype)
+golang(github.com/BurntSushi/freetype-go/freetype/truetype)
+golang(github.com/BurntSushi/graphics-go/graphics)
+golang(github.com/BurntSushi/xgb)
+golang(github.com/BurntSushi/xgb/shape)
+golang(github.com/BurntSushi/xgb/xinerama)
+golang(github.com/BurntSushi/xgb/xproto)

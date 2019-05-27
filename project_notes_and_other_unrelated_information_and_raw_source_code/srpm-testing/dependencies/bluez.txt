@@ -1,0 +1,14 @@
+autoconf
+automake
+cups-devel
+dbus-devel >= 1.6
+git-core
+glib2-devel
+json-c-devel
+libell-devel
+libical-devel
+libtool
+readline-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+systemd-devel

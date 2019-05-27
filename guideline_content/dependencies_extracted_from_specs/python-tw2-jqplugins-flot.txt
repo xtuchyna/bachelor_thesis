@@ -1,0 +1,12 @@
+python-BeautifulSoup
+python-formencode
+python-genshi
+python-mako
+python-nose
+python-setuptools
+python-strainer
+python-tw2-core
+python-tw2-excanvas
+python-tw2-jqplugins-ui
+python-webtest
+python2-devel

@@ -1,0 +1,11 @@
+docbook-style-xsl
+glusterfs-api-devel
+libaio-devel
+libibverbs-devel
+librbd-devel
+librdmacm-devel
+libxslt
+perl-generators
+pkgconfig
+systemd-devel
+systemd-units

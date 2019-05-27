@@ -1,0 +1,18 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Module::Runtime)
+perl(Moo) >= 1.006000
+perl(Moo::Role)
+perl(MooX)
+perl(MooX::HandlesVia) >= 0.001004
+perl(Scalar::Util)
+perl(Test::Fatal) >= 0.010
+perl(Test::More) >= 0.96
+perl(Test::Requires) >= 0.06
+perl(Type::Utils) >= 1.000001
+perl(Types::Standard)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 1:5.8.0

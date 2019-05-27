@@ -1,0 +1,6 @@
+maven-local
+mvn(junit:junit)
+mvn(net.sf.jopt-simple:jopt-simple) >= 5
+mvn(org.apache.commons:commons-math3)
+mvn(org.apache.maven.plugins:maven-site-plugin)
+mvn(org.ow2.asm:asm)

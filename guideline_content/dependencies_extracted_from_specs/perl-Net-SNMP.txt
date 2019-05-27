@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(Config)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IO::Socket)
+perl(Math::BigInt)
+perl(Test)
+perl(base)
+perl(bytes)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

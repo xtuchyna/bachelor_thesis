@@ -1,0 +1,4 @@
+gettext
+pkgconfig(gtk+-3.0)
+pkgconfig(libwnck-3.0)
+pkgconfig(lua)

@@ -1,0 +1,14 @@
+make
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Copy)
+perl(File::Spec)
+perl(Inline)
+perl(Inline::C)
+perl(Parse::RecDescent)
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.00
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IO::Scalar)
+perl(Pod::Perldoc)
+perl(Test::More)
+perl-generators

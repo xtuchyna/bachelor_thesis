@@ -1,0 +1,14 @@
+doxygen
+globus-common-devel >= 15
+globus-ftp-control-devel >= 4
+globus-gridftp-server-devel >= 7
+globus-gridftp-server-progs >= 7
+globus-gsi-callback-devel >= 4
+globus-gsi-credential-devel >= 5
+globus-gsi-sysconfig-devel >= 5
+globus-gssapi-gsi-devel >= 10
+globus-xio-devel >= 3
+globus-xio-popen-driver-devel >= 2
+openssl
+openssl-devel
+perl(Test::More)

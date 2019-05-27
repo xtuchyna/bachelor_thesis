@@ -1,0 +1,7 @@
+efont-unicode-bdf
+fonts-japanese
+gzip
+jisksp16-1990-fonts
+ncurses
+xorg-x11-fonts-base
+xorg-x11-fonts-misc

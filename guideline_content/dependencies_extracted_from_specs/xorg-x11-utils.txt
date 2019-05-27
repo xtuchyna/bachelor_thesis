@@ -1,0 +1,16 @@
+gettext-devel
+libtool
+pkgconfig(dmx)
+pkgconfig(x11)
+pkgconfig(xcb) >= 1.6
+pkgconfig(xcomposite)
+pkgconfig(xext)
+pkgconfig(xi)
+pkgconfig(xinerama)
+pkgconfig(xorg-macros) >= 1.8
+pkgconfig(xrandr) >= 1.2
+pkgconfig(xtst)
+pkgconfig(xv)
+pkgconfig(xxf86dga)
+pkgconfig(xxf86misc)
+pkgconfig(xxf86vm)

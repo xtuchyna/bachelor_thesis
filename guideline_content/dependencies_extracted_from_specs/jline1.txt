@@ -1,0 +1,11 @@
+maven-assembly-plugin
+maven-compiler-plugin
+maven-install-plugin
+maven-jar-plugin
+maven-javadoc-plugin
+maven-local
+maven-plugin-bundle
+maven-resources-plugin
+maven-site-plugin
+maven-surefire-plugin
+maven-surefire-provider-junit

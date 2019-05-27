@@ -1,0 +1,9 @@
+perl(CGI)
+perl(CGI::Application)
+perl(Log::Dispatch) >= 0.21
+perl(Module::Build)
+perl(Sub::WrapPackages)
+perl(Test::More)
+perl(Test::Pod)
+perl(UNIVERSAL::require)
+perl-generators

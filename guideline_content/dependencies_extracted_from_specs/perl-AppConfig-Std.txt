@@ -1,0 +1,4 @@
+perl(AppConfig) >= 1.52
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Pod::Usage) >= 1.14
+perl-generators

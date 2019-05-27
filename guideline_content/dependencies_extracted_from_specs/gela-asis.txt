@@ -1,0 +1,4 @@
+chrpath
+fedora-gnat-project-common > 3
+gcc-gnat
+gprbuild

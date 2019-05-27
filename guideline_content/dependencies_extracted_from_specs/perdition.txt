@@ -1,0 +1,22 @@
+autoconf
+automake
+gdbm-devel
+ghostscript
+libdb-devel
+libidn-devel
+libtiff
+libtool
+mysql-devel
+openldap-devel
+openssl-devel
+pam-devel
+popt-devel
+postgresql-devel
+tetex-dvips
+tetex-latex
+tinycdb-devel
+unixODBC-devel
+vanessa_adt-devel >= 0.0.6
+vanessa_logger-devel >= 0.0.10
+vanessa_socket-devel >= 0.0.7
+zlib-devel

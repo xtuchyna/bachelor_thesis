@@ -1,0 +1,16 @@
+automake
+desktop-file-utils
+emacs
+gcc-c++
+ghostscript
+mona-devel
+perl-generators
+sbcl
+tex(boxedminipage.sty)
+tex(latex)
+tex(relsize.sty)
+tex(stmaryrd.sty)
+tex(tocbibind.sty)
+texinfo-tex
+xemacs
+xemacs-packages-extra

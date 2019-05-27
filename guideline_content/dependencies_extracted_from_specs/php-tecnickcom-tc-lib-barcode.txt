@@ -1,0 +1,8 @@
+/usr/bin/phpunit6
+php(language) >= 5.4
+php-bcmath
+php-composer(tecnickcom/tc-lib-color) >= 1.12.1
+php-date
+php-gd
+php-pcre
+php-pecl-imagick

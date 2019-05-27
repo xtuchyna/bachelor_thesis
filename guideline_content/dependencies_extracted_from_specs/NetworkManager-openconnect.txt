@@ -1,0 +1,16 @@
+autoconf
+automake
+gettext
+intltool
+libtool
+pkgconfig(NetworkManager) >= 1.2.0
+pkgconfig(gcr-3) >= 3.4
+pkgconfig(glib-2.0)
+pkgconfig(gtk+-3.0) >= 3.4.0
+pkgconfig(libnm) >= 1.2.0
+pkgconfig(libnm-glib) >= 1.2.0
+pkgconfig(libnm-glib-vpn) >= 1.2.0
+pkgconfig(libnm-util) >= 1.2.0
+pkgconfig(libsecret-1)
+pkgconfig(libxml-2.0)
+pkgconfig(openconnect) >= 7.00

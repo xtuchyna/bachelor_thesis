@@ -1,0 +1,14 @@
+coreutils
+perl(Carp)
+perl(Module::Build)
+perl(Test::Deep)
+perl(Test::More)
+perl(Try::Tiny)
+perl(Want)
+perl(attributes)
+perl(overload)
+perl(strict)
+perl(subs)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+cups-devel
+flex-static
+gmp-devel
+gtk+-devel
+libXmu-devel
+libjpeg-turbo-devel
+libtiff-devel
+zlib-devel

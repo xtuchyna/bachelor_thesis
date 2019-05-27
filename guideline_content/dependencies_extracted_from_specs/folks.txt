@@ -1,0 +1,13 @@
+GConf2-devel
+chrpath
+evolution-data-server-devel >= 3.13.90
+glib2-devel
+gobject-introspection-devel
+intltool
+libxml2-devel
+pkgconfig(gee-0.8) >= 0.8.4
+readline-devel
+telepathy-glib-devel >= 0.19.0
+telepathy-glib-vala
+vala
+vala-devel >= 0.17.6

@@ -1,0 +1,10 @@
+perl(DateTime) >= 0.17
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Date) >= 1.44
+perl(Test::More) >= 0.47
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

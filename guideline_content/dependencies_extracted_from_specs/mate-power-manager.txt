@@ -1,0 +1,14 @@
+cairo-devel
+dbus-glib-devel
+desktop-file-utils
+glib2-devel
+gtk3-devel
+libcanberra-devel
+libgnome-keyring-devel
+libnotify-devel
+mate-common
+mate-panel-devel
+mesa-libGL-devel
+pangox-compat-devel
+popt-devel
+upower-devel

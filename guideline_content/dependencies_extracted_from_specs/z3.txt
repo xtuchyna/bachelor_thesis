@@ -1,0 +1,14 @@
+doxygen
+gcc-c++
+gmp-devel
+graphviz
+java-devel
+jpackage-utils
+ocaml
+ocaml-findlib
+ocaml-num-devel
+ocaml-ocamldoc
+python2-devel
+python2-setuptools
+python3-devel
+python3-setuptools

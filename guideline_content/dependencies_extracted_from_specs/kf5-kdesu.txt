@@ -1,0 +1,8 @@
+extra-cmake-modules >= 5.44.0
+kf5-kcoreaddons-devel >= 5.44.0
+kf5-ki18n-devel >= 5.44.0
+kf5-kpty-devel >= 5.44.0
+kf5-kservice-devel >= 5.44.0
+kf5-rpm-macros >= 5.44.0
+libX11-devel
+qt5-qtbase-devel

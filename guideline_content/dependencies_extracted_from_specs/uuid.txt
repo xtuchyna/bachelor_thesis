@@ -1,0 +1,6 @@
+libtool
+perl(Data::UUID)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl-devel
+perl-generators

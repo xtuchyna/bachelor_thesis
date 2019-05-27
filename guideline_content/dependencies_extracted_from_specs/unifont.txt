@@ -1,0 +1,5 @@
+fontforge
+fontpackages-devel
+perl-generators
+texinfo
+xorg-x11-font-utils

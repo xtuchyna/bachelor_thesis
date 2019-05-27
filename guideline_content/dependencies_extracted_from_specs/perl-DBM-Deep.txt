@@ -1,0 +1,36 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(DBD::SQLite) >= 1.25
+perl(DBI) >= 1.5
+perl(Data::Dumper)
+perl(Digest::MD5)
+perl(Exporter)
+perl(Fcntl)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(FileHandle::Fmode)
+perl(Hash::Util::FieldHash)
+perl(Module::Build) >= 0.40
+perl(Pod::Simple)
+perl(Pod::Usage) >= 1.3
+perl(Scalar::Util)
+perl(Test::Deep)
+perl(Test::Exception)
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::Warn)
+perl(base)
+perl(constant)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

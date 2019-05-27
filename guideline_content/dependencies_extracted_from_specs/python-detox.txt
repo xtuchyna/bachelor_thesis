@@ -1,0 +1,6 @@
+python2-devel
+python2-eventlet
+python2-py
+python2-setuptools
+python2-six
+python2-tox

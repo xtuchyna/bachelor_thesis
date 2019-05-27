@@ -1,0 +1,2 @@
+GLC_lib-devel >= 2.0.0
+desktop-file-utils

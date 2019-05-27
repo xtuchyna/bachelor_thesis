@@ -1,0 +1,4 @@
+gettext
+ncurses-devel
+neon-devel >= 0.27.0
+readline-devel

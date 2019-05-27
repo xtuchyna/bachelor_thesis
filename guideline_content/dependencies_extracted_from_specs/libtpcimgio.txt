@@ -1,0 +1,4 @@
+dos2unix
+doxygen
+graphviz
+libtpcmisc-devel

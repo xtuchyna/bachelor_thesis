@@ -1,0 +1,10 @@
+tensorflow 4
+prejst si zaklady tensorflowu
+nahodit si fedoru
+pochopit neuronove siete, machine learning basics
+google machine learning materialy prejst
+zistit preco vyvojari preferuju ubuntu pred fedorou v oblasti vyvoja machine learning kodu
+https://developer.fedoraproject.org/ -> tu by sa spravil guide na machine learning AKA quickinstall guide
+honza posle dokument -> prestudovat, mozno spravit nejaky vycuc
+
+

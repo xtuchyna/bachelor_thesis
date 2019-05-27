@@ -1,0 +1,40 @@
+findutils
+make
+perl(:VERSION) >= 5.8
+perl(B)
+perl(Carp)
+perl(Data::Dumper)
+perl(Exporter::Tiny) >= 0.026
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(File::Temp)
+perl(FileHandle)
+perl(IO::All)
+perl(IO::File)
+perl(IO::Handle)
+perl(IO::Socket::INET)
+perl(List::MoreUtils)
+perl(Moose)
+perl(Moose::Role)
+perl(MooseX::Types)
+perl(MooseX::Types::Moose)
+perl(Path::Class)
+perl(Path::Tiny)
+perl(Scalar::Util) >= 1.24
+perl(Test::More) >= 0.96
+perl(Test::NoWarnings)
+perl(Test::Requires) >= 0.06
+perl(Type::Tiny) >= 0.004
+perl(Types::Standard) >= 0.004
+perl(URI)
+perl(URI::file)
+perl(base)
+perl(constant)
+perl(feature)
+perl(if)
+perl(lexical::underscore)
+perl(namespace::clean) >= 0.19
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

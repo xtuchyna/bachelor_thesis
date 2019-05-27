@@ -1,0 +1,28 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(Getopt::Long)
+perl(Pod::Escapes) >= 1.04
+perl(Symbol)
+perl(Test) >= 1.25
+perl(Test::More)
+perl(Text::Wrap) >= 98.112902
+perl(base)
+perl(integer)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

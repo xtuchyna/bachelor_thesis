@@ -1,0 +1,10 @@
+perl(:VERSION) >= 5
+perl(Carp)
+perl(Exporter)
+perl(Module::Build) >= 0.42
+perl(Test::More)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

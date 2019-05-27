@@ -1,0 +1,7 @@
+atk-devel
+desktop-file-utils
+gcc
+gkrellm-devel
+gtk2-devel
+pango-devel
+xmms2-devel >= 0.7

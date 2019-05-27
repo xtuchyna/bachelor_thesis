@@ -1,0 +1,2 @@
+pkgconfig
+pkgconfig(xorg-macros) >= 1.8

@@ -1,0 +1,27 @@
+coreutils
+make
+perl(Carp)
+perl(Cwd)
+perl(Encode)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(File::Spec)
+perl(IO::Dir)
+perl(IO::File)
+perl(Math::BigInt)
+perl(Net::SFTP)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Symbol)
+perl(Test::More)
+perl(Tie::Handle)
+perl(Time::HiRes)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl(warnings::register)
+perl-generators
+perl-interpreter

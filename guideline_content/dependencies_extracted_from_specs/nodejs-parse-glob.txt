@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(glob-base)
+npm(is-dotfile)
+npm(lodash)

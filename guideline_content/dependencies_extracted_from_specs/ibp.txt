@@ -1,0 +1,4 @@
+desktop-file-utils
+imake
+libX11-devel
+ncurses-devel

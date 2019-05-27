@@ -1,0 +1,13 @@
+ImageMagick
+SDL2-devel
+boost-devel
+cmake
+desktop-file-utils
+hicolor-icon-theme
+lua-devel
+mesa-libGL-devel
+physfs-devel
+pkgconfig
+tinyxml-devel
+zip
+zlib-devel

@@ -1,0 +1,10 @@
+perl(ExtUtils::MakeMaker)
+perl(List::MoreUtils)
+perl(Moose) >= 1.15
+perl(MooseX::GlobRef)
+perl(MooseX::InsideOut)
+perl(Test::Exception)
+perl(Test::Fatal)
+perl(Test::Moose)
+perl(Test::More)
+perl-generators

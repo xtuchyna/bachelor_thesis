@@ -1,0 +1,4 @@
+docbook-utils
+flex
+python-devel
+swig

@@ -1,0 +1,6 @@
+ImageMagick
+desktop-file-utils
+libXext-devel
+libXpm-devel
+libXt-devel
+libappstream-glib

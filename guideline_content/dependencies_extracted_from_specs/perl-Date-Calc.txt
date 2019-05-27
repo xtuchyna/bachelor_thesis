@@ -1,0 +1,12 @@
+perl(Bit::Vector) >= 7.1
+perl(Carp::Clan) >= 6.04
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(POSIX)
+perl(bytes)
+perl(overload)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

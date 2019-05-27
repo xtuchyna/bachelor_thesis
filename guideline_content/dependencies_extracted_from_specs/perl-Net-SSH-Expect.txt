@@ -1,0 +1,7 @@
+perl(Carp)
+perl(Expect)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(constant)
+perl(fields)
+perl-generators

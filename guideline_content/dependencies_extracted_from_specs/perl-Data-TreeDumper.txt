@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Check::ISA)
+perl(Class::ISA)
+perl(Devel::Size) >= 0.58
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Sort::Naturally)
+perl(Term::Size) >= 0.2
+perl(Test)
+perl(Text::Wrap) >= 2001.0929
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

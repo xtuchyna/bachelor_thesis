@@ -1,0 +1,9 @@
+desktop-file-utils
+freetype-devel
+libICE-devel
+libSM-devel
+libX11-devel
+libXext-devel
+libXmu-devel
+libXpm-devel
+motif-devel

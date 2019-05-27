@@ -1,0 +1,3 @@
+gcc
+gtk2-devel
+sane-backends-devel >= 1.0.19-15

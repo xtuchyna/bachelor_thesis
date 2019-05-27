@@ -1,0 +1,4 @@
+ruby(release)
+rubygem(railties)
+rubygem(rspec)
+rubygems-devel

@@ -1,0 +1,2 @@
+dbus-devel
+qt3-devel

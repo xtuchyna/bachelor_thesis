@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(grunt-cli)
+npm(grunt-contrib-clean)
+npm(grunt-contrib-internal)
+npm(nodeunit)
+npm(tap)

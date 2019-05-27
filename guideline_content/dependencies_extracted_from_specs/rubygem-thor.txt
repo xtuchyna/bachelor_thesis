@@ -1,0 +1,7 @@
+git
+ruby
+ruby(release)
+rubygem(fakeweb)
+rubygem(io-console)
+rubygem(rspec) >= 3
+rubygems-devel

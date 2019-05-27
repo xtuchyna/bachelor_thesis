@@ -1,0 +1,5 @@
+maven-local
+mvn(org.apache.felix:gogo-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.osgi:osgi.cmpn)
+mvn(org.osgi:osgi.core)

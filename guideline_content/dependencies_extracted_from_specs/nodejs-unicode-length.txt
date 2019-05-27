@@ -1,0 +1,6 @@
+coffee-script
+mocha
+nodejs-packaging
+npm(chai)
+npm(chalk)
+npm(lodash)

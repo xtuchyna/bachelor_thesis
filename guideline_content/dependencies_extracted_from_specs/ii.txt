@@ -1,0 +1,5 @@
+binutils
+coreutils
+gcc
+make
+sed

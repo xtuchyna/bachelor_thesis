@@ -1,0 +1,60 @@
+coreutils
+findutils
+make
+perl(CGI) >= 3.37
+perl(CGI::Simple)
+perl(Carp)
+perl(Class::Accessor::Chained::Fast)
+perl(Class::MOP::Method)
+perl(Clone)
+perl(Config::Any) >= 0.18
+perl(Cwd)
+perl(Data::Visitor) >= 0.26
+perl(Data::Visitor::Callback)
+perl(Date::Calc)
+perl(DateTime) >= 0.38
+perl(DateTime::Format::Builder) >= 0.80
+perl(DateTime::Format::Natural)
+perl(DateTime::Format::Strptime) >= 1.20
+perl(DateTime::Locale) >= 0.45
+perl(Email::Valid)
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(Fatal)
+perl(File::Copy)
+perl(File::Find)
+perl(File::ShareDir)
+perl(File::ShareDir::Install)
+perl(File::Spec)
+perl(File::Temp)
+perl(HTML::Scrubber)
+perl(HTML::TokeParser::Simple) >= 3.14
+perl(HTTP::Headers) >= 1.64
+perl(Hash::Flatten)
+perl(IO::File)
+perl(List::MoreUtils)
+perl(Locale::Maketext)
+perl(Module::Pluggable)
+perl(Moose) >= 1.00
+perl(Moose::Role)
+perl(Moose::Util)
+perl(MooseX::Aliases)
+perl(MooseX::Attribute::Chained) >= 1.0.1
+perl(MooseX::SetOnce)
+perl(Number::Format)
+perl(POSIX)
+perl(Path::Class::File)
+perl(Readonly)
+perl(Regexp::Assemble)
+perl(Regexp::Common)
+perl(Scalar::Util)
+perl(Storable)
+perl(Task::Weaken)
+perl(Template)
+perl(Test::Exception)
+perl(Test::Memory::Cycle)
+perl(Test::More) >= 0.92
+perl(YAML::XS) >= 0.32
+perl-generators
+perl-interpreter
+sed

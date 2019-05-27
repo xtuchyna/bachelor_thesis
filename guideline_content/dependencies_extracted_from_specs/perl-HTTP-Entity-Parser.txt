@@ -1,0 +1,26 @@
+/usr/bin/perl
+perl(Carp)
+perl(Cwd)
+perl(Encode)
+perl(Exporter)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(HTTP::Headers)
+perl(HTTP::Message) >= 6
+perl(HTTP::MultiPartParser)
+perl(Hash::MultiValue)
+perl(IO::File)
+perl(JSON::MaybeXS) >= 1.003007
+perl(Module::Build::Tiny) >= 0.035
+perl(Module::Load)
+perl(Stream::Buffered)
+perl(Test::More) >= 0.98
+perl(WWW::Form::UrlEncoded) >= 0.23
+perl(base)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.008001

@@ -1,0 +1,22 @@
+perl(:VERSION) >= 5.8
+perl(Class::Accessor::Fast) >= 0.19
+perl(DBD::File)
+perl(DBD::Pg)
+perl(DBD::SQLite) >= 1.09
+perl(DBI)
+perl(DBI::Const::GetInfoType)
+perl(Data::Dumper)
+perl(FindBin)
+perl(List::Util) >= 1.18
+perl(Module::Build)
+perl(Sys::SigAction) >= 0.10
+perl(Test::Exception) >= 0.21
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::TCP) >= 2.19
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

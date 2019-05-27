@@ -1,0 +1,11 @@
+GConf2-devel
+desktop-file-utils
+geoclue2-devel
+gettext-devel
+intltool
+libXrandr-devel
+libXxf86vm-devel
+libdrm-devel
+libtool
+python3-devel >= 3.2
+systemd-units

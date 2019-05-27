@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(colors)
+npm(mocha)
+npm(should)

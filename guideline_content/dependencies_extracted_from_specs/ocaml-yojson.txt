@@ -1,0 +1,7 @@
+jbuilder
+ocaml >= 3.10.0
+ocaml-biniou-devel
+ocaml-cppo
+ocaml-easy-format-devel
+ocaml-findlib
+ocaml-ocamldoc

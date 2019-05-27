@@ -1,0 +1,2 @@
+curl-devel
+nss-devel

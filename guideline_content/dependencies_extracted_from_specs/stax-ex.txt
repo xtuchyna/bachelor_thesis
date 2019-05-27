@@ -1,0 +1,7 @@
+dos2unix
+maven-local
+mvn(javax.xml.stream:stax-api)
+mvn(junit:junit)
+mvn(net.java:jvnet-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)

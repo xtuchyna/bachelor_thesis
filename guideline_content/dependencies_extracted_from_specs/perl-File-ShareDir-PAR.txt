@@ -1,0 +1,18 @@
+perl(Carp)
+perl(Class::Inspector) >= 1.12
+perl(Config)
+perl(Cwd)
+perl(Exporter)
+perl(File::Path)
+perl(File::ShareDir) >= 1.02
+perl(File::Spec)
+perl(PAR) >= 0.989
+perl(PAR::Dist)
+perl(Test::More) >= 0.47
+perl(base)
+perl(constant)
+perl(inc::Module::Install)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators

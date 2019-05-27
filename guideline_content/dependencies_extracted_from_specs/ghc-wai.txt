@@ -1,0 +1,9 @@
+ghc-Cabal-devel
+ghc-blaze-builder-devel
+ghc-bytestring-devel
+ghc-http-types-devel
+ghc-network-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-transformers-devel
+ghc-vault-devel

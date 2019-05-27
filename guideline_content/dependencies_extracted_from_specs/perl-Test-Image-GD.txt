@@ -1,0 +1,14 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec::Functions)
+perl(GD)
+perl(Scalar::Util)
+perl(Test::Builder)
+perl(Test::Builder::Tester)
+perl(Test::More) >= 0.47
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

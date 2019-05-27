@@ -1,0 +1,5 @@
+glib2-devel
+gobject-introspection-devel
+gtk-doc
+libsoup-devel
+libxml2-devel

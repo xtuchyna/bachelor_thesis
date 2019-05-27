@@ -1,0 +1,21 @@
+asciidoctor >= 1.5.4
+ca-certificates
+cmake
+docbook-style-xsl
+enchant-devel
+gettext
+gnutls-devel
+guile-devel
+libcurl-devel
+libgcrypt-devel
+lua-devel
+ncurses-devel
+perl-ExtUtils-Embed
+perl-devel
+pkgconfig
+python-devel
+ruby
+ruby-devel
+source-highlight
+tcl-devel
+zlib-devel

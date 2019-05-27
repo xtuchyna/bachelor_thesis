@@ -1,0 +1,2 @@
+/usr/bin/phpunit6
+php(language) >= 5.4

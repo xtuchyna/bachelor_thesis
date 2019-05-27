@@ -1,0 +1,10 @@
+java-devel
+jcodings
+jpackage-utils
+junit
+maven-compiler-plugin
+maven-jar-plugin
+maven-local
+maven-surefire-plugin
+objectweb-asm
+sonatype-oss-parent

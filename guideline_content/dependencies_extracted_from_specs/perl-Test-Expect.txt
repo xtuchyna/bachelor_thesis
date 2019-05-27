@@ -1,0 +1,13 @@
+perl(Class::Accessor::Chained::Fast)
+perl(Expect)
+perl(Expect::Simple)
+perl(Exporter)
+perl(Module::Build)
+perl(Test::Builder)
+perl(Test::More)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

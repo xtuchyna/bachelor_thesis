@@ -1,0 +1,4 @@
+ant
+java-devel
+libreoffice-core
+osgi(javax.xml)

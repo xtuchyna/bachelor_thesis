@@ -1,0 +1,19 @@
+httpd-devel
+jsoncpp-devel
+libcurl-devel
+libev-devel >= 4.0.0
+libuv-devel
+openssl-devel
+pcre-devel
+ruby
+ruby-devel
+rubygem(mime-types)
+rubygem(mizuho)
+rubygem(rack)
+rubygem(rake) >= 0.8.1
+rubygem(rspec)
+rubygems
+rubygems-devel
+source-highlight
+valgrind-devel
+zlib-devel

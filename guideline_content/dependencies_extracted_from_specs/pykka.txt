@@ -1,0 +1,4 @@
+python-gevent
+python-sphinx
+python2-devel
+python3-devel

@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-hxt-charproperties-devel
+ghc-parsec-devel
+ghc-rpm-macros
+ghc-text-devel

@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(ansi-styles)
+npm(escape-string-regexp)
+npm(has-ansi) >= 2.0.0
+npm(has-color)
+npm(strip-ansi)
+npm(supports-color)

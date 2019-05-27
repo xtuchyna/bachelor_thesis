@@ -1,0 +1,8 @@
+coreutils
+desktop-file-utils
+gettext
+libappstream-glib
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+maven-local
+mvn(javax.servlet.jsp:javax.servlet.jsp-api)
+mvn(javax.servlet:javax.servlet-api)
+mvn(net.java:jvnet-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.eclipse.jdt:core)
+mvn(org.glassfish:javax.el)

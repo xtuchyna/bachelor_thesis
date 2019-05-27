@@ -1,0 +1,9 @@
+ImageMagick
+dbus-glib-devel
+gdk-pixbuf2-devel
+gtk3-devel
+libICE-devel
+libSM-devel
+libgnome-keyring-devel
+libnotify-devel
+libudisks2-devel

@@ -1,0 +1,16 @@
+perl(Carp)
+perl(File::Temp)
+perl(LWP::Protocol)
+perl(LWP::Protocol::http)
+perl(LWP::Protocol::https)
+perl(LWP::UserAgent)
+perl(Module::Build::Tiny) >= 0.035
+perl(Scope::Guard)
+perl(Test::Fake::HTTPD) >= 0.08
+perl(Test::More) >= 0.98
+perl(Test::UseAllModules)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

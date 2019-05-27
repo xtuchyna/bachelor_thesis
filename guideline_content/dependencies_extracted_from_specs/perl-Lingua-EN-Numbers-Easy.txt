@@ -1,0 +1,9 @@
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Lingua::EN::Numbers) >= 1.01
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

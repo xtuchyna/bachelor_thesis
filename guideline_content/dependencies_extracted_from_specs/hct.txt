@@ -1,0 +1,3 @@
+dos2unix
+perl(ExtUtils::MakeMaker)
+perl-generators

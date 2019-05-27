@@ -1,0 +1,9 @@
+cmake
+gettext-devel >= 0.18
+libattr-devel
+libtool
+perl(Locale::TextDomain)
+pkgconfig(fuse) >= 2.6
+pkgconfig(librlog) >= 1.3
+pkgconfig(openssl)
+pkgconfig(tinyxml2)

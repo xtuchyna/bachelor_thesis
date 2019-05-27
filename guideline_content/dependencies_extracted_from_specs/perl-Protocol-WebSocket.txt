@@ -1,0 +1,21 @@
+coreutils
+perl(Carp)
+perl(Config)
+perl(Digest::MD5)
+perl(Digest::SHA)
+perl(Encode)
+perl(FindBin)
+perl(IO::Handle)
+perl(MIME::Base64)
+perl(Module::Build::Tiny) >= 0.35
+perl(Scalar::Util)
+perl(Test::More)
+perl(base)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

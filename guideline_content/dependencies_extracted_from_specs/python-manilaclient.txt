@@ -1,0 +1,17 @@
+python-keystoneclient
+python-oslo-sphinx
+python-oslo-utils
+python-pbr
+python-prettytable
+python-setuptools
+python-six
+python-sphinx
+python2-devel
+python3-devel
+python3-keystoneclient
+python3-oslo-sphinx
+python3-oslo-utils
+python3-pbr
+python3-prettytable
+python3-setuptools
+python3-six

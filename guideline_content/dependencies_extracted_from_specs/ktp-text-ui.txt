@@ -1,0 +1,26 @@
+desktop-file-utils
+dos2unix
+extra-cmake-modules
+kf5-karchive-devel
+kf5-kcmutils-devel
+kf5-kdbusaddons-devel
+kf5-kdewebkit-devel
+kf5-kemoticons-devel
+kf5-ki18n-devel
+kf5-kiconthemes-devel
+kf5-kio-devel
+kf5-kitemviews-devel
+kf5-knotifications-devel
+kf5-knotifyconfig-devel
+kf5-kpeople-devel
+kf5-kservice-devel
+kf5-ktextwidgets-devel
+kf5-kwidgetsaddons-devel
+kf5-kwindowsystem-devel
+kf5-kxmlgui-devel
+kf5-rpm-macros
+kf5-sonnet-devel
+ktp-common-internals-devel >= 17.12
+qt5-qtbase-devel
+qt5-qtwebengine-devel
+telepathy-logger-qt-devel

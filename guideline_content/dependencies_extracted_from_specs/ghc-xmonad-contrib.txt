@@ -1,0 +1,17 @@
+ghc-Cabal-devel
+ghc-X11-devel
+ghc-X11-xft-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-extensible-exceptions-devel
+ghc-filepath-devel
+ghc-mtl-devel
+ghc-old-locale-devel
+ghc-old-time-devel
+ghc-process-devel
+ghc-random-devel
+ghc-rpm-macros
+ghc-unix-devel
+ghc-utf8-string-devel
+ghc-xmonad-devel

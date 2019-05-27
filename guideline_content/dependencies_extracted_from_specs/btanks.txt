@@ -1,0 +1,11 @@
+SDL-devel
+SDL_image-devel
+desktop-file-utils
+dos2unix
+expat-devel
+libvorbis-devel
+lua-devel
+mesa-libGL-devel
+scons
+zip
+zlib-devel

@@ -1,0 +1,6 @@
+bluez-libs-devel >= 3.14
+gcc
+glibc-devel >= 2.2.4
+pkgconfig
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

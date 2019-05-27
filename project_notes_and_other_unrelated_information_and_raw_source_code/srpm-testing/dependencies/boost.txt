@@ -1,0 +1,15 @@
+bzip2-devel
+gcc-c++
+libicu-devel
+libquadmath-devel
+libstdc++-devel
+m4
+mpich-devel
+openmpi-devel
+python2-devel
+python2-numpy
+python3-devel
+python3-numpy
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+zlib-devel

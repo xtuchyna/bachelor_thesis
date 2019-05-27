@@ -1,0 +1,12 @@
+ghc-Cabal-devel
+ghc-binary-devel
+ghc-bytestring-devel
+ghc-cryptohash-md5-devel
+ghc-cryptohash-sha1-devel
+ghc-entropy-devel
+ghc-network-info-devel
+ghc-random-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-time-devel
+ghc-uuid-types-devel

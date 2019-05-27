@@ -1,0 +1,3 @@
+desktop-file-utils
+exempi-devel
+qt4-devel

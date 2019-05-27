@@ -1,0 +1,18 @@
+cmake
+davix-devel >= 0.4.2
+dcap-devel
+doxygen
+dpm-devel
+glib2-devel >= 2.28
+globus-gass-copy-devel
+gtest-devel
+json-c-devel
+lfc-devel
+libattr-devel
+libssh2-devel
+libuuid-devel
+openldap-devel
+pugixml-devel
+srm-ifce-devel >= 1.23.1
+xrootd-client-devel >= 1:4.1.1
+zlib-devel

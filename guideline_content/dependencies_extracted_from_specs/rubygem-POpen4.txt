@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(Platform) >= 0.4.0
+rubygem(open4)
+rubygem(test-unit)
+rubygems-devel

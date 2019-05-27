@@ -1,0 +1,6 @@
+gettext
+intltool
+perl-XML-Parser
+pygobject2-devel
+pygtk2-codegen
+python2-devel

@@ -1,0 +1,7 @@
+boost-devel
+cmake
+flann-devel
+gcc-c++
+libccd-devel
+octomap-devel
+tinyxml-devel

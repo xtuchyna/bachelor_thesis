@@ -1,0 +1,7 @@
+/usr/bin/appstream-util
+/usr/bin/desktop-file-install
+/usr/bin/msgfmt
+/usr/bin/rst2man
+python3-devel
+python3-freezegun
+python3-mock

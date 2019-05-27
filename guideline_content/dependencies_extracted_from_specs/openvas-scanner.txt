@@ -1,0 +1,13 @@
+cmake >= 2.6.0
+doxygen
+glib2-devel
+gnutls-devel
+gpgme-devel
+libgcrypt-devel
+libksba-devel
+libpcap-devel
+libuuid-devel
+openvas-libraries-devel >= 8.0
+pkgconfig
+systemd
+systemd-units

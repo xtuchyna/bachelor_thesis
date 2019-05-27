@@ -1,0 +1,9 @@
+autoconf
+automake
+git
+gnome-common
+gtk-doc
+libtool
+pkgconfig(json-glib-1.0)
+pkgconfig(libgsystem)
+pkgconfig(ostree-1)

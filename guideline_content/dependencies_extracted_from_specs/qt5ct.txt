@@ -1,0 +1,10 @@
+desktop-file-utils
+gcc-c++
+libXrender-devel
+pkgconfig(libudev)
+qt5-linguist
+qt5-qtbase-devel
+qt5-qtbase-private-devel
+qt5-qtbase-static
+qt5-qtsvg-devel
+qt5-qttools-devel

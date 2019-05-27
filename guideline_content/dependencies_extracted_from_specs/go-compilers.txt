@@ -1,0 +1,3 @@
+coreutils
+go-srpm-macros
+golang

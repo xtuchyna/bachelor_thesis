@@ -1,0 +1,13 @@
+make
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::InferConfig)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(PAR::Dist) >= 0.40
+perl(Test::More)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

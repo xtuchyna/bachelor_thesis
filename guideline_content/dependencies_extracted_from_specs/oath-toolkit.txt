@@ -1,0 +1,8 @@
+autoconf
+automake
+gtk-doc
+libtool
+libtool-ltdl-devel
+pam-devel
+xmlsec1-devel
+xmlsec1-openssl-devel

@@ -1,0 +1,3 @@
+/usr/bin/appstream-util
+intltool
+pidgin-devel

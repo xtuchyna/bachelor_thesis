@@ -1,0 +1,6 @@
+cmake >= 2.4
+doxygen
+gcc
+gcc-c++
+libsamplerate-devel
+libsndfile-devel

@@ -1,0 +1,28 @@
+findutils
+make
+perl(Catalyst)
+perl(Catalyst::Controller)
+perl(Catalyst::Runtime)
+perl(Catalyst::Test)
+perl(FindBin)
+perl(HTTP::Request::AsCGI)
+perl(I18N::LangTags)
+perl(I18N::LangTags::Detect)
+perl(I18N::LangTags::List)
+perl(Locale::Maketext::Lexicon)
+perl(Locale::Maketext::Simple) >= 0.19
+perl(MRO::Compat) >= 0.10
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(base)
+perl(inc::Module::Install) >= 0.87
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,5 @@
+doxygen
+glibmm24-devel >= 2.28.0
+graphviz
+gtkmm30-devel >= 3.4.1
+libnotify-devel >= 0.7.5

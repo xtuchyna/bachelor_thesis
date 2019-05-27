@@ -1,0 +1,6 @@
+ruby(release)
+rubygem(bigdecimal)
+rubygem(idn)
+rubygem(public_suffix)
+rubygem(rspec-its)
+rubygems-devel

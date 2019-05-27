@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(colors)
+npm(grunt-cli)
+npm(grunt-contrib-nodeunit)
+npm(hooker)
+npm(prompt)
+npm(semver)

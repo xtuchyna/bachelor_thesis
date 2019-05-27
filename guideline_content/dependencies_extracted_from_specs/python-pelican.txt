@@ -1,0 +1,13 @@
+python3-beautifulsoup4
+python3-blinker
+python3-dateutil
+python3-devel
+python3-django
+python3-jinja2
+python3-lxml
+python3-markdown
+python3-mock
+python3-pytz
+python3-six
+python3-sphinx
+python3-unidecode

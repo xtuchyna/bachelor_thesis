@@ -1,0 +1,10 @@
+maven-local
+mvn(ch.qos.logback:logback-classic)
+mvn(com.google.guava:guava)
+mvn(com.intellij:annotations)
+mvn(junit:junit)
+mvn(net.arnx:jsonic)
+mvn(org.hamcrest:hamcrest-core)
+mvn(org.hamcrest:hamcrest-library)
+mvn(org.mockito:mockito-all)
+mvn(org.slf4j:slf4j-api)

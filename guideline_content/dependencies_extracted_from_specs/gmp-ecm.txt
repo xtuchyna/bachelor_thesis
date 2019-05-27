@@ -1,0 +1,6 @@
+docbook-style-xsl
+gcc
+gmp-devel
+gsl-devel
+libxslt
+m4

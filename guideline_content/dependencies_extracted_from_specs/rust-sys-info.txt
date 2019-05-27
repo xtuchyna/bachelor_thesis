@@ -1,0 +1,4 @@
+(crate(cc) >= 1.0.0 with crate(cc) < 2.0.0)
+(crate(libc) >= 0.2.29 with crate(libc) < 0.3.0)
+/usr/bin/hostname
+rust-packaging

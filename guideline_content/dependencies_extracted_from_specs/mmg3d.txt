@@ -1,0 +1,4 @@
+cmake
+gcc
+make
+scotch-devel

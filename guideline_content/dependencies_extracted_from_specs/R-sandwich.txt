@@ -1,0 +1,6 @@
+R-car
+R-devel >= 2.15.0
+R-lmtest
+R-stats
+R-zoo
+tex(latex)

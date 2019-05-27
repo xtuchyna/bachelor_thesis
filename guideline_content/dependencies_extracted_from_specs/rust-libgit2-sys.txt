@@ -1,0 +1,10 @@
+(crate(cc) >= 1.0.0 with crate(cc) < 2.0.0)
+(crate(cmake) >= 0.1.2 with crate(cmake) < 0.2.0)
+(crate(curl-sys) >= 0.4.0 with crate(curl-sys) < 0.5.0)
+(crate(libc) >= 0.2.0 with crate(libc) < 0.3.0)
+(crate(libssh2-sys) >= 0.2.4 with crate(libssh2-sys) < 0.3.0)
+(crate(openssl-sys) >= 0.9.0 with crate(openssl-sys) < 0.10.0)
+(crate(pkg-config) >= 0.3.0 with crate(pkg-config) < 0.4.0)
+crate(libz-sys) >= 0.0.0
+pkgconfig(libgit2)
+rust-packaging

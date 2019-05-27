@@ -1,0 +1,6 @@
+libtool
+log4c-devel
+perl(Getopt::Long)
+perl(POSIX)
+perl-interpreter
+pkgconfig

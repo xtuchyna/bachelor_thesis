@@ -1,0 +1,6 @@
+SDL-devel
+SDL_image-devel
+desktop-file-utils
+doxygen
+freetype-devel
+mesa-libGL-devel

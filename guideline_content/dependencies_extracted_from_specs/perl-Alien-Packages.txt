@@ -1,0 +1,11 @@
+perl(Carp)
+perl(File::Spec)
+perl(IPC::Cmd)
+perl(Module::Build)
+perl(Module::Pluggable) >= 4.5
+perl(Test::More)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

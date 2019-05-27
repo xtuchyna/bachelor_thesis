@@ -1,0 +1,5 @@
+e2fsprogs-devel
+libacl-devel
+libattr-devel
+libselinux-devel
+libtool

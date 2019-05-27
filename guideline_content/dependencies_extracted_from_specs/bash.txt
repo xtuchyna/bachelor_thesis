@@ -1,0 +1,5 @@
+autoconf
+bison
+gettext
+ncurses-devel
+texinfo

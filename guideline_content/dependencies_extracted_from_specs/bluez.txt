@@ -1,0 +1,11 @@
+autoconf
+automake
+cups-devel
+dbus-devel >= 1.6
+git-core
+glib2-devel
+json-c-devel
+libical-devel
+libtool
+readline-devel
+systemd-devel

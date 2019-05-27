@@ -1,0 +1,20 @@
+avahi-gobject-devel
+boost-devel
+desktop-file-utils
+eigen3-devel
+faust
+fftw-devel
+gettext-devel
+gperf
+gtk2-devel
+gtkmm24-devel
+intltool
+jack-audio-connection-kit-devel
+ladspa-devel
+liblrdf-devel
+libsigc++20-devel
+libsndfile-devel
+lilv-devel
+lv2-devel
+zita-convolver-devel >= 3.0.2
+zita-resampler-devel >= 0.1.1-3

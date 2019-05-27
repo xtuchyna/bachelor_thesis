@@ -1,0 +1,5 @@
+dos2unix
+maven-local
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.apache.maven.wagon:wagon-ssh-external)

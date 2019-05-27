@@ -1,0 +1,10 @@
+GConf2
+compat-gtkhtml314-devel
+desktop-file-utils
+gettext
+guile-devel
+intltool
+libXScrnSaver-devel
+libgnomeui-devel
+qof-devel
+scrollkeeper

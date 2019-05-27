@@ -1,0 +1,13 @@
+binutils
+cairo-devel
+desktop-file-utils
+gcc
+girara-devel
+glib2-devel
+jbig2dec-devel
+libappstream-glib
+libjpeg-turbo-devel
+meson >= 0.43
+mupdf-static
+openjpeg2-devel
+zathura-devel >= 0.3.9

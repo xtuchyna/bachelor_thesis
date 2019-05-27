@@ -1,0 +1,3 @@
+postgresql-devel >= 8.1
+ruby >= 1.8
+ruby-devel >= 1.8

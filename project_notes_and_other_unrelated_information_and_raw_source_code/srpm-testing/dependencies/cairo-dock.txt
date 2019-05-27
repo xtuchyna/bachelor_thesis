@@ -1,0 +1,26 @@
+cmake
+desktop-file-utils
+gcc
+gcc-c++
+gettext
+intltool
+pkgconfig(cairo)
+pkgconfig(dbus-1)
+pkgconfig(dbus-glib-1)
+pkgconfig(gl)
+pkgconfig(glib-2.0)
+pkgconfig(glu)
+pkgconfig(gthread-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(libcurl)
+pkgconfig(librsvg-2.0)
+pkgconfig(libxml-2.0)
+pkgconfig(wayland-client)
+pkgconfig(x11)
+pkgconfig(xcomposite)
+pkgconfig(xinerama)
+pkgconfig(xrandr)
+pkgconfig(xrender)
+pkgconfig(xtst)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

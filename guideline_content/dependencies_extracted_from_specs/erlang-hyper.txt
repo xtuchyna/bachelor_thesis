@@ -1,0 +1,4 @@
+erlang-basho_stats
+erlang-proper
+erlang-rebar
+erlang-stdlib2

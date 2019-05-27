@@ -1,0 +1,4 @@
+php-devel
+php-pear
+pkgconfig(libzip) >= 1.0.0
+zlib-devel

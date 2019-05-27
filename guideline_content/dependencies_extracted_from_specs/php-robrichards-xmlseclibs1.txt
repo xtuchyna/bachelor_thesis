@@ -1,0 +1,7 @@
+php(language) >= 5.2
+php-composer(phpunit/phpunit)
+php-composer(theseer/autoload)
+php-dom
+php-hash
+php-mcrypt
+php-openssl

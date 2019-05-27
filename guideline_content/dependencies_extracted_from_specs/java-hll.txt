@@ -1,0 +1,7 @@
+maven-local
+mvn(it.unimi.dsi:fastutil)
+mvn(org.easymock:easymock)
+mvn(org.powermock:powermock-api-easymock)
+mvn(org.powermock:powermock-module-junit4)
+mvn(org.sonatype.oss:oss-parent:pom:)
+mvn(org.testng:testng)

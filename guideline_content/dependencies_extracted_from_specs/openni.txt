@@ -1,0 +1,10 @@
+dos2unix
+doxygen
+freeglut-devel
+graphviz
+java-devel
+jpackage-utils
+libjpeg-devel
+libusb1-devel
+python
+tinyxml-devel

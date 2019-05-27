@@ -1,0 +1,13 @@
+perl(Carp)
+perl(Config)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(FindBin)
+perl(Module::Build)
+perl(Test::Builder::Module)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

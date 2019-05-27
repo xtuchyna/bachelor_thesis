@@ -1,0 +1,23 @@
+/usr/bin/desktop-file-validate
+djvulibre-devel
+gettext
+gnome-common
+gtk-doc
+intltool
+kpathsea-devel
+libappstream-glib
+libtiff-devel
+libtool
+pkgconfig(adwaita-icon-theme)
+pkgconfig(gio-unix-2.0) >= 2.36.0
+pkgconfig(gnome-desktop-3.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gtk+-x11-3.0) >= 3.16.0
+pkgconfig(libarchive)
+pkgconfig(libgxps) >= 0.2.1
+pkgconfig(libnautilus-extension)
+pkgconfig(libsecret-1)
+pkgconfig(libspectre)
+pkgconfig(libxml-2.0)
+pkgconfig(poppler-glib) >= 0.24.0
+yelp-tools

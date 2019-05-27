@@ -1,0 +1,5 @@
+apr-devel
+httpd-devel
+mono-devel
+pkgconfig
+xsp-devel

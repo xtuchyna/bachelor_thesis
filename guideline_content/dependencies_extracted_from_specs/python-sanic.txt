@@ -1,0 +1,11 @@
+python3-aiofiles >= 0.3.0
+python3-aiohttp
+python3-beautifulsoup4
+python3-devel
+python3-gunicorn
+python3-httptools >= 0.0.9
+python3-pytest
+python3-setuptools
+python3-ujson >= 1.35
+python3-uvloop >= 0.5.3
+python3-websockets >= 3.2

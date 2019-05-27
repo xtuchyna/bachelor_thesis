@@ -1,0 +1,17 @@
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Perl::Critic) >= 1.088
+perl(Perl::Critic::Policy)
+perl(Perl::Critic::Policy::ValuesAndExpressions::ProhibitLeadingZeros)
+perl(Perl::Critic::TestUtils)
+perl(Perl::Critic::Utils)
+perl(Readonly)
+perl(Test::More)
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

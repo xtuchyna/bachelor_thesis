@@ -1,0 +1,12 @@
+doxygen
+fontconfig-devel
+freetype-devel
+gettext
+graphviz
+libcap-devel
+libjpeg-devel
+ncurses-devel
+perl(File::Spec)
+pkgconfig
+systemd >= 186
+systemd-devel

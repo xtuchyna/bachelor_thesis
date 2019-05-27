@@ -1,0 +1,4 @@
+java-devel >= 1:1.6.0
+jpackage-utils
+maven-local
+mvn(org.apache.commons:commons-parent:pom:)

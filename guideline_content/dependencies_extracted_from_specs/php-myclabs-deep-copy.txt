@@ -1,0 +1,9 @@
+php(language) >= 5.6
+php-composer(doctrine/collections) < 2
+php-composer(doctrine/collections) >= 1.0
+php-composer(doctrine/common) < 3
+php-composer(doctrine/common) >= 2.6
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit) >= 4.1
+php-reflection
+php-spl

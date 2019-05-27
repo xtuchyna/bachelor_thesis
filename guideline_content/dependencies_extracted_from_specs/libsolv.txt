@@ -1,0 +1,14 @@
+bzip2-devel
+cmake
+gcc-c++
+libxml2-devel
+ninja-build
+perl-devel
+perl-generators
+pkgconfig(rpm)
+python2-devel
+python3-devel
+ruby-devel
+swig
+xz-devel
+zlib-devel

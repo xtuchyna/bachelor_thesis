@@ -1,0 +1,8 @@
+maven-local
+mvn(org.apache.aries.blueprint:blueprint-parser) >= 1.4.0
+mvn(org.apache.aries.blueprint:org.apache.aries.blueprint.api) >= 1.0.1
+mvn(org.apache.aries.blueprint:org.apache.aries.blueprint.core) >= 1.6.2
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.eclipse.osgi:org.eclipse.osgi)
+mvn(org.eclipse.osgi:org.eclipse.osgi.services)
+mvn(org.slf4j:slf4j-api)

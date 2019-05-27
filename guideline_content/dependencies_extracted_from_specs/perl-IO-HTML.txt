@@ -1,0 +1,9 @@
+perl(Carp)
+perl(Encode) >= 2.10
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Temp)
+perl(Scalar::Util)
+perl(Test::More) >= 0.88
+perl-generators
+perl-interpreter

@@ -1,0 +1,5 @@
+pkgconfig(Qt5Core)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Gui)
+pkgconfig(gl)
+python-devel

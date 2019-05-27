@@ -1,0 +1,10 @@
+desktop-file-utils
+gcc
+libXaw-devel
+libXext-devel
+libXft-devel
+libutempter-devel
+libxkbfile-devel
+ncurses-devel
+pkgconfig
+xorg-x11-apps

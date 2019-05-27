@@ -1,0 +1,7 @@
+check-devel
+dbus-glib-devel
+gobject-introspection-devel
+gtk-doc
+libtool
+libxml2-devel
+sqlite-devel

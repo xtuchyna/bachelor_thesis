@@ -1,0 +1,8 @@
+perl(CSS::Minifier)
+perl(ExtUtils::MakeMaker)
+perl(Module::Build::Compat)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-devel
+perl-generators

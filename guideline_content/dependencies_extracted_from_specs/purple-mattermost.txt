@@ -1,0 +1,3 @@
+json-glib-devel
+libmarkdown-devel
+libpurple-devel

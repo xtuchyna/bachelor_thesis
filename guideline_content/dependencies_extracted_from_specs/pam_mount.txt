@@ -1,0 +1,12 @@
+cryptsetup-luks-devel >= 1.1.2
+glib2-devel
+gpg
+libHX-devel >= 3.12.1
+libmount-devel >= 2.20
+libxml2-devel
+man-db
+openssl-devel
+pam-devel
+pcre-devel >= 7
+perl-interpreter
+xz

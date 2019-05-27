@@ -1,0 +1,11 @@
+chrpath
+ghc-Cabal-devel
+ghc-QuickCheck-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-json-devel
+ghc-mtl-devel
+ghc-parsec-devel
+ghc-process-devel
+ghc-regex-tdfa-devel
+ghc-rpm-macros

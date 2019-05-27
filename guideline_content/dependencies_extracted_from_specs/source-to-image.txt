@@ -1,0 +1,5 @@
+compiler(go-compiler)
+golang(github.com/fsouza/go-dockerclient)
+golang(github.com/golang/glog)
+golang(github.com/spf13/cobra)
+golang(github.com/spf13/pflag)

@@ -1,0 +1,27 @@
+GConf2-devel
+SDL-devel
+alsa-lib-devel
+autoconf
+avahi-devel
+avahi-glib-devel
+boost-devel
+dbus-glib-devel
+desktop-file-utils
+evolution-data-server-devel
+expat-devel
+gettext
+gnome-doc-utils
+gnome-icon-theme-devel
+gtk2-devel
+intltool
+libXv-devel
+libnotify-devel
+libtool
+libxml2-devel
+opal-devel = 3.10.10
+openldap-devel
+openssl-devel
+pkgconfig
+ptlib-devel = 2.10.10
+scrollkeeper
+speex-devel

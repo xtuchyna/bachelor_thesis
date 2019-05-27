@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+openssl
+openssl-devel
+perl(Carp)
+perl(Config)
+perl(DynaLoader)
+perl(ExtUtils::MakeMaker)
+perl(Test)
+perl(base)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

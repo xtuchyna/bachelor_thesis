@@ -1,0 +1,6 @@
+gcc-c++
+gettext
+libappstream-glib
+qt5-qtbase-devel
+qt5-qtdeclarative-devel
+xz-devel

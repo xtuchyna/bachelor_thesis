@@ -1,0 +1,3 @@
+cmake(x86-64)
+perl-generators
+python2-devel

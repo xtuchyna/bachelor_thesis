@@ -1,0 +1,10 @@
+fontconfig-devel >= 2.2.95
+freetype-devel >= 2.1.9
+glib2-devel
+libX11-devel
+libXrender-devel
+libpng-devel
+librsvg2-devel
+libxml2-devel
+pixman-devel >= 0.30.0
+pkgconfig

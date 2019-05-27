@@ -1,0 +1,7 @@
+chrpath
+libdb-devel
+ocaml
+ocaml-camlp4-devel
+perl-podlators
+systemd-units
+zlib-devel

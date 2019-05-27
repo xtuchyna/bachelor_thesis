@@ -1,0 +1,23 @@
+autoconf
+automake
+emacs(bin)
+emacs-el >= 24.1
+gcc-c++
+libtool
+maven-local
+mvn(com.google.code.gson:gson)
+mvn(com.google.guava:guava)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.easymock:easymock)
+pkgconfig
+python-google-apputils
+python-setuptools
+python2-devel
+python3-devel
+python3-google-apputils
+python3-setuptools
+zlib-devel

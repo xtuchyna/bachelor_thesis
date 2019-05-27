@@ -1,0 +1,15 @@
+avahi-gobject-devel
+clutter-devel
+clutter-gst-devel
+clutter-gtk-devel
+desktop-file-utils
+gstreamer-devel
+gstreamer-plugins-bad-free-devel
+gstreamer-rtsp-devel >= 0.10.8-1
+gstreamer-rtsp-vala
+libgudev1-devel
+libmx-devel >= 1.4.0
+libnotify-devel
+libtool
+vala
+vala-devel

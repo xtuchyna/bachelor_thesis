@@ -1,0 +1,10 @@
+GConf2-devel
+desktop-file-utils
+enchant-devel
+gettext-devel
+gtk2-devel
+intltool
+libglade2-devel
+libtool
+pcre-devel
+xneur-devel = 0.20.0

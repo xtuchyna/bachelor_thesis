@@ -1,0 +1,9 @@
+maven-local
+mvn(biz.source_code:base64coder)
+mvn(commons-codec:commons-codec)
+mvn(joda-time:joda-time)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.apache.velocity:velocity)
+mvn(org.springframework:spring-core)

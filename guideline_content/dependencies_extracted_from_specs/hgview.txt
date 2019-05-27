@@ -1,0 +1,6 @@
+PyQt4-devel
+asciidoc
+desktop-file-utils
+mercurial
+python2-devel
+xmlto

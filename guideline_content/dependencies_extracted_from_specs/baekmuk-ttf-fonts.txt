@@ -1,0 +1,4 @@
+fontpackages-devel >= 1.13
+fontpackages-filesystem >= 1.13
+ttmkfdir >= 3.0.6
+xorg-x11-font-utils

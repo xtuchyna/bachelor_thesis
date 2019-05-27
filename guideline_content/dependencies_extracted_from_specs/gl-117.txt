@@ -1,0 +1,4 @@
+SDL-devel
+SDL_mixer-devel
+desktop-file-utils
+freeglut-devel

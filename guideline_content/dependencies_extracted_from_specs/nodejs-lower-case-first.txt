@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(istanbul)
+npm(lower-case)
+npm(mocha)

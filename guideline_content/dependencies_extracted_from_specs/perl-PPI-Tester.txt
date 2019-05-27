@@ -1,0 +1,16 @@
+font(:lang=en)
+perl(Devel::Dumpvar) >= 0.04
+perl(PPI) >= 1.201
+perl(PPI::Dumper) >= 1.000
+perl(Test::More) >= 0.47
+perl(Test::Script) >= 1.02
+perl(Wx) >= 0.85
+perl(Wx::Event)
+perl(constant)
+perl(inc::Module::Install::DSL) >= 0.86
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter
+xorg-x11-server-Xvfb
+xorg-x11-xinit

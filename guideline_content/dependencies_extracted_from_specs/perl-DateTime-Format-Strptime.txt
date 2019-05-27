@@ -1,0 +1,32 @@
+coreutils
+make
+perl(CPAN::Meta) >= 2.120900
+perl(CPAN::Meta::Prereqs)
+perl(Carp)
+perl(DateTime) >= 1.00
+perl(DateTime::Locale) >= 1.05
+perl(DateTime::Locale::Base)
+perl(DateTime::TimeZone) >= 2.09
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(Package::DeprecationManager) >= 0.15
+perl(Params::ValidationCompiler)
+perl(Specio) >= 0.33
+perl(Specio::Declare)
+perl(Specio::Exporter)
+perl(Specio::Library::Builtins)
+perl(Specio::Library::String)
+perl(Test::Builder)
+perl(Test::Fatal)
+perl(Test::More) >= 0.96
+perl(Test::Warnings)
+perl(Try::Tiny)
+perl(constant)
+perl(lib)
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

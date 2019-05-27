@@ -1,0 +1,7 @@
+desktop-file-utils
+expat-devel
+gcc-c++
+gettext
+gtkmm24-devel
+pkgconfig
+scons

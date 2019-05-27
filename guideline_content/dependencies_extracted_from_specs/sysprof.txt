@@ -1,0 +1,9 @@
+/usr/bin/appstream-util
+/usr/bin/desktop-file-validate
+binutils-devel
+gettext
+gtk3-devel
+itstool
+meson
+polkit-devel
+systemd-devel

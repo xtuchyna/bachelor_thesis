@@ -1,0 +1,3 @@
+compiler(go-compiler)
+golang(bitbucket.org/kardianos/osext)
+golang(github.com/coreos/go-systemd/journal)

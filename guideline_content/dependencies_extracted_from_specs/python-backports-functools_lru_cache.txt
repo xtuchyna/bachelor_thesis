@@ -1,0 +1,4 @@
+python2-devel
+python2-pytest-runner
+python2-setuptools
+python2-setuptools_scm

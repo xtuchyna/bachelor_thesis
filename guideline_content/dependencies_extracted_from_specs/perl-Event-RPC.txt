@@ -1,0 +1,25 @@
+coreutils
+findutils
+make
+perl(AnyEvent)
+perl(CBOR::XS)
+perl(Carp)
+perl(Event)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(FileHandle)
+perl(Glib)
+perl(IO::Socket::INET)
+perl(IO::Socket::SSL)
+perl(JSON::XS) >= 3
+perl(Sereal) >= 3
+perl(Socket)
+perl(Storable)
+perl(Sys::Hostname)
+perl(Test::More)
+perl(base)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl-generators
+perl-interpreter

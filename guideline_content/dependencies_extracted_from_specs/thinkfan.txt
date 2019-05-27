@@ -1,0 +1,4 @@
+cmake
+gcc-c++
+libatasmart-devel
+systemd-units

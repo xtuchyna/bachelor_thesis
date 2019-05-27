@@ -1,0 +1,9 @@
+autoconf
+automake
+gcc
+gcc-c++
+jbigkit-devel
+libjpeg-devel
+libtool
+pkgconfig
+zlib-devel

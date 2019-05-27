@@ -1,0 +1,5 @@
+automake
+gcc-c++
+libtool
+pkgconfig
+pkgconfig(atomic_ops) >= 7.4

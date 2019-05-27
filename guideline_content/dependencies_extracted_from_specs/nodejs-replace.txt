@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(colors)
+npm(minimatch)
+npm(nomnom)
+npm(tap)
+npm(tape)

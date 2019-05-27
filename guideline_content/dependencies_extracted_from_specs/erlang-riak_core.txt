@@ -1,0 +1,12 @@
+erlang-basho_stats >= 1.0.3
+erlang-clique
+erlang-cluster_info
+erlang-eleveldb
+erlang-exometer_core
+erlang-lager >= 1.2.2
+erlang-meck
+erlang-mochiweb
+erlang-poolboy >= 0.8.1
+erlang-rebar
+erlang-riak_ensemble
+erlang-riak_sysmon >= 1.1.3

@@ -1,0 +1,9 @@
+autoconf
+automake
+libX11-devel >= 1.5.99.902
+libXfixes-devel
+libXrender-devel >= 0.8.2
+libtool
+pkgconfig
+xorg-x11-proto-devel
+xorg-x11-util-macros

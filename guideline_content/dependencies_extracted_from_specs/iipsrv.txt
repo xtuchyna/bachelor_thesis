@@ -1,0 +1,13 @@
+autoconf
+automake
+checkpolicy
+fcgi-devel
+lcms2-devel
+libjpeg-devel
+libmemcached-devel
+libpng-devel
+libtiff-devel
+libtool
+selinux-policy-devel
+systemd-units
+zlib-devel

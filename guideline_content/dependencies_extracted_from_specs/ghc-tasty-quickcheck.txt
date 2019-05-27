@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-QuickCheck-devel
+ghc-random-devel
+ghc-rpm-macros
+ghc-tagged-devel
+ghc-tasty-devel

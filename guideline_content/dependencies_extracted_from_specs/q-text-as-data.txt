@@ -1,0 +1,2 @@
+python2-devel
+rubygem-ronn

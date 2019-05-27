@@ -1,0 +1,5 @@
+perl(ExtUtils::MakeMaker)
+perl(GSSAPI) >= 0.18
+perl(LWP::Debug)
+perl(Test::More)
+perl-generators

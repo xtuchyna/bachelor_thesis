@@ -1,0 +1,7 @@
+fftw3-devel
+gsm-devel
+ladspa-devel
+libtool
+libxml2-devel
+perl-XML-Parser
+pkgconfig

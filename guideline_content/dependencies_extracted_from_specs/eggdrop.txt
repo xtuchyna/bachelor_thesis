@@ -1,0 +1,2 @@
+tcl-devel >= 8.3
+zlib-devel

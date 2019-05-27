@@ -1,0 +1,9 @@
+/usr/bin/appstream-util
+/usr/bin/xsltproc
+desktop-file-utils
+docbook-style-xsl
+gettext
+itstool
+meson
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gtk+-3.0)

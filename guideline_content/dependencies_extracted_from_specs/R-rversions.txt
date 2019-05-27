@@ -1,0 +1,5 @@
+R-curl
+R-devel
+R-utils
+R-xml2
+tex(latex)

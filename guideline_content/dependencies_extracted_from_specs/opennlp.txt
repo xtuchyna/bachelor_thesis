@@ -1,0 +1,9 @@
+maven-local
+mvn(commons-io:commons-io)
+mvn(junit:junit)
+mvn(net.sf.jwordnet:jwnl)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.uima:uimaj-core)
+mvn(org.apache:apache:pom:)
+mvn(org.osgi:org.osgi.compendium)
+mvn(org.osgi:org.osgi.core)

@@ -1,0 +1,8 @@
+ant
+findutils
+java-devel >= 1.5.0
+javapackages-local
+jflex
+jpackage-utils >= 1.7.3
+log4j12
+sed

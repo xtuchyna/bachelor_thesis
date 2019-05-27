@@ -1,0 +1,6 @@
+gcc
+mariadb-devel
+postgresql-devel
+systemd
+texinfo
+zlib-devel

@@ -1,0 +1,8 @@
+SDL2-devel
+cmake
+desktop-file-utils
+jack-audio-connection-kit-devel
+libappstream-glib
+rtmidi-devel
+zlib-devel
+zziplib-devel

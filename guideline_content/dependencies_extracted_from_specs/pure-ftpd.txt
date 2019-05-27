@@ -1,0 +1,11 @@
+checkpolicy
+gcc
+git
+libcap-devel
+mariadb-connector-c-devel
+openldap-devel
+openssl-devel
+pam-devel
+postgresql-devel
+selinux-policy-devel
+systemd-units

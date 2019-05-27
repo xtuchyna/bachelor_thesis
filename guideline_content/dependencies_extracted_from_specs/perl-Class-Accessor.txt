@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(B)
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Sub::Name)
+perl(Test::More)
+perl(Tie::Hash)
+perl(base)
+perl(strict)
+perl-generators
+perl-interpreter

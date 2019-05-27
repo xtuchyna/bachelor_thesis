@@ -1,0 +1,5 @@
+gcc
+help2man
+python2
+tex(latex)
+tex(supertabular.sty)

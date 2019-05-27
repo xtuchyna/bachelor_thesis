@@ -1,0 +1,9 @@
+maven-compiler-plugin
+maven-enforcer-plugin
+maven-jar-plugin
+maven-javadoc-plugin
+maven-local
+maven-plugin-plugin
+maven-resources-plugin
+maven-surefire-plugin
+sonatype-oss-parent

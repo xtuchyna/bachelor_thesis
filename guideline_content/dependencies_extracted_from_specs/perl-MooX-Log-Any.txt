@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(Log::Any)
+perl(Log::Any::Test)
+perl(Moo)
+perl(Moo::Role)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

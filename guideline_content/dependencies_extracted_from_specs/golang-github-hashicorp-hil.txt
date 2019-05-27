@@ -1,0 +1,3 @@
+compiler(go-compiler)
+golang(github.com/mitchellh/mapstructure)
+golang(github.com/mitchellh/reflectwalk)

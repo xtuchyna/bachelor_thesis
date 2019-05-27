@@ -1,0 +1,5 @@
+maven-local
+mvn(javax.enterprise:cdi-api)
+mvn(javax.inject:javax.inject)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.jboss:jboss-parent:pom:)

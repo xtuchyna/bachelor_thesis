@@ -1,0 +1,2 @@
+fontpackages-devel
+web-assets-devel

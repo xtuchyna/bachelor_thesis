@@ -1,0 +1,6 @@
+node-gyp
+nodejs-devel
+nodejs-packaging
+npm(bindings)
+npm(nan)
+npm(nodeunit)

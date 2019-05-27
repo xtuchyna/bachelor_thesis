@@ -1,0 +1,17 @@
+make
+perl(IO::Scalar) >= 2.110
+perl(Log::Dispatch::Config)
+perl(Log::Dispatch::Configurator)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moose)
+perl(Moose::Role)
+perl(Test::More) >= 0.42
+perl(base)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

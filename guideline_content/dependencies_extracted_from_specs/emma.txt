@@ -1,0 +1,5 @@
+ant >= 1.6.5
+bc
+java-devel >= 1.6
+javapackages-local
+jpackage-utils >= 1.7.5-1jpp.3

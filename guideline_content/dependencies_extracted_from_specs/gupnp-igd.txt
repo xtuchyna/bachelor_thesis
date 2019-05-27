@@ -1,0 +1,4 @@
+glib2-devel
+gobject-introspection-devel
+gupnp-devel
+pygtk2-devel

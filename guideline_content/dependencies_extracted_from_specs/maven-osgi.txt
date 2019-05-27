@@ -1,0 +1,5 @@
+maven-local
+mvn(biz.aQute:bndlib)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)
+mvn(org.apache.maven:maven-project)
+mvn(org.codehaus.plexus:plexus-component-metadata)

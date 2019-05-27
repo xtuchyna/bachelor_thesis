@@ -1,0 +1,8 @@
+ant >= 1.8.2
+cglib >= 2.2
+groovy18 >= 1.8.5
+javapackages-local
+joda-time >= 1.6.2
+jsr-311 >= 1.1.1
+objectweb-asm3 >= 3.3
+stax2-api >= 3.1.1

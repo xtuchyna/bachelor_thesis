@@ -1,0 +1,4 @@
+autoconf
+libselinux-devel
+procps
+slang-devel >= 2.0

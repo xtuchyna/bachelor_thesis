@@ -1,0 +1,16 @@
+coreutils
+findutils
+gcc
+make
+perl(Carp)
+perl(DynaLoader)
+perl(ExtUtils::MakeMaker)
+perl(Getopt::Long)
+perl(Getopt::Std)
+perl(HTTP::Status)
+perl(LWP::Simple)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

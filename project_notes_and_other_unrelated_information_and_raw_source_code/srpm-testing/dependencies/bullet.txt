@@ -1,0 +1,10 @@
+cmake
+dos2unix
+doxygen
+freeglut-devel
+gcc
+gcc-c++
+libICE-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+tinyxml-devel

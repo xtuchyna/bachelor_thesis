@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(graceful-fs)
+npm(mkdirp)
+npm(rimraf)
+npm(tap)
+npm(tape)

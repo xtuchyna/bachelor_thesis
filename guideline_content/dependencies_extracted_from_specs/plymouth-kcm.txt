@@ -1,0 +1,14 @@
+cmake(KF5Archive)
+cmake(KF5Config)
+cmake(KF5ConfigWidgets)
+cmake(KF5Declarative)
+cmake(KF5I18n)
+cmake(KF5KIO)
+cmake(KF5NewStuff)
+cmake(KF5NewStuffCore)
+cmake(Qt5Quick)
+extra-cmake-modules
+kf5-kcmutils
+kf5-rpm-macros
+plymouth-devel
+qt5-qtbase-devel

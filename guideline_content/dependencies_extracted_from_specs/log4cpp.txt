@@ -1,0 +1,5 @@
+autoconf
+automake
+doxygen
+gcc-c++
+libtool

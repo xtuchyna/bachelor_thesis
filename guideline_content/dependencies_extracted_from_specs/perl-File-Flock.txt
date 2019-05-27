@@ -1,0 +1,7 @@
+perl(Data::Structure::Util)
+perl(ExtUtils::MakeMaker)
+perl(File::Slurp)
+perl(IO::Event)
+perl(Test::More)
+perl(Test::SharedFork)
+perl-generators

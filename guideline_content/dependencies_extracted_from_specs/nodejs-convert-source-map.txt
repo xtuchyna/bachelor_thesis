@@ -1,0 +1,3 @@
+nodejs-packaging
+npm(inline-source-map)
+npm(tap)

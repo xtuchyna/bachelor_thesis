@@ -1,0 +1,12 @@
+coreutils
+findutils
+httpd-devel
+make
+perl(ExtUtils::Embed)
+perl(ExtUtils::MakeMaker)
+perl(strict)
+perl-devel
+perl-generators
+perl-interpreter
+perl-interpreter >= 5.8.0
+sed

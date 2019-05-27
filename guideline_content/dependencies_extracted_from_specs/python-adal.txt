@@ -1,0 +1,15 @@
+python-httpretty
+python2-cryptography
+python2-dateutil
+python2-devel
+python2-jwt
+python2-mock
+python2-requests
+python2-setuptools
+python3-cryptography
+python3-dateutil
+python3-devel
+python3-httpretty
+python3-jwt
+python3-mock
+python3-requests

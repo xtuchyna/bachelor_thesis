@@ -1,0 +1,4 @@
+gettext
+itstool
+pkgconfig
+yelp-tools

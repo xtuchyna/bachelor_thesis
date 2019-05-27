@@ -1,0 +1,6 @@
+(php-composer(bartlett/php-compatinfo-db) >= 1.23 with php-composer(bartlett/php-compatinfo-db) < 2)
+(php-composer(bartlett/php-reflect) >= 4.2 with php-composer(bartlett/php-reflect) < 5)
+/usr/bin/phpunit
+php(language) >= 5.5
+php-composer(fedora/autoloader)
+php-pdo_sqlite

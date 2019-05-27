@@ -1,0 +1,8 @@
+maven-local
+mvn(com.ibm.icu:icu4j)
+mvn(commons-codec:commons-codec)
+mvn(commons-lang:commons-lang)
+mvn(commons-logging:commons-logging)
+mvn(javax.servlet:javax.servlet-api)
+mvn(junit:junit)
+mvn(org.bouncycastle:bcprov-jdk16)

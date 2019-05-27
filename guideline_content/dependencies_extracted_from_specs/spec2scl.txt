@@ -1,0 +1,6 @@
+python3-devel
+python3-flexmock
+python3-jinja2
+python3-pytest
+python3-pytest-runner
+python3-setuptools

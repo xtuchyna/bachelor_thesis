@@ -1,0 +1,19 @@
+make
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::File)
+perl(IO::Handle)
+perl(PerlIO::scalar)
+perl(Scalar::Util)
+perl(Test::More) >= 0.62
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

@@ -1,0 +1,7 @@
+dos2unix
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(List::Util)
+perl(Test::More)
+perl-generators

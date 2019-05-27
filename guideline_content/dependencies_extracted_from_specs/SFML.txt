@@ -1,0 +1,12 @@
+cmake
+doxygen
+flac-devel
+freetype-devel
+glew-devel
+libXrandr-devel
+libjpeg-devel
+libsndfile-devel
+libvorbis-devel
+openal-devel
+systemd-devel
+xcb-util-image-devel

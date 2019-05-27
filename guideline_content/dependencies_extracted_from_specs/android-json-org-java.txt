@@ -1,0 +1,2 @@
+geronimo-parent-poms
+maven-local

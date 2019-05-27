@@ -1,0 +1,4 @@
+compat-openssl10-devel
+gcc-c++
+qt5-qtbase-devel
+qt5-qtmultimedia-devel

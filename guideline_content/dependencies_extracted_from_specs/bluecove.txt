@@ -1,0 +1,6 @@
+ant
+bluez-libs-devel
+dbus-java >= 2.5.1
+java-devel >= 1:1.6.0
+jpackage-utils
+libmatthew-java

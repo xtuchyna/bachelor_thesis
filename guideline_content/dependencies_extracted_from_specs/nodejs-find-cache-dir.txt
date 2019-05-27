@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(commondir)
+npm(mkdirp)
+npm(pkg-dir)

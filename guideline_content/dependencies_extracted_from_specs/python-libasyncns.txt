@@ -1,0 +1,2 @@
+libasyncns-devel >= 0.4
+python-devel

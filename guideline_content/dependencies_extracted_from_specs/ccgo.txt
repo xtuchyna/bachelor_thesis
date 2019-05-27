@@ -1,0 +1,14 @@
+autoconf
+automake
+coreutils
+desktop-file-utils
+gcc-c++
+gettext
+gettext-devel
+libappstream-glib
+make
+ncurses-devel
+pkgconfig
+pkgconfig(gconfmm-2.6)
+pkgconfig(gtkmm-2.4)
+sed

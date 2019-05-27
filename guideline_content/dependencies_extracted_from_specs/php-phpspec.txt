@@ -1,0 +1,18 @@
+php(language) >= 7.0
+php-composer(doctrine/instantiator) < 2
+php-composer(doctrine/instantiator) >= 1.0.1
+php-composer(fedora/autoloader) >= 1
+php-composer(phpspec/php-diff) < 2
+php-composer(phpspec/php-diff) >= 1.0.0
+php-composer(phpspec/prophecy) < 2
+php-composer(phpspec/prophecy) >= 1.5
+php-composer(sebastian/exporter) < 4
+php-composer(sebastian/exporter) >= 3
+php-composer(symfony/filesystem) < 4
+php-composer(symfony/filesystem) >= 3.2
+php-symfony3-console >= 3.2
+php-symfony3-event-dispatcher >= 3.2
+php-symfony3-finder >= 3.2
+php-symfony3-process >= 3.2
+php-symfony3-yaml >= 3.2
+phpunit6

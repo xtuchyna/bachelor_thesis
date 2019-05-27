@@ -1,0 +1,12 @@
+help2man
+rubygem(bigdecimal)
+rubygem(colorator)
+rubygem(jekyll-sass-converter)
+rubygem(jekyll-watch)
+rubygem(kramdown)
+rubygem(liquid)
+rubygem(mercenary)
+rubygem(pathutil)
+rubygem(rouge)
+rubygem(safe_yaml)
+rubygems-devel

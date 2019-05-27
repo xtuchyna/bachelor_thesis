@@ -1,0 +1,5 @@
+gettext
+gimp-devel
+lcms-devel
+libjpeg-devel
+libtiff-devel

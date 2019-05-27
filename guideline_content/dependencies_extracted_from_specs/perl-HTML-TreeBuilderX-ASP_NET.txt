@@ -1,0 +1,26 @@
+findutils
+make
+perl(CPAN)
+perl(Carp)
+perl(Class::MOP)
+perl(Cwd)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(FindBin)
+perl(HTML::Element)
+perl(HTML::TreeBuilder)
+perl(HTTP::Request::Form)
+perl(Moose) >= 0.89
+perl(Moose::Role)
+perl(MooseX::Traits)
+perl(MooseX::Types) >= 0.19
+perl(Test::More)
+perl(mro)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.10.0

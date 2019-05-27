@@ -1,0 +1,9 @@
+perl(CGI)
+perl(CGI::Application)
+perl(DBD::Mock) >= 0.11
+perl(DBI)
+perl(Module::Build)
+perl(Test::MockObject) >= 1.20120301
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

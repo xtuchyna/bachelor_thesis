@@ -1,0 +1,8 @@
+byacc
+cmake
+flex
+gengetopt
+gmp-devel
+hiredis-devel
+json-c-devel
+libpcap-devel

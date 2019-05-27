@@ -1,0 +1,7 @@
+e2fsprogs
+parted-devel >= 3.2-18
+pkgconfig
+python2-devel
+python2-six
+python3-devel
+python3-six

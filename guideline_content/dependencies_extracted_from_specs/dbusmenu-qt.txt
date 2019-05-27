@@ -1,0 +1,10 @@
+cmake
+dbus-x11
+doxygen
+pkgconfig
+pkgconfig(QJson)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Widgets)
+pkgconfig(QtDBus)
+pkgconfig(QtGui)
+xorg-x11-server-Xvfb

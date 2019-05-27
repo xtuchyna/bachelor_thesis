@@ -1,0 +1,28 @@
+autoconf
+autoconf-archive
+automake
+desktop-file-utils
+gettext
+gobject-introspection-devel >= 0.6.7
+intltool
+libXScrnSaver-devel
+libXtst-devel
+libtool
+pkgconfig(dbusmenu-glib-0.4) >= 0.1.1
+pkgconfig(dbusmenu-gtk3-0.4) >= 0.3.95
+pkgconfig(gio-2.0) >= 2.26.0
+pkgconfig(glib-2.0) >= 2.28.0
+pkgconfig(glibmm-2.4) >= 2.28.0
+pkgconfig(gstreamer-1.0)
+pkgconfig(gtk+-2.0) >= 2.6.0
+pkgconfig(gtk+-3.0) >= 3.0.0
+pkgconfig(gtkmm-3.0) >= 3.0.0
+pkgconfig(ice)
+pkgconfig(indicator3-0.4) >= 0.3.19
+pkgconfig(libmatepanelapplet-4.0)
+pkgconfig(libpulse) >= 0.9.15
+pkgconfig(libpulse-mainloop-glib) >= 0.9.15
+pkgconfig(libxfce4panel-1.0) >= 4.4
+pkgconfig(sigc++-2.0) >= 2.2.4.2
+pkgconfig(sm)
+python-cheetah

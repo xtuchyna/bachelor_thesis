@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(got)
+npm(registry-url)
+npm(semver)

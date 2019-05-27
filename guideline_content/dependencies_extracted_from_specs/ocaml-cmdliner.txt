@@ -1,0 +1,4 @@
+ocaml
+ocaml-findlib-devel
+ocaml-ocamlbuild
+ocaml-result-devel

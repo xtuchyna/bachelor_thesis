@@ -1,0 +1,4 @@
+ruby(release)
+rubygem(rspec)
+rubygem(thread_safe)
+rubygems-devel

@@ -1,0 +1,10 @@
+glib2-devel >= 2.2
+gtk2-devel >= 2.2
+libtool
+libxml2-devel >= 2.6.7
+libxslt >= 1.0.32
+pangox-compat-devel
+pkgconfig
+popt >= 1.7
+popt-devel >= 1.7
+t1lib-devel

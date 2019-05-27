@@ -1,0 +1,2 @@
+desktop-file-utils
+qt3-devel

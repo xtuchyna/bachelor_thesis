@@ -1,0 +1,30 @@
+gettext
+intltool
+itstool
+kernel-headers
+libappstream-glib
+lirc-devel
+pkgconfig(clutter-gst-2.0)
+pkgconfig(clutter-gtk-1.0)
+pkgconfig(gobject-introspection-1.0) >= 0.10.0
+pkgconfig(grilo-0.3) >= 0.3.0
+pkgconfig(gstreamer-1.0)
+pkgconfig(gstreamer-pbutils-1.0)
+pkgconfig(gtk+-3.0) >= 3.16.0
+pkgconfig(gudev-1.0)
+pkgconfig(json-glib-1.0)
+pkgconfig(libbrasero-media3)
+pkgconfig(libdmapsharing-3.0) >= 2.9.19
+pkgconfig(libgpod-1.0)
+pkgconfig(libmtp)
+pkgconfig(libnotify)
+pkgconfig(libpeas-gtk-1.0)
+pkgconfig(libsecret-1) >= 0.18
+pkgconfig(libsoup-2.4) >= 2.34.0
+pkgconfig(libxml-2.0)
+pkgconfig(mx-1.0)
+pkgconfig(pygobject-3.0)
+pkgconfig(tdb)
+pkgconfig(totem-plparser) >= 3.2.0
+python3-devel
+yelp-tools

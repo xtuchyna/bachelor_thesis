@@ -1,0 +1,8 @@
+python2-devel
+python2-docker
+python2-enum34
+python2-setuptools
+python2-sphinx
+python3-devel
+python3-setuptools
+pyxattr

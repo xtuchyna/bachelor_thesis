@@ -1,0 +1,6 @@
+gcc-c++
+libqtelegram-ae-devel
+openssl-devel
+qt5-qtbase-devel
+qt5-qtdeclarative-devel
+qt5-qtmultimedia-devel

@@ -1,0 +1,6 @@
+(crate(bitflags) >= 1.0.0 with crate(bitflags) < 2.0.0)
+(crate(foreign-types) >= 0.3.1 with crate(foreign-types) < 0.4.0)
+(crate(lazy_static) >= 1.0.0 with crate(lazy_static) < 2.0.0)
+(crate(libc) >= 0.2.0 with crate(libc) < 0.3.0)
+(crate(openssl-sys) >= 0.9.27 with crate(openssl-sys) < 0.10.0)
+rust-packaging

@@ -1,0 +1,9 @@
+ghostscript
+libtommath-devel >= 1.0
+libtool
+tex(cmr10.tfm)
+tex(fancyhdr.sty)
+tex(hyphen.tex)
+texlive-latex-bin-bin
+texlive-makeindex-bin
+texlive-mfware-bin

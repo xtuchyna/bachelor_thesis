@@ -1,0 +1,14 @@
+asciidoc
+gettext
+python-beautifulsoup4
+python-lxml
+python-psutil
+python-pygments
+python-sphinx
+python2-devel
+python3-beautifulsoup4
+python3-devel
+python3-lxml
+python3-psutil
+python3-pygments
+python3-sphinx

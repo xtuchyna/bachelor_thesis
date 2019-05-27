@@ -1,0 +1,8 @@
+chrpath
+ed
+java-devel >= 1:1.6.0
+libtool
+perl-Carp
+perl-interpreter
+tcl-devel >= 8.6.1
+util-linux-ng

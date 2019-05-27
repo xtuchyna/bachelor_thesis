@@ -1,0 +1,4 @@
+cmake
+libev-devel
+openssl-devel
+zlib-devel

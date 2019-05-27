@@ -1,0 +1,14 @@
+perl(Alien::wxWidgets) >= 0.25
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker) >= 6.21
+perl(ExtUtils::ParseXS) >= 2.2203
+perl(ExtUtils::XSpp::Cmd)
+perl(Fatal)
+perl(Module::Info)
+perl(Test::Harness)
+perl(Test::More)
+perl(Test::Pod)
+perl(YAML) >= 0.35
+perl-devel
+perl-generators
+wxGTK-devel

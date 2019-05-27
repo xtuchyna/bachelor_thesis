@@ -1,0 +1,33 @@
+make
+perl(:VERSION) >= 5.6.0
+perl(Carp)
+perl(Data::ICal)
+perl(Data::ICal::Entry::Alarm::Display)
+perl(Data::ICal::Entry::Alarm::Email)
+perl(Data::ICal::Entry::Event)
+perl(Data::ICal::Entry::TimeZone)
+perl(Data::ICal::Entry::TimeZone::Daylight)
+perl(Data::ICal::Entry::TimeZone::Standard)
+perl(Data::ICal::TimeZone) >= 1.23
+perl(DateTime::Format::ICal) >= 0.09
+perl(DateTime::Format::ISO8601) >= 0.08
+perl(DateTime::TimeZone)
+perl(Digest::SHA)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(JSON::XS)
+perl(MIME::Base64)
+perl(MIME::Types)
+perl(Net::DAVTalk) >= 0.02
+perl(Pod::Coverage) >= 0.18
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(Text::LevenshteinXS) >= 0.03
+perl(Text::VCardFast) >= 0.06
+perl(URI::Escape)
+perl(XML::Spice)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+gcc-c++
+mingw32-filesystem >= 102
+mingw32-python2
+mingw32-qt5-qtbase
+mingw64-filesystem >= 102
+mingw64-python2
+mingw64-qt5-qtbase
+python2-devel

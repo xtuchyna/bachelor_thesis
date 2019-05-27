@@ -1,0 +1,5 @@
+bison
+flex
+gettext
+texinfo >= 4.0
+zlib-devel

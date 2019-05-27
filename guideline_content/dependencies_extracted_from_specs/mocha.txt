@@ -1,0 +1,12 @@
+nodejs-packaging
+npm(chalk)
+npm(commander)
+npm(debug)
+npm(diff)
+npm(escape-string-regexp)
+npm(glob)
+npm(growl)
+npm(jade)
+npm(mkdirp)
+npm(should)
+npm(supports-color)

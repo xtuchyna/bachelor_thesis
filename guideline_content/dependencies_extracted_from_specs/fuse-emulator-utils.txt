@@ -1,0 +1,7 @@
+audiofile-devel >= 0.2.3
+glib2-devel
+libjpeg-turbo-devel
+libpng-devel
+libspectrum-devel >= 1.4.1
+newt-devel
+zlib-devel

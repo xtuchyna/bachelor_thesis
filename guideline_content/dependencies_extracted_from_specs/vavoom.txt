@@ -1,0 +1,13 @@
+SDL_mixer-devel
+SDL_net-devel
+cmake
+desktop-file-utils
+flac-devel
+libGLU-devel
+libappstream-glib
+libjpeg-devel
+libpng-devel
+libvorbis-devel
+mikmod-devel
+openal-soft-devel
+wxGTK-devel

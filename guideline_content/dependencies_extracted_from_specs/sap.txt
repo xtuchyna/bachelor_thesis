@@ -1,0 +1,3 @@
+gstreamer-devel
+ncurses-devel
+vala

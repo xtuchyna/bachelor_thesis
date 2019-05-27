@@ -1,0 +1,11 @@
+extra-cmake-modules >= 5.44
+kf5-kcodecs-devel >= 5.44
+kf5-kconfig-devel >= 5.44
+kf5-kconfigwidgets-devel >= 5.44
+kf5-kcoreaddons-devel >= 5.44
+kf5-kiconthemes-devel >= 5.44
+kf5-kwidgetsaddons-devel >= 5.44
+kf5-kxmlgui-devel >= 5.44
+kf5-rpm-macros
+qt5-qtbase-devel
+qt5-qttools-devel

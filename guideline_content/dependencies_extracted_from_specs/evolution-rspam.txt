@@ -1,0 +1,9 @@
+GConf2-devel
+autoconf
+automake
+evolution-devel
+gettext
+gnome-common
+intltool
+libtool
+perl(XML::Parser)

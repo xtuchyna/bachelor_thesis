@@ -1,0 +1,11 @@
+autoconf
+automake
+libtool
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-ilmbase
+mingw32-zlib
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-ilmbase
+mingw64-zlib

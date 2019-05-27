@@ -1,0 +1,8 @@
+php(language) >= 5.6
+php-composer(nette/tester) >= 1.4
+php-composer(theseer/autoload)
+php-date
+php-iconv
+php-json
+php-pcre
+php-spl

@@ -1,0 +1,8 @@
+perl(Carp)
+perl(Class::Accessor::Classy) >= 0.1.3
+perl(Module::Build) >= 0.35
+perl(Test::More)
+perl(bytes)
+perl(strict)
+perl(warnings)
+perl-generators

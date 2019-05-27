@@ -1,0 +1,9 @@
+asciidoc
+bash
+coreutils
+createrepo_c
+dnf
+dnf-plugins-core
+findutils
+python3-devel
+rpm-python3

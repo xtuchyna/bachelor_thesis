@@ -1,0 +1,8 @@
+eclipse-license
+eclipse-p2-discovery
+eclipse-pde
+httpcomponents-client
+maven-enforcer-plugin
+maven-plugin-build-helper
+tycho
+tycho-extras

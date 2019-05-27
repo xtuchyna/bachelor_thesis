@@ -1,0 +1,24 @@
+findutils
+gcc
+perl(:VERSION) >= 5.11.2
+perl(Devel::CallChecker) >= 0.002
+perl(Devel::Declare) >= 0.006004
+perl(DynaLoader)
+perl(DynaLoader::Functions) >= 0.001
+perl(Exporter)
+perl(ExtUtils::CBuilder) >= 0.15
+perl(ExtUtils::ParseXS)
+perl(File::Spec)
+perl(IO::File) >= 1.03
+perl(Lexical::Sub)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(indirect) >= 0.27
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter >= 5.011002

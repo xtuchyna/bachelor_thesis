@@ -1,0 +1,11 @@
+ghc-Cabal-devel
+ghc-HUnit-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-mtl-devel
+ghc-network-devel
+ghc-old-locale-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-time-devel
+ghc-unix-devel

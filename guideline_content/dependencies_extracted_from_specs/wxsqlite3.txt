@@ -1,0 +1,4 @@
+dos2unix
+doxygen
+sqlite-devel
+wxGTK3-devel

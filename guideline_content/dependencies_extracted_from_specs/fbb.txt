@@ -1,0 +1,10 @@
+automake
+desktop-file-utils
+libX11-devel
+libXext-devel
+libXpm-devel
+libXt-devel
+libax25-devel
+motif-devel
+ncurses-devel
+systemd

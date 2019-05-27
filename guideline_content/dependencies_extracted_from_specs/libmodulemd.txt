@@ -1,0 +1,7 @@
+gcc
+meson
+pkgconfig(gobject-2.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gtk-doc)
+pkgconfig(yaml-0.1)
+python3-gobject-base

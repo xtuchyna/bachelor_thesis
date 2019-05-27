@@ -1,0 +1,4 @@
+libmarkdown-devel
+ruby-devel
+rubygem(test-unit)
+rubygems-devel

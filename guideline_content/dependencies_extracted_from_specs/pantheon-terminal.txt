@@ -1,0 +1,13 @@
+cmake
+desktop-file-utils
+gettext
+intltool
+libappstream-glib
+pkgconfig(gdk-3.0)
+pkgconfig(glib-2.0) >= 2.39
+pkgconfig(granite) >= 0.3.0
+pkgconfig(gthread-2.0)
+pkgconfig(gtk+-3.0) >= 3.9.10
+pkgconfig(libnotify)
+pkgconfig(vte-2.91)
+vala >= 0.22.0

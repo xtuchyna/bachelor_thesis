@@ -1,0 +1,13 @@
+aspell-devel
+bison
+desktop-file-utils
+enchant-devel
+flex
+gettext
+gtk2-devel
+jasper-devel
+libXpm-devel
+libtool-ltdl
+libtool-ltdl-devel
+libyahoo2-devel
+openssl-devel

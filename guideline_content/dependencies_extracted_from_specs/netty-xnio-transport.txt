@@ -1,0 +1,5 @@
+maven-local
+mvn(io.netty:netty-buffer)
+mvn(io.netty:netty-transport)
+mvn(org.jboss.xnio:xnio-api)
+mvn(org.jboss:jboss-parent:pom:)

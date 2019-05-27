@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(lodash)
+npm(mocha)
+npm(should)

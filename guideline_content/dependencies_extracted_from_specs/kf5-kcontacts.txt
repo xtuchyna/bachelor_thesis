@@ -1,0 +1,9 @@
+dbus-x11
+extra-cmake-modules
+kf5-kcodecs-devel >= 5.15
+kf5-kconfig-devel >= 5.15
+kf5-kcoreaddons-devel >= 5.15
+kf5-ki18n-devel >= 5.15
+kf5-rpm-macros
+qt5-qtbase-devel
+xorg-x11-server-Xvfb

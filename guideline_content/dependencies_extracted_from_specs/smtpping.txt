@@ -1,0 +1,4 @@
+cmake
+coreutils
+gcc-c++
+make

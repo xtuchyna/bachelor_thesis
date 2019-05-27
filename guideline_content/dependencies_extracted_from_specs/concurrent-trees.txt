@@ -1,0 +1,4 @@
+maven-local
+mvn(biz.aQute.bnd:bnd-maven-plugin)
+mvn(junit:junit)
+mvn(org.sonatype.oss:oss-parent:pom:)

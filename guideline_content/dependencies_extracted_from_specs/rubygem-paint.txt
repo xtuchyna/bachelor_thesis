@@ -1,0 +1,3 @@
+ruby(release)
+rubygem(rspec-core)
+rubygems-devel

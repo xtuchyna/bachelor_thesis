@@ -1,0 +1,10 @@
+desktop-file-utils
+docbook-utils
+gettext
+gstreamermm-devel
+gtkmm30-devel
+intltool
+libarchive-devel
+libtool
+libxml++-devel
+libxslt-devel

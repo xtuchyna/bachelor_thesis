@@ -1,0 +1,16 @@
+cmake(KF5DocTools)
+cmake(Qt5Widgets)
+desktop-file-utils
+extra-cmake-modules
+gettext
+kf5-akonadi-calendar-devel >= 18.12
+kf5-akonadi-contacts-devel >= 18.12
+kf5-akonadi-server-devel >= 18.12
+kf5-calendarsupport-devel >= 18.12
+kf5-kcalendarcore-devel >= 18.12
+kf5-kcalendarutils-devel >= 18.12
+kf5-kcontacts-devel >= 18.12
+kf5-libkdepim-devel >= 18.12
+kf5-rpm-macros
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

@@ -1,0 +1,5 @@
+perl(Module::Build)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+compiler(go-compiler)
+git-core
+golang(github.com/BurntSushi/toml)
+golang(github.com/bmizerany/assert)
+golang(github.com/howeyc/gopass)
+golang(github.com/kballard/go-shellquote)
+golang(github.com/mitchellh/go-homedir)
+golang(gopkg.in/yaml.v1)

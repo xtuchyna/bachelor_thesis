@@ -1,0 +1,6 @@
+R-Matrix
+R-car
+R-devel >= 3.0.0
+R-lmtest
+R-sandwich
+tex(latex)

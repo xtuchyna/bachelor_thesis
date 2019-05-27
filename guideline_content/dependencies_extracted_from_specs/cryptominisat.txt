@@ -1,0 +1,11 @@
+boost-devel
+chrpath
+cmake
+gcc-c++
+gperftools-devel
+m4ri-devel
+python2-devel
+swig
+tbb-devel
+vim-common
+zlib-devel

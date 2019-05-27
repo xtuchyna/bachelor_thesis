@@ -1,0 +1,5 @@
+emacs
+emacs-bbdb
+libappstream-glib
+texinfo
+texinfo-tex

@@ -1,0 +1,20 @@
+apache-ivy
+beust-jcommander
+cglib
+easymock
+gradle >= 4.3.1
+junit
+maven >= 3.5.0
+maven-assembly-plugin
+maven-dependency-plugin
+maven-install-plugin
+maven-invoker
+maven-local
+maven-plugin-build-helper
+maven-plugin-plugin
+modello
+objectweb-asm
+plexus-containers-component-annotations
+plexus-containers-component-metadata
+plexus-containers-container-default
+xmlunit

@@ -1,0 +1,15 @@
+gtk2-devel
+gtksourceview2-devel
+gtkspell-devel
+libXmu-devel
+libglade2-devel
+libgnomecanvas-devel
+libgnomeui-devel
+librsvg2-devel
+ncurses-devel
+ocaml >= 3.12.1-3
+ocaml-camlp4-devel
+ocaml-findlib
+ocaml-lablgl-devel >= 1.03
+ocaml-ocamldoc
+zlib-devel

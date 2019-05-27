@@ -1,0 +1,23 @@
+/usr/bin/git
+/usr/bin/node
+/usr/bin/sqlite3
+ruby >= 2.2.2
+ruby(release)
+rubygem(actioncable) = 5.1.5
+rubygem(actionmailer) = 5.1.5
+rubygem(actionpack) = 5.1.5
+rubygem(activerecord) = 5.1.5
+rubygem(activesupport) = 5.1.5
+rubygem(bundler)
+rubygem(jquery-rails)
+rubygem(method_source)
+rubygem(puma)
+rubygem(rack-cache)
+rubygem(rails)
+rubygem(rake) >= 0.8.7
+rubygem(sprockets-rails)
+rubygem(sqlite3)
+rubygem(thor) >= 0.18.1
+rubygem(turbolinks)
+rubygem(uglifier)
+rubygems-devel

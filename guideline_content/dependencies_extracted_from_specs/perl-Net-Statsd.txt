@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Spec)
+perl(IO::Select)
+perl(IO::Socket)
+perl(IO::Socket::INET)
+perl(Test::More)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

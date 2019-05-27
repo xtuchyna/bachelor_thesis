@@ -1,0 +1,3 @@
+(crate(libc) >= 0.2.0 with crate(libc) < 0.3.0)
+(crate(tempfile) >= 2.0.0 with crate(tempfile) < 3.0.0)
+rust-packaging

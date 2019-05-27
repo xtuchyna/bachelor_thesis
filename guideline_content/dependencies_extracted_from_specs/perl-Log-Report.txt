@@ -1,0 +1,42 @@
+make
+perl(Carp)
+perl(Dancer2) >= 0.151000
+perl(Dancer2::Core::Role::Logger)
+perl(Dancer2::Core::Types)
+perl(Dancer2::Plugin)
+perl(Data::Dumper)
+perl(Devel::GlobalDestruction) >= 0.09
+perl(Encode) >= 2.00
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Temp)
+perl(HTTP::Cookies)
+perl(HTTP::Request::Common)
+perl(IO::File)
+perl(List::Util)
+perl(Log::Dispatch) >= 2.00
+perl(Log::Log4perl)
+perl(Log::Report::Minimal::Domain) >= 1.03
+perl(Log::Report::Util) >= 1.03
+perl(Mojo::Base)
+perl(Mojo::Log)
+perl(Mojolicious) >= 2.16
+perl(Moo)
+perl(POSIX)
+perl(Plack::Test)
+perl(Scalar::Util)
+perl(Sys::Syslog) >= 0.27
+perl(Test::More) >= 0.86
+perl(XML::LibXML::Error)
+perl(base)
+perl(constant)
+perl(lib)
+perl(overload)
+perl(parent)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

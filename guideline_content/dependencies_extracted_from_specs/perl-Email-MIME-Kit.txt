@@ -1,0 +1,24 @@
+make
+perl(:VERSION) >= 5.8
+perl(Email::MIME) >= 1.930
+perl(Email::MIME::Creator)
+perl(Email::MessageID) >= 1.400
+perl(Encode)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Spec)
+perl(JSON) >= 2
+perl(Module::Runtime)
+perl(Moose) >= 0.65
+perl(Moose::Role)
+perl(Moose::Util::TypeConstraints)
+perl(String::RewritePrefix)
+perl(Test::Deep)
+perl(Test::More) >= 0.96
+perl(YAML::XS)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

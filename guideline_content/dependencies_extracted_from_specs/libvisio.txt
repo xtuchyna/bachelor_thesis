@@ -1,0 +1,9 @@
+boost-devel
+doxygen
+gperf
+help2man
+perl-interpreter
+pkgconfig(cppunit)
+pkgconfig(icu-uc)
+pkgconfig(librevenge-0.0)
+pkgconfig(libxml-2.0)

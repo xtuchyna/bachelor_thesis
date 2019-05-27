@@ -1,0 +1,15 @@
+barcode-static
+desktop-file-utils
+evolution-data-server-devel
+gettext
+gtk-doc
+gtk3-devel
+iec16022-devel
+intltool
+itstool
+librsvg2-devel
+libtool
+libxml2 >= 2.6
+perl(XML::Parser)
+qrencode-devel
+zint-devel

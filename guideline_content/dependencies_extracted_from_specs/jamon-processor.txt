@@ -1,0 +1,7 @@
+maven-local
+mvn(com.google.guava:guava)
+mvn(junit:junit)
+mvn(org.jamon:jamon-api)
+mvn(org.jamon:jamon-java-parent:pom:)
+mvn(org.jamon:jamon-nodegen-plugin)
+mvn(org.jamon:jamon-runtime)

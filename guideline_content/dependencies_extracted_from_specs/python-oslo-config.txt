@@ -1,0 +1,25 @@
+git
+python2-devel
+python2-fixtures
+python2-netaddr
+python2-openstackdocstheme
+python2-oslo-i18n
+python2-oslotest >= 1.10.0
+python2-pbr
+python2-pyyaml
+python2-rfc3986
+python2-setuptools
+python2-sphinx
+python2-stevedore
+python3-PyYAML
+python3-devel
+python3-fixtures
+python3-netaddr
+python3-openstackdocstheme
+python3-oslo-i18n
+python3-oslotest >= 1.10.0
+python3-pbr
+python3-rfc3986
+python3-setuptools
+python3-six >= 1.10.0
+python3-stevedore

@@ -1,0 +1,11 @@
+autoconf
+automake
+freeglut-devel
+glew-devel
+libGLU-devel
+libtool
+mesa-libEGL-devel
+mesa-libGL-devel
+mesa-libGLES-devel
+mesa-libgbm-devel
+pkgconfig

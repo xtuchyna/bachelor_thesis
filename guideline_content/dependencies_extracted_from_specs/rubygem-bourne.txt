@@ -1,0 +1,4 @@
+ruby(release)
+rubygem(minitest) >= 5
+rubygem(mocha) < 2
+rubygems-devel

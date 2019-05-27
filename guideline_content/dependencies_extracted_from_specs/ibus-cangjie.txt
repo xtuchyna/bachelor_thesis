@@ -1,0 +1,6 @@
+desktop-file-utils
+ibus-devel
+intltool
+python3-cangjie >= 1.2
+python3-devel
+python3-gobject

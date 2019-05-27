@@ -1,0 +1,2 @@
+cmake
+fftw-devel >= 3

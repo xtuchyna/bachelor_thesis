@@ -1,0 +1,14 @@
+autoconf
+automake
+emacs
+gcc
+gettext
+gettext-devel
+help2man
+java-devel
+javapackages-local
+libtool
+mvn(com.google.code.findbugs:annotations)
+mvn(com.google.guava:guava)
+mvn(junit:junit)
+pkgconfig

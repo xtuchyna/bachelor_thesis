@@ -1,0 +1,19 @@
+coreutils
+make
+perl(Digest::HMAC)
+perl(Digest::SHA)
+perl(ExtUtils::MakeMaker)
+perl(Math::BigInt)
+perl(Moo) >= 2.002004
+perl(Pod::Coverage) >= 0.18
+perl(Test::More)
+perl(Test::Needs)
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(Types::Standard)
+perl(bignum)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

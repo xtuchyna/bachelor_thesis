@@ -1,0 +1,6 @@
+jbuilder
+ocaml >= 3.12.1-12
+ocaml-camlp4-devel
+ocaml-cppo
+ocaml-findlib-devel
+ocaml-ocamldoc

@@ -1,0 +1,5 @@
+cmake
+desktop-file-utils
+djvulibre-devel
+gtk2-devel
+poppler-glib-devel

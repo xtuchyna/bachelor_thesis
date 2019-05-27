@@ -1,0 +1,8 @@
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(FileHandle)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

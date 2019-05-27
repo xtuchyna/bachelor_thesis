@@ -1,0 +1,13 @@
+coreutils
+findutils
+perl(Exporter)
+perl(Getopt::Long)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

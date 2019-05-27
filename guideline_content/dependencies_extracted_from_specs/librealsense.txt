@@ -1,0 +1,9 @@
+cmake
+doxygen
+gcc-c++
+glfw-devel
+libGL-devel
+libusb-devel
+mesa-libGLU-devel
+pkgconfig(gtk+-3.0)
+pkgconfig(libudev)

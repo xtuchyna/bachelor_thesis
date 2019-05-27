@@ -1,0 +1,6 @@
+maven-local
+mvn(junit:junit)
+mvn(org.acplt.remotetea:remotetea-oncrpc)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.sonatype.oss:oss-parent:pom:)
+xmvn

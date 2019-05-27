@@ -1,0 +1,7 @@
+autoconf
+automake
+libtool
+pkgconfig(gtk+-2.0)
+pkgconfig(pygobject-2.0)
+pygtk2-devel
+python-devel

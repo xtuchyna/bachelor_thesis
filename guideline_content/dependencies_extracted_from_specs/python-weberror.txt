@@ -1,0 +1,9 @@
+python-nose
+python-paste
+python-pygments
+python-setuptools
+python-simplejson
+python-tempita
+python-webob
+python-webtest
+python2-devel

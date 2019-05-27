@@ -1,0 +1,8 @@
+autoconf
+automake
+gcc
+kernel-headers >= 2.6.16
+libsysfs-devel
+libtool
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

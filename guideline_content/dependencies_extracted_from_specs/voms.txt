@@ -1,0 +1,9 @@
+docbook-style-xsl
+doxygen
+expat-devel
+gsoap-devel
+libtool
+libxslt
+openssl-devel
+pkgconfig
+systemd-units

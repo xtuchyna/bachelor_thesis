@@ -1,0 +1,9 @@
+perl(Exporter)
+perl(File::Find)
+perl(File::Spec::Functions)
+perl(Module::Build)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

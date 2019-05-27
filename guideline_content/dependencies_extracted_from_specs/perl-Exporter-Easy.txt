@@ -1,0 +1,11 @@
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More)
+perl(base)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.006

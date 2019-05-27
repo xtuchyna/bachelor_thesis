@@ -1,0 +1,11 @@
+boost-devel
+cmake >= 2.6
+e2fsprogs-devel
+gcc-c++
+libcurl-devel
+python2-devel
+qt4-devel
+swig
+uuid-devel
+xerces-c-devel
+xsd

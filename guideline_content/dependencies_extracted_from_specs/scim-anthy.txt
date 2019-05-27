@@ -1,0 +1,4 @@
+anthy-devel >= 6700b-1
+gcc-c++
+gettext-devel
+scim-devel

@@ -1,0 +1,4 @@
+python2-Cython
+python2-devel
+python3-Cython
+python3-devel

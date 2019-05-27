@@ -1,0 +1,6 @@
+gtkmm24-devel
+lash-devel
+libsamplerate-devel
+libsndfile-devel
+lv2-c++-tools-static
+lv2-devel

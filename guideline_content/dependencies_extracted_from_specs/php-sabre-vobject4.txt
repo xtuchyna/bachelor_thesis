@@ -1,0 +1,10 @@
+(php-composer(sabre/xml) >= 1.5 with php-composer(sabre/xml) < 3)
+php(language) >= 5.5
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit) > 4.8.35
+php-date
+php-json
+php-mbstring
+php-pcre
+php-spl
+php-xml

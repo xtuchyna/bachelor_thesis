@@ -1,0 +1,8 @@
+ImageMagick
+ant
+bsf
+desktop-file-utils
+glassfish-servlet-api
+javacc
+javapackages-local
+junit

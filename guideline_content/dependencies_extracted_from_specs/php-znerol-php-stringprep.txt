@@ -1,0 +1,6 @@
+php(language) > 5.3
+php-iconv
+php-intl
+php-phpunit-PHPUnit
+php-spl
+php-theseer-autoload

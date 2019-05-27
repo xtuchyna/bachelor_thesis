@@ -1,0 +1,8 @@
+alsa-lib-devel
+flac-devel
+gsm-devel
+libogg-devel
+libtool
+libvorbis-devel
+pkgconfig
+sqlite-devel

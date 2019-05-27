@@ -1,0 +1,15 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(Exporter)
+perl(Memoize) >= 1.01
+perl(Module::Build)
+perl(Parse::RecDescent)
+perl(Test::More)
+perl(base)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

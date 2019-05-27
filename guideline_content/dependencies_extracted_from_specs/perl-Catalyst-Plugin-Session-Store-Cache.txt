@@ -1,0 +1,5 @@
+perl(Catalyst::Plugin::Session) >= 0.06
+perl(ExtUtils::MakeMaker)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

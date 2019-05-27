@@ -1,0 +1,15 @@
+cmake3
+desktop-file-utils
+gettext
+ninja-build
+pkgconfig(cairo)
+pkgconfig(gtk+-2.0)
+pkgconfig(imlib2)
+pkgconfig(librsvg-2.0)
+pkgconfig(libstartup-notification-1.0)
+pkgconfig(pango)
+pkgconfig(xcomposite)
+pkgconfig(xdamage)
+pkgconfig(xinerama)
+pkgconfig(xrandr)
+pkgconfig(xrender)

@@ -1,0 +1,4 @@
+rubygem(bacon)
+rubygem(facon)
+rubygem(rake)
+rubygems-devel

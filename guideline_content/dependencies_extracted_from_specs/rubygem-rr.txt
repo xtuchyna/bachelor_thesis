@@ -1,0 +1,6 @@
+ruby-irb
+rubygem(diff-lcs)
+rubygem(minitest)
+rubygem(rspec)
+rubygem(session)
+rubygems-devel

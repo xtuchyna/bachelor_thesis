@@ -1,0 +1,5 @@
+automake
+curl-devel
+libtool
+libxml2-devel
+libxslt-devel

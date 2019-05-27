@@ -1,0 +1,21 @@
+coreutils
+findutils
+make
+perl(CPAN::Meta)
+perl(CPAN::Meta::Requirements)
+perl(Carp)
+perl(Class::Tiny)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Scalar::Util)
+perl(Sub::Exporter)
+perl(Test::More) >= 0.96
+perl(Test::Warnings) >= 0.009
+perl(if)
+perl(namespace::clean) >= 0.19
+perl(ok)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+gradle-local
+java-devel
+javapackages-local
+javapackages-tools
+mvn(io.netty:netty-buffer)
+mvn(io.netty:netty-handler)
+mvn(io.netty:netty-transport)
+mvn(org.slf4j:slf4j-api)

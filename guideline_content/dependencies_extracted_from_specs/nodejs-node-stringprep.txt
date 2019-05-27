@@ -1,0 +1,8 @@
+libicu-devel
+node-gyp
+nodejs-devel
+npm(bindings)
+npm(mocha)
+npm(nan) >= 2.1.0
+npm(proxyquire)
+npm(should)

@@ -1,0 +1,14 @@
+coreutils
+findutils
+perl(:VERSION) >= 5.6
+perl(Carp)
+perl(Exporter)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.006

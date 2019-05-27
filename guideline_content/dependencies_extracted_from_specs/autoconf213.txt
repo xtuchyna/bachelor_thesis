@@ -1,0 +1,6 @@
+dejagnu
+flex
+gawk
+m4 >= 1.1
+perl
+texinfo

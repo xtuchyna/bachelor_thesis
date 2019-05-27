@@ -1,0 +1,6 @@
+perl(CGI::PSGI)
+perl(ExtUtils::MakeMaker)
+perl(HTML::Mason)
+perl(Plack::Test)
+perl(Test::More)
+perl-generators

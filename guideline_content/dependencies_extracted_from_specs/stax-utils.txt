@@ -1,0 +1,4 @@
+ant
+ant-junit
+java-devel
+jpackage-utils

@@ -1,0 +1,6 @@
+chrpath
+doxygen
+mlt-devel
+qt5-qtbase-devel
+qt5-qtdeclarative-devel
+qt5-qtwebkit-devel

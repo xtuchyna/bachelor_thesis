@@ -1,0 +1,30 @@
+gettext
+libxslt
+mingw32-binutils
+mingw32-curl
+mingw32-dlfcn
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-gettext
+mingw32-gnutls
+mingw32-libgcrypt
+mingw32-libgpg-error
+mingw32-libssh2
+mingw32-libxml2
+mingw32-portablexdr
+mingw64-binutils
+mingw64-curl
+mingw64-dlfcn
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-gettext
+mingw64-gnutls
+mingw64-libgcrypt
+mingw64-libgpg-error
+mingw64-libssh2
+mingw64-libxml2
+mingw64-portablexdr
+perl(Getopt::Long)
+perl-interpreter
+pkgconfig
+python

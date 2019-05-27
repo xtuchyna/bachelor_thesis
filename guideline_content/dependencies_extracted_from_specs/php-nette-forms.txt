@@ -1,0 +1,11 @@
+php(language) >= 5.6
+php-composer(latte/latte) >= 2.4
+php-composer(nette/component-model) >= 2.3
+php-composer(nette/di) >= 2.4
+php-composer(nette/http) >= 2.3.8
+php-composer(nette/tester) >= 2.0
+php-composer(nette/utils) >= 2.4.6
+php-composer(theseer/autoload)
+php-composer(tracy/tracy) >= 2.4
+php-pcre
+php-spl

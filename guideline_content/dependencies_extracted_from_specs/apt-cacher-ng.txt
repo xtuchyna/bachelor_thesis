@@ -1,0 +1,8 @@
+boost-devel
+bzip2-devel
+cmake
+fuse-devel
+openssl-devel
+systemd
+xz-devel
+zlib-devel

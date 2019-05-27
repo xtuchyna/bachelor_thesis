@@ -1,0 +1,11 @@
+autoconf
+automake
+desktop-file-utils
+fox-devel
+freetype-devel
+gettext
+intltool
+libX11-devel
+libXft-devel
+libpng-devel
+startup-notification-devel

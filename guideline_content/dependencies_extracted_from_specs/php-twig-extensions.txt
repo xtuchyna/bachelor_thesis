@@ -1,0 +1,11 @@
+php(language) >= 5.3.0
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(symfony/translation) < 4.0
+php-composer(symfony/translation) >= 2.7.1
+php-composer(twig/twig) < 3.0
+php-composer(twig/twig) >= 1.27
+php-date
+php-mbstring
+php-pcre
+php-spl

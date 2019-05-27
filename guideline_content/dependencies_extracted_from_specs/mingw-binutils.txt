@@ -1,0 +1,8 @@
+bison
+dejagnu
+flex
+mingw32-filesystem >= 102
+mingw64-filesystem >= 102
+sharutils
+texinfo
+zlib-devel

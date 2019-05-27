@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(tap)
+npm(tape)
+npm(zlibjs)

@@ -1,0 +1,5 @@
+help2man
+libzip-devel
+pcsc-lite
+pcsc-lite-devel
+zlib-devel

@@ -1,0 +1,32 @@
+coreutils
+findutils
+make
+perl(Data::UUID)
+perl(Encode)
+perl(Log::Log4perl)
+perl(Module::Runtime)
+perl(RDF::NS::Trine)
+perl(RDF::Trine) >= 0.135
+perl(RDF::Trine::Error)
+perl(RDF::Trine::Namespace)
+perl(RDF::Trine::Node)
+perl(RDF::Trine::Node::Literal)
+perl(RDF::Trine::Parser)
+perl(RDF::Trine::Pattern)
+perl(RDF::Trine::Serializer::NTriples)
+perl(RDF::Trine::Statement)
+perl(RDF::Trine::Store::DBI::SQLite)
+perl(Scalar::Util)
+perl(Test::More) >= 0.61
+perl(URI)
+perl(URI::Escape)
+perl(base)
+perl(inc::Module::Package)
+perl(namespace::clean)
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

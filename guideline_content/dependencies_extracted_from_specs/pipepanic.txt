@@ -1,0 +1,4 @@
+ImageMagick
+SDL-devel
+desktop-file-utils
+gcc

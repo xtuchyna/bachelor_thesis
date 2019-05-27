@@ -1,0 +1,9 @@
+bzip2-devel
+libcurl-devel
+ncurses-devel
+openssl-devel
+pcre-devel
+python
+readline-devel
+sqlite-devel
+zlib-devel

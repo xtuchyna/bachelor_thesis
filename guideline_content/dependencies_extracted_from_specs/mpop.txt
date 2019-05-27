@@ -1,0 +1,6 @@
+gettext
+gnome-keyring-devel
+gnutls-devel
+libgsasl-devel
+libidn-devel
+openssl-devel

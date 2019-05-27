@@ -1,0 +1,25 @@
+autoconf
+automake
+desktop-file-utils
+gettext-devel
+gnome-common
+itstool
+libICE-devel
+libSM-devel
+libX11-devel
+libXinerama-devel
+libtool
+pkgconfig(gio-2.0) >= 2.44.0
+pkgconfig(gsettings-desktop-schemas)
+pkgconfig(gtk+-3.0) >= 3.22.0
+pkgconfig(libcanberra-gtk3)
+pkgconfig(libgtop-2.0)
+pkgconfig(libstartup-notification-1.0)
+pkgconfig(pango)
+pkgconfig(xcomposite)
+pkgconfig(xcursor)
+pkgconfig(xdamage)
+pkgconfig(xfixes)
+pkgconfig(xrender)
+yelp-tools
+zenity

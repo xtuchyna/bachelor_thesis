@@ -1,0 +1,5 @@
+ghc-Cabal-devel
+ghc-extensible-exceptions-devel
+ghc-monads-tf-devel
+ghc-rpm-macros
+ghc-transformers-devel

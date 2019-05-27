@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(em-spec)
+rubygem(http_parser.rb)
+rubygem(rspec)
+rubygems-devel

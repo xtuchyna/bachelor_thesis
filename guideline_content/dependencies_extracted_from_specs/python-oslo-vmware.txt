@@ -1,0 +1,33 @@
+python-babel
+python-fixtures
+python-lxml
+python-mock
+python-mox3
+python-netaddr
+python-oslo-concurrency
+python-oslo-i18n
+python-oslo-sphinx
+python-oslo-utils
+python-pbr
+python-requests >= 2.3.0
+python-sphinx
+python-subunit
+python-suds
+python-testrepository
+python-testscenarios
+python-testtools
+python2-devel
+python3-coverage
+python3-devel
+python3-fixtures
+python3-lxml
+python3-mock
+python3-mox3
+python3-oslo-i18n
+python3-oslo-utils
+python3-pbr
+python3-subunit
+python3-suds >= 0.6
+python3-testrepository
+python3-testscenarios
+python3-testtools

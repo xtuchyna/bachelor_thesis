@@ -1,0 +1,8 @@
+deepin-gettext-tools
+desktop-file-utils
+pkgconfig(Qt5Core)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Widgets)
+pkgconfig(dtkwidget) = 2.0
+qt5-linguist

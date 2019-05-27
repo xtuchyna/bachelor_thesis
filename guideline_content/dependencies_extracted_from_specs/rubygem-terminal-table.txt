@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(pry)
+rubygem(rspec) >= 3.0
+rubygem(term-ansicolor)
+rubygems-devel

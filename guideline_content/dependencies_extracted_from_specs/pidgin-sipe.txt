@@ -1,0 +1,19 @@
+autoconf
+automake
+gcc
+gettext
+gssntlmssp-devel >= 0.5.0
+intltool
+libtool
+pkgconfig(dbus-1)
+pkgconfig(farstream-0.2)
+pkgconfig(gio-2.0) >= 2.18.0
+pkgconfig(glib-2.0) >= 2.18.0
+pkgconfig(gmodule-2.0) >= 2.18.0
+pkgconfig(gstreamer-1.0)
+pkgconfig(gstreamer-rtp-1.0)
+pkgconfig(krb5)
+pkgconfig(libxml-2.0)
+pkgconfig(nice) >= 0.1.0
+pkgconfig(nss)
+pkgconfig(purple) >= 2.8.0

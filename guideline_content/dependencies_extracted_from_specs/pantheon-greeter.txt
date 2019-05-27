@@ -1,0 +1,13 @@
+cmake
+gettext
+intltool
+pkgconfig
+pkgconfig(clutter-gtk-1.0)
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(gdk-x11-3.0)
+pkgconfig(gl)
+pkgconfig(granite)
+pkgconfig(gtk+-3.0) >= 3.11.6
+pkgconfig(liblightdm-gobject-1) >= 1.2.1
+pkgconfig(wingpanel-2.0)
+vala >= 0.26

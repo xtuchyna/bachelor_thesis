@@ -1,0 +1,42 @@
+make
+perl(:VERSION) >= 5.6
+perl(CPANPLUS) >= 0.84
+perl(CPANPLUS::Backend)
+perl(CPANPLUS::Configure)
+perl(CPANPLUS::Error)
+perl(CPANPLUS::Internals::Constants)
+perl(CPANPLUS::Internals::Utils)
+perl(CPANPLUS::Module::Author::Fake)
+perl(CPANPLUS::Module::Fake)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::Installed) >= 1.42
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::Packlist)
+perl(File::Basename)
+perl(File::Path)
+perl(File::Spec)
+perl(FileHandle)
+perl(FindBin)
+perl(IO::Handle)
+perl(IPC::Cmd) >= 0.42
+perl(IPC::Open3)
+perl(Locale::Maketext::Simple)
+perl(Module::Build) >= 0.32
+perl(Module::Build::ConfigData)
+perl(Module::Load::Conditional) >= 0.30
+perl(Params::Check) >= 0.26
+perl(Test::More) >= 0.47
+perl(blib) >= 1.01
+perl(constant)
+perl(deprecate)
+perl(if)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

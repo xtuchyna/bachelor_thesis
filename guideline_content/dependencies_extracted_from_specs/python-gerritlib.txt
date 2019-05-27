@@ -1,0 +1,10 @@
+python2-devel
+python2-hacking
+python2-paramiko
+python2-pbr
+python2-setuptools
+python3-devel
+python3-hacking
+python3-paramiko
+python3-pbr
+python3-setuptools

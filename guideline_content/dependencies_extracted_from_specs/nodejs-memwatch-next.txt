@@ -1,0 +1,6 @@
+mocha
+node-gyp
+nodejs-packaging
+npm(bindings)
+npm(nan)
+npm(should)

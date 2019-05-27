@@ -1,0 +1,22 @@
+findutils
+make
+perl(Catalyst)
+perl(Catalyst::Controller::ActionRole)
+perl(Catalyst::Runtime) >= 5.90013
+perl(Catalyst::Test)
+perl(FindBin)
+perl(Getopt::Long)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moose)
+perl(Moose::Role)
+perl(Test::More)
+perl(inc::Module::Install) >= 0.91
+perl(lib)
+perl(namespace::autoclean)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

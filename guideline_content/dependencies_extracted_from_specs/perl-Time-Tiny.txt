@@ -1,0 +1,11 @@
+make
+perl(Carp)
+perl(DateTime)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(Test::More)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

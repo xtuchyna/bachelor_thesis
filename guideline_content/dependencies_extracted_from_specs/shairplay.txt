@@ -1,0 +1,8 @@
+desktop-file-utils
+gcc-c++
+libappstream-glib
+libtool
+phonon-devel
+pkgconfig(ao)
+qt4-devel
+systemd

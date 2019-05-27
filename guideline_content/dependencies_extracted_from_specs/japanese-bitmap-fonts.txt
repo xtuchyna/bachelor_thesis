@@ -1,0 +1,5 @@
+fontpackages-devel
+gawk
+gcc
+mkfontdir
+xorg-x11-font-utils

@@ -1,0 +1,23 @@
+cmake
+desktop-file-utils
+gettext
+intltool
+libappstream-glib
+pkgconfig(clutter-gst-3.0)
+pkgconfig(clutter-gtk-1.0)
+pkgconfig(gdk-x11-3.0)
+pkgconfig(gee-0.8)
+pkgconfig(glib-2.0) >= 2.32
+pkgconfig(granite)
+pkgconfig(gstreamer-1.0)
+pkgconfig(gstreamer-pbutils-1.0)
+pkgconfig(gthread-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(json-glib-1.0)
+pkgconfig(libnotify)
+pkgconfig(libsoup-2.4)
+pkgconfig(libxml-2.0)
+pkgconfig(sqlite3)
+pkgconfig(unity)
+pkgconfig(webkit2gtk-4.0)
+vala >= 0.26.2

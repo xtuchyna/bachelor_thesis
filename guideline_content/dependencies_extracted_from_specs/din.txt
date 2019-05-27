@@ -1,0 +1,9 @@
+SDL-devel
+automake
+desktop-file-utils
+fftw-devel
+jack-audio-connection-kit-devel
+libircclient-devel
+liblo-devel
+mesa-libGL-devel
+tcl-devel

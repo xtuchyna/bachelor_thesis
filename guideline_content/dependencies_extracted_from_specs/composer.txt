@@ -1,0 +1,19 @@
+(php-composer(composer/ca-bundle) >= 1.0 with php-composer(composer/ca-bundle) < 2)
+(php-composer(composer/semver) >= 1.0 with php-composer(composer/semver) < 2)
+(php-composer(composer/spdx-licenses) >= 1.2 with php-composer(composer/spdx-licenses) < 2)
+(php-composer(psr/log) >= 1.0 with php-composer(psr/log) < 2)
+(php-composer(seld/cli-prompt) >= 1.0 with php-composer(seld/cli-prompt) < 2)
+(php-composer(seld/jsonlint) >= 1.4 with php-composer(seld/jsonlint) < 2)
+(php-composer(seld/phar-utils) >= 1.0 with php-composer(seld/phar-utils) < 2)
+php-PsrLog >= 1.0.0-8
+php-cli
+php-composer(fedora/autoloader) >= 0.1.2
+php-composer(phpunit/phpunit) >= 4.8.35
+php-justinrainbow-json-schema5
+php-seld-cli-prompt >= 1.0.0-3
+php-seld-phar-utils >= 1.0.1
+php-symfony3-console
+php-symfony3-filesystem
+php-symfony3-finder
+php-symfony3-process
+php-zip

@@ -1,0 +1,8 @@
+cmake
+gstreamer1-devel
+gstreamer1-plugins-base-devel
+gtk3-devel
+libgee-devel
+librsvg2-devel
+poppler-glib-devel
+vala-devel

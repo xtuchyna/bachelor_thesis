@@ -1,0 +1,16 @@
+alsa-lib-devel
+boost-devel
+cairo-devel
+cmake
+desktop-file-utils
+fftw3-devel
+fltk-devel
+fltk-fluid
+fontconfig-devel
+jack-audio-connection-kit-devel
+libsndfile-devel
+lv2-devel
+mesa-libGL-devel
+mxml-devel
+readline-devel
+zlib-devel

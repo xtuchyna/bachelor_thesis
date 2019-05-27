@@ -1,0 +1,9 @@
+nodejs-packaging
+npm(chai)
+npm(lazystream)
+npm(lodash)
+npm(mkdirp)
+npm(mocha)
+npm(normalize-path)
+npm(readable-stream)
+npm(rimraf)

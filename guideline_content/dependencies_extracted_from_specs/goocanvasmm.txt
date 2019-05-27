@@ -1,0 +1,6 @@
+doxygen
+glibmm24-devel >= 2.14.2
+goocanvas-devel >= 0.15
+graphviz
+gtkmm24-devel >= 2.22.0
+mm-common >= 0.9.5

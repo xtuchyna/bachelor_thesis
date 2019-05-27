@@ -1,0 +1,7 @@
+cyrus-sasl-devel
+gcc
+libevent-devel
+perl(Test::Harness)
+perl(Test::More)
+perl-generators
+systemd

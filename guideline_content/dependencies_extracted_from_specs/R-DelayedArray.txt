@@ -1,0 +1,7 @@
+R-BiocGenerics
+R-IRanges-devel >= 2.11.17
+R-S4Vectors-devel >= 0.15.3
+R-devel >= 3.4.0
+R-matrixStats
+R-methods
+tetex-latex

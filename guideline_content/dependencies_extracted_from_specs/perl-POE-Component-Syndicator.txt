@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker)
+perl(Object::Pluggable) >= 1.29
+perl(Object::Pluggable::Constants)
+perl(POE) >= 1.311
+perl(Test::More)
+perl(constant)
+perl-generators

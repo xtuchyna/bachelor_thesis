@@ -1,0 +1,9 @@
+gcc
+python2-devel
+python2-markdown
+python2-pygments
+python2-setuptools
+python3-devel
+python3-markdown
+python3-pygments
+python3-setuptools

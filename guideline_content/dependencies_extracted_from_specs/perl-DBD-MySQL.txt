@@ -1,0 +1,25 @@
+coreutils
+findutils
+gcc
+mariadb-connector-c
+mariadb-connector-c-devel
+openssl-devel
+perl(Carp)
+perl(Config)
+perl(DBI) >= 1.609
+perl(DBI::DBD)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Path)
+perl(File::Spec)
+perl(Getopt::Long)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+zlib-devel

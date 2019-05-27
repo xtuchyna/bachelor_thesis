@@ -1,0 +1,2 @@
+GeoIP-devel >= 1.4.3
+httpd-devel

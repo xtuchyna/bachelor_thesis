@@ -1,0 +1,4 @@
+doxygen
+libkate-devel >= 0.2.7
+pango-devel
+valgrind

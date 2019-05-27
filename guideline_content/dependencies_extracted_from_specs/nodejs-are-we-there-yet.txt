@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(delegates)
+npm(readable-stream)
+npm(tap)

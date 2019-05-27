@@ -1,0 +1,17 @@
+findutils
+perl(Carp)
+perl(Data::Dump)
+perl(Exporter)
+perl(Module::Build)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(XML::Parser)
+perl(XML::Parser::Expat)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

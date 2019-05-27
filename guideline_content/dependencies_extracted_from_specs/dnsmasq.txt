@@ -1,0 +1,6 @@
+dbus-devel
+gcc
+libidn2-devel
+nettle-devel
+pkgconfig
+systemd

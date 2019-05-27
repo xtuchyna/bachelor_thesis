@@ -1,0 +1,8 @@
+python-beautifulsoup4
+python-docutils
+python-fmn-rules
+python-markupsafe
+python-nose
+python-setuptools
+python-sqlalchemy
+python2-devel

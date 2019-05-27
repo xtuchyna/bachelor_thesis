@@ -1,0 +1,4 @@
+desktop-file-utils
+libtool
+ncurses-devel
+openssl-devel

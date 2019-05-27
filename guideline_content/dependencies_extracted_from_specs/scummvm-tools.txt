@@ -1,0 +1,10 @@
+boost-devel
+bzip2-devel
+desktop-file-utils
+flac-devel
+freetype-devel
+libmad-devel
+libpng-devel
+libvorbis-devel
+wxGTK-devel
+zlib-devel

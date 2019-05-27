@@ -1,0 +1,10 @@
+bash-completion
+dracut
+fdupes
+gcc
+make
+python2-devel
+python2-setuptools
+python3-devel
+python3-setuptools
+shadow-utils

@@ -1,0 +1,17 @@
+make
+perl(Carp)
+perl(Date::Format)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(JSON::MaybeXS)
+perl(Params::Util)
+perl(Scalar::Util)
+perl(String::Formatter) >= 0.102081
+perl(Sub::Exporter)
+perl(Test::More) >= 0.96
+perl(Time::Piece)
+perl(autodie)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,5 @@
+desktop-file-utils
+intltool
+python2-devel
+python2-distutils-extra
+redhat-lsb

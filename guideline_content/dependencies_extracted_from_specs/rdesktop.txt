@@ -1,0 +1,9 @@
+autoconf
+automake
+libX11-devel
+libXrandr-devel
+libao-devel
+libsamplerate-devel
+libtool
+openssl-devel
+pcsc-lite-devel

@@ -1,0 +1,4 @@
+maven-install-plugin
+maven-local
+mvn(org.apache.maven.shared:maven-artifact-resolver)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)

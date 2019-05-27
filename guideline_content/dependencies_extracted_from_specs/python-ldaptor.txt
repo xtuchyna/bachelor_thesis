@@ -1,0 +1,14 @@
+dia
+docbook-slides
+docbook-style-xsl
+epydoc
+libxslt
+pyparsing
+python-docutils
+python-setuptools
+python-twisted-core
+python-twisted-mail
+python-twisted-names
+python-zope-interface
+python2-devel
+source-highlight

@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Module::Install::Makefile)
+perl(Module::Install::WriteAll)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(constant)
+perl(inc::Module::Install)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

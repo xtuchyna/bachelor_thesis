@@ -1,0 +1,9 @@
+perl(Catalyst::Runtime) >= 5.80020
+perl(CatalystX::InjectComponent) >= 0.024
+perl(Devel::NYTProf) >= 3.01
+perl(ExtUtils::MakeMaker)
+perl(Moose) >= 0.93
+perl(Sub::Identify) >= 0.04
+perl(Test::More)
+perl(namespace::autoclean) >= 0.09
+perl-generators

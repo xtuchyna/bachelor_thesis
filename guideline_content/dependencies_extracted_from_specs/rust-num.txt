@@ -1,0 +1,7 @@
+(crate(num-bigint) >= 0.1.42 with crate(num-bigint) < 0.2.0)
+(crate(num-complex) >= 0.1.42 with crate(num-complex) < 0.2.0)
+(crate(num-integer) >= 0.1.36 with crate(num-integer) < 0.2.0)
+(crate(num-iter) >= 0.1.35 with crate(num-iter) < 0.2.0)
+(crate(num-rational) >= 0.1.42 with crate(num-rational) < 0.2.0)
+(crate(num-traits) >= 0.2.0 with crate(num-traits) < 0.3.0)
+rust-packaging

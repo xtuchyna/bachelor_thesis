@@ -1,0 +1,6 @@
+mocha
+nodejs-packaging
+npm(base)
+npm(is-registered)
+npm(is-valid-instance)
+npm(should)

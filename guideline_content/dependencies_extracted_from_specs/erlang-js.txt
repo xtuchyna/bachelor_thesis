@@ -1,0 +1,3 @@
+erlang-mochiweb
+erlang-rebar
+mozjs24-devel

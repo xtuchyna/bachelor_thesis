@@ -1,0 +1,6 @@
+autoconf
+automake
+gcc
+gettext
+libpng-devel
+perl-generators

@@ -1,0 +1,27 @@
+aqbanking-devel
+boost-devel >= 1.50.0
+cmake
+desktop-file-utils
+gcc
+gcc-c++
+gettext
+glib2 >= 2.40.0
+gmock-devel
+gtest-devel
+gtk3 >= 3.14.0
+guile-devel >= 5:2.0
+ktoblzcheck-devel
+libappstream-glib
+libdbi-dbd-mysql
+libdbi-dbd-pgsql
+libdbi-dbd-sqlite
+libdbi-devel
+libofx-devel
+libsecret-devel
+libxml2 >= 2.5.10
+libxslt-devel
+perl-generators
+perl-podlators
+swig >= 2.0.10
+webkitgtk4-devel
+zlib-devel

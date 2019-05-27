@@ -1,0 +1,6 @@
+glib2-devel
+guile-devel
+libyahoo2-devel >= 0.7.7-2.20100314svn
+openssl-devel
+readline-devel
+texinfo

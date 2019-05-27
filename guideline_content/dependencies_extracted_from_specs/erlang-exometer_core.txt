@@ -1,0 +1,7 @@
+erlang-edown
+erlang-folsom
+erlang-lager
+erlang-meck
+erlang-parse_trans
+erlang-rebar
+erlang-setup

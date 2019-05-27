@@ -1,0 +1,16 @@
+/usr/bin/appstream-util
+desktop-file-utils
+gettext
+gstreamer1-plugins-good
+itstool
+pkgconfig(gmodule-export-2.0)
+pkgconfig(gsettings-desktop-schemas)
+pkgconfig(gstreamer-1.0)
+pkgconfig(gstreamer-pbutils-1.0)
+pkgconfig(gstreamer-plugins-base-1.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(iso-codes)
+pkgconfig(libbrasero-media3)
+pkgconfig(libcanberra-gtk3)
+pkgconfig(libdiscid)
+pkgconfig(libmusicbrainz5)

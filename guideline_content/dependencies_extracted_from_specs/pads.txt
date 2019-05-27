@@ -1,0 +1,6 @@
+autoconf
+automake
+libpcap-devel
+pcre-devel
+perl-generators
+systemd

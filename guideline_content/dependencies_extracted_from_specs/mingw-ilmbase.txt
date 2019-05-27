@@ -1,0 +1,9 @@
+autoconf
+automake
+gcc-c++
+libtool
+make
+mingw32-filesystem >= 95
+mingw32-gcc-c++
+mingw64-filesystem >= 95
+mingw64-gcc-c++

@@ -1,0 +1,3 @@
+rubygem(rdoc)
+rubygems
+vagrant >= 1.9.1

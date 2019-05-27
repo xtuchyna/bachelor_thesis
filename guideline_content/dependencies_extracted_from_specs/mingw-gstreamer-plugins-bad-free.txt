@@ -1,0 +1,22 @@
+glib2-devel
+mingw32-SDL
+mingw32-bzip2
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-gettext
+mingw32-gstreamer >= 0.10.36
+mingw32-gstreamer-plugins-base >= 0.10.36
+mingw32-jasper
+mingw32-orc
+mingw32-pthreads
+mingw64-SDL
+mingw64-bzip2
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-gettext
+mingw64-gstreamer >= 0.10.36
+mingw64-gstreamer-plugins-base >= 0.10.36
+mingw64-jasper
+mingw64-orc
+mingw64-pthreads
+perl-File-Temp

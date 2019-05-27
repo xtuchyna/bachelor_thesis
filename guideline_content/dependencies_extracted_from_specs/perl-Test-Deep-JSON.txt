@@ -1,0 +1,20 @@
+perl(CPAN::Meta)
+perl(CPAN::Meta::Prereqs)
+perl(Exporter::Lite)
+perl(ExtUtils::MakeMaker) >= 6.59
+perl(File::Basename)
+perl(File::Spec)
+perl(JSON)
+perl(Module::Build::Tiny)
+perl(Test::Deep)
+perl(Test::Deep::Cmp)
+perl(Test::Kwalitee)
+perl(Test::More)
+perl(Test::Perl::Critic)
+perl(Test::Pod::Coverage)
+perl(Test::Tester)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,15 @@
+python-alembic
+python-arrow
+python-httplib2
+python-mako >= 0.3.6
+python-nose
+python-paste-deploy
+python-pygments
+python-setuptools
+python-simplejson
+python-sqlalchemy >= 0.7
+python-webob1.2
+python-zope-interface
+python-zope-sqlalchemy
+python2-chai
+python2-devel

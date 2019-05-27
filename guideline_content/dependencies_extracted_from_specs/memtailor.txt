@@ -1,0 +1,3 @@
+gcc-c++
+gtest-devel
+libtool

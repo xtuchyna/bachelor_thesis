@@ -1,0 +1,9 @@
+bzip2-devel
+cmake
+desktop-file-utils
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5PrintSupport)
+pkgconfig(Qt5Widgets)
+pkgconfig(liblzma)
+qt5-qttools-devel

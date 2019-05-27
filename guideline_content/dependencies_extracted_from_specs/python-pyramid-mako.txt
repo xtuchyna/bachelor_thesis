@@ -1,0 +1,16 @@
+python-mako
+python-nose
+python-pyramid
+python-webtest
+python2-coverage
+python2-devel
+python2-setuptools
+python2-virtualenv
+python3-coverage
+python3-devel
+python3-mako
+python3-nose
+python3-pyramid
+python3-setuptools
+python3-virtualenv
+python3-webtest

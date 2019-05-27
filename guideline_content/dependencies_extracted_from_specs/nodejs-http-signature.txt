@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(asn1)
+npm(assert-plus)
+npm(ctype)
+npm(node-uuid)
+npm(tap)

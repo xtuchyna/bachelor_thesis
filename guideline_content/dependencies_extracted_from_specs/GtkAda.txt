@@ -1,0 +1,18 @@
+GConf2-devel
+diffutils
+fedora-gnat-project-common >= 3
+findutils
+gcc-gnat
+gprbuild
+gtk2-devel >= 2.21
+libGL-devel
+libGLU-devel
+libbonobo-devel
+libbonoboui-devel
+libglade2-devel
+libgnome-devel
+libgnomecanvas-devel
+libgnomeui-devel
+make
+python2
+recode

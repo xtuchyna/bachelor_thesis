@@ -1,0 +1,8 @@
+expat-devel
+freeimage-devel
+freetype-devel > 2.0.0
+glew-devel
+libGLU-devel
+libICE-devel
+libSM-devel
+pcre-devel

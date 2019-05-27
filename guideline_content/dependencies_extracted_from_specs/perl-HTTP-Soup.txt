@@ -1,0 +1,19 @@
+libsoup-devel
+perl(Cwd)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(ExtUtils::Depends)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::PkgConfig)
+perl(File::Spec)
+perl(Glib) >= 1.00
+perl(Glib::CodeGen)
+perl(Glib::MakeHelper)
+perl(Glib::Object::Introspection)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

@@ -1,0 +1,21 @@
+autoconf
+automake
+libtool
+mingw32-filesystem >= 95
+mingw32-freexl
+mingw32-gcc
+mingw32-geos
+mingw32-libcharset
+mingw32-libxml2
+mingw32-proj
+mingw32-sqlite
+mingw32-zlib
+mingw64-filesystem >= 95
+mingw64-freexl
+mingw64-gcc
+mingw64-geos
+mingw64-libcharset
+mingw64-libxml2
+mingw64-proj
+mingw64-sqlite
+mingw64-zlib

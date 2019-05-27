@@ -1,0 +1,8 @@
+ghc-Cabal-devel
+ghc-containers-devel
+ghc-deepseq-devel
+ghc-random-devel
+ghc-rpm-macros
+ghc-template-haskell-devel
+ghc-tf-random-devel
+ghc-transformers-devel

@@ -1,0 +1,4 @@
+gcc
+libnl3-devel
+popt-devel
+systemd

@@ -1,0 +1,4 @@
+ruby(release)
+rubygem(htmlentities)
+rubygem(minitest)
+rubygems-devel

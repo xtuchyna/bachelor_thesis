@@ -1,0 +1,2 @@
+SDL-devel
+libXt-devel

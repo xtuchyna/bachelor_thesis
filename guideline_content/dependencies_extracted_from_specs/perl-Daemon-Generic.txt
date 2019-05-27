@@ -1,0 +1,9 @@
+perl(AnyEvent)
+perl(Eval::LineNumbers)
+perl(Event)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Flock::Forking)
+perl(File::Slurp)
+perl(Test::More)
+perl-generators
+perl-interpreter

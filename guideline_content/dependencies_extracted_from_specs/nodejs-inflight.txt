@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(once)
+npm(tap)
+npm(wrappy)

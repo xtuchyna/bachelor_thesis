@@ -1,0 +1,5 @@
+automake
+coreutils
+gdb
+glibc-common
+systemd-units

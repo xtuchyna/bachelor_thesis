@@ -1,0 +1,5 @@
+alsa-lib-devel
+desktop-file-utils
+freeglut-devel
+ode-devel
+plib-devel

@@ -1,0 +1,7 @@
+maven-local
+mvn(com.google.code.cookcc:cookcc)
+mvn(jdepend:jdepend)
+mvn(junit:junit)
+mvn(org.jboss.apiviz:apiviz:pom:)
+mvn(org.jboss.logmanager:jboss-logmanager)
+mvn(org.jboss:jboss-parent:pom:)

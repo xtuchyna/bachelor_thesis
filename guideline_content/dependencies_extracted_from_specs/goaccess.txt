@@ -1,0 +1,8 @@
+GeoIP-devel
+autoconf
+automake
+bzip2-devel
+gcc
+ncurses-devel
+tokyocabinet-devel
+zlib-devel

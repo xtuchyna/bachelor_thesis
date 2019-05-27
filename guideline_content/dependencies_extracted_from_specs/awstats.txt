@@ -1,0 +1,6 @@
+coreutils
+findutils
+perl-generators
+perl-interpreter
+recode
+systemd

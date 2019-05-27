@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker)
+perl(POE::Wheel)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(vars)
+perl-generators

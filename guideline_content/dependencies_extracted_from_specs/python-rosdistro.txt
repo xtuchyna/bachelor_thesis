@@ -1,0 +1,16 @@
+PyYAML
+git
+python-catkin-sphinx
+python-catkin_pkg
+python-nose
+python-rospkg
+python-setuptools
+python-sphinx
+python2-devel
+python3-PyYAML
+python3-catkin_pkg
+python3-devel
+python3-nose
+python3-rospkg
+python3-setuptools
+python3-sphinx

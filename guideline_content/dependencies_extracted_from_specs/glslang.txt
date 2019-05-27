@@ -1,0 +1,3 @@
+cmake3
+gcc-c++
+ninja-build

@@ -1,0 +1,15 @@
+perl(B::Deparse)
+perl(Catalyst) >= 5.8
+perl(Devel::Cycle) >= 1.11
+perl(ExtUtils::MakeMaker)
+perl(FindBin)
+perl(Moose)
+perl(MooseX::AttributeHelpers)
+perl(MooseX::Types)
+perl(PadWalker) >= 1.8
+perl(Task::Weaken)
+perl(Test::More) >= 0.88
+perl(Text::SimpleTable)
+perl(namespace::autoclean)
+perl(namespace::clean) >= 0.05
+perl-generators

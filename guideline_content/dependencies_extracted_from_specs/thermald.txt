@@ -1,0 +1,9 @@
+autoconf
+automake
+dbus-glib-devel
+desktop-file-utils
+gcc-c++
+glib-devel
+libxml2-devel
+qt5-qtbase-devel
+systemd-devel

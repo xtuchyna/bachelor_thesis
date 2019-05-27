@@ -1,0 +1,25 @@
+coreutils
+findutils
+make
+perl(AutoLoader)
+perl(B::Deparse) >= 0.61
+perl(Carp)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Getopt::Long)
+perl(List::Util)
+perl(Math::Complex)
+perl(Safe)
+perl(Scalar::Util)
+perl(Storable) >= 2.05
+perl(Test::More)
+perl(Text::Abbrev)
+perl(base)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

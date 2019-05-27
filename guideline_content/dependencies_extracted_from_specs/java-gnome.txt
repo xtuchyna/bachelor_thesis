@@ -1,0 +1,17 @@
+gettext
+java-devel >= 1:1.6.0
+jpackage-utils
+junit
+pkgconfig
+pkgconfig(atk)
+pkgconfig(cairo-svg)
+pkgconfig(enchant)
+pkgconfig(gdk-3.0)
+pkgconfig(glib-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(gtk+-unix-print-3.0)
+pkgconfig(gtksourceview-3.0)
+pkgconfig(libnotify)
+pkgconfig(librsvg-2.0)
+pkgconfig(pango)
+python

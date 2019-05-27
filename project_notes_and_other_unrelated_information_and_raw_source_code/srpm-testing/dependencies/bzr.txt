@@ -1,0 +1,9 @@
+bash-completion
+gcc
+gettext
+python2-Cython
+python2-devel
+python2-sphinx
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+zlib-devel

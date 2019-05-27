@@ -1,0 +1,6 @@
+/usr/bin/pod2man
+autoconf
+automake
+gcc
+libtool
+perl-generators

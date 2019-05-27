@@ -1,0 +1,11 @@
+maven-local
+mvn(avalon-framework:avalon-framework-api)
+mvn(avalon-framework:avalon-framework-impl)
+mvn(javax.servlet:servlet-api)
+mvn(junit:junit)
+mvn(log4j:log4j:12)
+mvn(logkit:logkit)
+mvn(org.apache.commons:commons-parent:pom:)
+mvn(org.apache.maven.plugins:maven-dependency-plugin)
+mvn(org.apache.maven.plugins:maven-failsafe-plugin)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)

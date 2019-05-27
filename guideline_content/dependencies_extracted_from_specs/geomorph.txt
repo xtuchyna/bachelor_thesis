@@ -1,0 +1,4 @@
+desktop-file-utils
+gtkglext-devel
+libappstream-glib
+mesa-libGLU-devel

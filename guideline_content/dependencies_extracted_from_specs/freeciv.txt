@@ -1,0 +1,9 @@
+SDL_mixer-devel
+desktop-file-utils
+gettext
+ggz-gtk-client-devel
+gtk3-devel
+libcurl-devel
+ncurses-devel
+readline-devel
+zlib-devel

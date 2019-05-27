@@ -1,0 +1,4 @@
+libjpeg-devel
+libtiff-devel
+proj-devel
+zlib-devel

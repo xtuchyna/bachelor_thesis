@@ -1,0 +1,16 @@
+autoconf
+automake
+bison
+flex
+gcc
+imake
+libX11-devel
+libXau-devel
+libXaw-devel
+libXext-devel
+libXp-devel
+libXt-devel
+libtool
+make
+perl-generators
+systemd

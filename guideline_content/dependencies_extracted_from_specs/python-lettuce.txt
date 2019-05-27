@@ -1,0 +1,14 @@
+mailcap
+python-Levenshtein
+python-cssselect
+python-django
+python-fuzzywuzzy
+python-lxml
+python-mock
+python-mox
+python-nose
+python-setuptools
+python-subunit
+python-sure
+python-tornado
+python2-devel

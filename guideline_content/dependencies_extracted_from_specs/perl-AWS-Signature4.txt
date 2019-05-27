@@ -1,0 +1,8 @@
+perl(Digest::SHA)
+perl(ExtUtils::Install)
+perl(HTTP::Request::Common)
+perl(Module::Build)
+perl(Test::More)
+perl(URI)
+perl-generators
+perl-interpreter

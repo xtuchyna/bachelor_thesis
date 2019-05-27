@@ -1,0 +1,10 @@
+/usr/bin/appstream-util
+autoconf
+automake
+desktop-file-utils
+gcc
+gettext
+intltool
+libtool
+python3-devel
+readline-devel

@@ -1,0 +1,9 @@
+desktop-file-utils
+libICE-devel
+libSM-devel
+libXaw-devel
+libXext-devel
+libXmu-devel
+libXt-devel
+redhat-rpm-config
+xorg-x11-proto-devel

@@ -1,0 +1,8 @@
+jakarta-commons-httpclient
+java-devel >= 1:1.7.0
+jboss-annotations-1.1-api
+jpackage-utils >= 1.7.3
+maven-gpg-plugin
+maven-local
+resteasy
+sonatype-oss-parent

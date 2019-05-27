@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-attoparsec-devel
+ghc-base-compat-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-time-devel

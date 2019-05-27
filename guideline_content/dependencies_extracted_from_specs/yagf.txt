@@ -1,0 +1,5 @@
+aspell-devel
+cmake
+desktop-file-utils
+dos2unix
+qt4-devel

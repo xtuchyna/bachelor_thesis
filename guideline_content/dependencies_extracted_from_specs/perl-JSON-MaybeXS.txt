@@ -1,0 +1,25 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Cpanel::JSON::XS) >= 2.3310
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::Mksymlists)
+perl(File::Basename)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(JSON::PP) >= 2.27300
+perl(JSON::XS) >= 3.0
+perl(Scalar::Util)
+perl(Test::More) >= 0.88
+perl(Text::ParseWords)
+perl(base)
+perl(if)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

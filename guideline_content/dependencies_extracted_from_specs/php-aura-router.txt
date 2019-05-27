@@ -1,0 +1,8 @@
+php(language) >= 5.5.0
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit) >= 4.8
+php-composer(psr/http-message) >= 1.0
+php-composer(psr/log) >= 1.0
+php-composer(zendframework/zend-diactoros) >= 1.0
+php-pcre
+php-spl

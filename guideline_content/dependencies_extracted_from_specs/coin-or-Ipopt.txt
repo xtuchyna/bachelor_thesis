@@ -1,0 +1,23 @@
+MUMPS-devel
+MUMPS-mpich-devel >= 4.10.0-21
+MUMPS-openmpi-devel >= 4.10.0-21
+atlas-devel
+blacs-mpich-devel
+blacs-openmpi-devel
+blas-devel
+doxygen
+gcc-gfortran
+glpk-devel
+graphviz
+lapack-devel
+metis-devel
+mp-devel
+mpich-devel
+openmpi-devel
+openssh-clients
+pkgconfig
+ptscotch-mpich-devel
+ptscotch-openmpi-devel
+readline-devel
+scalapack-mpich-devel
+scalapack-openmpi-devel

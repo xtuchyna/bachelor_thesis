@@ -1,0 +1,8 @@
+ImageMagick
+desktop-file-utils
+gettext
+gstreamer-devel >= 0.10
+intltool
+libgnomeui-devel >= 2.10.0
+perl(XML::Parser)
+scrollkeeper

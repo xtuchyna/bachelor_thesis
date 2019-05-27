@@ -1,0 +1,13 @@
+ghc-Cabal-devel
+ghc-base-compat-devel
+ghc-bytestring-devel
+ghc-old-locale-devel
+ghc-old-time-devel
+ghc-rpm-macros
+ghc-safe-devel
+ghc-text-devel
+ghc-time-devel
+ghc-time-locale-compat-devel
+ghc-utf8-string-devel
+ghc-xml-conduit-devel
+ghc-xml-types-devel

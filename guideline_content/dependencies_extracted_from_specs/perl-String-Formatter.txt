@@ -1,0 +1,8 @@
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(Params::Util)
+perl(Sub::Exporter)
+perl(Test::More) >= 0.88
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+ETL-devel >= 0.04.21
+autoconf
+desktop-file-utils
+gtkmm30-devel
+intltool
+ladspa
+libtool
+synfig-devel >= 1.2.1

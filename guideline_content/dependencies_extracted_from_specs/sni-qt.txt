@@ -1,0 +1,7 @@
+cmake
+dbus-x11
+pkgconfig(QtDBus)
+pkgconfig(QtGui)
+pkgconfig(QtTest)
+pkgconfig(dbusmenu-qt)
+xorg-x11-server-Xvfb

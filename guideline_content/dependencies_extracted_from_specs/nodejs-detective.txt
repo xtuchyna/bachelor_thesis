@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(escodegen)
+npm(esprima)
+npm(tap)

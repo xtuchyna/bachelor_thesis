@@ -1,0 +1,15 @@
+coreutils
+make
+perl(Carp)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Spec::Functions)
+perl(Test::More) >= 0.11
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(Text::ParseWords)
+perl(strict)
+perl-generators
+perl-interpreter

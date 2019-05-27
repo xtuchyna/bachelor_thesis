@@ -1,0 +1,5 @@
+fakeroot
+freetype-devel >= 2.0.3
+perl-generators
+perl-podlators
+t1lib-devel

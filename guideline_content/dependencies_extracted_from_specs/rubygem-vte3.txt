@@ -1,0 +1,8 @@
+/usr/bin/xvfb-run
+ruby-devel
+rubygem(test-unit)
+rubygem-glib2-devel >= 3.0.8
+rubygem-gtk3
+rubygem-pango-devel
+rubygems-devel
+vte291

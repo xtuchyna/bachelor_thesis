@@ -1,0 +1,25 @@
+make
+perl(B::Deparse)
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(Module::Install) >= 1.00
+perl(Module::Install::Base)
+perl(Module::Install::ExtraTests)
+perl(Test::Builder)
+perl(Test::More) >= 0.96
+perl(Test::Requires)
+perl(base)
+perl(constant)
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

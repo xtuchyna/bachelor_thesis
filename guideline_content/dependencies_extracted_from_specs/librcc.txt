@@ -1,0 +1,8 @@
+aspell-devel
+enca-devel
+gtk+-devel
+gtk2-devel
+gtk3-devel
+libguess-devel
+librcd-devel
+libxml2-devel

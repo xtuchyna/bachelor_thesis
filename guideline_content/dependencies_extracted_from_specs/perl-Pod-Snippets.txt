@@ -1,0 +1,12 @@
+perl(File::Path)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(Module::Build)
+perl(Pod::Parser)
+perl(Test::More)
+perl(base)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators

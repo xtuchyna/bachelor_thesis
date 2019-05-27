@@ -1,0 +1,4 @@
+R-devel >= 3.0.0
+R-msm
+R-mvtnorm
+tetex-latex

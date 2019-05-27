@@ -1,0 +1,4 @@
+libstatgrab-devel > 0.90
+python2-devel
+python2-setuptools
+python3-devel

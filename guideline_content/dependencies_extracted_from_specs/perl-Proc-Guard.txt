@@ -1,0 +1,16 @@
+perl(Carp)
+perl(Class::Accessor::Lite) >= 0.05
+perl(Errno)
+perl(Exporter) >= 5.63
+perl(File::Which)
+perl(IO::Socket::INET)
+perl(Module::Build)
+perl(POSIX)
+perl(Test::More) >= 0.94
+perl(Test::Requires)
+perl(Test::SharedFork)
+perl(Test::TCP)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

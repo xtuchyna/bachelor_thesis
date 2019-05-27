@@ -1,0 +1,7 @@
+chrpath
+fedora-gnat-project-common
+gcc-gnat
+gprbuild
+texinfo-tex
+texlive-harmony
+xmlada-devel

@@ -1,0 +1,5 @@
+gtk-doc
+gtksourceview2-devel >= 2.3.0
+pygobject2-devel >= 2.15.2
+pygtk2-devel >= 2.8.0
+python-devel

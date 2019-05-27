@@ -1,0 +1,4 @@
+python2-crypto
+python2-devel
+python3-crypto
+python3-devel

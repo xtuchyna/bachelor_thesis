@@ -1,0 +1,6 @@
+autoconf
+automake
+libtool
+python2
+tetex
+texlive-collection-science

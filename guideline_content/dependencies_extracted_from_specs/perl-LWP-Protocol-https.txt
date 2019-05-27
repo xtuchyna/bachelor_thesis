@@ -1,0 +1,21 @@
+findutils
+make
+perl(:VERSION) >= 5.8.1
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(IO::Select)
+perl(IO::Socket::INET)
+perl(IO::Socket::SSL) >= 1.54
+perl(IO::Socket::SSL) >= 1.953
+perl(IO::Socket::SSL::Utils)
+perl(LWP::Protocol::http)
+perl(LWP::UserAgent) >= 6.06
+perl(Mozilla::CA) >= 20110101
+perl(Net::HTTPS) >= 6
+perl(Socket)
+perl(Test::More)
+perl(Test::RequiresInternet)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

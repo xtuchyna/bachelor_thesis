@@ -1,0 +1,4 @@
+ant
+java-devel >= 1:1.6.0.0
+javapackages-local
+sonatype-oss-parent

@@ -1,0 +1,5 @@
+ant
+dos2unix
+java-devel >= 1:1.6
+jpackage-utils
+libpcap-devel >= 0.9

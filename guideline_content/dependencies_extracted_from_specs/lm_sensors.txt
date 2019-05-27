@@ -1,0 +1,8 @@
+bison
+flex
+gawk
+gcc
+kernel-headers >= 2.2.16
+libsysfs-devel
+perl-generators
+rrdtool-devel

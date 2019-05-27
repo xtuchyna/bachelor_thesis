@@ -1,0 +1,6 @@
+/bin/sed
+glib-devel
+gtk-doc >= 0.6
+libpcap-devel
+libpcapnav-devel
+tcpdump

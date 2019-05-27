@@ -1,0 +1,12 @@
+python-beautifulsoup4
+python-lxml
+python-nose
+python-setuptools
+python-six
+python2-devel
+python3-beautifulsoup4
+python3-devel
+python3-lxml
+python3-nose
+python3-setuptools
+python3-six

@@ -1,0 +1,10 @@
+ghc-Cabal-devel
+ghc-attoparsec-devel
+ghc-base-unicode-symbols-devel
+ghc-bytestring-devel
+ghc-case-insensitive-devel
+ghc-http-types-devel
+ghc-mtl-devel
+ghc-rpm-macros
+ghc-transformers-devel
+ghc-wai-devel

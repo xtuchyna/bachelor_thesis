@@ -1,0 +1,18 @@
+cairo-gobject-devel
+coreutils
+findutils
+make
+perl(Cairo) >= 1.080
+perl(ExtUtils::Depends) >= 0.2
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::PkgConfig) >= 1.0
+perl(Glib) >= 1.224
+perl(Glib::MakeHelper)
+perl(Glib::Object::Subclass)
+perl(Test::More)
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

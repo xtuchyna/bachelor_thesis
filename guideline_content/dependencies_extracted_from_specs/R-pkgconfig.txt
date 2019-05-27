@@ -1,0 +1,5 @@
+R-devel
+R-disposables
+R-testthat
+R-utils
+tex(latex)

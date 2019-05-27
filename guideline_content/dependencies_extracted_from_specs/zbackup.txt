@@ -1,0 +1,7 @@
+cmake >= 2.8.2
+lzo-devel
+openssl-devel
+pandoc
+protobuf-devel
+xz-devel
+zlib-devel

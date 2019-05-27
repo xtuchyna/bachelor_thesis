@@ -1,0 +1,15 @@
+ImageMagick
+bison
+cups
+emacs
+flex
+gettext
+gperf
+groff
+groff-perl
+html2ps
+libtool
+psutils
+texinfo
+texlive-dvips
+texlive-latex

@@ -1,0 +1,8 @@
+perl(Carp)
+perl(Data::OptList) >= 0.104
+perl(ExtUtils::MakeMaker)
+perl(FindBin)
+perl(Test::More) >= 0.94
+perl(lib)
+perl(namespace::clean)
+perl-generators

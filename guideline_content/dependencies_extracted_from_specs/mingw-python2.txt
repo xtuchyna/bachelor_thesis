@@ -1,0 +1,28 @@
+autoconf
+automake
+libtool
+mingw32-bzip2
+mingw32-dlfcn
+mingw32-expat
+mingw32-filesystem >= 102
+mingw32-gcc
+mingw32-gcc-c++
+mingw32-libffi
+mingw32-openssl
+mingw32-readline
+mingw32-tcl
+mingw32-tk
+mingw32-zlib
+mingw64-bzip2
+mingw64-dlfcn
+mingw64-expat
+mingw64-filesystem >= 102
+mingw64-gcc
+mingw64-gcc-c++
+mingw64-libffi
+mingw64-openssl
+mingw64-readline
+mingw64-tcl
+mingw64-tk
+mingw64-zlib
+python2-devel

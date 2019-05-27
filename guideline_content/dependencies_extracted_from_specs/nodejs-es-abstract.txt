@@ -1,0 +1,8 @@
+nodejs-packaging
+npm(es-to-primitive)
+npm(foreach)
+npm(function-bind)
+npm(is-callable)
+npm(is-regex)
+npm(object-is)
+npm(tape)

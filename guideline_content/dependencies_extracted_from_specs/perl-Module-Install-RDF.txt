@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(Module::Install::Base) >= 1.0
+perl(Object::ID)
+perl(RDF::Trine) >= 0.135
+perl(Test::More) >= 0.61
+perl(URI::file) >= 4.0
+perl(base)
+perl(inc::Module::Package)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

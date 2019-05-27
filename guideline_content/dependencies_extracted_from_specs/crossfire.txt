@@ -1,0 +1,10 @@
+autoconf
+checkpolicy
+flex
+hardlink
+libXaw-devel
+libXext-devel
+libXt-devel
+perl-generators
+python2-devel
+selinux-policy-devel

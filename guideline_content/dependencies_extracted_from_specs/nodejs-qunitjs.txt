@@ -1,0 +1,10 @@
+nodejs-packaging
+npm(async)
+npm(grunt)
+npm(grunt-cli)
+npm(grunt-contrib-concat)
+npm(grunt-contrib-internal)
+npm(grunt-contrib-nodeunit)
+npm(grunt-contrib-watch)
+npm(load-grunt-tasks)
+npm(underscore.string)

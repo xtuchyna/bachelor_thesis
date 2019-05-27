@@ -1,0 +1,6 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.hamcrest:hamcrest-library)
+mvn(org.jmock:jmock-junit4)
+mvn(org.jmock:jmock-legacy)

@@ -1,0 +1,5 @@
+boost-devel
+desktop-file-utils
+hicolor-icon-theme
+python-markdown2
+qt5-qtbase-devel

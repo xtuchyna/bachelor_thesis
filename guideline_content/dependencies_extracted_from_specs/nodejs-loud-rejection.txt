@@ -1,0 +1,3 @@
+nodejs-packaging
+npm(currently-unhandled)
+npm(signal-exit)

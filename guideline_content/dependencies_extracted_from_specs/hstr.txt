@@ -1,0 +1,4 @@
+automake
+gcc
+ncurses-devel
+readline-devel

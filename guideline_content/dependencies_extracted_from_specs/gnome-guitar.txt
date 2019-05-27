@@ -1,0 +1,5 @@
+ImageMagick
+desktop-file-utils
+gnome-sharp-devel
+gtk-sharp2-devel
+mono-devel

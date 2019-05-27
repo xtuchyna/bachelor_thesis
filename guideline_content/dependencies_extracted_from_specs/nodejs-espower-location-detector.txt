@@ -1,0 +1,8 @@
+mocha
+nodejs-packaging
+npm(acorn)
+npm(escallmatch)
+npm(escodegen)
+npm(estraverse)
+npm(is-url)
+npm(xtend)

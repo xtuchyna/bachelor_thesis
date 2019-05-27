@@ -1,0 +1,5 @@
+automake
+gettext-devel
+libtool
+ncurses-devel
+texinfo

@@ -1,0 +1,27 @@
+audit-libs-devel >= 1.1.3
+binutils >= 2.29
+bison >= 2.7
+elfutils >= 0.72
+gawk
+gcc >= 7.2.1-6
+gcc-c++
+gd-devel
+gettext
+glibc-static
+kernel-headers >= 3.2
+libcap-devel
+libidn2
+libpng-devel
+libselinux-devel >= 1.33.4-3
+libstdc++-static
+make >= 4.0
+procps-ng
+python3
+rpm >= 4.2-0.56
+sed >= 3.95
+systemd
+systemtap-sdt-devel
+texinfo >= 5.0
+util-linux
+valgrind
+zlib-devel

@@ -1,0 +1,26 @@
+boost-devel
+cmake(KF5Completion)
+cmake(KF5Config)
+cmake(KF5Crash)
+cmake(KF5DBusAddons)
+cmake(KF5DesignerPlugin)
+cmake(KF5GuiAddons)
+cmake(KF5I18n)
+cmake(KF5IconThemes)
+cmake(KF5ItemModels)
+cmake(KF5ItemViews)
+cmake(KF5KIO)
+cmake(KF5WindowSystem)
+dbus-x11
+extra-cmake-modules
+kf5-rpm-macros
+mariadb-server
+pkgconfig(Qt5Designer)
+pkgconfig(libxslt)
+pkgconfig(shared-mime-info)
+pkgconfig(sqlite3) >= 3.6.23
+postgresql-server
+qt5-qtbase-devel
+qt5-qtbase-private-devel
+qt5-qtxmlpatterns-devel
+xorg-x11-server-Xvfb

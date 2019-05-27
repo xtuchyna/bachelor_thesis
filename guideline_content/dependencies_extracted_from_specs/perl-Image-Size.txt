@@ -1,0 +1,15 @@
+perl(Compress::Zlib)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::File)
+perl(Image::Magick)
+perl(Symbol)
+perl(Test::More)
+perl(bytes)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

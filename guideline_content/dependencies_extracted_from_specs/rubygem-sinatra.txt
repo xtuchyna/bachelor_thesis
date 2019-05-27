@@ -1,0 +1,7 @@
+rubygem(minitest) > 5
+rubygem(mustermann)
+rubygem(rack) >= 2.0
+rubygem(rack-protection) = 2.0.0
+rubygem(rack-test)
+rubygem(tilt)
+rubygems-devel

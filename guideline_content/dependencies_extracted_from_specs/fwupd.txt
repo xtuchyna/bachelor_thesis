@@ -1,0 +1,39 @@
+adobe-source-han-sans-cn-fonts
+cairo-devel
+cairo-gobject-devel
+colord-devel >= 1.2.12
+dejavu-sans-fonts
+efivar-devel
+elfutils-libelf-devel
+fontconfig
+freetype
+fwupdate-devel >= 7
+gcab
+gettext
+glib2-devel >= 2.45.8
+gnutls-devel
+gnutls-utils
+gobject-introspection-devel
+gpgme-devel
+gtk-doc
+help2man
+json-glib-devel >= 1.1.1
+libappstream-glib-devel >= 0.7.4
+libarchive-devel
+libgudev1-devel
+libgusb-devel >= 0.2.11
+libsmbios-devel >= 2.3.0
+libsoup-devel >= 2.51.92
+libuuid-devel
+meson
+pango-devel
+polkit-devel >= 0.103
+python3
+python3-cairo
+python3-gobject
+python3-pillow
+sqlite-devel
+systemd >= 231
+vala
+valgrind
+valgrind-devel

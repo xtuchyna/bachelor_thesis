@@ -1,0 +1,10 @@
+c-ares-devel
+cppunit-devel
+gcc-c++
+globus-gssapi-gsi-devel
+libtool
+openssl-devel
+perl(Getopt::Long)
+perl(POSIX)
+perl-interpreter
+pkgconfig

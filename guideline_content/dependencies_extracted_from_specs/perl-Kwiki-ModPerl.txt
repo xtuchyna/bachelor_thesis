@@ -1,0 +1,22 @@
+make
+perl(Apache2::Const)
+perl(Apache2::RequestIO)
+perl(Apache2::RequestRec)
+perl(Apache2::RequestUtil)
+perl(Config)
+perl(Cwd)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(Kwiki) >= 0.32
+perl(Test::More)
+perl(constant)
+perl(lib)
+perl(mod_perl2)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

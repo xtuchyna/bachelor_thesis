@@ -1,0 +1,18 @@
+boost-devel >= 1.56
+gcc-c++ >= 5.3.0
+gperftools-devel
+libpcap-devel
+libstemmer-devel
+openssl-devel
+pcre-devel
+python3-cheetah
+python3-devel
+python3-pymongo
+python3-requests
+python3-scons
+python3-yaml
+snappy-devel
+systemd
+valgrind-devel
+yaml-cpp-devel
+zlib-devel

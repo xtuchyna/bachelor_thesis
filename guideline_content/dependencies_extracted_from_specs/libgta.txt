@@ -1,0 +1,4 @@
+bzip2-devel
+doxygen
+xz-devel
+zlib-devel

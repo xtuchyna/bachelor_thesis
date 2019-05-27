@@ -1,0 +1,2 @@
+desktop-file-utils
+qt-devel >= 4.7

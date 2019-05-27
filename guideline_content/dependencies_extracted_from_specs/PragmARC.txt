@@ -1,0 +1,5 @@
+dos2unix
+fedora-gnat-project-common >= 3
+gcc-gnat
+gprbuild
+unzip

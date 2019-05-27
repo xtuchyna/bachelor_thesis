@@ -1,0 +1,6 @@
+autoconf
+automake
+findutils
+gcc
+libtool
+make

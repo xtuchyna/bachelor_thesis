@@ -1,0 +1,5 @@
+autoconf
+automake
+desktop-file-utils
+gtkmm30-devel
+pcre-devel

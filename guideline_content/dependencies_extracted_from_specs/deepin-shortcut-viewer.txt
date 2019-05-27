@@ -1,0 +1,4 @@
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Network)
+pkgconfig(Qt5Widgets)
+pkgconfig(dtkwidget) = 2.0

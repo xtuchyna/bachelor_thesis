@@ -1,0 +1,14 @@
+python2-cached_property
+python2-devel
+python2-mock
+python2-productmd
+python2-pytest
+python2-setuptools
+python2-six
+python3-cached_property
+python3-devel
+python3-mock
+python3-productmd
+python3-pytest
+python3-setuptools
+python3-six

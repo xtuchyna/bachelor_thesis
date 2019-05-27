@@ -1,0 +1,5 @@
+boost-devel
+desktop-file-utils
+firebird-devel >= 2.0.0.12748
+libicns-utils
+wxGTK3-devel >= 3.0

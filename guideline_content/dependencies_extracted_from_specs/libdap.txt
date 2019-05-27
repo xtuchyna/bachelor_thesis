@@ -1,0 +1,12 @@
+bison >= 3.0
+cppunit-devel
+curl-devel
+doxygen
+flex
+graphviz
+libtool
+libuuid-devel
+libxml2-devel
+openssl-devel
+pkgconfig
+valgrind

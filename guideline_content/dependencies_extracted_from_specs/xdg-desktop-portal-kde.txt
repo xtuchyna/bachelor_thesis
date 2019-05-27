@@ -1,0 +1,7 @@
+cmake(KF5CoreAddons)
+cmake(KF5I18n)
+cmake(KF5Notifications)
+extra-cmake-modules
+kf5-rpm-macros
+qt5-qtbase-devel
+qt5-qtbase-private-devel

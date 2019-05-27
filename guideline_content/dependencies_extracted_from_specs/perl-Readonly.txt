@@ -1,0 +1,12 @@
+coreutils
+perl(Carp)
+perl(Exporter)
+perl(Module::Build::Tiny) >= 0.035
+perl(Storable)
+perl(Test::More) >= 0.88
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

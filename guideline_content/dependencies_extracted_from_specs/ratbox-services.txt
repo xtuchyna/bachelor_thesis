@@ -1,0 +1,6 @@
+bison
+flex
+mysql-devel
+pcre-devel
+postgresql-devel
+sqlite-devel

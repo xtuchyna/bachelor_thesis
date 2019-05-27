@@ -1,0 +1,9 @@
+TOPCOM
+cddlib-devel
+cddlib-tools
+gcc-c++
+glpk-devel
+lrslib-utils
+ntl-devel
+perl-interpreter
+sqlite-devel

@@ -1,0 +1,10 @@
+python2-devel
+python2-future
+python2-pyyaml
+python2-requests
+python2-setuptools
+python3-PyYAML
+python3-devel
+python3-future
+python3-requests
+python3-setuptools

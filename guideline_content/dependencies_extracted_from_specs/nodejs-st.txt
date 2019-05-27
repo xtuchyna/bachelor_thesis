@@ -1,0 +1,9 @@
+nodejs-packaging
+npm(async-cache)
+npm(bl)
+npm(fd)
+npm(mime)
+npm(negotiator)
+npm(request)
+npm(rimraf)
+npm(tap)

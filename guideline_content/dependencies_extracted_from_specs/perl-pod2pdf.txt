@@ -1,0 +1,17 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec::Functions)
+perl(File::Type)
+perl(Getopt::ArgvFile)
+perl(Getopt::Long)
+perl(Image::Size)
+perl(List::Util)
+perl(PDF::API2) >= 0.6
+perl(Paper::Specs) >= 0.10
+perl(Pod::Escapes)
+perl(Pod::ParseLink)
+perl(Pod::Parser)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(constant)
+perl-generators

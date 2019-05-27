@@ -1,0 +1,4 @@
+python2-devel
+python2-pbkdf2
+python3-devel
+python3-pbkdf2

@@ -1,0 +1,33 @@
+perl(Carp)
+perl(DB_File) >= 1.72
+perl(Date::Parse) >= 2.24
+perl(Digest::SHA)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl) >= 1.03
+perl(File::Find)
+perl(File::NFSLock) >= 1.2
+perl(File::Path) >= 1
+perl(File::Spec) >= 0.8
+perl(File::Temp)
+perl(Heap::Elem)
+perl(Heap::Fibonacci) >= 0.01
+perl(IO::File) >= 1.08
+perl(IO::Handle) >= 1.21
+perl(IO::String) >= 1.02
+perl(Module::Build)
+perl(Storable) >= 1
+perl(Symbol) >= 1.02
+perl(Test::More) >= 0.45
+perl(Test::Pod)
+perl(Test::TrailingSpace)
+perl(Tie::Hash)
+perl(Time::HiRes)
+perl(base)
+perl(fields)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl(warnings::register)
+perl-generators
+perl-interpreter

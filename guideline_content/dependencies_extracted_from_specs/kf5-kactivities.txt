@@ -1,0 +1,17 @@
+boost-devel
+extra-cmake-modules >= 5.44.0
+kf5-kcmutils-devel >= 5.44.0
+kf5-kconfig-devel >= 5.44.0
+kf5-kcoreaddons-devel >= 5.44.0
+kf5-kdbusaddons-devel >= 5.44.0
+kf5-kdeclarative-devel >= 5.44.0
+kf5-kglobalaccel-devel >= 5.44.0
+kf5-ki18n-devel >= 5.44.0
+kf5-kio-devel >= 5.44.0
+kf5-kservice-devel >= 5.44.0
+kf5-kwidgetsaddons-devel >= 5.44.0
+kf5-kwindowsystem-devel >= 5.44.0
+kf5-kxmlgui-devel >= 5.44.0
+kf5-rpm-macros >= 5.44.0
+qt5-qtbase-devel
+qt5-qtdeclarative-devel

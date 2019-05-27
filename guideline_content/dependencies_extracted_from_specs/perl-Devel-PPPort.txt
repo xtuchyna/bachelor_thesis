@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(Config)
+perl(DynaLoader)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Path)
+perl(Tie::Hash)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

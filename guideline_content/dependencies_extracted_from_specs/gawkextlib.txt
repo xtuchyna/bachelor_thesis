@@ -1,0 +1,3 @@
+gawk(abi) < 3.0
+gawk(abi) >= 1.1
+gawk-devel

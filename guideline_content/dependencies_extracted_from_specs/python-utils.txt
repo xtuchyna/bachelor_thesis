@@ -1,0 +1,11 @@
+python3-devel
+python3-flake8
+python3-pytest
+python3-pytest-cache
+python3-pytest-cov
+python3-pytest-flakes
+python3-pytest-pep8
+python3-pytest-runner
+python3-setuptools
+python3-six
+python3-sphinx

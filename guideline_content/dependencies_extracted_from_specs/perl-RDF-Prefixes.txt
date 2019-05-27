@@ -1,0 +1,12 @@
+findutils
+make
+perl(:VERSION) >= 5.10.0
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(Test::More) >= 0.61
+perl(Test::Warn)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl-generators
+perl-interpreter

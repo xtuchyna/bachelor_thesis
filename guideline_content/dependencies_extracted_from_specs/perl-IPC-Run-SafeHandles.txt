@@ -1,0 +1,10 @@
+/usr/bin/make
+/usr/bin/perl
+perl(ExtUtils::MakeMaker)
+perl(List::MoreUtils)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(inc::Module::Install)
+perl-generators
+perl-interpreter >= 1:5.8.0

@@ -1,0 +1,5 @@
+doxygen
+glibmm24-devel >= 2.46.1
+graphviz
+gtkmm30-devel >= 3.18.0
+gtksourceview3-devel >= 3.18.0

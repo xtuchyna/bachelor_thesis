@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker)
+perl(HTML::TreeBuilder)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(XML::XPathEngine) >= 0.12
+perl-generators

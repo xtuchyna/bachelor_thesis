@@ -1,0 +1,11 @@
+chrpath
+fedora-gnat-project-common >= 3
+gcc-gnat
+gnutls-devel
+gprbuild >= 2014
+libgcrypt-devel
+openldap-devel
+python2-sphinx
+templates_parser-devel
+xmlada-devel
+zlib-ada-devel

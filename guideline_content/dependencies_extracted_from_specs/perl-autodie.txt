@@ -1,0 +1,29 @@
+findutils
+make
+perl(B)
+perl(Carp)
+perl(Config)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Copy)
+perl(File::Spec)
+perl(File::Temp)
+perl(FindBin)
+perl(IO::Handle)
+perl(IPC::System::Simple) >= 0.12
+perl(POSIX)
+perl(Scalar::Util)
+perl(Socket)
+perl(Test::More)
+perl(Tie::RefHash)
+perl(constant)
+perl(if)
+perl(lib)
+perl(open)
+perl(overload)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

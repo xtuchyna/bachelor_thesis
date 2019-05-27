@@ -1,0 +1,6 @@
+gobject-introspection-devel
+intltool
+pkgconfig(icu-io)
+pkgconfig(m17n-shell)
+vala-devel
+vala-tools

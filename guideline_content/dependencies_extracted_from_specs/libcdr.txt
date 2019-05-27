@@ -1,0 +1,8 @@
+boost-devel
+doxygen
+help2man
+pkgconfig(cppunit)
+pkgconfig(icu-i18n)
+pkgconfig(lcms2)
+pkgconfig(librevenge-0.0)
+pkgconfig(zlib)

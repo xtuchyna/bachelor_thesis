@@ -1,0 +1,5 @@
+doxygen
+globus-gss-assist-devel
+globus-gssapi-gsi-devel
+gsoap-devel
+voms-devel

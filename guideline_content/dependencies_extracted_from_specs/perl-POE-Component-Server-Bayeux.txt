@@ -1,0 +1,14 @@
+perl(CGI::Simple)
+perl(Class::Accessor)
+perl(Data::UUID)
+perl(JSON::Any)
+perl(JSON::XS)
+perl(LWP)
+perl(Log::Log4perl)
+perl(Module::Build)
+perl(POE::Component::Client::HTTP)
+perl(POE::Component::Server::HTTP) >= 0.09
+perl(Params::Validate)
+perl(Test::More)
+perl(URI)
+perl-generators

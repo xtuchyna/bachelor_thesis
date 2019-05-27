@@ -1,0 +1,9 @@
+chrpath
+docbook-style-xsl
+doxygen
+expat-devel
+graphviz
+libxml2-devel
+libxslt
+pkgconfig(libffi)
+xmlto

@@ -1,0 +1,10 @@
+python-manuel
+python-setuptools
+python-six
+python-zope-testing
+python2-devel
+python3-devel
+python3-manuel
+python3-setuptools
+python3-six
+python3-zope-testing

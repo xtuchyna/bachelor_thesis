@@ -1,0 +1,16 @@
+nodejs
+php(language) >= 5.4.0
+php-composer(fedora/autoloader)
+php-composer(guzzlehttp/ringphp) < 2.0
+php-composer(phpunit/phpunit)
+php-curl
+php-date
+php-filter
+php-guzzlehttp-ringphp >= 1.1.0-9
+php-guzzlehttp-ringphp-tests
+php-json
+php-libxml
+php-pcre
+php-reflection
+php-simplexml
+php-spl

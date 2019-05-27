@@ -1,0 +1,12 @@
+php(language) >= 5.5
+php-bcmath
+php-composer(ircmaxell/random-lib) >= 1.1
+php-composer(paragonie/random_compat) < 3
+php-composer(paragonie/random_compat) >= 2.0.2
+php-composer(phpunit/phpunit) >= 4.0
+php-fedora-autoloader-devel
+php-gmp
+php-mcrypt
+php-openssl
+php-pcre
+php-spl

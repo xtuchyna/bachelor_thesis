@@ -1,0 +1,17 @@
+python-httpretty
+python-setuptools
+python2-adal >= 0.5.0
+python2-certifi
+python2-devel
+python2-keyring
+python2-mock
+python2-msrest >= 0.4.25
+python2-pytest
+python3-adal >= 0.5.0
+python3-certifi
+python3-devel
+python3-httpretty
+python3-keyring
+python3-mock
+python3-msrest >= 0.4.25
+python3-pytest

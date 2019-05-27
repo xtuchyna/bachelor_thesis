@@ -1,0 +1,4 @@
+atlas-devel
+kiss-fft-static
+qm-dsp-static
+vamp-plugin-sdk-devel

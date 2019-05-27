@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(CPAN::Meta) >= 2.120900
+perl(DynaLoader)
+perl(ExtUtils::Depends) >= 0.302
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Test::More)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

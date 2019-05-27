@@ -1,0 +1,11 @@
+extra-cmake-modules
+kf5-kcalendarcore-devel >= 17.12.3
+kf5-kcontacts-devel >= 17.12.3
+kf5-kcoreaddons-devel
+kf5-kio-devel
+kf5-kwindowsystem-devel
+kf5-rpm-macros
+qt5-qtbase-devel
+qt5-qttools-static
+qt5-qtwebengine-devel
+qt5-qtxmlpatterns-devel

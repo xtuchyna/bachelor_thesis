@@ -1,0 +1,16 @@
+python2-devel
+python2-flask
+python2-itsdangerous
+python2-mock
+python2-nose
+python2-oauth2client
+python2-setuptools
+python2-six
+python3-devel
+python3-flask
+python3-itsdangerous
+python3-mock
+python3-nose
+python3-oauth2client
+python3-setuptools
+python3-six

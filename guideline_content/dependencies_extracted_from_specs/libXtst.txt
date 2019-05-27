@@ -1,0 +1,9 @@
+autoconf
+automake
+libX11-devel >= 1.5.99.902
+libXext-devel
+libXi-devel
+libtool
+xmlto
+xorg-x11-proto-devel
+xorg-x11-util-macros

@@ -1,0 +1,19 @@
+alsa-lib-devel
+cmake
+gcc
+gcc-c++
+jack-audio-connection-kit-devel
+libGL-devel
+libGLU-devel
+libX11-devel
+libXcursor-devel
+libXpm-devel
+libXxf86dga-devel
+libXxf86vm-devel
+libjpeg-devel
+libpng-devel
+libvorbis-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+texinfo
+xorg-x11-proto-devel

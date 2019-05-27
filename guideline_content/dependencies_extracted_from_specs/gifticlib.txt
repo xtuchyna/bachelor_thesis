@@ -1,0 +1,5 @@
+cmake
+expat-devel
+gcc
+nifticlib-devel
+zlib-devel

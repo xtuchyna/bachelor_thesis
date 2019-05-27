@@ -1,0 +1,7 @@
+ghc-Cabal-devel
+ghc-array-devel
+ghc-blaze-builder-devel
+ghc-bytestring-devel
+ghc-case-insensitive-devel
+ghc-rpm-macros
+ghc-text-devel

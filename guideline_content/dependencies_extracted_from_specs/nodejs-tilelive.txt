@@ -1,0 +1,11 @@
+nodejs-packaging
+npm(concat-stream)
+npm(mbtiles)
+npm(minimist)
+npm(progress-stream)
+npm(queue-async)
+npm(sphericalmercator)
+npm(stream-combiner)
+npm(tape)
+npm(tilejson) >= 1.0.1
+npm(underscore)

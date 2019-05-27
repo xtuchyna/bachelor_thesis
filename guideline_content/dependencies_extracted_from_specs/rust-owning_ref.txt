@@ -1,0 +1,2 @@
+(crate(stable_deref_trait) >= 1.0.0 with crate(stable_deref_trait) < 2.0.0)
+rust-packaging

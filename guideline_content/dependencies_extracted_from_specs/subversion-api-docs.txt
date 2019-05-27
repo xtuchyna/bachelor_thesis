@@ -1,0 +1,2 @@
+doxygen
+subversion-devel = 1.9.7

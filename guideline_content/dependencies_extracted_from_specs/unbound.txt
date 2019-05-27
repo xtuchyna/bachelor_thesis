@@ -1,0 +1,9 @@
+expat-devel
+flex
+libevent-devel
+openssl-devel
+pkgconfig
+python2-devel
+python3-devel
+swig
+systemd

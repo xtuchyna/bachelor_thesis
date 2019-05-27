@@ -1,0 +1,58 @@
+automoc4 >= 0.9.88
+bison
+bzip2-devel
+cmake >= 2.8.9
+cups
+cups-devel
+docbook-dtds
+docbook-style-xsl
+doxygen
+flex
+gettext-devel
+giflib-devel
+grantlee-devel
+graphviz
+herqq-devel
+kde-filesystem >= 4-23
+kde-settings
+kde4-macros(api) >= 2
+krb5-devel
+libacl-devel
+libattr-devel
+libjpeg-devel
+libpng-devel
+libutempter-devel
+openssl-devel
+perl(Getopt::Long)
+perl-generators
+pkgconfig(OpenEXR)
+pkgconfig(QtWebKit)
+pkgconfig(alsa)
+pkgconfig(avahi-core)
+pkgconfig(dbusmenu-qt)
+pkgconfig(enchant)
+pkgconfig(gamin)
+pkgconfig(jasper)
+pkgconfig(libattica) >= 0.4.2
+pkgconfig(liblzma)
+pkgconfig(libpcre)
+pkgconfig(libudev)
+pkgconfig(libxml-2.0)
+pkgconfig(libxslt)
+pkgconfig(phonon) >= 4.6.0
+pkgconfig(polkit-qt-1)
+pkgconfig(qca2)
+pkgconfig(shared-mime-info)
+pkgconfig(sm)
+pkgconfig(xcomposite)
+pkgconfig(xdamage)
+pkgconfig(xkbfile)
+pkgconfig(xpm)
+pkgconfig(xproto)
+pkgconfig(xscrnsaver)
+pkgconfig(xtst)
+pkgconfig(xv)
+pkgconfig(xxf86misc)
+pkgconfig(zlib)
+qt4-devel >= 4.8.1
+qt4-doc

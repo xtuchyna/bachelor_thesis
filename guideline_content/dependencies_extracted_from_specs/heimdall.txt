@@ -1,0 +1,5 @@
+cmake
+desktop-file-utils
+libusb1-devel >= 1.0.8
+qt5-devel
+zlib-devel

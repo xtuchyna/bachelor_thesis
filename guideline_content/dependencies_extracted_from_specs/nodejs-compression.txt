@@ -1,0 +1,10 @@
+mocha
+nodejs-packaging
+npm(accepts)
+npm(bytes)
+npm(compressible)
+npm(debug)
+npm(on-headers)
+npm(safe-buffer)
+npm(supertest)
+npm(vary)

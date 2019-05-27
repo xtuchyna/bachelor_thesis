@@ -1,0 +1,34 @@
+coreutils
+findutils
+gcc
+make
+perl(:VERSION) >= 5.8
+perl(B::Deparse)
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(Hash::Util::FieldHash)
+perl(IO::Handle)
+perl(IO::Select)
+perl(IPC::Open3)
+perl(POSIX)
+perl(Perl::Destruct::Level)
+perl(Socket)
+perl(Symbol)
+perl(Test::More)
+perl(Tie::Array)
+perl(Tie::Hash)
+perl(XSLoader)
+perl(base)
+perl(bytes)
+perl(lib)
+perl(strict)
+perl(threads)
+perl(threads::shared)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

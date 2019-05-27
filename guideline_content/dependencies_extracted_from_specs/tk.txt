@@ -1,0 +1,4 @@
+autoconf
+libX11-devel
+libXft-devel
+tcl-devel = 1:8.6.8

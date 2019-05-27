@@ -1,0 +1,17 @@
+python3-PyYAML
+python3-cairo
+python3-cairocffi
+python3-devel
+python3-flask
+python3-flask-cache
+python3-mock
+python3-pyparsing
+python3-pytest
+python3-pytz
+python3-setuptools
+python3-six
+python3-sphinx
+python3-sphinx_rtd_theme
+python3-structlog
+python3-tzlocal
+systemd

@@ -1,0 +1,3 @@
+gcc
+libibverbs-devel
+numactl-devel

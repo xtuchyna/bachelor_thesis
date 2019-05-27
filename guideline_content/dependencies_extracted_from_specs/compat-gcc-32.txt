@@ -1,0 +1,14 @@
+/lib/libc.so.6
+/lib64/libc.so.6
+/usr/lib/libc.so
+/usr/lib64/libc.so
+/usr/share/i18n/locales/de_DE
+binutils >= 2.16.91.0.5-1
+bison
+dejagnu
+flex
+gettext
+glibc-devel >= 2.2.90-12
+glibc-static
+texinfo
+zlib-devel

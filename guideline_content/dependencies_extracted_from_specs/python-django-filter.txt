@@ -1,0 +1,5 @@
+python3-devel
+python3-django
+python3-django-rest-framework
+python3-mock
+python3-setuptools

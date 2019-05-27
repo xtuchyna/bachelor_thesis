@@ -1,0 +1,5 @@
+openldap-devel
+openssl-devel
+ruby(release)
+ruby-devel
+rubygems-devel

@@ -1,0 +1,15 @@
+ed
+make
+perl(Carp::Assert) >= 0.11
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(File::Spec) >= 0.82
+perl(File::Temp) >= 0.12
+perl(IPC::Cmd)
+perl(Test::More) >= 0.08
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

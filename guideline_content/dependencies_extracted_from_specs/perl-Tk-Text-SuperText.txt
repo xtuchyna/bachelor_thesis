@@ -1,0 +1,15 @@
+findutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Tk) >= 804.030
+perl(Tk::Derived)
+perl(Tk::Text)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

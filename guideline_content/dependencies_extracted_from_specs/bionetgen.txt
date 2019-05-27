@@ -1,0 +1,7 @@
+autoconf
+automake
+libtool
+muParser-devel >= 2.2.3-6
+openmpi-devel
+perl-generators
+sundials-devel

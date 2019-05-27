@@ -1,0 +1,23 @@
+coreutils
+findutils
+make
+perl(DateTime)
+perl(DateTime::Duration)
+perl(DateTime::Format::DateManip)
+perl(DateTimeX::Easy) >= 0.085
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moose) >= 0.41
+perl(MooseX::Types) >= 0.04
+perl(MooseX::Types::DateTime::ButMaintained) >= 0.04
+perl(Test::Exception) >= 0.27
+perl(Test::More)
+perl(Test::use::ok) >= 0.02
+perl(Time::Duration::Parse) >= 0.06
+perl(inc::Module::Install)
+perl(namespace::clean) >= 0.08
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,6 @@
+python2-devel
+python2-nose
+python2-yaml
+python3-PyYAML
+python3-devel
+python3-nose

@@ -1,0 +1,15 @@
+cmake >= 3.1
+fftw-devel
+fftw3-devel
+gcc-c++
+gcc-gfortran
+gsl-devel
+libjpeg-devel
+libpng-devel
+mpich-devel
+ocl-icd-devel
+opencl-headers
+openmpi-devel
+python3-devel
+voro++-devel
+zlib-devel

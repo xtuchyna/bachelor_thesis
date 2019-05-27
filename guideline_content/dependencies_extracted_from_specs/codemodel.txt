@@ -1,0 +1,6 @@
+maven-enforcer-plugin
+maven-local
+maven-release-plugin
+mvn(junit:junit)
+mvn(net.java:jvnet-parent:pom:)
+mvn(org.apache.ant:ant)

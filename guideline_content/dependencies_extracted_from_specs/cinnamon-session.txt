@@ -1,0 +1,19 @@
+gnome-common
+gnome-keyring-devel
+intltool
+pkgconfig(dbus-glib-1)
+pkgconfig(gl)
+pkgconfig(gtk+-3.0) >= 2.99.0
+pkgconfig(json-glib-1.0)
+pkgconfig(libcanberra)
+pkgconfig(libnotify) >= 0.7.0
+pkgconfig(librsvg-2.0)
+pkgconfig(libsystemd)
+pkgconfig(pangox)
+pkgconfig(polkit-agent-1)
+pkgconfig(upower-glib)
+pkgconfig(xt)
+pkgconfig(xtrans)
+pkgconfig(xtst)
+usermode
+xmlto

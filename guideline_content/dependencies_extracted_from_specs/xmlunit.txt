@@ -1,0 +1,7 @@
+ant
+ant-junit
+javapackages-local
+junit
+xalan-j2
+xerces-j2
+xml-commons-apis

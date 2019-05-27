@@ -1,0 +1,7 @@
+device-mapper-devel >= 1.02.54-3
+device-mapper-libs >= 1.02.54-3
+dmraid-devel >= 1.0.0.rc15
+gettext
+libselinux-devel
+libsepol-devel
+python-devel

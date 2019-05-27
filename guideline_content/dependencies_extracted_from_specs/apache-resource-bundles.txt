@@ -1,0 +1,3 @@
+maven-local
+mvn(org.apache.maven.plugins:maven-remote-resources-plugin)
+mvn(org.apache.maven:maven-parent:pom:)

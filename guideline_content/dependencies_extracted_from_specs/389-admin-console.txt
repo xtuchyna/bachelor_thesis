@@ -1,0 +1,4 @@
+ant >= 1.6.2
+idm-console-framework
+java-devel >= 1:1.6.0
+ldapjdk

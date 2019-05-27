@@ -1,0 +1,8 @@
+checkpolicy
+make
+nodejs
+nodejs-ronn
+policycoreutils
+python2
+selinux-policy-devel
+systemd

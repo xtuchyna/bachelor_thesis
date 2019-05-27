@@ -1,0 +1,4 @@
+javapackages-local
+mvn(com.martiansoftware:nailgun-server)
+mvn(org.scala-lang:scala-library)
+mvn(org.scala-sbt:incremental-compiler)

@@ -1,0 +1,11 @@
+/usr/bin/2to3
+python2-devel
+python2-gevent
+python2-nose
+python2-paramiko
+python2-setuptools
+python3-devel
+python3-gevent
+python3-nose
+python3-paramiko
+python3-setuptools

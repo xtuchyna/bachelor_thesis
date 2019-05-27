@@ -1,0 +1,6 @@
+gcc
+gmp-devel
+gperf
+libpoly-devel
+libtool
+tex(latex)

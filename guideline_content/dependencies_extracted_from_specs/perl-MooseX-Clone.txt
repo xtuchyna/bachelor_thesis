@@ -1,0 +1,17 @@
+perl(Carp)
+perl(Data::Visitor) >= 0.24
+perl(Data::Visitor::Callback)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Hash::Util::FieldHash::Compat)
+perl(Module::Build::Tiny)
+perl(Moose)
+perl(Moose::Role)
+perl(Scalar::Util)
+perl(Storable)
+perl(Test::More) >= 0.88
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

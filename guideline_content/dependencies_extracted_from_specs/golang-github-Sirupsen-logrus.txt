@@ -1,0 +1,3 @@
+compiler(go-compiler)
+golang(github.com/stretchr/testify/assert)
+golang(golang.org/x/crypto/ssh/terminal)

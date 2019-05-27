@@ -1,0 +1,7 @@
+desktop-file-utils
+libisds-devel
+openssl-devel
+qt5-linguist
+qt5-qtbase-devel
+qt5-qtsvg-devel
+qt5-qttools-devel

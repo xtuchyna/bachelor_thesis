@@ -1,0 +1,3 @@
+desktop-file-utils
+jack-audio-connection-kit-devel
+qt4-devel

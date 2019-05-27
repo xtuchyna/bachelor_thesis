@@ -1,0 +1,12 @@
+autoconf
+automake
+glib2-devel
+libevent-devel
+libsearpc-devel
+libtool
+libuuid-devel
+libzdb-devel
+openssl-devel
+python2-devel
+sqlite-devel
+vala

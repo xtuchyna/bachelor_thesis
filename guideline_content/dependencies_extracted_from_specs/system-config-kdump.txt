@@ -1,0 +1,7 @@
+desktop-file-utils
+docbook-dtds
+gettext
+gnome-doc-utils
+intltool
+rarian-compat
+scrollkeeper

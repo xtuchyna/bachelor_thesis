@@ -1,0 +1,6 @@
+rubygem(arrayfields)
+rubygem(chronic)
+rubygem(fattr)
+rubygem(map)
+rubygem(test-unit)
+rubygems-devel

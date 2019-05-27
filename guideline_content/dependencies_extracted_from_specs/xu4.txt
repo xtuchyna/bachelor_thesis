@@ -1,0 +1,7 @@
+SDL_mixer-devel
+desktop-file-utils
+gcc-c++
+libicns-utils
+libpng-devel
+libxml2-devel
+minizip-devel

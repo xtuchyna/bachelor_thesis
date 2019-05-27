@@ -1,0 +1,17 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(FileHandle)
+perl(IO::Handle)
+perl(IO::Socket)
+perl(POSIX)
+perl(Socket)
+perl(Test)
+perl(Tie::Handle)
+perl(Time::HiRes)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

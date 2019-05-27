@@ -1,0 +1,5 @@
+ImageMagick
+graphviz
+python-sphinx
+python2-devel
+python3-devel

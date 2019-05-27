@@ -1,0 +1,14 @@
+php(language) >= 5.4.0
+php-composer(dflydev/dot-access-data) < 2.0
+php-composer(dflydev/dot-access-data) >= 1.1.0
+php-composer(fedora/autoloader)
+php-composer(grasmash/yaml-expander) < 2.0
+php-composer(grasmash/yaml-expander) >= 1.1
+php-composer(phpunit/phpunit)
+php-composer(symfony/console) < 4.0
+php-composer(symfony/console) >= 2.7.1
+php-composer(symfony/event-dispatcher) < 4.0
+php-composer(symfony/event-dispatcher) >= 2.7.1
+php-json
+php-pcre
+php-spl

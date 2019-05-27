@@ -1,0 +1,2 @@
+python2-devel >= 2.6
+python3-devel >= 3

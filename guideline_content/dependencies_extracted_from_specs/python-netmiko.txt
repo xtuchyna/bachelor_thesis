@@ -1,0 +1,12 @@
+PyYAML
+python2-devel
+python2-paramiko
+python2-pyserial
+python2-scp
+python2-textfsm
+python3-PyYAML
+python3-devel
+python3-paramiko
+python3-pyserial
+python3-scp
+python3-textfsm

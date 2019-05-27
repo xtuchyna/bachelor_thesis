@@ -1,0 +1,5 @@
+desktop-file-utils
+extra-cmake-modules
+kf5-kauth-devel
+kf5-knotifications-devel
+qt5-qtbase-devel

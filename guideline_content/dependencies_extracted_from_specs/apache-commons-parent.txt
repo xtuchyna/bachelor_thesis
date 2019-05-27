@@ -1,0 +1,6 @@
+maven-local
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.apache.maven.plugins:maven-assembly-plugin)
+mvn(org.apache:apache:pom:)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)

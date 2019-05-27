@@ -1,0 +1,4 @@
+composer
+php-cli
+php-composer(symfony/console) < 3
+php-composer(symfony/console) >= 2.7.1

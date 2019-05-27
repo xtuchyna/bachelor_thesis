@@ -1,0 +1,7 @@
+chrpath
+ocaml
+ocaml-findlib-devel
+ocaml-ocamlbuild
+ocaml-ocamldoc
+ocaml-zarith-devel
+zlib-devel

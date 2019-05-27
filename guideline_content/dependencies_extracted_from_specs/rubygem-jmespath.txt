@@ -1,0 +1,4 @@
+rubygem(json)
+rubygem(rspec) < 4
+rubygem(rspec) >= 3
+rubygems-devel

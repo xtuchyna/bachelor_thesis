@@ -1,0 +1,4 @@
+coreutils
+gcc
+libtool
+make

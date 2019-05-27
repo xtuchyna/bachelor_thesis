@@ -1,0 +1,18 @@
+corosynclib-devel >= 1.99.9-1
+device-mapper-persistent-data >= 0.7.0-0.1.rc6
+dlm-devel >= 4.0.6-2
+libblkid-devel >= 2.24
+libselinux-devel >= 1.30.19-4
+libsepol-devel
+module-init-tools
+ncurses-devel
+pkgconfig
+python2-devel
+python2-setuptools
+python3-dbus
+python3-devel
+python3-pyudev
+readline-devel
+sanlock-devel >= 3.3.0-2
+systemd-devel
+systemd-units

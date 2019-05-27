@@ -1,0 +1,11 @@
+make
+perl(:VERSION) >= 5.6.1
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Spec)
+perl(Test::More) >= 0.88
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

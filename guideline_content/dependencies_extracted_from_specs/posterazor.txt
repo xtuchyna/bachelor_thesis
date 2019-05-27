@@ -1,0 +1,5 @@
+cmake
+desktop-file-utils
+fltk-devel
+freeimage-devel
+libXpm-devel

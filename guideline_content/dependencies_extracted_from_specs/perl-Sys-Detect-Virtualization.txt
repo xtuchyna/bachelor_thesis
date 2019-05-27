@@ -1,0 +1,28 @@
+perl(Config)
+perl(Cwd)
+perl(ExtUtils::CBuilder)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker) >= 6.59
+perl(Fcntl)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(Getopt::Long)
+perl(IO::File)
+perl(POSIX)
+perl(Parse::DMIDecode) >= 0.03
+perl(Pod::Coverage)
+perl(Pod::Usage)
+perl(Test::Deep)
+perl(Test::Exception)
+perl(Test::More) >= 0.82
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(base)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

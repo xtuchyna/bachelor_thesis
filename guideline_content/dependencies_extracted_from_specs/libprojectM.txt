@@ -1,0 +1,12 @@
+SDL-devel
+cmake
+dejavu-sans-fonts
+dejavu-sans-mono-fonts
+desktop-file-utils
+ftgl-devel
+glew-devel
+jack-audio-connection-kit-devel
+libgomp
+libvisual-devel = 1:0.4.0
+pulseaudio-libs-devel
+qt4-devel

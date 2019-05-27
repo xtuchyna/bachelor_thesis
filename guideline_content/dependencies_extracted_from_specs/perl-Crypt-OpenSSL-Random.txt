@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+openssl
+openssl-devel
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(XSLoader)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

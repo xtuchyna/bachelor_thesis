@@ -1,0 +1,13 @@
+apache-commons-lang3
+eclipse-emf-runtime
+eclipse-license
+eclipse-mylyn
+eclipse-pde
+google-gson
+guava
+httpcomponents-client
+httpcomponents-client-cache
+lucene
+maven-enforcer-plugin
+tycho
+tycho-extras

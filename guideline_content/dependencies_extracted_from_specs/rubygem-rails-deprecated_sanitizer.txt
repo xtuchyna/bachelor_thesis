@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(actionview)
+rubygem(activesupport)
+rubygem(minitest)
+rubygems-devel

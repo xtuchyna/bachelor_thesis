@@ -1,0 +1,13 @@
+globus-common-devel >= 15
+globus-gsi-callback-devel >= 4
+globus-gsi-cert-utils-devel >= 8
+globus-gsi-credential-devel >= 5
+globus-gsi-openssl-error-devel >= 2
+globus-gsi-proxy-core-devel >= 6
+globus-gsi-sysconfig-devel >= 5
+globus-gss-assist-devel >= 8
+globus-gssapi-gsi-devel >= 4
+globus-openssl-module-devel >= 3
+openssl
+openssl-devel
+perl(Test::More)

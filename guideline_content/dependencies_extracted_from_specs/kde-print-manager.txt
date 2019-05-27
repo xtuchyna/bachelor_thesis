@@ -1,0 +1,21 @@
+cups-devel >= 1.5.0
+desktop-file-utils
+extra-cmake-modules
+gettext
+kf5-kcmutils-devel
+kf5-kconfig-devel
+kf5-kconfigwidgets-devel
+kf5-kcoreaddons-devel
+kf5-kdbusaddons-devel
+kf5-ki18n-devel
+kf5-kiconthemes-devel
+kf5-kio-devel
+kf5-kitemviews-devel
+kf5-knotifications-devel
+kf5-kwidgetsaddons-devel
+kf5-kwindowsystem-devel
+kf5-plasma-devel
+kf5-rpm-macros
+qt5-qtbase-devel
+qt5-qtdeclarative-devel
+qt5-qttools-devel

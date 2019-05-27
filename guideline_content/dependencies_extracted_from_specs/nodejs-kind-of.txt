@@ -1,0 +1,4 @@
+mocha
+nodejs-packaging
+npm(is-buffer)
+npm(should)

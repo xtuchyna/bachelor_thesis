@@ -1,0 +1,5 @@
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Time::HiRes)
+perl(strict)
+perl-generators

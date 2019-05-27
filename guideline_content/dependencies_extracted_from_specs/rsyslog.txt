@@ -1,0 +1,34 @@
+autoconf
+automake
+bison
+cyrus-sasl-devel
+dos2unix
+flex
+gnutls-devel
+hiredis-devel
+krb5-devel
+libcurl-devel
+libdbi-devel
+libee-devel
+libestr-devel
+libestr-devel >= 0.1.9
+libfastjson-devel >= 0.99.8
+libgcrypt-devel
+liblogging-stdlog-devel
+liblognorm-devel >= 1.0.2
+libnet-devel
+librabbitmq-devel >= 0.2
+librdkafka-devel
+librelp-devel >= 1.0.3
+libtool
+libuuid-devel
+mariadb-connector-c-devel
+mongo-c-driver-devel
+net-snmp-devel
+pkgconfig
+postgresql-devel
+python-docutils
+qpid-proton-c-devel
+snappy-devel
+systemd-devel >= 204-8
+zlib-devel

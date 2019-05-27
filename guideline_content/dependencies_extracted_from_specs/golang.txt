@@ -1,0 +1,6 @@
+glibc-static
+golang > 1.4
+hostname
+pcre-devel
+perl-interpreter
+procps-ng

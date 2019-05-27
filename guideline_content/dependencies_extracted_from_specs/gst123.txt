@@ -1,0 +1,7 @@
+autoconf
+automake
+gstreamer1-devel
+gstreamer1-plugins-base-devel
+gtk2-devel
+libX11-devel
+ncurses-devel

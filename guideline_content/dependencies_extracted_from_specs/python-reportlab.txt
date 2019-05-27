@@ -1,0 +1,7 @@
+freetype-devel
+ghostscript
+libart_lgpl-devel
+python2-devel
+python2-pillow
+python3-devel
+python3-pillow

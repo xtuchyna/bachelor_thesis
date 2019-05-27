@@ -1,0 +1,13 @@
+perl(Carp)
+perl(English)
+perl(Module::Build)
+perl(Perl::Critic::Policy) >= 1.094
+perl(Perl::Critic::TestUtils) >= 1.094
+perl(Perl::Critic::Utils) >= 1.094
+perl(Readonly)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

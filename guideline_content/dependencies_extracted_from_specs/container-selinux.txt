@@ -1,0 +1,3 @@
+pkgconfig(systemd)
+selinux-policy >= 3.13.1-220
+selinux-policy-devel >= 3.13.1-220

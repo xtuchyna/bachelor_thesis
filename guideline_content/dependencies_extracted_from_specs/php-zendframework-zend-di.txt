@@ -1,0 +1,10 @@
+php(language) >= 5.3.23
+php-autoloader(zendframework/zend-code) >= 2.6
+php-autoloader(zendframework/zend-stdlib) >= 2.7
+php-composer(container-interop/container-interop) < 2
+php-composer(container-interop/container-interop) >= 1.1
+php-composer(phpunit/phpunit) >= 4.0
+php-fedora-autoloader-devel
+php-pcre
+php-reflection
+php-spl

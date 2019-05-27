@@ -1,0 +1,8 @@
+dbus-devel
+desktop-file-utils
+epiphany
+gettext >= 0.14.1
+intltool >= 0.35.0
+libglade2-devel >= 2.0
+libgnomeui-devel >= 2.0
+libnotify-devel

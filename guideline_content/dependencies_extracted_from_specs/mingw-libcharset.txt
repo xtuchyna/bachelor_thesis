@@ -1,0 +1,10 @@
+autoconf
+automake
+bison
+flex
+libtool
+libtool-ltdl-devel
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw64-filesystem >= 95
+mingw64-gcc

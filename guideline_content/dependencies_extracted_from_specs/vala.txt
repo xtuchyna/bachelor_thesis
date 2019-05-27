@@ -1,0 +1,7 @@
+bison
+dbus-x11
+flex
+glib2-devel
+gobject-introspection-devel
+graphviz-devel
+libxslt

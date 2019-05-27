@@ -1,0 +1,14 @@
+findutils
+make
+perl(:VERSION) < 6
+perl(:VERSION) >= 5
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(TAP::Harness)
+perl(Test::More) >= 0.88
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,7 @@
+maven-local
+mvn(commons-logging:commons-logging)
+mvn(junit:junit)
+mvn(log4j:log4j:12)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.fusesource.hawtbuf:hawtbuf)
+mvn(org.fusesource:fusesource-pom:pom:)

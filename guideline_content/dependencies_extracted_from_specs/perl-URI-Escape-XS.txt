@@ -1,0 +1,12 @@
+make
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(XSLoader)
+perl(base)
+perl-devel
+perl-generators
+perl-interpreter

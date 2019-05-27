@@ -1,0 +1,11 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Time::Local)
+perl(base)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators

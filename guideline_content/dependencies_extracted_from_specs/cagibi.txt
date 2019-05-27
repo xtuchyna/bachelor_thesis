@@ -1,0 +1,5 @@
+automoc
+cmake
+pkgconfig(QtDBus)
+pkgconfig(QtNetwork)
+pkgconfig(QtXml)

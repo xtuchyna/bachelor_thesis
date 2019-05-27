@@ -1,0 +1,9 @@
+cmake
+desktop-file-utils
+gcc
+gcc-c++
+gettext
+gtk2-devel >= 2.4
+libappstream-glib
+ninja-build
+python3-devel

@@ -1,0 +1,5 @@
+python3-devel
+python3-django
+python3-django-formtools
+python3-setuptools
+sqlite

@@ -1,0 +1,6 @@
+nodejs-grunt >= 0.4.4-3
+nodejs-packaging
+npm(grunt-cli)
+npm(grunt-contrib-uglify)
+npm(load-grunt-tasks)
+web-assets-devel

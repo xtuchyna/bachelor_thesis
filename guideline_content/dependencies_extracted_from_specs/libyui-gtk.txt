@@ -1,0 +1,7 @@
+boost-devel
+cmake
+doxygen
+graphviz
+gtk3-devel
+hardlink
+libyui-devel

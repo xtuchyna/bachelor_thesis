@@ -1,0 +1,2 @@
+java-devel
+maven-local

@@ -1,0 +1,4 @@
+perl(Curses)
+perl(Time::HiRes)
+perl-generators
+task

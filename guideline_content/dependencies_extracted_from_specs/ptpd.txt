@@ -1,0 +1,6 @@
+autoconf
+automake
+libpcap-devel
+libtool
+net-snmp-devel
+systemd

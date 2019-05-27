@@ -1,0 +1,17 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-mtl-devel
+ghc-network-uri-devel
+ghc-pandoc-types-devel
+ghc-parsec-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-split-devel
+ghc-syb-devel
+ghc-temporary-devel
+ghc-text-devel
+ghc-utf8-string-devel
+ghc-xml-devel

@@ -1,0 +1,8 @@
+gettext
+hunspell
+krb5-devel
+ncurses-devel
+openldap-devel
+openssl-devel
+pam-devel
+passwd

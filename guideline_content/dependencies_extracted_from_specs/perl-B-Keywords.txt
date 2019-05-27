@@ -1,0 +1,24 @@
+coreutils
+findutils
+make
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Copy)
+perl(File::Spec)
+perl(Perl::MinimumVersion) >= 1.20
+perl(Test)
+perl(Test::CPAN::Meta) >= 0.12
+perl(Test::Kwalitee)
+perl(Test::MinimumVersion) >= 0.008
+perl(Test::More)
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.0
+perl(Test::Pod::Coverage) >= 1.04
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

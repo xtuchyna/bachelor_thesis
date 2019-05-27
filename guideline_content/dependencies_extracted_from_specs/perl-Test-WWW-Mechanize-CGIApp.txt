@@ -1,0 +1,8 @@
+perl(CGI)
+perl(CGI::Application)
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Request::AsCGI)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::WWW::Mechanize) >= 1.04
+perl-generators

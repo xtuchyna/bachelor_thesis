@@ -1,0 +1,55 @@
+OpenColorIO-devel
+OpenEXR-devel
+OpenImageIO-devel
+SDL2-devel
+alembic-devel
+boost-devel
+cmake
+desktop-file-utils
+expat-devel
+fftw-devel
+fontpackages-devel
+freealut-devel
+freeglut-devel
+freetype-devel
+ftgl-devel
+gcc-c++
+gettext
+git
+glew-devel
+jack-audio-connection-kit-devel
+jemalloc-devel
+libGL-devel
+libGLU-devel
+libXi-devel
+libao-devel
+libappstream-glib
+libjpeg-turbo-devel
+libogg-devel
+libpng-devel
+libsamplerate-devel
+libsndfile-devel
+libspnav-devel
+libtheora-devel
+libtiff-devel
+libtool
+libvorbis-devel
+libxml2-devel
+lzo-devel
+minizip-compat-devel
+ode-devel
+openCOLLADA-devel >= svn825
+openjpeg2-devel
+openssl-devel
+pcre-devel
+pugixml-devel
+python3-devel >= 3.5
+python3-numpy
+python3-requests
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+subversion-devel
+tbb-devel
+xorg-x11-proto-devel
+xz-devel
+zlib-devel

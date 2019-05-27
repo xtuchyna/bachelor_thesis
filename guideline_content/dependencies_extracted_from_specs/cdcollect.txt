@@ -1,0 +1,16 @@
+desktop-file-utils
+gettext
+glib2-devel
+gnome-sharp-devel
+gtk-sharp2-devel >= 2.8.0
+mono-data-sqlite
+mono-devel >= 1.1.17
+perl(Cwd)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Find)
+perl(Getopt::Long)
+perl(Text::Wrap)
+perl(XML::Parser)
+perl(strict)
+sqlite-devel >= 3.3.5

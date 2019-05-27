@@ -1,0 +1,4 @@
+gnome-common
+pkgconfig(cairo)
+pkgconfig(glib-2.0)
+pkgconfig(gtk+-3.0)

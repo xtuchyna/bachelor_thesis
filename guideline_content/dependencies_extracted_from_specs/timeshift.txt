@@ -1,0 +1,11 @@
+desktop-file-utils
+gettext
+libappstream-glib
+pkgconfig(gee-0.8)
+pkgconfig(gio-unix-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(json-glib-1.0)
+pkgconfig(libsoup-2.4)
+pkgconfig(vte-2.91)
+vala

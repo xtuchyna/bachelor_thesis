@@ -1,0 +1,12 @@
+perl(Carp)
+perl(Data::UUID) >= 1.148
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Sub::Exporter) >= 0.90
+perl(Sub::Install) >= 0.03
+perl(Test::More) >= 0.96
+perl(bytes)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators

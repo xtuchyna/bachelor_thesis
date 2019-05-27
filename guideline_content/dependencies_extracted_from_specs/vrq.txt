@@ -1,0 +1,10 @@
+bison
+bzip2-devel
+doxygen
+flex
+help2man
+iverilog
+libtool-ltdl-devel
+perl-Time-HiRes
+readline-devel
+zlib-devel

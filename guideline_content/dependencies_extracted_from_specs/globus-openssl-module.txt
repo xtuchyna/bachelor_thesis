@@ -1,0 +1,5 @@
+doxygen
+globus-common-devel >= 15
+globus-gsi-openssl-error-devel >= 2
+globus-gsi-proxy-ssl-devel >= 4
+openssl-devel

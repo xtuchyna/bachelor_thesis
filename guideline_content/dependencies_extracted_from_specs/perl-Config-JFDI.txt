@@ -1,0 +1,15 @@
+perl(Any::Moose)
+perl(Carp::Clan::Share)
+perl(Clone)
+perl(Config::Any)
+perl(Config::General)
+perl(Data::Visitor) >= 0.24
+perl(ExtUtils::MakeMaker)
+perl(Getopt::Usaginator)
+perl(Hash::Merge::Simple)
+perl(List::MoreUtils)
+perl(Path::Class)
+perl(Sub::Install)
+perl(Test::More)
+perl(Test::Most)
+perl-generators

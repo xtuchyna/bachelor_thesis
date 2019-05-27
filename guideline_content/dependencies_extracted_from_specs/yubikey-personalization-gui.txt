@@ -1,0 +1,4 @@
+desktop-file-utils
+libyubikey-devel >= 1.11
+qt-devel
+ykpers-devel >= 1.14.1

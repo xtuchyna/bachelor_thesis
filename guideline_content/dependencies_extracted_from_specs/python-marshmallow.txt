@@ -1,0 +1,15 @@
+python2-dateutil
+python2-devel
+python2-ordered-set
+python2-pytest
+python2-pytz
+python2-setuptools
+python2-simplejson
+python2-sphinx
+python3-dateutil
+python3-devel
+python3-ordered-set
+python3-pytest
+python3-pytz
+python3-setuptools
+python3-simplejson

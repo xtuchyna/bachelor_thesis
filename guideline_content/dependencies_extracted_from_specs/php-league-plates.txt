@@ -1,0 +1,6 @@
+php(language) >= 5.3
+php-composer(fedora/autoloader)
+php-composer(mikey179/vfsStream) >= 1.4
+php-composer(phpunit/phpunit) >= 4.0
+php-pcre
+php-spl

@@ -1,0 +1,12 @@
+maven-local
+mvn(com.github.mmazi:rescu)
+mvn(com.pusher:pusher-java-client)
+mvn(commons-io:commons-io)
+mvn(io.netty:netty-all)
+mvn(javax.json:javax.json-api)
+mvn(javax.websocket:javax.websocket-client-api)
+mvn(net.iharder:base64)
+mvn(org.apache.commons:commons-lang3)
+mvn(org.bouncycastle:bcprov-jdk15on)
+mvn(org.java-websocket:Java-WebSocket)
+mvn(org.slf4j:slf4j-api)

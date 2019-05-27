@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(duplex)
+npm(nsp-api)
+npm(tape)

@@ -1,0 +1,4 @@
+cmake
+desktop-file-utils
+libqxt-devel
+pkgconfig(QtGui)

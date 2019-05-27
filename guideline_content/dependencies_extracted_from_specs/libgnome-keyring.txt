@@ -1,0 +1,6 @@
+dbus-devel >= 1.0
+glib2-devel >= 2.16.0
+gobject-introspection-devel
+intltool
+libgcrypt-devel >= 1.2.2
+vala

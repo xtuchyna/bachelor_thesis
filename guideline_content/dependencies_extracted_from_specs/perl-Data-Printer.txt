@@ -1,0 +1,42 @@
+coreutils
+findutils
+make
+perl(B)
+perl(B::Deparse)
+perl(Capture::Tiny)
+perl(Carp)
+perl(Class::Date)
+perl(Clone::PP)
+perl(DBI)
+perl(DBIx::Class::Core)
+perl(DBIx::Class::Schema)
+perl(Date::Calc::Object)
+perl(Date::Handler)
+perl(Date::Handler::Delta)
+perl(Date::Pcalc::Object)
+perl(DateTime)
+perl(DateTime::Incomplete)
+perl(DateTime::TimeZone)
+perl(DateTime::Tiny)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::HomeDir) >= 0.91
+perl(File::HomeDir::Test)
+perl(File::Spec)
+perl(File::Temp)
+perl(Hash::Util::FieldHash)
+perl(IO::Pty::Easy)
+perl(Package::Stash) >= 0.3
+perl(Scalar::Util)
+perl(Sort::Naturally)
+perl(Term::ANSIColor) >= 3
+perl(Test::More) >= 0.88
+perl(Time::Piece)
+perl(base)
+perl(if)
+perl(mro)
+perl(strict)
+perl(version) >= 0.77
+perl(warnings)
+perl-generators
+perl-interpreter

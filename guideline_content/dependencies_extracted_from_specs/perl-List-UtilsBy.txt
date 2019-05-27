@@ -1,0 +1,7 @@
+perl(Exporter)
+perl(Module::Build) >= 0.4004
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.00
+perl(strict)
+perl(warnings)
+perl-generators

@@ -1,0 +1,14 @@
+/usr/bin/ssh-add
+/usr/bin/ssh-agent
+/usr/bin/xsltproc
+docbook-dtds
+docbook-style-xsl
+gettext
+intltool
+libcap-ng-devel
+libgcrypt-devel >= 1.2.2
+libselinux-devel
+pam-devel
+pkgconfig(gcr-3) >= 3.27.90
+pkgconfig(glib-2.0) >= 2.44.0
+pkgconfig(p11-kit-1)

@@ -1,0 +1,19 @@
+coreutils
+findutils
+gcc-c++
+hunspell-devel >= 1.2.8
+hunspell-en
+make
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(ExtUtils::MakeMaker) >= 6.52
+perl(ExtUtils::PkgConfig)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

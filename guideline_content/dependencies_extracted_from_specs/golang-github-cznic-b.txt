@@ -1,0 +1,4 @@
+compiler(go-compiler)
+golang(github.com/cznic/fileutil)
+golang(github.com/cznic/mathutil)
+golang(github.com/cznic/strutil)

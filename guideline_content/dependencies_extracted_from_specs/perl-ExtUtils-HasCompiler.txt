@@ -1,0 +1,18 @@
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::Mksymlists)
+perl(File::Basename)
+perl(File::Path)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(IPC::Open3)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

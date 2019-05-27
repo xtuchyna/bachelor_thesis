@@ -1,0 +1,7 @@
+ImageMagick-devel
+glib2-devel
+libgsf-devel >= 1.11.2
+libjpeg-devel
+libpng-devel
+libxml2-devel
+pkgconfig

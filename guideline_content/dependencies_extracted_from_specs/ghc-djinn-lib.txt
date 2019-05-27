@@ -1,0 +1,5 @@
+ghc-Cabal-devel
+ghc-containers-devel
+ghc-mtl-devel
+ghc-pretty-devel
+ghc-rpm-macros

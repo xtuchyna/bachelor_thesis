@@ -1,0 +1,24 @@
+coreutils
+make
+perl(:VERSION) >= 5.8.1
+perl(Class::Load)
+perl(FindBin)
+perl(HTML::Element)
+perl(HTML::TreeBuilder)
+perl(HTML::TreeBuilder::XPath)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moose) >= 0.65
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::Role::Parameterized)
+perl(Test::More)
+perl(Test::WWW::Mechanize)
+perl(WWW::Mechanize)
+perl(base)
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

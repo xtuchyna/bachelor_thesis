@@ -1,0 +1,23 @@
+perl(CPAN::Meta)
+perl(Carp)
+perl(Exporter)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(List::MoreUtils)
+perl(Module::Build)
+perl(Module::CoreList)
+perl(Module::Used)
+perl(PPI::Document)
+perl(Test::Builder)
+perl(Test::Builder::Tester)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(utf8)
+perl(version) >= 0.77
+perl(warnings)
+perl-generators
+perl-interpreter

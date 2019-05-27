@@ -1,0 +1,11 @@
+coreutils
+expat-devel >= 2.0.0
+findutils
+gcc
+gnupg2-smime
+gnutls-devel >= 2.12.0
+gpgme-devel
+libcurl-devel
+libgcrypt-devel
+libxml2-devel
+make

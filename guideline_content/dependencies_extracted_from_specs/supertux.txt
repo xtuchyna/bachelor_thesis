@@ -1,0 +1,16 @@
+/usr/bin/appstream-util
+bison
+boost-devel
+cmake
+desktop-file-utils
+flex
+gettext
+glew-devel
+libGLU-devel
+libcurl-devel
+libvorbis-devel
+openal-devel
+pkgconfig(SDL2_image) >= 2.0.0
+pkgconfig(sdl2) >= 2.0.1
+sed
+zlib-devel

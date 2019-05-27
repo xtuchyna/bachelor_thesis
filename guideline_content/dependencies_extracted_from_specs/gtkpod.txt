@@ -1,0 +1,21 @@
+anjuta-devel
+autoconf
+automake
+curl-devel
+desktop-file-utils
+flac-devel
+flex
+gettext
+gstreamer1-devel
+gstreamer1-plugins-base-devel
+gtk3-devel
+intltool
+libgpod-devel >= 0.7.0
+libid3tag-devel
+libmp4v2-devel
+libmusicbrainz5-devel
+libtool
+libvorbis-devel
+perl(XML::Parser)
+perl-generators
+pkgconfig

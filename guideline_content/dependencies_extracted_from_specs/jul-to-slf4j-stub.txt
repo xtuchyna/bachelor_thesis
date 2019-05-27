@@ -1,0 +1,8 @@
+jboss-parent
+maven-compiler-plugin
+maven-enforcer-plugin
+maven-install-plugin
+maven-jar-plugin
+maven-javadoc-plugin
+maven-local
+slf4j

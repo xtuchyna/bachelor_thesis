@@ -1,0 +1,7 @@
+mocha
+nodejs-packaging
+npm(clone)
+npm(clone-stats)
+npm(event-stream)
+npm(replace-ext)
+npm(should)

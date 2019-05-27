@@ -1,0 +1,8 @@
+SDL-devel
+SDL_gfx-devel
+SDL_image-devel
+SDL_mixer-devel
+SDL_ttf-devel
+check-devel
+desktop-file-utils
+fontconfig-devel

@@ -1,0 +1,14 @@
+bison
+cln-devel
+cmake
+doxygen
+flex
+gcc
+python2
+readline-devel
+tetex-dvips
+tetex-latex
+texinfo
+texinfo-tex
+texlive-collection-latex
+transfig

@@ -1,0 +1,4 @@
+fuse-devel
+gmp-devel
+libgcrypt-devel
+readline-devel

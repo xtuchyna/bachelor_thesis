@@ -1,0 +1,9 @@
+automake
+byacc
+flex
+gcc-gfortran
+libaec-devel
+libjpeg-devel
+libtirpc-devel
+libtool
+zlib-devel

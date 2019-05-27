@@ -1,0 +1,3 @@
+openssl-devel
+postgresql-devel < 11
+postgresql-devel >= 10

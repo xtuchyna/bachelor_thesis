@@ -1,0 +1,3 @@
+eclipse-emf-runtime
+eclipse-emf-validation
+tycho

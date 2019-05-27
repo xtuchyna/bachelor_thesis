@@ -1,0 +1,37 @@
+coreutils
+findutils
+libgcrypt-devel
+libssh2-devel >= 0.18
+make
+openssl-devel
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Errno)
+perl(Exporter)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Glob)
+perl(File::Spec)
+perl(Getopt::Long)
+perl(IO::File)
+perl(IO::Scalar)
+perl(IO::Socket::IP)
+perl(Module::Install::CheckLib)
+perl(Module::Install::Makefile)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Socket)
+perl(Term::ReadKey)
+perl(Test::More)
+perl(XSLoader)
+perl(base)
+perl(inc::Module::Install) >= 1.17
+perl(strict)
+perl(warnings)
+perl(warnings::register)
+perl-devel
+perl-generators
+perl-interpreter
+sed
+zlib-devel

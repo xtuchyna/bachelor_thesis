@@ -1,0 +1,10 @@
+/usr/bin/perl
+GConf2-devel
+dbus-glib-devel >= 0.73
+desktop-file-utils
+gettext
+gtk2-devel >= 2.8.0
+intltool
+libglade2-devel
+libunicapgtk-devel >= 0.2.23
+perl(XML::Parser)

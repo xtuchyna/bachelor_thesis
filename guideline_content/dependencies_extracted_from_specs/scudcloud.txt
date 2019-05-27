@@ -1,0 +1,4 @@
+desktop-file-utils
+python3-devel
+python3-jsmin
+python3-setuptools

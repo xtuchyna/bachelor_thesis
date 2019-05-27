@@ -1,0 +1,3 @@
+ldc
+ldc-druntime
+ldc-phobos-devel

@@ -1,0 +1,17 @@
+php-bcmath
+php-composer(mockery/mockery) < 1
+php-composer(mockery/mockery) >= 0.9.1
+php-composer(phpunit/phpunit)
+php-composer(symfony/phpunit-bridge) < 4
+php-ctype
+php-date
+php-fedora-autoloader-devel
+php-hash
+php-iconv
+php-mbstring
+php-mhash
+php-openssl
+php-pcre
+php-reflection
+php-simplexml
+php-spl

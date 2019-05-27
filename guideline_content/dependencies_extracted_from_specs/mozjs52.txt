@@ -1,0 +1,7 @@
+/usr/bin/zip
+autoconf213
+perl-devel
+pkgconfig(libffi)
+pkgconfig(zlib)
+python2-devel
+readline-devel

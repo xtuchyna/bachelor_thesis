@@ -1,0 +1,13 @@
+automake
+compat-openssl10-devel
+gc-devel
+gcc-c++
+gdk-pixbuf2-xlib-devel
+gettext-devel
+gpm-devel
+gtk2-devel
+lynx
+ncurses-devel
+nkf
+perl-generators
+pkgconfig

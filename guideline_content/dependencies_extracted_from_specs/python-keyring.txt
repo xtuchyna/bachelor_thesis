@@ -1,0 +1,8 @@
+python-keyczar
+python2-devel
+python2-mock
+python2-setuptools
+python2-setuptools_scm
+python3-devel
+python3-setuptools
+python3-setuptools_scm

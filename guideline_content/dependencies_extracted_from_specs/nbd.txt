@@ -1,0 +1,6 @@
+gcc
+glib2-devel >= 2.26
+gnutls-devel
+libnl3-devel
+systemd
+zlib-devel

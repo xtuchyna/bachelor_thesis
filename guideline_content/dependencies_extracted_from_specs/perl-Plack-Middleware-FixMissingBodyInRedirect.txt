@@ -1,0 +1,14 @@
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(HTML::Entities)
+perl(HTTP::Request::Common)
+perl(Plack::Builder)
+perl(Plack::Middleware)
+perl(Plack::Test)
+perl(Plack::Util)
+perl(Scalar::Util)
+perl(Test::More)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+perl(Convert::BER)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IO::File)
+perl(Socket)
+perl(Text::ParseWords)
+perl-generators

@@ -1,0 +1,3 @@
+perl(ExtUtils::MakeMaker)
+perl(Geo::Constants) >= 0.06
+perl-generators

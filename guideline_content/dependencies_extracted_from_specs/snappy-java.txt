@@ -1,0 +1,9 @@
+gcc-c++
+libstdc++-static
+make
+maven-local
+mvn(com.sun:tools)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.felix:org.osgi.core)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+snappy-devel

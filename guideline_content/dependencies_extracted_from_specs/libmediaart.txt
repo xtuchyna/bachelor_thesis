@@ -1,0 +1,9 @@
+dbus
+gdk-pixbuf2-modules
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(gio-2.0)
+pkgconfig(gio-unix-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(gobject-introspection-1.0)
+vala
+vala-devel

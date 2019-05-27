@@ -1,0 +1,13 @@
+bison
+elfutils-libelf-devel
+flex
+hidapi-devel
+libftdi-devel
+libhid-devel
+libusb-devel
+libusbx-devel
+ncurses-devel
+readline-devel
+tetex-dvips
+texi2html
+texinfo-tex

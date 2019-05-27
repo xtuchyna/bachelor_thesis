@@ -1,0 +1,32 @@
+register on github or stay in gitlab?
+readme file on git - should it contain information about project or about bachelor thesis (my todos and etc)
+	-for now I can make todos there, but in the final version there must be DESCRIPTION
+should I start writing thesis (in tex)?
+my plan:
+1. introduction to ML (maybe describe some of the terms?)
+2. what libraries are developers using (tensorflow, etc.)
+2.1 what distributions and package managers are developers prefering
+2.2 use fedora and ubuntu for comparisson -not specific description, just basic information about installation in fedora vs ubuntu
+-current version of ml libraries on both of the systems
+3. some of the ML techniques (neural networks, genetic algorithms)
+4. basic code example - tutorial codes etc (in bachelor thesis not)
+4.1 make web ml quickinstall guide for fedora users
+-can be in bachelor thesis, general description not specific
+5. more complex code example, functional and developed by myself
+	- working in web interface or just git project for users to download?
+-can have GUI 
+6. summary of the project
+
+complex program expamples:
+-logs from server and search for patterns of attacks
+-picture recognition / face car etc /
+-look for datasets / training and testing /
+-ml for users' issues posted to redhat about programs | packages | etc
+-ml for bug predictions for redhat
+
+TODOs:
+lookup current problems that are being solved by ML
+after month meeting with adam:
+- write chapter STATE OF THE ART - basically introduction and comparissons of current actual things that are being used
+- 5-6pages
+

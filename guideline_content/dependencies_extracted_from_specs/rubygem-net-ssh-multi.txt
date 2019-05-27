@@ -1,0 +1,6 @@
+ruby(release)
+rubygem(minitest)
+rubygem(mocha)
+rubygem(net-ssh)
+rubygem(net-ssh-gateway)
+rubygems-devel

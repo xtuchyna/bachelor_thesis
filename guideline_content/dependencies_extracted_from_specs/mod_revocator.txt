@@ -1,0 +1,12 @@
+apr-devel
+apr-util-devel
+autoconf
+automake
+httpd-devel >= 2.0.52
+libtool
+nspr-devel >= 4.6
+nss-devel >= 3.11.9
+nss-pkcs11-devel >= 3.11
+nss-pkcs11-devel-static
+openldap-devel >= 2.2.29
+pkgconfig

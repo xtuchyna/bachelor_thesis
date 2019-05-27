@@ -1,0 +1,16 @@
+cairo-gobject-devel
+dbus-glib-devel
+desktop-file-utils
+exempi-devel
+gobject-introspection-devel
+libSM-devel
+libexif-devel
+libnotify-devel
+libselinux-devel
+libxml2-devel
+mate-common
+mate-desktop-devel
+pangox-compat-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+startup-notification-devel

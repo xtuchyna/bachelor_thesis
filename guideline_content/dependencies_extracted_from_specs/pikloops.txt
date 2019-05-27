@@ -1,0 +1,4 @@
+autoconf
+desktop-file-utils
+gettext
+kdelibs3-devel

@@ -1,0 +1,6 @@
+procps-ng
+python2-devel
+python2-ipaddress
+python2-mock
+python3-devel
+python3-mock

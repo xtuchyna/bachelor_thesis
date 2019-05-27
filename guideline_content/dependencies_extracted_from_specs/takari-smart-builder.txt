@@ -1,0 +1,10 @@
+junit
+maven
+maven-local
+mvn(com.google.guava:guava)
+mvn(io.takari.m2e.workspace:org.eclipse.m2e.workspace.cli)
+mvn(io.takari.maven.plugins:takari-lifecycle-plugin) >= 1.12.0
+mvn(io.takari.maven.plugins:takari-plugin-testing)
+mvn(io.takari:incrementalbuild)
+mvn(io.takari:takari-archiver)
+mvn(io.takari:takari:pom:)

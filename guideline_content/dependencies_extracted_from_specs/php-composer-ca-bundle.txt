@@ -1,0 +1,11 @@
+/etc/pki/tls/certs/ca-bundle.crt
+php(language) >= 5.3.2
+php-cli
+php-composer(fedora/autoloader)
+php-composer(psr/log) < 2
+php-composer(psr/log) >= 1.0
+php-composer(symfony/process) < 5
+php-composer(symfony/process) >= 2.5
+php-openssl
+php-pcre
+phpunit

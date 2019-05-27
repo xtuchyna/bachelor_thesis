@@ -1,0 +1,16 @@
+perl(Clone)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(FindBin)
+perl(Hash::Merge::Simple)
+perl(Moo)
+perl(Scalar::Util)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Types::Standard)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

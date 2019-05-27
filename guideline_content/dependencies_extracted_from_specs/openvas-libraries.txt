@@ -1,0 +1,15 @@
+bison
+cmake >= 2.6.0
+doxygen
+flex
+glib2-devel
+gnutls-devel >= 2.12.10
+gpgme-devel
+hiredis-devel
+libgcrypt-devel
+libksba-devel
+libpcap-devel
+libssh-devel
+libuuid-devel
+openldap-devel
+pkgconfig

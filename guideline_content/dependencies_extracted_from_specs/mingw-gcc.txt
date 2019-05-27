@@ -1,0 +1,18 @@
+cloog-devel
+flex
+gmp-devel
+libgomp
+libmpc-devel
+mingw32-binutils
+mingw32-crt
+mingw32-filesystem >= 95
+mingw32-headers
+mingw32-winpthreads
+mingw64-binutils
+mingw64-crt
+mingw64-filesystem >= 95
+mingw64-headers
+mingw64-winpthreads
+mpfr-devel
+texinfo
+zlib-devel

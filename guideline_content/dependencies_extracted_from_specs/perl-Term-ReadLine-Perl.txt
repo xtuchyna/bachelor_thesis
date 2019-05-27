@@ -1,0 +1,5 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(SelfLoader)
+perl(Term::ReadKey)
+perl-generators

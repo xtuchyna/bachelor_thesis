@@ -1,0 +1,6 @@
+cmake
+help2man
+libX11-devel
+libtool
+pam-devel
+systemd-units

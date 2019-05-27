@@ -1,0 +1,5 @@
+compiler(go-compiler)
+golang(github.com/golang/snappy)
+golang(github.com/hailocab/go-hostpool)
+golang(golang.org/x/net/context)
+golang(gopkg.in/inf.v0)

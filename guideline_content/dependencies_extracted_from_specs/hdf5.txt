@@ -1,0 +1,13 @@
+automake
+gcc
+gcc-c++
+gcc-gfortran
+krb5-devel
+libaec-devel
+libtool
+mpich-devel
+openmpi-devel
+openssh-clients
+openssl-devel
+time
+zlib-devel

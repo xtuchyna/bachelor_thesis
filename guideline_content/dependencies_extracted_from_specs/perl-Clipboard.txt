@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(Module::Install::Metadata)
+perl(Module::Install::Win32)
+perl(Module::Install::WriteAll)
+perl(Test::More)
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+xclip

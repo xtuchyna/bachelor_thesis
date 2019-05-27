@@ -1,0 +1,9 @@
+perl(ExtUtils::MakeMaker)
+perl(IO::String)
+perl(Scalar::Util)
+perl(Sub::Exporter)
+perl(Test::More) >= 0.88
+perl(Test::use::ok)
+perl(asa)
+perl(parent)
+perl-generators

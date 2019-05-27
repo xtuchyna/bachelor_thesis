@@ -1,0 +1,13 @@
+(php-composer(mockery/mockery) >= 0.9 with php-composer(mockery/mockery) < 1.0)
+(php-composer(psr/log) >= 1.0.1 with php-composer(psr/log) < 2.0)
+(php-composer(robrichards/xmlseclibs) >= 2.0 with php-composer(robrichards/xmlseclibs) < 3.0)
+php(language) >= 5.3.3
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-date
+php-libxml
+php-mcrypt
+php-pcre
+php-soap
+php-spl
+php-zlib

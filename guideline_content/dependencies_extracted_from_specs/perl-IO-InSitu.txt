@@ -1,0 +1,10 @@
+perl(Carp)
+perl(File::Temp)
+perl(IO::File)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(base)
+perl(version)
+perl-generators

@@ -1,0 +1,9 @@
+cmake
+desktop-file-utils
+gettext
+pkgconfig(gala)
+pkgconfig(gee-0.8)
+pkgconfig(glib-2.0) >= 2.40
+pkgconfig(granite)
+pkgconfig(gtk+-3.0) >= 3.14
+vala >= 0.24.0

@@ -1,0 +1,3 @@
+SDL2_ttf-devel
+liberation-mono-fonts
+ncurses-devel

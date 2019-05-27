@@ -1,0 +1,5 @@
+gap-devel
+gap-pkg-polycyclic
+gap-pkg-radiroot
+pari-gp
+tth

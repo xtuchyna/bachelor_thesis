@@ -1,0 +1,4 @@
+dos2unix
+python-tools
+python2-devel
+python3-devel

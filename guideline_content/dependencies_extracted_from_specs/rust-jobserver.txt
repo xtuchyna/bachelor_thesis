@@ -1,0 +1,7 @@
+(crate(futures) >= 0.1.0 with crate(futures) < 0.2.0)
+(crate(libc) >= 0.2.0 with crate(libc) < 0.3.0)
+(crate(num_cpus) >= 1.0.0 with crate(num_cpus) < 2.0.0)
+(crate(tempdir) >= 0.3.0 with crate(tempdir) < 0.4.0)
+(crate(tokio-core) >= 0.1.0 with crate(tokio-core) < 0.2.0)
+(crate(tokio-process) >= 0.1.0 with crate(tokio-process) < 0.2.0)
+rust-packaging

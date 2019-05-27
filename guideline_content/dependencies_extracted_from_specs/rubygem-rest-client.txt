@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(http-cookie)
+rubygem(mime-types)
+rubygem(netrc)
+rubygem(rspec)
+rubygem(webmock)
+rubygems-devel

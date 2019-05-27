@@ -1,0 +1,6 @@
+SDL-devel
+SDL_mixer-devel
+desktop-file-utils
+gcc
+libXi-devel
+libXmu-devel

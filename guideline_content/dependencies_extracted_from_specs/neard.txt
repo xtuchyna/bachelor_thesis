@@ -1,0 +1,4 @@
+dbus-devel
+gcc
+glib2-devel
+libnl3-devel

@@ -1,0 +1,4 @@
+desktop-file-utils
+libXext-devel
+libXinerama-devel
+libXt-devel

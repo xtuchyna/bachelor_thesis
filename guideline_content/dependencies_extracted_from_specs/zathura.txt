@@ -1,0 +1,14 @@
+binutils
+check
+file-devel
+gcc
+gettext
+girara-devel >= 0.2.8
+glib2-devel >= 2.50
+gtk3-devel >= 3.22
+intltool
+libappstream-glib
+meson >= 0.45
+python3-sphinx
+sqlite-devel >= 3.5.9
+texlive-synctex

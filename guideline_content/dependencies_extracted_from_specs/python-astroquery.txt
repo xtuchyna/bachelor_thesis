@@ -1,0 +1,12 @@
+python2-astropy
+python2-beautifulsoup4
+python2-devel
+python2-html5lib
+python2-keyring
+python2-requests
+python3-astropy
+python3-beautifulsoup4
+python3-devel
+python3-html5lib
+python3-keyring
+python3-requests

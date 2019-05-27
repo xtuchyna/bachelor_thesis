@@ -1,0 +1,13 @@
+emacs
+ghostscript
+libICE-devel
+libSM-devel
+libX11-devel
+libXt-devel
+libbsd-devel
+ncurses-devel
+tetex-dvips
+texi2html
+texinfo
+texinfo-tex
+wxGTK-devel

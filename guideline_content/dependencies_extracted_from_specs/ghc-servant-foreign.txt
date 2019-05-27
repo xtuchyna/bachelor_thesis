@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-http-types-devel
+ghc-lens-devel
+ghc-rpm-macros
+ghc-servant-devel
+ghc-text-devel

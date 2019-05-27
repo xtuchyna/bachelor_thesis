@@ -1,0 +1,16 @@
+DevIL-devel
+ImageMagick
+SDL-devel
+boost-devel
+cmake
+desktop-file-utils
+freetype-devel
+libGL-devel
+libGLU-devel
+ode-devel
+qt-devel
+simspark-devel
+tex(latex)
+tex(subfigure.sty)
+tex(titlesec.sty)
+tex(wrapfig.sty)

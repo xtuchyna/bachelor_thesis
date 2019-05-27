@@ -1,0 +1,8 @@
+perl(Cwd)
+perl(Data::Compare)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(FileHandle)
+perl(Test)
+perl-generators

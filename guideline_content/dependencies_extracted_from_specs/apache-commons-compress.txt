@@ -1,0 +1,9 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.commons:commons-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.objenesis:objenesis)
+mvn(org.powermock:powermock-api-mockito)
+mvn(org.powermock:powermock-module-junit4)
+mvn(org.tukaani:xz)

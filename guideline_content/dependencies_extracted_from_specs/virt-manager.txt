@@ -1,0 +1,3 @@
+/usr/bin/pod2man
+intltool
+python2-devel

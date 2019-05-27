@@ -1,0 +1,8 @@
+SDL_image-devel
+SDL_mixer-devel
+SDL_ttf-devel
+compat-guile18-devel
+desktop-file-utils
+libGLU-devel
+libappstream-glib
+zlib-devel

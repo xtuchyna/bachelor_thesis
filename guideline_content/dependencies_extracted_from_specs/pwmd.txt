@@ -1,0 +1,10 @@
+cracklib-devel
+glib2-devel
+gnutls-devel
+libacl-devel
+libassuan-devel >= 2.0.0
+libgcrypt-devel
+libgpg-error-devel
+libubsan
+libxml2-devel
+zlib-devel

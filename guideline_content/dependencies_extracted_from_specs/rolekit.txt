@@ -1,0 +1,9 @@
+dbus-devel
+docbook-style-xsl
+gettext
+glib2
+glib2-devel
+intltool
+polkit-devel
+python3-devel
+systemd-units

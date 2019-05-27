@@ -1,0 +1,2 @@
+python-mutagen
+python2-devel

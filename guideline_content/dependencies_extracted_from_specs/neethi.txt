@@ -1,0 +1,6 @@
+apache-parent
+axiom
+maven-local
+maven-plugin-bundle
+maven-source-plugin
+wsdl4j

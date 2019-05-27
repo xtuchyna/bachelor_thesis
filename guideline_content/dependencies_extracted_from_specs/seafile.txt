@@ -1,0 +1,17 @@
+autoconf
+automake
+ccnet-devel = 6.1.6
+fuse-devel >= 2.7.3
+glib2-devel
+intltool
+jansson-devel
+libarchive-devel
+libcurl-devel
+libevent-devel
+libtool
+libuuid-devel
+libzdb-devel
+openssl-devel
+python2-devel
+sqlite-devel
+vala

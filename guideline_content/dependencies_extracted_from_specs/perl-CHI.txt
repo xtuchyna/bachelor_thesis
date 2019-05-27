@@ -1,0 +1,36 @@
+/usr/bin/make
+/usr/bin/perl
+perl(Cache::FastMmap)
+perl(Cache::FileCache)
+perl(Carp::Assert) >= 0.20
+perl(Compress::Zlib)
+perl(Data::UUID)
+perl(Date::Parse)
+perl(Digest::JHash)
+perl(Digest::MD5)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec) >= 0.80
+perl(Hash::MoreUtils)
+perl(JSON::MaybeXS) >= 1.003003
+perl(List::MoreUtils) >= 0.13
+perl(Log::Any) >= 0.08
+perl(Module::Load::Conditional)
+perl(Moo) >= 1.003
+perl(MooX::Types::MooseLike) >= 0.23
+perl(MooX::Types::MooseLike::Base)
+perl(MooX::Types::MooseLike::Numeric)
+perl(Storable)
+perl(String::RewritePrefix)
+perl(Task::Weaken)
+perl(Test::Builder)
+perl(Test::Class)
+perl(Test::Deep)
+perl(Test::Exception)
+perl(Test::Log::Dispatch)
+perl(Test::More)
+perl(Test::Warn)
+perl(Time::Duration) >= 1.06
+perl(Time::Duration::Parse) >= 0.03
+perl(Time::HiRes) >= 1.30
+perl(Try::Tiny) >= 0.05
+perl-generators

@@ -1,0 +1,13 @@
+/usr/bin/make
+/usr/bin/perl
+perl(Carp)
+perl(DateTime)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Time::Local)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators

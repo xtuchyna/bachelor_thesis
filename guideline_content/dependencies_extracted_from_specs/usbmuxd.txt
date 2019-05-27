@@ -1,0 +1,5 @@
+gcc
+libimobiledevice-devel
+libplist-devel
+libusbx-devel
+systemd

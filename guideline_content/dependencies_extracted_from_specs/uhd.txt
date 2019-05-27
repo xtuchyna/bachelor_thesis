@@ -1,0 +1,11 @@
+boost-devel
+cmake
+docutils
+doxygen
+libpcap-devel
+libusb1-devel
+ncurses-devel
+pkgconfig
+python-cheetah
+python-mako
+wireshark-devel

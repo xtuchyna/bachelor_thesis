@@ -1,0 +1,15 @@
+autoconf
+automake
+gettext
+glib2-devel
+gnome-common
+gnome-doc-utils
+gtk-doc
+gtk2-devel
+intltool
+libgnomecanvas-devel
+libgnomeui-devel
+libtool
+libxml2-devel
+scrollkeeper
+startup-notification-devel

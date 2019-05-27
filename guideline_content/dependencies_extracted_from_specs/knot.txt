@@ -1,0 +1,13 @@
+gnupg2
+lmdb-devel
+pkgconfig(gnutls) >= 3.3
+pkgconfig(libcap-ng)
+pkgconfig(libedit)
+pkgconfig(libfstrm)
+pkgconfig(libidn2)
+pkgconfig(libprotobuf-c)
+pkgconfig(libsystemd)
+pkgconfig(liburcu)
+pkgconfig(nettle)
+python3-sphinx
+systemd

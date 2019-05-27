@@ -1,0 +1,6 @@
+ruby(release)
+ruby-devel
+rubygem-glib2-devel >= 3.0.8
+rubygem-gtk2-devel >= 3.0.8
+rubygems-devel
+vte-devel

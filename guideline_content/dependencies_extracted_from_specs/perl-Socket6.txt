@@ -1,0 +1,17 @@
+coreutils
+findutils
+gcc
+make
+perl(Carp)
+perl(Config)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Socket)
+perl(Test)
+perl(base)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

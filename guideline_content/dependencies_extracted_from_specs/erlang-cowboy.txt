@@ -1,0 +1,6 @@
+asciidoc
+dblatex
+erlang-cowlib
+erlang-ranch
+erlang-rebar
+libxml2

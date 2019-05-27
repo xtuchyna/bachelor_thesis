@@ -1,0 +1,4 @@
+php(language) > 5.4.7
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-pcre

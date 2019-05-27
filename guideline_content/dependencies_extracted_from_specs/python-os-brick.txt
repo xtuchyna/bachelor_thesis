@@ -1,0 +1,28 @@
+python-ddt
+python-oslo-concurrency >= 3.8.0
+python-oslo-i18n >= 2.1.0
+python-oslo-log >= 1.14.0
+python-oslo-privsep >= 1.9.0
+python-oslo-service >= 1.10.0
+python-oslo-sphinx >= 2.5.0
+python-pbr >= 1.6.0
+python-reno
+python-requests >= 2.5.2
+python-setuptools
+python-six >= 1.9.0
+python-sphinx
+python2-devel
+python3-ddt
+python3-devel
+python3-oslo-concurrency >= 3.8.0
+python3-oslo-i18n >= 2.1.0
+python3-oslo-log >= 1.14.0
+python3-oslo-privsep >= 1.5.0
+python3-oslo-service >= 1.10.0
+python3-oslo-sphinx >= 2.5.0
+python3-pbr >= 1.6.0
+python3-reno
+python3-requests >= 2.5.2
+python3-setuptools
+python3-six >= 1.9.0
+python3-sphinx

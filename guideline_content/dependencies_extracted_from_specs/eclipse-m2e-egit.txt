@@ -1,0 +1,15 @@
+eclipse-jgit
+maven-local
+mvn(io.tesla.tycho:tycho-support:pom:)
+osgi(org.eclipse.core.runtime)
+osgi(org.eclipse.egit.core)
+osgi(org.eclipse.egit.ui)
+osgi(org.eclipse.equinox.p2.ui.discovery)
+osgi(org.eclipse.jface)
+osgi(org.eclipse.jgit)
+osgi(org.eclipse.m2e.core)
+osgi(org.eclipse.m2e.core.ui)
+osgi(org.eclipse.m2e.scm)
+osgi(org.eclipse.swt)
+osgi(org.eclipse.ui)
+osgi(slf4j.api)

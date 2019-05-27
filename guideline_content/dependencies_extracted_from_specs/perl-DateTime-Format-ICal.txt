@@ -1,0 +1,12 @@
+perl(DateTime) >= 0.17
+perl(DateTime::Event::ICal) >= 0.03
+perl(DateTime::Set) >= 0.1
+perl(DateTime::Span)
+perl(DateTime::TimeZone) >= 0.22
+perl(Module::Build)
+perl(Params::Validate) >= 0.59
+perl(Test::More)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

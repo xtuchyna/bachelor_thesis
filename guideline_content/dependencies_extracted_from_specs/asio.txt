@@ -1,0 +1,5 @@
+autoconf
+automake
+boost-devel
+openssl-devel
+perl-generators

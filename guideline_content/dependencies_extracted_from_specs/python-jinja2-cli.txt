@@ -1,0 +1,6 @@
+python2-devel
+python2-jinja2
+python2-pytest
+python3-devel
+python3-jinja2
+python3-pytest

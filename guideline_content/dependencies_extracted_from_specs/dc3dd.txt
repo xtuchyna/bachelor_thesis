@@ -1,0 +1,8 @@
+autoconf
+automake
+gettext
+gettext-devel
+m4
+p7zip
+perl(Locale::gettext)
+readline-devel

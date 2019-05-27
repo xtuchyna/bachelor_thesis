@@ -1,0 +1,6 @@
+Pyrex
+dbus-devel
+dbus-glib-devel
+libsynce-devel >= 0.15.1
+libtool
+libudev-devel

@@ -1,0 +1,8 @@
+autoconf
+automake
+libXext-devel
+libXft-devel
+libXt-devel
+libtool
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

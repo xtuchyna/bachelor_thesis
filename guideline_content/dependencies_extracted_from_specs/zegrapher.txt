@@ -1,0 +1,6 @@
+boost-devel
+desktop-file-utils
+gcc-c++
+libappstream-glib
+pkgconfig(Qt5)
+pkgconfig(Qt5WebKit)

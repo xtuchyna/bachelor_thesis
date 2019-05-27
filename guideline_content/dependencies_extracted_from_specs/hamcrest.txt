@@ -1,0 +1,7 @@
+ant
+ant-junit
+easymock
+javapackages-local
+junit
+qdox
+testng

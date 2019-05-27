@@ -1,0 +1,24 @@
+make
+perl(:VERSION) >= 5.6
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Moose)
+perl(Moose::Meta::Class)
+perl(Moose::Role)
+perl(Moose::Util)
+perl(MooseX::TraitFor::Meta::Class::BetterAnonClassNames) >= 0.002001
+perl(Sub::Exporter::Progressive)
+perl(Test::CheckDeps) >= 0.010
+perl(Test::Moose::More) >= 0.016
+perl(Test::More) >= 0.94
+perl(Test::Requires)
+perl(aliased)
+perl(namespace::autoclean)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

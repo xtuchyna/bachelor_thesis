@@ -1,0 +1,13 @@
+memcached
+ruby >= 2.2.2
+ruby(release)
+rubygem(bigdecimal)
+rubygem(builder)
+rubygem(concurrent-ruby)
+rubygem(dalli)
+rubygem(i18n) >= 0.6.9
+rubygem(listen)
+rubygem(minitest) >= 5.0.0
+rubygem(rack)
+rubygem(tzinfo) >= 1.1
+rubygems-devel

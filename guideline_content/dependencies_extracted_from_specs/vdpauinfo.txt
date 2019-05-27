@@ -1,0 +1,1 @@
+libvdpau-devel >= 1.0

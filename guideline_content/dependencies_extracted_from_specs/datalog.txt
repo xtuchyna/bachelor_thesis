@@ -1,0 +1,3 @@
+lua-devel > 5.1
+readline-devel
+texinfo

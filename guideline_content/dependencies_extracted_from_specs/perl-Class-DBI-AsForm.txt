@@ -1,0 +1,10 @@
+perl(Class::DBI)
+perl(Class::DBI::Plugin::Type)
+perl(DBD::SQLite)
+perl(ExtUtils::MakeMaker)
+perl(HTML::Element)
+perl(Pod::Perldoc)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

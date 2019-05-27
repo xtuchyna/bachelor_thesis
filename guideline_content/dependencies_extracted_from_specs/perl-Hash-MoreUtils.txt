@@ -1,0 +1,3 @@
+perl(Module::Build) >= 0.42
+perl(Test::More) >= 0.90
+perl-generators

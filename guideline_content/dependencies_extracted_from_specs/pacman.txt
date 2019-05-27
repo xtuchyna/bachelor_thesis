@@ -1,0 +1,10 @@
+asciidoc
+doxygen
+gettext-devel
+gpgme-devel
+libarchive-devel
+libcurl-devel
+libtool
+m4
+openssl-devel
+perl-generators

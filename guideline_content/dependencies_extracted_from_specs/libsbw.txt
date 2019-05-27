@@ -1,0 +1,6 @@
+cmake
+dos2unix
+gcc-c++
+help2man
+libxml2-devel
+zlib-devel

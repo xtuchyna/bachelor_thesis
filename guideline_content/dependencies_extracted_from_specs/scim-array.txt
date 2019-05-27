@@ -1,0 +1,7 @@
+autoconf
+automake
+gettext
+intltool
+libtool
+libtool-ltdl-devel
+scim-devel

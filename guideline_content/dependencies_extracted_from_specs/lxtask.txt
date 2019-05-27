@@ -1,0 +1,4 @@
+desktop-file-utils
+gettext
+intltool
+pkgconfig(gtk+-2.0) > 2.6

@@ -1,0 +1,6 @@
+clang-devel >= 3.6.0
+cmake
+libedit-devel
+llvm-devel >= 3.6.0
+python-sphinx
+zlib-devel

@@ -1,0 +1,17 @@
+cmake >= 3.1
+desktop-file-utils
+gcc-c++ >= 4.7
+libXi-devel
+libXtst-devel
+libappstream-glib
+libargon2-devel
+libcurl-devel
+libgcrypt-devel >= 1.7
+libmicrohttpd-devel
+libsodium-devel
+libyubikey-devel
+qt5-qtbase-devel >= 5.2
+qt5-qttools-devel >= 5.2
+qt5-qtx11extras-devel
+ykpers-devel
+zlib-devel

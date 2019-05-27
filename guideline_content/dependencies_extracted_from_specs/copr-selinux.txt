@@ -1,0 +1,6 @@
+asciidoc
+checkpolicy
+libxslt
+perl
+policycoreutils
+selinux-policy-devel

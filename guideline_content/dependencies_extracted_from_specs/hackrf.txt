@@ -1,0 +1,4 @@
+cmake
+fftw3-devel
+libusbx-devel
+systemd

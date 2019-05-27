@@ -1,0 +1,12 @@
+clutter-devel
+desktop-file-utils
+garcon-devel
+libICE-devel
+libXcomposite-devel
+libXdamage-devel
+libXinerama-devel
+libtool
+libwnck3-devel
+libxfce4util-devel
+xfce4-dev-tools
+xfconf-devel

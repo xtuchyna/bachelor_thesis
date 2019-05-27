@@ -1,0 +1,4 @@
+datanommer-commands
+python-datanommer-consumer
+python-datanommer-models
+python2-devel

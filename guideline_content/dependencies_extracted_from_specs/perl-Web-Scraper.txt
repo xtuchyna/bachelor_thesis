@@ -1,0 +1,24 @@
+/usr/bin/ps
+perl(Carp)
+perl(HTML::Entities)
+perl(HTML::Selector::XPath) >= 0.03
+perl(HTML::Tagset)
+perl(HTML::TreeBuilder) >= 3.23
+perl(HTML::TreeBuilder::LibXML) >= 0.13
+perl(HTML::TreeBuilder::XPath) >= 0.08
+perl(LWP) >= 5.827
+perl(LWP::UserAgent)
+perl(List::Util)
+perl(Module::Build::Tiny) >= 0.039
+perl(Scalar::Util)
+perl(Test::Base)
+perl(Test::More)
+perl(Test::Requires)
+perl(UNIVERSAL::require)
+perl(URI)
+perl(XML::XPathEngine) >= 0.08
+perl(YAML)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators

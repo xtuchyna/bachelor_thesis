@@ -1,0 +1,11 @@
+ca-certificates
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Test)
+perl(strict)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,6 @@
+libvirt-devel >= 1.2.13
+libxml2-devel
+libxslt
+php-devel
+php-pecl-imagick
+xhtml1-dtds

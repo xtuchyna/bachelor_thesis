@@ -1,0 +1,11 @@
+ant
+java-devel >= 1:1.6.0
+jpackage-utils
+keyutils-libs-devel
+libselinux-devel
+nspr-devel
+nss-devel
+perl(ExtUtils::MakeMaker)
+perl-devel
+perl-generators
+pkgconfig

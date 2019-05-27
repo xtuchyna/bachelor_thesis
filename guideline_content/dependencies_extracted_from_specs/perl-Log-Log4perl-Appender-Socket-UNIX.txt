@@ -1,0 +1,10 @@
+perl(IO::Handle)
+perl(Log::Log4perl::Appender)
+perl(Module::Build)
+perl(Socket)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,5 @@
+ant
+ant-junit
+java-devel
+javapackages-local
+junit >= 3.2

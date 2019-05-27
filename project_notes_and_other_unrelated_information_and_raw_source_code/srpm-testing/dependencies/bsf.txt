@@ -1,0 +1,8 @@
+ant
+apache-commons-logging
+apache-parent
+javapackages-local
+rhino
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+xalan-j2

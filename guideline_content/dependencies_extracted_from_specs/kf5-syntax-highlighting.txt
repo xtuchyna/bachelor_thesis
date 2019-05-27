@@ -1,0 +1,5 @@
+extra-cmake-modules >= 5.44
+kf5-rpm-macros
+perl-interpreter
+qt5-qtbase-devel
+qt5-qtxmlpatterns-devel

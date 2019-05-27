@@ -1,0 +1,14 @@
+SDL-devel
+alsa-lib-devel
+bison
+bzip2-devel
+desktop-file-utils
+flex
+gtk2-devel
+libICE-devel
+libgcrypt-devel >= 1.1.42
+libpng-devel
+libspectrum-devel >= 1.4.1
+libxml2-devel
+perl
+zlib-devel

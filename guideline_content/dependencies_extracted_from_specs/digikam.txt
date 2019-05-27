@@ -1,0 +1,58 @@
+bison
+boost-devel
+cmake(KF5AkonadiContact)
+desktop-file-utils
+doxygen
+eigen3-devel
+expat-devel
+extra-cmake-modules
+flex
+gcc-c++
+gettext
+kf5-karchive-devel
+kf5-kbookmarks-devel
+kf5-kconfig-devel
+kf5-kcoreaddons-devel
+kf5-kdoctools-devel
+kf5-kfilemetadata-devel
+kf5-ki18n-devel
+kf5-kiconthemes-devel
+kf5-kio-devel
+kf5-kitemmodels-devel
+kf5-kitemviews-devel
+kf5-knotifications-devel
+kf5-knotifyconfig-devel
+kf5-kservice-devel
+kf5-kwindowsystem-devel
+kf5-kxmlgui-devel
+kf5-libkipi-devel >= 16.03
+kf5-libksane-devel >= 16.03
+kf5-rpm-macros
+kf5-solid-devel
+kf5-threadweaver-devel
+libjpeg-devel
+libtiff-devel
+marble-astro-devel
+marble-widget-qt5-devel
+perl-generators
+pkgconfig(Qt5OpenGL)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5WebKit)
+pkgconfig(Qt5X11Extras)
+pkgconfig(Qt5XmlPatterns)
+pkgconfig(exiv2) >= 0.25
+pkgconfig(glib-2.0)
+pkgconfig(jasper)
+pkgconfig(lcms2)
+pkgconfig(lensfun) >= 0.2.6
+pkgconfig(libgphoto2_port)
+pkgconfig(libpgf) >= 6.12.24
+pkgconfig(libpng) >= 1.2.7
+pkgconfig(libusb)
+pkgconfig(libusb-1.0)
+pkgconfig(libxslt)
+pkgconfig(lqr-1)
+pkgconfig(opencv) >= 3
+pkgconfig(phonon4qt5)
+pkgconfig(x11)
+pkgconfig(xproto)

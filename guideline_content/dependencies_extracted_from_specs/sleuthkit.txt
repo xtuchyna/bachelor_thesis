@@ -1,0 +1,4 @@
+afflib-devel >= 3.3.4
+libewf-devel
+perl-generators
+sqlite-devel

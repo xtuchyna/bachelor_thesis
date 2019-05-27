@@ -1,0 +1,12 @@
+SDL-devel
+bc
+dtc
+gcc
+git-core
+make
+openssl-devel
+python2-devel
+python2-libfdt
+python2-pyelftools
+python2-setuptools
+swig

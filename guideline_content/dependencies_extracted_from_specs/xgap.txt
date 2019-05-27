@@ -1,0 +1,6 @@
+desktop-file-utils
+gap-devel
+gcc
+libXaw-devel
+tex(manfnt.tfm)
+tth

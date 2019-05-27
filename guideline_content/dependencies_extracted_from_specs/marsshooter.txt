@@ -1,0 +1,13 @@
+SFML-devel
+aajohan-comfortaa-fonts
+cmake
+dejavu-sans-fonts
+desktop-file-utils
+dos2unix
+gargi-fonts
+libappstream-glib
+pkgconfig(fribidi)
+pkgconfig(gl)
+pkgconfig(taglib)
+thai-scalable-waree-fonts
+wqy-microhei-fonts

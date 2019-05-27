@@ -1,0 +1,4 @@
+mingw32-filesystem >= 96
+mingw32-qt5-qtbase = 5.10.1
+mingw64-filesystem >= 96
+mingw64-qt5-qtbase = 5.10.1

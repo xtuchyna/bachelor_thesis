@@ -1,0 +1,25 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(File::Temp)
+perl(FindBin)
+perl(IO::Handle)
+perl(IO::Socket)
+perl(IPC::Open3)
+perl(POSIX)
+perl(PerlIO::via::Timeout) >= 0.32
+perl(Socket)
+perl(Test::More)
+perl(Test::TCP)
+perl(bytes)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

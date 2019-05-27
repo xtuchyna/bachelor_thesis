@@ -1,0 +1,4 @@
+python2-chardet
+python2-devel
+python3-chardet
+python3-devel

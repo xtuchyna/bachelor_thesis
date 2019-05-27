@@ -1,0 +1,17 @@
+bison
+chrpath
+flex
+glib2-devel
+gtk-doc
+libgpg-error-devel
+libtool-ltdl-devel
+perl-devel
+perl-generators
+pkgconfig(gnutls)
+pkgconfig(lua) >= 5.2
+pkgconfig(ruby)
+pkgconfig(zlib)
+python2-devel
+python3-devel
+swig
+valgrind

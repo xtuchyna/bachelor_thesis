@@ -1,0 +1,17 @@
+apache-parent
+bitstream-vera-sans-fonts
+fontconfig
+icc-profiles-openicc
+maven-local
+mvn(com.adobe.pdf:pcfi)
+mvn(com.ibm.icu:icu4j)
+mvn(commons-logging:commons-logging)
+mvn(junit:junit)
+mvn(log4j:log4j:1.2.17)
+mvn(org.apache.ant:ant)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.apache.maven.plugins:maven-release-plugin)
+mvn(org.apache.rat:apache-rat-plugin)
+mvn(org.bouncycastle:bcmail-jdk15on)
+mvn(org.codehaus.mojo:javacc-maven-plugin)

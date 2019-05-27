@@ -1,0 +1,14 @@
+ImageMagick
+cmake
+desktop-file-utils
+doxygen
+gcc-c++
+python2-devel
+qjson-qt5-devel
+qt5-qtbase-devel
+qt5-qtscript-devel
+qt5-qtsvg-devel
+qt5-qttools-devel
+qt5-qtwebkit-devel
+qt5-qtxmlpatterns-devel
+qt5-rpm-macros

@@ -1,0 +1,8 @@
+/usr/bin/sip
+cmake
+gcc-c++
+git
+protobuf-devel
+python3-devel
+python3-protobuf
+python3-sip-devel

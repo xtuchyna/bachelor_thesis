@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(DateTime)
+perl(DateTime::TimeZone)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::More) >= 0.61
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

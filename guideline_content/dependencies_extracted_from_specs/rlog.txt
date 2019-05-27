@@ -1,0 +1,6 @@
+autoconf
+automake
+doxygen
+libtool
+tetex-latex
+valgrind-devel

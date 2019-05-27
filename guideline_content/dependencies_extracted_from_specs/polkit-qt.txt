@@ -1,0 +1,13 @@
+automoc4
+cmake
+doxygen
+gcc-c++
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Widgets)
+pkgconfig(Qt5Xml)
+pkgconfig(QtDBus)
+pkgconfig(QtGui)
+pkgconfig(QtXml)
+pkgconfig(polkit-agent-1)
+pkgconfig(polkit-gobject-1)

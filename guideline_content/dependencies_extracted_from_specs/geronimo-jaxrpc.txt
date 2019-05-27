@@ -1,0 +1,9 @@
+geronimo-osgi-locator
+geronimo-parent-poms
+glassfish-servlet-api
+java-devel >= 1:1.6.0
+jpackage-utils
+maven-local
+maven-resources-plugin
+maven-surefire-provider-junit
+saaj_api

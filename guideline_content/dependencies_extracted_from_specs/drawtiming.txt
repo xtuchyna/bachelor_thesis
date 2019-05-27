@@ -1,0 +1,3 @@
+ImageMagick-c++-devel
+fontconfig-devel
+ghostscript

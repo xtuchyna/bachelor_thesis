@@ -1,0 +1,3 @@
+libibumad-devel >= 1.3.10.2
+libibverbs-devel >= 1.2.0
+librdmacm-devel >= 1.0.21

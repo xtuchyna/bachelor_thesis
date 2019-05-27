@@ -1,0 +1,9 @@
+python2-devel
+python2-setuptools
+python2-setuptools_scm
+python3-devel
+python3-future
+python3-nose
+python3-setuptools
+python3-setuptools_scm
+python3-six

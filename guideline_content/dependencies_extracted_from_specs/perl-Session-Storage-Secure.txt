@@ -1,0 +1,25 @@
+perl(Carp)
+perl(Crypt::CBC)
+perl(Crypt::Rijndael)
+perl(Crypt::URandom)
+perl(Digest::SHA)
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(File::Spec::Functions)
+perl(List::Util)
+perl(MIME::Base64) >= 3.12
+perl(Math::Random::ISAAC::XS)
+perl(Moo)
+perl(MooX::Types::MooseLike::Base) >= 0.16
+perl(Sereal::Decoder)
+perl(Sereal::Encoder)
+perl(String::Compare::ConstantTime)
+perl(Test::Deep)
+perl(Test::Fatal)
+perl(Test::More) >= 0.96
+perl(Test::Tolerant)
+perl(namespace::clean)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

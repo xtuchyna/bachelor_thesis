@@ -1,0 +1,26 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(File::Find::Rule)
+perl(File::Find::Rule::Perl)
+perl(File::Find::Rule::VCS) >= 1.02
+perl(File::Spec::Functions)
+perl(Module::Extract) >= 0.01
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Module::Manifest) >= 0.01
+perl(Module::Math::Depends) >= 0.02
+perl(PPI) >= 1.118
+perl(PPI::Document::File)
+perl(Params::Util) >= 0.17
+perl(Test::More) >= 0.47
+perl(YAML::Tiny) >= 1.00
+perl(base)
+perl(inc::Module::Install)
+perl(strict)
+perl(vars)
+perl(version) >= 0.74
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,4 @@
+cmake
+doxygen
+gnuradio-devel
+swig

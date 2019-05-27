@@ -1,0 +1,16 @@
+bcg729-devel
+cmake >= 2.4
+compat-openssl10-devel
+flite-devel
+gcc
+gsm-devel
+hiredis-devel
+ilbc-devel
+libevent-devel
+libsamplerate-devel
+mISDN-devel
+mysql++-devel
+python2-devel
+spandsp-devel
+speex-devel
+systemd

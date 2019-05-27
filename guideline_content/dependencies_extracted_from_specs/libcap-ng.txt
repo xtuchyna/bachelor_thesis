@@ -1,0 +1,5 @@
+kernel-headers >= 2.6.11
+libattr-devel
+python2-devel
+python3-devel
+swig

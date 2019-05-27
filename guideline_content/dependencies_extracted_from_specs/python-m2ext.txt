@@ -1,0 +1,5 @@
+m2crypto
+openssl-devel
+pkgconfig
+python2-devel
+swig

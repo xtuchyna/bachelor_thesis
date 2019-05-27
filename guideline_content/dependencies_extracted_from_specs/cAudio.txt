@@ -1,0 +1,7 @@
+cmake
+doxygen
+gcc-c++
+graphviz
+libogg-devel
+libvorbis-devel
+openal-soft-devel

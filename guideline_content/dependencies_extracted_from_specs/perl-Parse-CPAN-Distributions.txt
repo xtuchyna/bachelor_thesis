@@ -1,0 +1,17 @@
+glibc-common
+perl(CPAN::DistnameInfo)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Path)
+perl(File::Slurp)
+perl(File::Temp)
+perl(IO::File)
+perl(IO::Zlib)
+perl(LWP::UserAgent)
+perl(Test::More) >= 0.70
+perl(strict)
+perl(vars)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,4 @@
+chrpath
+cmake
+help2man
+pcre-devel

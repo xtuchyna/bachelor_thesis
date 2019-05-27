@@ -1,0 +1,36 @@
+findutils
+make
+perl(Catalyst) >= 5.30
+perl(Catalyst::Controller)
+perl(Catalyst::Log)
+perl(Catalyst::Plugin::SubRequest)
+perl(Catalyst::Runtime) >= 5.80008
+perl(Catalyst::Test)
+perl(Catalyst::Utils)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::stat)
+perl(FindBin)
+perl(IO::File)
+perl(MIME::Types) >= 1.25
+perl(Module::Install::AuthorRequires)
+perl(Module::Install::AuthorTests)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Can)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moose)
+perl(MooseX::Types)
+perl(Test::More)
+perl(Test::NoTabs)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(base)
+perl(inc::Module::Install) >= 0.91
+perl(lib)
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

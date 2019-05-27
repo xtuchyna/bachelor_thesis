@@ -1,0 +1,4 @@
+R-devel >= 3.0.0
+tcl-devel
+tex(latex)
+tk-devel

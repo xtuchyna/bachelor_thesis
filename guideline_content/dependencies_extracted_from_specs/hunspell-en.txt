@@ -1,0 +1,4 @@
+aspell
+dos2unix
+perl-Getopt-Long
+zip

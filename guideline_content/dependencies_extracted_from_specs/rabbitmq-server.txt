@@ -1,0 +1,8 @@
+erlang >= 18
+libxslt
+python
+python-simplejson
+rsync
+systemd
+xmlto
+zip

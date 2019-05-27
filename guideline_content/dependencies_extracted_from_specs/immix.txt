@@ -1,0 +1,4 @@
+desktop-file-utils
+exiv2-devel
+fftw-devel
+qt4-devel

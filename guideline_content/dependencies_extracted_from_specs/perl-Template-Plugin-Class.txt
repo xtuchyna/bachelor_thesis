@@ -1,0 +1,4 @@
+perl(Module::Build)
+perl(Template::Plugin)
+perl(Test::More)
+perl-generators

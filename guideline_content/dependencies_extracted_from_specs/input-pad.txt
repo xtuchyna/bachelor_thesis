@@ -1,0 +1,10 @@
+gettext-devel
+gobject-introspection-devel
+gtk3-devel
+intltool
+libXtst-devel
+libtool
+libxkbfile-devel
+libxklavier-devel >= 4.0
+libxml2-devel >= 2.0
+pkgconfig

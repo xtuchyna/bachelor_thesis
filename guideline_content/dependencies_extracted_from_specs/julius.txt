@@ -1,0 +1,14 @@
+SDL2-devel
+alsa-lib-devel
+autoconf
+automake
+bison
+flex
+libsndfile-devel
+libtool
+nkf
+perl(Jcode)
+perl-generators
+pulseaudio-libs-devel
+readline-devel
+zlib-devel

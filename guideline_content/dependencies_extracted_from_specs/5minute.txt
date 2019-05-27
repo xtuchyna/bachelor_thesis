@@ -1,0 +1,10 @@
+pandoc
+python3-cinderclient
+python3-devel
+python3-heatclient
+python3-keystoneclient
+python3-neutronclient
+python3-novaclient
+python3-prettytable
+python3-setuptools
+python3-xmltodict

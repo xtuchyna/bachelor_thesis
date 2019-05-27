@@ -1,0 +1,17 @@
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Spec)
+perl(HTML::Entities)
+perl(HTML::TokeParser)
+perl(HTTP::Request::Params)
+perl(LWP::MemberMixin)
+perl(LWP::UserAgent)
+perl(Test::Pod) >= 0.95
+perl(URI::Escape)
+perl(URI::QueryParam)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

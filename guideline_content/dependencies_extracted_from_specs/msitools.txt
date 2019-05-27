@@ -1,0 +1,7 @@
+glib2-devel
+gobject-introspection-devel
+intltool
+libgcab1-devel >= 0.2
+libgsf-devel
+libuuid-devel
+vala-tools

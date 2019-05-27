@@ -1,0 +1,4 @@
+mercurial
+python-dulwich
+python-setuptools
+python2-devel

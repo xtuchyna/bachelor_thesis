@@ -1,0 +1,9 @@
+maven-local
+mvn(commons-beanutils:commons-beanutils)
+mvn(commons-digester:commons-digester)
+mvn(commons-logging:commons-logging)
+mvn(javax.portlet:portlet-api)
+mvn(javax.servlet:javax.servlet-api)
+mvn(junit:junit)
+mvn(org.apache.commons:commons-parent:pom:)
+mvn(org.jboss.spec.javax.faces:jboss-jsf-api_2.1_spec)

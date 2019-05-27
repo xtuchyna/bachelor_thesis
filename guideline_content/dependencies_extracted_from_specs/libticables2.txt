@@ -1,0 +1,9 @@
+autoconf
+automake
+gettext
+gettext-devel
+glib2-devel
+libtool
+libusb1-devel
+pkgconfig
+tfdocgen

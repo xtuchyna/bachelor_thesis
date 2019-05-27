@@ -1,0 +1,14 @@
+PyQt4-devel
+pkgconfig(Qt5Designer)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Widgets)
+pkgconfig(QtDesigner)
+pkgconfig(QtGui)
+pkgconfig(QtScript)
+pkgconfig(QtXml)
+python-qt5
+python-qt5-devel
+python3-PyQt4-devel
+python3-qt5
+python3-qt5-devel
+sip-devel >= 4.19

@@ -1,0 +1,27 @@
+findutils
+make
+perl(Carp)
+perl(Catalyst) >= 5.80000
+perl(Catalyst::ClassData)
+perl(Catalyst::Controller)
+perl(Catalyst::Utils)
+perl(Class::Accessor::Fast)
+perl(MRO::Compat)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moose)
+perl(Scalar::Util)
+perl(Storable)
+perl(Task::Weaken)
+perl(Test::Deep)
+perl(Test::Exception)
+perl(Test::More) >= 0.88
+perl(Test::WWW::Mechanize::Catalyst)
+perl(base)
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

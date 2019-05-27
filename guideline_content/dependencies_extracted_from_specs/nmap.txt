@@ -1,0 +1,17 @@
+autoconf
+automake
+desktop-file-utils
+dos2unix
+gcc-c++
+gettext-devel
+gtk2-devel
+libpcap-devel
+libpng-devel
+libssh2-devel
+libtool
+lua-devel
+openssl-devel
+pcre-devel
+pygtk2-devel
+python2 >= 2.5
+python2-devel

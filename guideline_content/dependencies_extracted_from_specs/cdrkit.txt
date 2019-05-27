@@ -1,0 +1,8 @@
+bzip2-devel
+cdparanoia-devel
+cmake
+file-devel
+libcap-devel
+perl-generators
+perl-interpreter
+zlib-devel

@@ -1,0 +1,5 @@
+python-argparse
+python-devel
+python-nose
+python-setuptools
+python-sphinx

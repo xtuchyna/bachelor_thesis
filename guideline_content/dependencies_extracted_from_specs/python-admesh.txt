@@ -1,0 +1,6 @@
+admesh-devel >= 0.98
+python3-Cython
+python3-devel
+python3-pytest
+python3-pytest-runner
+python3-setuptools

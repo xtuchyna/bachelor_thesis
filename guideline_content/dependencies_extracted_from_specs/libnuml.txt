@@ -1,0 +1,12 @@
+bzip2-devel
+cmake
+doxygen
+java-1.8.0-openjdk-devel
+java-devel
+libsbml-devel
+libxml2-devel
+python2-devel
+python3-devel
+swig
+xerces-c-devel
+zlib-devel

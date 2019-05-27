@@ -1,0 +1,4 @@
+gradle-local
+mvn(gnu-regexp:gnu-regexp)
+mvn(javax.help:javahelp)
+mvn(org.dpolivaev.mnemonicsetter:mnemonicsetter)

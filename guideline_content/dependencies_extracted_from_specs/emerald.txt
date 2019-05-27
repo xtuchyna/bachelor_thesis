@@ -1,0 +1,9 @@
+compiz-devel >= 0.8.14
+desktop-file-utils
+gettext-devel
+gtk3-devel
+intltool
+libXres-devel
+libtool
+libwnck3-devel
+perl(XML::Parser)

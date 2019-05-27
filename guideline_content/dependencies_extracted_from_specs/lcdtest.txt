@@ -1,0 +1,5 @@
+SDL_image-devel
+SDL_ttf-devel
+desktop-file-utils
+netpbm-progs
+scons >= 1.2.0

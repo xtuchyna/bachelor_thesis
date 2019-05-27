@@ -1,0 +1,13 @@
+perl(Capture::Tiny)
+perl(Carp)
+perl(Data::Dumper)
+perl(Email::Abstract)
+perl(Email::MIME) >= 1.861
+perl(Email::MIME::ContentType)
+perl(Email::MIME::Modifier)
+perl(Email::Simple)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.08
+perl-generators

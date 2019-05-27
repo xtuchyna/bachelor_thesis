@@ -1,0 +1,12 @@
+cmake
+environment-modules
+gmp-devel
+libmpc-devel
+metis-devel >= 5.1.0
+mpfr-devel
+mpich-devel
+openblas-devel
+openmpi-devel
+python2-devel
+qd-devel
+qt5-qtbase-devel

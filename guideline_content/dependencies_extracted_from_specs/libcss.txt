@@ -1,0 +1,4 @@
+netsurf-buildsystem
+pkgconfig(check)
+pkgconfig(libparserutils)
+pkgconfig(libwapcaplet)

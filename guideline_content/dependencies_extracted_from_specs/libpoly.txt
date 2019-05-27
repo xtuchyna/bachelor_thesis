@@ -1,0 +1,5 @@
+cmake
+gcc
+gmp-devel
+python2-devel
+python2-sympy

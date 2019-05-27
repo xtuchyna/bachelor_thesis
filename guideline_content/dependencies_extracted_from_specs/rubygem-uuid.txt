@@ -1,0 +1,4 @@
+rubygem(macaddr)
+rubygem(mocha)
+rubygem(test-unit)
+rubygems-devel

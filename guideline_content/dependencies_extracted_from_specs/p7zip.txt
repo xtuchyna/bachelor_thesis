@@ -1,0 +1,4 @@
+cmake
+kde-filesystem
+wxGTK-devel
+yasm

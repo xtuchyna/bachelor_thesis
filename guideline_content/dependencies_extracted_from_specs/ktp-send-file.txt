@@ -1,0 +1,8 @@
+extra-cmake-modules
+kf5-kcmutils-devel
+kf5-ki18n-devel
+kf5-kiconthemes-devel
+kf5-kio-devel
+kf5-rpm-macros
+ktp-common-internals-devel >= 17.12
+qt5-qtbase-devel

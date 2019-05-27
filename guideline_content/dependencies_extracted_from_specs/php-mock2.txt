@@ -1,0 +1,4 @@
+(php-composer(phpunit/php-text-template) >= 1 with php-composer(phpunit/php-text-template) < 2)
+php(language) >= 5.6
+php-composer(fedora/autoloader)
+php-phpunit-PHPUnit >= 5.7

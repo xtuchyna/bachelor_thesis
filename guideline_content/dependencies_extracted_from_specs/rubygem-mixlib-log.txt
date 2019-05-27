@@ -1,0 +1,4 @@
+ruby(release)
+ruby(rubygems)
+rubygem(rspec)
+rubygems-devel

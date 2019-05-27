@@ -1,0 +1,21 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(Getopt::Std)
+perl(Pod::ParseUtils)
+perl(Pod::Parser)
+perl(Test)
+perl(Test::Assertions::TestScript)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(URI::Escape)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

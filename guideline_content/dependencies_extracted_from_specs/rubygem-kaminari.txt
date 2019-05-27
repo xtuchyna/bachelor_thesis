@@ -1,0 +1,9 @@
+rubygem(capybara) >= 1.0
+rubygem(database_cleaner)
+rubygem(rails) >= 3.0.0
+rubygem(rr)
+rubygem(rspec) < 3.0
+rubygem(rspec-rails)
+rubygem(sqlite3)
+rubygem(tzinfo)
+rubygems-devel

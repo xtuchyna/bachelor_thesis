@@ -1,0 +1,7 @@
+hiera < 4
+hiera >= 2.0
+ruby >= 1.8.7
+ruby-devel >= 1.8.7
+ruby-facter < 4
+ruby-facter >= 3.0
+systemd

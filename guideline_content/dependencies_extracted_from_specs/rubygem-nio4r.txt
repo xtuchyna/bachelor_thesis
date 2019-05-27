@@ -1,0 +1,5 @@
+gcc
+ruby(release)
+ruby-devel
+rubygem(rspec)
+rubygems-devel

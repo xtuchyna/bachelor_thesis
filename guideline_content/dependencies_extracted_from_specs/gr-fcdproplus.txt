@@ -1,0 +1,9 @@
+alsa-lib-devel
+cmake
+dos2unix
+doxygen
+gnuradio-devel
+graphviz
+hidapi-devel
+libusbx-devel
+swig

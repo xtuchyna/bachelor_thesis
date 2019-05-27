@@ -1,0 +1,8 @@
+doxygen
+gcc-gfortran
+ghostscript
+ncurses-devel
+octave-devel
+python2-devel
+swig
+tex(latex)

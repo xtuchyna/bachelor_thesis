@@ -1,0 +1,8 @@
+nodejs-packaging
+npm(dargs)
+npm(execa)
+npm(gulp-util)
+npm(npm-run-path)
+npm(plur)
+npm(resolve-from)
+npm(through2)

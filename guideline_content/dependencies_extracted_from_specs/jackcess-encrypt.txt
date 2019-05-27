@@ -1,0 +1,9 @@
+maven-local
+mvn(com.healthmarketscience.jackcess:jackcess)
+mvn(com.healthmarketscience.jackcess:jackcess::tests:)
+mvn(com.sun.xml.bind:jaxb-impl)
+mvn(com.sun.xml.bind:jaxb-xjc)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.bouncycastle:bcprov-jdk15on)
+mvn(org.codehaus.mojo:jaxb2-maven-plugin)

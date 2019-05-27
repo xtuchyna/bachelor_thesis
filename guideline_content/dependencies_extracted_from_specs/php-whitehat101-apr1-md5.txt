@@ -1,0 +1,4 @@
+/usr/bin/phpab
+/usr/bin/phpunit
+php(language) >= 5.3.0
+php-openssl

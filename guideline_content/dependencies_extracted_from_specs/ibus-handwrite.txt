@@ -1,0 +1,5 @@
+autoconf
+gettext
+gtk3-devel
+ibus-devel
+zinnia-devel

@@ -1,0 +1,11 @@
+ant >= 1.6
+ant-contrib
+ant-junit
+bea-stax-api
+java-devel
+javapackages-local
+jpackage-utils >= 1.5
+junit
+saxon >= 8
+xml-commons-resolver >= 1.1
+xmlbeans

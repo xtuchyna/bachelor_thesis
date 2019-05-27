@@ -1,0 +1,6 @@
+python2-astroML
+python2-devel
+python2-setuptools
+python3-astroML
+python3-devel
+python3-setuptools

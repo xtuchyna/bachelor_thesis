@@ -1,0 +1,6 @@
+/usr/bin/python
+SDL-devel
+SDL_mixer-devel
+SDL_net-devel
+desktop-file-utils
+libsamplerate-devel

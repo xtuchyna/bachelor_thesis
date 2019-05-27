@@ -1,0 +1,12 @@
+R-devel
+R-grDevices
+R-graphics
+R-methods
+R-sp-devel
+R-stats
+R-utils
+gdal-devel >= 1.6.3
+proj-devel >= 4.4.9
+proj-epsg
+proj-nad
+tex(latex)

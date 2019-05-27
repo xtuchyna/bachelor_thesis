@@ -1,0 +1,13 @@
+pytest
+python-decorator
+python-enum34
+python-ipython_genutils
+python-nose
+python-six
+python2-devel
+python3-decorator
+python3-devel
+python3-ipython_genutils
+python3-nose
+python3-pytest
+python3-six

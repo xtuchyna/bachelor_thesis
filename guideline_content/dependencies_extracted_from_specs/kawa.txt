@@ -1,0 +1,10 @@
+ant
+antlr
+groff
+java-devel >= 1:1.7.0
+libtool
+ncurses-devel
+readline-devel
+servlet3
+texinfo
+util-linux-ng

@@ -1,0 +1,16 @@
+gcc-c++
+maven-local
+mvn(javax.inject:javax.inject)
+mvn(junit:junit)
+mvn(net.java.dev.jna:jna)
+mvn(net.java.dev.jna:jna-platform)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.felix:org.apache.felix.framework)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.codehaus.mojo:exec-maven-plugin)
+mvn(org.easymock:easymock)
+mvn(org.jetbrains:annotations)
+mvn(org.osgi:org.osgi.compendium)
+mvn(org.osgi:org.osgi.core)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-simple)

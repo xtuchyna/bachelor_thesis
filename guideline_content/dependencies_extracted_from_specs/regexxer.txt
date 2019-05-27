@@ -1,0 +1,6 @@
+desktop-file-utils
+gconfmm26-devel >= 2.6.1
+gettext
+libglademm24-devel
+libsigc++20-devel
+pcre-devel >= 5.0.0

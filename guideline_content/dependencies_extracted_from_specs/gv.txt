@@ -1,0 +1,6 @@
+/usr/bin/makeinfo
+Xaw3d-devel
+bzip2-devel
+desktop-file-utils
+libXinerama-devel
+zlib-devel

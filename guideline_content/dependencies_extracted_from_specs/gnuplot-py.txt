@@ -1,0 +1,3 @@
+numpy
+python-devel
+python-setuptools

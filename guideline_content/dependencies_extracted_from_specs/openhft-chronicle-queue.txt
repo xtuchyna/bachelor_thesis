@@ -1,0 +1,5 @@
+maven-local
+mvn(net.openhft:affinity)
+mvn(net.openhft:lang)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.slf4j:slf4j-api)

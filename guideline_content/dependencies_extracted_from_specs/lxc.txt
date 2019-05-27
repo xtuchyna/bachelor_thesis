@@ -1,0 +1,11 @@
+docbook2X
+doxygen
+kernel-headers
+libcap-devel
+libselinux-devel
+libtool
+pkgconfig(bash-completion)
+pkgconfig(libseccomp)
+pkgconfig(lua)
+pkgconfig(python3) >= 3.2
+systemd

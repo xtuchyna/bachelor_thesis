@@ -1,0 +1,4 @@
+python3-devel
+python3-flit
+python3-pip
+python3-pygments

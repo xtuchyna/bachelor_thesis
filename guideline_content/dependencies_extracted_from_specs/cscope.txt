@@ -1,0 +1,7 @@
+autoconf
+automake
+bison
+flex
+m4
+ncurses-devel
+pkgconfig

@@ -1,0 +1,6 @@
+babel
+desktop-file-utils
+gettext
+pkgconfig
+python2-devel
+systemd-units

@@ -1,0 +1,13 @@
+asciidoc
+docbook-style-xsl
+git
+libxslt
+python-bugzilla
+python3-bugzilla
+python3-devel
+python3-setuptools
+rpm-build
+rpm-python3
+rpmdevtools
+tar
+which

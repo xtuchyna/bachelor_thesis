@@ -1,0 +1,12 @@
+perl(Class::Accessor::Lite)
+perl(Data::Dumper)
+perl(Module::Build)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod)
+perl(overload)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

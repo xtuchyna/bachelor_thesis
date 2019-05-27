@@ -1,0 +1,7 @@
+PyQt4-devel
+cmake
+desktop-file-utils
+ibus-devel
+python3-PyQt4-devel
+python3-devel
+python3-gobject

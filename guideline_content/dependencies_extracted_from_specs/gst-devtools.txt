@@ -1,0 +1,9 @@
+gobject-introspection-devel
+gtk-doc
+json-glib-devel
+meson
+pkgconfig(glib-2.0)
+pkgconfig(gobject-2.0)
+pkgconfig(gstreamer-1.0)
+pkgconfig(gstreamer-pbutils-1.0)
+python3-devel

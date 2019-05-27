@@ -1,0 +1,13 @@
+nodejs-packaging
+npm(async)
+npm(buffer-writer)
+npm(co)
+npm(js-string-escape)
+npm(packet-reader)
+npm(pg-connection-string)
+npm(pg-native)
+npm(pg-pool)
+npm(pg-types)
+npm(pgpass)
+npm(semver)
+postgresql-server

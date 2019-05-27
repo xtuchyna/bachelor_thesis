@@ -1,0 +1,5 @@
+jboss-parent
+jboss-transaction-1.2-api
+maven-enforcer-plugin
+maven-local
+maven-plugin-bundle

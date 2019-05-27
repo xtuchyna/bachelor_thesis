@@ -1,0 +1,20 @@
+findutils
+make
+perl(Carp)
+perl(Class::XSAccessor) >= 1.05
+perl(Class::XSAccessor::Array) >= 1.05
+perl(DBD::SQLite) >= 1.27
+perl(DBI) >= 1.607
+perl(File::Basename)
+perl(File::Path) >= 2.08
+perl(File::Remove) >= 1.40
+perl(File::Spec) >= 0.80
+perl(File::Spec::Functions)
+perl(File::Temp) >= 0.20
+perl(Params::Util) >= 1.00
+perl(Test::More) >= 0.47
+perl(Test::Script) >= 1.06
+perl(inc::Module::Install::DSL) >= 1.06
+perl(vars)
+perl-generators
+perl-interpreter

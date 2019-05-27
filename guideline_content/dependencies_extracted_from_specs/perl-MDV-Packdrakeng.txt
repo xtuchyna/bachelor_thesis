@@ -1,0 +1,11 @@
+make
+perl(Compress::Zlib)
+perl(Digest::MD5)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Path)
+perl(POSIX)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl-generators
+perl-interpreter

@@ -1,0 +1,9 @@
+bzip2-devel
+expat-devel
+libicu-devel
+libxslt-devel
+libyaz-devel
+perl-generators
+tcl
+tcp_wrappers-devel
+zlib-devel

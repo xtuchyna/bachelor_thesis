@@ -1,0 +1,4 @@
+common-lisp-controller
+emacs
+sbcl
+texinfo

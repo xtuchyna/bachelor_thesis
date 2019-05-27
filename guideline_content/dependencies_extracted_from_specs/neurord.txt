@@ -1,0 +1,11 @@
+/usr/bin/rst2html
+apache-commons-cli
+jblas
+log4j
+maven-antrun-plugin
+maven-local
+maven-release-plugin
+mvn(org.hdfgroup:jhdf5)
+mvn(org.hdfgroup:jhdfobj)
+sonatype-oss-parent
+testng

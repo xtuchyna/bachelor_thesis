@@ -1,0 +1,14 @@
+cmake
+desktop-file-utils
+gettext
+intltool
+libappstream-glib
+pkgconfig(clutter-gst-3.0)
+pkgconfig(clutter-gtk-1.0)
+pkgconfig(gee-0.8)
+pkgconfig(gio-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(granite)
+pkgconfig(gtk+-3.0)
+vala >= 0.24
+vala-tools

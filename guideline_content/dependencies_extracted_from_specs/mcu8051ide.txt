@@ -1,0 +1,9 @@
+bwidget
+cmake
+desktop-file-utils
+itcl >= 3.4
+rxvt-unicode
+tcllib
+tdom >= 0.8
+tk-devel
+tkimg

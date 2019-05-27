@@ -1,0 +1,3 @@
+pkgconfig(bzip2)
+pkgconfig(openssl) < 1.1.0
+pkgconfig(zlib)

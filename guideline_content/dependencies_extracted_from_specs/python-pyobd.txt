@@ -1,0 +1,5 @@
+ImageMagick
+desktop-file-utils
+dos2unix
+python2-devel
+wxPython

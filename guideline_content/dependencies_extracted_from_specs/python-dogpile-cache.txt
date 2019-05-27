@@ -1,0 +1,10 @@
+python-mako
+python-pytest-cov
+python2-devel
+python2-mock
+python2-setuptools
+python3-devel
+python3-mako
+python3-mock
+python3-pytest-cov
+python3-setuptools

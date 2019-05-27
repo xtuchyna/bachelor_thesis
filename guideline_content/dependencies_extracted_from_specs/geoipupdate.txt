@@ -1,0 +1,11 @@
+coreutils
+gcc
+libcurl-devel
+make
+perl(File::Copy)
+perl(File::Spec)
+perl(LWP::Simple)
+perl(PerlIO::gzip)
+perl(strict)
+perl-generators
+zlib-devel

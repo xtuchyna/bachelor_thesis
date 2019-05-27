@@ -1,0 +1,15 @@
+cmake
+desktop-file-utils
+fdupes
+gcc
+gettext
+gperf
+jemalloc-devel
+libtermkey-devel
+libuv-devel
+libvterm-devel
+lua-devel
+lua-lpeg
+lua-mpack
+msgpack-devel >= 1.2.0
+unibilium-devel

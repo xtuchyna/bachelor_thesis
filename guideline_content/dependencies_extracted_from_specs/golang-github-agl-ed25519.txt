@@ -1,0 +1,2 @@
+compiler(go-compiler)
+golang(code.google.com/p/go.crypto/curve25519)

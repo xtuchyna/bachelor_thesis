@@ -1,0 +1,11 @@
+gcc-c++
+gettext-devel
+ibus-devel >= 1.3
+intltool
+libpinyin-devel >= 2.0.91
+libpinyin-tools
+libtool
+opencc-devel >= 1.0.2
+pkgconfig
+python3-devel
+sqlite-devel

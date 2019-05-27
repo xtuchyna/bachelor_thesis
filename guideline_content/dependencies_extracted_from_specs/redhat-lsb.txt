@@ -1,0 +1,4 @@
+gcc
+glibc-static
+perl(Getopt::Long)
+perl-generators

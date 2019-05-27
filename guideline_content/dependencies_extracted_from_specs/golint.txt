@@ -1,0 +1,2 @@
+compiler(go-compiler)
+golang(golang.org/x/tools/go/gcimporter15)

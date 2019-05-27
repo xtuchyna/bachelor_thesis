@@ -1,0 +1,24 @@
+/usr/bin/appstream-util
+/usr/bin/xsltproc
+chrpath
+desktop-file-utils
+docbook-dtds
+docbook-style-xsl
+gettext
+intltool
+itstool
+libXtst-devel
+pkgconfig(clutter-1.0)
+pkgconfig(clutter-gst-3.0)
+pkgconfig(clutter-gtk-1.0)
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(gio-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(gnome-desktop-3.0) >= 3.27.90
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gstreamer-pbutils-1.0)
+pkgconfig(gstreamer-plugins-bad-1.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(libcanberra-gtk3)
+pkgconfig(x11)
+vala

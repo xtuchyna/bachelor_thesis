@@ -1,0 +1,6 @@
+ruby(release) >= 1.9.3
+rubygem(json)
+rubygem(occi-api) < 5
+rubygem(occi-api) >= 4.3.14
+rubygem(rspec)
+rubygems-devel

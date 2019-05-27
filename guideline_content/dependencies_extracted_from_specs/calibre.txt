@@ -1,0 +1,38 @@
+bash-completion
+chmlib-devel
+desktop-file-utils
+fontconfig-devel
+glib2-devel
+libXrender-devel
+libappstream-glib
+libicu-devel
+libinput-devel
+libmtp-devel
+libpng-devel
+libxkbcommon-devel
+openssl-devel
+podofo-devel
+python >= 2.7
+python-BeautifulSoup
+python-apsw
+python-cssutils >= 0.9.9
+python-dateutil
+python-devel >= 2.7
+python-imaging
+python-lxml
+python-mechanize
+python-qt5
+python-qt5-devel
+python-qt5-webkit
+python-setuptools
+python2-html5-parser
+python2-msgpack
+python2-regex
+qt5-qtbase-devel
+qt5-qtbase-private-devel
+qt5-qtbase-static
+qt5-qtwebkit-devel
+sqlite-devel
+systemd-devel
+web-assets-devel
+xdg-utils

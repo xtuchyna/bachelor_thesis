@@ -1,0 +1,17 @@
+cmake
+mingw32-clucene
+mingw32-curl
+mingw32-filesystem >= 95
+mingw32-glib2
+mingw32-icu
+mingw32-libgnurx
+mingw32-winpthreads
+mingw32-zlib
+mingw64-clucene
+mingw64-curl
+mingw64-filesystem >= 95
+mingw64-glib2
+mingw64-icu
+mingw64-libgnurx
+mingw64-winpthreads
+mingw64-zlib

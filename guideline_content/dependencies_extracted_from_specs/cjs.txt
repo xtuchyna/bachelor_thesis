@@ -1,0 +1,11 @@
+autoconf-archive
+gcc-c++
+intltool
+libtool
+pkgconfig(cairo-gobject)
+pkgconfig(dbus-glib-1)
+pkgconfig(gobject-introspection-1.0) >= 1.38.0
+pkgconfig(gtk+-3.0)
+pkgconfig(gtk-doc)
+pkgconfig(mozjs-52)
+readline-devel

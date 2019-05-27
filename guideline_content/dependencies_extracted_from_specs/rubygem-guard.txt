@@ -1,0 +1,12 @@
+ruby >= 1.9.3
+ruby(release)
+rubygem(formatador)
+rubygem(listen)
+rubygem(lumberjack)
+rubygem(nenv)
+rubygem(notiffany)
+rubygem(pry)
+rubygem(rspec)
+rubygem(shellany)
+rubygem(thor)
+rubygems-devel

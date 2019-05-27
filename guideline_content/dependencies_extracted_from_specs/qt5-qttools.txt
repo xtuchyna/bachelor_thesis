@@ -1,0 +1,7 @@
+/usr/bin/file
+cmake
+desktop-file-utils
+pkgconfig(Qt5Qml)
+qt5-qtbase-private-devel
+qt5-qtbase-static >= 5.10.1
+qt5-qtdeclarative-static >= 5.10.1

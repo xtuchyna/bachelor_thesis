@@ -1,0 +1,12 @@
+nodejs-packaging
+npm(escodegen)
+npm(fileset)
+npm(handlebars)
+npm(js-yaml)
+npm(nodeunit)
+npm(once)
+npm(requirejs)
+npm(resolve)
+npm(rimraf)
+npm(supports-color)
+npm(which)

@@ -1,0 +1,5 @@
+cmake(Qt5Gui)
+cmake(Qt5Qml)
+cmake(Qt5Quick)
+extra-cmake-modules
+kf5-rpm-macros

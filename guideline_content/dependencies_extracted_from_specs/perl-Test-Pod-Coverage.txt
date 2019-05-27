@@ -1,0 +1,13 @@
+perl(ExtUtils::MakeMaker)
+perl(Pod::Coverage)
+perl(Pod::Coverage::CountParents)
+perl(Test::Builder)
+perl(Test::Builder::Tester)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

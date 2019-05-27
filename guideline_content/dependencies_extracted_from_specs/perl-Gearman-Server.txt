@@ -1,0 +1,26 @@
+findutils
+make
+perl(Carp)
+perl(Danga::Socket) >= 1.52
+perl(Errno)
+perl(ExtUtils::MakeMaker)
+perl(Gearman::Util)
+perl(Getopt::Long)
+perl(IO::Handle)
+perl(IO::Socket::INET)
+perl(POSIX)
+perl(Pod::Usage)
+perl(Scalar::Util)
+perl(Socket)
+perl(Sys::Hostname)
+perl(Test::More)
+perl(Test::Script) >= 1.12
+perl(base)
+perl(constant)
+perl(fields)
+perl(strict)
+perl(vars)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

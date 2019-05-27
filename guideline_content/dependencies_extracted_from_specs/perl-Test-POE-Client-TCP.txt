@@ -1,0 +1,16 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Find)
+perl(File::Temp)
+perl(POE) >= 1.280
+perl(POE::Filter)
+perl(POE::Filter::Line)
+perl(POE::Wheel::ReadWrite)
+perl(POE::Wheel::SocketFactory)
+perl(POSIX)
+perl(Socket)
+perl(Test::More) >= 0.47
+perl(Test::Script) >= 1.05
+perl(Text::ParseWords)
+perl(base)
+perl-generators

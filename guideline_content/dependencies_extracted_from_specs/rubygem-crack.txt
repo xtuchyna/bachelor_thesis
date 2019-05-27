@@ -1,0 +1,4 @@
+rubygem(bigdecimal)
+rubygem(minitest)
+rubygem(safe_yaml)
+rubygems-devel

@@ -1,0 +1,16 @@
+perl(CGI)
+perl(Carp)
+perl(Data::FormValidator) >= 3.61
+perl(DateTime) >= 0.23
+perl(DateTime::Format::Builder)
+perl(DateTime::Format::MySQL)
+perl(DateTime::Format::Pg)
+perl(DateTime::Format::Strptime) >= 1.00
+perl(Exporter)
+perl(Module::Build) >= 0.36
+perl(Scalar::Util)
+perl(Test::More)
+perl(lib)
+perl(strict)
+perl-generators
+perl-interpreter

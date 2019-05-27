@@ -1,0 +1,27 @@
+ant
+apache-commons-codec
+apache-commons-io
+apache-commons-lang3
+beust-jcommander
+dom4j
+findbugs
+glassfish-jax-rs-api
+guava
+hamcrest
+hibernate-jpa-2.1-api
+httpcomponents-client
+httpcomponents-core
+java-devel >= 1:1.6.0
+jaxen
+jersey
+jpackage-utils
+junit
+log4j
+mockito
+slf4j
+springframework-beans
+springframework-context
+springframework-tx
+testng
+tomcat-jsp-2.3-api
+tomcat-servlet-3.1-api

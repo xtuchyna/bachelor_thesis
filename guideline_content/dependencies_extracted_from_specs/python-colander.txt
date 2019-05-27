@@ -1,0 +1,12 @@
+python2-coverage
+python2-devel
+python2-iso8601
+python2-nose
+python2-setuptools
+python2-translationstring
+python3-coverage
+python3-devel
+python3-iso8601
+python3-nose
+python3-setuptools
+python3-translationstring

@@ -1,0 +1,3 @@
+GConf2-devel >= 2.4.0
+glibmm24-devel >= 2.6.4
+gtkmm24-devel >= 2.4.0

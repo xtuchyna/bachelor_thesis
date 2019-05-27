@@ -1,0 +1,11 @@
+asciidoc
+augeas-devel
+boost-devel
+cmake
+gcc
+gcc-c++
+gettext-devel
+libxml2-devel
+libzypp-devel >= 17.1.4
+perl-generators
+readline-devel

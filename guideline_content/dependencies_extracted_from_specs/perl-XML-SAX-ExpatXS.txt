@@ -1,0 +1,12 @@
+expat-devel
+perl(Carp)
+perl(Config)
+perl(DynaLoader)
+perl(ExtUtils::MakeMaker)
+perl(IO::File)
+perl(Test)
+perl(XML::SAX) >= 0.96
+perl(XML::SAX::Base)
+perl(vars)
+perl-devel
+perl-generators

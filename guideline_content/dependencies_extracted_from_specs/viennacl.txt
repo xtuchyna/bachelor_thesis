@@ -1,0 +1,5 @@
+boost-devel
+cmake
+gcc-c++
+ocl-icd-devel
+opencl-headers

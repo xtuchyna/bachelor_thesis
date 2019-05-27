@@ -1,0 +1,23 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Class::DBI)
+perl(Class::DBI::Pg)
+perl(Class::DBI::SQLite)
+perl(Class::DBI::mysql)
+perl(DBD::SQLite)
+perl(DBI) >= 1.3
+perl(ExtUtils::MakeMaker)
+perl(Lingua::EN::Inflect)
+perl(Test::More) >= 0.32
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Text::Balanced)
+perl(base)
+perl(lib)
+perl(strict)
+perl(vars)
+perl-Pod-Perldoc
+perl-generators
+perl-interpreter

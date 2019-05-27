@@ -1,0 +1,17 @@
+dos2unix
+doxygen
+dpkg
+elfutils-devel
+gcc-c++
+libtool
+libxml2-devel
+mailcap
+python2-devel
+python2-koji
+python2-mock
+python2-pyxdg
+python2-rpm
+python2-sphinx
+python2-unittest2
+texinfo
+wget

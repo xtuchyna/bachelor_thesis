@@ -1,0 +1,16 @@
+git
+python-coverage
+python-fixtures
+python-hacking
+python-openstackdocstheme
+python-oslotest
+python-pbr
+python-positional
+python-sphinx
+python2-devel
+python3-coverage
+python3-devel
+python3-hacking
+python3-oslotest
+python3-pbr
+python3-positional

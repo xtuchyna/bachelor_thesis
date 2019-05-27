@@ -1,0 +1,30 @@
+coreutils
+findutils
+make
+perl(Cairo::GObject)
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(ExtUtils::Depends) >= 0.3
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::PkgConfig) >= 1
+perl(File::Spec)
+perl(Glib) >= 1.320
+perl(Glib::MakeHelper)
+perl(Glib::Object::Subclass)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Test::More)
+perl(XSLoader)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig(cairo-gobject)
+pkgconfig(gio-2.0)
+pkgconfig(gmodule-2.0) >= 2.0.0
+pkgconfig(gobject-introspection-1.0) >= 0.10.0
+pkgconfig(libffi) >= 3.0.0

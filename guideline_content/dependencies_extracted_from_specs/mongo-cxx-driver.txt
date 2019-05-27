@@ -1,0 +1,4 @@
+boost-devel >= 1.49
+compat-openssl10-devel
+cyrus-sasl-devel
+scons

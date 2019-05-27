@@ -1,0 +1,15 @@
+automake
+bison
+flex
+fuse-devel
+ghostscript-tools-dvipdf
+latex2html
+libattr-devel
+libibverbs-devel
+libselinux-devel
+lmdb-devel
+openssl-devel
+perl(Getopt::Long)
+perl(Math::BigInt)
+systemd
+texlive

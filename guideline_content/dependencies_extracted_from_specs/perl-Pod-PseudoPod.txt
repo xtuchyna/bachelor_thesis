@@ -1,0 +1,5 @@
+perl(HTML::Entities)
+perl(Module::Build)
+perl(Pod::Simple) >= 3.02
+perl(Test::More)
+perl-generators

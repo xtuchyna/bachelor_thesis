@@ -1,0 +1,5 @@
+cmake
+cppunit-devel
+doxygen
+eigen3-devel
+graphviz

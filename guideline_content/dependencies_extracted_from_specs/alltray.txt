@@ -1,0 +1,4 @@
+GConf2-devel
+desktop-file-utils
+gdk-pixbuf2-xlib-devel
+gtk2-devel

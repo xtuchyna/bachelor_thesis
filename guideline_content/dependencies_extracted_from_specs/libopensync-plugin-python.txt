@@ -1,0 +1,2 @@
+libopensync-devel = 1:0.22
+python2-devel

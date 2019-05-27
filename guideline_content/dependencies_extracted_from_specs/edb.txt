@@ -1,0 +1,8 @@
+boost-devel
+capstone-devel
+cmake
+desktop-file-utils
+gcc-c++
+graphviz
+libappstream-glib
+qt5-devel

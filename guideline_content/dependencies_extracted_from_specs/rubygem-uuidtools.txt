@@ -1,0 +1,6 @@
+/usr/sbin/ip
+ruby(release)
+rubygem(rspec-core)
+rubygem(rspec-expectations)
+rubygem(rspec-mocks)
+rubygems-devel

@@ -1,0 +1,13 @@
+GConf2-devel
+desktop-file-utils
+glib2-devel
+gnome-doc-utils
+gstreamer1-devel
+gtk3-devel
+intltool
+libXext-devel
+libXtst-devel
+libnotify-devel
+librsvg2-devel
+libxml2-devel
+scrollkeeper

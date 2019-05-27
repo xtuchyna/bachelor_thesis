@@ -1,0 +1,5 @@
+maven-local
+mvn(cglib:cglib)
+mvn(junit:junit)
+mvn(org.apache.commons:commons-parent:pom:)
+mvn(org.ow2.asm:asm-util)

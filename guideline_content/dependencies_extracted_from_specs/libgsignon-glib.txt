@@ -1,0 +1,9 @@
+gettext
+gtk-doc
+libtool
+pkgconfig
+pkgconfig(check)
+pkgconfig(glib-2.0)
+pkgconfig(gobject-introspection-1.0)
+vala
+vala-tools

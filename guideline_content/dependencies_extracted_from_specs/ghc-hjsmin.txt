@@ -1,0 +1,8 @@
+ghc-Cabal-devel
+ghc-blaze-builder-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-language-javascript-devel
+ghc-optparse-applicative-devel
+ghc-rpm-macros
+ghc-text-devel

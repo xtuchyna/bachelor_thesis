@@ -1,0 +1,7 @@
+augeas-devel >= 1.0.0
+pkgconfig
+ruby
+ruby-devel
+rubygem(rake)
+rubygem(rdoc)
+rubygem(test-unit)

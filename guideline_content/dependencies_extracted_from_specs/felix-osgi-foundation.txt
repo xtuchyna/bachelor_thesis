@@ -1,0 +1,5 @@
+felix-parent
+java-devel >= 1:1.6.0
+jpackage-utils
+maven-local
+mockito

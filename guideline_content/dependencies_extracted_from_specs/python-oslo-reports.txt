@@ -1,0 +1,24 @@
+python-coverage
+python-eventlet
+python-greenlet
+python-hacking
+python-oslo-config
+python-oslo-serialization
+python-oslo-sphinx >= 2.5.0
+python-oslo-utils
+python-oslotest
+python-pbr
+python-psutil
+python-sphinx
+python2-devel
+python3-coverage
+python3-devel
+python3-eventlet
+python3-greenlet
+python3-hacking
+python3-oslo-config
+python3-oslo-serialization
+python3-oslo-utils
+python3-oslotest
+python3-pbr
+python3-psutil

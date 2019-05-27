@@ -1,0 +1,12 @@
+perl(Carp)
+perl(Config::Any) >= 0.15
+perl(Config::Tiny)
+perl(ExtUtils::MakeMaker)
+perl(Log::Dispatch) >= 2.23
+perl(Log::Dispatch::Config)
+perl(Log::Dispatch::Configurator)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(YAML::XS)
+perl-generators

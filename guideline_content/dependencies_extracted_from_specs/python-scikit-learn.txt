@@ -1,0 +1,20 @@
+Cython
+atlas-devel
+blas-devel
+python2-devel
+python2-joblib
+python2-matplotlib
+python2-nose
+python2-numpy
+python2-pillow
+python2-scipy
+python2-six >= 1.4.1
+python3-Cython
+python3-devel
+python3-joblib
+python3-matplotlib
+python3-nose
+python3-numpy
+python3-pillow
+python3-scipy
+python3-six >= 1.4.1

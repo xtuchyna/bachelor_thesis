@@ -1,0 +1,12 @@
+gcc
+git-core
+numpy
+python2-devel
+python2-nibabel
+python2-nose
+python3-devel
+python3-nibabel
+python3-nose
+python3-numpy
+python3-scipy
+scipy

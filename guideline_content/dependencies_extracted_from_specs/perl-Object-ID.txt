@@ -1,0 +1,13 @@
+perl(Carp)
+perl(Data::UUID) >= 1.148
+perl(Hash::FieldHash) >= 0.10
+perl(Module::Build)
+perl(Sub::Name) >= 0.03
+perl(Test::More) >= 0.88
+perl(lib)
+perl(namespace::autoclean)
+perl(strict)
+perl(threads)
+perl(version) >= 0.77
+perl(warnings)
+perl-generators

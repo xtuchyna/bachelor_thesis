@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Parse::Template) >= 3.01
+perl(Symbol)
+perl(Test::More)
+perl(constant)
+perl(integer)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

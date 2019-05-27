@@ -1,0 +1,5 @@
+mocha
+nodejs-packaging
+npm(isobject)
+npm(should)
+npm(static-extend)

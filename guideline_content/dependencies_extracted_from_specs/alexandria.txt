@@ -1,0 +1,7 @@
+GConf2
+desktop-file-utils
+gettext
+intltool
+ruby(release)
+ruby-devel
+rubygem(rake)

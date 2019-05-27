@@ -1,0 +1,4 @@
+desktop-file-utils
+dos2unix
+janino
+maven-local

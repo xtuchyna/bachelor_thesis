@@ -1,0 +1,24 @@
+coreutils
+perl(B)
+perl(ExtUtils::Manifest)
+perl(File::Spec::Functions)
+perl(IO::Pipe)
+perl(List::Util) >= 1.33
+perl(Module::Build::Tiny) >= 0.035
+perl(Moose::Role)
+perl(Storable)
+perl(Symbol)
+perl(Test::Builder::Module)
+perl(Test::More) >= 0.88
+perl(Test::Output)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::Synopsis)
+perl(Test::Tester)
+perl(constant)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 4:5.10.0
+sed

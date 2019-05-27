@@ -1,0 +1,5 @@
+desktop-file-utils
+intltool
+pygobject3-devel
+python3-devel
+python3-setuptools

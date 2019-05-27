@@ -1,0 +1,4 @@
+mocha
+nodejs-packaging
+npm(should)
+npm(through2)

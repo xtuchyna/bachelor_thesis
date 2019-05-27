@@ -1,0 +1,9 @@
+autoconf
+automake
+cairo-devel
+libgeotiff-devel
+libjpeg-devel
+libpng-devel
+libtool
+libxml2-devel
+proj-devel

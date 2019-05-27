@@ -1,0 +1,7 @@
+clamav-devel >= 0.93
+curl-devel
+desktop-file-utils
+gettext
+gmp-devel
+kdelibs3-devel >= 3.5.2
+sqlite-devel >= 3.0

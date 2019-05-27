@@ -1,0 +1,6 @@
+alsa-lib-devel
+fftw-devel
+portaudio-devel
+pulseaudio-libs-devel
+python2-devel
+python2-setuptools

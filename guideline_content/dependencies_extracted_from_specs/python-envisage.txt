@@ -1,0 +1,9 @@
+python2-apptools
+python2-devel
+python2-setuptools
+python2-sphinx
+python2-traitsui
+python3-apptools
+python3-devel
+python3-setuptools
+python3-traitsui

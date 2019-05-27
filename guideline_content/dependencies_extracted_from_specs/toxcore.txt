@@ -1,0 +1,5 @@
+gcc
+libtool
+pkgconfig(libsodium)
+pkgconfig(opus)
+pkgconfig(vpx)

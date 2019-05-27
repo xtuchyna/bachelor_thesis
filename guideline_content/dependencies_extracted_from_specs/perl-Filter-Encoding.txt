@@ -1,0 +1,9 @@
+findutils
+make
+perl(Carp)
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(Filter::Util::Call)
+perl(utf8)
+perl-generators
+perl-interpreter

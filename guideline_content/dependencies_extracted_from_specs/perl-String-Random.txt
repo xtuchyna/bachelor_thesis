@@ -1,0 +1,10 @@
+perl(Carp)
+perl(Exporter)
+perl(Module::Build)
+perl(Test::More)
+perl(lib)
+perl(parent)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators

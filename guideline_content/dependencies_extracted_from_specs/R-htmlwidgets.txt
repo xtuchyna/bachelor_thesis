@@ -1,0 +1,5 @@
+R-devel
+R-htmltools
+R-jsonlite
+R-yaml
+tex(latex)

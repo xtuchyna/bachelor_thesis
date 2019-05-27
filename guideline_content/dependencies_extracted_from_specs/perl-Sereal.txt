@@ -1,0 +1,38 @@
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Devel::Peek)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Path)
+perl(File::Spec)
+perl(List::Util)
+perl(Scalar::Util)
+perl(Sereal::Decoder) >= 4.005
+perl(Sereal::Decoder::Constants)
+perl(Sereal::Encoder) >= 4.005
+perl(Sereal::Encoder::Constants)
+perl(Storable)
+perl(Test::Deep) >= 0.110
+perl(Test::Deep::NoTest)
+perl(Test::LongString)
+perl(Test::More) >= 0.88
+perl(Test::Warn)
+perl(Tie::Array)
+perl(Tie::Hash)
+perl(Tie::Scalar)
+perl(constant)
+perl(integer)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(threads)
+perl(threads::shared)
+perl(utf8)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

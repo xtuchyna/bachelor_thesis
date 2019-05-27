@@ -1,0 +1,10 @@
+maven-local
+mvn(junit:junit)
+mvn(log4j:log4j:12)
+mvn(org.apache.ant:ant)
+mvn(org.codehaus.gmavenplus:gmavenplus-plugin)
+mvn(org.codehaus.groovy:groovy)
+mvn(org.codehaus.groovy:groovy-ant)
+mvn(org.codehaus.groovy:groovy-test)
+mvn(org.codehaus.groovy:groovy-xml)
+mvn(org.sonatype.oss:oss-parent:pom:)

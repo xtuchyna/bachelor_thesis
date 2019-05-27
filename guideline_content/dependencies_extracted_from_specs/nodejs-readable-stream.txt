@@ -1,0 +1,8 @@
+nodejs-packaging >= 6
+npm(core-util-is)
+npm(isarray)
+npm(process-nextick-args)
+npm(string_decoder)
+npm(tap)
+npm(tape)
+npm(util-deprecate)

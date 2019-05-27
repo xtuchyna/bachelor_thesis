@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(array-differ)
+npm(array-union)
+npm(arrify)
+npm(chai)
+npm(minimatch)
+npm(mocha)

@@ -1,0 +1,10 @@
+bitstream-vera-sans-fonts
+cairo-devel
+desktop-file-utils
+ftgl-devel
+gcc-c++
+jack-audio-connection-kit-devel
+libappstream-glib
+lv2-devel >= 1.8.1
+mesa-libGLU-devel
+pango-devel

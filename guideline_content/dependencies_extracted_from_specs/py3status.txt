@@ -1,0 +1,6 @@
+dejavu-sans-mono-fonts
+python3-devel
+python3-fonttools
+python3-pillow
+python3-setuptools
+python3-sphinx

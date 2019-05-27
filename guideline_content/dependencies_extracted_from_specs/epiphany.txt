@@ -1,0 +1,28 @@
+desktop-file-utils
+gettext-devel
+iso-codes-devel
+itstool
+libappstream-glib-devel
+meson
+pkgconfig(cairo) >= 1.2
+pkgconfig(gcr-3) >= 3.5.5
+pkgconfig(gdk-3.0) >= 3.22.13
+pkgconfig(gdk-pixbuf-2.0) >= 2.14
+pkgconfig(gio-unix-2.0) >= 2.52.0
+pkgconfig(glib-2.0) >= 2.52.0
+pkgconfig(gnome-desktop-3.0) >= 2.52.0
+pkgconfig(gtk+-3.0) >= 3.22.13
+pkgconfig(gtk+-unix-print-3.0) >= 3.22.13
+pkgconfig(hogweed)
+pkgconfig(icu-uc) >= 4.6
+pkgconfig(json-glib-1.0) >= 1.2.0
+pkgconfig(libdazzle-1.0)
+pkgconfig(libnotify) >= 0.5.1
+pkgconfig(libsecret-1) >= 0.14
+pkgconfig(libsoup-2.4) >= 2.48.0
+pkgconfig(libxml-2.0) >= 2.6.12
+pkgconfig(libxslt) >= 1.1.7
+pkgconfig(nettle)
+pkgconfig(sqlite3) >= 3.0
+pkgconfig(webkit2gtk-4.0) >= 2.19.4
+pkgconfig(webkit2gtk-web-extension-4.0) >= 2.19.4

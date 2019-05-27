@@ -1,0 +1,10 @@
+SocketW-devel
+cmake
+dos2unix
+mygui-devel >= 3.2.0
+ogre-devel >= 1.8.1
+ogre-pagedgeometry-devel
+ois-devel
+openal-devel
+openssl-devel
+wxGTK-devel

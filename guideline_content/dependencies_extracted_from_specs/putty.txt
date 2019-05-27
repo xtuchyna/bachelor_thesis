@@ -1,0 +1,7 @@
+ImageMagick
+desktop-file-utils
+gtk2-devel
+halibut
+krb5-devel
+perl-Digest-SHA
+python

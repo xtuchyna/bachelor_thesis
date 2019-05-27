@@ -1,0 +1,14 @@
+php(language) >= 5.3.9
+php-composer(doctrine/common) < 3.0
+php-composer(doctrine/common) >= 2.5.0
+php-composer(doctrine/dbal) < 3.0
+php-composer(doctrine/dbal) >= 2.5.4
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(psr/log) < 2.0
+php-composer(psr/log) >= 1.0.1
+php-composer(symfony/security-core) < 4.0
+php-composer(symfony/security-core) >= 2.7.1
+php-pcre
+php-reflection
+php-spl

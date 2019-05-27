@@ -1,0 +1,2 @@
+gtkglext-devel >= 1.0
+gtkmm24-devel >= 2.4

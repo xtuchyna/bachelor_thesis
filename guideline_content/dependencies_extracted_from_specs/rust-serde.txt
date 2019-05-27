@@ -1,0 +1,2 @@
+(crate(serde_derive) >= 1.0.0 with crate(serde_derive) < 2.0.0)
+rust-packaging

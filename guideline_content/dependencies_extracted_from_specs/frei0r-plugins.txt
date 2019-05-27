@@ -1,0 +1,4 @@
+cairo-devel >= 1.0.0
+gavl-devel >= 0.2.3
+libtool
+opencv-devel >= 1.0.0

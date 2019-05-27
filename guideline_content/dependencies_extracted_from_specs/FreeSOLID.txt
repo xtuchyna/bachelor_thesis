@@ -1,0 +1,5 @@
+SDL-devel
+autoconf
+automake
+libtool
+qhull-devel

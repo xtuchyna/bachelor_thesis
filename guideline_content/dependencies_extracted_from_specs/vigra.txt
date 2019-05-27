@@ -1,0 +1,16 @@
+OpenEXR-devel
+boost-devel
+boost-python2
+boost-python3
+cmake
+doxygen
+fftw-devel >= 3
+gcc-c++
+hdf5-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel
+python2-numpy-f2py
+python2-sphinx
+python3-numpy-f2py
+zlib-devel

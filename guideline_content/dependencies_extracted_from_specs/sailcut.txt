@@ -1,0 +1,10 @@
+desktop-file-utils
+docbook-style-xsl
+gcc-c++
+libxslt
+make
+qt5-qtbase-devel
+qt5-qtsvg-devel
+qt5-qttools-devel
+shared-mime-info
+transfig

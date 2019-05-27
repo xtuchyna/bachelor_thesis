@@ -1,0 +1,4 @@
+maven-local
+mvn(log4j:log4j:12)
+mvn(org.jboss.logmanager:jboss-logmanager)
+mvn(org.jboss:jboss-parent:pom:)

@@ -1,0 +1,18 @@
+[DONE]----------------------
+spytat sa honzu ci si nainstalovat fedoru alebo rhel, ktory konkretny release
+co spravit ako prve (see bakalarka plan) - o tyzden naplanovat stretnutie kde ukazem progress
+pisanie v texu:
+t exmaker a texlive - dobra volba na pisanie bakalarky? ak nie tak vybrat inu
+po akej (gramatickej) stranke budem pisat bakalarku - konkretne ci je dobre ze som vynechal zaklady odboroveho stylu na fakulte
+
+
+1. install Fedora 28 - add to boot
+2. every Tuesday meeting with Honza at 17:00
+3. tex - later
+google docs
+
+4. web course / find anything in python
+note things that I dont understand / things that are interesting
+contact leader at university that another student is also working on this topic
+
+-----------------------[DONE]

@@ -1,0 +1,7 @@
+perl(File::Temp)
+perl(Module::Build)
+perl(Test::Exception)
+perl(Test::More)
+perl-devel
+perl-generators
+perl-interpreter >= 5.006

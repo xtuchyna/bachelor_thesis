@@ -1,0 +1,14 @@
+python2-devel
+python2-hawkey
+python2-librepo
+python2-pytest
+python2-rpm
+python2-six
+python2-sphinx
+python3-devel
+python3-hawkey
+python3-librepo
+python3-pytest
+python3-rpm
+python3-six
+python3-sphinx

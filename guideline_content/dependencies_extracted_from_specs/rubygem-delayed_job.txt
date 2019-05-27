@@ -1,0 +1,7 @@
+ruby
+ruby(release)
+rubygem(actionmailer) >= 3.0.0
+rubygem(activerecord) >= 3.0.0
+rubygem(rspec)
+rubygem(sqlite3) >= 1.3.0
+rubygems-devel

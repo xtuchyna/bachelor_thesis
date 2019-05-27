@@ -1,0 +1,5 @@
+coffee-script
+mocha
+nodejs-istanbul
+nodejs-packaging
+npm(should)

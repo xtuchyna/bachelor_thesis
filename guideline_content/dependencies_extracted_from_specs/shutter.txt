@@ -1,0 +1,3 @@
+desktop-file-utils
+perl-generators
+perl-interpreter

@@ -1,0 +1,11 @@
+cmake >= 3.1
+desktop-file-utils
+gcc-c++
+libappstream-glib
+protobuf-devel
+qt5-qtmultimedia-devel
+qt5-qtsvg-devel
+qt5-qttools-devel
+qt5-qtwebsockets-devel
+sqlite-devel
+zlib-devel

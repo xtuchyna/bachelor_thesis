@@ -1,0 +1,11 @@
+coreutils
+perl(Carp)
+perl(Exporter)
+perl(Module::Build)
+perl(Test::More) >= 0.88
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,9 @@
+binutils
+coreutils
+desktop-file-utils
+gcc
+libX11-devel
+libXext-devel
+libXft-devel
+make
+sed

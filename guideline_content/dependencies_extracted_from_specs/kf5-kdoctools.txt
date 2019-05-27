@@ -1,0 +1,11 @@
+docbook-dtds
+docbook-style-xsl
+extra-cmake-modules >= 5.44
+kf5-karchive-devel >= 5.44
+kf5-ki18n-devel >= 5.44
+kf5-rpm-macros
+libxml2-devel
+libxslt-devel
+perl(Any::URI::Escape)
+perl-generators
+qt5-qtbase-devel

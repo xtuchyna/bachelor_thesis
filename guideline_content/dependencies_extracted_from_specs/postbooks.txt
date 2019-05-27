@@ -1,0 +1,15 @@
+desktop-file-utils
+libsqlite3x-devel
+pkgconfig(Qt5SerialPort)
+pkgconfig(Qt5Sql)
+pkgconfig(Qt5UiTools)
+pkgconfig(Qt5WebChannel)
+pkgconfig(Qt5WebSockets)
+qt5-qtbase-devel
+qt5-qtbase-private-devel
+qt5-qtscript-devel
+qt5-qtwebkit-devel
+qt5-qtxmlpatterns-devel
+xtuple-csvimp-devel
+xtuple-openrpt-devel
+zlib-devel

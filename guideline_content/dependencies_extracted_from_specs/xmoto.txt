@@ -1,0 +1,17 @@
+SDL_mixer-devel
+SDL_net-devel
+SDL_ttf-devel
+bzip2-devel
+curl-devel
+desktop-file-utils
+gettext
+libGL-devel
+libGLU-devel
+libjpeg-devel
+libpng-devel
+libxdg-basedir-devel
+libxml2-devel
+lua-devel
+ode-devel
+pkgconfig
+sqlite-devel

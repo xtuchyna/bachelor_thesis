@@ -1,0 +1,10 @@
+pytest
+python-execnet >= 1.2.0
+python-mock
+python-setuptools
+python2-devel
+python3-devel
+python3-execnet >= 1.2.0
+python3-mock
+python3-pytest
+python3-setuptools

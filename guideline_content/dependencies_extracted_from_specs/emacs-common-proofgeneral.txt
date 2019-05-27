@@ -1,0 +1,7 @@
+desktop-file-utils
+emacs
+libappstream-glib
+perl-generators
+tex-cm-super
+tex-ec
+texinfo-tex

@@ -1,0 +1,12 @@
+adobe-source-code-pro-fonts
+adobe-source-sans-pro-fonts
+asciidoc
+autoconf
+gcc
+ghostscript
+make
+perl(Env)
+perl(File::Spec)
+perl(Font::TTF::Font)
+perl(Sort::Versions)
+xmlto

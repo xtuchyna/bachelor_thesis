@@ -1,0 +1,22 @@
+ant
+ant-antlr
+antlr-tool
+apache-commons-cli
+apache-ivy
+bsf
+desktop-file-utils
+glassfish-jsp-api
+glassfish-servlet-api
+jansi
+java-devel >= 1.8
+javapackages-local
+jline1
+jpackage-utils
+junit
+mvn(javax.servlet:jsp-api)
+mvn(javax.servlet:servlet-api)
+mvn(org.apache.ant:ant-junit)
+mvn(org.apache.ant:ant-launcher)
+objectweb-asm3
+unzip
+xstream

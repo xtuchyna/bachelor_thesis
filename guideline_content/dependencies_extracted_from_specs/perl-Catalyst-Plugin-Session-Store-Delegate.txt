@@ -1,0 +1,26 @@
+coreutils
+findutils
+make
+perl(Catalyst::Model)
+perl(Catalyst::Plugin::Session) >= 0.27
+perl(Catalyst::Plugin::Session::Test::Store)
+perl(Class::Accessor::Fast)
+perl(File::Spec)
+perl(File::Temp)
+perl(FindBin)
+perl(MRO::Compat)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moose)
+perl(MooseX::Emulate::Class::Accessor::Fast)
+perl(Test::More)
+perl(Test::use::ok)
+perl(base)
+perl(inc::Module::Install) >= 0.87
+perl(lib)
+perl(namespace::clean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

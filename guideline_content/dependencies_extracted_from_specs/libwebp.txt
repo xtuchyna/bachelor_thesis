@@ -1,0 +1,11 @@
+autoconf
+automake
+freeglut-devel
+giflib-devel
+java-devel
+jpackage-utils
+libjpeg-devel
+libpng-devel
+libtiff-devel
+libtool
+swig

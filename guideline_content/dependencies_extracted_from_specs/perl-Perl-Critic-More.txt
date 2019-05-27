@@ -1,0 +1,22 @@
+perl(Carp)
+perl(English)
+perl(List::MoreUtils)
+perl(Module::Build)
+perl(Perl::Critic) >= 1.098
+perl(Perl::Critic::Config)
+perl(Perl::Critic::Policy)
+perl(Perl::Critic::TestUtils)
+perl(Perl::Critic::Utils)
+perl(Perl::Critic::Violation)
+perl(Perl::MinimumVersion) >= 0.14
+perl(Readonly) >= 1.03
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.04
+perl(base)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

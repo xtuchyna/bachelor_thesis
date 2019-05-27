@@ -1,0 +1,8 @@
+ghc-Cabal-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-dlist-devel
+ghc-filepath-devel
+ghc-rpm-macros
+ghc-transformers-compat-devel
+ghc-transformers-devel

@@ -1,0 +1,24 @@
+arts-devel >= 1.0
+autoconf >= 2.52
+automake >= 1.5
+boost-devel
+desktop-file-utils
+expat-devel
+flex
+flex-static
+gettext
+kdebase3-devel >= 3.0.0
+kdelibs3-devel >= 3.0.0
+libXScrnSaver-devel
+libart_lgpl-devel
+libjpeg-devel
+libpng-devel
+libtool
+libxml2-devel
+libxslt-devel
+openssl-devel
+pcre-devel >= 3.9
+pkgconfig
+qt3-devel >= 3.2
+zip
+zlib-devel

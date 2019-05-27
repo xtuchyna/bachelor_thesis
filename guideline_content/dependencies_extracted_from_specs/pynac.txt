@@ -1,0 +1,5 @@
+factory-devel
+flint-devel
+giac-devel
+gmp-devel
+python2-devel

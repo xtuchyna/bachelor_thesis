@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(little-plugger) >= 1.1.3
+rubygem(multi_json) >= 1.3.6
+rubygem(test-unit)
+rubygems-devel

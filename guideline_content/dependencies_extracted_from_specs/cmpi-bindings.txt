@@ -1,0 +1,8 @@
+cmake
+curl-devel
+gcc-c++
+pkgconfig
+python2-devel
+sblim-cmpi-devel
+sed
+swig >= 1.3.34

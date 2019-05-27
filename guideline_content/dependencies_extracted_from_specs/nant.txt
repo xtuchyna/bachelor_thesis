@@ -1,0 +1,3 @@
+log4net-devel
+mono-devel
+nunit2-devel >= 2.6.4

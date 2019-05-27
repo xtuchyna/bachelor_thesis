@@ -1,0 +1,4 @@
+asciidoc
+automake
+gcc
+xmlto

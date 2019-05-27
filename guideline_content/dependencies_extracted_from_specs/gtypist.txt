@@ -1,0 +1,4 @@
+emacs
+gettext
+ncurses-devel
+perl-generators

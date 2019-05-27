@@ -1,0 +1,10 @@
+/usr/bin/xvfb-run
+libGL-devel
+libGLU-devel
+mesa-dri-drivers
+ruby-devel
+rubygem(glut)
+rubygem(minitest) >= 5
+rubygem(opengl)
+rubygem(opengl) >= 0.9
+rubygems-devel

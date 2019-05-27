@@ -1,0 +1,5 @@
+ruby >= 2.0
+ruby(release)
+rubygem(mime-types-data)
+rubygem(minitest)
+rubygems-devel

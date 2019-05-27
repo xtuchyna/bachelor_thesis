@@ -1,0 +1,7 @@
+perl(Carp)
+perl(Module::Build)
+perl(Pod::Perldoc)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators

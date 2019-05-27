@@ -1,0 +1,11 @@
+python2-devel
+python3-audioread
+python3-decorator
+python3-devel
+python3-joblib
+python3-matplotlib
+python3-numpydoc
+python3-scikit-learn
+python3-seaborn
+python3-sphinx
+python3-sphinx_rtd_theme

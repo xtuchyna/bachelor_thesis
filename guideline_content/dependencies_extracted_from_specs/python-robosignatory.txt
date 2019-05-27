@@ -1,0 +1,4 @@
+fedmsg
+koji
+python-setuptools
+python2-devel

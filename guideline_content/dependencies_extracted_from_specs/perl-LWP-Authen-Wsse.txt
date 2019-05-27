@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(Digest::SHA1)
+perl(English)
+perl(MIME::Base64)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test)
+perl(constant)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

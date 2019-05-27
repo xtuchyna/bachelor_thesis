@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Spec)
+perl(Pod::Simple) >= 3.05
+perl(Test::Builder)
+perl(Test::Builder::Tester) >= 1.02
+perl(Test::More) >= 0.62
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

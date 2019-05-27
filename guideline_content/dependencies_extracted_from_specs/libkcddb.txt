@@ -1,0 +1,2 @@
+kdelibs4-devel >= 4.14
+pkgconfig(libmusicbrainz5)

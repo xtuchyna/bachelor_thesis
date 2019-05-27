@@ -1,0 +1,4 @@
+nodejs-devel
+nodejs-packaging
+npm(optimist)
+npm(uglify-js)

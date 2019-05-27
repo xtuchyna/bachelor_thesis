@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(camelcase)
+npm(map-obj)
+npm(quick-lru)

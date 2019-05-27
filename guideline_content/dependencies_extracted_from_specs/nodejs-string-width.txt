@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(code-point-at)
+npm(is-fullwidth-code-point)
+npm(strip-ansi)

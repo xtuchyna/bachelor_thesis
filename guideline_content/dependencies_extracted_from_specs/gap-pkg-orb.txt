@@ -1,0 +1,6 @@
+gap-devel
+gap-pkg-atlasrep
+gap-pkg-autodoc
+gap-pkg-browse
+gap-pkg-ctbllib
+gap-pkg-io

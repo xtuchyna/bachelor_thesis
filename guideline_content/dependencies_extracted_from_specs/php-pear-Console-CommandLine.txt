@@ -1,0 +1,2 @@
+php-dom
+php-pear

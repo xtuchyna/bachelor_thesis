@@ -1,0 +1,11 @@
+OpenSceneGraph-devel
+SimGear-devel >= 2.6.0
+autoconf
+automake
+boost-devel
+curl-devel
+freeglut-devel
+glew-devel
+intltool
+libpng-devel
+libtool

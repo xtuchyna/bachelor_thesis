@@ -1,0 +1,7 @@
+alsa-lib-devel
+desktop-file-utils
+jack-audio-connection-kit-devel
+liblo-devel
+lv2-devel
+qt5-linguist
+qt5-qtbase-devel

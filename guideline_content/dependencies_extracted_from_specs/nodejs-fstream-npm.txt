@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(fstream-ignore)
+npm(graceful-fs)
+npm(inherits) >= 2.0.0
+npm(mkdirp)
+npm(rimraf)
+npm(tap)

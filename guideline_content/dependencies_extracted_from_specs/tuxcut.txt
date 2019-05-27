@@ -1,0 +1,4 @@
+ImageMagick
+desktop-file-utils
+perl-interpreter
+python2

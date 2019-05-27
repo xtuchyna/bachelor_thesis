@@ -1,0 +1,13 @@
+bzip2-devel
+desktop-file-utils
+gettext-devel
+intltool
+itstool
+pkgconfig(gtk+-3.0)
+pkgconfig(libexslt)
+pkgconfig(liblzma)
+pkgconfig(libxml-2.0)
+pkgconfig(libxslt)
+pkgconfig(sqlite3)
+pkgconfig(webkit2gtk-4.0)
+pkgconfig(yelp-xsl)

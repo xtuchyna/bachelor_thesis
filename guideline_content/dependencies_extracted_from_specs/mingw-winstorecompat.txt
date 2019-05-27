@@ -1,0 +1,6 @@
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-headers >= 2.0.999-0.24.trunk.20130520
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-headers >= 2.0.999-0.24.trunk.20130520

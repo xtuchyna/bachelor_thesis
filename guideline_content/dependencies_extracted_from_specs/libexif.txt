@@ -1,0 +1,6 @@
+autoconf
+automake
+doxygen
+gettext-devel
+libtool
+pkgconfig

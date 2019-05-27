@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(ansi)
+npm(has-unicode)
+npm(lodash.pad)
+npm(lodash.padleft)
+npm(lodash.padright)
+npm(tap)

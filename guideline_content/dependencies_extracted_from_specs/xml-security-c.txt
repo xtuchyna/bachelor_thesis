@@ -1,0 +1,8 @@
+autoconf
+automake
+libstdc++-devel
+libtool
+openssl-devel
+pkgconfig
+xalan-c-devel
+xerces-c-devel

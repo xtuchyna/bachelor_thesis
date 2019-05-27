@@ -1,0 +1,7 @@
+ruby(release)
+ruby-devel
+rubygem(rake)
+rubygem(rake-compiler)
+rubygem(rdoc)
+rubygem(test-unit)
+rubygems-devel

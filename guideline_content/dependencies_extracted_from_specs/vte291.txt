@@ -1,0 +1,8 @@
+gettext
+gobject-introspection-devel
+gperf
+intltool
+pkgconfig(gnutls)
+pkgconfig(gtk+-3.0)
+pkgconfig(libpcre2-8)
+vala

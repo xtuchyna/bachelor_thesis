@@ -1,0 +1,5 @@
+autoconf
+automake
+gtest-devel
+libjpeg-devel
+libtool

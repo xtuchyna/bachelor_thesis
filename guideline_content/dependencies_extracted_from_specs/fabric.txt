@@ -1,0 +1,5 @@
+python2-devel
+python2-jinja2
+python2-nose
+python2-paramiko >= 1.10.0
+python2-setuptools

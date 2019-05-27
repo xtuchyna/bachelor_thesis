@@ -1,0 +1,6 @@
+gcc
+libtool
+patchutils
+pkgconfig
+subunit-devel
+texinfo

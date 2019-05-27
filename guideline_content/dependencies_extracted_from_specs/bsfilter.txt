@@ -1,0 +1,4 @@
+mecab-ipadic
+ruby(mecab)
+ruby(release)
+rubygem(minitest)

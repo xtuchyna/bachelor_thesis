@@ -1,0 +1,7 @@
+desktop-file-utils
+gettext
+intltool
+libX11-devel
+pkgconfig(gtk+-3.0)
+pkgconfig(libstartup-notification-1.0)
+pkgconfig(libudev) >= 143

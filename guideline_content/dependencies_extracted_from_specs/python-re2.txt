@@ -1,0 +1,3 @@
+python-nose
+python2-devel
+re2-devel

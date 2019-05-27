@@ -1,0 +1,19 @@
+perl(Carp)
+perl(Cwd)
+perl(ExtUtils::Command)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::Manifest)
+perl(File::Basename)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(Getopt::Long)
+perl(Module::Runtime)
+perl(Pod::Usage)
+perl(Test::More)
+perl(parent)
+perl(strict)
+perl(version) >= 0.77
+perl(warnings)
+perl-generators
+perl-interpreter

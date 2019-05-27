@@ -1,0 +1,14 @@
+attr
+cmdtest
+genbackupdata
+gnupg
+libattr-devel
+python-cliapp
+python-coverage-test-runner
+python-larch
+python-paramiko
+python-tracing
+python-ttystatus
+python2-devel
+python2-yaml
+summain

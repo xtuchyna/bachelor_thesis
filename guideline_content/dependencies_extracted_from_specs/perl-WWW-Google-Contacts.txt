@@ -1,0 +1,29 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Class::MOP) >= 1.09
+perl(Crypt::SSLeay)
+perl(Data::Dumper)
+perl(Encode)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Slurp)
+perl(LWP::UserAgent)
+perl(Moose)
+perl(Moose::Role)
+perl(MooseX::Role::Parameterized)
+perl(MooseX::Types)
+perl(MooseX::Types::Moose)
+perl(Net::Google::AuthSub)
+perl(Perl6::Junction)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Try::Tiny)
+perl(URI::Escape)
+perl(XML::Simple)
+perl(constant)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

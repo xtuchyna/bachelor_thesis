@@ -1,0 +1,16 @@
+python-dateutil
+python-kitchen
+python-nose
+python-setuptools
+python-six
+python-unittest2
+python2-devel
+python3-dateutil
+python3-devel
+python3-kitchen
+python3-nose
+python3-pytz
+python3-setuptools
+python3-six
+pytz
+task

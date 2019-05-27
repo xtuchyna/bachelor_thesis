@@ -1,0 +1,16 @@
+breathe
+doxygen
+gnupg2
+pkgconfig(cmocka)
+pkgconfig(hiredis)
+pkgconfig(libdnssec) >= 2.3.1
+pkgconfig(libedit)
+pkgconfig(libknot) >= 2.6.4
+pkgconfig(libmemcached) >= 1.0
+pkgconfig(libsystemd)
+pkgconfig(libuv)
+pkgconfig(libzscanner) >= 2.4.2
+pkgconfig(luajit) >= 2.0
+python-sphinx
+python-sphinx_rtd_theme
+systemd

@@ -1,0 +1,5 @@
+maven-clean-plugin
+maven-local
+mvn(org.apache.felix:maven-bundle-plugin)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

@@ -1,0 +1,5 @@
+ruby
+rubygem(http_connection)
+rubygem(minitest) > 5.0.0
+rubygem(mocha)
+rubygems-devel

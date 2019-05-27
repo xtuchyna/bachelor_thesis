@@ -1,0 +1,4 @@
+erlang-exometer_core
+erlang-lager
+erlang-meck
+erlang-rebar

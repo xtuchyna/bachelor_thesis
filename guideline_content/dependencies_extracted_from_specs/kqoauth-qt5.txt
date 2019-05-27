@@ -1,0 +1,3 @@
+compat-openssl10-devel
+gcc-c++
+pkgconfig(Qt5Widgets)

@@ -1,0 +1,9 @@
+elfutils-devel
+extra-cmake-modules
+kf5-kconfigwidgets-devel
+kf5-kcoreaddons-devel
+kf5-ki18n-devel
+kf5-kio-devel
+kf5-kitemmodels-devel
+kf5-threadweaver-devel
+qt5-qtbase-devel

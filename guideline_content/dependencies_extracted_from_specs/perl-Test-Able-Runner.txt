@@ -1,0 +1,16 @@
+perl(Class::Load) >= 0.20
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(Module::Pluggable) >= 3.6
+perl(Moose) >= 0.94
+perl(Moose::Exporter)
+perl(Moose::Role)
+perl(Moose::Util::MetaRole)
+perl(Scalar::Util)
+perl(Test::Able) >= 0.09
+perl(Test::Able::Role)
+perl(Test::More)
+perl(Test::Simple)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

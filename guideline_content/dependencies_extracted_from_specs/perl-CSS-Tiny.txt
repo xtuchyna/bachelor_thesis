@@ -1,0 +1,5 @@
+perl(Clone)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl-generators

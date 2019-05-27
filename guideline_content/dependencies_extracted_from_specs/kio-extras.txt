@@ -1,0 +1,35 @@
+OpenEXR-devel
+bzip2-devel
+exiv2-devel
+extra-cmake-modules
+gperf
+kf5-kactivities-devel
+kf5-karchive-devel
+kf5-kconfig-devel
+kf5-kconfigwidgets-devel
+kf5-kcoreaddons-devel
+kf5-kdbusaddons-devel
+kf5-kdelibs4support-devel
+kf5-kdnssd-devel
+kf5-kdoctools-devel
+kf5-khtml-devel
+kf5-ki18n-devel
+kf5-kiconthemes-devel
+kf5-kio-devel
+kf5-kpty-devel
+kf5-rpm-macros
+kf5-solid-devel
+libjpeg-devel
+libmtp-devel
+libsmbclient-devel
+libssh-devel
+lzma-devel
+openslp-devel
+perl-generators
+phonon-qt5-devel
+pkgconfig(libtirpc)
+pkgconfig(shared-mime-info)
+qt5-qtbase-devel
+qt5-qtsvg-devel
+qt5-qtwebengine-devel >= 5.7
+taglib-devel > 1.11

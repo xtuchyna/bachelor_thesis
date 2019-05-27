@@ -1,0 +1,6 @@
+cmake
+doxygen
+libQGLViewer-devel
+libXext-devel
+mesa-libGL-devel
+qt-devel

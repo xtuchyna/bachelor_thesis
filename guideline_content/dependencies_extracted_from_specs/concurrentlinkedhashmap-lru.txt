@@ -1,0 +1,6 @@
+maven-enforcer-plugin
+maven-local
+maven-plugin-bundle
+maven-site-plugin
+mvn(com.google.code.findbugs:jsr305)
+mvn(org.sonatype.oss:oss-parent:pom:)

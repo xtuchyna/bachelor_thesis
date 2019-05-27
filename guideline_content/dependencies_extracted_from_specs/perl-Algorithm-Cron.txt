@@ -1,0 +1,11 @@
+perl(Carp)
+perl(Module::Build)
+perl(POSIX)
+perl(Test::Fatal)
+perl(Test::More) >= 0.88
+perl(Time::timegm)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

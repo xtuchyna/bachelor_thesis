@@ -1,0 +1,4 @@
+gcc
+gettext
+libtool
+readline-devel

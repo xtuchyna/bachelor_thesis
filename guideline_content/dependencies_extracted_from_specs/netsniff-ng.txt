@@ -1,0 +1,13 @@
+GeoIP-devel
+bison
+flex
+libcli-devel
+libnet-devel
+libnetfilter_conntrack-devel
+libnl3-devel
+libpcap-devel
+libsodium-devel
+ncurses-devel
+perl-podlators
+userspace-rcu-devel
+zlib-devel

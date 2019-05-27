@@ -1,0 +1,4 @@
+docbook-style-xsl
+gcc-c++
+libxslt
+openssl-devel

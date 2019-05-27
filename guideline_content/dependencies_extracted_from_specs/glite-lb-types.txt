@@ -1,0 +1,4 @@
+perl(Getopt::Long)
+perl(POSIX)
+perl-generators
+perl-interpreter

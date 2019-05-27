@@ -1,0 +1,5 @@
+alsa-lib-devel
+audiofile-devel
+autoconf
+automake
+libtool

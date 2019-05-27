@@ -1,0 +1,15 @@
+condor-classads-devel
+cppunit-devel
+gcc-c++
+glite-jobid-api-c-devel
+glite-jobid-api-cpp-devel
+glite-lb-common-devel
+glite-lb-types
+glite-lbjp-common-gss-devel
+glite-lbjp-common-trio-devel
+libtool
+perl(Getopt::Long)
+perl(POSIX)
+perl-generators
+perl-interpreter
+pkgconfig

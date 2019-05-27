@@ -1,0 +1,13 @@
+autoconf
+automake
+cups
+cups-devel
+dbus-devel
+foomatic
+foomatic-db
+gcc
+libxml2-devel
+perl(ExtUtils::MakeMaker)
+perl-generators
+perl-interpreter >= 3:5.8.1
+python3-cups

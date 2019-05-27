@@ -1,0 +1,14 @@
+python2-devel
+python2-mock
+python2-pytest
+python2-requests
+python2-requests_ntlm
+python2-six
+python2-xmltodict
+python3-devel
+python3-mock
+python3-pytest
+python3-requests
+python3-requests_ntlm
+python3-six
+python3-xmltodict

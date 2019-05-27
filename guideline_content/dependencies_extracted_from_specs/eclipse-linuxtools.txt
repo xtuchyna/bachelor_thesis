@@ -1,0 +1,17 @@
+assertj-core
+docker-client-java >= 6.2.5-6
+eclipse-cdt
+eclipse-gef
+eclipse-jdt
+eclipse-license
+eclipse-mylyn
+eclipse-ptp
+eclipse-remote
+eclipse-swtbot
+exec-maven-plugin
+glassfish-jax-rs-api
+mockito
+nekohtml
+swt-chart
+tycho
+tycho-extras

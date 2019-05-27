@@ -1,0 +1,13 @@
+libcurl-devel
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(Test::More)
+perl(XSLoader)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

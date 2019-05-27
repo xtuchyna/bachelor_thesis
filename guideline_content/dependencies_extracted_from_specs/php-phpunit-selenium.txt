@@ -1,0 +1,2 @@
+php(language) >= 7.0
+php-fedora-autoloader-devel

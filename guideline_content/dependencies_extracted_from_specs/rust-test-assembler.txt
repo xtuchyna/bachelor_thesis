@@ -1,0 +1,2 @@
+(crate(byteorder) >= 1.0.0 with crate(byteorder) < 2.0.0)
+rust-packaging

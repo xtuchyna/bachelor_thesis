@@ -1,0 +1,4 @@
+/usr/bin/phpab
+php(language) >= 5.3.0
+php-composer(phpunit/phpunit)
+php-pcre

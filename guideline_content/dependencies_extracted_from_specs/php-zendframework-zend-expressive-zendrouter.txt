@@ -1,0 +1,10 @@
+php(language) >= 5.6
+php-autoloader(zendframework/zend-expressive-router) >= 2.0
+php-autoloader(zendframework/zend-i18n) >= 2.7
+php-autoloader(zendframework/zend-router) >= 3.0
+php-composer(fig/http-message-util) >= 1.1
+php-composer(phpunit/phpunit) >= 4.8
+php-composer(psr/http-message) >= 1.0
+php-composer(zendframework/zend-psr7bridge) >= 0.2.2
+php-fedora-autoloader-devel
+php-pcre

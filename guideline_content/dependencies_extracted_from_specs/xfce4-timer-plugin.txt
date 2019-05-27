@@ -1,0 +1,6 @@
+gettext
+intltool
+libxfce4ui-devel
+libxml2-devel
+perl(XML::Parser)
+xfce4-panel-devel

@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(hash_file)
+npm(readable-stream)
+npm(tape)

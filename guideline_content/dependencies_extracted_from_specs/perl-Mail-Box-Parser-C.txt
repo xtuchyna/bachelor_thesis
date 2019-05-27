@@ -1,0 +1,16 @@
+findutils
+make
+perl(Carp)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Mail::Box::Parser)
+perl(Mail::Message::Field)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

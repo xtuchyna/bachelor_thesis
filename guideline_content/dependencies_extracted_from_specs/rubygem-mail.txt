@@ -1,0 +1,5 @@
+ruby
+ruby(release)
+rubygem(mime-types) >= 1.16
+rubygem(rspec)
+rubygems-devel

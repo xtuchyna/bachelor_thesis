@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(DateTime)
+perl(DateTime::Duration)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Params::Validate)
+perl(Test::More)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

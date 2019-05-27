@@ -1,0 +1,9 @@
+SDL2-devel
+SDL2_image-devel
+boost-devel
+ftgl-devel
+glew-devel
+glm-devel
+libjpeg-devel
+libpng-devel
+pcre-devel

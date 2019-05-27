@@ -1,0 +1,28 @@
+TurboGears
+TurboGears2
+python-cherrypy2
+python-lockfile
+python-munch
+python-openid
+python-openid-cla
+python-openid-teams
+python-repoze-who-friendlyform
+python2-babel
+python2-devel
+python2-kitchen
+python2-nose
+python2-requests >= 2.6.0
+python2-setuptools
+python2-six
+python2-sphinx
+python3-babel
+python3-devel
+python3-kitchen
+python3-lockfile
+python3-munch
+python3-nose
+python3-openid
+python3-requests >= 2.6.0
+python3-setuptools
+python3-six
+python3-sphinx

@@ -1,0 +1,4 @@
+cmake
+community-mysql-devel
+gtk3-devel
+unixODBC-devel

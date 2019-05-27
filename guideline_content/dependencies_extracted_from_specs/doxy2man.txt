@@ -1,0 +1,4 @@
+asciidoc
+libxslt
+qt5-qtbase-devel
+qt5-qtxmlpatterns-devel

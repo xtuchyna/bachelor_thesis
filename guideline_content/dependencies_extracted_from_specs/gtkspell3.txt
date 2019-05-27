@@ -1,0 +1,8 @@
+enchant-devel
+gettext
+gobject-introspection-devel
+gtk3-devel
+intltool
+iso-codes-devel
+vala-devel
+vala-tools

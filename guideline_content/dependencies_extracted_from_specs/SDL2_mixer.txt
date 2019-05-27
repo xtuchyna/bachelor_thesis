@@ -1,0 +1,8 @@
+SDL2-devel
+chrpath
+flac-devel
+fluidsynth-devel
+libmikmod-devel
+libvorbis-devel
+mpg123-devel
+pkgconfig(libmodplug) >= 0.8.8

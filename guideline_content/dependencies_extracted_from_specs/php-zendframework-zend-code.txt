@@ -1,0 +1,10 @@
+php(language) >= 7.1
+php-autoloader(zendframework/zend-eventmanager) >= 2.6
+php-autoloader(zendframework/zend-stdlib) >= 2.7
+php-composer(doctrine/annotations) >= 1.0
+php-fedora-autoloader-devel
+php-pcre
+php-reflection
+php-spl
+php-tokenizer
+phpunit6 >= 6.2.3

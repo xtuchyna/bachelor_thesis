@@ -1,0 +1,6 @@
+ImageMagick
+desktop-file-utils
+esound-devel
+gtk+-devel
+libXpm-devel
+libappstream-glib

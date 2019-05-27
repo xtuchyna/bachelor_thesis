@@ -1,0 +1,5 @@
+ant >= 1.6
+dos2unix
+java-devel >= 1.4
+jpackage-utils
+xerces-j2 >= 2.7.1

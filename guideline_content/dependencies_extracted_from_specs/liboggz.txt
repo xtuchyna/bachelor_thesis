@@ -1,0 +1,3 @@
+docbook-utils
+doxygen
+libogg-devel >= 1.0

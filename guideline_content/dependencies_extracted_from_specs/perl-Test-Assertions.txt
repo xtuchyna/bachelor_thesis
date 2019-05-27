@@ -1,0 +1,18 @@
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Compare)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(Getopt::Long)
+perl(Getopt::Std)
+perl(Log::Trace)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(lib)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

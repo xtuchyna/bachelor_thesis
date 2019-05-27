@@ -1,0 +1,5 @@
+mocha
+nodejs-packaging
+npm(lazy-cache)
+npm(mixin-object)
+npm(should)

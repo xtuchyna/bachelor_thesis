@@ -1,0 +1,6 @@
+ant
+apache-commons-dbcp
+apache-commons-pool
+java-devel
+javapackages-local
+junit

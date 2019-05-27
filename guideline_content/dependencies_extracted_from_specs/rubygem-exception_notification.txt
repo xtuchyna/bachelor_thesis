@@ -1,0 +1,11 @@
+ruby(release) >= 2
+rubygem(actionmailer) >= 3.0.4
+rubygem(activesupport) >= 3.0.4
+rubygem(hipchat)
+rubygem(httparty)
+rubygem(minitest)
+rubygem(mocha)
+rubygem(rails) >= 3.0.4
+rubygem(rake)
+rubygem(sqlite3)
+rubygems-devel

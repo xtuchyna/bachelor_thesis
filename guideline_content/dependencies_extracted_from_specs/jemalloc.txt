@@ -1,0 +1,3 @@
+/usr/bin/xsltproc
+perl-generators
+valgrind-devel

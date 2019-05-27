@@ -1,0 +1,20 @@
+GConf2-devel
+bzip2-devel
+libacl-devel
+libblkid-devel
+libcap-devel
+libcurl-devel >= 7.12.0
+libgcrypt-devel
+libselinux-devel
+libxml2-devel
+libxslt-devel
+opendbx-devel
+openldap-devel
+pcre-devel
+perl-XML-Parser
+perl-devel
+perl-generators
+python2-devel
+python3-devel
+rpm-devel
+swig

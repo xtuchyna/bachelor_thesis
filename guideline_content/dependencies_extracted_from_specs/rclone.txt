@@ -1,0 +1,46 @@
+compiler(go-compiler)
+golang(bazil.org/fuse)
+golang(bazil.org/fuse/fs)
+golang(github.com/Unknwon/goconfig)
+golang(github.com/VividCortex/ewma)
+golang(github.com/aws/aws-sdk-go/aws)
+golang(github.com/aws/aws-sdk-go/aws/awserr)
+golang(github.com/aws/aws-sdk-go/aws/corehandlers)
+golang(github.com/aws/aws-sdk-go/aws/credentials)
+golang(github.com/aws/aws-sdk-go/aws/credentials/ec2rolecreds)
+golang(github.com/aws/aws-sdk-go/aws/ec2metadata)
+golang(github.com/aws/aws-sdk-go/aws/request)
+golang(github.com/aws/aws-sdk-go/aws/session)
+golang(github.com/aws/aws-sdk-go/service/s3)
+golang(github.com/aws/aws-sdk-go/service/s3/s3manager)
+golang(github.com/billziss-gh/cgofuse/fuse)
+golang(github.com/jlaffaye/ftp)
+golang(github.com/ncw/dropbox-sdk-go-unofficial/dropbox)
+golang(github.com/ncw/dropbox-sdk-go-unofficial/dropbox/files)
+golang(github.com/ncw/go-acd)
+golang(github.com/ncw/swift) >= 0-0.8.gitaf59a5a
+golang(github.com/nsf/termbox-go)
+golang(github.com/pkg/errors)
+golang(github.com/pkg/sftp)
+golang(github.com/rfjakob/eme)
+golang(github.com/skratchdot/open-golang/open)
+golang(github.com/spf13/cobra)
+golang(github.com/spf13/cobra/doc)
+golang(github.com/spf13/pflag)
+golang(github.com/stretchr/testify/assert)
+golang(github.com/stretchr/testify/require)
+golang(github.com/xanzy/ssh-agent)
+golang(golang.org/x/crypto/nacl/secretbox) >= 0-0.16.gite4e2799
+golang(golang.org/x/crypto/scrypt) >= 0-0.16.gite4e2799
+golang(golang.org/x/crypto/ssh) >= 0-0.16.gite4e2799
+golang(golang.org/x/crypto/ssh/terminal) >= 0-0.16.gite4e2799
+golang(golang.org/x/net/context)
+golang(golang.org/x/net/html)
+golang(golang.org/x/oauth2)
+golang(golang.org/x/oauth2/google)
+golang(golang.org/x/sys/unix)
+golang(golang.org/x/text/unicode/norm)
+golang(golang.org/x/time/rate)
+golang(google.golang.org/api/drive/v2) >= 0-0.19.git77f162b
+golang(google.golang.org/api/googleapi) >= 0-0.19.git77f162b
+golang(google.golang.org/api/storage/v1) >= 0-0.19.git77f162b

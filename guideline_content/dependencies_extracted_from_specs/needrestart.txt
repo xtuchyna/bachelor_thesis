@@ -1,0 +1,6 @@
+debconf
+gettext
+perl
+perl(ExtUtils::MakeMaker)
+po-debconf
+python3-devel

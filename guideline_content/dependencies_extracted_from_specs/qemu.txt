@@ -1,0 +1,61 @@
+SDL2-devel
+alsa-lib-devel
+bluez-libs-devel
+brlapi-devel
+bzip2-devel
+capstone-devel
+chrpath
+cyrus-sasl-devel
+device-mapper-multipath-devel
+gettext
+glib2-static
+glibc-static
+glusterfs-api-devel >= 3.4.0
+glusterfs-devel >= 3.4.0
+gnutls-devel
+grubby
+gtk3-devel
+iasl
+kernel
+libaio-devel
+libattr-devel
+libcacard-devel >= 2.5.0
+libcap-devel
+libcap-ng-devel
+libcurl-devel
+libepoxy-devel
+libfdt-devel
+libiscsi-devel
+libjpeg-devel
+libnfs-devel
+libpng-devel
+librados2-devel
+librbd1-devel
+librdmacm-devel
+libseccomp-devel >= 2.3.0
+libssh2-devel
+libtasn1-devel
+libusbx-devel
+libuuid-devel
+lzo-devel
+mesa-libgbm-devel
+ncurses-devel
+numactl-devel
+pcre-static
+perl-podlators
+pixman-devel
+pulseaudio-libs-devel
+qemu-sanity-check-nodeps
+snappy-devel
+spice-protocol >= 0.12.2
+spice-server-devel >= 0.12.0
+systemd-devel
+systemtap
+systemtap-sdt-devel
+texinfo
+usbredir-devel >= 0.5.2
+virglrenderer-devel
+vte291-devel
+xen-devel
+zlib-devel
+zlib-static

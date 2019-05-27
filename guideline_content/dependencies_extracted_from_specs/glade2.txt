@@ -1,0 +1,12 @@
+desktop-file-utils
+gettext
+glib2-devel
+gnome-vfs2-devel
+gtk2-devel
+libbonobo-devel
+libbonoboui-devel
+libgnomecanvas-devel
+libgnomeui-devel
+pango-devel
+perl(XML::Parser)
+scrollkeeper

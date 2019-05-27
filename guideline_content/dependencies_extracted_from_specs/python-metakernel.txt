@@ -1,0 +1,16 @@
+man
+python2-devel
+python2-ipykernel
+python2-ipyparallel
+python2-jedi
+python2-nose
+python2-pexpect >= 4.2
+python3-devel
+python3-ipykernel
+python3-ipyparallel
+python3-jedi
+python3-nose
+python3-numpydoc
+python3-pexpect >= 4.2
+python3-sphinx
+python3-sphinx-bootstrap-theme

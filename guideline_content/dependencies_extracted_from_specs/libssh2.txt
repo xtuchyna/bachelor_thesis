@@ -1,0 +1,9 @@
+/usr/bin/man
+coreutils
+findutils
+gcc
+make
+openssh-server
+openssl-devel
+sed
+zlib-devel

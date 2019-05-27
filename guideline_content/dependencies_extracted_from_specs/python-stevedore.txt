@@ -1,0 +1,11 @@
+python-mock
+python-pbr
+python-setuptools
+python-six
+python-testrepository
+python2-devel
+python3-devel
+python3-mock
+python3-pbr
+python3-setuptools
+python3-six

@@ -1,0 +1,10 @@
+ruby(release)
+rubygem(activesupport) < 5.0
+rubygem(activesupport) >= 3.0.0
+rubygem(bourne)
+rubygem(climate_control) < 1.0
+rubygem(climate_control) >= 0.0.3
+rubygem(mocha)
+rubygem(posix-spawn)
+rubygem(rspec)
+rubygems-devel

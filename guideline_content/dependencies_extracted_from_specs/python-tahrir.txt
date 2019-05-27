@@ -1,0 +1,3 @@
+python-setuptools
+python-sqlalchemy >= 0.7
+python2-devel

@@ -1,0 +1,13 @@
+autoconf
+gettext
+gnutls-devel
+gpgme-devel
+libidn2-devel
+libmetalink-devel
+libpsl-devel
+libuuid-devel
+perl-HTTP-Daemon
+perl-podlators
+pkgconfig
+python3
+texinfo

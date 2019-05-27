@@ -1,0 +1,5 @@
+ant >= 1.6
+java-devel >= 1:1.6.0
+javapackages-tools
+maven-local
+objectweb-asm

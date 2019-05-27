@@ -1,0 +1,14 @@
+audit-libs-devel
+autoconf
+automake
+bison
+flex
+gettext
+groff
+libcap-devel
+libselinux-devel
+libtool
+openldap-devel
+pam-devel
+sendmail
+zlib-devel

@@ -1,0 +1,11 @@
+autoconf
+automake
+bison
+emacs
+flex
+gettext-devel
+gperf
+java-devel
+jpackage-utils
+libtool
+perl-generators

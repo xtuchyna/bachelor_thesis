@@ -1,0 +1,4 @@
+desktop-file-utils
+gtkmm24-devel
+lynx
+pkgconfig(libpulse)

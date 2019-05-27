@@ -1,0 +1,5 @@
+ghostscript
+gnutls-devel
+octave-devel
+octave-struct
+tex(latex)

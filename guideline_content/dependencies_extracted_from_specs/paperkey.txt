@@ -1,0 +1,5 @@
+coreutils
+gawk
+gcc
+gnupg2
+grep

@@ -1,0 +1,6 @@
+junit
+jvnet-parent
+maven-local
+maven-plugin-bundle
+maven-resources-plugin
+spec-version-maven-plugin

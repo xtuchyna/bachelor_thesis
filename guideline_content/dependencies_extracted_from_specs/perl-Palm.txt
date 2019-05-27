@@ -1,0 +1,14 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(POSIX)
+perl(Palm::PDB)
+perl(Palm::Raw)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

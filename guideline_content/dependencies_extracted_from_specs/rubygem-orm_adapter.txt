@@ -1,0 +1,7 @@
+ruby
+ruby(release)
+rubygem(activerecord)
+rubygem(mongoid)
+rubygem(rspec)
+rubygem(sqlite3)
+rubygems-devel

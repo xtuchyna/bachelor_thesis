@@ -1,0 +1,8 @@
+cmake
+fltk-devel
+gcc-c++
+libXv-devel
+mesa-libGLU-devel
+openssl-devel
+turbojpeg-devel
+xcb-util-keysyms-devel

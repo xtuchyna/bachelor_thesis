@@ -1,0 +1,6 @@
+python-coverage
+python-devel
+python-nose
+python-repoze-what
+python-setuptools
+python-sqlalchemy >= 0.5

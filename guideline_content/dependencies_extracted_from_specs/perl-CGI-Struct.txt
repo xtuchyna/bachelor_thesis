@@ -1,0 +1,12 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Pod::Coverage) >= 0.18
+perl(Storable)
+perl(Test::Deep::NoTest)
+perl(Test::More) >= 1.22
+perl(Test::Pod)
+perl(Test::Pod::Coverage) >= 1.08
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

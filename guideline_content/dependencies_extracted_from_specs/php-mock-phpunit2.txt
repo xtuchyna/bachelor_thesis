@@ -1,0 +1,5 @@
+(php-composer(php-mock/php-mock-integration) >= 2 with php-composer(php-mock/php-mock-integration) < 3)
+php(language) >= 7
+php-composer(fedora/autoloader)
+phpunit6
+phpunit7

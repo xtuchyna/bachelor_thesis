@@ -1,0 +1,9 @@
+bison
+cyrus-sasl-devel
+flex
+gcc
+gcc-c++
+libevent-devel
+memcached
+python-sphinx
+systemtap-sdt-devel

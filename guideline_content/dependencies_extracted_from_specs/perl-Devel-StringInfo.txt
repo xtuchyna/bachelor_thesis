@@ -1,0 +1,13 @@
+perl(Data::HexDump::XXD)
+perl(Encode)
+perl(Encode::Guess)
+perl(ExtUtils::MakeMaker)
+perl(Moose) >= 0.20
+perl(Scalar::Util)
+perl(Sub::Exporter)
+perl(Test::More)
+perl(Test::use::ok)
+perl(Tie::IxHash)
+perl(YAML)
+perl(namespace::clean) >= 0.08
+perl-generators

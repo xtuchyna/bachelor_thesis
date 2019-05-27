@@ -1,0 +1,6 @@
+autoconf
+automake
+gcc
+libtool
+libxml2-devel
+make

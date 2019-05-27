@@ -1,0 +1,4 @@
+/usr/bin/pod2man
+perl-generators
+util-linux
+vim-common

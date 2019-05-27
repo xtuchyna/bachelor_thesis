@@ -1,0 +1,9 @@
+desktop-file-utils
+gettext
+hddtemp
+intltool
+libnotify-devel >= 0.4
+libtool
+libxfce4ui-devel >= 4.12.0
+lm_sensors-devel >= 2.8
+xfce4-panel-devel >= 4.12.0

@@ -1,0 +1,32 @@
+findutils
+gcc
+make
+perl(B)
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Spec)
+perl(File::Temp) >= 0.13
+perl(IO::Handle)
+perl(List::Util)
+perl(POSIX)
+perl(Test::Harness)
+perl(Test::More) >= 0.45
+perl(Test::Taint)
+perl(UNIVERSAL)
+perl(XSLoader)
+perl(constant)
+perl(if)
+perl(lib)
+perl(locale)
+perl(overload)
+perl(parent)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl(warnings::register)
+perl-devel
+perl-generators
+perl-interpreter

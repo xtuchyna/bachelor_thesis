@@ -1,0 +1,7 @@
+(php-composer(phpunit/php-timer) >= 2.0 with php-composer(phpunit/php-timer) < 3)
+(php-composer(sebastian/finder-facade) >= 1.1 with php-composer(sebastian/finder-facade) < 2)
+(php-composer(sebastian/version) >= 1.0 with php-composer(sebastian/version) < 3)
+(php-composer(symfony/console) >= 2.7 with php-composer(symfony/console) < 5)
+php(language) >= 7.1
+php-fedora-autoloader-devel
+phpunit7

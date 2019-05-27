@@ -1,0 +1,13 @@
+SDL2-devel
+SDL2_image-devel
+boost-devel
+freetype-devel
+glew-devel
+glm-devel
+libGL-devel
+libGLU-devel
+libX11-devel
+libjpeg-devel
+libpng-devel
+pcre-devel
+tinyxml-devel

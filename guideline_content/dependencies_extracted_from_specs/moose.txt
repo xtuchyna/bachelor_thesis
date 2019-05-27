@@ -1,0 +1,17 @@
+checksec
+cmake
+gcc-c++
+gsl-devel
+hdf5-devel
+libsbml-devel
+make
+muParser-devel
+ncurses-devel
+numpy
+python2-devel
+python3-devel
+python3-numpy
+readline-devel
+rsync
+tinyxml-devel
+zlib-devel

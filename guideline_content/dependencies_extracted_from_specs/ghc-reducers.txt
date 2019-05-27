@@ -1,0 +1,12 @@
+ghc-Cabal-devel
+ghc-array-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-fingertree-devel
+ghc-hashable-devel
+ghc-rpm-macros
+ghc-semigroupoids-devel
+ghc-semigroups-devel
+ghc-text-devel
+ghc-transformers-devel
+ghc-unordered-containers-devel

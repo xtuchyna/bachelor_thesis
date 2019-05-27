@@ -1,0 +1,8 @@
+boost-devel
+extra-cmake-modules >= 5.44.0
+kf5-kactivities-devel >= 5.44.0
+kf5-kconfig-devel >= 5.44.0
+kf5-rpm-macros >= 5.44.0
+pkgconfig
+qt5-qtbase-devel
+qt5-qtdeclarative-devel

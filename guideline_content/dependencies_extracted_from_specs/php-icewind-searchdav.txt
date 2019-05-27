@@ -1,0 +1,5 @@
+php(language) >= 5.6
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit) >= 4.8
+php-composer(sabre/dav) < 4
+php-composer(sabre/dav) >= 3.2

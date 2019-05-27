@@ -1,0 +1,7 @@
+autoconf
+automake
+flac-devel
+intltool
+libao-devel
+libogg-devel
+popt-devel

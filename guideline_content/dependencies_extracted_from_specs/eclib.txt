@@ -1,0 +1,7 @@
+boost-devel
+flint-devel
+gcc-c++
+gmp-devel
+libtool
+ntl-devel
+pari-devel

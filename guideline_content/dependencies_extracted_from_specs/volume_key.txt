@@ -1,0 +1,8 @@
+/usr/bin/gpg
+cryptsetup-luks-devel
+gettext-devel
+glib2-devel
+gpgme-devel
+libblkid-devel
+nss-devel
+python-devel

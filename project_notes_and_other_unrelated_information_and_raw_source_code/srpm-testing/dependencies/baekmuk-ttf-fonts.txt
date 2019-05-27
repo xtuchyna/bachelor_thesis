@@ -1,0 +1,6 @@
+fontpackages-devel >= 1.13
+fontpackages-filesystem >= 1.13
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+ttmkfdir >= 3.0.6
+xorg-x11-font-utils

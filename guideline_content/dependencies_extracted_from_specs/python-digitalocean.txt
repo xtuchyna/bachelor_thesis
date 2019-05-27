@@ -1,0 +1,14 @@
+python2-devel
+python2-jsonpickle
+python2-mock
+python2-pytest
+python2-requests
+python2-responses
+python2-setuptools
+python3-devel
+python3-jsonpickle
+python3-mock
+python3-pytest
+python3-requests
+python3-responses
+python3-setuptools

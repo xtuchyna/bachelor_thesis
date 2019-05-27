@@ -1,0 +1,4 @@
+exiv2-devel
+gnome-sharp-devel
+mono-devel
+monodoc-devel

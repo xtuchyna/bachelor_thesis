@@ -1,0 +1,12 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(IPC::ShareLite) >= 0.06
+perl(Storable)
+perl(integer)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

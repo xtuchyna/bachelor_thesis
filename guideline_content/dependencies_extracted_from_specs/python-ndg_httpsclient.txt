@@ -1,0 +1,6 @@
+/usr/bin/killall
+openssl
+python2-devel
+python2-pyOpenSSL
+python3-devel
+python3-pyOpenSSL

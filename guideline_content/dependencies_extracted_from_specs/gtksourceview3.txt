@@ -1,0 +1,10 @@
+gettext
+itstool
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(gladeui-2.0)
+pkgconfig(glib-2.0) >= 2.48
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gtk+-3.0) >= 3.20
+pkgconfig(libxml-2.0)
+pkgconfig(pango)
+vala

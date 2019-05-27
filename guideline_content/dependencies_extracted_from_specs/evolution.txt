@@ -1,0 +1,46 @@
+bogofilter
+cmake
+gcc
+gettext
+gtk-doc
+highlight
+intltool >= 0.35.5
+itstool
+openldap-devel >= 2.0.11
+pkgconfig
+pkgconfig(atk)
+pkgconfig(cairo-gobject)
+pkgconfig(camel-1.2) >= 3.28.1
+pkgconfig(cryptui-0.0)
+pkgconfig(enchant)
+pkgconfig(gail-3.0) >= 3.10.0
+pkgconfig(gcr-3)
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(gio-2.0) >= 2.46.0
+pkgconfig(gmodule-2.0) >= 2.46.0
+pkgconfig(gnome-autoar-0) >= 0.1.1
+pkgconfig(gnome-autoar-gtk-0) >= 0.1.1
+pkgconfig(gnome-desktop-3.0) >= 2.91.3
+pkgconfig(gsettings-desktop-schemas)
+pkgconfig(gtk+-3.0) >= 3.10.0
+pkgconfig(gtkspell3-3.0)
+pkgconfig(gweather-3.0) >= 3.5.0
+pkgconfig(iso-codes)
+pkgconfig(libcanberra-gtk3)
+pkgconfig(libebackend-1.2) >= 3.28.1
+pkgconfig(libebook-1.2) >= 3.28.1
+pkgconfig(libecal-1.2) >= 3.28.1
+pkgconfig(libedataserver-1.2) >= 3.28.1
+pkgconfig(libedataserverui-1.2) >= 3.28.1
+pkgconfig(libgdata) >= 0.10.0
+pkgconfig(libnotify)
+pkgconfig(libpst)
+pkgconfig(libsoup-2.4) >= 2.42
+pkgconfig(libxml-2.0)
+pkgconfig(nspr)
+pkgconfig(nss)
+pkgconfig(shared-mime-info)
+pkgconfig(webkit2gtk-4.0) >= 2.13.90
+pkgconfig(webkit2gtk-web-extension-4.0) >= 2.13.90
+spamassassin
+yelp-tools

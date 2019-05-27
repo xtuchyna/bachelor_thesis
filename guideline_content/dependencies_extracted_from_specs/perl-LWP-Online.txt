@@ -1,0 +1,14 @@
+findutils
+make
+perl(Carp)
+perl(Exporter)
+perl(LWP::Simple) >= 5.805
+perl(Module::Install::Metadata)
+perl(Test::More) >= 0.42
+perl(URI) >= 1.35
+perl(inc::Module::Install::DSL) >= 1.01
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter
+sed

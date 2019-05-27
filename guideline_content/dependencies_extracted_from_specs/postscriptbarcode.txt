@@ -1,0 +1,5 @@
+ghostscript
+perl(File::Basename)
+perl(File::Temp)
+perl(strict)
+perl-interpreter

@@ -1,0 +1,8 @@
+perl(Config)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Find)
+perl(File::Temp)
+perl(Test::More)
+perl-generators
+perl-interpreter

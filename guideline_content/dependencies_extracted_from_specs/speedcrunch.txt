@@ -1,0 +1,5 @@
+ImageMagick
+cmake
+desktop-file-utils
+gcc-c++
+qt5-devel

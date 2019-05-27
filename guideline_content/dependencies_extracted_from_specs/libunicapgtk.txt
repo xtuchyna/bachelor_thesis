@@ -1,0 +1,11 @@
+/usr/bin/perl
+gettext
+gtk-doc >= 1.4
+gtk2-devel
+intltool
+libICE-devel
+libX11-devel
+libXext-devel
+libXv-devel
+libucil-devel
+perl(XML::Parser)

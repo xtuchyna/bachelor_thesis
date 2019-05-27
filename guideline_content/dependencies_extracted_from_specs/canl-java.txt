@@ -1,0 +1,5 @@
+maven-local
+mvn(commons-io:commons-io)
+mvn(junit:junit) >= 4.8
+mvn(org.bouncycastle:bcpkix-jdk15on) >= 1.54
+mvn(org.bouncycastle:bcprov-jdk15on) >= 1.54

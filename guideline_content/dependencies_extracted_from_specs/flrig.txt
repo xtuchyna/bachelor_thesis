@@ -1,0 +1,5 @@
+desktop-file-utils
+fltk-devel >= 1.3.0
+flxmlrpc-devel >= 0.1.0
+gcc
+libappstream-glib

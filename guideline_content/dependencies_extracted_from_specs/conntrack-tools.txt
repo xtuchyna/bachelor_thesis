@@ -1,0 +1,10 @@
+bison
+flex
+libmnl-devel >= 1.0.3
+libnetfilter_conntrack-devel >= 1.0.6
+libnetfilter_cthelper-devel >= 1.0.0
+libnetfilter_cttimeout-devel >= 1.0.0
+libnetfilter_queue-devel >= 1.0.2
+libnfnetlink-devel >= 1.0.1
+pkgconfig
+systemd

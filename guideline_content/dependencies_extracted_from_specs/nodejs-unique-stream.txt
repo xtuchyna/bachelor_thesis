@@ -1,0 +1,6 @@
+mocha
+nodejs-packaging
+npm(after)
+npm(chai)
+npm(json-stable-stringify)
+npm(through2-filter)

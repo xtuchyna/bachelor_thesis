@@ -1,0 +1,13 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IO::Capture) >= 0.05
+perl(IO::Capture::Stderr)
+perl(IO::Capture::Stdout)
+perl(Test::More)
+perl(Test::Simple) >= 0.44
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

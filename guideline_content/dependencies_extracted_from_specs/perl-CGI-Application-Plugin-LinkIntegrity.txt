@@ -1,0 +1,12 @@
+perl(CGI)
+perl(CGI::Application)
+perl(Digest::HMAC)
+perl(Digest::MD5)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage) >= 1.04
+perl(URI)
+perl(URI::Escape)
+perl(URI::QueryParam)
+perl-generators

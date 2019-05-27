@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-base-orphans-devel
+ghc-rpm-macros-extra
+ghc-tagged-devel
+ghc-transformers-compat-devel
+ghc-transformers-devel

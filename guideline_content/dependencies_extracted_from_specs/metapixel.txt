@@ -1,0 +1,5 @@
+giflib-devel
+libjpeg-devel
+libpng-devel
+make
+perl-generators

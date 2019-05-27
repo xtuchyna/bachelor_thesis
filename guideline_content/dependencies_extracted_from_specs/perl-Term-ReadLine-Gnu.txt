@@ -1,0 +1,24 @@
+coreutils
+expect
+findutils
+make
+ncurses-devel
+perl(AutoLoader)
+perl(Carp)
+perl(Config)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Getopt::Long)
+perl(Term::ReadLine)
+perl(Test)
+perl(Test::More)
+perl(open)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+readline-devel >= 2.1
+sed

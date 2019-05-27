@@ -1,0 +1,9 @@
+doxygen
+expat-devel
+gettext
+graphviz
+libxslt
+pkgconfig
+pkgconfig(libcurl)
+pkgconfig(libssh)
+zlib-devel

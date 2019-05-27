@@ -1,0 +1,9 @@
+ghc-Cabal-devel
+ghc-array-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-deepseq-devel
+ghc-rpm-macros
+ghc-scientific-devel
+ghc-text-devel
+ghc-transformers-devel

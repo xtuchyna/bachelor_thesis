@@ -1,0 +1,4 @@
+gcc
+pkgconfig(glib-2.0)
+pkgconfig(pidgin)
+pkgconfig(purple)

@@ -1,0 +1,12 @@
+autoconf
+automake
+desktop-file-utils
+fltk-devel >= 1.3.0
+gettext
+gtk+-devel
+libXft-devel
+libjpeg-devel = 6b
+libpng-devel >= 1.2.0
+openssl-devel
+perl-generators
+zlib-devel

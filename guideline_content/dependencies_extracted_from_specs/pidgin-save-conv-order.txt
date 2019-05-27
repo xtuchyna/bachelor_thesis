@@ -1,0 +1,3 @@
+intltool
+libappstream-glib
+pidgin-devel

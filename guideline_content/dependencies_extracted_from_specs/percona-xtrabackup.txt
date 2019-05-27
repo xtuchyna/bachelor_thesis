@@ -1,0 +1,17 @@
+automake
+bison
+cmake >= 2.6.3
+gcc
+gcc-c++
+libaio-devel
+libcurl-devel
+libev-devel
+libgcrypt-devel
+libtool
+ncurses-devel
+openssl-devel
+patch
+perl-generators
+procps
+python-sphinx
+vim-common

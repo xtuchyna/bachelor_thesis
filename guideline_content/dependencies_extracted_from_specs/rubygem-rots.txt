@@ -1,0 +1,5 @@
+ruby(release)
+rubygem(rack)
+rubygem(rspec)
+rubygem(ruby-openid)
+rubygems-devel

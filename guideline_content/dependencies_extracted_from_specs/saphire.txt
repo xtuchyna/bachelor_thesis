@@ -1,0 +1,5 @@
+cmigemo-devel
+gc-devel
+ncurses-devel
+oniguruma-devel
+readline-devel

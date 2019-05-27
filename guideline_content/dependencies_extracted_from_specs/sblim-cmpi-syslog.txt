@@ -1,0 +1,4 @@
+libtool
+perl-generators
+sblim-cmpi-base-devel >= 1.5.4
+sblim-cmpi-devel

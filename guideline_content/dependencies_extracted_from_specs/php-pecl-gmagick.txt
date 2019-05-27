@@ -1,0 +1,3 @@
+GraphicsMagick-devel >= 1.3.17
+php-devel >= 7
+php-pear

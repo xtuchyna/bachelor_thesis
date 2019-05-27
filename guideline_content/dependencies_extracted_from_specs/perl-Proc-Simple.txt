@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(FindBin)
+perl(IO::Handle)
+perl(POSIX)
+perl(Test::More)
+perl(Time::HiRes)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

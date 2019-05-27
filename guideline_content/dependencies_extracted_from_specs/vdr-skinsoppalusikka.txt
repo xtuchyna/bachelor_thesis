@@ -1,0 +1,2 @@
+gettext
+vdr-devel >= 1.7.21

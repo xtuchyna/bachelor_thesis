@@ -1,0 +1,10 @@
+SDL-devel
+autoconf
+automake
+doxygen
+libogg-devel >= 2:1.1
+libpng-devel
+libtool
+libvorbis-devel
+tetex-latex
+transfig

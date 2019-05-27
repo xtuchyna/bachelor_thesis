@@ -1,0 +1,9 @@
+php(language) >= 7.0
+php-composer(fedora/autoloader)
+php-ctype
+php-json
+php-pcre
+php-reflection
+php-spl
+php-tokenizer
+phpunit7

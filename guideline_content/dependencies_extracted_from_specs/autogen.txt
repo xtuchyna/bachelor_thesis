@@ -1,0 +1,6 @@
+chrpath
+gcc
+guile-devel
+libtool
+libxml2-devel
+perl-generators

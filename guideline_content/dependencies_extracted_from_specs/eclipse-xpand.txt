@@ -1,0 +1,14 @@
+antlr32-java
+apache-commons-logging
+eclipse-cdt-native
+eclipse-emf-mwe
+eclipse-emf-runtime
+eclipse-jdt
+eclipse-mdt-uml2
+eclipse-platform >= 1:4.4
+eclipse-xsd
+guava
+icu4j
+sonatype-oss-parent
+tycho
+tycho-extras

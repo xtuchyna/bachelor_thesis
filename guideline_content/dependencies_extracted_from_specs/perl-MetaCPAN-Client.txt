@@ -1,0 +1,28 @@
+coreutils
+make
+perl(CPAN::Meta) >= 2.120900
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) > 7.11
+perl(File::Spec)
+perl(HTTP::Tiny) >= 0.056
+perl(IO::Socket::SSL) >= 1.42
+perl(JSON::MaybeXS)
+perl(JSON::PP)
+perl(Moo)
+perl(Moo::Role)
+perl(Net::SSLeay) >= 1.49
+perl(Ref::Util)
+perl(Safe::Isa)
+perl(Test::Fatal)
+perl(Test::More) >= 0.88
+perl(Test::Needs) >= 0.002005
+perl(Type::Tiny)
+perl(Types::Standard)
+perl(URI::Escape)
+perl(base)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

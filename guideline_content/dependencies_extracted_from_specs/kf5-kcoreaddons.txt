@@ -1,0 +1,8 @@
+dbus-x11
+extra-cmake-modules >= 5.44
+gamin-devel
+kf5-rpm-macros >= 5.44
+qt5-qtbase-devel
+qt5-qttools-devel
+time
+xorg-x11-server-Xvfb

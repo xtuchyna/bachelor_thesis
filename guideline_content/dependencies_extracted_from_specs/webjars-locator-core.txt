@@ -1,0 +1,7 @@
+maven-local
+mvn(com.fasterxml.jackson.core:jackson-core)
+mvn(org.apache.commons:commons-compress)
+mvn(org.apache.commons:commons-lang3)
+mvn(org.apache.maven.plugins:maven-release-plugin)
+mvn(org.slf4j:slf4j-api)
+mvn(org.sonatype.oss:oss-parent:pom:)

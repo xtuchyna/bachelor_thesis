@@ -1,0 +1,14 @@
+perl(Exporter)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Spec)
+perl(JSON) >= 2
+perl(Module::Build) > 0.4005
+perl(Test::More) >= 0.98
+perl(base)
+perl(bytes)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.008001

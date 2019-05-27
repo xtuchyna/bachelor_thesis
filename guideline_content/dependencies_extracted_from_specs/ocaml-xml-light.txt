@@ -1,0 +1,4 @@
+gawk
+ocaml >= 4.00.1
+ocaml-findlib-devel >= 1.3.3-3
+ocaml-ocamldoc

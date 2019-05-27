@@ -1,0 +1,4 @@
+autoconf
+automake
+avr-gcc
+libtool

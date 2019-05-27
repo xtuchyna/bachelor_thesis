@@ -1,0 +1,7 @@
+SDL-devel
+desktop-file-utils
+libICE-devel
+libSM-devel
+libpng-devel
+ncurses-devel
+zlib-devel

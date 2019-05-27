@@ -1,0 +1,5 @@
+automake
+gcc
+python2-devel
+python2-dns
+systemd-units

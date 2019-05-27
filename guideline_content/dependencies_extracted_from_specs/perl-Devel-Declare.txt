@@ -1,0 +1,28 @@
+coreutils
+findutils
+gcc
+make
+perl(B::Compiling)
+perl(B::Hooks::EndOfScope) >= 0.05
+perl(B::Hooks::OP::Check) >= 0.19
+perl(Carp)
+perl(Cwd)
+perl(Devel::CallParser)
+perl(DynaLoader)
+perl(ExtUtils::Depends)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Filter::Util::Call)
+perl(FindBin)
+perl(Scalar::Util) >= 1.11
+perl(Sub::Name)
+perl(Test::More) >= 0.88
+perl(Test::Requires)
+perl(base)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

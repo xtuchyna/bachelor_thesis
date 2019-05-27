@@ -1,0 +1,3 @@
+dos2unix
+kernel-devel
+systemd-units

@@ -1,0 +1,8 @@
+/usr/bin/base64
+/usr/bin/head
+/usr/bin/jq
+/usr/bin/sha256sum
+/usr/bin/tr
+cmake
+desktop-file-utils
+python3-devel

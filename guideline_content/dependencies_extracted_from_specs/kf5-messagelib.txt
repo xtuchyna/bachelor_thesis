@@ -1,0 +1,40 @@
+cmake(Grantlee5)
+cmake(KF5SyntaxHighlighting)
+cmake(QGpgme)
+cmake(Qt5Network)
+cmake(Qt5Positioning)
+cmake(Qt5Qml)
+cmake(Qt5Quick)
+cmake(Qt5Test)
+cmake(Qt5UiTools)
+cmake(Qt5WebChannel)
+cmake(Qt5WebEngine)
+cmake(Qt5Widgets)
+extra-cmake-modules >= 5.28
+kdepim-apps-libs-devel >= 17.12.3
+kf5-akonadi-mime-devel >= 17.12.3
+kf5-akonadi-notes-devel >= 17.12.3
+kf5-akonadi-search-devel >= 17.12.3
+kf5-grantleetheme-devel >= 17.12.3
+kf5-karchive-devel >= 5.28
+kf5-kcodecs-devel >= 5.28
+kf5-kcompletion-devel >= 5.28
+kf5-kconfig-devel >= 5.28
+kf5-kcontacts-devel >= 17.12.3
+kf5-ki18n-devel >= 5.28
+kf5-kiconthemes-devel >= 5.28
+kf5-kidentitymanagement-devel >= 17.12.3
+kf5-kitemviews-devel >= 5.28
+kf5-kldap-devel >= 17.12.3
+kf5-kmailtransport-devel >= 17.12.3
+kf5-kmbox-devel >= 17.12.3
+kf5-kmime-devel >= 17.12.3
+kf5-kpimtextedit-devel >= 17.12.3
+kf5-ktextwidgets-devel >= 5.28
+kf5-kwidgetsaddons-devel >= 5.28
+kf5-kxmlgui-devel >= 5.28
+kf5-libgravatar-devel >= 17.12.3
+kf5-libkdepim-devel >= 17.12.3
+kf5-libkleo-devel >= 17.12.3
+kf5-pimcommon-devel >= 17.12.3
+kf5-rpm-macros >= 5.28

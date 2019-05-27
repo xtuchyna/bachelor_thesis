@@ -1,0 +1,11 @@
+boost-devel
+cmake
+libyui-devel
+libyui-mga-devel
+mono-devel >= 4.0.0
+perl-devel
+perl-generators
+python2-devel
+python3-devel
+ruby-devel
+swig

@@ -1,0 +1,6 @@
+ruby(release)
+rubygem(mail) >= 2.4.3
+rubygem(term-ansicolor) >= 1.0.7
+rubygem-minitest
+rubygem-rspec
+rubygems-devel

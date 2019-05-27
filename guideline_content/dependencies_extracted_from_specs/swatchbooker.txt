@@ -1,0 +1,7 @@
+desktop-file-utils
+lcms2-devel
+libappstream-glib
+python-qt5-devel
+python-setuptools
+python2-devel
+python2-pillow-qt

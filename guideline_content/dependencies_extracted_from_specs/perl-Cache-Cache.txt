@@ -1,0 +1,14 @@
+perl(Digest::SHA1)
+perl(Error)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(IPC::ShareLite)
+perl(Storable)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

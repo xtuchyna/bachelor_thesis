@@ -1,0 +1,13 @@
+blt
+cairo-devel
+desktop-file-utils
+gcc
+libGL-devel
+libGLU-devel
+libGLw-devel
+libXext-devel
+libXi-devel
+libXmu-devel
+m4
+tcsh
+tk-devel

@@ -1,0 +1,3 @@
+gettext-devel
+libtool
+python2-devel

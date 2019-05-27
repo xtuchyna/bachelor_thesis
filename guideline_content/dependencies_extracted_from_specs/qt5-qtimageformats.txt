@@ -1,0 +1,6 @@
+jasper-devel
+libmng-devel
+libtiff-devel
+libwebp-devel >= 0.4.4
+qt5-qtbase-devel >= 5.10.1
+qt5-qtbase-private-devel

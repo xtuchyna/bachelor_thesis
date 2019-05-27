@@ -1,0 +1,9 @@
+ruby(release)
+ruby-devel
+rubygem(rake)
+rubygem(test-unit)
+rubygem(test-unit-notify)
+rubygem-glib2-devel >= 3.0.9
+rubygem-gobject-introspection-devel >= 3.0.9
+rubygems-devel
+shared-mime-info

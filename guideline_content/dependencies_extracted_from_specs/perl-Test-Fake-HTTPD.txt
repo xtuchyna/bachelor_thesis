@@ -1,0 +1,24 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Daemon)
+perl(HTTP::Daemon::SSL)
+perl(HTTP::Message::PSGI)
+perl(LWP::Protocol::https)
+perl(LWP::UserAgent)
+perl(Module::Build::Tiny) >= 0.035
+perl(Scalar::Util) >= 1.14
+perl(Test::Exception)
+perl(Test::More) >= 0.98
+perl(Test::SharedFork) >= 0.29
+perl(Test::TCP)
+perl(Test::UseAllModules)
+perl(Time::HiRes)
+perl(URI)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

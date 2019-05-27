@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(CGI)
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(HTML::Parser) >= 3.26
+perl(HTML::TokeParser)
+perl(Test)
+perl(Test::More)
+perl(Test::Output)
+perl(integer)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,3 @@
+gsl-devel
+latex2html
+texlive-latex

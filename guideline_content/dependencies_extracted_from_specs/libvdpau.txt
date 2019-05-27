@@ -1,0 +1,9 @@
+autoconf
+automake
+doxygen
+graphviz
+libX11-devel
+libXext-devel
+libtool
+tex(latex)
+xorg-x11-proto-devel

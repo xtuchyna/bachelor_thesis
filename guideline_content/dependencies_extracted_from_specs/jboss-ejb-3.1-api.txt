@@ -1,0 +1,6 @@
+maven-local
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.jboss.spec.javax.transaction:jboss-transaction-api_1.1_spec)
+mvn(org.jboss.spec.javax.xml.rpc:jboss-jaxrpc-api_1.1_spec)
+mvn(org.jboss:jboss-parent:pom:)

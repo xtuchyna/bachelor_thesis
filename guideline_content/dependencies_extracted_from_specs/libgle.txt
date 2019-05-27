@@ -1,0 +1,4 @@
+freeglut-devel
+libXi-devel
+libXmu-devel
+mesa-libGL-devel

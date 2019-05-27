@@ -1,0 +1,11 @@
+desktop-file-utils
+fftw-devel
+gettext
+gtk2-devel
+intltool
+jack-audio-connection-kit-devel
+ladspa-devel
+liblo-devel
+libtool
+libxml2-devel
+perl-XML-Parser

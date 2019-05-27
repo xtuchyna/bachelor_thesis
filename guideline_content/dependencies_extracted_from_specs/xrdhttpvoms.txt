@@ -1,0 +1,6 @@
+boost-devel >= 1.41.0
+cmake
+voms-devel >= 2.0.10
+xrootd >= 4.0.0
+xrootd-devel >= 4.0.0
+xrootd-server-devel >= 4.0.0

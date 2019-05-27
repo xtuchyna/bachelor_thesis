@@ -1,0 +1,4 @@
+automake
+dbus-devel
+gcc
+pkgconfig(x11)

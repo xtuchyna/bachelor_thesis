@@ -1,0 +1,4 @@
+automake
+gcc-c++
+libtcd-devel
+qt4-devel

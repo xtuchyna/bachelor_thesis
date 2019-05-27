@@ -1,0 +1,7 @@
+/usr/bin/appstream-util
+/usr/bin/desktop-file-install
+bzip2-devel
+gettext
+git
+wxGTK3-devel
+xz-devel

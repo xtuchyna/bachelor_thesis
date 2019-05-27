@@ -1,0 +1,11 @@
+bzip2
+openscap < 1.3.0
+openscap >= 1.2.1
+openscap-devel
+ruby >= 1.9.3
+ruby(release)
+rubygem(bundler)
+rubygem(ffi) >= 1.0.9
+rubygem(rake)
+rubygem(test-unit)
+rubygems-devel

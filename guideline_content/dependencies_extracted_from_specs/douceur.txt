@@ -1,0 +1,4 @@
+compiler(go-compiler)
+golang(github.com/PuerkitoBio/goquery)
+golang(github.com/gorilla/css/scanner)
+golang(golang.org/x/net/html)

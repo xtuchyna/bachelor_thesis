@@ -1,0 +1,6 @@
+fedora-gnat-project-common
+gcc-gnat
+gprbuild
+make
+python3-sphinx
+python3-sphinxcontrib-adadomain

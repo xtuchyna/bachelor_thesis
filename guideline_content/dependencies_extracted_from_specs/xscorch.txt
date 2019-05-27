@@ -1,0 +1,5 @@
+desktop-file-utils
+gtk2-devel
+libX11-devel
+libappstream-glib
+perl-interpreter

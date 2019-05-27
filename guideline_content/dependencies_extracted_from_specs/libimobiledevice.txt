@@ -1,0 +1,17 @@
+autoconf
+automake
+git-core
+glib2-devel
+gnutls-devel
+libgcrypt-devel
+libplist-devel
+libplist-python
+libtasn1-devel
+libtool
+libusbmuxd-devel
+libusbx-devel
+libxml2-devel
+python-devel
+python-setuptools
+readline-devel
+swig

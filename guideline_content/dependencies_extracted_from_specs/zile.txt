@@ -1,0 +1,5 @@
+autoconf
+automake
+gc-devel
+help2man
+ncurses-devel

@@ -1,0 +1,7 @@
+fftw3-devel
+gcc-gfortran
+libxc-devel
+mpich-devel
+openblas-devel
+openmpi-devel
+time

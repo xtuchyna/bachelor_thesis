@@ -1,0 +1,16 @@
+/usr/bin/cmp
+/usr/bin/pod2man
+/usr/bin/rename
+coreutils
+gcc
+krb5-devel
+lksctp-tools-devel
+perl(File::Temp)
+perl(Math::BigInt)
+perl(Module::Load::Conditional)
+perl(Test::Harness)
+perl(Test::More)
+perl(Time::HiRes)
+perl-interpreter
+sed
+zlib-devel

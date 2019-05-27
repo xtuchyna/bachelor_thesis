@@ -1,0 +1,12 @@
+python-twisted-core
+python2-devel
+python2-nose
+python2-setuptools
+python2-six
+python2-zmq >= 13.0.0
+python3-devel
+python3-nose
+python3-setuptools
+python3-six
+python3-twisted
+python3-zmq >= 13.0.0

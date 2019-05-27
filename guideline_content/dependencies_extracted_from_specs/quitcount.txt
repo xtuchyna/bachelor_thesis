@@ -1,0 +1,4 @@
+desktop-file-utils
+gettext
+gtk3-devel
+unique-devel

@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext-devel
+gtk3-devel
+intltool
+vte291-devel

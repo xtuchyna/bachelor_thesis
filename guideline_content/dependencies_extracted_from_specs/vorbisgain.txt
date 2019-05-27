@@ -1,0 +1,2 @@
+libogg-devel
+libvorbis-devel

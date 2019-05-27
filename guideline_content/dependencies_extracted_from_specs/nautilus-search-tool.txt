@@ -1,0 +1,8 @@
+/usr/bin/gnome-search-tool
+GConf2-devel
+autoconf
+gettext
+gnome-vfs2-devel
+intltool
+libtool
+nautilus-devel

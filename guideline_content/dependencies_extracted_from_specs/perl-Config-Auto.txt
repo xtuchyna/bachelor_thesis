@@ -1,0 +1,7 @@
+perl(Config::IniFiles)
+perl(ExtUtils::MakeMaker)
+perl(IO::String)
+perl(Test::More)
+perl(Test::Pod)
+perl(YAML)
+perl-generators

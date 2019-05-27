@@ -1,0 +1,5 @@
+cmake
+gcc-c++
+make
+python2-devel
+swig

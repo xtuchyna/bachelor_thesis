@@ -1,0 +1,9 @@
+newt-devel
+nss-devel >= 3.13.1
+nss-util-devel >= 3.13.1
+perl(ExtUtils::MakeMaker)
+perl(Newt)
+perl-devel
+perl-generators
+pkgconfig
+xmlto

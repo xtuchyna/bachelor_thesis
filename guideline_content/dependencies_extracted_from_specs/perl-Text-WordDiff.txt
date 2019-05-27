@@ -1,0 +1,14 @@
+perl(Algorithm::Diff) >= 1.19
+perl(Carp)
+perl(Encode) >= 1.20
+perl(File::Spec::Functions)
+perl(HTML::Entities)
+perl(IO::File)
+perl(Module::Build)
+perl(Term::ANSIColor)
+perl(Test::More)
+perl(Test::Pod)
+perl(constant)
+perl(strict)
+perl(vars)
+perl-generators

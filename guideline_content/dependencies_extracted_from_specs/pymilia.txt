@@ -1,0 +1,7 @@
+Cython
+milia-devel >= 1.0.0
+python-devel
+python-setuptools
+python3-Cython
+python3-devel
+python3-setuptools

@@ -1,0 +1,16 @@
+python-coverage
+python-dateutil
+python-mock
+python-nose
+python-setuptools
+python-six
+python-sure
+python2-devel
+python3-coverage
+python3-dateutil
+python3-devel
+python3-mock
+python3-nose
+python3-setuptools
+python3-six
+python3-sure

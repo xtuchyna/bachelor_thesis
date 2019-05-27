@@ -1,0 +1,5 @@
+allegro-devel
+autoconf
+automake
+desktop-file-utils
+libtool

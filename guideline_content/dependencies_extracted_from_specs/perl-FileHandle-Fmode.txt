@@ -1,0 +1,12 @@
+coreutils
+dos2unix
+findutils
+make
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(strict)
+perl-devel
+perl-generators
+perl-interpreter

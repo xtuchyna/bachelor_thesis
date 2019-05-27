@@ -1,0 +1,25 @@
+coreutils
+findutils
+make
+perl(B)
+perl(Carp)
+perl(Devel::LexAlias) >= 0.05
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(PadWalker)
+perl(Perl::Tidy)
+perl(Scalar::Util)
+perl(Test::Fatal)
+perl(Test::More) >= 0.88
+perl(Test::Output)
+perl(Test::Requires)
+perl(blib)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,22 @@
+jarjar
+java-11-openjdk-devel
+java_cup
+junit
+maven-assembly-plugin
+maven-dependency-plugin
+maven-failsafe-plugin
+maven-jar-plugin
+maven-local
+maven-plugin-bundle
+maven-plugin-plugin
+maven-shade-plugin
+maven-source-plugin
+maven-surefire-plugin
+maven-surefire-provider-junit
+maven-surefire-provider-testng
+maven-verifier-plugin
+mvn(org.jboss.modules:jboss-modules)
+objectweb-asm
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+testng

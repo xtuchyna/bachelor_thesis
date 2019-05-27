@@ -1,0 +1,7 @@
+gail-devel
+gettext
+gtk2-devel
+intltool
+libart_lgpl-devel
+libglade2-devel
+libtool

@@ -1,0 +1,3 @@
+(crate(bincode) >= 0.8.0 with crate(bincode) < 0.9.0)
+(crate(serde) >= 1.0.0 with crate(serde) < 2.0.0)
+rust-packaging

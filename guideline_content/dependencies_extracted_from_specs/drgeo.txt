@@ -1,0 +1,8 @@
+bison
+compat-guile18-devel
+desktop-file-utils
+flex
+gettext
+gmp-devel >= 2.0.2
+intltool
+libglade2-devel

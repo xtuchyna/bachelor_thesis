@@ -1,0 +1,11 @@
+g2clib-static
+grib_api-devel
+openjpeg-devel
+python2-Cython
+python2-devel
+python2-numpy
+python2-pyproj
+python3-Cython
+python3-devel
+python3-numpy
+python3-pyproj

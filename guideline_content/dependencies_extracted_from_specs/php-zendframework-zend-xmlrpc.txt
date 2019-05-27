@@ -1,0 +1,16 @@
+php(language) >= 5.6
+php-autoloader(zendframework/zend-http) >= 2.5.4
+php-autoloader(zendframework/zend-math) >= 2.7
+php-autoloader(zendframework/zend-server) >= 2.7
+php-autoloader(zendframework/zend-stdlib) >= 2.7
+php-autoloader(zendframework/zendxml) >= 1.0.2
+php-date
+php-dom
+php-fedora-autoloader-devel
+php-iconv
+php-libxml
+php-pcre
+php-simplexml
+php-spl
+php-xmlwriter
+phpunit6 >= 6.4.4

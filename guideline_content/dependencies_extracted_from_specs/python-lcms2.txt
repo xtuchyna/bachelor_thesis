@@ -1,0 +1,3 @@
+lcms2-devel
+python2-devel
+python2-pytest

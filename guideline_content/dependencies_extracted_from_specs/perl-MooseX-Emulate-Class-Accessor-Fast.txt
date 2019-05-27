@@ -1,0 +1,21 @@
+findutils
+make
+perl(Class::Accessor::Fast)
+perl(Class::MOP)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moose) >= 0.84
+perl(Moose::Meta::Method::Accessor)
+perl(Moose::Role)
+perl(Scalar::Util)
+perl(Test::Exception)
+perl(Test::More)
+perl(base)
+perl(inc::Module::Install)
+perl(lib)
+perl(namespace::clean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

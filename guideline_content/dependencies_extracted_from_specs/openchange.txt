@@ -1,0 +1,23 @@
+autoconf
+automake
+bison
+doxygen
+file-devel
+flex
+gcc
+gcc-c++
+libical-devel
+libldb-devel
+libmemcached-devel
+libtalloc-devel >= 2.0.5
+libtdb-devel
+libxslt
+pkgconfig
+popt-devel
+python-devel
+samba-common >= 4.2.0-2
+samba-devel >= 4.2.0-2
+samba-libs >= 4.2.0-2
+samba-pidl >= 4.2.0-2
+sqlite-devel
+zlib-devel

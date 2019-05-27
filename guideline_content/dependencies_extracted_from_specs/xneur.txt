@@ -1,0 +1,17 @@
+alsa-utils
+enchant-devel
+fontconfig-devel
+freealut-devel >= 1.0.1
+freetype-devel
+gettext-devel
+glib2-devel
+gstreamer-devel
+gtk2-devel
+imlib2-devel
+intltool
+libICE-devel
+libX11-devel
+libXpm-devel
+libXtst-devel
+libnotify-devel >= 0.4.0
+pcre-devel

@@ -1,0 +1,6 @@
+gcc
+ibacm-devel
+libibverbs-devel >= 1.2.1
+librdmacm-devel >= 1.1.0
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

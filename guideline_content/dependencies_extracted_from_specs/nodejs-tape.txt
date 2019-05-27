@@ -1,0 +1,16 @@
+nodejs-packaging
+npm(concat-stream)
+npm(deep-equal) >= 0.2.1
+npm(defined)
+npm(function-bind)
+npm(has)
+npm(js-yaml)
+npm(jsonify)
+npm(minimist)
+npm(object-inspect)
+npm(resolve)
+npm(resumer)
+npm(string.prototype.trim)
+npm(tap)
+npm(tap-parser)
+npm(through)

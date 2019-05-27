@@ -1,0 +1,13 @@
+doxygen
+fftw-devel
+jack-audio-connection-kit-devel
+libsamplerate-devel
+libsndfile-devel
+numpy
+pkgconfig
+python2-devel
+python2-setuptools
+python3-devel
+python3-numpy
+python3-setuptools
+txt2man

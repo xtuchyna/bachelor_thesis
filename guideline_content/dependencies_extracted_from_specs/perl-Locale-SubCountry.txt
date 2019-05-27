@@ -1,0 +1,12 @@
+findutils
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(JSON) >= 1
+perl(Test::More) >= 0.94
+perl(locale) >= 1
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

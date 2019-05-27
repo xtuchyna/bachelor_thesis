@@ -1,0 +1,6 @@
+maven-local
+mvn(javax.el:javax.el-api)
+mvn(javax.servlet:javax.servlet-api)
+mvn(net.java:jvnet-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)

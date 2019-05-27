@@ -1,0 +1,13 @@
+gcc
+gettext
+libXinerama-devel
+libXmu-devel
+libXpm-devel
+pkgconfig(cairo)
+pkgconfig(freetype2)
+pkgconfig(fribidi)
+pkgconfig(libjpeg)
+pkgconfig(libpng)
+pkgconfig(librsvg-2.0)
+pkgconfig(xft)
+pkgconfig(xrender)

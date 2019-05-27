@@ -1,0 +1,18 @@
+coreutils
+findutils
+make
+perl(File::Find)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moo)
+perl(MooX::Types::MooseLike::Base)
+perl(Test::Exception)
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.14
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

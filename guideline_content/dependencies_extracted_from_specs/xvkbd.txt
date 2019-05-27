@@ -1,0 +1,6 @@
+Xaw3d-devel
+desktop-file-utils
+imake
+libX11-devel
+libXaw-devel
+libXtst-devel

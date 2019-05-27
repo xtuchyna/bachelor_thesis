@@ -1,0 +1,11 @@
+dblatex
+docbook-style-xsl
+gettext
+gimp-devel >= 2:2.4
+gnome-doc-utils
+graphviz
+libxml2
+libxslt
+pkgconfig >= 0.9.0
+pngcrush
+pngnq

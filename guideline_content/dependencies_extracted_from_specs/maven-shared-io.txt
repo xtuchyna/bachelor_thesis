@@ -1,0 +1,10 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)
+mvn(org.apache.maven.shared:maven-shared-utils)
+mvn(org.apache.maven.wagon:wagon-provider-api)
+mvn(org.apache.maven:maven-artifact)
+mvn(org.apache.maven:maven-compat)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.codehaus.plexus:plexus-utils)
+mvn(org.easymock:easymock)

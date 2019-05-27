@@ -1,0 +1,7 @@
+bison
+bzip2-devel
+flex
+lzma-devel
+mpich-devel
+openmpi-devel
+zlib-devel

@@ -1,0 +1,16 @@
+culmus-aharoni-clm-fonts
+culmus-caladings-clm-fonts
+culmus-david-clm-fonts
+culmus-drugulin-clm-fonts
+culmus-ellinia-clm-fonts
+culmus-frank-ruehl-clm-fonts
+culmus-hadasim-clm-fonts
+culmus-miriam-clm-fonts
+culmus-miriam-mono-clm-fonts
+culmus-nachlieli-clm-fonts
+culmus-simple-clm-fonts
+culmus-stamashkenaz-clm-fonts
+culmus-stamsefarad-clm-fonts
+culmus-yehuda-clm-fonts
+texlive-dvips-bin
+texlive-fontware-bin

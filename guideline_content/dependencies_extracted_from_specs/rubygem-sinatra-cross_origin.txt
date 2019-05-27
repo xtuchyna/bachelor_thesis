@@ -1,0 +1,4 @@
+rubygem(rack-test)
+rubygem(sinatra)
+rubygem(test-unit)
+rubygems-devel

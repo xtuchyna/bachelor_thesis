@@ -1,0 +1,28 @@
+coreutils
+findutils
+glibc-common
+make
+perl(Capture::Tiny) >= 0.05
+perl(Devel::CheckLib) >= 0.7
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(Module::Install::AutoLicense)
+perl(Module::Install::Base) >= 0.99
+perl(Module::Install::GithubMeta)
+perl(Module::Install::Makefile)
+perl(Module::Install::Metadata)
+perl(Module::Install::ReadmeFromPod)
+perl(Module::Install::WriteAll)
+perl(Test::More) >= 0.47
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(base)
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

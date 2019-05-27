@@ -1,0 +1,10 @@
+expat-devel
+freexl-devel
+geos-devel
+libspatialite-devel
+libxml2-devel
+proj-devel
+readline-devel
+readosm-devel
+sqlite-devel = 3.22.0
+zlib-devel

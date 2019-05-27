@@ -1,0 +1,2 @@
+jasper-devel
+libpng-devel

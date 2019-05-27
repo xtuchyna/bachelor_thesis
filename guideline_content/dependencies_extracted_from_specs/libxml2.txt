@@ -1,0 +1,6 @@
+cmake-rpm-macros
+gcc
+pkgconfig(liblzma)
+pkgconfig(zlib)
+python2-devel
+python3-devel

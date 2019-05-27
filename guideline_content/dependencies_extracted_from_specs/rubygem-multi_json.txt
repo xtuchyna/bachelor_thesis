@@ -1,0 +1,5 @@
+ruby
+ruby(release)
+rubygem(json_pure)
+rubygem(rspec)
+rubygems-devel >= 1.3.5

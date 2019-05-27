@@ -1,0 +1,22 @@
+avahi-gobject-devel
+glib2-devel
+gmime30-devel
+gnome-online-accounts-devel >= 3.17.91
+gom-devel
+gperf
+grilo-devel >= 0.3.1
+intltool
+itstool
+json-glib-devel
+libarchive-devel
+libdmapsharing-devel
+libgcrypt-devel
+libgdata-devel
+libmediaart-devel
+libsoup-devel
+libxml2-devel
+lua-devel
+rest-devel
+sqlite-devel
+totem-pl-parser-devel
+tracker-devel

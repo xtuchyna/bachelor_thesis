@@ -1,0 +1,10 @@
+/usr/bin/doxygen
+/usr/bin/msgmerge
+cmake
+git
+python3-arcus = 3.2.1
+python3-devel
+python3-numpy
+python3-pytest
+python3-qt5
+python3-scipy

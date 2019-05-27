@@ -1,0 +1,4 @@
+asciidoc
+gettext
+subversion-devel
+xmlto

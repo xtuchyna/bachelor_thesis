@@ -1,0 +1,15 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(SOAP::Test)
+perl(Test)
+perl(Test::More)
+perl(Test::Requires)
+perl(XMLRPC::Lite) >= 0.717
+perl(XMLRPC::Test) >= 0.717
+perl(XMLRPC::Test::Server)
+perl(diagnostics)
+perl(re)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

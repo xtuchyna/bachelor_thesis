@@ -1,0 +1,8 @@
+desktop-file-utils
+ecl
+libffi-devel
+perl-interpreter
+pkgconfig(bash-completion)
+python
+sbcl
+tk

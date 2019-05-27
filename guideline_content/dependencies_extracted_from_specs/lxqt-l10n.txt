@@ -1,0 +1,2 @@
+pkgconfig(lxqt)
+qt5-qttools-devel

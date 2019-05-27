@@ -1,0 +1,24 @@
+desktop-file-utils
+kf5-kguiaddons-devel >= 5.5.0
+kf5-kwindowsystem-devel >= 5.5.0
+kf5-solid-devel >= 5.5.0
+lm_sensors-devel
+pkgconfig(Qt5Help)
+pkgconfig(Qt5Xdg) >= 1.0.0
+pkgconfig(alsa)
+pkgconfig(dbusmenu-qt5)
+pkgconfig(libmenu-cache)
+pkgconfig(libpulse)
+pkgconfig(libstatgrab)
+pkgconfig(lxqt) >= 0.11.0
+pkgconfig(lxqt-globalkeys)
+pkgconfig(sysstat-qt5)
+pkgconfig(x11)
+pkgconfig(xcb)
+pkgconfig(xcb-damage)
+pkgconfig(xcb-util)
+pkgconfig(xcb-xkb)
+pkgconfig(xcomposite)
+pkgconfig(xkbcommon)
+pkgconfig(xkbcommon-x11)
+pkgconfig(xrender)

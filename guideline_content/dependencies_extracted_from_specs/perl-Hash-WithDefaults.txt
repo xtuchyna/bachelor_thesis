@@ -1,0 +1,9 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(Pod::Coverage) >= 0.18
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(Tie::Hash)
+perl-generators

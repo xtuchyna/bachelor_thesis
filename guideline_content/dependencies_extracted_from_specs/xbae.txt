@@ -1,0 +1,3 @@
+libXmu-devel
+libXpm-devel
+motif-devel

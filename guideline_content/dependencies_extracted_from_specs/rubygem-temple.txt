@@ -1,0 +1,6 @@
+/usr/bin/bacon
+ruby
+ruby(release)
+rubygem(erubis)
+rubygem(tilt)
+rubygems-devel

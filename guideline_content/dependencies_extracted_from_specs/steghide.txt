@@ -1,0 +1,8 @@
+autoconf
+automake
+gettext-devel
+libjpeg-devel
+libmcrypt-devel >= 2.5.8-2
+libtool
+mhash-devel
+zlib-devel

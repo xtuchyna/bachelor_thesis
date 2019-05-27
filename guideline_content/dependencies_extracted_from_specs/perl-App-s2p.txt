@@ -1,0 +1,16 @@
+perl(Config)
+perl(Devel::FindPerl) >= 0.009
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Copy)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open2)
+perl(IPC::Open3)
+perl(Symbol)
+perl(Test::More)
+perl(integer)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

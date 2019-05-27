@@ -1,0 +1,14 @@
+alsa-lib-devel
+desktop-file-utils
+gettext
+gstreamer-devel
+gstreamer-plugins-base-devel
+intltool
+libxfce4ui-devel >= 4.10
+libxfce4util-devel >= 4.10
+libxml2-devel >= 2.4.0
+perl-Carp
+startup-notification-devel
+unique-devel
+xfce4-panel-devel >= 4.10
+xfconf-devel

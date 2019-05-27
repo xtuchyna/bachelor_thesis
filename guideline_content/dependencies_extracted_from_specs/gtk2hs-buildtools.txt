@@ -1,0 +1,13 @@
+alex
+chrpath
+ghc-Cabal-devel
+ghc-array-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-hashtables-devel
+ghc-pretty-devel
+ghc-process-devel
+ghc-random-devel
+ghc-rpm-macros
+happy

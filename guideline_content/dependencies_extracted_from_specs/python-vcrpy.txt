@@ -1,0 +1,14 @@
+PyYAML
+python-contextlib2
+python-mock
+python-setuptools
+python-six
+python-wrapt
+python2-devel
+python3-PyYAML
+python3-contextlib2
+python3-devel
+python3-mock
+python3-setuptools
+python3-six
+python3-wrapt

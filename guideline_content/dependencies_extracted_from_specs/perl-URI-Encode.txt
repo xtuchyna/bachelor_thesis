@@ -1,0 +1,10 @@
+perl(Carp)
+perl(Encode) >= 2.12
+perl(Exporter)
+perl(Module::Build)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

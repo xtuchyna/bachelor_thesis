@@ -1,0 +1,17 @@
+OpenEXR-devel >= 1.2
+blender-rpm-macros
+boost-devel
+cmake
+freetype-devel
+gcc-c++
+git
+libappstream-glib
+libjpeg-devel
+libpng-devel
+libtiff-devel
+libxml2-devel
+opencv-devel
+python3-devel
+qt-devel
+swig
+zlib-devel

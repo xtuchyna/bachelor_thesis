@@ -1,0 +1,8 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IO::Socket::INET)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

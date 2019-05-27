@@ -1,0 +1,16 @@
+coreutils
+findutils
+gcc
+make
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Compare)
+perl(File::Spec)
+perl(Test::More)
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+zlib-devel

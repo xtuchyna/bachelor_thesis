@@ -1,0 +1,4 @@
+alsa-lib-devel
+autoconf
+jack-audio-connection-kit-devel
+symlinks

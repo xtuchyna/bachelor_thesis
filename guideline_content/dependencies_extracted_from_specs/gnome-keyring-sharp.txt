@@ -1,0 +1,8 @@
+autoconf
+automake
+gtk-sharp2-devel
+libgnome-keyring-devel
+libtool
+mono-devel
+monodoc
+ndesk-dbus-devel

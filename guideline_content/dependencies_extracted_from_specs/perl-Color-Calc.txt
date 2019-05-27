@@ -1,0 +1,8 @@
+perl(ExtUtils::MakeMaker)
+perl(Graphics::ColorNames)
+perl(Graphics::ColorNames::WWW)
+perl(Params::Validate)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Test::Pod)
+perl-generators

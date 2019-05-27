@@ -1,0 +1,5 @@
+cmake
+libjpeg-devel
+libpng-devel
+libtiff-devel
+zlib-devel

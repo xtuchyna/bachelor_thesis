@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Slurp::Tiny) >= 0.003
+perl(File::Spec) >= 3.4
+perl(File::Temp) >= 0.19
+perl(Test::More) >= 1.001002
+perl(Test::Pod) >= 1.48
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

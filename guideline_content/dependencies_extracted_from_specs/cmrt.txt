@@ -1,0 +1,4 @@
+gcc-c++
+libtool
+pkgconfig(libdrm) >= 2.4.23
+pkgconfig(libva) >= 0.34

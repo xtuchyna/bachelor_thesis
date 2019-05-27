@@ -1,0 +1,3 @@
+avahi-devel
+e2fsprogs-devel
+httpd-devel

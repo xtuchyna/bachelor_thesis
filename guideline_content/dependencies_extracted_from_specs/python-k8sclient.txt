@@ -1,0 +1,24 @@
+python2-coverage
+python2-devel
+python2-hacking
+python2-oslo-sphinx
+python2-oslotest
+python2-pbr >= 1.8
+python2-setuptools
+python2-six
+python2-sphinx
+python2-subunit
+python2-testrepository
+python2-testscenarios
+python2-testtools
+python3-coverage
+python3-devel
+python3-hacking
+python3-oslotest
+python3-pbr >= 1.8
+python3-setuptools
+python3-six
+python3-subunit
+python3-testrepository
+python3-testscenarios
+python3-testtools

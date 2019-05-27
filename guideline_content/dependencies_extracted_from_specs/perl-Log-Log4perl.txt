@@ -1,0 +1,47 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(DBD::CSV)
+perl(DBI)
+perl(Data::Dumper)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec) >= 0.82
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(Filter::Util::Call)
+perl(FindBin)
+perl(IO::Socket::INET)
+perl(IPC::Semaphore)
+perl(IPC::SysV)
+perl(Log::Dispatch)
+perl(Log::Dispatch::File)
+perl(Log::Dispatch::FileRotate) >= 1.10
+perl(Log::Dispatch::Screen)
+perl(Log::Dispatch::Syslog)
+perl(POSIX)
+perl(RRDs)
+perl(SQL::Statement)
+perl(Storable)
+perl(Sys::Syslog)
+perl(Test)
+perl(Test::More) >= 0.45
+perl(XML::DOM)
+perl(base)
+perl(constant)
+perl(fields)
+perl(if)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

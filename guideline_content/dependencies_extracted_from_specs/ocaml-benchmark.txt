@@ -1,0 +1,5 @@
+ocaml
+ocaml-findlib
+ocaml-oasis-devel
+ocaml-ocamlbuild
+ocaml-ocamldoc

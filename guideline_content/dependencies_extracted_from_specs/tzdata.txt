@@ -1,0 +1,5 @@
+gawk
+glibc
+glibc-common >= 2.5.90-7
+java-devel
+perl-interpreter

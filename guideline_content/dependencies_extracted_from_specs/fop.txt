@@ -1,0 +1,12 @@
+ant
+apache-commons-io
+apache-commons-logging
+avalon-framework
+batik
+fontbox
+javapackages-local
+junit
+qdox
+servlet
+xmlgraphics-commons >= 1.5
+xmlunit

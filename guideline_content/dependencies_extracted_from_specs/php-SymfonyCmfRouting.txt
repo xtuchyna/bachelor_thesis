@@ -1,0 +1,17 @@
+php(language) >= 5.3.9
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(psr/log) < 2.0
+php-composer(psr/log) >= 1.0.1
+php-composer(symfony/config) < 4.0
+php-composer(symfony/config) >= 2.7.1
+php-composer(symfony/dependency-injection) < 4.0
+php-composer(symfony/dependency-injection) >= 2.7.1
+php-composer(symfony/event-dispatcher) < 4.0
+php-composer(symfony/event-dispatcher) >= 2.7.1
+php-composer(symfony/http-kernel) < 4.0
+php-composer(symfony/http-kernel) >= 2.7.1
+php-composer(symfony/routing) < 4.0
+php-composer(symfony/routing) >= 2.7.1
+php-pcre
+php-spl

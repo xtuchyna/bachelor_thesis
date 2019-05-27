@@ -1,0 +1,7 @@
+check-devel
+glib2-devel
+gpg
+gtk-doc
+libasyncns-devel
+libidn-devel
+openssl-devel

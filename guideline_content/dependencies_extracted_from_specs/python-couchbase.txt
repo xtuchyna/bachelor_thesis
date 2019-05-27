@@ -1,0 +1,20 @@
+gcc
+libcouchbase-devel
+python2-configparser
+python2-devel
+python2-gevent
+python2-jsonschema
+python2-pbr
+python2-setuptools
+python2-testresources >= 0.2.7
+python2-twisted
+python3-configparser
+python3-devel
+python3-gevent
+python3-jsonschema
+python3-numpydoc
+python3-pbr
+python3-setuptools
+python3-sphinx
+python3-testresources >= 0.2.7
+python3-twisted

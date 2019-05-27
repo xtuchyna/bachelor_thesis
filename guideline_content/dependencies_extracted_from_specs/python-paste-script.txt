@@ -1,0 +1,6 @@
+python2-devel
+python2-paste-deploy
+python2-six
+python3-devel
+python3-paste-deploy
+python3-six

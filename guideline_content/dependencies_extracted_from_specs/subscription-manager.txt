@@ -1,0 +1,15 @@
+GConf2-devel
+dbus-glib-devel
+desktop-file-utils
+gcc
+gettext
+gtk3-devel
+intltool
+libnotify-devel
+openssl-devel
+python3-devel
+python3-setuptools
+python3-six
+redhat-lsb
+scrollkeeper
+systemd

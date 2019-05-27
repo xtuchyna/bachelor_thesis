@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(deep-equal)
+npm(espurify)
+npm(estraverse)

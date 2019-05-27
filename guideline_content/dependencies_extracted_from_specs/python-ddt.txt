@@ -1,0 +1,12 @@
+python2-devel
+python2-mock
+python2-nose
+python2-setuptools
+python2-six >= 1.4.0
+python2-yaml
+python3-devel
+python3-mock
+python3-nose
+python3-setuptools
+python3-six >= 1.4.0
+python3-yaml

@@ -1,0 +1,18 @@
+desktop-file-utils
+gettext
+itstool
+libappstream-glib-devel
+meson
+pkgconfig(gio-unix-2.0) >= 2.28
+pkgconfig(goa-1.0)
+pkgconfig(gtk+-3.0) >= 3.11.4
+pkgconfig(libecal-1.2) >= 3.13.90
+pkgconfig(libedataserverui-1.2) >= 3.13.90
+pkgconfig(libxml-2.0)
+pkgconfig(tracker-sparql-2.0)
+pkgconfig(uuid)
+pkgconfig(webkit2gtk-4.0)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+vala
+yelp-tools

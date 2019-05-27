@@ -1,0 +1,2 @@
+python-setuptools
+python2-devel

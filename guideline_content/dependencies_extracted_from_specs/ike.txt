@@ -1,0 +1,9 @@
+bison
+cmake
+desktop-file-utils
+flex
+libedit-devel
+openldap-devel
+openssl-devel
+qt4-devel
+systemd

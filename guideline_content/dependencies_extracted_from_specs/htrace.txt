@@ -1,0 +1,7 @@
+apache-parent
+jackson-core
+jackson-databind
+java-devel
+jetty-util-ajax
+libthrift-java
+maven-local

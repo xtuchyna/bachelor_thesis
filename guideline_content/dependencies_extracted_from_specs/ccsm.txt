@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext
+gobject-introspection-devel
+intltool
+python3-devel

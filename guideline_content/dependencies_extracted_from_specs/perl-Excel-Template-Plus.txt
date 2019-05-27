@@ -1,0 +1,21 @@
+perl(Excel::Template)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec::Functions)
+perl(FindBin)
+perl(IO::String)
+perl(Moose) >= 0.18
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::Param) >= 0.01
+perl(Spreadsheet::ParseExcel)
+perl(Template)
+perl(Test::Builder)
+perl(Test::Deep)
+perl(Test::Exception) >= 0.21
+perl(Test::More) >= 0.47
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

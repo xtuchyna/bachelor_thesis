@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(fstream)
+npm(inherits) >= 2.0.0
+npm(minimatch)
+npm(mkdirp)
+npm(rimraf)
+npm(tap)

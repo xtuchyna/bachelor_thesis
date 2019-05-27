@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(coderay) >= 1.1.0
+rubygem(method_source) >= 0.8.1
+rubygem(rspec)
+rubygem(slop) >= 3.4
+rubygems-devel
+vi

@@ -1,0 +1,5 @@
+perl(ExtUtils::MakeMaker)
+perl(Test::LeakTrace)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl-generators

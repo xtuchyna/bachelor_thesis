@@ -1,0 +1,17 @@
+autoconf
+cppunit-devel
+expat-devel
+http-parser-devel
+libdb-devel
+libgsasl-devel
+libidn-devel
+libtool
+mariadb-connector-c-devel
+openldap-devel
+openssl-devel
+pam-devel
+perl-generators
+postgresql-devel
+sqlite-devel
+systemd-units
+udns-devel

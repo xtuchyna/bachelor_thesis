@@ -1,0 +1,2 @@
+python2-devel
+sed >= 3.95

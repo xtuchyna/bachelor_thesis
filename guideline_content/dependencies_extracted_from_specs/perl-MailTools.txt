@@ -1,0 +1,24 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Date::Format)
+perl(Date::Parse)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IO::Handle)
+perl(Net::Domain) >= 1.05
+perl(Net::NNTP)
+perl(Net::SMTP) >= 1.03
+perl(Net::SMTP::SSL)
+perl(POSIX)
+perl(Test::More)
+perl(Test::Pod)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

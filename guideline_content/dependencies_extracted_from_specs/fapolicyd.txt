@@ -1,0 +1,7 @@
+file-devel
+kernel-headers
+libcap-ng-devel
+libgcrypt-devel
+libseccomp-devel
+rpm-devel
+systemd-devel

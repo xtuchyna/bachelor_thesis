@@ -1,0 +1,18 @@
+findutils
+make
+perl(Config)
+perl(Digest::base) >= 1.00
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(MIME::Base64)
+perl(Test)
+perl(Test::More)
+perl(XSLoader)
+perl(strict)
+perl(threads)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

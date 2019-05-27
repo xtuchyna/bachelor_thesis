@@ -1,0 +1,16 @@
+PyYAML
+pytest
+python-configobj
+python-devel
+python-flexmock
+python-setuptools
+python-six
+python-xmltodict
+python3-PyYAML
+python3-configobj
+python3-devel
+python3-flexmock
+python3-pytest
+python3-setuptools
+python3-six
+python3-xmltodict

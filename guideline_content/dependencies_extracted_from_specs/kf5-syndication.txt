@@ -1,0 +1,6 @@
+extra-cmake-modules
+kf5-kcodecs-devel >= 5.19.0
+kf5-kio-devel >= 5.19.0
+kf5-rpm-macros
+qt5-qtbase-devel
+time

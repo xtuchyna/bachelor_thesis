@@ -1,0 +1,3 @@
+imake
+libxml2-devel
+pcre-devel

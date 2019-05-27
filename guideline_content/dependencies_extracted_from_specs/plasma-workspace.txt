@@ -1,0 +1,78 @@
+boost-devel
+chrpath
+cmake(AppStreamQt) >= 0.10.4
+dbusmenu-qt5-devel
+desktop-backgrounds-compat
+desktop-file-utils
+extra-cmake-modules
+fontconfig-devel
+glib2-devel
+gpsd-devel
+kf5-baloo-devel >= 5.34.0
+kf5-kactivities-devel
+kf5-kcmutils-devel >= 5.34.0
+kf5-kcrash-devel >= 5.34.0
+kf5-kdeclarative-devel >= 5.34.0
+kf5-kdelibs4support-devel >= 5.34.0
+kf5-kdesu-devel >= 5.34.0
+kf5-kdewebkit-devel >= 5.34.0
+kf5-kdoctools-devel >= 5.34.0
+kf5-kglobalaccel-devel >= 5.34.0
+kf5-kholidays-devel
+kf5-kidletime-devel >= 5.34.0
+kf5-kinit-devel >= 5.34.0
+kf5-kjsembed-devel >= 5.34.0
+kf5-knewstuff-devel >= 5.34.0
+kf5-knotifyconfig-devel >= 5.34.0
+kf5-krunner-devel >= 5.34.0
+kf5-ksysguard-devel >= 5.12
+kf5-ktexteditor-devel >= 5.34.0
+kf5-ktextwidgets-devel >= 5.34.0
+kf5-kwallet-devel >= 5.34.0
+kf5-kwayland-devel >= 5.34.0
+kf5-kxmlrpcclient-devel >= 5.34.0
+kf5-networkmanager-qt-devel >= 5.34.0
+kf5-plasma-devel >= 5.34.0
+kf5-prison-devel
+kf5-rpm-macros >= 5.34.0
+kf5-threadweaver-devel >= 5.34.0
+kscreenlocker-devel >= 5.12
+kwin-devel >= 5.12
+libGL-devel
+libSM-devel
+libX11-devel
+libXau-devel
+libXcomposite-devel
+libXcursor-devel
+libXdamage-devel
+libXdmcp-devel
+libXfixes-devel
+libXrandr-devel
+libXrender-devel
+libXtst-devel
+libbsd-devel
+libkscreen-qt5-devel >= 5.12
+libqalculate-devel
+libraw1394-devel
+libusb-devel
+libwayland-client-devel >= 1.3.0
+libwayland-server-devel >= 1.3.0
+libxcb-devel
+libxkbfile-devel
+lm_sensors-devel
+mesa-libGLES-devel
+pam-devel
+pciutils-devel
+phonon-qt5-devel
+pkgconfig(iso-codes)
+qt5-qtbase-devel >= 5.7.0
+qt5-qtdeclarative-devel
+qt5-qtscript-devel
+qt5-qtwebkit-devel
+qt5-qtx11extras-devel
+xcb-util-devel
+xcb-util-image-devel
+xcb-util-keysyms-devel
+xcb-util-renderutil-devel
+xcb-util-wm-devel
+zlib-devel

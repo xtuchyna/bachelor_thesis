@@ -1,0 +1,5 @@
+/usr/bin/phpunit
+lz4-devel
+php-channel(pear.horde.org)
+php-devel
+php-pear

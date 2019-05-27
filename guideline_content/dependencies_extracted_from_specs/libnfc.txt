@@ -1,0 +1,3 @@
+doxygen
+libusb-devel
+pcsc-lite-devel

@@ -1,0 +1,4 @@
+mocha
+nodejs-packaging
+npm(is-extglob)
+npm(should)

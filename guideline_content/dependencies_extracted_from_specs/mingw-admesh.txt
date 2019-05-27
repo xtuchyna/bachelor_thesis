@@ -1,0 +1,2 @@
+mingw32-gcc
+mingw64-gcc

@@ -1,0 +1,22 @@
+bzip2-devel
+cfitsio-devel
+cppunit-devel
+doxygen
+gcc-c++
+gdal-devel
+graphviz
+hdf-static
+hdf5-devel
+libdap-devel >= 3.19.0
+libicu-devel
+libtirpc-devel
+libtool
+libuuid-devel
+netcdf-devel
+openssl-devel
+pkgconfig
+readline-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+systemd
+zlib-devel

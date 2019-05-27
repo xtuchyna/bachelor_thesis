@@ -1,0 +1,5 @@
+automake
+desktop-file-utils
+glew-devel
+ming-devel
+wxGTK3-devel

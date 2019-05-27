@@ -1,0 +1,3 @@
+gnutls-devel
+python2-devel
+python2-setuptools

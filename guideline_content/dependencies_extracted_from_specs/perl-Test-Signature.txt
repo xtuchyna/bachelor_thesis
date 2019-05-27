@@ -1,0 +1,25 @@
+coreutils
+findutils
+gnupg2
+make
+perl(Config)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::Manifest)
+perl(Fcntl)
+perl(File::Find)
+perl(File::Find::Rule)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(FindBin)
+perl(Module::Signature)
+perl(Socket)
+perl(Test::Builder)
+perl(Test::More)
+perl(Test::Pod) >= 0.95
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

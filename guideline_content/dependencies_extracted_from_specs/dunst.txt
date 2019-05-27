@@ -1,0 +1,15 @@
+/usr/bin/pod2man
+cairo-devel
+dbus-devel
+gdk-pixbuf2-devel
+glib2-devel
+gtk2-devel
+libX11-devel
+libXScrnSaver-devel
+libXft-devel
+libXinerama-devel
+libnotify-devel
+libpng-devel
+libxdg-basedir-devel
+pango-devel
+systemd

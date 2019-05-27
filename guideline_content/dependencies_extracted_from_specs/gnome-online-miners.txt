@@ -1,0 +1,8 @@
+gfbgraph-devel
+glib2-devel >= 2.35.1
+gnome-online-accounts-devel >= 3.8.0
+grilo-devel >= 0.3.0
+libgdata-devel >= 0.15.2
+libzapojit-devel >= 0.0.2
+pkgconfig
+tracker-devel >= 0.17.2

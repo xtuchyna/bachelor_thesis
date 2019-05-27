@@ -1,0 +1,3 @@
+desktop-file-utils
+gcc-c++
+qt4-devel

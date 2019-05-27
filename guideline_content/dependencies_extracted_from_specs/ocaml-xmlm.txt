@@ -1,0 +1,3 @@
+ocaml >= 3.10.0
+ocaml-findlib
+ocaml-ocamlbuild

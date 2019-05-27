@@ -1,0 +1,10 @@
+ghc-Cabal-devel
+ghc-QuickCheck-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-deepseq-devel
+ghc-directory-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-time-devel

@@ -1,0 +1,30 @@
+coreutils
+findutils
+make
+perl(B::Hooks::EndOfScope) >= 0.12
+perl(CPAN::Meta) >= 2.120900
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Spec)
+perl(FindBin)
+perl(List::Util)
+perl(Moo) >= 1.004000
+perl(Moose) >= 0.56
+perl(Moose::Role)
+perl(MooseX::Role::WithOverloading) >= 0.09
+perl(Mouse)
+perl(Scalar::Util)
+perl(Sub::Identify)
+perl(Sub::Install)
+perl(Sub::Name)
+perl(Test::More) >= 0.94
+perl(Test::Requires)
+perl(base)
+perl(constant)
+perl(namespace::clean) >= 0.20
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

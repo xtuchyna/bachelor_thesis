@@ -1,0 +1,7 @@
+curl-devel
+libsigc++20-devel
+libstdc++-devel
+libtorrent-devel >= 0.13.6
+ncurses-devel
+pkgconfig
+xmlrpc-c-devel

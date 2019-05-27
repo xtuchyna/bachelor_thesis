@@ -1,0 +1,30 @@
+PyYAML
+git
+pytest
+python-backports-lzma
+python-dockerfile-parse >= 0.0.5
+python-flexmock >= 0.10.2
+python-jsonschema
+python-mock
+python-pytest-capturelog
+python-setuptools
+python-six
+python2-devel
+python2-docker
+python2-docker-squash >= 1.0.0-0.3
+python2-osbs-client >= 0.45
+python2-responses
+python3-PyYAML
+python3-devel
+python3-docker
+python3-docker-squash >= 1.0.0-0.3
+python3-dockerfile-parse >= 0.0.5
+python3-flexmock >= 0.10.2
+python3-jsonschema
+python3-mock
+python3-osbs-client >= 0.45
+python3-pytest
+python3-pytest-capturelog
+python3-responses
+python3-setuptools
+python3-six

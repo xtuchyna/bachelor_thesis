@@ -1,0 +1,25 @@
+coreutils
+findutils
+gcc
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::testlib)
+perl(File::Path)
+perl(File::Spec)
+perl(Hash::Util)
+perl(IO::File)
+perl(POSIX)
+perl(Test::More)
+perl(Thread::Queue)
+perl(Thread::Semaphore)
+perl(XSLoader)
+perl(overload)
+perl(strict)
+perl(threads::shared)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

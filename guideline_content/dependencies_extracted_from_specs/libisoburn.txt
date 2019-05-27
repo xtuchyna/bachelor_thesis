@@ -1,0 +1,7 @@
+doxygen
+graphviz
+libacl-devel
+libburn-devel >= 1.4.8
+libisofs-devel >= 1.4.8
+readline-devel
+zlib-devel

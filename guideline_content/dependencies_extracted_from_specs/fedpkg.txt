@@ -1,0 +1,11 @@
+bash-completion
+git
+pkgconfig
+python2-bugzilla
+python2-devel
+python2-fedora
+python2-mock
+python2-nose
+python2-rpkg >= 1.51
+python2-setuptools
+python2-unittest2

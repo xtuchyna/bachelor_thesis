@@ -1,0 +1,34 @@
+SDL_Pango-devel
+SDL_gfx-devel
+SDL_image-devel
+SDL_mixer-devel
+SDL_ttf-devel
+freetype-devel
+gcc
+perl(Archive::Extract)
+perl(Capture::Tiny)
+perl(Config)
+perl(Cwd)
+perl(Digest::SHA)
+perl(Exporter)
+perl(ExtUtils::CBuilder)
+perl(ExtUtils::Command)
+perl(File::Copy)
+perl(File::Fetch) >= 0.24
+perl(File::Find)
+perl(File::Path) >= 2.08
+perl(File::ShareDir) >= 1.00
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(File::Which)
+perl(Getopt::Long)
+perl(Module::Build)
+perl(Test::More)
+perl(Text::Patch) >= 1.4
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

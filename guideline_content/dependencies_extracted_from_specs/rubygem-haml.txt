@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(activemodel)
+rubygem(minitest)
+rubygem(railties)
+rubygem(temple)
+rubygem(tilt)
+rubygems-devel

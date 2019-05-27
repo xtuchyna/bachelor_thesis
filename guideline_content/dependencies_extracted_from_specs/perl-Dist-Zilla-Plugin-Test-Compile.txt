@@ -1,0 +1,35 @@
+perl(CPAN::Meta::Check) >= 0.011
+perl(CPAN::Meta::Requirements)
+perl(Data::Section) >= 0.004
+perl(Dist::Zilla::Dist::Builder)
+perl(Dist::Zilla::Role::FileFinderUser)
+perl(Dist::Zilla::Role::FileGatherer)
+perl(Dist::Zilla::Role::FileMunger)
+perl(Dist::Zilla::Role::PrereqSource)
+perl(Dist::Zilla::Role::TextTemplate)
+perl(File::Spec)
+perl(File::pushd) >= 1.004
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Module::Build::Tiny) >= 0.039
+perl(Module::CoreList) >= 2.77
+perl(Module::Metadata)
+perl(Moose)
+perl(Moose::Util::TypeConstraints)
+perl(Path::Tiny)
+perl(Perl::PrereqScanner) >= 1.016
+perl(Sub::Exporter::ForMethods)
+perl(Test::DZil)
+perl(Test::Deep)
+perl(Test::MinimumVersion)
+perl(Test::More) >= 0.96
+perl(Test::Warnings) >= 0.009
+perl(blib)
+perl(if)
+perl(namespace::autoclean)
+perl(strict)
+perl(utf8)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

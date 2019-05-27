@@ -1,0 +1,11 @@
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Spec)
+perl(Test::More)
+perl(if)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

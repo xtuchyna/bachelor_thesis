@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(chai)
+npm(fg-lodash)
+npm(mocha)
+npm(request)

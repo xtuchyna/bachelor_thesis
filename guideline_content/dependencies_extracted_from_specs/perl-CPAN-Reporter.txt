@@ -1,0 +1,41 @@
+findutils
+make
+perl(Archive::Tar) >= 1.54
+perl(CPAN) >= 1.94
+perl(CPAN::Version)
+perl(Capture::Tiny)
+perl(Carp)
+perl(Config)
+perl(Config::Tiny) >= 2.08
+perl(Data::Dumper)
+perl(Devel::Autoflush) >= 0.04
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.36
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Copy::Recursive) >= 0.35
+perl(File::Find)
+perl(File::Glob)
+perl(File::HomeDir) >= 0.58
+perl(File::Path)
+perl(File::Spec) >= 3.19
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(File::Temp) >= 0.16
+perl(File::pushd) >= 0.32
+perl(FindBin)
+perl(IO::CaptureOutput) >= 1.03
+perl(IO::File)
+perl(IO::Handle)
+perl(IPC::Cmd) >= 0.76
+perl(Parse::CPAN::Meta)
+perl(Probe::Perl)
+perl(Test::Harness)
+perl(Test::More) >= 0.62
+perl(Test::Reporter) >= 1.54
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

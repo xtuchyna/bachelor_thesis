@@ -1,0 +1,8 @@
+binutils
+coreutils
+diffutils
+gcc
+gettext
+glibc-common
+make
+sed

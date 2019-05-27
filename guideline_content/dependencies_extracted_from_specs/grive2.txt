@@ -1,0 +1,8 @@
+boost-devel
+cmake
+curl-devel
+expat-devel
+libgcrypt-devel
+systemd
+yajl-devel
+zlib-devel

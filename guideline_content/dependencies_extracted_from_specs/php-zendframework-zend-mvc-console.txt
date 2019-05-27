@@ -1,0 +1,16 @@
+php(language) >= 5.6
+php-autoloader(zendframework/zend-console) >= 2.6
+php-autoloader(zendframework/zend-eventmanager) >= 2.6.2
+php-autoloader(zendframework/zend-filter) >= 2.6.1
+php-autoloader(zendframework/zend-form) >= 2.7
+php-autoloader(zendframework/zend-modulemanager) >= 2.7.1
+php-autoloader(zendframework/zend-mvc) >= 3.0.3
+php-autoloader(zendframework/zend-router) >= 3.0
+php-autoloader(zendframework/zend-servicemanager) >= 2.7.5
+php-autoloader(zendframework/zend-stdlib) >= 2.7.5
+php-autoloader(zendframework/zend-text) >= 2.6
+php-autoloader(zendframework/zend-view) >= 2.6.3
+php-composer(container-interop/container-interop) >= 1.1
+php-composer(phpunit/phpunit) >= 4.5
+php-fedora-autoloader-devel
+php-spl

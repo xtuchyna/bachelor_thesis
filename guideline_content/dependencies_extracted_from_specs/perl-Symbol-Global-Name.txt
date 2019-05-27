@@ -1,0 +1,8 @@
+perl(ExtUtils::MakeMaker)
+perl(Module::Install::ReadmeFromPod)
+perl(Test::More)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 1:5.8.0

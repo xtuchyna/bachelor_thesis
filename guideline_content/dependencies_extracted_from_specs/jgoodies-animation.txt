@@ -1,0 +1,4 @@
+maven-local
+mvn(com.jgoodies:jgoodies-common)
+mvn(junit:junit)
+mvn(org.sonatype.oss:oss-parent:pom:)

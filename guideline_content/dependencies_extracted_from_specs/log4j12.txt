@@ -1,0 +1,11 @@
+maven-local
+mvn(ant-contrib:ant-contrib)
+mvn(javax.mail:mail)
+mvn(junit:junit)
+mvn(org.apache.ant:ant-junit)
+mvn(org.apache.ant:ant-nodeps)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.geronimo.specs:geronimo-jms_1.1_spec)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.apache.maven.plugins:maven-assembly-plugin)
+mvn(oro:oro)

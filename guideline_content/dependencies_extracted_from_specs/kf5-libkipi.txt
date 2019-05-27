@@ -1,0 +1,9 @@
+extra-cmake-modules
+gettext
+kf5-kconfig-devel
+kf5-ki18n-devel
+kf5-kservice-devel
+kf5-kxmlgui-devel
+kf5-rpm-macros
+pkgconfig(Qt5Gui)
+python

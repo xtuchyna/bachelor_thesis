@@ -1,0 +1,11 @@
+coreutils
+findutils
+perl(DBI) >= 1.3
+perl(Module::Build)
+perl(Test::Exception) >= 0.31
+perl(Test::More) >= 0.47
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(constant)
+perl-generators
+perl-interpreter

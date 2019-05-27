@@ -1,0 +1,10 @@
+ant-testutil
+exec-maven-plugin
+maven-file-management
+maven-local
+maven-plugin-plugin
+maven-plugin-testing-harness
+maven-shared-jar
+maven-source-plugin
+maven-verifier
+mockito

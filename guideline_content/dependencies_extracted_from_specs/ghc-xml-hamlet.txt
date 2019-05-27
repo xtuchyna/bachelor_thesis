@@ -1,0 +1,10 @@
+ghc-Cabal-devel
+ghc-HUnit-devel
+ghc-containers-devel
+ghc-hspec-devel
+ghc-parsec-devel
+ghc-rpm-macros
+ghc-shakespeare-devel
+ghc-template-haskell-devel
+ghc-text-devel
+ghc-xml-conduit-devel

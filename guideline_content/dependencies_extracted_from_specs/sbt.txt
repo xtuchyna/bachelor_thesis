@@ -1,0 +1,21 @@
+apache-ivy
+hawtjni
+java-devel
+javapackages-tools
+jline2
+maven-local
+mvn(com.jcraft:jsch)
+mvn(commons-httpclient:commons-httpclient)
+mvn(org.bouncycastle:bcpg-jdk16)
+mvn(org.bouncycastle:bcprov-jdk16)
+mvn(org.fusesource.jansi:jansi)
+mvn(org.jsoup:jsoup)
+mvn(org.scala-lang:scala-compiler)
+mvn(org.scala-lang:scala-library)
+mvn(org.scala-lang:scala-reflect)
+mvn(oro:oro)
+proguard
+python
+sbinary = 0.4.2
+sbt = 0.13.1
+test-interface = 1.0

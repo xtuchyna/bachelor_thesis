@@ -1,0 +1,2 @@
+libao-devel >= 0.8.0
+libmodplug-devel

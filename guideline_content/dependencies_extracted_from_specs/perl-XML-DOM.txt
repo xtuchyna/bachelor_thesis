@@ -1,0 +1,16 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(FileHandle)
+perl(LWP::UserAgent)
+perl(Test)
+perl(XML::Parser) >= 2.30
+perl(XML::Parser::PerlSAX) >= 0.07
+perl(XML::RegExp)
+perl(bytes)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl-generators
+perl-interpreter

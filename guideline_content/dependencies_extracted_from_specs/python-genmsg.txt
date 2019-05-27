@@ -1,0 +1,5 @@
+catkin-devel
+cmake
+python2-catkin-sphinx
+python2-devel
+python2-sphinx

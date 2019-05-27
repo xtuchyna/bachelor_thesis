@@ -1,0 +1,4 @@
+java-devel
+javapackages-local
+jopt-simple
+ncurses-devel

@@ -1,0 +1,13 @@
+/usr/bin/sphinx-build
+gcc-plugin-devel
+gmp-devel
+python-debug
+python-devel
+python-lxml
+python-pygments
+python-six
+python3-debug
+python3-devel
+python3-lxml
+python3-pygments
+python3-six

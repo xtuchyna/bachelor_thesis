@@ -1,0 +1,4 @@
+/usr/bin/node
+ruby(release)
+rubygem(minitest)
+rubygems-devel

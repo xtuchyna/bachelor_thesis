@@ -1,0 +1,3 @@
+lib3ds-devel
+qt4-devel
+quazip-devel

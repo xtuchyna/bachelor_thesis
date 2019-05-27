@@ -1,0 +1,8 @@
+libsvm-devel
+perl(AutoLoader)
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test)
+perl-devel
+perl-generators

@@ -1,0 +1,19 @@
+/usr/bin/make
+/usr/bin/perl
+perl(Capture::Tiny)
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Path)
+perl(File::Spec) >= 0.80
+perl(File::Spec::Functions)
+perl(File::Spec::Unix)
+perl(File::Temp)
+perl(IO::Handle)
+perl(Probe::Perl) >= 0.01
+perl(Test2::API)
+perl(Test2::V0)
+perl(Test::More) >= 0.96
+perl(strict)
+perl(warnings)
+perl-generators

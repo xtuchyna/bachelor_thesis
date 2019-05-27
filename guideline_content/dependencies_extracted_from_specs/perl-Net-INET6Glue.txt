@@ -1,0 +1,9 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(IO::Socket::INET)
+perl(IO::Socket::INET6) >= 2.54
+perl(Net::FTP)
+perl(Socket)
+perl(strict)
+perl(warnings)
+perl-generators

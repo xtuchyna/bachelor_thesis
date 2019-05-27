@@ -1,0 +1,2 @@
+php-channel(pear.sabredav.org)
+php-pear(PEAR)

@@ -1,0 +1,8 @@
+mocha
+nodejs-packaging
+npm(after)
+npm(arraybuffer.slice)
+npm(base64-arraybuffer)
+npm(blob)
+npm(expect.js)
+npm(has-binary2)

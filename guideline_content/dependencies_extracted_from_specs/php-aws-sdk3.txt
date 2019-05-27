@@ -1,0 +1,31 @@
+(php-composer(andrewsville/php-token-reflection) >= 1.4 with php-composer(andrewsville/php-token-reflection) < 2.0)
+(php-composer(aws/aws-php-sns-message-validator) >= 1.0 with php-composer(aws/aws-php-sns-message-validator) < 2.0)
+(php-composer(doctrine/cache) >= 1.4.1 with php-composer(doctrine/cache) < 2.0)
+(php-composer(guzzlehttp/guzzle) >= 5.3.1 with php-composer(guzzlehttp/guzzle) < 7.0)
+(php-composer(guzzlehttp/promises) >= 1.0 with php-composer(guzzlehttp/promises) < 2.0)
+(php-composer(guzzlehttp/psr7) >= 1.4.1 with php-composer(guzzlehttp/psr7) < 2.0)
+(php-composer(mtdowling/jmespath.php) >= 2.2 with php-composer(mtdowling/jmespath.php) < 3.0)
+(php-composer(nette/neon) >= 2.3 with php-composer(nette/neon) < 3.0)
+(php-composer(psr/cache) >= 1.0 with php-composer(psr/cache) < 2.0)
+php(language) >= 5.5
+php-cli
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(theseer/autoload)
+php-curl
+php-date
+php-dom
+php-filter
+php-hash
+php-iconv
+php-json
+php-libxml
+php-mbstring
+php-openssl
+php-pcre
+php-reflection
+php-session
+php-simplexml
+php-spl
+php-xml
+php-xmlwriter

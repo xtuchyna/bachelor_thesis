@@ -1,0 +1,15 @@
+apache-commons-codec
+apache-commons-logging
+dnsjava
+eclipse-emf-runtime
+eclipse-filesystem
+eclipse-license
+eclipse-pde
+httpcomponents-client
+httpcomponents-core
+irclib
+maven-plugin-build-helper
+osgi-annotation
+tycho
+tycho-extras
+xpp3-minimal

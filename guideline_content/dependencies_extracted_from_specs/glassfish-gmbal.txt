@@ -1,0 +1,7 @@
+ant
+ant-junit
+aqute-bnd
+glassfish-management-api
+glassfish-pfl
+javapackages-local
+junit

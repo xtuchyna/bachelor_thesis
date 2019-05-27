@@ -1,0 +1,4 @@
+GAPDoc-latex
+gap-devel
+gap-pkg-autodoc
+gap-pkg-polycyclic

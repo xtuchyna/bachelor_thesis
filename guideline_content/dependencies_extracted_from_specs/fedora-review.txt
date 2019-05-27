@@ -1,0 +1,6 @@
+python-BeautifulSoup
+python-bugzilla
+python-packaging
+python-straight-plugin
+python2-devel
+rpm-python

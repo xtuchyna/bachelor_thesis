@@ -1,0 +1,24 @@
+findutils
+gcc
+make
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::Depends) >= 0.20
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::PkgConfig) >= 1.03
+perl(File::Spec)
+perl(Glib) >= 1.120
+perl(Glib::CodeGen)
+perl(Glib::MakeHelper)
+perl(Test::More)
+perl(constant)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig(gnome-vfs-2.0) >= 2.0.0

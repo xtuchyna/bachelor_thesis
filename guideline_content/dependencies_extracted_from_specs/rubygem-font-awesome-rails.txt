@@ -1,0 +1,7 @@
+fontawesome-fonts
+fontpackages-devel
+rubygem(bigdecimal)
+rubygem(did_you_mean)
+rubygem(railties)
+rubygem(sass-rails)
+rubygems-devel

@@ -1,0 +1,24 @@
+python3-Cython
+python3-backcall
+python3-decorator
+python3-devel
+python3-ipykernel
+python3-jedi >= 0.10
+python3-jupyter-client
+python3-matplotlib
+python3-nbformat
+python3-nose
+python3-pexpect
+python3-pickleshare
+python3-prompt_toolkit
+python3-pygments
+python3-pymongo
+python3-pytest
+python3-simplegeneric
+python3-sphinx
+python3-testpath
+python3-tornado >= 4.0
+python3-traitlets >= 4.2
+python3-zmq
+python3-zmq-tests
+xorg-x11-server-Xvfb

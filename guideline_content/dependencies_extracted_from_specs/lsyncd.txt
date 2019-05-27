@@ -1,0 +1,3 @@
+asciidoc
+cmake
+lua-devel >= 5.1.3

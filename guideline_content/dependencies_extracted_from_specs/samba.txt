@@ -1,0 +1,62 @@
+avahi-devel
+bind
+cups-devel
+dbus-devel
+docbook-style-xsl
+e2fsprogs-devel
+gawk
+glusterfs-api-devel >= 3.4.0.16
+glusterfs-devel >= 3.4.0.16
+gnupg2
+gnutls-devel >= 3.4.7
+krb5-devel >= 1.15.1
+krb5-server >= 1.15.1
+libacl-devel
+libaio-devel
+libarchive-devel
+libattr-devel
+libcap-devel
+libcephfs-devel
+libcmocka-devel
+libldb-devel >= 1.3.2
+libnsl2-devel
+libtalloc-devel >= 2.1.11
+libtdb-devel >= 1.3.15
+libtevent-devel >= 0.9.36
+libtirpc-devel
+libuuid-devel
+libxslt
+ncurses-devel
+openldap-devel
+pam-devel
+perl(ExtUtils::MakeMaker)
+perl(Parse::Yapp)
+perl(Test::More)
+perl-generators
+pkgconfig(libsystemd)
+popt-devel
+python2-crypto
+python2-devel
+python2-dns
+python2-iso8601
+python2-ldb-devel >= 1.3.2
+python2-subunit
+python2-talloc-devel >= 2.1.11
+python2-tdb >= 1.3.15
+python2-tevent >= 0.9.36
+python3-crypto
+python3-devel
+python3-iso8601
+python3-ldb-devel >= 1.3.2
+python3-subunit
+python3-talloc-devel >= 2.1.11
+python3-tdb >= 1.3.15
+python3-tevent >= 0.9.36
+quota-devel
+readline-devel
+rpcgen
+rpcsvc-proto-devel
+sed
+xfsprogs-devel
+xz
+zlib-devel >= 1.2.3

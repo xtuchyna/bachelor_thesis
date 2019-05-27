@@ -1,0 +1,10 @@
+SDL2-devel
+cmake
+desktop-file-utils
+gettext
+itstool
+libX11-devel
+libXtst-devel
+libappstream-glib
+qt5-qtbase-devel
+qt5-qttools-devel

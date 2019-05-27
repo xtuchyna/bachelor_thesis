@@ -1,0 +1,34 @@
+coreutils
+findutils
+glibc-common
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Spec) >= 0.82
+perl(File::Temp) >= 0.17
+perl(FileHandle)
+perl(FindBin)
+perl(HTML::Entities) >= 3.69
+perl(IO::File)
+perl(IO::Handle)
+perl(POSIX)
+perl(Test::CPAN::Changes)
+perl(Test::Deep) >= 0.11
+perl(Test::More) >= 0.98
+perl(Test::Warn) >= 0.3
+perl(base)
+perl(deprecate)
+perl(if)
+perl(lib)
+perl(overload)
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

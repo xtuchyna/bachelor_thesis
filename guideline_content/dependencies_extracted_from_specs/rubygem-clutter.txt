@@ -1,0 +1,11 @@
+/usr/bin/xvfb-run
+clutter
+mesa-dri-drivers
+ruby(release)
+rubygem(cairo-gobject)
+rubygem(gobject-introspection)
+rubygem(pango)
+rubygem(test-unit)
+rubygem(test-unit-notify)
+rubygem-glib2-devel
+rubygems-devel

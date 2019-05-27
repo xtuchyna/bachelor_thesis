@@ -1,0 +1,3 @@
+ant
+javapackages-local
+mvn(xerces:dom3-xml-apis)

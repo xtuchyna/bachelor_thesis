@@ -1,0 +1,19 @@
+perl(Carp)
+perl(Carp::Heavy)
+perl(Cwd) >= 3.12
+perl(Exporter)
+perl(File::Spec)
+perl(FindBin)
+perl(Module::Install::AutoInstall)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Test::Pod) >= 1.22
+perl(XSLoader)
+perl(inc::Module::Install)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

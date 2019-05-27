@@ -1,0 +1,8 @@
+gcc-c++
+glibc-devel
+libstdc++-devel
+pkgconfig(freeglut)
+pkgconfig(gl)
+pkgconfig(libpng)
+pkgconfig(x11)
+pkgconfig(xext)

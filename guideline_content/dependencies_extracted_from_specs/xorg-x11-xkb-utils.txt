@@ -1,0 +1,6 @@
+byacc
+pkgconfig(x11)
+pkgconfig(xaw7)
+pkgconfig(xkbfile)
+pkgconfig(xorg-macros) >= 1.8
+pkgconfig(xt)

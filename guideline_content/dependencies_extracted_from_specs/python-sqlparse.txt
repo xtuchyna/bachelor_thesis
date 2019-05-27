@@ -1,0 +1,8 @@
+python-py
+python-setuptools
+python-tools
+python2-devel
+python3-devel
+python3-py
+python3-setuptools
+python3-tools

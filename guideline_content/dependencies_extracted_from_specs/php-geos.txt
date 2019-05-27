@@ -1,0 +1,3 @@
+geos-devel >= 3.4
+php-devel
+php-pear

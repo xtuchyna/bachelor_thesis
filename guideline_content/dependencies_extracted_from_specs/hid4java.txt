@@ -1,0 +1,2 @@
+maven-local
+mvn(net.java.dev.jna:jna)

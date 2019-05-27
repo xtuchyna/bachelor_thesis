@@ -1,0 +1,21 @@
+GConf2-devel
+autoconf
+automake
+dbus-sharp-devel
+dbus-sharp-glib-devel
+desktop-file-utils
+gettext
+gio-sharp-devel
+gkeyfile-sharp-devel
+gnome-desktop-sharp-devel >= 2.26
+gnome-keyring-sharp-devel
+gnome-sharp-devel
+gtk-sharp2-devel
+gtk2-devel
+intltool
+libtool
+mono-addins-devel
+mono-devel
+notify-sharp-devel
+nunit2-devel
+perl-XML-Parser

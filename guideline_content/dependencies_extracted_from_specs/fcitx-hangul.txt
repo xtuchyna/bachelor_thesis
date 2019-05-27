@@ -1,0 +1,5 @@
+cmake
+fcitx-devel
+gettext
+intltool
+libhangul-devel

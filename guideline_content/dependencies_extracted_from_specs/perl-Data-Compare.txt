@@ -1,0 +1,18 @@
+perl(Carp)
+perl(Clone)
+perl(Config)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Find::Rule)
+perl(JSON)
+perl(Scalar::Properties)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

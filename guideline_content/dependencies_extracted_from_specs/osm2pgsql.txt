@@ -1,0 +1,13 @@
+boost-devel
+bzip2-devel
+cmake
+expat-devel
+libosmium-devel
+libtool
+libxml2-devel
+lua-devel
+postgresql-devel
+proj-devel
+proj-epsg
+protobuf-c-devel
+zlib-devel

@@ -1,0 +1,6 @@
+mingw32-filesystem
+mingw32-gcc
+mingw32-gmp
+mingw64-filesystem
+mingw64-gcc
+mingw64-gmp

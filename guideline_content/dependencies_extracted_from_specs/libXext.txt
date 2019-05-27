@@ -1,0 +1,9 @@
+autoconf
+automake
+libX11-devel >= 1.5.99.902
+libXau-devel
+libtool
+pkgconfig
+xmlto
+xorg-x11-proto-devel >= 7.4-23
+xorg-x11-util-macros

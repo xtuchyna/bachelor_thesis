@@ -1,0 +1,14 @@
+python2-devel
+python2-pytest
+python2-setuptools
+python2dist(appdirs) >= 1.4.0
+python2dist(decorator) >= 3.2.0
+python2dist(numpy) >= 1.6.0
+python2dist(six) >= 1.8.0
+python3-devel
+python3-pytest
+python3-setuptools
+python3dist(appdirs) >= 1.4.0
+python3dist(decorator) >= 3.2.0
+python3dist(numpy) >= 1.6.0
+python3dist(six) >= 1.8.0

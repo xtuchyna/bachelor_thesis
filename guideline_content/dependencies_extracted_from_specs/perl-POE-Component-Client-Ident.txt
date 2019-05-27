@@ -1,0 +1,26 @@
+coreutils
+make
+perl(Carp)
+perl(Module::Install::AutoLicense)
+perl(Module::Install::GithubMeta)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(POE)
+perl(POE::Driver::SysRW)
+perl(POE::Filter::Line)
+perl(POE::Filter::Stream)
+perl(POE::Session)
+perl(POE::Wheel::ReadWrite)
+perl(POE::Wheel::SocketFactory)
+perl(Socket)
+perl(Test::More)
+perl(Test::POE::Server::TCP)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(inc::Module::Install)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

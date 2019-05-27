@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(CGI)
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Math::BigInt)
+perl(Test::More) >= 0.11
+perl(UNIVERSAL::require) >= 0.01
+perl(base)
+perl(strict)
+perl-generators
+perl-interpreter

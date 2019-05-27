@@ -1,0 +1,15 @@
+boost-devel
+bzip2-devel
+cmake >= 2.8
+coin-or-lemon-devel
+gcc
+gcc-c++
+java-1.8.0-openjdk-devel
+libstdc++-static
+llvm-devel
+python2-devel
+python2-jinja2
+python2-nose
+python2-pytest
+qt4-devel >= 4.7
+zlib-devel

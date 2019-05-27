@@ -1,0 +1,15 @@
+findutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Slurper) >= 0.010
+perl(File::Spec)
+perl(FindBin)
+perl(Path::Tiny) >= 0.076
+perl(Test::More) >= 0.88
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

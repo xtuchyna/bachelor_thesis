@@ -1,0 +1,8 @@
+python-setuptools
+python-sphinx
+python-unittest2
+python2-devel
+python3-devel
+python3-setuptools
+python3-sphinx
+python3-unittest2

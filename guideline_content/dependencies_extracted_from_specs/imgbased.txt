@@ -1,0 +1,13 @@
+asciidoc
+autoconf
+automake
+git
+make
+python2-rpm
+python3-devel
+python3-nose
+python3-pep8
+python3-pyflakes
+python3-six
+rpm-build
+systemd-units

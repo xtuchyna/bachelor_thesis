@@ -1,0 +1,5 @@
+desktop-file-utils
+java-devel
+javahelp2
+jfontchooser
+libappstream-glib

@@ -1,0 +1,6 @@
+pkgconfig(Qt5Core)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Sql)
+pkgconfig(Qt5Svg)
+pkgconfig(dtkwidget) = 2.0
+pkgconfig(gtk+-2.0)

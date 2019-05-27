@@ -1,0 +1,9 @@
+perl(CGI::Application)
+perl(DBI)
+perl(Data::JavaScript)
+perl(HTML::Template)
+perl(IO::Scalar)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

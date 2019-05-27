@@ -1,0 +1,4 @@
+desktop-file-utils
+kde-workspace-devel
+kdelibs4-devel >= 4.6.0
+kdelibs4-webkit-devel

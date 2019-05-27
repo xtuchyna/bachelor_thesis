@@ -1,0 +1,9 @@
+extra-cmake-modules
+intltool
+kaccounts-integration-devel >= 17.12
+kf5-kdeclarative-devel
+kf5-ki18n-devel
+kf5-kio-devel
+kf5-rpm-macros
+pkgconfig(Qt5Gui)
+pkgconfig(libaccounts-glib)

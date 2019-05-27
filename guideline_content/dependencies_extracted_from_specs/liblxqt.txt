@@ -1,0 +1,12 @@
+cmake >= 3.0
+kf5-kwindowsystem-devel >= 5.5
+libXScrnSaver-devel
+lxqt-build-tools
+pkgconfig(Qt5Core)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Help)
+pkgconfig(Qt5Widgets)
+pkgconfig(Qt5X11Extras)
+pkgconfig(Qt5Xdg) >= 1.3.0
+pkgconfig(Qt5Xml)

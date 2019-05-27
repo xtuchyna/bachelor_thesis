@@ -1,0 +1,8 @@
+desktop-file-utils
+gettext
+intltool
+pkgconfig(dbus-glib-1) >= 0.84
+pkgconfig(garcon-1) >= 0.1.7
+pkgconfig(libxfce4ui-1) >= 4.12
+pkgconfig(libxfconf-0) >= 4.12
+startup-notification-devel

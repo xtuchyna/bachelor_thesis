@@ -1,0 +1,5 @@
+R-RSQLite
+R-devel >= 3.4.0
+R-methods
+R-testthat
+texlive-latex

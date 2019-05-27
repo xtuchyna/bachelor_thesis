@@ -1,0 +1,5 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(Test)
+perl-generators

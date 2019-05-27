@@ -1,0 +1,7 @@
+java-devel >= 1:1.6.0
+maven-assembly-plugin
+maven-local
+maven-plugin-plugin
+maven-resources-plugin
+plexus-classworlds
+plexus-containers

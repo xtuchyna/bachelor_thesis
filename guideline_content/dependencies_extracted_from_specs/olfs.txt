@@ -1,0 +1,16 @@
+ant-junit
+apache-commons-cli
+apache-commons-codec
+apache-commons-lang
+apache-commons-logging
+jakarta-commons-httpclient
+java-devel
+jdom
+jpackage-utils
+junit
+log4j
+logback
+saxon
+slf4j
+tomcat-lib
+xalan-j2

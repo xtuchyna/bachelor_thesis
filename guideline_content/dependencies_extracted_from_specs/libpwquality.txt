@@ -1,0 +1,6 @@
+cracklib-devel
+gcc
+gettext
+pam-devel
+python2-devel
+python3-devel

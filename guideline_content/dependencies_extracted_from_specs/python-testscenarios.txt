@@ -1,0 +1,7 @@
+python2-devel
+python2-pbr
+python2-setuptools
+python3-devel
+python3-pbr
+python3-setuptools
+python3-testtools

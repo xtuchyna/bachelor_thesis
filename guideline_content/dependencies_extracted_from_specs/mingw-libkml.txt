@@ -1,0 +1,20 @@
+cmake
+mingw32-boost
+mingw32-curl
+mingw32-expat
+mingw32-filesystem >= 95
+mingw32-gcc-c++
+mingw32-minizip
+mingw32-python2
+mingw32-uriparser
+mingw32-zlib
+mingw64-boost
+mingw64-curl
+mingw64-expat
+mingw64-filesystem >= 95
+mingw64-gcc-c++
+mingw64-minizip
+mingw64-python2
+mingw64-uriparser
+mingw64-zlib
+swig

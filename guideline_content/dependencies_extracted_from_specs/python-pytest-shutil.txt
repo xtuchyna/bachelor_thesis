@@ -1,0 +1,16 @@
+python2-contextlib2
+python2-devel
+python2-execnet
+python2-mock
+python2-path
+python2-pytest
+python2-setuptools-git
+python2-six
+python3-contextlib2
+python3-devel
+python3-execnet
+python3-mock
+python3-path
+python3-pytest
+python3-setuptools_git
+python3-six

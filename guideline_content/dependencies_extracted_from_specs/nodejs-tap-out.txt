@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(re-emitter)
+npm(readable-stream)
+npm(split)
+npm(tape)
+npm(trim)

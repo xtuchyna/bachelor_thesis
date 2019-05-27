@@ -1,0 +1,8 @@
+elpa-mpich-devel
+elpa-openmpi-devel
+fftw3-devel
+gcc-gfortran
+mpich-devel
+openblas-devel
+openmpi-devel
+time

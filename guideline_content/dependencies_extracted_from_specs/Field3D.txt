@@ -1,0 +1,6 @@
+boost-devel
+cmake
+doxygen
+gcc-c++
+hdf5-devel
+ilmbase-devel

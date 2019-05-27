@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(File::Spec) >= 0.80
+perl(File::Spec::Functions)
+perl(File::Spec::Unix)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Params::Util) >= 0.24
+perl(Test::More) >= 0.47
+perl(inc::Module::Install) >= 0.76
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter
+sed

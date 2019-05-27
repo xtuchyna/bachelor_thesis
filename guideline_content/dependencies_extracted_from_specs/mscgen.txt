@@ -1,0 +1,6 @@
+bison
+flex
+freetype-devel
+gd-devel
+pkgconfig
+urw-base35-fonts

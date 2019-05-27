@@ -1,0 +1,23 @@
+latexmk
+perl(File::Copy::Recursive)
+perl(File::Which)
+perl(Memoize)
+perl-generators
+python2
+python2-rpm-macros
+python3-sphinx
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+tex(capt-of.sty)
+tex(eqparbox.sty)
+tex(fncychap.sty)
+tex(framed.sty)
+tex(multirow.sty)
+tex(needspace.sty)
+tex(tabulary.sty)
+tex(threeparttable.sty)
+tex(titlesec.sty)
+tex(upquote.sty)
+tex(wrapfig.sty)
+texlive-collection-basic
+texlive-collection-latexrecommended

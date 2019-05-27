@@ -1,0 +1,7 @@
+/usr/bin/2to3
+python2-devel
+python2-setuptools
+python2-simplewrap
+python3-devel
+python3-setuptools
+python3-simplewrap

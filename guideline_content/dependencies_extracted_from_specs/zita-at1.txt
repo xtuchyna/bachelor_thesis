@@ -1,0 +1,11 @@
+cairo-devel
+clthreads-devel
+clxclient-devel >= 3.9.0
+desktop-file-utils
+fftw3-devel
+gcc-c++
+jack-audio-connection-kit-devel
+libXft-devel
+libpng-devel
+zita-alsa-pcmi-devel
+zita-resampler-devel

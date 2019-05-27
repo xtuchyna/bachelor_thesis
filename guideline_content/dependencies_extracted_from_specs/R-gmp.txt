@@ -1,0 +1,4 @@
+R-devel
+R-methods
+gmp-devel >= 4.2.3
+tex(latex)

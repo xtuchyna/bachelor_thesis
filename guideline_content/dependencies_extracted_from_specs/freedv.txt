@@ -1,0 +1,13 @@
+alsa-lib-devel
+cmake
+codec2-devel >= 0.6
+desktop-file-utils
+gsm-devel
+hamlib-devel
+libao-devel
+libappstream-glib
+libsamplerate-devel
+libsndfile-devel
+portaudio-devel
+speexdsp-devel
+wxGTK3-devel

@@ -1,0 +1,19 @@
+perl(Algorithm::Diff) >= 1.15
+perl(Carp)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker) >= 6.52
+perl(File::Path)
+perl(Filter::Util::Call)
+perl(LWP::Simple)
+perl(MIME::Base64)
+perl(Spiffy) >= 0.40
+perl(Test::Deep)
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.41
+perl(Test::Tester)
+perl(Text::Diff) >= 0.35
+perl(YAML)
+perl(base)
+perl(lib)
+perl-generators
+perl-interpreter

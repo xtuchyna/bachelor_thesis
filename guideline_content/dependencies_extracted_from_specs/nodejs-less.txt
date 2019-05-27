@@ -1,0 +1,5 @@
+nodejs-devel
+nodejs-packaging
+npm(grunt-cli)
+npm(mime)
+npm(source-map)

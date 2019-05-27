@@ -1,0 +1,22 @@
+make
+perl(:VERSION) >= 5.6.0
+perl(Carp)
+perl(DateTime::Format::ISO8601)
+perl(DateTime::TimeZone)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(HTTP::Tiny) >= 0.016
+perl(JSON)
+perl(MIME::Base64)
+perl(Test::More)
+perl(Tie::DataUUID) >= 1.02
+perl(URI) >= 1.60
+perl(URI::Escape)
+perl(XML::Fast) >= 0.11
+perl(XML::Spice) >= 0.03
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

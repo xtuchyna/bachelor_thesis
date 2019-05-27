@@ -1,0 +1,3 @@
+fftw-devel
+libxslt
+lv2-devel

@@ -1,0 +1,3 @@
+python
+python-sphinx
+zlib-devel

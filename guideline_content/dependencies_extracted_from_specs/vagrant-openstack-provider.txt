@@ -1,0 +1,4 @@
+ruby
+ruby(release)
+rubygems-devel
+vagrant >= 1.9.1

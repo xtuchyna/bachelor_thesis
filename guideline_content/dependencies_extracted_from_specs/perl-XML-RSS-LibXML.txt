@@ -1,0 +1,14 @@
+perl(Class::Accessor::Fast)
+perl(DateTime::Format::Mail)
+perl(DateTime::Format::W3CDTF)
+perl(ExtUtils::MakeMaker)
+perl(Module::Build)
+perl(Test::Differences)
+perl(Test::Exception)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Test::Warn)
+perl(UNIVERSAL::require)
+perl(XML::LibXML) >= 1.66
+perl(XML::LibXML::XPathContext)
+perl-generators

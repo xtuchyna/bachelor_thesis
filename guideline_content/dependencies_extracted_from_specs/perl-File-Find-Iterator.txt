@@ -1,0 +1,8 @@
+perl(Carp)
+perl(Class::Iterator) >= 0.1
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IO::Dir)
+perl(Storable) >= 2.04
+perl(Test::More)
+perl-generators

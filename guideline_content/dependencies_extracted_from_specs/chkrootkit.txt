@@ -1,0 +1,3 @@
+desktop-file-utils
+glibc-static
+perl-interpreter

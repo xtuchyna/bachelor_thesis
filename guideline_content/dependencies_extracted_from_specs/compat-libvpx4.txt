@@ -1,0 +1,4 @@
+doxygen
+perl(Getopt::Long)
+php-cli
+yasm

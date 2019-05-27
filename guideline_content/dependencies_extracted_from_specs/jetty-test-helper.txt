@@ -1,0 +1,4 @@
+maven-local
+mvn(junit:junit)
+mvn(org.eclipse.jetty.toolchain:jetty-toolchain:pom:)
+mvn(org.hamcrest:hamcrest-library)

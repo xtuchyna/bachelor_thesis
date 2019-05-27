@@ -1,0 +1,13 @@
+/usr/bin/checksec
+/usr/bin/cmake
+/usr/bin/dtrace
+autoconf
+gcc
+gdbm-devel
+git
+libffi-devel
+libyaml-devel
+multilib-rpm-config
+openssl-devel
+procps
+readline-devel

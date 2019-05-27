@@ -1,0 +1,7 @@
+rubygem(activerecord)
+rubygem(bcrypt)
+rubygem(minitest)
+rubygem(request_store)
+rubygem(sqlite3)
+rubygem(timecop)
+rubygems-devel

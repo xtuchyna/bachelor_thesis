@@ -1,0 +1,4 @@
+maven-local
+mvn(com.github.jnr:jnr-ffi)
+mvn(junit:junit)
+mvn(org.sonatype.oss:oss-parent:pom:)

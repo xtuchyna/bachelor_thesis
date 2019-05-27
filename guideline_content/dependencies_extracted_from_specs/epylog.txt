@@ -1,0 +1,6 @@
+autoconf
+libxml2-python
+perl-Pod-Perldoc
+perl-generators
+perl-interpreter
+python2

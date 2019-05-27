@@ -1,0 +1,11 @@
+gnome-common
+intltool
+pkgconfig(cinnamon-desktop) >= 3.6.0
+pkgconfig(clutter-1.0) >= 1.7.5
+pkgconfig(gl)
+pkgconfig(gnome-doc-utils)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gtk-doc)
+pkgconfig(libcanberra)
+pkgconfig(sm)
+zenity

@@ -1,0 +1,7 @@
+python-backports-ssl_match_hostname
+python-setuptools
+python-six
+python2-devel
+python3-devel
+python3-setuptools
+python3-six

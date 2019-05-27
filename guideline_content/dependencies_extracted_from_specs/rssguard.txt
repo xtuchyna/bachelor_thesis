@@ -1,0 +1,7 @@
+desktop-file-utils
+gcc-c++
+libappstream-glib
+pkgconfig(Qt5)
+pkgconfig(Qt5WebEngine)
+qt5-linguist
+qtsingleapplication-qt5-devel

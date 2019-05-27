@@ -1,0 +1,4 @@
+(crate(num-traits) >= 0.2.0 with crate(num-traits) < 0.3.0 with crate(num-traits/std))
+(crate(rustc-serialize) >= 0.3.19 with crate(rustc-serialize) < 0.4.0)
+(crate(serde) >= 0.7.0 with crate(serde) < 0.9.0)
+rust-packaging

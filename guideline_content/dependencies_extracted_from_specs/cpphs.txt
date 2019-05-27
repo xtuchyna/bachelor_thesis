@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-directory-devel
+ghc-old-locale-devel
+ghc-old-time-devel
+ghc-polyparse-devel
+ghc-rpm-macros

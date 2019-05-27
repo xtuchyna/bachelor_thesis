@@ -1,0 +1,22 @@
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Math::BigFloat)
+perl(Math::BigRat)
+perl(Scalar::Util)
+perl(Sub::Exporter) >= 0.950
+perl(Sub::Exporter::Util)
+perl(Test::Builder)
+perl(Test::More) >= 0.96
+perl(Test::Tester)
+perl(base)
+perl(feature)
+perl(if)
+perl(overload)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

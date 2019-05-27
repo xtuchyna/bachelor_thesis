@@ -1,0 +1,10 @@
+btrfs-progs-devel
+compiler(go-compiler)
+git
+glib2-devel
+go-srpm-macros
+golang-github-cpuguy83-go-md2man
+gpgme-devel
+libassuan-devel
+ostree-devel
+pkgconfig(devmapper)

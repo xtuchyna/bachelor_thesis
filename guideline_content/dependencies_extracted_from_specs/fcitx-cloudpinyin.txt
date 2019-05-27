@@ -1,0 +1,6 @@
+cmake
+fcitx-devel
+gettext
+intltool
+libcurl-devel
+pkgconfig

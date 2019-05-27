@@ -1,0 +1,4 @@
+ruby-devel
+rubygem(rdoc)
+rubygem(rspec) >= 2.10.0
+rubygems-devel

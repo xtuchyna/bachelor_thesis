@@ -1,0 +1,15 @@
+mocha
+nodejs-packaging
+npm(component-emitter)
+npm(debug)
+npm(define-property)
+npm(extend-shallow)
+npm(get-value)
+npm(isobject)
+npm(map-cache)
+npm(mocha)
+npm(snapdragon-capture)
+npm(snapdragon-capture-set)
+npm(snapdragon-node)
+npm(snapdragon-util)
+npm(use)

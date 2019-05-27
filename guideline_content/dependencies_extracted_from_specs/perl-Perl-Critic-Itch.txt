@@ -1,0 +1,13 @@
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(Perl::Critic) >= 1.052
+perl(Perl::Critic::Policy)
+perl(Perl::Critic::TestUtils) >= 1.052
+perl(Perl::Critic::Utils) >= 1.052
+perl(Perl::Critic::Violation) >= 1.052
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.04
+perl(base)
+perl(lib)
+perl-generators

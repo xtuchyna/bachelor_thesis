@@ -1,0 +1,9 @@
+ImageMagick-c++-devel
+cmake
+freeglut-devel
+gcc-c++
+ispc
+libXi-devel
+libXmu-devel
+make
+tbb-devel

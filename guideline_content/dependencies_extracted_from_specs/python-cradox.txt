@@ -1,0 +1,13 @@
+librados2-devel
+python2-Cython
+python2-devel
+python2-jinja2
+python2-pbr
+python2-pifpaf
+python2-setuptools
+python3-Cython
+python3-devel
+python3-jinja2
+python3-pbr
+python3-pifpaf
+python3-setuptools

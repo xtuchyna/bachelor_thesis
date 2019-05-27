@@ -1,0 +1,4 @@
+perl(ExtUtils::Typemaps) >= 3.18-292
+perl(Module::Build)
+perl(Test::More)
+perl-generators

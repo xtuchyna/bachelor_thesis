@@ -1,0 +1,3 @@
+nodejs-packaging
+npm(npm-registry-client)
+npm(xtend)

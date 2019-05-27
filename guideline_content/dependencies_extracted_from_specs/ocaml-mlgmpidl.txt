@@ -1,0 +1,13 @@
+gcc
+ghostscript-core
+gmp-devel
+mpfr-devel
+ocaml
+ocaml-camlidl-devel
+ocaml-findlib
+ocaml-ocamldoc
+ocaml-srpm-macros >= 5
+perl-interpreter
+tex(ecrm1000.tfm)
+tex(fullpage.sty)
+tex(latex)

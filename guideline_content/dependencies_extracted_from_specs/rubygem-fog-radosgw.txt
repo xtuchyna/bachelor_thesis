@@ -1,0 +1,6 @@
+/usr/bin/shindo
+ruby
+ruby(release)
+rubygem(fog-json)
+rubygem(fog-xml)
+rubygems-devel

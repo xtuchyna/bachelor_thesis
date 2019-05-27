@@ -1,0 +1,3 @@
+freeglut-devel
+imlib2-devel
+mesa-libGLU-devel

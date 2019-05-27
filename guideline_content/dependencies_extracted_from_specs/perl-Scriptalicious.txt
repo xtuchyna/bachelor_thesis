@@ -1,0 +1,16 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Getopt::Long)
+perl(POSIX)
+perl(Template)
+perl(Test::More)
+perl(Time::HiRes)
+perl(YAML)
+perl(base)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

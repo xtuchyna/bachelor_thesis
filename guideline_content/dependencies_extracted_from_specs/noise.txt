@@ -1,0 +1,20 @@
+cmake
+desktop-file-utils
+gettext
+intltool
+libappstream-glib
+pkgconfig(gee-0.8)
+pkgconfig(gio-2.0)
+pkgconfig(glib-2.0) >= 2.39
+pkgconfig(granite)
+pkgconfig(gstreamer-1.0)
+pkgconfig(gstreamer-pbutils-1.0)
+pkgconfig(gstreamer-tag-1.0)
+pkgconfig(gtk+-3.0) >= 3.11.6
+pkgconfig(libgda-5.0)
+pkgconfig(libnotify)
+pkgconfig(libpeas-1.0)
+pkgconfig(libpeas-gtk-1.0)
+pkgconfig(taglib_c)
+pkgconfig(zeitgeist-2.0)
+vala >= 0.26

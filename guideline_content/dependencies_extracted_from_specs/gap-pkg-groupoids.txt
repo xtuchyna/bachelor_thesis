@@ -1,0 +1,7 @@
+gap-devel
+gap-pkg-autodoc
+gap-pkg-fga
+gap-pkg-grape
+gap-pkg-semigroups
+gap-pkg-utils
+tex(xy.sty)

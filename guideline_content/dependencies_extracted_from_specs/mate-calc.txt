@@ -1,0 +1,7 @@
+bison
+desktop-file-utils
+flex
+gtk3-devel
+libxml2-devel
+mate-common
+mate-desktop-devel

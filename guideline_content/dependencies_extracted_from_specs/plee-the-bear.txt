@@ -1,0 +1,15 @@
+SDL-devel
+SDL2-devel
+SDL2_mixer-devel
+SDL_mixer-devel
+bear-devel
+boost-devel
+chrpath
+cmake
+desktop-file-utils
+docbook-utils
+gettext
+libclaw-devel >= 1.7.0
+libjpeg-devel
+libpng-devel
+wxGTK-devel

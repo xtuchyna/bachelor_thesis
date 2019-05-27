@@ -1,0 +1,10 @@
+libICE-devel
+libSM-devel
+libX11-devel
+libXext-devel
+libXft-devel
+libXinerama-devel
+libXpm-devel
+libXrandr-devel
+libjpeg-devel
+libpng-devel

@@ -1,0 +1,7 @@
+cmake(KF5I18n)
+cmake(KF5KDELibs4Support)
+cmake(KF5Sane)
+desktop-file-utils
+extra-cmake-modules
+kf5-rpm-macros
+libappstream-glib

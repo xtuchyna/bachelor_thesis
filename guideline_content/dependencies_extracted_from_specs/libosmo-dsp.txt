@@ -1,0 +1,6 @@
+autoconf
+automake
+doxygen
+fftw-devel
+graphviz
+libtool

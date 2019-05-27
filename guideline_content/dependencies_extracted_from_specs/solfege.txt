@@ -1,0 +1,9 @@
+desktop-file-utils
+docbook-style-xsl
+gettext
+libxslt
+pygtk2-devel >= 2.12
+python2-devel
+swig
+texinfo
+txt2man

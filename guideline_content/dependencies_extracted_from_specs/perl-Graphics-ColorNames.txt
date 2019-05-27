@@ -1,0 +1,21 @@
+coreutils
+findutils
+perl(Carp)
+perl(Color::Library) >= 0.02
+perl(Color::Library::Dictionary::NBS_ISCC::B)
+perl(Exporter)
+perl(FileHandle)
+perl(IO::File)
+perl(Module::Build)
+perl(Module::Load) >= 0.10
+perl(Module::Loaded)
+perl(Test::Exception)
+perl(Test::More)
+perl(Tie::Sub)
+perl(base)
+perl(constant)
+perl(integer)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+/usr/bin/xvfb-run
+pkgconfig(gtksourceview-3.0)
+ruby-devel
+rubygem(test-unit)
+rubygem-cairo-devel
+rubygem-glib2-devel
+rubygem-gtk3-devel
+rubygems-devel

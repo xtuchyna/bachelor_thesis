@@ -1,0 +1,10 @@
+nodejs-packaging
+npm(JSONSelect)
+npm(cjson)
+npm(ebnf-parser)
+npm(escodegen)
+npm(esprima)
+npm(jison-lex)
+npm(lex-parser)
+npm(nomnom)
+npm(test)

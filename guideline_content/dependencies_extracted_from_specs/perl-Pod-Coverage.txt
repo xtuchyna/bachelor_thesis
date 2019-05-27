@@ -1,0 +1,17 @@
+perl(B)
+perl(Data::Dumper)
+perl(Devel::Symdump) >= 2.01
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Pod::Find) >= 0.21
+perl(Pod::Parser) >= 1.13
+perl(Test::More)
+perl(Test::Pod)
+perl(base)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

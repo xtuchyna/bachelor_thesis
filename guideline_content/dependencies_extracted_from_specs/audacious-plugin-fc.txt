@@ -1,0 +1,6 @@
+automake
+libappstream-glib
+libfc14audiodecoder-devel
+libtool
+pkgconfig
+pkgconfig(audacious) >= 3.8

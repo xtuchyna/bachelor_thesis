@@ -1,0 +1,3 @@
+gcc
+libfabric-devel >= 1.4.1
+valgrind-devel

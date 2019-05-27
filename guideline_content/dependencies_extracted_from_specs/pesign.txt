@@ -1,0 +1,15 @@
+efivar-devel >= 31-1
+git
+libuuid-devel
+nspr
+nspr-devel >= 4.9.2-1
+nss
+nss-devel >= 3.13.6-1
+nss-tools
+nss-util
+popt-devel
+python3
+python3-rpm-macros
+systemd
+tar
+xz

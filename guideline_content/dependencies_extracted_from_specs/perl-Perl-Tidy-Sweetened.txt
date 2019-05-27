@@ -1,0 +1,12 @@
+perl(Carp)
+perl(Exporter)
+perl(Module::Build::Tiny) >= 0.034
+perl(Perl::Tidy)
+perl(Test::More)
+perl(Test::Most)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

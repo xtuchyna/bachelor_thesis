@@ -1,0 +1,19 @@
+dbus-glib-devel
+desktop-file-utils
+gettext
+gettext-devel
+glib2-devel
+gnet2-devel
+gnome-common
+gnome-keyring-devel
+gtk2-devel
+intltool
+libgnomeui-devel
+libgtop2-devel
+libnotify-devel
+librapi-devel >= 0.15.1
+librra-devel >= 0.14
+libudev-devel
+libxml2-devel
+orange-devel >= 0.3.2
+perl-XML-Parser

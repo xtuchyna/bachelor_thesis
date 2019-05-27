@@ -1,0 +1,7 @@
+ruby
+ruby(release)
+rubygem(activemodel)
+rubygem(mocha)
+rubygem(multi_json)
+rubygem(railties)
+rubygems-devel

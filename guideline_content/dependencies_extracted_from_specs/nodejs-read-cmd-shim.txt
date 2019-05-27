@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(cmd-shim)
+npm(graceful-fs)
+npm(rimraf)
+npm(tap)

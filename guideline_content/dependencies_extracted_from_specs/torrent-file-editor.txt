@@ -1,0 +1,7 @@
+cmake
+desktop-file-utils
+libappstream-glib
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Widgets)
+qt5-qttools-devel

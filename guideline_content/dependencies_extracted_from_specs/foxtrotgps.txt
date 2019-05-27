@@ -1,0 +1,13 @@
+GConf2-devel
+bluez-libs-devel
+dbus-devel
+desktop-file-utils
+gettext
+gpsd-devel
+gtk2-devel
+intltool
+libcurl-devel
+libexif-devel
+libglade2-devel
+libxml2-devel
+sqlite-devel

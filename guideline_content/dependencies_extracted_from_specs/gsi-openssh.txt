@@ -1,0 +1,22 @@
+audit-libs >= 1.0.8
+audit-libs-devel >= 2.0.5
+autoconf
+automake
+fipscheck-devel >= 1.3.0
+globus-common-devel >= 14
+globus-gss-assist-devel >= 8
+globus-gssapi-gsi-devel >= 12.12
+globus-usage-devel >= 3
+groff
+libedit-devel
+libselinux-devel >= 2.3-5
+ncurses-devel
+openldap-devel
+openssl-devel >= 0.9.8j
+pam-devel
+perl-generators
+perl-interpreter
+systemd-devel
+util-linux
+xauth
+zlib-devel

@@ -1,0 +1,12 @@
+desktop-file-utils
+gcc-c++
+gettext-devel
+ibus-devel >= 1.5.11
+intltool
+libpinyin-devel >= 2.1.0
+libtool
+libuuid-devel
+lua-devel
+pkgconfig
+python3-devel
+sqlite-devel

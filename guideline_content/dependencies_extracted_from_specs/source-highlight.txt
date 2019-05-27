@@ -1,0 +1,7 @@
+bison
+boost-devel
+chrpath
+ctags
+flex
+help2man
+pkgconfig(bash-completion)

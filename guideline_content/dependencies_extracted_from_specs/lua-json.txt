@@ -1,0 +1,4 @@
+lua >= 5.3
+lua-filesystem >= 1.4.1
+lua-lpeg >= 0.8.1
+lua-lunit >= 0.4

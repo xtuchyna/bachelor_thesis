@@ -1,0 +1,11 @@
+ant
+apache-commons-cli
+apache-commons-logging
+fontbox
+java-devel
+lucene-analysis
+lucene-core
+lucene-queries
+lucene-queryparser
+pdfbox
+tagsoup

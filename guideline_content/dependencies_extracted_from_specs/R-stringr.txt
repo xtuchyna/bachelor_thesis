@@ -1,0 +1,7 @@
+R-devel
+R-htmltools
+R-htmlwidgets
+R-magrittr
+R-stringi >= 0.4.1
+R-testthat
+tex(latex)

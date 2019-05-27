@@ -1,0 +1,4 @@
+perl(Devel::Symdump)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl-generators

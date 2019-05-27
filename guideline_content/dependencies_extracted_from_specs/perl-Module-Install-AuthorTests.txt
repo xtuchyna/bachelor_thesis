@@ -1,0 +1,8 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Module::Install)
+perl(Module::Install::Base)
+perl(Test::More)
+perl(inc::Module::Install)
+perl-generators

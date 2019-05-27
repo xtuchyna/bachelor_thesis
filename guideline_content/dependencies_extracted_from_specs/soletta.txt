@@ -1,0 +1,8 @@
+gtk3-devel
+libcurl-devel
+libicu-devel
+mosquitto-devel
+pcre-devel
+python3 >= 3.4
+python3-jsonschema
+systemd-devel

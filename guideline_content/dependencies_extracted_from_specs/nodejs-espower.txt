@@ -1,0 +1,9 @@
+nodejs-packaging
+npm(array-find)
+npm(escallmatch)
+npm(escodegen)
+npm(escope)
+npm(espower-location-detector)
+npm(estraverse)
+npm(is-url)
+npm(type-name)

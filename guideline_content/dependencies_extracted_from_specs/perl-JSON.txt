@@ -1,0 +1,17 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Math::BigFloat)
+perl(Math::BigInt)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod)
+perl(Tie::IxHash)
+perl(base)
+perl(constant)
+perl(lib)
+perl-generators
+perl-interpreter

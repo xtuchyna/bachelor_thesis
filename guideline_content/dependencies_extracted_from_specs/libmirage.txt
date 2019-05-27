@@ -1,0 +1,10 @@
+bison
+bzip2-devel
+cmake
+flex
+glib2-devel
+gobject-introspection-devel
+gtk-doc
+libsndfile-devel
+xz-devel
+zlib-devel

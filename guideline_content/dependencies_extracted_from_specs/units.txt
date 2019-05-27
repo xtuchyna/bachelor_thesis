@@ -1,0 +1,6 @@
+automake
+bison
+gcc
+ncurses-devel
+python3
+readline-devel

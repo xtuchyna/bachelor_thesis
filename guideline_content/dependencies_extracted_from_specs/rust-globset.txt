@@ -1,0 +1,7 @@
+(crate(aho-corasick) >= 0.6.0 with crate(aho-corasick) < 0.7.0)
+(crate(fnv) >= 1.0.0 with crate(fnv) < 2.0.0)
+(crate(glob) >= 0.2.0 with crate(glob) < 0.3.0)
+(crate(log) >= 0.4.0 with crate(log) < 0.5.0)
+(crate(memchr) >= 2.0.0 with crate(memchr) < 3.0.0)
+(crate(regex) >= 0.2.1 with crate(regex) < 0.3.0)
+rust-packaging

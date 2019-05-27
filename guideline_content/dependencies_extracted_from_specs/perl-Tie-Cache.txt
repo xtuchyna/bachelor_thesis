@@ -1,0 +1,6 @@
+perl(Benchmark)
+perl(ExtUtils::MakeMaker)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

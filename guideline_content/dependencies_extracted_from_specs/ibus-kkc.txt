@@ -1,0 +1,6 @@
+desktop-file-utils
+gtk3-devel
+ibus-devel
+intltool
+libkkc-devel >= 0.3.4
+vala

@@ -1,0 +1,9 @@
+mocha
+nodejs-packaging
+npm(extend-shallow)
+npm(info-symbol)
+npm(log-utils)
+npm(pretty-time)
+npm(strip-color)
+npm(success-symbol)
+npm(warning-symbol)

@@ -1,0 +1,13 @@
+javapackages-tools
+maven-local
+mvn(com.fasterxml.jackson.core:jackson-annotations)
+mvn(com.fasterxml.jackson.core:jackson-core)
+mvn(com.fasterxml.jackson.core:jackson-databind)
+mvn(com.thoughtworks.paranamer:paranamer)
+mvn(javax.inject:javax.inject)
+mvn(joda-time:joda-time)
+mvn(org.joda:joda-convert)
+mvn(org.scala-lang:scalap)
+python
+sbt
+scala

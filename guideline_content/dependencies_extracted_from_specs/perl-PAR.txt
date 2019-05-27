@@ -1,0 +1,19 @@
+make
+perl(Archive::Zip) >= 1
+perl(AutoLoader) >= 5.66
+perl(Carp)
+perl(Config)
+perl(Digest::SHA) >= 5.45
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp) >= 0.05
+perl(FindBin)
+perl(Test::More)
+perl(bytes)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

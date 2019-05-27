@@ -1,0 +1,17 @@
+findutils
+make
+perl(Data::Dumper)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Find)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod) >= 1.41
+perl(base)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,15 @@
+GitPython
+PyYAML
+compiler(go-compiler)
+koji
+python >= 2.7.5
+python-devel
+python-fedora
+python-gitdb
+python-jinja2
+python-jsonschema
+python-markupsafe
+python-pycurl
+python-setuptools
+python2-hglib
+python2-koji

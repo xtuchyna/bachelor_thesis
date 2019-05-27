@@ -1,0 +1,4 @@
+dos2unix
+php-composer(gettext/languages) < 3.0.0
+php-composer(gettext/languages) >= 2.3.0
+phpunit

@@ -1,0 +1,3 @@
+jetty-toolchain
+maven-local
+maven-remote-resources-plugin >= 1.2.1-3

@@ -1,0 +1,9 @@
+perl(AutoLoader)
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IO::Socket)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

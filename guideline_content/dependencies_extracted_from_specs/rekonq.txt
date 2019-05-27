@@ -1,0 +1,8 @@
+desktop-file-utils
+gettext
+kdelibs4-devel
+kdelibs4-webkit-devel
+pkgconfig(QtGui)
+pkgconfig(QtNetwork)
+pkgconfig(qca2)
+pkgconfig(qoauth)

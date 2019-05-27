@@ -1,0 +1,5 @@
+asciidoc
+perl-generators
+python3-devel
+systemd
+xmlto

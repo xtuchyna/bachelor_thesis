@@ -1,0 +1,4 @@
+docbook-style-xsl
+glib2-devel
+libxslt
+polkit-devel

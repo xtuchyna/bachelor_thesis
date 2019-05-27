@@ -1,0 +1,4 @@
+ghc-Cabal-devel
+ghc-deepseq-devel
+ghc-primitive-devel
+ghc-rpm-macros

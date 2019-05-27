@@ -1,0 +1,10 @@
+python2-devel
+python2-nose
+python2-pytz
+python2-requests
+python2-setuptools
+python3-devel
+python3-nose
+python3-pytz
+python3-requests
+python3-setuptools

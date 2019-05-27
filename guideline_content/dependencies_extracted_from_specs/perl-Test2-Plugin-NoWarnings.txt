@@ -1,0 +1,19 @@
+coreutils
+make
+perl(CPAN::Meta) >= 2.120900
+perl(CPAN::Meta::Prereqs)
+perl(Carp)
+perl(ExtUtils::MakeMaker) > 6.75
+perl(File::Spec)
+perl(IPC::Run3)
+perl(Test2::API)
+perl(Test2::Bundle::Extended)
+perl(Test2::Event)
+perl(Test2::Require::Module)
+perl(Test2::Util::HashBase)
+perl(Test::More) >= 0.96
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

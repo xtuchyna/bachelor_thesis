@@ -1,0 +1,5 @@
+maven-enforcer-plugin
+maven-local
+mvn(junit:junit)
+mvn(org.jboss.spec.javax.el:jboss-el-api_2.2_spec)
+mvn(org.sonatype.oss:oss-parent:pom:)

@@ -1,0 +1,16 @@
+findutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(Pod::Coverage) >= 0.18
+perl(Scalar::Util)
+perl(Test::CheckManifest) >= 0.9
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

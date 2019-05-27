@@ -1,0 +1,9 @@
+perl(IO::All)
+perl(Module::Build)
+perl(Test::Exception)
+perl(Test::Output)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(YAML::Syck)
+perl-generators
+subversion

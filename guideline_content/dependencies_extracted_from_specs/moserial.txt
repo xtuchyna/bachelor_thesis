@@ -1,0 +1,9 @@
+GConf2-devel
+desktop-file-utils
+gnome-doc-utils
+gtk3-devel
+intltool
+itstool
+perl(XML::Parser)
+rarian-compat
+vala

@@ -1,0 +1,5 @@
+bison
+flex
+hostname
+libxml2-devel
+ncurses-devel

@@ -1,0 +1,12 @@
+nodejs-packaging
+npm(es6-promise)
+npm(grunt-cli)
+npm(grunt-contrib-clean)
+npm(grunt-contrib-concat)
+npm(grunt-contrib-copy)
+npm(grunt-contrib-uglify)
+npm(grunt-contrib-watch)
+npm(load-grunt-tasks)
+npm(rollup)
+uglify-js
+web-assets-devel

@@ -1,0 +1,6 @@
+firewalld
+gpg
+gpgme-devel
+iptables
+libpcap-devel
+systemd

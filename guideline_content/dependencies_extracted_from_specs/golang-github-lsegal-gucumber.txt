@@ -1,0 +1,3 @@
+compiler(go-compiler)
+golang(github.com/shiena/ansicolor)
+golang(github.com/stretchr/testify/assert)

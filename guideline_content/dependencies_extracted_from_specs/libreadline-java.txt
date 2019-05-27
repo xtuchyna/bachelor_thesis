@@ -1,0 +1,4 @@
+java-devel >= 1.4.2
+javapackages-local
+libedit-devel >= 3.1-15
+ncurses-devel

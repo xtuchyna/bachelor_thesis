@@ -1,0 +1,4 @@
+java-devel
+jpackage-utils
+maven-local
+mvn(org.sonatype.oss:oss-parent:pom:)

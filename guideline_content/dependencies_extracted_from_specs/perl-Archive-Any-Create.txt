@@ -1,0 +1,11 @@
+make
+perl(Archive::Tar)
+perl(Archive::Zip)
+perl(Exception::Class)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More) >= 0.90
+perl(UNIVERSAL::require)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

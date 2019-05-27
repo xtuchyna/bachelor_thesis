@@ -1,0 +1,9 @@
+mpfr-devel
+ocaml
+ocaml-camlidl-devel
+ocaml-findlib-devel
+ocaml-mlgmpidl-devel
+ocaml-num-devel
+ocaml-ocamlbuild-devel
+ocaml-ocamldoc
+ocaml-zarith-devel

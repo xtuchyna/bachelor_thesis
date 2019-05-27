@@ -1,0 +1,24 @@
+findutils
+make
+perl(Catalyst)
+perl(Catalyst::Controller)
+perl(Catalyst::Runtime) >= 5.90000
+perl(Catalyst::Test)
+perl(File::stat)
+perl(HTTP::Date)
+perl(HTTP::Request::AsCGI)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moose)
+perl(Plack::Request)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(base)
+perl(inc::Module::Install) >= 0.91
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

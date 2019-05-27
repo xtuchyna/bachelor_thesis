@@ -1,0 +1,11 @@
+perl(Catalyst::Runtime)
+perl(MRO::Compat)
+perl(Module::Install::AuthorTests)
+perl(Module::Install::Metadata)
+perl(Module::Install::ReadmeFromPod)
+perl(Module::Install::WriteAll)
+perl(Test::More)
+perl(Test::WWW::Mechanize::Catalyst)
+perl(inc::Module::Install) >= 0.91
+perl(ok)
+perl-generators

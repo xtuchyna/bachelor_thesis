@@ -1,0 +1,11 @@
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(HTTP::Request)
+perl(JSON) >= 2.50
+perl(LWP::UserAgent)
+perl(Moo) >= 0.009007
+perl(Test::More) >= 0.90
+perl(URI) >= 1.58
+perl(URI::QueryParam)
+perl(strict)
+perl(warnings)
+perl-generators

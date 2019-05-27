@@ -1,0 +1,13 @@
+autoconf
+automake
+firewalld-filesystem
+fuse-devel >= 1.0
+libftdi-devel
+libtool
+libusb-devel
+libusbx-devel
+python2-devel
+swig
+systemd
+tcl-devel >= 8.1
+zlib-devel

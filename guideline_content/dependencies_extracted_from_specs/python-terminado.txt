@@ -1,0 +1,10 @@
+python2-devel
+python2-ptyprocess
+python2-pytest
+python2-tornado >= 4.0.0
+python3-devel
+python3-flit
+python3-ptyprocess
+python3-pygments
+python3-pytest
+python3-tornado >= 4.0.0

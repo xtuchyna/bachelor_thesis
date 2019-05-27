@@ -1,0 +1,10 @@
+cairo-devel
+fontconfig-devel
+freetype-devel
+giflib-devel
+glib2-devel
+libexif-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel
+zlib-devel

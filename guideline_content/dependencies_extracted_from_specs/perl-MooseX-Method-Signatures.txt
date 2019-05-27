@@ -1,0 +1,40 @@
+perl(B::Hooks::EndOfScope) >= 0.10
+perl(Context::Preserve)
+perl(Data::Dumper)
+perl(Devel::Declare) >= 0.005011
+perl(Eval::Closure)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Temp)
+perl(Module::Build::Tiny)
+perl(Module::Runtime)
+perl(Moose) >= 0.89
+perl(Moose::Meta::Class)
+perl(Moose::Meta::Method)
+perl(Moose::Role)
+perl(Moose::Util)
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::LazyRequire) >= 0.06
+perl(MooseX::Meta::TypeConstraint::ForceCoercion)
+perl(MooseX::Types) >= 0.35
+perl(MooseX::Types::Moose) >= 0.19
+perl(MooseX::Types::Structured) >= 0.24
+perl(MooseX::Types::Util)
+perl(Parse::Method::Signatures) >= 1.003014
+perl(Parse::Method::Signatures::Param::Named)
+perl(Parse::Method::Signatures::Param::Placeholder)
+perl(Parse::Method::Signatures::TypeConstraint)
+perl(Parse::Method::Signatures::Types)
+perl(Sub::Name)
+perl(Task::Weaken)
+perl(Test::Deep)
+perl(Test::Fatal)
+perl(Test::Moose)
+perl(Test::More) >= 0.89
+perl(Test::Pod)
+perl(Text::Balanced)
+perl(aliased)
+perl(metaclass)
+perl(namespace::autoclean)
+perl(namespace::clean)
+perl-generators

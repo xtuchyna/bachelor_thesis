@@ -1,0 +1,2 @@
+java-devel
+javapackages-local

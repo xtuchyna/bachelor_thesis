@@ -1,0 +1,11 @@
+alsa-lib-devel
+chrpath
+desktop-file-utils
+gtk2-devel
+jack-audio-connection-kit-devel
+libuuid-devel
+libxml2-devel
+python2-devel
+readline-devel
+swig
+texi2html

@@ -1,0 +1,6 @@
+perl(CGI)
+perl(CGI::Application)
+perl(Config::Auto)
+perl(Module::Build)
+perl(Test::More)
+perl-generators

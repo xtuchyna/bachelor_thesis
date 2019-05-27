@@ -1,0 +1,6 @@
+gettext-devel
+hesiod-devel
+krb5-devel
+openssl-devel
+python-devel
+systemd

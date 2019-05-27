@@ -1,0 +1,11 @@
+gcc
+glibc-devel
+meson
+pkgconfig(audit)
+pkgconfig(dbus-1)
+pkgconfig(expat)
+pkgconfig(glib-2.0)
+pkgconfig(libselinux)
+pkgconfig(libsystemd)
+pkgconfig(systemd)
+python2-docutils

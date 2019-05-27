@@ -1,0 +1,7 @@
+avahi-devel
+cmake
+gcc-c++
+libeXosip2-devel >= 3.0.0
+make
+openssl-devel
+ucommon-devel >= 6.6.0

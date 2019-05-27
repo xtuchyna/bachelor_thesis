@@ -1,0 +1,6 @@
+lua-devel
+luarocks
+oniguruma-devel
+pcre-devel
+pkgconfig
+tre-devel

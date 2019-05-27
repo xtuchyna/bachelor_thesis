@@ -1,0 +1,29 @@
+clamz
+curl-devel
+desktop-file-utils
+gcc-c++
+gettext
+kdelibs4-devel >= 4.9
+kdelibs4-webkit-devel
+kf5-rpm-macros
+libappstream-glib
+libgcrypt-devel
+liblastfm-devel >= 1.0.3
+mariadb-connector-c-devel
+mysql-embedded-devel
+perl-generators
+pkgconfig(QJson)
+pkgconfig(QtWebKit)
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(gobject-2.0)
+pkgconfig(libgpod-1.0) >= 0.7.0
+pkgconfig(libmtp) >= 0.3.0
+pkgconfig(libmygpo-qt) >= 1.0.7
+pkgconfig(libxml-2.0)
+pkgconfig(loudmouth-1.0)
+pkgconfig(phonon) >= 4.5.0
+pkgconfig(qca2)
+pkgconfig(taglib) >= 1.6
+pkgconfig(taglib-extras) >= 1.0.1
+qtscriptbindings

@@ -1,0 +1,4 @@
+pytest
+python-novaclient
+python-pytest-cov
+python2-devel

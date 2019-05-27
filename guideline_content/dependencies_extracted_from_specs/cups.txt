@@ -1,0 +1,17 @@
+audit-libs-devel
+automake
+gcc
+gcc-c++
+krb5-devel
+libacl-devel
+libselinux-devel
+openldap-devel
+pam-devel
+pkgconf-pkg-config
+pkgconfig(avahi-client)
+pkgconfig(dbus-1)
+pkgconfig(gnutls)
+pkgconfig(libsystemd)
+pkgconfig(libusb-1.0)
+python3-cups
+systemd

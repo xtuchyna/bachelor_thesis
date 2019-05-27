@@ -1,0 +1,3 @@
+flow-tools-devel
+python2-devel
+zlib-devel

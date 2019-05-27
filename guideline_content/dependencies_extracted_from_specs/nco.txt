@@ -1,0 +1,10 @@
+antlr-C++
+bison
+chrpath
+flex
+gawk
+gsl-devel
+netcdf-devel
+texinfo
+texinfo-tex
+udunits2-devel

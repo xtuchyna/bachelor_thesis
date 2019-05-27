@@ -1,0 +1,4 @@
+rubygem(facade)
+rubygem(minitest)
+rubygem(test-unit)
+rubygems-devel

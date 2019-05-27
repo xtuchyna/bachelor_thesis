@@ -1,0 +1,26 @@
+curl-devel
+desktop-file-utils
+findutils
+gettext
+gnome-vfs2-devel
+gob2
+gtk2-devel
+intltool
+json-glib-devel
+libSM-devel
+libglade2-devel
+libmicrohttpd-devel
+libmpd-devel >= 0.20.0
+libnotify-devel
+libsexy-devel
+libsoup-devel
+lirc-devel
+perl-XML-Parser
+pkgconfig(avahi-client)
+pkgconfig(avahi-glib)
+scrollkeeper
+sqlite-devel
+taglib-devel
+unique-devel
+vala
+xosd-devel

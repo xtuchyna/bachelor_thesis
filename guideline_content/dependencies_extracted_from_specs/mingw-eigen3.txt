@@ -1,0 +1,13 @@
+cmake
+mingw32-fftw
+mingw32-filesystem >= 95
+mingw32-gcc-c++
+mingw32-gcc-gfortran
+mingw32-gmp
+mingw32-mpfr
+mingw64-fftw
+mingw64-filesystem >= 95
+mingw64-gcc-c++
+mingw64-gcc-gfortran
+mingw64-gmp
+mingw64-mpfr

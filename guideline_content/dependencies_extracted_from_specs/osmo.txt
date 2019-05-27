@@ -1,0 +1,12 @@
+autoconf
+automake
+desktop-file-utils
+gettext-devel
+gtk3-devel
+gtkspell3-devel
+libgringotts-devel
+libical-devel
+libnotify-devel
+libtar-devel
+libxml2-devel
+webkitgtk4-devel

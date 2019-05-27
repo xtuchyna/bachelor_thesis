@@ -1,0 +1,2 @@
+nodejs-devel
+txt2man

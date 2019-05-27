@@ -1,0 +1,40 @@
+extra-cmake-modules >= 5.44.0
+kf5-kactivities-devel >= 5.44.0
+kf5-karchive-devel >= 5.44.0
+kf5-kconfig-devel >= 5.44.0
+kf5-kconfigwidgets-devel >= 5.44.0
+kf5-kcoreaddons-devel >= 5.44.0
+kf5-kdbusaddons-devel >= 5.44.0
+kf5-kdeclarative-devel >= 5.44.0
+kf5-kdesu-devel >= 5.44.0
+kf5-kdoctools-devel >= 5.44.0
+kf5-kglobalaccel-devel >= 5.44.0
+kf5-kguiaddons-devel >= 5.44.0
+kf5-ki18n-devel >= 5.44.0
+kf5-kiconthemes-devel >= 5.44.0
+kf5-kio-devel >= 5.44.0
+kf5-kirigami2-devel >= 5.44.0
+kf5-knotifications-devel >= 5.44.0
+kf5-kpackage-devel >= 5.44.0
+kf5-kparts-devel >= 5.44.0
+kf5-kservice-devel >= 5.44.0
+kf5-kwayland-devel >= 5.44.0
+kf5-kwidgetsaddons-devel >= 5.44.0
+kf5-kwindowsystem-devel >= 5.44.0
+kf5-kxmlgui-devel >= 5.44.0
+kf5-rpm-macros >= 5.44.0
+kf5-solid-devel >= 5.44.0
+libGL-devel
+libSM-devel
+libX11-devel
+libXScrnSaver-devel
+libXext-devel
+libXrender-devel
+libxcb-devel
+openssl-devel
+qt5-qtbase-devel
+qt5-qtdeclarative-devel
+qt5-qtquickcontrols2-devel
+qt5-qtscript-devel
+qt5-qtsvg-devel
+qt5-qtx11extras-devel

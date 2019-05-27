@@ -1,0 +1,8 @@
+/usr/bin/phpunit
+php(language) >= 5.3.0
+php-json
+php-mbstring
+php-pcre
+php-reflection
+php-spl
+php-xml

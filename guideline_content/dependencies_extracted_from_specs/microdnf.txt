@@ -1,0 +1,7 @@
+gcc
+meson >= 0.36.0
+pkgconfig(glib-2.0) >= 2.44.0
+pkgconfig(gobject-2.0) >= 2.44.0
+pkgconfig(libdnf) >= 0.7.0
+pkgconfig(libpeas-1.0) >= 1.20.0
+pkgconfig(smartcols)

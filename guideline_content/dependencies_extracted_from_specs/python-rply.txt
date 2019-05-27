@@ -1,0 +1,8 @@
+python2-appdirs
+python2-devel
+python2-pytest
+python2-setuptools
+python3-appdirs
+python3-devel
+python3-pytest
+python3-setuptools

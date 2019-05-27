@@ -1,0 +1,11 @@
+coreutils
+findutils
+make
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

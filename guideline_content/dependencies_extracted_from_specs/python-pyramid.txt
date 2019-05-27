@@ -1,0 +1,38 @@
+python-chameleon >= 1.2.3
+python-mako >= 0.3.6
+python-repoze-lru
+python-venusian >= 1.0
+python-webob >= 1.2
+python-webtest
+python-zope-deprecation >= 3.5.0
+python2-devel
+python2-docutils
+python2-hupper
+python2-paste-deploy >= 1.5.0
+python2-plaster
+python2-plaster-pastedeploy
+python2-setuptools
+python2-sphinx
+python2-translationstring
+python2-zope-component >= 3.6.0
+python2-zope-configuration
+python2-zope-interface >= 3.8.0
+python3-chameleon >= 1.2.3
+python3-devel
+python3-docutils
+python3-hupper
+python3-mako
+python3-paste-deploy
+python3-plaster
+python3-plaster-pastedeploy
+python3-repoze-lru
+python3-setuptools
+python3-sphinx
+python3-translationstring
+python3-venusian >= 1.0
+python3-webob >= 1.2
+python3-webtest
+python3-zope-component >= 3.6.0
+python3-zope-configuration
+python3-zope-deprecation >= 3.5.0
+python3-zope-interface

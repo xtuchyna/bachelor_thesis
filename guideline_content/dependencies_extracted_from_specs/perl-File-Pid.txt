@@ -1,0 +1,11 @@
+make
+perl(Class::Accessor::Fast) >= 0.19
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Spec::Functions)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

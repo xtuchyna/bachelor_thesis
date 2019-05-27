@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(coffee-script)
+npm(is-arrayish)
+npm(istanbul)
+npm(mocha)
+npm(should)

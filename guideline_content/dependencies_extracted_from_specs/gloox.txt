@@ -1,0 +1,4 @@
+gnutls-devel >= 1.2
+libgcrypt-devel
+libidn-devel >= 0.5
+zlib-devel >= 1.2.3

@@ -1,0 +1,10 @@
+make
+perl(AnyEvent) >= 3.81
+perl(BDB) >= 1.5
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(ansi-regex)
+npm(d)
+npm(es5-ext)
+npm(es6-iterator)
+npm(memoizee)
+npm(timers-ext)

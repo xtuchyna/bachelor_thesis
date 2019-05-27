@@ -1,0 +1,3 @@
+/usr/bin/xmllint
+fontpackages-devel
+python3

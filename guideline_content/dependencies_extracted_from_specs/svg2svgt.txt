@@ -1,0 +1,8 @@
+cmake
+desktop-file-utils
+gcc-c++
+libappstream-glib
+qt5-qtbase-devel
+qt5-qtsvg-devel
+qt5-qttools-devel
+qt5-qtxmlpatterns-devel

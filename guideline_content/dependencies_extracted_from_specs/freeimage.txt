@@ -1,0 +1,12 @@
+LibRaw-devel
+OpenEXR-devel
+doxygen
+gcc-c++
+jxrlib-devel
+libjpeg-devel
+libmng-devel
+libpng-devel
+libtiff-devel
+libwebp-devel
+make
+openjpeg2-devel

@@ -1,0 +1,6 @@
+fedora-cert
+koji
+python
+python-bugzilla
+python-fedora
+python-setuptools

@@ -1,0 +1,25 @@
+php(language) >= 5.6
+php-autoloader(zendframework/zend-cache) >= 2.6.1
+php-autoloader(zendframework/zend-captcha) >= 2.7.1
+php-autoloader(zendframework/zend-code) >= 2.6
+php-autoloader(zendframework/zend-escaper) >= 2.5
+php-autoloader(zendframework/zend-eventmanager) >= 2.6.2
+php-autoloader(zendframework/zend-filter) >= 2.6
+php-autoloader(zendframework/zend-hydrator) >= 1.0
+php-autoloader(zendframework/zend-i18n) >= 2.6
+php-autoloader(zendframework/zend-inputfilter) >= 2.8
+php-autoloader(zendframework/zend-servicemanager) >= 2.7.5
+php-autoloader(zendframework/zend-session) >= 2.8.1
+php-autoloader(zendframework/zend-stdlib) >= 2.7
+php-autoloader(zendframework/zend-text) >= 2.6
+php-autoloader(zendframework/zend-validator) >= 2.6
+php-autoloader(zendframework/zend-view) >= 2.6.2
+php-composer(doctrine/annotations) >= 1.0
+php-composer(ircmaxell/random-lib)
+php-date
+php-fedora-autoloader-devel
+php-intl
+php-mcrypt
+php-pcre
+php-phpunit-PHPUnit >= 5.7.23
+php-spl

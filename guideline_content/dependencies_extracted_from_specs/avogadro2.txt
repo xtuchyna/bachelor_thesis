@@ -1,0 +1,14 @@
+avogadro2-libs-devel
+chrpath
+cmake
+desktop-file-utils
+doxygen
+eigen3-devel
+gcc-c++
+glew-devel
+hdf5-devel
+libappstream-glib
+molequeue-devel
+qt5-qtbase-devel
+qt5-qttools-devel
+spglib-devel

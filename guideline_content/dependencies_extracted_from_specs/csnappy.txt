@@ -1,0 +1,6 @@
+coreutils
+diffutils
+gcc
+make
+sed
+valgrind

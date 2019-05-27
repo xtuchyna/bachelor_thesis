@@ -1,0 +1,6 @@
+chrpath
+newt-devel
+ocaml >= 3.10.0
+ocaml-camlidl-devel
+ocaml-findlib-devel
+ocaml-ocamldoc

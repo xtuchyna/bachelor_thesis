@@ -1,0 +1,4 @@
+compiler(go-compiler)
+golang(github.com/joho/godotenv)
+golang(github.com/mitchellh/go-homedir)
+golang(github.com/stretchr/testify/require)

@@ -1,0 +1,5 @@
+cmake
+gcc-c++
+pkgconfig(gl)
+pkgconfig(libva-glx)
+pkgconfig(vdpau)

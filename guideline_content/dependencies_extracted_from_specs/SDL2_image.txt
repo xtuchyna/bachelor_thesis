@@ -1,0 +1,6 @@
+SDL2-devel
+chrpath
+libjpeg-devel
+libpng-devel
+libtiff-devel
+libwebp-devel

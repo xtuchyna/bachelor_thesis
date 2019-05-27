@@ -1,0 +1,10 @@
+autoconf
+automake
+gettext-devel
+libtnc-devel
+libtool
+libuuid-devel
+libxml2-devel
+openssl-devel
+systemd
+trousers-devel

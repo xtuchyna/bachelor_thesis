@@ -1,0 +1,2 @@
+cmake
+libcmocka-devel >= 1.1.0

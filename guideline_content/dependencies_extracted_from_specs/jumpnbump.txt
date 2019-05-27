@@ -1,0 +1,10 @@
+bzip2-devel
+desktop-file-utils
+gcc
+gettext
+libappstream-glib
+pkgconfig(SDL2_mixer)
+pkgconfig(SDL2_net)
+pkgconfig(sdl2)
+pkgconfig(zlib)
+python-devel

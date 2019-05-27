@@ -1,0 +1,4 @@
+erlang-bear
+erlang-meck
+erlang-mochiweb
+erlang-rebar

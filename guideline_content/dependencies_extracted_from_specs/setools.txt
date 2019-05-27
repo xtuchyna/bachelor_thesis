@@ -1,0 +1,13 @@
+bison
+flex
+gcc
+git
+glibc-devel
+libsepol-devel >= 2.7-1
+libsepol-static >= 2.7-1
+python2-devel
+python2-setuptools
+python3-devel
+python3-setuptools
+qt5-qtbase-devel
+swig

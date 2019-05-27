@@ -1,0 +1,10 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Return::MultiLevel)
+perl(Test::Builder::Module) >= 0.86
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

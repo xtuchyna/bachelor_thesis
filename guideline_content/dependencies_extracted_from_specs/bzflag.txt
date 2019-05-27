@@ -1,0 +1,16 @@
+SDL-devel
+c-ares-devel
+desktop-file-utils
+gcc-c++
+libGL-devel
+libGLU-devel
+libICE-devel
+libSM-devel
+libX11-devel
+libXext-devel
+libXxf86vm-devel
+libcurl-devel
+ncurses-devel
+sed
+systemd
+zlib-devel

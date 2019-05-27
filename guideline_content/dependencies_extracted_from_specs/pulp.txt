@@ -1,0 +1,11 @@
+checkpolicy
+graphviz
+hardlink
+java-devel
+plantuml
+python2-devel
+python2-rpm-macros
+python2-setuptools
+python2-sphinx >= 1.0.8
+selinux-policy-devel
+systemd

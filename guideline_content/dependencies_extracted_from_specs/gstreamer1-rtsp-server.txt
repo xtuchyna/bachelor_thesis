@@ -1,0 +1,8 @@
+autoconf
+automake
+chrpath
+gobject-introspection-devel
+gstreamer1-devel >= 1.14.0
+gstreamer1-plugins-base-devel >= 1.14.0
+gtk-doc >= 1.3
+libtool

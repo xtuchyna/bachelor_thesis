@@ -1,0 +1,11 @@
+desktop-file-utils
+dos2unix
+gettext
+giflib-devel
+gtk2-devel
+lcms2-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel
+openjpeg2-devel
+zlib-devel

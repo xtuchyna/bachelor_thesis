@@ -1,0 +1,5 @@
+autoconf
+automake
+libcap-devel
+perl(ExtUtils::Embed)
+perl-devel

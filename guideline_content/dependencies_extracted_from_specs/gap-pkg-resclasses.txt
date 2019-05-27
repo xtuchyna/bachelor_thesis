@@ -1,0 +1,5 @@
+GAPDoc-latex
+gap-devel
+gap-pkg-io
+gap-pkg-polycyclic
+gap-pkg-utils

@@ -1,0 +1,7 @@
+emacs
+espeak-devel
+gcc-c++
+perl-generators
+perl-interpreter
+tcl-devel
+texinfo

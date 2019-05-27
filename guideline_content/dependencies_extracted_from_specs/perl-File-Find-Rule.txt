@@ -1,0 +1,8 @@
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Spec)
+perl(Number::Compare)
+perl(Test::More) >= 0.07
+perl(Text::Glob)
+perl-generators
+perl-interpreter

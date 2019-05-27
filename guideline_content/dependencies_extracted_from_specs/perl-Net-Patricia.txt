@@ -1,0 +1,20 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Net::CIDR::Lite) >= 0.20
+perl(Socket)
+perl(Socket6)
+perl(Storable)
+perl(Test::More) >= 0.88
+perl(diagnostics)
+perl(strict)
+perl(vars)
+perl(version)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

@@ -1,0 +1,29 @@
+/usr/bin/catalyst.pl
+perl(CPAN)
+perl(Carp::Clan)
+perl(Catalyst::Component::InstancePerContext)
+perl(Catalyst::Devel) >= 1.0
+perl(Catalyst::Runtime) >= 5.80005
+perl(CatalystX::Component::Traits) >= 0.14
+perl(DBD::SQLite)
+perl(DBIx::Class) >= 0.08114
+perl(DBIx::Class::Cursor::Cached)
+perl(DBIx::Class::Schema::Loader) >= 0.04005
+perl(Hash::Merge)
+perl(List::MoreUtils)
+perl(Moose) >= 1.12
+perl(MooseX::MarkAsMethods) >= 0.13
+perl(MooseX::NonMoose) >= 0.16
+perl(MooseX::Types)
+perl(MooseX::Types::LoadableClass)
+perl(Storable)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Requires)
+perl(Tie::IxHash)
+perl(Try::Tiny)
+perl(inc::Module::Install)
+perl(namespace::autoclean) >= 0.09
+perl(namespace::clean)
+perl-generators

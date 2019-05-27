@@ -1,0 +1,17 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(FindBin)
+perl(HTML::ElementTable)
+perl(HTML::Entities)
+perl(HTML::Parser)
+perl(HTML::TreeBuilder)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(lib)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

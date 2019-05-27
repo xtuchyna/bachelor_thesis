@@ -1,0 +1,9 @@
+binutils >= 2.15.90.0.1.1-2
+bison
+dejagnu
+flex
+gettext
+glibc-devel >= 2.2.90-12
+glibc-static
+texinfo
+zlib-devel

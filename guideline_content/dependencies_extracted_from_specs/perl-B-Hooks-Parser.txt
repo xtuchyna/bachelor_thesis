@@ -1,0 +1,19 @@
+coreutils
+findutils
+make
+perl(B::Hooks::EndOfScope)
+perl(B::Hooks::OP::Check)
+perl(DynaLoader)
+perl(ExtUtils::Depends) >= 0.302
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Module::Metadata)
+perl(Test::Exception)
+perl(Test::Fatal)
+perl(Test::More)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

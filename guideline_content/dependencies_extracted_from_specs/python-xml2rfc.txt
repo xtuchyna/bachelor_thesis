@@ -1,0 +1,8 @@
+libxml2-devel
+libxslt-devel
+python-setuptools
+python-virtualenv
+python2-devel
+python2-requests >= 2.5.0
+python3-devel
+python3-requests >= 2.5.0

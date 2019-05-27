@@ -1,0 +1,12 @@
+python2-agate >= 1.5.0
+python2-dbfread >= 2.0.5
+python2-devel
+python2-nose >= 1.1.2
+python2-openpyxl >= 2.3.0
+python2-sphinx >= 1.2.2
+python2-sphinx_rtd_theme >= 0.1.6
+python3-agate >= 1.5.0
+python3-dbfread >= 2.0.5
+python3-devel
+python3-nose >= 1.1.2
+python3-openpyxl >= 2.3.0

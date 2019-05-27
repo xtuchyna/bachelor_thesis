@@ -1,0 +1,14 @@
+python-devel
+python-setuptools
+python-zope-interface
+python2-devel
+python2-hypothesis
+python2-pytest
+python2-setuptools
+python2-six
+python3-devel
+python3-hypothesis
+python3-pytest
+python3-setuptools
+python3-six
+python3-zope-interface

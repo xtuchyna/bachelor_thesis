@@ -1,0 +1,26 @@
+perl(Attribute::Handlers) >= 0.77
+perl(Carp)
+perl(Contextual::Return)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Find)
+perl(File::Spec)
+perl(IO::File) >= 1.09
+perl(MRO::Compat) >= 0.11
+perl(Module::Runtime)
+perl(Storable) >= 2.04
+perl(Test)
+perl(Test::Builder)
+perl(Test::Builder) >= 0.78
+perl(Test::Builder::Tester) >= 1.02
+perl(Test::Exception) >= 0.25
+perl(Test::More) >= 1.001002
+perl(Try::Tiny)
+perl(base)
+perl(constant)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

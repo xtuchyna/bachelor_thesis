@@ -1,0 +1,14 @@
+findutils
+gcc
+libdb-devel
+make
+perl(:VERSION) >= 5.8.8
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(XSLoader)
+perl(base)
+perl(common::sense)
+perl-devel
+perl-generators
+perl-interpreter

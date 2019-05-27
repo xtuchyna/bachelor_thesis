@@ -1,0 +1,9 @@
+freetype-devel
+libX11-devel
+libXaw-devel
+libXcomposite-devel
+libXext-devel
+libXft-devel
+libXpm-devel
+libXt-devel
+xorg-x11-proto-devel

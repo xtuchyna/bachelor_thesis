@@ -1,0 +1,22 @@
+/usr/bin/autopoint
+ModemManager-glib-devel >= 1.0
+NetworkManager-devel >= 1:1.1.0
+NetworkManager-glib-devel >= 1:1.1.0
+NetworkManager-libnm-devel >= 1:1.1.0
+desktop-file-utils
+gcr-devel
+gettext-devel
+glib2-devel >= 2.32
+gobject-introspection-devel >= 0.10.3
+gtk-doc
+gtk3-devel >= 3.10
+intltool
+iso-codes-devel
+jansson-devel
+libgudev1-devel >= 147
+libnotify-devel >= 0.4
+libsecret-devel
+libsecret-devel >= 0.12
+libselinux-devel
+meson
+pkgconfig

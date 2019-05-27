@@ -1,0 +1,18 @@
+perl(Carp)
+perl(Email::Date::Format)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Spec)
+perl(FileHandle)
+perl(MIME::Types) >= 1.28
+perl(Mail::Address)
+perl(Net::SMTP)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

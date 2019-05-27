@@ -1,0 +1,7 @@
+GAPDoc-latex
+gap-devel
+gap-pkg-autpgrp
+gap-pkg-groupoids
+gap-pkg-hap
+gap-pkg-utils
+tex(xy.sty)

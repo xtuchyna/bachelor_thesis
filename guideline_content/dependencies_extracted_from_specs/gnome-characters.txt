@@ -1,0 +1,8 @@
+desktop-file-utils
+gettext
+gjs-devel >= 1.43.3
+gobject-introspection-devel
+gtk3-devel
+libappstream-glib
+libunistring-devel
+meson

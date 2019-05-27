@@ -1,0 +1,2 @@
+compiler(go-compiler)
+golang(bitbucket.org/kardianos/osext)

@@ -1,0 +1,5 @@
+/usr/bin/xsltproc
+docbook-style-xsl
+gcc
+pkgconfig(libsystemd) >= 221
+systemd

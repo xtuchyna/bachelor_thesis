@@ -1,0 +1,4 @@
+apr-devel
+autoconf
+httpd-devel >= 2.0
+libtool

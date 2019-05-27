@@ -1,0 +1,8 @@
+epydoc
+python-gevent
+python-requests
+python-setuptools
+python-xlib
+python2-devel
+python2-paramiko
+python2-simplejson

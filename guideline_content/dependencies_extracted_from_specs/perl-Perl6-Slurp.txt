@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(IO::File)
+perl(Scalar::Util)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

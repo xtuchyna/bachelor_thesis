@@ -1,0 +1,7 @@
+autoconf
+automake
+efivar-devel >= 31-1
+git
+gnu-efi
+openssl
+openssl-devel

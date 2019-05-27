@@ -1,0 +1,8 @@
+bison
+docbook2X
+flex
+gmp-devel
+libmnl-devel
+libnftnl-devel
+readline-devel
+systemd

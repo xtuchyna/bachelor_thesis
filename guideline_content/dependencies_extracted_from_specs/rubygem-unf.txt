@@ -1,0 +1,5 @@
+ruby(release)
+rubygem(minitest)
+rubygem(shoulda)
+rubygem(unf_ext)
+rubygems-devel

@@ -1,0 +1,14 @@
+boost-devel
+cmake
+desktop-file-utils
+docbook-utils
+gcc-c++
+gettext
+libclaw-devel >= 1.7.4-17
+libjpeg-turbo-devel
+pkgconfig(SDL2_mixer)
+pkgconfig(freetype2)
+pkgconfig(sdl2)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+wxGTK3-devel

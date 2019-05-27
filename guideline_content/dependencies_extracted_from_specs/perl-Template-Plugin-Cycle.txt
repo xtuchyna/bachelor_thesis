@@ -1,0 +1,15 @@
+coreutils
+make
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Params::Util) >= 0.20
+perl(Template) >= 2.10
+perl(Template::Plugin)
+perl(Test::More) >= 0.47
+perl(inc::Module::Install) >= 0.75
+perl(overload)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,35 @@
+cmake
+gcc
+gcc-c++
+gettext
+gperf
+gtk-doc >= 1.9
+intltool >= 0.35.5
+krb5-devel >= 1.11
+libdb-devel
+openldap-devel >= 2.0.11
+perl-generators
+pkgconfig(gcr-3) >= 3.4
+pkgconfig(gcr-base-3) >= 3.4
+pkgconfig(gio-2.0) >= 2.46.0
+pkgconfig(gio-unix-2.0) >= 2.46.0
+pkgconfig(gmodule-2.0) >= 2.46.0
+pkgconfig(goa-1.0) >= 3.8
+pkgconfig(gtk+-3.0) >= 3.10.0
+pkgconfig(gweather-3.0) >= 3.5.0
+pkgconfig(icu-i18n)
+pkgconfig(json-glib-1.0) >= 1.0.4
+pkgconfig(libgdata) >= 0.10.0
+pkgconfig(libical) >= 2.0
+pkgconfig(libsecret-unstable) >= 0.5
+pkgconfig(libsoup-2.4) >= 2.42
+pkgconfig(libxml-2.0)
+pkgconfig(nspr)
+pkgconfig(nss) >= 3.14
+pkgconfig(sqlite3) >= 3.5
+pkgconfig(webkit2gtk-4.0) >= 2.11.91
+python3
+sendmail
+systemd
+vala
+vala-tools

@@ -1,0 +1,10 @@
+desktop-file-utils
+freexl-devel
+geos-devel
+libgeotiff-devel
+libjpeg-devel
+librasterlite-devel
+libspatialite-devel
+proj-devel
+sqlite-devel
+wxGTK-devel

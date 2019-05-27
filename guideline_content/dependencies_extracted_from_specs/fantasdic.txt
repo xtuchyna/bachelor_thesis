@@ -1,0 +1,4 @@
+desktop-file-utils
+gettext
+ruby(release)
+ruby-devel

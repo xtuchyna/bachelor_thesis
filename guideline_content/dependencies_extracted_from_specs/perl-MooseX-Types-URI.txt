@@ -1,0 +1,9 @@
+perl(Module::Build::Tiny)
+perl(Moose) >= 0.50
+perl(MooseX::Types)
+perl(MooseX::Types::Path::Class)
+perl(Test::use::ok)
+perl(URI)
+perl(URI::FromHash)
+perl(namespace::clean) >= 0.08
+perl-generators

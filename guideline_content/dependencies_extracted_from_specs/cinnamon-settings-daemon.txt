@@ -1,0 +1,28 @@
+cups-devel
+desktop-file-utils
+docbook-style-xsl
+gnome-common
+intltool
+libxslt
+pkgconfig(cinnamon-desktop) >= 3.6.0
+pkgconfig(colord) >= 0.1.12
+pkgconfig(dbus-glib-1)
+pkgconfig(gudev-1.0)
+pkgconfig(ibus-1.0)
+pkgconfig(lcms2) >= 2.2
+pkgconfig(libcanberra)
+pkgconfig(libgnomekbd)
+pkgconfig(libnm)
+pkgconfig(libnma)
+pkgconfig(libnotify)
+pkgconfig(libpulse)
+pkgconfig(librsvg-2.0)
+pkgconfig(libsystemd)
+pkgconfig(libwacom)
+pkgconfig(libxklavier)
+pkgconfig(nss)
+pkgconfig(polkit-agent-1)
+pkgconfig(upower-glib)
+pkgconfig(xorg-wacom)
+pkgconfig(xtst)
+pkgconfig(xxf86misc)

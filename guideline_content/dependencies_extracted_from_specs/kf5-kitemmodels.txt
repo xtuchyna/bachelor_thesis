@@ -1,0 +1,3 @@
+cmake(Qt5Core)
+extra-cmake-modules >= 5.44
+kf5-rpm-macros

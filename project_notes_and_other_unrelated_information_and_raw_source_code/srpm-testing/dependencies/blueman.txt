@@ -1,0 +1,13 @@
+desktop-file-utils
+intltool >= 0.35.0
+iproute
+pkgconfig(bluez)
+pkgconfig(gtk+-3.0)
+pkgconfig(polkit-agent-1)
+pkgconfig(pygobject-3.0)
+pkgconfig(python3)
+python3-Cython >= 0.21
+python3-dbus
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+systemd

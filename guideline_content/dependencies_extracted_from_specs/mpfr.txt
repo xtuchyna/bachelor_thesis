@@ -1,0 +1,4 @@
+autoconf
+gcc
+gmp-devel
+libtool

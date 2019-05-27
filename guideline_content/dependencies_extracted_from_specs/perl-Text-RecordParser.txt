@@ -1,0 +1,36 @@
+coreutils
+perl(Carp)
+perl(Class::Accessor)
+perl(Config)
+perl(English)
+perl(File::Basename)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(FindBin)
+perl(Getopt::Long)
+perl(GraphViz)
+perl(IO::File)
+perl(IO::Scalar)
+perl(List::MoreUtils)
+perl(List::Util)
+perl(Module::Install::Metadata)
+perl(Module::Install::Scripts)
+perl(Module::Install::WriteAll)
+perl(Pod::Usage)
+perl(Readonly)
+perl(Scalar::Util)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Text::Autoformat)
+perl(Text::ParseWords)
+perl(Text::TabularDisplay)
+perl(base)
+perl(inc::Module::Install)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

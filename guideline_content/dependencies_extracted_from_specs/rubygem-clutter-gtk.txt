@@ -1,0 +1,10 @@
+/usr/bin/xvfb-run
+clutter-gtk
+mesa-dri-drivers
+ruby(release)
+rubygem(clutter)
+rubygem(clutter-gdk)
+rubygem(gtk3)
+rubygem(test-unit)
+rubygem-glib2-devel
+rubygems-devel

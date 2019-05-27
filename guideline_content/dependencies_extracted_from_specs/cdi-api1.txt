@@ -1,0 +1,10 @@
+maven-local
+mvn(javax.annotation:jsr250-api)
+mvn(javax.inject:javax.inject)
+mvn(org.apache.geronimo.specs:specs-parent:pom:)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.jboss.spec.javax.ejb:jboss-ejb-api_3.1_spec)
+mvn(org.jboss.spec.javax.el:jboss-el-api_2.2_spec)
+mvn(org.jboss.spec.javax.interceptor:jboss-interceptors-api_1.1_spec)
+mvn(org.jboss.weld:weld-parent:pom:)
+mvn(org.testng:testng::jdk15:)

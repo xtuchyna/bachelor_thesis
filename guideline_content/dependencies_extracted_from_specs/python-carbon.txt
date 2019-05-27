@@ -1,0 +1,10 @@
+python-cachetools
+python-twisted-core
+python2-configparser
+python2-devel
+python2-mock
+python2-protobuf
+python2-setuptools
+python2-six
+python2-whisper
+systemd

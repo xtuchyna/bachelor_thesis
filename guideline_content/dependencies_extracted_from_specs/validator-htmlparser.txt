@@ -1,0 +1,7 @@
+maven-local
+mvn(com.google.code.javaparser:javaparser)
+mvn(com.ibm.icu:icu4j)
+mvn(net.sourceforge.jchardet:jchardet)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(xom:xom)

@@ -1,0 +1,13 @@
+coreutils
+curl
+grep
+http-parser-devel >= 2.7.1-3
+jose >= 8
+libjose-devel >= 8
+libjose-openssl-devel >= 8
+libjose-zlib-devel >= 8
+nagios-common
+pkgconfig
+sed
+systemd
+systemd-devel

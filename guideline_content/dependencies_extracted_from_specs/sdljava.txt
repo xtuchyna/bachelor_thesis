@@ -1,0 +1,17 @@
+/usr/bin/ruby
+SDL-devel
+SDL_gfx-devel
+SDL_image-devel
+SDL_mixer-devel
+SDL_ttf-devel
+ant
+bsh
+ftgl-devel
+gcc-c++
+glew-devel
+javapackages-local
+jdom
+jruby
+make
+swig
+xml-commons-apis

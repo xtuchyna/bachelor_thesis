@@ -1,0 +1,7 @@
+perl(Carp)
+perl(Email::Date::Format)
+perl(ExtUtils::MakeMaker)
+perl(Test::More) >= 0.96
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.08
+perl-generators

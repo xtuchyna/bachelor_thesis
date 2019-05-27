@@ -1,0 +1,10 @@
+cairo-devel
+dbus-devel
+dbus-glib-devel
+desktop-file-utils
+expat-devel
+gettext
+glib2-devel
+gtk2-devel
+kdelibs4-devel
+phonon-devel

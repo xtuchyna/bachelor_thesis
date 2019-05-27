@@ -1,0 +1,9 @@
+ant
+desktop-file-utils
+emacs
+java-devel
+java_cup
+jflex
+junit
+maven-local
+sonatype-oss-parent

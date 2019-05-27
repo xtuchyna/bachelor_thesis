@@ -1,0 +1,2 @@
+(crate(rustdoc-stripper) >= 0.1.5 with crate(rustdoc-stripper) < 0.2.0)
+rust-packaging

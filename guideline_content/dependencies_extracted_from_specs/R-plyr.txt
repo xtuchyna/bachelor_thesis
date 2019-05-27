@@ -1,0 +1,5 @@
+R-Rcpp-devel
+R-abind
+R-devel
+R-testthat
+tex(latex)

@@ -1,0 +1,1 @@
+pkgconfig(libusb-1.0)

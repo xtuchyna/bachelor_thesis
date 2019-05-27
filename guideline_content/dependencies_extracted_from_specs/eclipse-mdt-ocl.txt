@@ -1,0 +1,5 @@
+eclipse-emf-runtime
+eclipse-license
+eclipse-mdt-uml2 >= 5.0.0
+lpg-java >= 2.0.17
+tycho

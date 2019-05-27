@@ -1,0 +1,4 @@
+automake
+libdb-devel
+libgcrypt-devel
+pam-devel

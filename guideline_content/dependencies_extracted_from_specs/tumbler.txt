@@ -1,0 +1,10 @@
+freetype-devel
+gettext
+gstreamer1-plugins-base-devel
+gtk2-devel >= 2.10.0
+intltool
+libgsf-devel
+libjpeg-devel
+libopenraw-gnome-devel
+libpng-devel
+poppler-glib-devel

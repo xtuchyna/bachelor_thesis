@@ -1,0 +1,14 @@
+R-MASS
+R-Matrix
+R-cluster
+R-datasets
+R-devel
+R-grDevices
+R-lattice
+R-methods
+R-nlme
+R-stats
+R-tcltk
+R-utils
+procps-ng
+tex(latex)

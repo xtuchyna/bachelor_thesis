@@ -1,0 +1,13 @@
+make
+perl(CPANPLUS) >= 0.059
+perl(CPANPLUS::Error)
+perl(DirHandle)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Locale::Maketext::Simple)
+perl(Test::More)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

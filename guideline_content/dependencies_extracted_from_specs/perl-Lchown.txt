@@ -1,0 +1,14 @@
+findutils
+gcc
+perl(Exporter)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(XSLoader)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

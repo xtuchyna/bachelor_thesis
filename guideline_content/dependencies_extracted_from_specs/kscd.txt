@@ -1,0 +1,5 @@
+desktop-file-utils
+kdelibs4-devel >= 4.14
+kf5-rpm-macros
+pkgconfig(libdiscid)
+pkgconfig(libmusicbrainz5)

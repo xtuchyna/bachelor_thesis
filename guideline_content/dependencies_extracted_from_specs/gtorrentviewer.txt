@@ -1,0 +1,5 @@
+curl-devel
+desktop-file-utils
+gettext
+gtk2-devel >= 2.4
+intltool

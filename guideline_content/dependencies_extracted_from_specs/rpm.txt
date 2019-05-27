@@ -1,0 +1,31 @@
+automake
+binutils-devel
+bzip2-devel >= 0.9.0c-2
+dbus-devel
+elfutils-devel >= 0.112
+elfutils-libelf-devel
+fakechroot
+file-devel
+gawk
+gcc
+gettext-devel
+gnupg2
+ima-evm-utils-devel >= 1.0
+libacl-devel
+libarchive-devel
+libcap-devel
+libdb-devel
+libselinux-devel
+libtool
+libzstd-devel
+lua-devel >= 5.1
+make
+ncurses-devel
+openssl-devel
+popt-devel >= 1.10.2
+python2-devel
+python3-devel
+readline-devel
+redhat-rpm-config
+xz-devel >= 4.999.8
+zlib-devel

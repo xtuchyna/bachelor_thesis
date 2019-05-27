@@ -1,0 +1,5 @@
+asciidoc >= 8.5.0
+dblatex
+perl-generators
+python3-devel
+texlive-multirow

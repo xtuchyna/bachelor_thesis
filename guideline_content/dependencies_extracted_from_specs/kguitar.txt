@@ -1,0 +1,8 @@
+autoconf
+automake
+desktop-file-utils
+gettext
+kdelibs3-devel
+libtool
+texlive-scheme-basic
+tse3-devel

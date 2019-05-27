@@ -1,0 +1,5 @@
+git
+nodejs-packaging
+npm(fs-extra)
+npm(ini)
+npm(tape)

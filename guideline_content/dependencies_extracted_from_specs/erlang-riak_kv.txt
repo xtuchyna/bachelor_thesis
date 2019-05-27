@@ -1,0 +1,13 @@
+erlang-bitcask
+erlang-chronos
+erlang-clique
+erlang-eper
+erlang-hyper
+erlang-js
+erlang-meck
+erlang-rebar
+erlang-riak_api
+erlang-riak_dt
+erlang-riak_pipe
+erlang-sext
+erlang-sidejob

@@ -1,0 +1,6 @@
+autoconf
+automake
+gcc
+openldap-devel
+openssl-devel
+perl-podlators

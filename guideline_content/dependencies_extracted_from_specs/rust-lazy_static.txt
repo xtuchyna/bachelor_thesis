@@ -1,0 +1,2 @@
+(crate(spin) >= 0.4.6 with crate(spin) < 0.5.0)
+rust-packaging

@@ -1,0 +1,9 @@
+cmake(KF5I18n)
+cmake(KF5IconThemes)
+cmake(KF5NewStuff)
+cmake(Qt5Network)
+cmake(Qt5Test)
+cmake(Qt5Widgets)
+extra-cmake-modules >= 5.32.0
+grantlee-qt5-devel >= 5.1.0-2
+kf5-rpm-macros

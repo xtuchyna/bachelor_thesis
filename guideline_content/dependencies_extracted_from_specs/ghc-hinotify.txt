@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-async-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-rpm-macros
+ghc-unix-devel

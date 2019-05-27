@@ -1,0 +1,9 @@
+nodejs-packaging
+npm(ap)
+npm(pff)
+npm(pg-int8)
+npm(postgres-array)
+npm(postgres-bytea)
+npm(postgres-date)
+npm(postgres-interval)
+npm(tape)

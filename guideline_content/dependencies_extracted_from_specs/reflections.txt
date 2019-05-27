@@ -1,0 +1,12 @@
+maven-local
+mvn(com.google.code.findbugs:annotations)
+mvn(com.google.code.gson:gson)
+mvn(com.google.guava:guava)
+mvn(dom4j:dom4j)
+mvn(javax.servlet:javax.servlet-api)
+mvn(junit:junit)
+mvn(org.apache.commons:commons-vfs2)
+mvn(org.javassist:javassist)
+mvn(org.jsr-305:ri)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-simple)

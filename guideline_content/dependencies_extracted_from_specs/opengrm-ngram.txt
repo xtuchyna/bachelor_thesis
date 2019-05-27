@@ -1,0 +1,7 @@
+chrpath
+gcc-c++
+gsl-devel
+help2man
+openblas-devel
+openfst-devel
+openfst-tools

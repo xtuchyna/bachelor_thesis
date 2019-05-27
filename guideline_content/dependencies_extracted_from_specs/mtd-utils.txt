@@ -1,0 +1,5 @@
+autoconf
+libacl-devel
+libuuid-devel
+lzo-devel
+zlib-devel

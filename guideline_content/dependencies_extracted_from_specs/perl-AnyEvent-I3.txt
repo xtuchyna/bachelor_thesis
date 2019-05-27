@@ -1,0 +1,10 @@
+coreutils
+findutils
+make
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(inc::Module::Install)
+perl(lib)
+perl-generators
+perl-interpreter
+sed

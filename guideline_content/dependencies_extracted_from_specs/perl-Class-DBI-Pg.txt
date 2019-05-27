@@ -1,0 +1,6 @@
+perl(Class::DBI)
+perl(Module::Build)
+perl(Pod::Perldoc)
+perl(Test::More)
+perl-DBD-Pg
+perl-generators

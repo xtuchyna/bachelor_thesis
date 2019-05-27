@@ -1,0 +1,7 @@
+expat-devel
+krb5-devel
+libproxy-devel
+openssl-devel
+pakchois-devel
+pkgconfig
+zlib-devel

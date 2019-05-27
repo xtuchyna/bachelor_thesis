@@ -1,0 +1,5 @@
+autoconf
+glade3-libgladeui-devel
+gtk2-devel
+libglade2-devel
+pkgconfig

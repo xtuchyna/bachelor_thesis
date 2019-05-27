@@ -1,0 +1,21 @@
+perl(Carp)
+perl(DateTime::Format::Mail)
+perl(DateTime::Format::W3CDTF)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Spec)
+perl(HTML::Entities)
+perl(POSIX)
+perl(Test::Differences)
+perl(Test::Manifest) >= 0.9
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(Test::TrailingSpace)
+perl(XML::Parser) >= 2.23
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,13 @@
+perl(Carp)
+perl(Date::Manip)
+perl(HTTP::Request::Common)
+perl(LWP::UserAgent)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(XML::LibXML)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

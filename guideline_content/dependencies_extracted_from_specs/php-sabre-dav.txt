@@ -1,0 +1,22 @@
+php(language) >= 5.5
+php-composer(fedora/autoloader)
+php-composer(monolog/monolog) >= 1.18
+php-composer(phpunit/phpunit) >= 4.8
+php-composer(psr/log) >= 1.0.1
+php-composer(sabre/event) >= 2.0
+php-composer(sabre/http) >= 4.2.1
+php-composer(sabre/uri) >= 1.0.1
+php-composer(sabre/vobject) >= 4.1.0
+php-composer(sabre/xml) >= 1.4.0
+php-ctype
+php-curl
+php-date
+php-dom
+php-iconv
+php-libxml
+php-mbstring
+php-pcre
+php-pdo
+php-pdo_sqlite
+php-simplexml
+php-spl

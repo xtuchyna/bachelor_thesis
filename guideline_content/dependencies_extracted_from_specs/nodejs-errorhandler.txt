@@ -1,0 +1,6 @@
+mocha
+nodejs-packaging
+npm(accepts)
+npm(after)
+npm(escape-html)
+npm(supertest)

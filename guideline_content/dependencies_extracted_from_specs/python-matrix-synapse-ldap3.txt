@@ -1,0 +1,7 @@
+python-ldaptor
+python2-devel
+python2-ldap3
+python2-mock
+python2-service-identity
+python2-setuptools
+python2-twisted >= 15.1.0

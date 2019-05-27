@@ -1,0 +1,4 @@
+gcc
+gnupg2
+liblxi-devel >= 1.7
+readline-devel

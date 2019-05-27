@@ -1,0 +1,4 @@
+python2-devel
+python2-pbr
+python2-setuptools
+systemd

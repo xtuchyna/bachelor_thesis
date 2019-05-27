@@ -1,0 +1,7 @@
+ImageMagick-c++-devel
+imlib2-devel
+libcurl-devel
+libuuid-devel
+mariadb-connector-c-devel
+openssl-devel
+vdr-devel >= 1.7.34

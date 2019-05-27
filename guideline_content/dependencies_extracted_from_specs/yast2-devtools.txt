@@ -1,0 +1,12 @@
+automake
+docbook-style-xsl
+doxygen
+fdupes
+gettext
+libtool
+libxslt
+perl-generators
+pkgconfig
+pkgconfig(yast2-devtools)
+rubygem(redcarpet)
+rubygem(yard)

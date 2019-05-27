@@ -1,0 +1,5 @@
+dbus-glib-devel
+gettext-devel
+gtk2-devel
+pcre-devel
+pidgin-devel >= 2.0.0

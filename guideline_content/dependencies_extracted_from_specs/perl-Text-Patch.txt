@@ -1,0 +1,11 @@
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More)
+perl(Text::Diff)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

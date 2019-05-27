@@ -1,0 +1,12 @@
+coreutils
+perl(IO::File)
+perl(IO::Handle)
+perl(Module::Build) >= 0.28
+perl(Test::More) >= 0.98
+perl(autodie) >= 2.22
+perl(feature)
+perl(mro)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 4:5.10.0

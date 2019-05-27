@@ -1,0 +1,2 @@
+chrpath
+libraw1394-devel

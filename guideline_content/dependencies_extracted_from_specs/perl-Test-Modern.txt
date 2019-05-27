@@ -1,0 +1,33 @@
+perl(B)
+perl(CPAN::Meta::Requirements) >= 2.000
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter::Tiny) >= 0.030
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(File::Spec)
+perl(IO::File) >= 1.08
+perl(IO::Handle) >= 1.21
+perl(Import::Into) >= 1.002000
+perl(LWP::UserAgent)
+perl(Module::Runtime) >= 0.012
+perl(Moose) >= 2.0600
+perl(Moose::Util)
+perl(Mouse::Util)
+perl(Role::Tiny)
+perl(Scalar::Util)
+perl(Test::API) >= 0.004
+perl(Test::Deep) >= 0.111
+perl(Test::Fatal) >= 0.007
+perl(Test::LongString) >= 0.15
+perl(Test::More) >= 0.96
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Test::Version)
+perl(Test::Warnings) >= 0.009
+perl(Try::Tiny) >= 0.15
+perl(base)
+perl(namespace::clean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

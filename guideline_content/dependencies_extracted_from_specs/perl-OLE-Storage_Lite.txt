@@ -1,0 +1,12 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(IO::File)
+perl(IO::Handle)
+perl(POSIX)
+perl(Test::More)
+perl(Time::Local)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

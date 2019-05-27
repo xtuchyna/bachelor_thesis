@@ -1,0 +1,7 @@
+maven-local
+mvn(com.google.guava:guava:14.0.1)
+mvn(io.takari.maven.plugins:takari-lifecycle-plugin)
+mvn(io.takari:takari:pom:)
+mvn(javax.inject:javax.inject)
+mvn(org.apache.commons:commons-compress)
+mvn(org.codehaus.plexus:plexus-utils)

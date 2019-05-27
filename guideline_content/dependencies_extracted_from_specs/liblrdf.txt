@@ -1,0 +1,4 @@
+ladspa-devel
+openssl-devel
+pkgconfig
+raptor2-devel

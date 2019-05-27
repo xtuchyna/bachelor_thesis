@@ -1,0 +1,9 @@
+ghc-Cabal-devel
+ghc-base-orphans-devel
+ghc-bifunctors-devel
+ghc-comonad-devel
+ghc-contravariant-devel
+ghc-distributive-devel
+ghc-rpm-macros
+ghc-tagged-devel
+ghc-transformers-devel

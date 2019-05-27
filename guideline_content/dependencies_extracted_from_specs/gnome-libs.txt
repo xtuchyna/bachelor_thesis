@@ -1,0 +1,22 @@
+ORBit-devel
+audiofile-devel
+coreutils
+cpp
+gawk
+gcc
+gettext
+glib-devel
+glibc-common
+gtk+-devel
+gtk-doc
+gzip
+imlib-devel
+libXpm-devel
+libXt-devel
+libpng10-devel >= 1.0.13
+make
+perl-interpreter
+pkgconfig
+sed
+tar
+zlib-devel

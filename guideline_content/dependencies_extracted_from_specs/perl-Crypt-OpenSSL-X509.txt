@@ -1,0 +1,21 @@
+openssl
+openssl-devel
+perl(Config)
+perl(DynaLoader)
+perl(Encode)
+perl(Exporter)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Compiler)
+perl(Module::Install::External)
+perl(Module::Install::Makefile)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(base)
+perl(inc::Module::Install)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

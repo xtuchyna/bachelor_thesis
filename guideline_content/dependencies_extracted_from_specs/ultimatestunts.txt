@@ -1,0 +1,7 @@
+SDL_image-devel
+desktop-file-utils
+dos2unix
+freealut-devel
+freeglut-devel
+libXi-devel
+libvorbis-devel

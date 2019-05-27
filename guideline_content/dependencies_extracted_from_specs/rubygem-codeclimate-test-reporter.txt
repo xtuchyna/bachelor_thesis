@@ -1,0 +1,6 @@
+git-core
+rubygem(pry)
+rubygem(rspec)
+rubygem(simplecov)
+rubygem(webmock)
+rubygems-devel

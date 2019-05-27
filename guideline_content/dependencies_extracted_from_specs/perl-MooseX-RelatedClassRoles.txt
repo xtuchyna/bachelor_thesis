@@ -1,0 +1,6 @@
+perl(Class::MOP) >= 0.80
+perl(ExtUtils::MakeMaker)
+perl(Moose) >= 0.73
+perl(MooseX::Role::Parameterized) >= 0.04
+perl(Test::More)
+perl-generators

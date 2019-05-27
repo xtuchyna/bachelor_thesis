@@ -1,0 +1,15 @@
+eclipse-cdt-parsers
+eclipse-jgit
+eclipse-license
+eclipse-pde
+eclipse-photran-intel
+eclipse-photran-xlf
+eclipse-remote
+eclipse-tm-terminal
+eclipse-tm-terminal-connectors
+lpg-java-compat = 1.1.0
+maven-antrun-plugin
+maven-dependency-plugin
+maven-plugin-build-helper
+tycho
+tycho-extras

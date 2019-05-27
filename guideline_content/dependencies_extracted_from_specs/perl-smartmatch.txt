@@ -1,0 +1,17 @@
+perl(B::Hooks::OP::Check) >= 0.14
+perl(DynaLoader)
+perl(ExtUtils::Depends)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Temp)
+perl(List::MoreUtils)
+perl(Module::Runtime)
+perl(Package::Stash)
+perl(Scalar::Util)
+perl(Test::More) >= 0.88
+perl(Test::Script) >= 1.05
+perl(overload)
+perl(parent)
+perl-devel
+perl-generators
+perl-interpreter

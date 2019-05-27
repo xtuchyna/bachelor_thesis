@@ -1,0 +1,3 @@
+desktop-file-utils
+gnome-vfs2-devel
+libglade2-devel

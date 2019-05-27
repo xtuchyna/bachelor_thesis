@@ -1,0 +1,13 @@
+perl(Carp)
+perl(DBI) >= 1.614
+perl(File::Find)
+perl(File::Spec::Functions)
+perl(Module::Build)
+perl(Test::MockModule)
+perl(Test::More)
+perl(base)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

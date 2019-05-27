@@ -1,0 +1,12 @@
+nodejs-packaging
+npm(component-emitter)
+npm(component-inherit)
+npm(debug)
+npm(engine.io-parser)
+npm(has-cors)
+npm(indexof)
+npm(parseqs)
+npm(parseuri)
+npm(ws)
+npm(xmlhttprequest-ssl)
+npm(yeast)

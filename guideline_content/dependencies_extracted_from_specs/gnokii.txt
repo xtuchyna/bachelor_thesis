@@ -1,0 +1,20 @@
+ImageMagick
+bluez-libs-devel
+desktop-file-utils
+flex
+gettext
+gtk2-devel
+intltool
+libXpm-devel
+libXt-devel
+libical-devel >= 0.24
+libusb-devel
+mariadb-connector-c-devel
+openssl-devel
+pcsc-lite-devel
+perl(XML::Parser)
+postgresql-devel
+readline-devel
+sqlite-devel
+systemd
+zlib-devel

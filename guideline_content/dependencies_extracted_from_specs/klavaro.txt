@@ -1,0 +1,8 @@
+desktop-file-utils
+gtk3-devel
+gtkdatabox-devel
+intltool
+libappstream-glib
+libcurl-devel
+python2-devel
+python2-docutils

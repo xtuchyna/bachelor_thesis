@@ -1,0 +1,9 @@
+autoconf
+automake
+bubblewrap
+docbook-style-xsl
+gcc
+libseccomp-devel
+libxslt
+pkgconfig(gio-unix-2.0)
+pkgconfig(json-glib-1.0)

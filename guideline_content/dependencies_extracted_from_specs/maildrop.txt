@@ -1,0 +1,10 @@
+autoconf
+automake
+courier-unicode-devel >= 1.4
+db4-devel
+gawk
+gcc-c++
+gdbm-devel
+gnupg
+libtool
+pcre-devel

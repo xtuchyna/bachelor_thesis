@@ -1,0 +1,9 @@
+dos2unix
+nodejs-packaging
+npm(chai)
+npm(compress-commons)
+npm(lodash)
+npm(mkdirp)
+npm(mocha)
+npm(readable-stream)
+npm(rimraf)

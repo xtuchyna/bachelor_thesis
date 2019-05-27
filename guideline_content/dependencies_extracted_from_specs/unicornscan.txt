@@ -1,0 +1,7 @@
+/usr/include/ltdl.h
+/usr/include/pcap.h
+GeoIP-devel
+bison
+flex
+libdnet-devel
+postgresql-devel

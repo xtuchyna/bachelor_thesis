@@ -1,0 +1,7 @@
+bison
+cmake
+flex
+gnutls-devel
+libgcrypt-devel
+libidn-devel
+lksctp-tools-devel

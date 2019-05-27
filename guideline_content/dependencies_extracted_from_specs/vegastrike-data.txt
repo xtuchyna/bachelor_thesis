@@ -1,0 +1,2 @@
+ImageMagick
+python2-devel

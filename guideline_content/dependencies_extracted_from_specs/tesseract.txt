@@ -1,0 +1,9 @@
+automake
+cairo-devel
+gcc-c++
+leptonica-devel
+libicu-devel
+libtiff-devel
+libtool
+make
+pango-devel

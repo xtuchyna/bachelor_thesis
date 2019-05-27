@@ -1,0 +1,7 @@
+ImageMagick
+bison
+flex
+flex-static
+gtk2-devel
+netpbm-progs
+transfig

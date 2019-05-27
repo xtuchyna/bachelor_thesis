@@ -1,0 +1,6 @@
+perl(ExtUtils::MakeMaker)
+perl(Graphics::ColorNames)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Test::Pod)
+perl-generators

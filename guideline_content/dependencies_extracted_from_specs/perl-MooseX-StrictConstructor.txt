@@ -1,0 +1,13 @@
+perl(B)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Moo)
+perl(Moose) >= 0.94
+perl(Moose::Exporter)
+perl(Moose::Role)
+perl(Moose::Util::MetaRole)
+perl(Test::Fatal)
+perl(Test::Moose)
+perl(Test::More) >= 0.88
+perl(Test::Needs)
+perl(namespace::autoclean)
+perl-generators

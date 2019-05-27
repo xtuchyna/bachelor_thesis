@@ -1,0 +1,4 @@
+cmake
+doxygen
+libtool
+readline-devel

@@ -1,0 +1,6 @@
+cmake
+desktop-file-utils
+gettext
+gtk2-devel
+lua-devel >= 5.1
+vte-devel >= 0.17.4

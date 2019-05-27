@@ -1,0 +1,8 @@
+ghc-Cabal-devel
+ghc-array-devel
+ghc-bytestring-devel
+ghc-case-insensitive-devel
+ghc-containers-devel
+ghc-psqueues-devel
+ghc-rpm-macros
+ghc-stm-devel

@@ -1,0 +1,10 @@
+coreutils
+findutils
+perl(Module::Build)
+perl(Params::Validate)
+perl(Test)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

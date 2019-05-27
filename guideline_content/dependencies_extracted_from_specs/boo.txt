@@ -1,0 +1,5 @@
+gtksourceview2-devel
+mono-devel
+nant
+pkgconfig
+shared-mime-info

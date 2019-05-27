@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(grunt-cli)
+npm(grunt-contrib-nodeunit)
+npm(rimraf)

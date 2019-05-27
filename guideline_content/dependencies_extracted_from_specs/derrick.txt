@@ -1,0 +1,7 @@
+automake
+libnet-devel
+libnids-devel
+libpcap-devel
+libtool
+uthash-devel
+zlib-devel

@@ -1,0 +1,4 @@
+check-devel
+doxygen
+jansson-devel
+openssl-devel

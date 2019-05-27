@@ -1,0 +1,8 @@
+nodejs-packaging
+npm(cross-spawn)
+npm(get-stream)
+npm(is-stream)
+npm(npm-run-path)
+npm(p-finally)
+npm(signal-exit)
+npm(strip-eof)

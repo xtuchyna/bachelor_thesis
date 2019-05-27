@@ -1,0 +1,7 @@
+(crate(curl-sys) >= 0.4.1 with crate(curl-sys) < 0.5.0)
+(crate(libc) >= 0.2.0 with crate(libc) < 0.3.0)
+(crate(mio) >= 0.6.0 with crate(mio) < 0.7.0)
+(crate(openssl-probe) >= 0.1.0 with crate(openssl-probe) < 0.2.0)
+(crate(openssl-sys) >= 0.9.0 with crate(openssl-sys) < 0.10.0)
+(crate(socket2) >= 0.3.0 with crate(socket2) < 0.4.0)
+rust-packaging

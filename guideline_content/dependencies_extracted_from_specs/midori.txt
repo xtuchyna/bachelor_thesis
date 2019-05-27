@@ -1,0 +1,19 @@
+cmake
+desktop-file-utils
+gcr-devel
+gettext
+gtk-doc
+intltool
+libXScrnSaver-devel
+libnotify-devel
+librsvg2
+librsvg2-tools
+libsoup-devel >= 2.25.2
+libtool
+libxml2-devel
+perl(XML::Parser)
+python-docutils
+sqlite-devel
+unique3-devel
+vala
+webkitgtk4-devel >= 1.1.1

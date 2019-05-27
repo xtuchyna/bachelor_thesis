@@ -1,0 +1,14 @@
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Scalar::Util)
+perl(Test::Exception) >= 0.15
+perl(Test::More)
+perl(Tree::Simple) >= 1.12
+perl(Tree::Simple::Visitor)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

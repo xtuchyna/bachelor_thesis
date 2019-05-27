@@ -1,0 +1,10 @@
+cracklib-devel
+cracklib-dicts
+perl(DynaLoader)
+perl(Exporter)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(inc::Module::Install)
+perl-devel
+perl-generators

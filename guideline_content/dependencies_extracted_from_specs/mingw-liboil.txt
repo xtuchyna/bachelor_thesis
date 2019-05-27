@@ -1,0 +1,5 @@
+mingw32-binutils
+mingw32-filesystem >= 40
+mingw32-gcc
+mingw32-glib2
+pkgconfig

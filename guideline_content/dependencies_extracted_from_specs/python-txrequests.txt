@@ -1,0 +1,4 @@
+python-requests
+python-setuptools
+python-twisted-core
+python2-devel

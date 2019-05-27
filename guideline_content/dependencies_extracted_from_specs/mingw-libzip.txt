@@ -1,0 +1,15 @@
+cmake
+libzip-tools
+mingw32-binutils
+mingw32-bzip2
+mingw32-dlfcn
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-zlib >= 1.1.2
+mingw64-binutils
+mingw64-bzip2
+mingw64-dlfcn
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-zlib >= 1.1.2
+perl

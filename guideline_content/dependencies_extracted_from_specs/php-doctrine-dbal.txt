@@ -1,0 +1,13 @@
+php(language) >= 5.3.2
+php-composer(doctrine/common) < 2.8
+php-composer(doctrine/common) >= 2.5.0
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(symfony/console) < 4.0
+php-composer(symfony/console) >= 2.0
+php-date
+php-json
+php-pcre
+php-pdo
+php-reflection
+php-spl

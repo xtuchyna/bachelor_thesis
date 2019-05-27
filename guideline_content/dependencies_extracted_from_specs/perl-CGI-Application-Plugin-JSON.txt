@@ -1,0 +1,8 @@
+perl(CGI::Application) >= 4
+perl(JSON) >= 2.02
+perl(JSON::Any) >= 1.14
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

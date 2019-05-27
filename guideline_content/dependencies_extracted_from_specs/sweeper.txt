@@ -1,0 +1,15 @@
+cmake(KF5ActivitiesStats)
+cmake(KF5Bookmarks)
+cmake(KF5Config)
+cmake(KF5ConfigWidgets)
+cmake(KF5CoreAddons)
+cmake(KF5Crash)
+cmake(KF5DocTools)
+cmake(KF5I18n)
+cmake(KF5KIO)
+cmake(KF5TextWidgets)
+cmake(KF5XmlGui)
+cmake(Qt5DBus)
+cmake(Qt5Widgets)
+desktop-file-utils
+extra-cmake-modules

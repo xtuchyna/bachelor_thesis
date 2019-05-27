@@ -1,0 +1,73 @@
+/usr/bin/perldoc
+groff
+make
+perl(CGI::Simple::Cookie) >= 1.109
+perl(CGI::Struct)
+perl(CPAN)
+perl(Carp)
+perl(Class::Accessor::Fast)
+perl(Class::C3)
+perl(Class::C3::Adopt::NEXT) >= 0.07
+perl(Class::Data::Inheritable)
+perl(Class::Inspector)
+perl(Class::Load) >= 0.12
+perl(Class::MOP) >= 0.95
+perl(Data::Dump)
+perl(Data::OptList)
+perl(ExtUtils::MakeMaker) >= 6.42
+perl(FCGI)
+perl(File::Copy::Recursive)
+perl(File::Modified)
+perl(HTML::Entities)
+perl(HTML::HeadParser)
+perl(HTTP::Body) >= 1.06
+perl(HTTP::Headers) >= 1.64
+perl(HTTP::Request) >= 5.814
+perl(HTTP::Request::AsCGI) >= 1.0
+perl(HTTP::Request::Common)
+perl(HTTP::Response) >= 5.813
+perl(IO::Scalar)
+perl(JSON::MaybeXS)
+perl(LWP::UserAgent)
+perl(List::MoreUtils)
+perl(MRO::Compat)
+perl(Module::Pluggable) >= 3.9
+perl(Moose) >= 1.03
+perl(MooseX::Emulate::Class::Accessor::Fast) >= 0.00903
+perl(MooseX::Getopt) >= 0.30
+perl(MooseX::MethodAttributes::Inheritable) >= 0.24
+perl(MooseX::Role::WithOverloading) >= 0.09
+perl(Path::Class) >= 0.09
+perl(Plack) >= 0.9991
+perl(Plack::Middleware::FixMissingBodyInRedirect) >= 0.09
+perl(Plack::Middleware::MethodOverride)
+perl(Plack::Middleware::RemoveRedundantBody) >= 0.03
+perl(Plack::Middleware::ReverseProxy) >= 0.04
+perl(Plack::Test::ExternalServer)
+perl(Proc::ProcessTable)
+perl(Safe::Isa)
+perl(Scalar::Util)
+perl(String::RewritePrefix) >= 0.004
+perl(Sub::Exporter)
+perl(Task::Weaken)
+perl(Test::Exception)
+perl(Test::Fatal)
+perl(Test::Harness)
+perl(Test::More) >= 0.88
+perl(Test::Pod)
+perl(Test::Spelling)
+perl(Test::Without::Module)
+perl(Text::Balanced)
+perl(Text::SimpleTable) >= 0.03
+perl(Time::HiRes)
+perl(Tree::Simple) >= 1.15
+perl(Tree::Simple::Visitor::FindByPath)
+perl(Try::Tiny)
+perl(Type::Tiny)
+perl(URI) >= 1.35
+perl(URI::ws)
+perl(YAML)
+perl(namespace::autoclean) >= 0.28
+perl(namespace::clean) >= 0.23
+perl-generators
+perl-interpreter

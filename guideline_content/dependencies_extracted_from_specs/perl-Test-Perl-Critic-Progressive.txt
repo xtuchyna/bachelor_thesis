@@ -1,0 +1,21 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(English)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(FindBin)
+perl(Perl::Critic) >= 1.082
+perl(Perl::Critic::Utils) >= 1.082
+perl(Test::Builder)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

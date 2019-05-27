@@ -1,0 +1,7 @@
+docbook-style-xsl
+docbook2X
+libtool
+libusb-devel
+pkgconfig
+python2-devel
+swig

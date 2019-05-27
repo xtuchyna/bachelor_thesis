@@ -1,0 +1,13 @@
+checkpolicy
+perl(BackupPC::XS) >= 0.53
+perl(CGI)
+perl(Compress::Zlib)
+perl(Data::Dumper)
+perl(Digest::MD5)
+perl(Encode)
+perl(File::Listing)
+perl(Pod::Usage)
+perl(version)
+perl-generators
+selinux-policy-devel
+systemd

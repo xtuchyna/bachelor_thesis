@@ -1,0 +1,9 @@
+docbook-style-xsl
+goocanvas-devel >= 0.14
+gtk2-devel
+libxslt
+pkgconfig
+pygobject2-devel
+pygtk2-devel >= 2.10.0
+python2-cairo-devel >= 1.8.4
+python2-devel

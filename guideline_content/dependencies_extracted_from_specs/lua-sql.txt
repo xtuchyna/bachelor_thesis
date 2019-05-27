@@ -1,0 +1,8 @@
+gcc
+lua >= 5.3
+lua-devel >= 5.3
+mariadb-connector-c-devel
+openssl-devel
+pkgconfig
+postgresql-devel
+sqlite-devel >= 3.0

@@ -1,0 +1,12 @@
+coreutils
+make
+perl(Carp)
+perl(Module::Install::Metadata)
+perl(Test::More) >= 0.47
+perl(base)
+perl(inc::Module::Install::DSL)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter
+sed

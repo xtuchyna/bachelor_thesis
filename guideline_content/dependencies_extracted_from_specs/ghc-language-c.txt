@@ -1,0 +1,12 @@
+alex
+ghc-Cabal-devel
+ghc-array-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-pretty-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-syb-devel
+happy

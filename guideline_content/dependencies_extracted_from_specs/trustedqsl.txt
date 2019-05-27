@@ -1,0 +1,10 @@
+cmake
+curl-devel
+desktop-file-utils
+expat-devel
+gcc-c++
+libappstream-glib
+libdb-devel
+openssl-devel
+wxGTK-devel
+zlib-devel

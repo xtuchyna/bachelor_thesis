@@ -1,0 +1,9 @@
+cups-devel
+desktop-file-utils
+gcc-c++
+libXpm-devel
+libssh-devel
+man2html-core
+openldap-devel
+pkgconfig(Qt5)
+qtbrowserplugin-static

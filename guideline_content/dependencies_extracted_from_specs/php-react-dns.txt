@@ -1,0 +1,17 @@
+php(language) >= 5.3.0
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(react/cache) < 0.5.0
+php-composer(react/cache) >= 0.3.0
+php-composer(react/promise) < 3.0
+php-composer(react/promise) >= 2.1
+php-composer(react/promise-timer) < 2.0
+php-composer(react/promise-timer) >= 1.1
+php-composer(react/socket) < 1.0
+php-composer(react/socket) >= 0.4.4
+php-composer(react/stream) < 1.0
+php-composer(react/stream) >= 0.4.5
+php-date
+php-pcre
+php-reflection
+php-spl

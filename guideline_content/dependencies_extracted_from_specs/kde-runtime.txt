@@ -1,0 +1,33 @@
+bzip2-devel
+chrpath
+desktop-file-utils
+gpgme-devel
+kactivities-devel
+kdelibs4-devel >= 4.14.4
+kdelibs4-webkit-devel
+libgcrypt-devel >= 1.5.0
+libjpeg-devel
+libssh-devel >= 0.6
+openslp-devel
+perl-generators
+pkgconfig
+pkgconfig(OpenEXR)
+pkgconfig(alsa)
+pkgconfig(exiv2)
+pkgconfig(glib-2.0)
+pkgconfig(libattica)
+pkgconfig(libcanberra)
+pkgconfig(liblzma)
+pkgconfig(libnm)
+pkgconfig(libpulse)
+pkgconfig(libtirpc)
+pkgconfig(libwebp)
+pkgconfig(openssl)
+pkgconfig(polkit-qt-1)
+pkgconfig(qca2)
+pkgconfig(smbclient)
+pkgconfig(soprano) >= 2.6.50
+pkgconfig(xproto)
+pkgconfig(xscrnsaver)
+xorg-x11-font-utils
+zlib-devel

@@ -1,0 +1,10 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Log::Message)
+perl(Params::Check)
+perl(Test::More)
+perl(if)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

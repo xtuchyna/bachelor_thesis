@@ -1,0 +1,14 @@
+c-ares-devel
+git
+libcap-devel
+ncurses
+ncurses-devel
+net-snmp-devel
+perl-generators
+pkgconfig
+readline
+readline-devel
+systemd
+tetex
+texi2html
+texinfo

@@ -1,0 +1,13 @@
+autoconf
+cairomm-devel
+clutter-devel
+desktop-file-utils
+gstreamer-plugins-base-devel
+gtk2-devel
+gtksourceview2-devel
+gvfs-devel
+libgnomeui-devel
+libtool
+poppler-glib-devel
+taglib-devel
+unoconv

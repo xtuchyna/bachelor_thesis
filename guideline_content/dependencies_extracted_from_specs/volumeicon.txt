@@ -1,0 +1,7 @@
+alsa-lib-devel
+desktop-file-utils
+gettext
+gtk3-devel
+intltool
+keybinder-devel
+libnotify-devel >= 0.5.0

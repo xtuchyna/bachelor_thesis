@@ -1,0 +1,9 @@
+chrpath
+desktop-file-utils >= 0.3
+gettext
+gobject-introspection-devel
+itstool
+libappstream-glib
+pkgconfig(gsettings-desktop-schemas)
+pkgconfig(gtk+-3.0)
+pkgconfig(webkit2gtk-4.0)

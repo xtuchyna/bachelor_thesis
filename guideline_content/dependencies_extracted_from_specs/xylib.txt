@@ -1,0 +1,5 @@
+boost-devel
+bzip2-devel
+gcc-c++
+wxGTK3-devel
+zlib-devel

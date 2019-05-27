@@ -1,0 +1,4 @@
+libassuan-devel
+libgcrypt-devel
+pkgconfig(libpkcs11-helper-1)
+pkgconfig(openssl) >= 0.9.7a

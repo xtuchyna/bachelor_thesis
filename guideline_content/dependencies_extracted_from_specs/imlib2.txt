@@ -1,0 +1,11 @@
+bzip2-devel
+freetype-devel >= 2.1.9-4
+giflib-devel
+libX11-devel
+libXext-devel
+libid3tag-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel
+libtool
+pkgconfig

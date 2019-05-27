@@ -1,0 +1,10 @@
+nodejs-packaging
+npm(async)
+npm(concat-stream)
+npm(libpq)
+npm(lodash)
+npm(mocha)
+npm(okay)
+npm(pg-types)
+npm(semver)
+postgresql-server

@@ -1,0 +1,25 @@
+coreutils
+findutils
+gcc
+make
+perl(Carp)
+perl(Encode) >= 1.9801
+perl(Exporter)
+perl(IO::File)
+perl(Module::Install::ReadmeFromPod)
+perl(Scalar::Util)
+perl(Taint::Runtime) >= 0.03
+perl(Test::Builder)
+perl(Test::Fatal) >= 0.006
+perl(Test::LeakTrace) >= 0.10
+perl(Test::More) >= 0.47
+perl(Test::Pod) >= 1.00
+perl(Variable::Magic)
+perl(XSLoader)
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

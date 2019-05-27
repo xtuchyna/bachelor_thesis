@@ -1,0 +1,17 @@
+desktop-file-utils
+extra-cmake-modules
+kf5-baloo-devel
+kf5-kactivities-devel
+kf5-kconfig-devel
+kf5-kcoreaddons-devel
+kf5-kdeclarative-devel
+kf5-kguiaddons-devel
+kf5-ki18n-devel
+kf5-kio-devel
+kf5-kservice-devel
+kf5-plasma-devel
+kf5-rpm-macros
+qt5-qtbase-devel
+qt5-qtdeclarative-devel
+qt5-qtxmlpatterns-devel
+taglib-devel

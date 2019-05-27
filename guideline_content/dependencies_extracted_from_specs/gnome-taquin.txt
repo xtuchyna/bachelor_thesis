@@ -1,0 +1,7 @@
+desktop-file-utils
+intltool
+itstool
+pkgconfig(glib-2.0)
+pkgconfig(gtk+-3.0) >= 3.15
+pkgconfig(libcanberra-gtk3)
+pkgconfig(librsvg-2.0)

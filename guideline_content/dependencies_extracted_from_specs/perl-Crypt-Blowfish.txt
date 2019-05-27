@@ -1,0 +1,16 @@
+coreutils
+findutils
+gcc
+glibc-headers
+make
+perl(Benchmark)
+perl(Carp)
+perl(Crypt::CBC) >= 1.22
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(strict)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

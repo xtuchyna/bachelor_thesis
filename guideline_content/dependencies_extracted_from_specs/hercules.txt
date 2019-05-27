@@ -1,0 +1,5 @@
+bzip2-devel
+libcap-devel
+libtool
+libtool-ltdl-devel
+zlib-devel

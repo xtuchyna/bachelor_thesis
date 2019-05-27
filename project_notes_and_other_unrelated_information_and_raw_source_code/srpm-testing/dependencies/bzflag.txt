@@ -1,0 +1,19 @@
+SDL-devel
+c-ares-devel
+desktop-file-utils
+gcc-c++
+glew-devel
+libGL-devel
+libGLU-devel
+libICE-devel
+libSM-devel
+libX11-devel
+libXext-devel
+libXxf86vm-devel
+libcurl-devel
+ncurses-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+sed
+systemd
+zlib-devel

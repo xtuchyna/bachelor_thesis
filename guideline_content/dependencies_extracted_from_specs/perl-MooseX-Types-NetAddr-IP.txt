@@ -1,0 +1,14 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Module::Runtime) >= 0.014
+perl(Moose) >= 0.41
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::Types) >= 0.19
+perl(NetAddr::IP)
+perl(Test::Exception)
+perl(Test::More)
+perl(namespace::clean) >= 0.08
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

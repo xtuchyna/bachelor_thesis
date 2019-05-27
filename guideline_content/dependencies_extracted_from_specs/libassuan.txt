@@ -1,0 +1,2 @@
+gawk
+libgpg-error-devel >= 1.8

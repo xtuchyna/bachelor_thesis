@@ -1,0 +1,6 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.fusesource.hawtjni:hawtjni-runtime) >= 1.9-2
+mvn(org.fusesource.hawtjni:maven-hawtjni-plugin) >= 1.9-2
+mvn(org.fusesource:fusesource-pom:pom:)

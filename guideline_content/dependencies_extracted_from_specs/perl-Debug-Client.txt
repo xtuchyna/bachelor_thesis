@@ -1,0 +1,36 @@
+coreutils
+findutils
+make
+perl(Carp) >= 1.33
+perl(English)
+perl(Exporter) >= 5.70
+perl(File::HomeDir) >= 1.00
+perl(File::Spec) >= 3.4
+perl(File::Temp) >= 0.2304
+perl(FindBin)
+perl(IO::Socket::IP) >= 0.29
+perl(List::Util) >= 1.38
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(PadWalker) >= 1.98
+perl(Term::ReadLine) >= 1.14
+perl(Term::ReadLine::Gnu)
+perl(Test::CheckDeps) >= 0.01
+perl(Test::Class) >= 0.42
+perl(Test::Deep) >= 0.112
+perl(Test::More) >= 1.001003
+perl(Test::Pod) >= 1.48
+perl(Test::Pod::Coverage) >= 1.08
+perl(Test::Requires) >= 0.07
+perl(base)
+perl(constant) >= 1.27
+perl(inc::Module::Install) >= 1.08
+perl(lib)
+perl(parent) >= 0.228
+perl(strict)
+perl(utf8)
+perl(version) >= 0.9908
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

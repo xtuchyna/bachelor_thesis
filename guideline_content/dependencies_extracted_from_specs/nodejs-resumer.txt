@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(concat-stream)
+npm(tap)
+npm(tape)
+npm(through)

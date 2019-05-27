@@ -1,0 +1,3 @@
+nodejs-packaging
+npm(is-glob)
+npm(path-dirname)

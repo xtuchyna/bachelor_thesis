@@ -1,0 +1,14 @@
+make
+perl(Carp)
+perl(Cwd)
+perl(Encode)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(HTML::FormatText::WithLinks::AndTables)
+perl(MIME::Lite) >= 3.020
+perl(Template)
+perl(Test::More)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

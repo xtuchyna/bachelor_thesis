@@ -1,0 +1,7 @@
+desktop-file-utils
+fftw-devel
+jack-audio-connection-kit-devel
+libsigc++-devel
+libxml2-devel
+pkgconfig
+wxGTK-devel

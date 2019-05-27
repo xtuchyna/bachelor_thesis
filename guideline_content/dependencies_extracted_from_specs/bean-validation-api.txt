@@ -1,0 +1,5 @@
+java-devel
+maven-local
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.surefire:surefire-testng)
+mvn(org.testng:testng)

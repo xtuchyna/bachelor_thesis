@@ -1,0 +1,8 @@
+maven-local
+mvn(java_cup:java_cup)
+mvn(org.apache.ant:ant)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugin-tools:maven-plugin-annotations)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven.plugins:maven-remote-resources-plugin)
+mvn(org.apache.maven:maven-plugin-api)

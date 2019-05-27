@@ -1,0 +1,13 @@
+perl(Error)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Test)
+perl(Test::Unit) >= 0.24
+perl(Test::Unit::Runner)
+perl(Test::Unit::TestCase)
+perl(Test::Unit::TestSuite)
+perl(Time::HiRes)
+perl(XML::Generator)
+perl(XML::XPath)
+perl(base)
+perl-generators

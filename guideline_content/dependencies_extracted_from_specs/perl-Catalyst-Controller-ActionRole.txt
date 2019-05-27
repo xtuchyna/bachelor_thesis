@@ -1,0 +1,20 @@
+perl(Catalyst)
+perl(Catalyst::Action)
+perl(Catalyst::Action::REST)
+perl(Catalyst::Controller)
+perl(Catalyst::Runtime) >= 5.80025
+perl(Catalyst::Test)
+perl(Catalyst::Utils)
+perl(Class::MOP) >= 0.80
+perl(ExtUtils::MakeMaker) >= 6.75
+perl(FindBin)
+perl(List::Util)
+perl(Moose) >= 0.90
+perl(Moose::Meta::Class)
+perl(Moose::Role)
+perl(MooseX::Types::Moose)
+perl(String::RewritePrefix) >= 0.004
+perl(Test::More)
+perl(namespace::clean)
+perl(parent)
+perl-generators

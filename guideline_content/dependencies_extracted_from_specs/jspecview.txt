@@ -1,0 +1,5 @@
+ant
+eclipse
+icedtea-web
+java-devel
+jpackage-utils

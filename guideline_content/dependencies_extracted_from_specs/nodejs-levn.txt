@@ -1,0 +1,3 @@
+nodejs-packaging
+npm(prelude-ls)
+npm(type-check)

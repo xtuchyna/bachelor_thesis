@@ -1,0 +1,4 @@
+git
+rubygem(minitest) >= 5
+rubygem(rspec)
+rubygems-devel

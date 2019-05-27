@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(mkdirp)
+npm(os-tmpdir)
+npm(uid2)

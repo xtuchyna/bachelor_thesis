@@ -1,0 +1,10 @@
+nodejs-packaging
+npm(debug)
+npm(diff)
+npm(escape-string-regexp)
+npm(glob)
+npm(js-yaml)
+npm(supports-color)
+npm(tap)
+npm(tap-parser)
+npm(unicode-length)

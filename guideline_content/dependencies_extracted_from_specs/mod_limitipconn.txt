@@ -1,0 +1,2 @@
+gcc
+httpd-devel

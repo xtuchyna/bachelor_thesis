@@ -1,0 +1,14 @@
+/usr/bin/node
+ruby >= 1.9.3
+ruby(release)
+rubygem(coffee-script)
+rubygem(concurrent-ruby)
+rubygem(ejs)
+rubygem(execjs)
+rubygem(minitest)
+rubygem(nokogiri)
+rubygem(rack-test)
+rubygem(rake)
+rubygem(sass)
+rubygem(uglifier)
+rubygems-devel

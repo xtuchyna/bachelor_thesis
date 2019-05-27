@@ -1,0 +1,4 @@
+python-cliapp
+python-coverage-test-runner
+python-markdown
+python-ttystatus

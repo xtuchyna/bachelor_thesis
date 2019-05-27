@@ -1,0 +1,5 @@
+gettext-devel
+gtk2-devel
+intltool
+iso-codes
+python

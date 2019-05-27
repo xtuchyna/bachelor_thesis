@@ -1,0 +1,11 @@
+nodejs-packaging
+npm(debuglog)
+npm(graceful-fs)
+npm(mkdirp)
+npm(read-package-json)
+npm(readdir-scoped-modules)
+npm(rimraf)
+npm(semver)
+npm(slide)
+npm(tap)
+npm(util-extend)

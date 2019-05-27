@@ -1,0 +1,20 @@
+appdata-tools
+autoconf
+automake
+dconf-devel
+desktop-file-utils >= 0.2.90
+gettext
+glib2-devel >= 2.50.0
+gnome-common
+gnome-shell
+gsettings-desktop-schemas-devel
+gtk3-devel >= 3.22.27
+intltool
+itstool
+libtool
+libuuid-devel
+nautilus-devel
+pcre2-devel
+systemd
+vala-devel
+vte291-devel >= 0.52.1

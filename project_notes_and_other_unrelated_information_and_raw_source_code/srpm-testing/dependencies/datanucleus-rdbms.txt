@@ -1,0 +1,18 @@
+datanucleus-maven-parent
+java-devel
+maven-install-plugin
+maven-local
+mvn(com.mchange:c3p0)
+mvn(commons-collections:commons-collections)
+mvn(commons-dbcp:commons-dbcp)
+mvn(commons-pool:commons-pool)
+mvn(javax.time:time-api)
+mvn(javax.transaction:jta)
+mvn(junit:junit)
+mvn(log4j:log4j)
+mvn(net.sf.cglib:cglib)
+mvn(org.apache.tomcat:tomcat-jdbc)
+mvn(org.datanucleus:datanucleus-core)
+mvn(proxool:proxool)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

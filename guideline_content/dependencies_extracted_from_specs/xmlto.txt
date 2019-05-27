@@ -1,0 +1,4 @@
+docbook-xsl
+flex
+libxslt
+util-linux

@@ -1,0 +1,13 @@
+/usr/bin/execstack
+blacs-mpich-devel
+blacs-openmpi-devel
+gcc-gfortran
+gnupg2
+libtool
+mpich-devel
+openblas-devel
+openmpi-devel
+papi-devel
+rsh
+scalapack-mpich-devel
+scalapack-openmpi-devel

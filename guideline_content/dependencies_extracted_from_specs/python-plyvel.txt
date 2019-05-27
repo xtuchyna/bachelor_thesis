@@ -1,0 +1,9 @@
+leveldb-devel >= 1.20
+python2-Cython
+python2-devel
+python2-pytest
+python2-setuptools
+python3-Cython
+python3-devel
+python3-pytest
+python3-setuptools

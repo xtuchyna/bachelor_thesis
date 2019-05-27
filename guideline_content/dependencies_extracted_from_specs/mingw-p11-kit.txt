@@ -1,0 +1,14 @@
+gettext
+gtk-doc
+libtool
+mingw32-binutils
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-libffi
+mingw32-libtasn1
+mingw64-binutils
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-libffi
+mingw64-libtasn1
+pkgconfig

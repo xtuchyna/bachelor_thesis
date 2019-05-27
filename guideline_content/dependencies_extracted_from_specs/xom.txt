@@ -1,0 +1,13 @@
+ant >= 1.6
+jarjar
+java-devel
+javapackages-local
+javapackages-tools
+jaxen
+junit
+servlet
+tagsoup
+xalan-j2
+xerces-j2
+xml-commons-apis
+xml-commons-resolver

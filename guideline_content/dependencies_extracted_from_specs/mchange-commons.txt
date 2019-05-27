@@ -1,0 +1,7 @@
+ivy-local
+log4j12
+maven-local
+python
+sbt
+slf4j
+typesafe-config

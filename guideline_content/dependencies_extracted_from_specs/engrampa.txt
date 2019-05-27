@@ -1,0 +1,7 @@
+caja-devel
+desktop-file-utils
+file-devel
+gtk3-devel
+json-glib-devel
+libSM-devel
+mate-common

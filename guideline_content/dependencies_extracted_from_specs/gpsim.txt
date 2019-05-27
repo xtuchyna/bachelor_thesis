@@ -1,0 +1,7 @@
+autoconf
+desktop-file-utils
+flex
+gputils
+gtk2-devel
+popt-devel
+readline-devel

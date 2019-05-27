@@ -1,0 +1,10 @@
+automake
+intltool >= 0.40.0
+libtool
+pam-devel
+pkgconfig(glib-2.0)
+pkgconfig(gtk+-2.0) >= 2.12.0
+pkgconfig(iso-codes)
+pkgconfig(systemd)
+pkgconfig(x11)
+systemd

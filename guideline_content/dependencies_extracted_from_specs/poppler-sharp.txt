@@ -1,0 +1,4 @@
+gtk-sharp2-devel
+gtk-sharp2-gapi
+mono-devel
+poppler-glib-devel

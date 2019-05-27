@@ -1,0 +1,9 @@
+perl(Carp) >= 1.05
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod) >= 1.18
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

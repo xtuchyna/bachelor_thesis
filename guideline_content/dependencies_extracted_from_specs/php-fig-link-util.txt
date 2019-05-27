@@ -1,0 +1,6 @@
+php(language) >= 5.5.0
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(psr/link) < 2.0
+php-composer(psr/link) >= 1.0
+php-spl

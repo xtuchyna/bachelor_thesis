@@ -1,0 +1,6 @@
+SDL_image-devel
+SDL_net-devel
+SDL_ttf-devel
+desktop-file-utils
+fontpackages-devel
+mesa-libGL-devel

@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext
+libappstream-glib
+meson
+python3-devel

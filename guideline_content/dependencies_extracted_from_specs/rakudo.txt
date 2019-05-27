@@ -1,0 +1,26 @@
+coreutils
+desktop-file-utils
+gcc
+libatomic_ops-devel
+libffi-devel
+libtommath-devel
+libuv-devel
+make
+moarvm-devel >= 0.2018.02
+nqp >= 0.0.2018.02
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::Command)
+perl(File::Copy)
+perl(File::Spec)
+perl(FindBin)
+perl(Getopt::Long)
+perl(List::Util)
+perl(Test::Harness)
+perl(Text::ParseWords)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-interpreter
+perl-podlators

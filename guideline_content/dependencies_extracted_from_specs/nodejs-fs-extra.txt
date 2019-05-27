@@ -1,0 +1,10 @@
+mocha
+nodejs-packaging
+npm(jsonfile)
+npm(klaw)
+npm(mkdirp)
+npm(ncp)
+npm(read-dir-files)
+npm(rimraf)
+npm(secure-random)
+npm(semver)

@@ -1,0 +1,5 @@
+(crate(byteorder) >= 1.0.0 with crate(byteorder) < 2.0.0)
+(crate(serde) >= 1.0.14 with crate(serde) < 2.0.0)
+(crate(serde_bytes) >= 0.10.0 with crate(serde_bytes) < 0.11.0)
+(crate(serde_derive) >= 1.0.14 with crate(serde_derive) < 2.0.0)
+rust-packaging

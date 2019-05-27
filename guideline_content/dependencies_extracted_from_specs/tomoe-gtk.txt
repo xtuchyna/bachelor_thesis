@@ -1,0 +1,9 @@
+autoconf
+automake
+gettext
+gtk2-devel
+libgnomeui-devel
+libtool
+pygobject2-devel
+pygtk2-devel
+tomoe-devel >= 0.6.0

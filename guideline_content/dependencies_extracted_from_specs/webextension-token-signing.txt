@@ -1,0 +1,3 @@
+pkgconfig(libpcsclite)
+pkgconfig(openssl)
+qt5-qtbase-devel

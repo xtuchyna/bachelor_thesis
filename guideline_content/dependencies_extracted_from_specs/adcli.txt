@@ -1,0 +1,7 @@
+gettext-devel
+intltool
+krb5-devel
+libxslt
+openldap-devel
+pkgconfig
+xmlto

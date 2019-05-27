@@ -1,0 +1,5 @@
+(crate(cc) >= 1.0.0 with crate(cc) < 2.0.0)
+(crate(libc) >= 0.2.0 with crate(libc) < 0.3.0)
+(crate(pkg-config) >= 0.3.0 with crate(pkg-config) < 0.4.0)
+pkgconfig(zlib)
+rust-packaging

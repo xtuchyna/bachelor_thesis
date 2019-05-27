@@ -1,0 +1,7 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-cereal-devel
+ghc-entropy-devel
+ghc-rpm-macros
+ghc-tagged-devel
+ghc-transformers-devel

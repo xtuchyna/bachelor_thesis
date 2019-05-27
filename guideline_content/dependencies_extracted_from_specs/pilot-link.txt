@@ -1,0 +1,8 @@
+bluez-libs-devel
+libpng-devel
+libusb-devel
+perl(Devel::PPPort)
+perl(ExtUtils::MakeMaker)
+perl-devel
+perl-generators
+readline-devel

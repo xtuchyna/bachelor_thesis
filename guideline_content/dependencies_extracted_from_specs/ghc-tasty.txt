@@ -1,0 +1,14 @@
+ghc-Cabal-devel
+ghc-ansi-terminal-devel
+ghc-async-devel
+ghc-clock-devel
+ghc-containers-devel
+ghc-deepseq-devel
+ghc-mtl-devel
+ghc-optparse-applicative-devel
+ghc-regex-tdfa-devel
+ghc-rpm-macros
+ghc-stm-devel
+ghc-tagged-devel
+ghc-unbounded-delays-devel
+ghc-unix-devel

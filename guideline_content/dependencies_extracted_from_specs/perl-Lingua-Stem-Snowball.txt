@@ -1,0 +1,15 @@
+findutils
+gcc
+perl(Carp)
+perl(DynaLoader)
+perl(Exporter)
+perl(File::Spec)
+perl(Module::Build)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

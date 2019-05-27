@@ -1,0 +1,13 @@
+SDL2-devel
+SDL2_image-devel
+alsa-lib-devel
+desktop-file-utils
+freealut-devel >= 1.1.0-10
+gettext
+libGLU-devel
+libappstream-glib
+libglpng-devel
+libpng-devel
+libvorbis-devel
+openal-soft-devel
+quesoglc-devel

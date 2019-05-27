@@ -1,0 +1,4 @@
+emacs
+ghostscript
+tex(latex)
+texinfo-tex

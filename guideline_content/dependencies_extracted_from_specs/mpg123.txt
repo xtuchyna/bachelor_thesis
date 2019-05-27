@@ -1,0 +1,9 @@
+/usr/bin/doxygen
+autoconf
+automake
+gcc
+libtool
+pkgconfig(alsa)
+pkgconfig(jack)
+pkgconfig(libpulse-simple)
+pkgconfig(portaudio-2.0)

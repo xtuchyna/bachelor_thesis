@@ -1,0 +1,13 @@
+extra-cmake-modules
+kf5-kconfig-devel
+kf5-kcoreaddons-devel
+kf5-kcrash-devel
+kf5-kdbusaddons-devel
+kf5-ki18n-devel
+kf5-kiconthemes-devel
+kf5-knotifications-devel
+kf5-kwidgetsaddons-devel
+kf5-kwindowsystem-devel
+kf5-rpm-macros
+polkit-qt5-1-devel
+qt5-qtbase-devel

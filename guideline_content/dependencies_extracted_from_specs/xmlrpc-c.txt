@@ -1,0 +1,8 @@
+gcc
+gcc-c++
+git-core
+meson >= 0.36.0
+ncurses-devel
+pkgconfig(libcurl)
+pkgconfig(openssl)
+readline-devel

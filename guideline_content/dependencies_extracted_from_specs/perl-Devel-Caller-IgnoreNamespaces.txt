@@ -1,0 +1,7 @@
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(lib)
+perl-generators

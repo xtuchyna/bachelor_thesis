@@ -1,0 +1,4 @@
+python-devel
+python-flask
+python-flask-silk
+python-setuptools

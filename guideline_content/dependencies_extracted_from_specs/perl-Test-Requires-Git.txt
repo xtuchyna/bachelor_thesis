@@ -1,0 +1,15 @@
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Git::Version::Compare) >= 1.003
+perl(List::Util)
+perl(Scalar::Util)
+perl(Test::Builder::Module)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,5 @@
+maven-local
+mvn(junit:junit)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.codehaus.mojo:javacc-maven-plugin)
+mvn(org.sonatype.oss:oss-parent:pom:)

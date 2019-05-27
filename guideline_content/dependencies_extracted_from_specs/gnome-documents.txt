@@ -1,0 +1,21 @@
+desktop-file-utils
+docbook-style-xsl
+gettext >= 0.19.8
+inkscape
+itstool
+liboauth-devel
+meson
+pkgconfig(evince-document-3.0) >= 3.13.3
+pkgconfig(evince-view-3.0) >= 3.13.3
+pkgconfig(gjs-1.0) >= 1.48.0
+pkgconfig(gnome-desktop-3.0)
+pkgconfig(goa-1.0)
+pkgconfig(gtk+-3.0) >= 3.22.15
+pkgconfig(libgdata)
+pkgconfig(libgepub-0.6) >= 0.6
+pkgconfig(libsoup-2.4)
+pkgconfig(tracker-control-2.0) >= 0.17.3
+pkgconfig(tracker-sparql-2.0) >= 0.17.3
+pkgconfig(webkit2gtk-4.0)
+pkgconfig(zapojit-0.0)
+poppler-utils

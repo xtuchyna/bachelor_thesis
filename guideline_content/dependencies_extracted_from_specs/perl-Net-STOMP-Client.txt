@@ -1,0 +1,13 @@
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(IO::Socket::INET)
+perl(List::Util)
+perl(Messaging::Message)
+perl(No::Worries) >= 1.2
+perl(POSIX)
+perl(Params::Validate)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Time::HiRes)
+perl-generators

@@ -1,0 +1,10 @@
+bison
+cmake
+dbus-python
+extra-cmake-modules
+flex
+pkgconfig(TelepathyQt5)
+pkgconfig(dbus-1)
+pkgconfig(libxml-2.0)
+pkgconfig(telepathy-logger-0.2)
+python2-devel

@@ -1,0 +1,5 @@
+coffee-script
+nodejs-packaging
+npm(diff)
+npm(eyes)
+npm(glob)

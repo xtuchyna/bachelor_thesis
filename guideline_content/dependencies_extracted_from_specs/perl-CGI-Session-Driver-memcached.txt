@@ -1,0 +1,6 @@
+memcached
+perl(CGI::Session) >= 4
+perl(Cache::Memcached)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl-generators

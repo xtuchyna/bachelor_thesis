@@ -1,0 +1,6 @@
+automake
+desktop-file-utils >= 0.9
+gettext
+gtk2-devel >= 2.0
+libtool
+libxml2-devel

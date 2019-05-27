@@ -1,0 +1,5 @@
+coreutils
+perl-Test-Harness
+perl-podlators
+rakudo >= %rakudo_rpm_version
+sed

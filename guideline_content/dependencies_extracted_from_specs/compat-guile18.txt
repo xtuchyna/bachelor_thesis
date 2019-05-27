@@ -1,0 +1,6 @@
+emacs
+gettext-devel
+gmp-devel
+libtool
+libtool-ltdl-devel
+readline-devel

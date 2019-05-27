@@ -1,0 +1,7 @@
+eclipse-cdt
+eclipse-license
+eclipse-pde
+eclipse-tm-terminal
+jsch
+tycho
+tycho-extras

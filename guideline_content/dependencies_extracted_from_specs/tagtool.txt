@@ -1,0 +1,6 @@
+desktop-file-utils
+gettext
+id3lib-devel
+libglade2-devel
+libvorbis-devel
+perl(XML::Parser)

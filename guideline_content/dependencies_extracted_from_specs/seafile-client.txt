@@ -1,0 +1,14 @@
+ccnet-devel = 6.1.6
+cmake
+desktop-file-utils
+jansson-devel
+libappstream-glib
+libsearpc-devel
+libuuid-devel
+openssl-devel
+qt5-qtbase
+qt5-qttools
+qt5-qttools-devel
+qt5-qtwebkit-devel
+seafile-devel = 6.1.6
+sqlite-devel

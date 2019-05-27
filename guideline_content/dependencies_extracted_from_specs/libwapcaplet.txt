@@ -1,0 +1,2 @@
+netsurf-buildsystem
+pkgconfig(check)

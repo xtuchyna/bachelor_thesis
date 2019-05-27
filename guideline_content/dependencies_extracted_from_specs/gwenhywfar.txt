@@ -1,0 +1,10 @@
+cmake
+gcc
+gcc-c++
+gettext
+gnutls-devel
+gtk3-devel >= 3.14.0
+libgcrypt-devel
+openssl-devel
+qt4-devel >= 4.3.0
+qt5-qtbase-devel

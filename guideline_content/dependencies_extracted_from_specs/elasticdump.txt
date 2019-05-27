@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(line-reader)
+npm(mocha)
+npm(request)
+npm(should)

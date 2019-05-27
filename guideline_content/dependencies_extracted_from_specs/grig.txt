@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext
+gtk2-devel >= 2.6.0
+hamlib-devel >= 1.2.5
+intltool

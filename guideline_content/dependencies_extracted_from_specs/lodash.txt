@@ -1,0 +1,6 @@
+nodejs-packaging >= 7-5
+npm(closure-compiler)
+npm(glob)
+npm(semver)
+npm(uglify-js) >= 2.4.13
+web-assets-devel

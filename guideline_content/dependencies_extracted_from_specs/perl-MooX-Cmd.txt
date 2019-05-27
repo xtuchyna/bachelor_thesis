@@ -1,0 +1,27 @@
+make
+perl(Capture::Tiny)
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(FindBin)
+perl(List::MoreUtils) >= 0.406
+perl(Module::Pluggable::Object) >= 4.8
+perl(Module::Runtime)
+perl(Moo) >= 0.009013
+perl(Moo::Role) >= 0.009013
+perl(MooX::ConfigFromFile) >= 0.008
+perl(MooX::Options) >= 4.103
+perl(Package::Stash) >= 0.33
+perl(Params::Util) >= 0.37
+perl(Regexp::Common) >= 2011121001
+perl(Scalar::Util)
+perl(Test::Builder::Module)
+perl(Test::More) >= 0.98
+perl(Text::Abbrev)
+perl(Text::ParseWords)
+perl(lib)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

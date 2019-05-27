@@ -1,0 +1,4 @@
+efivar-devel >= 31-3
+git
+popt-devel
+systemd

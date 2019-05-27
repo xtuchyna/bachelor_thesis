@@ -1,0 +1,5 @@
+ant
+ant-contrib
+apache-commons-logging
+java-devel
+jpackage-utils

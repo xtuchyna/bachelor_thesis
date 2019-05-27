@@ -1,0 +1,17 @@
+autoconf
+gawk
+gettext
+libvirt-devel
+ocaml >= 3.10.2
+ocaml-calendar-devel
+ocaml-csv-devel
+ocaml-curses-devel >= 1.0.3-7
+ocaml-extlib-devel
+ocaml-fileutils-devel
+ocaml-findlib-devel
+ocaml-gettext-devel >= 0.3.3
+ocaml-libvirt-devel >= 0.6.1.4-15
+ocaml-ocamldoc
+ocaml-xml-light-devel
+perl(Pod::Perldoc)
+perl-interpreter

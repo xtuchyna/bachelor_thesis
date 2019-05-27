@@ -1,0 +1,6 @@
+mocha
+nodejs-packaging
+npm(base64-url)
+npm(bluebird)
+npm(proxyquire)
+npm(random-bytes)

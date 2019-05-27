@@ -1,0 +1,10 @@
+perl(Carp)
+perl(Cwd)
+perl(ExtUtils::MakeMaker)
+perl(File::Path)
+perl(File::Spec)
+perl(Params::Util) >= 0.05
+perl(Scalar::Util) >= 1.11
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl-generators

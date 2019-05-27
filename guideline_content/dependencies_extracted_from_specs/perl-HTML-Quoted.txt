@@ -1,0 +1,10 @@
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(HTML::Parser) >= 3.0
+perl(Module::Install::ReadmeFromPod)
+perl(Test::More)
+perl(base)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators

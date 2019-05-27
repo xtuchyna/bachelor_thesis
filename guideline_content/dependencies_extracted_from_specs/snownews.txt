@@ -1,0 +1,4 @@
+gettext
+libxml2-devel
+ncurses-devel
+openssl-devel

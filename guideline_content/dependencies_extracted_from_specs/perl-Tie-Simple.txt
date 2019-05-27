@@ -1,0 +1,13 @@
+findutils
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More)
+perl(Tie::Array)
+perl(Tie::Handle)
+perl(Tie::Hash)
+perl(Tie::Scalar)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

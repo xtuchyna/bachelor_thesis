@@ -1,0 +1,5 @@
+fftw-devel
+ladspa-devel
+libsamplerate-devel
+libsndfile-devel
+vamp-plugin-sdk-devel

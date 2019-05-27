@@ -1,0 +1,8 @@
+autoconf
+automake
+cyrus-sasl-devel
+libtool
+mariadb-connector-c-devel
+openssl-devel
+pam-devel
+pkgconfig

@@ -1,0 +1,4 @@
+libX11-devel
+libXext-devel
+libXxf86vm-devel
+xorg-x11-proto-devel

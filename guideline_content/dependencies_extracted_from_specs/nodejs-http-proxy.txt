@@ -1,0 +1,3 @@
+nodejs-packaging
+npm(eventemitter3)
+npm(requires-port)

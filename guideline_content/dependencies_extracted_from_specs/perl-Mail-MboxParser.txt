@@ -1,0 +1,17 @@
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::Seekable)
+perl(MIME::Base64)
+perl(MIME::QuotedPrint)
+perl(MIME::Tools) >= 5
+perl(MIME::Words)
+perl(Mail::Mbox::MessageParser)
+perl(Test)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(base)
+perl(constant)
+perl-generators

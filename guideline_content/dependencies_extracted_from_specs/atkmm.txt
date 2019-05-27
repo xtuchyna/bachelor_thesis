@@ -1,0 +1,2 @@
+atk-devel
+glibmm24-devel >= 2.46.1

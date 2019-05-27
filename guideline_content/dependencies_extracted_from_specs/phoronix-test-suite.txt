@@ -1,0 +1,4 @@
+appdata-tools
+desktop-file-utils
+libappstream-glib
+systemd

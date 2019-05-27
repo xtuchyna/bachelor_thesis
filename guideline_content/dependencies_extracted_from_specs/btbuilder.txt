@@ -1,0 +1,11 @@
+SDL2-devel
+SDL2_image-devel
+SDL2_mixer-devel
+SDL2_ttf-devel
+SDL_mng-devel
+boost-devel
+desktop-file-utils
+expat-devel
+libappstream-glib
+libpng-devel
+physfs-devel

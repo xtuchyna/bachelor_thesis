@@ -1,0 +1,15 @@
+desktop-file-utils
+extra-cmake-modules >= 5.26.0
+kf5-kdbusaddons-devel >= 5.26.0
+kf5-kdelibs4support-devel >= 5.26.0
+kf5-kdoctools-devel >= 5.26.0
+kf5-ki18n-devel >= 5.26.0
+kf5-kiconthemes-devel >= 5.26.0
+kf5-kinit-devel >= 5.26.0
+kf5-kio-devel >= 5.26.0
+kf5-kxmlgui-devel >= 5.26.0
+kf5-rpm-macros >= 5.26.0
+kf5-sonnet-devel >= 5.26.0
+khotkeys-devel >= 5.12
+qt5-qtbase-devel
+qt5-qtscript-devel

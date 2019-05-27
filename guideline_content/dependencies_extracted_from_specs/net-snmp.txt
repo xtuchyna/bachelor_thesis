@@ -1,0 +1,21 @@
+autoconf
+automake
+bzip2-devel
+chrpath
+elfutils-devel
+elfutils-libelf-devel
+libselinux-devel
+lm_sensors-devel >= 3
+mariadb-connector-c-devel
+net-tools
+openssl-devel
+perl(ExtUtils::Embed)
+perl(TAP::Harness)
+perl-devel
+perl-generators
+perl-interpreter
+procps
+python3-devel
+python3-setuptools
+rpm-devel
+systemd

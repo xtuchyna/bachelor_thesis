@@ -1,0 +1,15 @@
+autoconf
+automake
+dconf
+desktop-file-utils
+gettext
+gettext-devel
+glib2-devel
+groff
+gtk2-devel
+libXinerama-devel
+libappstream-glib
+libglade2-devel
+libticalcs2-devel
+libtool
+pkgconfig

@@ -1,0 +1,9 @@
+mocha
+nodejs-packaging
+npm(extend-shallow)
+npm(is-number)
+npm(isobject)
+npm(randomatic)
+npm(repeat-string)
+npm(should)
+npm(to-regex-range)

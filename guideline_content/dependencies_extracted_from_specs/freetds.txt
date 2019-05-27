@@ -1,0 +1,8 @@
+docbook-style-dsssl
+doxygen
+gnutls-devel
+krb5-devel
+libgcrypt-devel
+libtool
+readline-devel
+unixODBC-devel

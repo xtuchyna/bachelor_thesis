@@ -1,0 +1,5 @@
+gcc-c++
+glib2-devel
+qt5-qtbase-devel
+qt5-qtbase-private-devel
+qt5-qtdeclarative-devel

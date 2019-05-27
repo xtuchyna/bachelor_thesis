@@ -1,0 +1,4 @@
+rubygem(diff-lcs)
+rubygem(minitest)
+rubygem(sass)
+rubygems-devel

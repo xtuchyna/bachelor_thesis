@@ -1,0 +1,4 @@
+dos2unix
+freeglut-devel
+glew-devel
+qt-devel

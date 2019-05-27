@@ -1,0 +1,14 @@
+ImageMagick
+cmake
+desktop-file-utils
+eigen3-devel
+gcc-c++
+inchi-devel >= 1.0.3
+libxml2-devel
+perl-devel
+perl-generators
+python2-devel
+python3-devel
+ruby-devel
+swig
+wxGTK-devel

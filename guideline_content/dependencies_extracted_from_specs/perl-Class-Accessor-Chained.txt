@@ -1,0 +1,8 @@
+/usr/bin/pod2text
+perl(Carp)
+perl(Class::Accessor)
+perl(Class::Accessor::Fast)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(base)
+perl-generators

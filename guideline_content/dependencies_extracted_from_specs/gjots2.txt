@@ -1,0 +1,4 @@
+desktop-file-utils
+libappstream-glib
+python2-devel
+python2-setuptools

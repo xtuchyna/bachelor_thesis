@@ -1,0 +1,10 @@
+cmake(Qt5Widgets)
+extra-cmake-modules
+gettext
+kf5-kconfig-devel
+kf5-ki18n-devel
+kf5-ktextwidgets-devel
+kf5-kwallet-devel
+kf5-kwidgetsaddons-devel
+kf5-rpm-macros
+pkgconfig(sane-backends)

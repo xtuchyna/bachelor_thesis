@@ -1,0 +1,13 @@
+atlas-devel
+chrpath
+cmake
+doxygen
+gcc-c++
+gdb
+git
+gsl-devel
+jacop
+java-devel
+python2-sphinx
+python2-virtualenv
+unixODBC-devel

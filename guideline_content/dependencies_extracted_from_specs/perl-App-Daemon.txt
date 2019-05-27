@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker)
+perl(File::Pid)
+perl(Log::Log4perl) >= 1.0
+perl(Proc::ProcessTable)
+perl(Sysadm::Install)
+perl(Test::More)
+perl-generators

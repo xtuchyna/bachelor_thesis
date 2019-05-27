@@ -1,0 +1,12 @@
+perl(Capture::Tiny)
+perl(Date::Parse)
+perl(Email::Abstract)
+perl(Email::Date::Format) >= 1.000
+perl(ExtUtils::MakeMaker)
+perl(Module::Pluggable)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Time::Local)
+perl(Time::Piece)
+perl-generators

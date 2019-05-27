@@ -1,0 +1,10 @@
+mingw32-filesystem >= 96
+mingw32-jasper
+mingw32-libtiff
+mingw32-libwebp
+mingw32-qt5-qtbase >= 5.6.0
+mingw64-filesystem >= 96
+mingw64-jasper
+mingw64-libtiff
+mingw64-libwebp
+mingw64-qt5-qtbase >= 5.6.0

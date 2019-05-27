@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(coffee-script)
+npm(lodash)
+npm(mocha)

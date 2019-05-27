@@ -1,0 +1,10 @@
+make
+perl(AutoLoader)
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Memoize)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

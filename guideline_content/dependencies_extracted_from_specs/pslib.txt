@@ -1,0 +1,6 @@
+gettext
+giflib-devel
+intltool
+libjpeg-devel
+libpng-devel
+libtiff-devel

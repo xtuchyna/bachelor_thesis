@@ -1,0 +1,7 @@
+php(language) >= 5.3.2
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit) >= 4.5
+php-composer(phpunit/phpunit-mock-objects) >= 2.3
+php-json
+php-pcre
+php-spl

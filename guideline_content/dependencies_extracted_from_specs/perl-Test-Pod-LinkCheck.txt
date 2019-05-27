@@ -1,0 +1,23 @@
+perl(App::PodLinkCheck::ParseLinks) >= 4
+perl(App::PodLinkCheck::ParseSections)
+perl(Capture::Tiny)
+perl(Config)
+perl(Exporter)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Module::Build::Tiny) >= 0.039
+perl(Moose) >= 1.01
+perl(Moose::Util::TypeConstraints) >= 1.01
+perl(Pod::Find)
+perl(Test::Apocalypse) >= 1.000
+perl(Test::Builder) >= 0.94
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.44
+perl(Test::Tester)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

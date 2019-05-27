@@ -1,0 +1,9 @@
+gcc-c++
+libtool
+perl-generators
+tex(epsf.sty)
+tex(framed.sty)
+tex(fullpage.sty)
+tex(latex)
+tex(version.sty)
+zlib-devel

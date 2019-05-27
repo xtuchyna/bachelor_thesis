@@ -1,0 +1,3 @@
+rpm-devel
+sblim-cmpi-base-devel
+sblim-cmpi-devel

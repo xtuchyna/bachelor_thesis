@@ -1,0 +1,2 @@
+php-devel > 5.3
+php-pear

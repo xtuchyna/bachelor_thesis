@@ -1,0 +1,10 @@
+abrt-devel
+check-devel
+cmake
+gettext
+git
+java-devel
+libreport-devel >= 2.4.0
+rpm-devel
+satyr-devel
+systemd-devel

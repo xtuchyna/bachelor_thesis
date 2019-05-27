@@ -1,0 +1,7 @@
+apr-devel
+apr-util-devel
+krb5-devel
+openssl-devel
+pkgconfig
+scons
+zlib-devel

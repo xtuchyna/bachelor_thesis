@@ -1,0 +1,3 @@
+cmake
+fuse-devel
+gfal2-devel

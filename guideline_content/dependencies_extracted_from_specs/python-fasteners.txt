@@ -1,0 +1,10 @@
+python2-devel
+python2-futures
+python2-monotonic
+python2-nose
+python2-six
+python2-testtools
+python3-devel
+python3-nose
+python3-six
+python3-testtools

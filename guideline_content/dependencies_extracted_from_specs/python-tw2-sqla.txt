@@ -1,0 +1,21 @@
+python-BeautifulSoup
+python-chameleon
+python-elixir
+python-formencode
+python-genshi
+python-jinja2
+python-kajiki
+python-mako
+python-nose
+python-setuptools
+python-sieve
+python-sqlalchemy >= 0.7
+python-strainer
+python-turbocheetah
+python-turbokid
+python-tw2-core >= 2.1.4
+python-tw2-dynforms
+python-tw2-forms >= 2.1.4.1
+python-webtest
+python-zope-sqlalchemy
+python2-devel

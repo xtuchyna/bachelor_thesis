@@ -1,0 +1,11 @@
+deepin-dock-devel
+desktop-file-utils
+pkgconfig(Qt5)
+pkgconfig(Qt5Multimedia)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5X11Extras)
+pkgconfig(dframeworkdbus)
+pkgconfig(dtkwidget) = 2.0
+pkgconfig(geoip)
+pkgconfig(gsettings-qt)
+qt5-linguist

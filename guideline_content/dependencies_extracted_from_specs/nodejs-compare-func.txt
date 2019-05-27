@@ -1,0 +1,4 @@
+mocha
+nodejs-packaging
+npm(array-ify)
+npm(dot-prop)

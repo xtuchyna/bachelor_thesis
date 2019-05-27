@@ -1,0 +1,4 @@
+doxygen
+globus-common-devel >= 15
+openssl-devel
+perl(Test::More)

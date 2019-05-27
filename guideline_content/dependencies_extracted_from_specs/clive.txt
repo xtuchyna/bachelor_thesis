@@ -1,0 +1,6 @@
+perl(ExtUtils::MakeMaker)
+perl(Getopt::ArgvFile)
+perl(JSON::XS)
+perl(Test::Base)
+perl(version)
+perl-generators

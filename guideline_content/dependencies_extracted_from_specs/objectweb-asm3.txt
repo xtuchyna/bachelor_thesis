@@ -1,0 +1,3 @@
+ant
+maven-local
+objectweb-asm3

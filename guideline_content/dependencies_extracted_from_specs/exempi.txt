@@ -1,0 +1,8 @@
+autoconf
+automake
+boost-devel
+expat-devel
+gcc-c++
+libtool
+pkgconfig
+zlib-devel

@@ -1,0 +1,9 @@
+autoconf
+automake
+coreutils
+gcc
+gettext-devel
+gperf
+make
+texi2html
+texinfo

@@ -1,0 +1,8 @@
+apache-commons-logging
+dom4j
+guava
+javassist
+junit
+maven-local
+reflections
+velocity

@@ -1,0 +1,11 @@
+intltool
+itstool
+meson
+pkgconfig(accountsservice)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gtk+-3.0) >= 3.10.0
+pkgconfig(gtk-doc) >= 1.9
+pkgconfig(libpulse)
+pkgconfig(libstartup-notification-1.0) >= 0.5
+pkgconfig(xkbfile)
+pkgconfig(xkeyboard-config)

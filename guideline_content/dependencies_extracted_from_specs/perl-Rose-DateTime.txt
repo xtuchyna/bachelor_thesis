@@ -1,0 +1,7 @@
+perl(DateTime)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Rose::Object)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl-generators

@@ -1,0 +1,5 @@
+autoconf
+automake
+libax25-devel
+libtool
+ncurses-devel

@@ -1,0 +1,6 @@
+automake
+librtas-devel
+libtool
+libvpd-devel >= 2.2.1
+sg3_utils-devel
+zlib-devel

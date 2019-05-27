@@ -1,0 +1,22 @@
+perl(Class::Data::Inheritable)
+perl(DateTime)
+perl(Digest::SHA1)
+perl(Encode)
+perl(Exporter)
+perl(FindBin)
+perl(LWP::UserAgent)
+perl(MIME::Base64)
+perl(Module::Build::Tiny)
+perl(Scalar::Util)
+perl(Test::More)
+perl(URI)
+perl(XML::LibXML) >= 1.69
+perl(XML::Parser)
+perl(base)
+perl(constant)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

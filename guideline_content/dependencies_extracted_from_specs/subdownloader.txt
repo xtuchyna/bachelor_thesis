@@ -1,0 +1,4 @@
+desktop-file-utils
+gettext
+python-qt5-devel
+python2-devel

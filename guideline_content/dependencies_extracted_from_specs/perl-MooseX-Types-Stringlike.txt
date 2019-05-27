@@ -1,0 +1,15 @@
+perl(CPAN::Meta)
+perl(CPAN::Meta::Requirements) >= 2.120900
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(File::Spec::Functions)
+perl(List::Util)
+perl(Moose)
+perl(MooseX::Types)
+perl(MooseX::Types::Moose)
+perl(Test::More) >= 0.96
+perl(overload)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

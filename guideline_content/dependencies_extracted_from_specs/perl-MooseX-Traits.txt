@@ -1,0 +1,13 @@
+perl(Class::MOP) >= 0.84
+perl(Module::Build::Tiny)
+perl(Moose)
+perl(Moose::Role)
+perl(MooseX::Role::Parameterized)
+perl(Sub::Exporter)
+perl(Test::Exception)
+perl(Test::Fatal)
+perl(Test::More)
+perl(Test::Requires)
+perl(namespace::autoclean)
+perl(ok)
+perl-generators

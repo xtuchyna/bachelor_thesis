@@ -1,0 +1,8 @@
+git
+python-tools
+python2-devel
+python2-pbr
+python2-setuptools
+python3-devel
+python3-pbr >= 0.6
+python3-setuptools

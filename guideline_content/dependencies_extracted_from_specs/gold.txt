@@ -1,0 +1,5 @@
+autoconf
+coreutils
+make
+perl-generators
+perl-interpreter

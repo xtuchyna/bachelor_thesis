@@ -1,0 +1,17 @@
+cairo-devel
+cmake
+curl-devel
+docbook-style-xsl
+docbook2X
+git
+imlib2-devel
+libXdamage-devel
+libXext-devel
+libXft-devel
+libXinerama-devel
+libXt-devel
+libxml2-devel
+lua-devel
+man
+tolua++-devel
+wireless-tools-devel

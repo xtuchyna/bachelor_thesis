@@ -1,0 +1,2 @@
+php-channel(pear.pirum-project.org)
+php-pear(PEAR)

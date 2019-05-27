@@ -1,0 +1,8 @@
+eclipse-egit >= 4.11.0
+eclipse-jgit >= 4.11.0
+eclipse-mylyn
+eclipse-mylyn-docs-wikitext
+google-gson
+hamcrest
+maven-antrun-plugin
+tycho

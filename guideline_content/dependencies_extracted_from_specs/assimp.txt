@@ -1,0 +1,14 @@
+boost-devel
+cmake
+dos2unix
+doxygen
+gtest-devel
+irrXML-devel
+irrlicht-devel
+pkgconfig(ILUT)
+pkgconfig(minizip)
+pkgconfig(python2)
+pkgconfig(python3)
+pkgconfig(zlib)
+pkgconfig(zzip-zlib-config)
+poly2tri-devel

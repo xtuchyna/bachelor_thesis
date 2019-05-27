@@ -1,0 +1,16 @@
+avahi-devel
+java-devel >= 1:1.6.0
+jpackage-utils
+libX11-devel
+libXdamage-devel
+libXext-devel
+libXfixes-devel
+libXi-devel
+libXinerama-devel
+libXrandr-devel
+libXtst-devel
+libjpeg-devel
+libvncserver-devel
+openssl-devel
+xorg-x11-proto-devel
+zlib-devel

@@ -1,0 +1,35 @@
+coreutils
+findutils
+gcc
+make
+perl(:VERSION) >= 5.6
+perl(Carp)
+perl(Config)
+perl(DBI) >= 1.607
+perl(DBI::DBD)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec) >= 0.82
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(FindBin)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::NoWarnings) >= 0.081
+perl(Tie::Hash)
+perl(Unicode::UCD)
+perl(base)
+perl(bytes)
+perl(constant)
+perl(lib)
+perl(locale)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed
+sqlite-devel

@@ -1,0 +1,16 @@
+SDL_gfx-devel
+SDL_image-devel
+SDL_mixer-devel
+SDL_net-devel
+SDL_ttf-devel
+curl-devel
+desktop-file-utils
+gettext
+libxml++-devel
+pkgconfig
+pkgconfig(dbus-1)
+pkgconfig(fribidi)
+pkgconfig(glib-2.0)
+pkgconfig(libpng)
+pkgconfig(libxml-2.0)
+zlib-devel

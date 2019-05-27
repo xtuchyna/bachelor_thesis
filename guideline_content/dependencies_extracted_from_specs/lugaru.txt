@@ -1,0 +1,15 @@
+cmake >= 3.0
+desktop-file-utils
+fdupes
+gcc-c++
+git-core
+libappstream-glib
+libjpeg-turbo-devel
+pkgconfig(glu)
+pkgconfig(libpng)
+pkgconfig(ogg)
+pkgconfig(openal)
+pkgconfig(sdl2)
+pkgconfig(vorbis)
+pkgconfig(vorbisfile)
+pkgconfig(zlib)

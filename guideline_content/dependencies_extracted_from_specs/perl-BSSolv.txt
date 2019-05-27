@@ -1,0 +1,10 @@
+expat-devel
+libdb4-devel
+libsolv-devel >= 0.3.0-7
+perl(ExtUtils::MakeMaker)
+perl(strict)
+perl-devel
+perl-generators
+perl-interpreter
+xz-devel
+zlib-devel

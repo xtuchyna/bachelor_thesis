@@ -1,0 +1,6 @@
+autoconf
+automake
+desktop-file-utils
+glib2-devel
+gtk2-devel
+libtool

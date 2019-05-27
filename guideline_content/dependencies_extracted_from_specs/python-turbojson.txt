@@ -1,0 +1,7 @@
+python-nose
+python-peak-rules >= 0.5a1.dev-0.2600
+python-setuptools
+python-simplejson >= 1.9.1
+python-sqlalchemy
+python-sqlobject
+python2-devel

@@ -1,0 +1,7 @@
+autoconf
+automake
+gcc
+gettext-devel
+libtool
+ncurses-devel
+systemd-devel

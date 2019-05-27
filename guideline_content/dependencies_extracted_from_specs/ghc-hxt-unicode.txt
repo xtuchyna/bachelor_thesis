@@ -1,0 +1,3 @@
+ghc-Cabal-devel
+ghc-hxt-charproperties-devel
+ghc-rpm-macros

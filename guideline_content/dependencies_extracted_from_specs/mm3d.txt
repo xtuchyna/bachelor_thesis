@@ -1,0 +1,9 @@
+desktop-file-utils
+dos2unix
+imlib2-devel
+lib3ds-devel
+libXmu-devel
+libtool
+lua-devel
+perl-HTML-Template
+qt4-devel

@@ -1,0 +1,6 @@
+doxygen-latex
+gcc
+gmp-devel
+m4ri-devel
+tex(adjustbox.sty)
+tex(tabu.sty)

@@ -1,0 +1,3 @@
+mono-data-sqlite
+mono-devel
+nant

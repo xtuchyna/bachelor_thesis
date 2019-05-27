@@ -1,0 +1,12 @@
+autoconf
+docbook-dtds
+docbook-style-xsl
+ghc-Cabal-devel
+ghc-array-devel
+ghc-containers-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-mtl-devel
+ghc-rpm-macros
+libxml2
+libxslt

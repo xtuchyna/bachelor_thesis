@@ -1,0 +1,83 @@
+CGAL-devel
+SDL-devel
+SDL_image-devel
+SDL_net-devel
+apr-util-devel
+asciidoc
+assimp-devel
+avahi-devel
+bluez-libs-devel
+boost-devel
+bullet-devel
+cairomm
+clips
+clipsmm-devel >= 0.3.4
+collada-dom-devel
+compat-lua-devel >= 5.1
+compat-tolua++-devel
+desktop-file-utils
+docbook-style-xsl
+doxygen
+eigen3-devel
+elfutils-libelf-devel
+festival
+festival-devel
+file-devel
+flite-devel
+freeglut-devel
+freeimage-devel
+gazebo-devel
+gazebo-media
+gazebo-ode-devel
+gcc-c++
+gconfmm26-devel
+glibmm24-devel
+gperftools-devel
+graphviz
+graphviz-devel >= 2.22
+gtest-devel
+gtkmm24-devel
+gts-devel
+hokuyoaist-devel
+kernel-headers >= 2.6.17
+libXext-devel
+libccd-devel
+libdaemon-devel >= 0.10
+libdc1394-devel >= 2.0
+libglademm24-devel >= 2.6
+libjpeg-devel >= 6b
+libkindrv-devel
+libkni3-devel >= 3.9
+libmicrohttpd-devel >= 0.9.4
+libpng-devel >= 1.2
+libtool-ltdl-devel
+libudev-devel
+libusb-devel
+libuuid-devel
+libxml++-devel >= 2.20
+libxslt
+lz4-devel
+make >= 3.81
+mesa-libGL-devel
+mesa-libGLU-devel
+mongo-cxx-driver-devel
+ogre-devel
+opencv-devel
+openni-devel
+openssl-devel >= 0.9.8
+orocos-kdl-devel
+pcl-devel
+player-devel >= 3.0
+protobuf-compiler
+protobuf-devel
+readline-devel >= 5.1
+rrdtool-devel
+sqlite-devel
+texlive-dvips
+texlive-latex
+tinyxml-devel
+urdfdom-devel
+urdfdom-headers-devel
+urg-devel >= 0.8
+xmlrpc-c-devel
+yaml-cpp-devel

@@ -1,0 +1,5 @@
+ruby
+ruby(release)
+rubygem(activesupport)
+rubygem(test-unit)
+rubygems-devel

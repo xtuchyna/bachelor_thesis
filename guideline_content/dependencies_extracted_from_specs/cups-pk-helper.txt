@@ -1,0 +1,13 @@
+autoconf
+automake
+cups-devel >= 1.2
+dbus-glib-devel >= 0.74
+gettext-devel >= 0.17
+glib2-devel >= 2.29.8
+gnome-common >= 2.26
+gtk2-devel >= 2.12.0
+intltool >= 0.40.6
+libtool
+libtool >= 1.4.3
+polkit-devel >= 0.97
+polkit-gnome >= 0.97

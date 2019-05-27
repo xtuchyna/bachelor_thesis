@@ -1,0 +1,5 @@
+gcc
+glusterfs-api-devel >= 3.6.0
+help2man >= 1.36
+make
+readline-devel

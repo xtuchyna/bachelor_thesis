@@ -1,0 +1,13 @@
+desktop-file-utils
+docbook-utils
+gettext
+glib2-devel
+gtk3-devel
+itstool
+libappstream-glib
+libcanberra-devel >= 0.10
+libgudev1-devel
+libgusb-devel >= 0.2.4
+libudisks2-devel
+meson
+polkit-devel

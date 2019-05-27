@@ -1,0 +1,13 @@
+gettext
+pkgconfig(python2)
+pkgconfig(python3)
+python2-babel
+python2-configargparse
+python2-devel
+python2-lesscpy
+python2-setuptools
+python3-babel
+python3-configargparse
+python3-devel
+python3-lesscpy
+python3-setuptools

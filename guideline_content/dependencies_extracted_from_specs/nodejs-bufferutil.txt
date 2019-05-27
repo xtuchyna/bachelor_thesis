@@ -1,0 +1,5 @@
+mocha
+node-gyp
+nodejs-bindings
+nodejs-nan
+nodejs-packaging

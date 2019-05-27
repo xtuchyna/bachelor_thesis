@@ -1,0 +1,4 @@
+mocha
+nodejs-packaging
+npm(escape-string-regexp)
+npm(replace-ext)

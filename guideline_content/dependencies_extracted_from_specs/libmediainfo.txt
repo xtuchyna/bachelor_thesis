@@ -1,0 +1,7 @@
+cmake
+doxygen
+gcc-c++
+pkgconfig(libcurl)
+pkgconfig(libzen) >= 0.4.37
+pkgconfig(tinyxml2)
+pkgconfig(zlib)

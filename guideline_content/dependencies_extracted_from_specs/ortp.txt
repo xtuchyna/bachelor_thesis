@@ -1,0 +1,7 @@
+doxygen
+graphviz
+libsrtp-devel
+libtool
+libzrtpcpp-devel >= 4.0.0
+openssl-devel
+perl-Carp

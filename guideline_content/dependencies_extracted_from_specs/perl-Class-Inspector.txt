@@ -1,0 +1,7 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec) >= 0.80
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators

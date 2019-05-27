@@ -1,0 +1,5 @@
+PackageKit >= 0.9.1
+cmake
+cmake(Qt5DBus)
+cmake(Qt5Sql)
+gcc-c++

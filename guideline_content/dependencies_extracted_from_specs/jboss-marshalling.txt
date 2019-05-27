@@ -1,0 +1,8 @@
+maven-local
+mvn(jdepend:jdepend)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.jboss.apiviz:apiviz)
+mvn(org.jboss.maven.plugins:maven-injection-plugin)
+mvn(org.jboss.modules:jboss-modules)
+mvn(org.jboss:jboss-parent:pom:)
+mvn(org.testng:testng)

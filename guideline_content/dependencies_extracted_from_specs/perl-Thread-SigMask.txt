@@ -1,0 +1,13 @@
+perl(Exporter) >= 5.57
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Module::Build)
+perl(POSIX)
+perl(Test::More)
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter >= 5.006

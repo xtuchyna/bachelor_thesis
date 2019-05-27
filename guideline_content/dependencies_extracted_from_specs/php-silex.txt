@@ -1,0 +1,62 @@
+php(language) >= 5.3.9
+php-cli
+php-composer(doctrine/dbal) < 3.0
+php-composer(doctrine/dbal) >= 2.5.4
+php-composer(fedora/autoloader)
+php-composer(monolog/monolog) < 2.0.0
+php-composer(monolog/monolog) >= 1.15.0
+php-composer(phpunit/phpunit)
+php-composer(pimple/pimple) < 2.0
+php-composer(pimple/pimple) >= 1.0
+php-composer(swiftmailer/swiftmailer) < 6.0
+php-composer(swiftmailer/swiftmailer) >= 5.4.1
+php-composer(symfony/browser-kit) < 3.0
+php-composer(symfony/browser-kit) >= 2.7.1
+php-composer(symfony/config) < 3.0
+php-composer(symfony/config) >= 2.7.1
+php-composer(symfony/css-selector) < 3.0
+php-composer(symfony/css-selector) >= 2.7.1
+php-composer(symfony/debug) < 3.0
+php-composer(symfony/debug) >= 2.7.1
+php-composer(symfony/dom-crawler) < 3.0
+php-composer(symfony/dom-crawler) >= 2.7.1
+php-composer(symfony/event-dispatcher) < 3.0
+php-composer(symfony/event-dispatcher) >= 2.7.1
+php-composer(symfony/finder) < 3.0
+php-composer(symfony/finder) >= 2.7.1
+php-composer(symfony/form) < 3.0
+php-composer(symfony/form) >= 2.7.1
+php-composer(symfony/http-foundation) < 3.0
+php-composer(symfony/http-foundation) >= 2.7.1
+php-composer(symfony/http-kernel) < 3.0
+php-composer(symfony/http-kernel) >= 2.7.1
+php-composer(symfony/intl) < 3.0
+php-composer(symfony/intl) >= 2.7.1
+php-composer(symfony/monolog-bridge) < 3.0
+php-composer(symfony/monolog-bridge) >= 2.7.1
+php-composer(symfony/options-resolver) < 3.0
+php-composer(symfony/options-resolver) >= 2.7.1
+php-composer(symfony/process) < 3.0
+php-composer(symfony/process) >= 2.7.1
+php-composer(symfony/routing) < 3.0
+php-composer(symfony/routing) >= 2.7.1
+php-composer(symfony/security) < 3.0
+php-composer(symfony/security) >= 2.7.1
+php-composer(symfony/serializer) < 3.0
+php-composer(symfony/serializer) >= 2.7.1
+php-composer(symfony/translation) < 3.0
+php-composer(symfony/translation) >= 2.7.1
+php-composer(symfony/twig-bridge) < 3.0
+php-composer(symfony/twig-bridge) >= 2.7.1
+php-composer(symfony/validator) < 3.0
+php-composer(symfony/validator) >= 2.7.1
+php-composer(twig/twig) < 3.0
+php-composer(twig/twig) >= 1.28
+php-date
+php-json
+php-pcre
+php-pear
+php-reflection
+php-session
+php-spl
+php-tokenizer

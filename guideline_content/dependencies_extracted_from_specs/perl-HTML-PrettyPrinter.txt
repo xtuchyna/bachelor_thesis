@@ -1,0 +1,16 @@
+coreutils
+findutils
+glibc-common
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(HTML::Element) >= 1.56
+perl(HTML::Entities)
+perl(HTML::Tagset)
+perl(Test)
+perl(constant)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

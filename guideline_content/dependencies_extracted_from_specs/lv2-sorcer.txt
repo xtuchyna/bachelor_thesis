@@ -1,0 +1,9 @@
+boost-devel
+cairo-devel
+faust
+fltk-devel
+gtkmm24-devel
+libsndfile-devel
+lv2-devel
+non-ntk-devel
+python2

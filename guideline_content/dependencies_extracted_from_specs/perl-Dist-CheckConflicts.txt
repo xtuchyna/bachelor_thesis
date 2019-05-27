@@ -1,0 +1,19 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Module::Runtime) >= 0.009
+perl(Pod::Coverage::TrustPod)
+perl(Test::EOL)
+perl(Test::Fatal)
+perl(Test::More) >= 0.47
+perl(Test::NoTabs)
+perl(Test::Pod) >= 1.41
+perl(Test::Pod::Coverage) >= 1.08
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators

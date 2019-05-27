@@ -1,0 +1,28 @@
+findutils
+make
+perl(AutoLoader)
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(Devel::Peek)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Moose)
+perl(Scalar::Util)
+perl(Storable)
+perl(Test::LeakTrace)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(base)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(threads)
+perl(threads::shared)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

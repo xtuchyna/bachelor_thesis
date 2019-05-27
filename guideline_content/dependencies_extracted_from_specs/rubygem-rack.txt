@@ -1,0 +1,8 @@
+memcached
+ruby >= 2.2.2
+ruby(release)
+rubygem(concurrent-ruby)
+rubygem(memcache-client)
+rubygem(minitest)
+rubygem(thin)
+rubygems-devel

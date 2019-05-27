@@ -1,0 +1,5 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.maven.plugins:maven-release-plugin)
+mvn(org.jboss:jboss-parent:pom:)
+mvn(org.picketbox:picketbox-commons)

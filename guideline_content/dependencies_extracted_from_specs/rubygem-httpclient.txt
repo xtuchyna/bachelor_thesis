@@ -1,0 +1,4 @@
+rubygem(http-cookie)
+rubygem(minitest4)
+rubygem(test-unit)
+rubygems-devel

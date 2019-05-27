@@ -1,0 +1,20 @@
+desktop-file-utils
+gettext
+glib2-devel
+libev-devel
+ocaml >= 4.02.3
+ocaml-biniou-devel
+ocaml-camlp4-devel
+ocaml-curl-devel >= 0.7.9
+ocaml-easy-format-devel
+ocaml-extlib-devel
+ocaml-findlib
+ocaml-lablgtk-devel
+ocaml-lwt-devel
+ocaml-ocamlbuild
+ocaml-ounit-devel
+ocaml-ssl-devel
+ocaml-xmlm-devel
+ocaml-yojson-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

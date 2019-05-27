@@ -1,0 +1,6 @@
+autoconf
+automake
+gtk+extra-devel
+libtool
+pygtk2-devel
+python2-devel

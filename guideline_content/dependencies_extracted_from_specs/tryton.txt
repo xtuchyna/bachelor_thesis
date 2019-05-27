@@ -1,0 +1,3 @@
+desktop-file-utils
+python-sphinx
+python2-devel

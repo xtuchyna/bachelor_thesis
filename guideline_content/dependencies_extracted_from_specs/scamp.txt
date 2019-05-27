@@ -1,0 +1,5 @@
+atlas-devel
+cdsclient
+fftw-devel
+pkgconfig
+plplot-devel

@@ -1,0 +1,14 @@
+git
+php(language) >= 5.3.0
+php-composer(fedora/autoloader)
+php-composer(mockery/mockery) < 1.0
+php-composer(mockery/mockery) >= 0.9.1
+php-composer(phpunit/phpunit)
+php-composer(symfony/filesystem) < 3.0
+php-composer(symfony/filesystem) >= 2.7.1
+php-composer(symfony/process) < 3.0
+php-composer(symfony/process) >= 2.7.1
+php-date
+php-pcre
+php-reflection
+php-spl

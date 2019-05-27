@@ -1,0 +1,13 @@
+autoconf
+automake
+boost-devel
+compat-openssl10-devel
+gcc-c++
+gtest-devel
+libtool
+log4cplus-devel
+mariadb-connector-c-devel
+postgresql-devel
+procps-ng
+systemd
+valgrind-devel

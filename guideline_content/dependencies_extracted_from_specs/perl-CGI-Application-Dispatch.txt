@@ -1,0 +1,12 @@
+perl(CGI)
+perl(CGI::Application) >= 4.50
+perl(CGI::PSGI)
+perl(Exception::Class)
+perl(Exception::Class::TryCatch)
+perl(HTTP::Exception)
+perl(Module::Build)
+perl(Plack)
+perl(Plack::Test)
+perl(Test::LongString)
+perl(Test::More)
+perl-generators

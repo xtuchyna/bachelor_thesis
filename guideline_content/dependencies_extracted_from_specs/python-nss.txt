@@ -1,0 +1,9 @@
+epydoc
+nspr-devel
+nss-devel
+python2-devel
+python2-docutils
+python2-setuptools
+python3-devel
+python3-docutils
+python3-setuptools

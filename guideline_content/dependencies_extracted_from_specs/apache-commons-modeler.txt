@@ -1,0 +1,7 @@
+maven-local
+mvn(commons-digester:commons-digester)
+mvn(commons-logging:commons-logging-api)
+mvn(junit:junit)
+mvn(org.apache.ant:ant)
+mvn(org.apache.commons:commons-parent:pom:)
+mvn(xml-apis:xml-apis)

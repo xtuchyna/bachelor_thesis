@@ -1,0 +1,12 @@
+make
+perl(Carp)
+perl(File::Find::Rule) >= 0.20
+perl(Module::Install::Metadata)
+perl(Test::More) >= 0.47
+perl(Text::Glob) >= 0.08
+perl(constant)
+perl(inc::Module::Install::DSL) >= 1.00
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

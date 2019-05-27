@@ -1,0 +1,12 @@
+python2-devel
+python2-extras
+python2-fixtures
+python2-setuptools
+python2-subunit
+python2-testtools
+python3-devel
+python3-extras
+python3-fixtures
+python3-setuptools
+python3-subunit
+python3-testtools

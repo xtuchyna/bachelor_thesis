@@ -1,0 +1,7 @@
+autoconf
+automake
+libICE-devel
+libX11-devel
+libXext-devel
+libXmu-devel
+libtool

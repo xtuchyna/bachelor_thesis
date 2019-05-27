@@ -1,0 +1,35 @@
+coreutils
+findutils
+make
+perl(Benchmark)
+perl(Carp)
+perl(Class::Loader) >= 2.00
+perl(Convert::ASCII::Armour)
+perl(Crypt::Blowfish)
+perl(Crypt::CBC)
+perl(Crypt::Primes) >= 0.38
+perl(Crypt::Random) >= 0.34
+perl(Cwd)
+perl(Data::Buffer)
+perl(Data::Dumper)
+perl(Digest::MD2)
+perl(Digest::MD5)
+perl(Digest::SHA1)
+perl(Exporter)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Path)
+perl(FindBin)
+perl(MIME::Base64)
+perl(Math::Pari) >= 2.001804
+perl(Sort::Versions)
+perl(Tie::EncryptedHash)
+perl(base)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

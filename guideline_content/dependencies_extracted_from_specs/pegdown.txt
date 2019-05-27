@@ -1,0 +1,4 @@
+maven-local
+mvn(net.sf.jtidy:jtidy)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.parboiled:parboiled-java)

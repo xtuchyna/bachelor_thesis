@@ -1,0 +1,13 @@
+perl(Carp)
+perl(Digest::SHA)
+perl(Exporter)
+perl(JSON)
+perl(MIME::Base64)
+perl(Module::Build)
+perl(Module::Runtime)
+perl(Test::Mock::Guard) >= 0.07
+perl(Test::More) >= 0.98
+perl(Test::Requires) >= 0.06
+perl(parent)
+perl-generators
+perl-interpreter >= 5.008001

@@ -1,0 +1,8 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Tie::Array)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

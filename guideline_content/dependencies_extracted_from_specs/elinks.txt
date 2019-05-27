@@ -1,0 +1,11 @@
+automake
+bzip2-devel
+expat-devel
+gcc
+gpm-devel
+krb5-devel
+libidn2-devel
+lua-devel
+openssl-devel
+pkgconfig
+zlib-devel

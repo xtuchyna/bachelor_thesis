@@ -1,0 +1,6 @@
+chrpath
+gcc-c++
+gettext
+ncurses-devel
+perl-interpreter
+pkgconfig

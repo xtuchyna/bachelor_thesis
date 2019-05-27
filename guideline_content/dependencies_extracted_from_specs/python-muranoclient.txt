@@ -1,0 +1,5 @@
+python-oslo-sphinx >= 2.3.0
+python-pbr >= 1.6
+python-setuptools
+python-sphinx
+python2-devel

@@ -1,0 +1,15 @@
+cmake
+desktop-file-utils
+extra-cmake-modules
+gcc-c++
+kf5-kwallet-devel
+kf5-rpm-macros
+libappstream-glib
+openssl-devel
+pkgconfig(gnome-keyring-1)
+qt5-linguist >= 5.9
+qt5-qtbase-devel >= 5.9
+qt5-qtwebengine-devel >= 5.9
+qt5-qtx11extras-devel >= 5.9
+qtsingleapplication-qt5-devel
+xcb-util-devel

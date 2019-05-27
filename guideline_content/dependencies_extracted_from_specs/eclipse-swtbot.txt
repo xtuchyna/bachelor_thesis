@@ -1,0 +1,8 @@
+cbi-plugins
+eclipse-gef
+eclipse-license
+eclipse-pde
+hamcrest
+log4j12
+tycho
+tycho-extras

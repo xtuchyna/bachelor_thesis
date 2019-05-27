@@ -1,0 +1,8 @@
+python2-cpuinfo
+python2-devel
+python2-pathlib
+python2-pytest
+python2-statistics
+python3-cpuinfo
+python3-devel
+python3-pytest

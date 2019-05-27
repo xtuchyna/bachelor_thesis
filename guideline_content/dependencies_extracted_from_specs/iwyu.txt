@@ -1,0 +1,7 @@
+clang-devel >= 4.0
+cmake
+llvm-devel
+llvm-static
+ncurses-devel
+python2-devel
+zlib-devel

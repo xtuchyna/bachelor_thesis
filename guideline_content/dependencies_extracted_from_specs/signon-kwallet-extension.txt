@@ -1,0 +1,5 @@
+extra-cmake-modules
+kf5-kwallet-devel
+kf5-rpm-macros
+qt5-qtbase-devel
+signon-devel

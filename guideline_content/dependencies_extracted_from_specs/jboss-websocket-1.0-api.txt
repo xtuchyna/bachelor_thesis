@@ -1,0 +1,5 @@
+felix-osgi-foundation
+felix-parent
+jboss-parent
+maven-local
+maven-plugin-bundle

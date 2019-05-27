@@ -1,0 +1,10 @@
+R-BiocGenerics >= 0.13.8
+R-GenomeInfoDbData
+R-IRanges-devel >= 1.99.26
+R-RCurl
+R-S4Vectors-devel >= 0.9.25
+R-devel >= 3.1.0
+R-methods
+R-stats
+R-stats4
+R-utils

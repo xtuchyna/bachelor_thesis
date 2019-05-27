@@ -1,0 +1,13 @@
+SDL2-devel
+SDL2_mixer-devel
+SDL2_ttf-devel
+doxygen
+freetype-devel
+gcc-c++
+graphviz
+libogg-devel
+libpng-devel
+libvorbis-devel
+libxml2-devel
+python3-devel
+swig

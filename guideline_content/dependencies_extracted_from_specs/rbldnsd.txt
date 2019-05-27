@@ -1,0 +1,7 @@
+coreutils
+gawk
+gcc
+make
+sed
+systemd
+zlib-devel

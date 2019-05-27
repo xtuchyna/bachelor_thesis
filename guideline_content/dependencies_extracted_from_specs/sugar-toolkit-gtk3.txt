@@ -1,0 +1,12 @@
+alsa-lib-devel
+gettext-devel
+gobject-introspection-devel
+gtk3-devel
+intltool
+libSM-devel
+librsvg2-devel
+perl-XML-Parser
+pkgconfig
+pygobject2-devel
+pygtk2-codegen
+python2-devel

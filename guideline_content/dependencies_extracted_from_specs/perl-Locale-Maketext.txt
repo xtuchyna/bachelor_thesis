@@ -1,0 +1,17 @@
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(I18N::LangTags) >= 0.31
+perl(I18N::LangTags::Detect)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(integer)
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

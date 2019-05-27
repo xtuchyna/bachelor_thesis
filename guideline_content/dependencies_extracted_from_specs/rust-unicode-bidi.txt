@@ -1,0 +1,4 @@
+(crate(matches) >= 0.1.0 with crate(matches) < 0.2.0)
+(crate(serde) >= 0.8.0 with crate(serde) < 2.0.0 with crate(serde/derive))
+(crate(serde_test) >= 0.8.0 with crate(serde_test) < 2.0.0)
+rust-packaging

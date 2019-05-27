@@ -1,0 +1,8 @@
+autoconf
+automake
+check-devel
+doxygen
+git
+libtool
+m4
+pkgconfig

@@ -1,0 +1,15 @@
+ghc-Cabal-devel
+ghc-base-orphans-devel
+ghc-bifunctors-devel
+ghc-cabal-doctest-devel
+ghc-comonad-devel
+ghc-containers-devel
+ghc-contravariant-devel
+ghc-distributive-devel
+ghc-hashable-devel
+ghc-rpm-macros
+ghc-semigroups-devel
+ghc-tagged-devel
+ghc-transformers-compat-devel
+ghc-transformers-devel
+ghc-unordered-containers-devel

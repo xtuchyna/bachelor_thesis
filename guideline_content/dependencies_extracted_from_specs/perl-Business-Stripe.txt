@@ -1,0 +1,11 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

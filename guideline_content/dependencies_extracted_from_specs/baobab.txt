@@ -1,0 +1,7 @@
+/usr/bin/appstream-util
+desktop-file-utils
+gettext
+itstool
+meson
+pkgconfig(gtk+-3.0) >= 3.19.1
+vala

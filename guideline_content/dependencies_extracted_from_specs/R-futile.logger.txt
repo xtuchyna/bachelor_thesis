@@ -1,0 +1,6 @@
+R-devel >= 3.0.0
+R-futile.options
+R-lambda.r >= 1.1.0
+R-testthat
+R-utils
+tetex-latex

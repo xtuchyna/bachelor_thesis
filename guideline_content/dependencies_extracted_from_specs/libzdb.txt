@@ -1,0 +1,6 @@
+flex
+mariadb-connector-c-devel
+openssl-devel
+pkgconfig
+postgresql-devel >= 8
+sqlite-devel >= 3.6.12

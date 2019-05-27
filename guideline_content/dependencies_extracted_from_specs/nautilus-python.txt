@@ -1,0 +1,7 @@
+autoconf
+automake
+gtk-doc
+libtool
+nautilus-devel
+pygobject3-devel
+python-devel

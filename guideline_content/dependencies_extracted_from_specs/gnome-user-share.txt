@@ -1,0 +1,14 @@
+dbus-glib-devel
+desktop-file-utils
+gettext
+gnome-bluetooth-libs-devel
+gtk3-devel
+httpd
+intltool
+itstool
+libcanberra-devel
+libnotify-devel
+libselinux-devel
+mod_dnssd
+nautilus-devel
+systemd-devel

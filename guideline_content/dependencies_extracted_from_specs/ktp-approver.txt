@@ -1,0 +1,10 @@
+extra-cmake-modules
+gettext
+kf5-kconfig-devel
+kf5-kdbusaddons-devel
+kf5-ki18n-devel
+kf5-knotifications-devel
+kf5-kservice-devel
+kf5-rpm-macros
+qt5-qtbase-devel
+telepathy-qt5-devel

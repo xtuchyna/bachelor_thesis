@@ -1,0 +1,14 @@
+nodejs-packaging
+npm(archiver-utils)
+npm(async) >= 1.5.0
+npm(chai)
+npm(lazystream)
+npm(lodash)
+npm(mkdirp)
+npm(mocha)
+npm(readable-stream)
+npm(rimraf)
+npm(tar)
+npm(tar-stream)
+npm(yauzl)
+npm(zip-stream)

@@ -1,0 +1,31 @@
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Path)
+perl(Getopt::Long)
+perl(Inline) >= 0.46
+perl(Inline::denter)
+perl(JSON)
+perl(POSIX)
+perl(Parse::RecDescent)
+perl(Proc::ProcessTable) >= 0.53
+perl(Test)
+perl(Test::Deep)
+perl(Test::More)
+perl(Test::Number::Delta)
+perl(Test::Simple)
+perl(base)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+python-devel >= 2.5

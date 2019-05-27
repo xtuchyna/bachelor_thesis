@@ -1,0 +1,7 @@
+/usr/bin/pod2man
+cmake
+desktop-file-utils
+gettext
+pkgconfig(glib-2.0) >= 2.20
+pkgconfig(gtk+-3.0)
+pkgconfig(vte-2.90)

@@ -1,0 +1,4 @@
+boost-devel
+cmake
+doxygen
+gcc-c++

@@ -1,0 +1,6 @@
+cmake
+compat-openssl10-devel
+doxygen
+gcc-c++
+graphviz-gd
+make

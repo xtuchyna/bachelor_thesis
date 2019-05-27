@@ -1,0 +1,12 @@
+pytest
+python2-devel
+python2-ipython_genutils
+python2-jsonschema
+python2-jupyter_core
+python2-traitlets
+python3-devel
+python3-ipython_genutils
+python3-jsonschema
+python3-jupyter_core
+python3-pytest
+python3-traitlets

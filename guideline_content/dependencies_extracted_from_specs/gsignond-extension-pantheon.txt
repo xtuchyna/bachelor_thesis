@@ -1,0 +1,8 @@
+cmake
+pkgconfig(glib-2.0)
+pkgconfig(gsignond)
+pkgconfig(libaccounts-glib)
+pkgconfig(libgsignon-glib)
+pkgconfig(libnotify)
+pkgconfig(libsecret-1)
+vala >= 0.21.2

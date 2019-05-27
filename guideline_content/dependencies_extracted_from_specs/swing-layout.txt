@@ -1,0 +1,4 @@
+ant
+dos2unix
+java-devel >= 1.3
+jpackage-utils >= 1.6

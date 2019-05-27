@@ -1,0 +1,4 @@
+fontpackages-devel
+git
+libappstream-glib
+sed

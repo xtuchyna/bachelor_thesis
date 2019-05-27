@@ -1,0 +1,4 @@
+ruby(release)
+rubygem(bacon)
+rubygem(minitest)
+rubygems-devel

@@ -1,0 +1,5 @@
+boost-devel
+dia
+libreoffice-sdk
+pkgconfig(zlib)
+zip

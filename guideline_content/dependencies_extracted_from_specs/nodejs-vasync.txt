@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(nodeunit)
+npm(tap)
+npm(verror)

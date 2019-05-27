@@ -1,0 +1,3 @@
+jetty-toolchain
+maven-local
+maven-surefire-provider-junit

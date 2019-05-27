@@ -1,0 +1,8 @@
+eclipse-cdt
+eclipse-egit
+eclipse-license
+eclipse-remote
+eclipse-rse
+maven-local
+rxtx >= 2.2-0.15
+tycho-extras

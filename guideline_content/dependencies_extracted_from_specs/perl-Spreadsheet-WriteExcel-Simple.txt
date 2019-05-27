@@ -1,0 +1,8 @@
+perl(ExtUtils::MakeMaker)
+perl(IO::Scalar) >= 1.126
+perl(Spreadsheet::ParseExcel)
+perl(Spreadsheet::WriteExcel) >= 0.31
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl-generators

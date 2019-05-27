@@ -1,0 +1,12 @@
+ant
+apache-commons-lang
+axis
+glite-jobid-api-java
+glite-lb-types
+glite-lb-ws-interface
+libtool
+log4j
+maven-local
+perl(Getopt::Long)
+perl(POSIX)
+perl-interpreter

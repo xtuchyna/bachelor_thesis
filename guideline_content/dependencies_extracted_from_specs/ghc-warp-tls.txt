@@ -1,0 +1,11 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-cryptonite-devel
+ghc-data-default-class-devel
+ghc-network-devel
+ghc-rpm-macros
+ghc-streaming-commons-devel
+ghc-tls-devel
+ghc-tls-session-manager-devel
+ghc-wai-devel
+ghc-warp-devel

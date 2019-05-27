@@ -1,0 +1,35 @@
+coreutils
+findutils
+make
+openssl >= 0.9.8
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(FindBin)
+perl(HTTP::Tiny)
+perl(IO::Select)
+perl(IO::Socket)
+perl(IO::Socket::INET)
+perl(IO::Socket::INET6) >= 2.62
+perl(IO::Socket::IP) >= 0.20
+perl(Net::IDN::Encode)
+perl(Net::LibIDN)
+perl(Net::SSLeay) >= 1.46
+perl(Scalar::Util)
+perl(Socket)
+perl(Socket) >= 1.95
+perl(Socket6)
+perl(Test::More) >= 0.88
+perl(URI::_idna)
+perl(constant)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+procps

@@ -1,0 +1,8 @@
+doxygen
+glibmm24-devel >= 2.21.1
+graphviz
+gstreamer1-devel
+gstreamer1-plugins-base-devel
+gtkmm30-devel >= 3.0
+libxml++-devel >= 2.14.0
+m4

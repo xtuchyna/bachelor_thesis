@@ -1,0 +1,3 @@
+maven-local
+mvn(org.apache.felix:felix-parent:pom:)
+mvn(org.apache.felix:org.apache.felix.scr.generator)

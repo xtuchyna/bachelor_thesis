@@ -1,0 +1,14 @@
+/usr/bin/iconv
+perl(Carp)
+perl(DBD::SQLite)
+perl(DBI) >= 1.21
+perl(DateTime) >= 0.1
+perl(DateTime::Format::SQLite)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

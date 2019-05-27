@@ -1,0 +1,5 @@
+erlang-lager
+erlang-lucene_parser
+erlang-merge_index
+erlang-rebar
+erlang-riak_kv

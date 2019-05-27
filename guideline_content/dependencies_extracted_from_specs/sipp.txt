@@ -1,0 +1,10 @@
+autoconf
+autoconf-archive
+automake
+gmock-devel
+gtest-devel
+libpcap-devel
+libtool
+lksctp-tools-devel
+ncurses-devel
+pkgconfig(openssl) < 1.1.0

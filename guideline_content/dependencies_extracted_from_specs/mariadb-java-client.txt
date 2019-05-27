@@ -1,0 +1,8 @@
+maven-local
+mvn(com.google.code.maven-replacer-plugin:replacer)
+mvn(net.java.dev.jna:jna)
+mvn(net.java.dev.jna:jna-platform)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-javadoc-plugin)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.sonatype.oss:oss-parent:pom:)

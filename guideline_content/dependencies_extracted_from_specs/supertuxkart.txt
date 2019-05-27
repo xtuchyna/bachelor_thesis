@@ -1,0 +1,20 @@
+angelscript-devel
+bluez-libs-devel
+cmake
+desktop-file-utils
+fontpackages-devel
+freealut-devel >= 1.1.0-10
+freeglut-devel
+freetype-devel
+fribidi-devel
+git-core
+libXrandr-devel
+libcurl-devel
+libjpeg-turbo-devel
+libpng-devel
+libtool
+libvorbis-devel
+openal-soft-devel
+pkgconfig(glew)
+pkgconfig(libenet)
+wiiuse-devel

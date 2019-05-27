@@ -1,0 +1,2 @@
+mono-devel
+ndesk-dbus-devel >= 0.6.1a-7

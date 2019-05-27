@@ -1,0 +1,10 @@
+python-d2to1
+python-pbr
+python-requests >= 2.5.2
+python-setuptools
+python2-devel
+python3-d2to1
+python3-devel
+python3-pbr
+python3-requests >= 2.5.2
+python3-setuptools

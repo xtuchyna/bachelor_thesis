@@ -1,0 +1,4 @@
+freeglut-devel
+gcc-c++
+readline-devel
+saclib-devel

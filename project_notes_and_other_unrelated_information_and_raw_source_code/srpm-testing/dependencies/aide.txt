@@ -1,0 +1,19 @@
+audit-libs-devel
+autoconf
+automake
+bison
+e2fsprogs-devel
+flex
+gcc
+libacl-devel
+libattr-devel
+libcurl-devel
+libgcrypt-devel
+libgpg-error-devel
+libtool
+make
+pcre-devel
+pkgconfig(libselinux)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+zlib-devel

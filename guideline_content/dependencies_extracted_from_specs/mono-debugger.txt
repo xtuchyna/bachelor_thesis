@@ -1,0 +1,9 @@
+autoconf
+automake
+libtool
+mono-cecil-devel
+mono-devel >= 2.8.1
+ncurses-devel
+nunit2-devel
+readline-devel
+xsp-devel

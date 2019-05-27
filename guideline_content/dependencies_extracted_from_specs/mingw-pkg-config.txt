@@ -1,0 +1,3 @@
+glib2-devel
+mingw32-filesystem >= 95
+mingw64-filesystem >= 95

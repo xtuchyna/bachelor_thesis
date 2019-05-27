@@ -1,0 +1,9 @@
+perl(CGI)
+perl(CGI::Application)
+perl(Data::FormValidator)
+perl(HTML::FillInForm)
+perl(HTML::Parser)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

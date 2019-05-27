@@ -1,0 +1,8 @@
+desktop-file-utils
+libappstream-glib
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Widgets)
+pkgconfig(Qt5X11Extras)
+pkgconfig(lxqt) >= 0.11.0
+pkgconfig(qtermwidget5) = 0.7.1
+qt5-qttools-devel

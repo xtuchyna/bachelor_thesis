@@ -1,0 +1,7 @@
+autoconf
+check-devel
+doxygen
+gcc-objc
+gnustep-base-devel
+openldap-devel
+re2c

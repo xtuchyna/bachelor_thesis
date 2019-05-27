@@ -1,0 +1,5 @@
+compiler(go-compiler)
+golang(github.com/kr/fs)
+golang(github.com/kr/pretty)
+golang(github.com/pmezard/go-difflib/difflib)
+golang(golang.org/x/tools/go/vcs)

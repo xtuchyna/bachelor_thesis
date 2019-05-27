@@ -1,0 +1,12 @@
+coreutils
+perl(Carp)
+perl(Date::ISO8601)
+perl(Module::Build)
+perl(Params::Classify)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

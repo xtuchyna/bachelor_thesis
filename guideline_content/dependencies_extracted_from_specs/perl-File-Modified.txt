@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(Digest::MD2)
+perl(Digest::MD5)
+perl(Digest::SHA1)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

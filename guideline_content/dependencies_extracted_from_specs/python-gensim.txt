@@ -1,0 +1,16 @@
+Cython
+fdupes
+numpy
+python-nose
+python-setuptools
+python-six
+python-sphinx
+python2-devel
+python3-Cython
+python3-devel
+python3-nose
+python3-numpy
+python3-scipy
+python3-setuptools
+python3-six
+scipy

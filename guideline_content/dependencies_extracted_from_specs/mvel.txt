@@ -1,0 +1,8 @@
+maven-local
+mvn(com.thoughtworks.xstream:xstream)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.apache.maven.plugins:maven-surefire-report-plugin)
+mvn(org.ow2.asm:asm)
+mvn(org.ow2.asm:asm-util)

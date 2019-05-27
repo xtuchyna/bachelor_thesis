@@ -1,0 +1,11 @@
+perl(CGI)
+perl(CGI::Application)
+perl(Data::Random)
+perl(Digest::SHA1)
+perl(GD::SecurityImage)
+perl(HTTP::Server::Simple::CGI)
+perl(Module::Build)
+perl(Test::Exception)
+perl(Test::Pod)
+perl(Test::WWW::Mechanize)
+perl-generators

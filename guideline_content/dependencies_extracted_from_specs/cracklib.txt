@@ -1,0 +1,7 @@
+gcc
+gettext
+gettext-autopoint
+python2-devel
+words
+words >= 2-13
+zlib-devel

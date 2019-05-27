@@ -1,0 +1,3 @@
+desktop-file-utils
+pkgconfig(gtk+-3.0)
+pkgconfig(libnotify)

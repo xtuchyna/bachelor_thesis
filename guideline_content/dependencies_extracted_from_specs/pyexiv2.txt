@@ -1,0 +1,5 @@
+boost-devel
+exiv2-devel
+python-devel
+pytz
+scons

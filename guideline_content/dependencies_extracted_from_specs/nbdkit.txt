@@ -1,0 +1,18 @@
+/usr/bin/certtool
+/usr/bin/pod2man
+/usr/bin/qemu-img
+/usr/bin/socat
+/usr/sbin/ss
+gnutls-devel
+libcurl-devel
+libguestfs-devel
+libselinux-devel
+libvirt-devel
+ocaml >= 4.02.2
+perl(ExtUtils::Embed)
+perl-devel
+python2-devel
+python3-devel
+ruby-devel
+xz-devel
+zlib-devel

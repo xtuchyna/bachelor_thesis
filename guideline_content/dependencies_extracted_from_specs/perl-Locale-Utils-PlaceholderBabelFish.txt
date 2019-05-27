@@ -1,0 +1,27 @@
+make
+perl(:VERSION) >= 5.6
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(English)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find)
+perl(HTML::Entities)
+perl(List::Util)
+perl(Moo) >= 1.003001
+perl(MooX::StrictConstructor)
+perl(MooX::Types::MooseLike::Base)
+perl(Scalar::Util)
+perl(Test::Differences) >= 0.60
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(charnames)
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

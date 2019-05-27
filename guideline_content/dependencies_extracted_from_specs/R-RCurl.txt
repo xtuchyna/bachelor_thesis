@@ -1,0 +1,6 @@
+R-Rcompression
+R-XML
+R-bitops
+R-devel >= 3.4.0
+R-methods
+libcurl-devel

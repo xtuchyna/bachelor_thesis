@@ -1,0 +1,11 @@
+diffmark-devel
+libxml2-devel
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test)
+perl(Test::More)
+perl(XML::LibXML) >= 1.70
+perl(XSLoader)
+perl-devel
+perl-generators
+perl-interpreter

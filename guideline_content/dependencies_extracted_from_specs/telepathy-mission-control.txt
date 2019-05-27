@@ -1,0 +1,10 @@
+NetworkManager-libnm-devel
+chrpath
+glib2-devel
+gtk-doc
+libxslt-devel
+pkgconfig
+pygobject2
+python2-dbus
+python2-twisted
+telepathy-glib-devel >= 0.17.5

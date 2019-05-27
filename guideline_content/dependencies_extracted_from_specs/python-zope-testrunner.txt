@@ -1,0 +1,15 @@
+help2man
+python2-devel
+python2-fixtures
+python2-setuptools
+python2-six
+python2-zope-exceptions
+python2-zope-interface
+python2-zope-testing
+python3-devel
+python3-fixtures
+python3-setuptools
+python3-six
+python3-zope-exceptions
+python3-zope-interface
+python3-zope-testing

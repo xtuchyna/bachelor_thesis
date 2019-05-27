@@ -1,0 +1,4 @@
+db4-devel
+glib2-devel
+libpcap-devel
+ncurses-devel

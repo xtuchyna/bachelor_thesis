@@ -1,0 +1,8 @@
+automake
+gcc-gfortran
+jasper-devel
+libpng-devel
+libtool
+netcdf-devel
+numpy
+python2-devel

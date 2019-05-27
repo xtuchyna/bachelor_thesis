@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(:VERSION) >= 5.8
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.64
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(IO::Handle)
+perl(Test::More) >= 0.94
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

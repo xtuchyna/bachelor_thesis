@@ -1,0 +1,5 @@
+php(language) >= 5.3.0
+php-channel(pear.horde.org)
+php-pear(PEAR)
+php-pear(pear.horde.org/Horde_Db) >= 2.0.0
+php-pear(pear.horde.org/Horde_Test) >= 2.1.0

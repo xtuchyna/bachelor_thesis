@@ -1,0 +1,10 @@
+alsa-lib-devel
+clthreads-devel
+clxclient-devel >= 3.9.0
+desktop-file-utils
+fftw-devel
+gcc-c++
+jack-audio-connection-kit-devel
+libX11-devel
+libXft-devel
+zita-alsa-pcmi-devel

@@ -1,0 +1,13 @@
+python-testtools >= 0.9.34
+python-vcrpy
+python2-devel
+python2-requests
+python2-setuptools
+python2-six
+python3-devel
+python3-requests
+python3-setuptools
+python3-six
+python3-testtools >= 0.9.34
+python3-vcrpy
+python3-yarl

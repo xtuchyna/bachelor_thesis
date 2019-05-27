@@ -1,0 +1,3 @@
+gettext
+glib2-devel >= 2.31.2
+gobject-introspection-devel >= 0.9.6

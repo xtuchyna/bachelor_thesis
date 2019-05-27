@@ -1,0 +1,19 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Errno)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Pod::Coverage::TrustPod)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::TCP)
+perl(Time::HiRes)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

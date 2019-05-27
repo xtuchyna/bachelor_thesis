@@ -1,0 +1,13 @@
+/usr/bin/make
+/usr/bin/perl
+perl(Class::Inspector) >= 1.12
+perl(Config::Tiny) >= 2.00
+perl(ExtUtils::MakeMaker)
+perl(File::Spec) >= 0.83
+perl(Params::Util) >= 1.00
+perl(Test::CPAN::Meta) >= 0.12
+perl(Test::More) >= 0.47
+perl(Test::Pod)
+perl(strict)
+perl(vars)
+perl-generators

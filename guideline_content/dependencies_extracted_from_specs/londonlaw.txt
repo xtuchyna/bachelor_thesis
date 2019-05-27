@@ -1,0 +1,7 @@
+ImageMagick
+desktop-file-utils
+ghostscript
+python-devel
+tex(fullpage.sty)
+tex(latex)
+wxPython

@@ -1,0 +1,10 @@
+autoconf
+bison
+flex
+java-devel
+perl(Config)
+perl(ExtUtils::MakeMaker)
+perl-devel
+perl-generators
+python
+python-devel

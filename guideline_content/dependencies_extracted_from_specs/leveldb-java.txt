@@ -1,0 +1,6 @@
+maven-enforcer-plugin
+maven-local
+maven-site-plugin
+maven-surefire-provider-testng
+mvn(com.google.guava:guava)
+mvn(org.xerial.snappy:snappy-java)

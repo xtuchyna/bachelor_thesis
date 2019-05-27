@@ -1,0 +1,6 @@
+(python2-ipython >= 5.0.0 with python2-ipython < 6)
+python2-devel
+python2-setuptools
+python3-devel
+python3-ipython
+python3-setuptools

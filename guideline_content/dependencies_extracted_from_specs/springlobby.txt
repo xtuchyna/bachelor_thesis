@@ -1,0 +1,14 @@
+SDL-devel
+SDL_mixer-devel
+SDL_sound-devel
+alure-devel
+boost-devel
+cmake
+desktop-file-utils
+dumb-devel
+gettext
+libcurl-devel
+openal-devel
+pkgconfig
+rb_libtorrent-devel
+wxGTK-devel

@@ -1,0 +1,9 @@
+nodejs-packaging
+npm(colors)
+npm(corser)
+npm(ecstatic)
+npm(http-proxy)
+npm(opener)
+npm(optimist)
+npm(portfinder)
+npm(union)

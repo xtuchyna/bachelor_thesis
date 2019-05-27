@@ -1,0 +1,11 @@
+ImageMagick
+ant
+desktop-file-utils
+libappstream-glib
+maven-local
+mvn(edu.ucar:cdm)
+mvn(gov.nasa.gsfc.heasarc:nom-tam-fits)
+mvn(org.hdfgroup:jhdf) >= 3.2.1
+mvn(org.hdfgroup:jhdf5) >= 3.2.1
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-nop)

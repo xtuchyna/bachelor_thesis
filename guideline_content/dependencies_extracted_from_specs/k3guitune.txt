@@ -1,0 +1,6 @@
+alsa-lib-devel
+bio2jack-devel
+desktop-file-utils
+fftw-devel
+gettext
+kdelibs3-devel

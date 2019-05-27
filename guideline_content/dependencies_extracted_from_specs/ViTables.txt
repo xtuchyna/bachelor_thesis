@@ -1,0 +1,5 @@
+hdf5-devel
+python2-devel
+python2-numpy
+python2-sphinx
+python2-tables

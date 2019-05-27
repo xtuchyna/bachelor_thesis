@@ -1,0 +1,5 @@
+autoconf
+automake
+gcc
+libao-devel
+systemd-units

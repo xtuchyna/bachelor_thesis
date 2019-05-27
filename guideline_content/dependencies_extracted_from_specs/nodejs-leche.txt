@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(chai)
+npm(mocha)
+npm(sinon)
+npm(uri-js)

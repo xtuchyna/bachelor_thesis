@@ -1,0 +1,3 @@
+autoconf
+automake
+gcc-c++

@@ -1,0 +1,13 @@
+(rust >= 1.24.0 with rust <= 1.25.0)
+cargo >= 0.25.0
+cmake >= 2.8.7
+curl
+gcc
+gcc-c++
+gdb
+llvm-devel >= 3.9
+make
+ncurses-devel
+procps-ng
+python3
+zlib-devel

@@ -1,0 +1,6 @@
+autoconf
+automake
+gcc-c++
+java-devel
+libtool
+ruby-devel

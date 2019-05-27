@@ -1,0 +1,17 @@
+desktop-file-utils
+enchant-devel
+gettext
+gmime-devel >= 2.5.1
+gnome-doc-utils
+gpgme-devel
+gtkspell3-devel
+intltool
+libesmtp-devel >= 1.0.6
+libnotify-devel
+libsecret-devel
+libtool
+openssl-devel
+rarian-compat
+unique-devel
+webkitgtk4-devel
+yelp-tools

@@ -1,0 +1,12 @@
+antlr-C++
+cmake
+desktop-file-utils
+gcc-c++
+libappstream-glib
+make
+qcustomplot-qt5-devel
+qhexedit2-qt5-devel
+qscintilla-qt5-devel
+qt5-qtbase-devel
+qt5-qttools-devel
+sqlite-devel

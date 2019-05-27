@@ -1,0 +1,10 @@
+fedmsg >= 0.16.2
+python2-alembic >= 0.8.3
+python2-devel
+python2-flask >= 0.10.1
+python2-flask-restful >= 0.2.11
+python2-flask-sqlalchemy >= 2.0
+python2-iso8601 >= 0.1.10
+python2-pytest
+python2-pytest-cov
+python2-setuptools

@@ -1,0 +1,8 @@
+perl(ExtUtils::CBuilder)
+perl(Module::Build)
+perl(Test::Exception)
+perl(Test::Fatal)
+perl(Test::More)
+perl(Test::Pod)
+perl-devel
+perl-generators

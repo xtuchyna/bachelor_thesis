@@ -1,0 +1,10 @@
+coreutils
+flex
+gcc
+gettext
+glib-devel
+glibc-static
+libtool
+make
+pkgconfig
+sed

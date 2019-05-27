@@ -1,0 +1,14 @@
+make
+perl(:VERSION) >= 5.8
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More) >= 0.96
+perl(Test::TypeTiny)
+perl(Type::Library)
+perl(Type::Tiny) >= 1.000000
+perl(Types::Standard)
+perl(URI)
+perl(UUID::Tiny) >= 1.02
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

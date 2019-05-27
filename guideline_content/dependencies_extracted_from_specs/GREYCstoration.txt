@@ -1,0 +1,7 @@
+desktop-file-utils
+fftw-devel
+gimp
+gimp-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel

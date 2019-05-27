@@ -1,0 +1,6 @@
+autoconf
+automake
+glib2-devel
+libtool
+pkgconfig
+tfdocgen

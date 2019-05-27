@@ -1,0 +1,8 @@
+arm-none-eabi-binutils >= 2.21
+arm-none-eabi-newlib
+autogen
+flex
+gmp-devel
+libmpc-devel
+mpfr-devel
+zlib-devel

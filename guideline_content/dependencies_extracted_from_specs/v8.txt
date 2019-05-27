@@ -1,0 +1,8 @@
+clang
+glib2-devel
+libatomic
+libicu-devel
+llvm
+ninja-build
+python2-devel
+readline-devel

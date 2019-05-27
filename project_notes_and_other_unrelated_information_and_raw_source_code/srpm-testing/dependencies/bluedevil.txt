@@ -1,0 +1,19 @@
+desktop-file-utils
+extra-cmake-modules
+kf5-bluez-qt-devel >= 5.11
+kf5-kcoreaddons-devel
+kf5-kdbusaddons-devel
+kf5-kded-devel
+kf5-ki18n-devel
+kf5-kiconthemes-devel
+kf5-kio-devel
+kf5-knotifications-devel
+kf5-kwidgetsaddons-devel
+kf5-kwindowsystem-devel
+kf5-plasma-devel
+kf5-rpm-macros >= 5.25.0-2
+qt5-qtbase-devel
+qt5-qtdeclarative-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+shared-mime-info

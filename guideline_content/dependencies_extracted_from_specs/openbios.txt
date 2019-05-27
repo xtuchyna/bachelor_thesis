@@ -1,0 +1,4 @@
+fcode-utils
+gcc-powerpc64-linux-gnu
+gcc-sparc64-linux-gnu
+libxslt

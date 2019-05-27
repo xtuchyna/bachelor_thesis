@@ -1,0 +1,12 @@
+SDL_gfx-devel
+SDL_image-devel
+SDL_mixer-devel
+SDL_net-devel
+SDL_ttf-devel
+desktop-file-utils
+gettext
+guichan-devel
+libcurl-devel
+libpng-devel
+physfs-devel
+pkgconfig(libxml-2.0)

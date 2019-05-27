@@ -1,0 +1,4 @@
+automake
+avahi-qt3-devel
+kdelibs3-devel
+libtool

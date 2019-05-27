@@ -1,0 +1,76 @@
+baekmuk-ttf-batang-fonts
+cjkuni-uming-fonts
+desktop-file-utils
+docbook-style-xsl >= 1.77.1
+docbook5-schemas
+docbook5-style-xsl >= 1.78.1
+fop
+gettext
+ipa-gothic-fonts
+ipa-pgothic-fonts
+liberation-mono-fonts
+liberation-sans-fonts
+liberation-serif-fonts
+libicu-devel
+lklug-fonts
+perl(Archive::Tar) >= 1.84
+perl(Archive::Zip)
+perl(Carp)
+perl(Compress::Zlib) >= 2.030
+perl(Config::Simple)
+perl(Cwd)
+perl(DBD::SQLite)
+perl(DBI)
+perl(DateTime)
+perl(DateTime::Format::DateParse)
+perl(Devel::Cover)
+perl(Encode)
+perl(File::Basename)
+perl(File::Copy::Recursive) >= 0.38
+perl(File::Find)
+perl(File::Find::Rule)
+perl(File::HomeDir)
+perl(File::Inplace)
+perl(File::Path)
+perl(File::Slurp)
+perl(File::Spec)
+perl(File::Which)
+perl(File::pushd)
+perl(Getopt::Long)
+perl(HTML::FormatText)
+perl(HTML::FormatText::WithLinks)
+perl(HTML::FormatText::WithLinks::AndTables) >= 0.02
+perl(HTML::TreeBuilder)
+perl(HTML::WikiConverter::Markdown) >= 0.06
+perl(I18N::LangTags::List)
+perl(IO::String)
+perl(Lingua::EN::Fathom)
+perl(List::MoreUtils)
+perl(List::Util)
+perl(Locale::Language)
+perl(Locale::Maketext::Gettext) >= 1.27
+perl(Locale::Maketext::Lexicon)
+perl(Locale::Msgfmt)
+perl(Locale::PO) >= 0.24
+perl(Module::Build)
+perl(Pod::Usage)
+perl(Sort::Versions)
+perl(String::Similarity)
+perl(Syntax::Highlight::Engine::Kate) >= 0.09
+perl(Template)
+perl(Template::Constants)
+perl(Term::ANSIColor)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Text::CSV_XS)
+perl(Text::Wrap)
+perl(Time::localtime)
+perl(XML::LibXML) >= 1.70
+perl(XML::LibXSLT) >= 1.70
+perl(XML::Simple)
+perl(XML::TreeBuilder) >= 5.4
+perl(version) >= 0.77
+perl-XML-TreeBuilder >= 5.4
+perl-generators
+rpm-build

@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(Archive::Extract) >= 0.12
+perl(Carp)
+perl(File::Path)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::More) >= 0.42
+perl(inc::Module::Install)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter
+sed

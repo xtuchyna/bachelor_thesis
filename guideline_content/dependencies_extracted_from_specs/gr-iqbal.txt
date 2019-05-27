@@ -1,0 +1,7 @@
+cmake
+doxygen
+fftw-devel
+gnuradio-devel
+graphviz
+libosmo-dsp-devel
+swig

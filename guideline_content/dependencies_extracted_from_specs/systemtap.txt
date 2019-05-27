@@ -1,0 +1,34 @@
+/usr/bin/dvips
+/usr/bin/latex
+/usr/bin/ps2pdf
+avahi-devel
+crash-devel
+dyninst-devel >= 8.0
+elfutils-devel >= 0.142
+emacs
+gcc-c++
+gettext-devel
+java-devel
+jpackage-utils
+latex2html
+nss-devel
+pkgconfig(avahi-client)
+pkgconfig(json-c)
+pkgconfig(libselinux)
+pkgconfig(libvirt)
+pkgconfig(libxml-2.0)
+pkgconfig(ncurses)
+pkgconfig(nss)
+python-devel
+python-setuptools
+python3-devel
+python3-setuptools
+readline-devel
+rpm-devel
+sqlite-devel > 3.7
+systemd
+tex(bchr7t.tfm)
+tex(fancybox.sty)
+tex(fullpage.sty)
+tex(graphicx.sty)
+zlib-devel

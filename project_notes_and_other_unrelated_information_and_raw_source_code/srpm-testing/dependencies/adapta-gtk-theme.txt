@@ -1,0 +1,12 @@
+autoconf
+automake
+fdupes
+inkscape >= 0.91
+parallel
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(libxml-2.0)
+procps-ng
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+sassc >= 3.3

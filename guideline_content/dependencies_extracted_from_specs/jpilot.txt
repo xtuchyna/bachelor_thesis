@@ -1,0 +1,7 @@
+gettext
+gtk2-devel >= 2.0.3
+intltool
+openssl-devel
+perl-XML-Parser
+pilot-link >= 0.12.5
+pilot-link-devel

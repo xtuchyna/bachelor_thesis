@@ -1,0 +1,7 @@
+/usr/bin/phpunit6
+php(language) >= 5.6
+php-autoloader(zendframework/zend-json) >= 2.6.1
+php-autoloader(zendframework/zendxml) >= 1.0.2
+php-fedora-autoloader-devel
+php-pcre
+php-spl

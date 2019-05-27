@@ -1,0 +1,2 @@
+doxygen
+globus-common-devel >= 15

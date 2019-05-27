@@ -1,0 +1,21 @@
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(DynaLoader)
+perl(Env)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(Test::More)
+perl(base)
+perl(blib)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(subs)
+perl(utf8)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter
+xerces-c27-devel >= 2.7.0

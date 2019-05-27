@@ -1,0 +1,7 @@
+clutter-gtk-devel
+desktop-file-utils
+gtk3-devel
+intltool
+itstool
+librsvg2-devel
+vala

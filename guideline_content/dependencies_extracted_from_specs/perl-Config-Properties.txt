@@ -1,0 +1,17 @@
+coreutils
+findutils
+glibc-common
+make
+perl(Carp)
+perl(Errno)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(IO::Handle)
+perl(PerlIO)
+perl(Test::More)
+perl(Text::Wrap) >= 2001.0929
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+desktop-file-utils
+kf5-kwindowsystem-devel
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Xdg) >= 2.0.0
+pkgconfig(glib-2.0) >= 2.0
+pkgconfig(libpulse) >= 5.0
+pkgconfig(lxqt) >= 0.11.0
+qt5-linguist

@@ -1,0 +1,14 @@
+ruby
+ruby(release)
+rubygem(launchy)
+rubygem(mime-types)
+rubygem(minitest)
+rubygem(nokogiri)
+rubygem(pry)
+rubygem(puma)
+rubygem(rack-test)
+rubygem(rspec)
+rubygem(selenium-webdriver)
+rubygem(sinatra)
+rubygem(xpath)
+rubygems-devel

@@ -1,0 +1,5 @@
+compiler(go-compiler)
+golang(github.com/blang/semver)
+golang(github.com/urfave/cli)
+golang(golang.org/x/net/html/charset)
+golang(golang.org/x/text/transform)

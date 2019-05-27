@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(domhandler)
+npm(domutils)
+npm(entities)
+npm(mocha)

@@ -1,0 +1,6 @@
+dos2unix
+gd-devel
+ghostscript
+libEMF-devel
+libpng-devel
+plotutils-devel

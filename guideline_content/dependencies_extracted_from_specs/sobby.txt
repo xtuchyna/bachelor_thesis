@@ -1,0 +1,5 @@
+avahi-devel
+avahi-glib-devel
+glibmm24-devel
+libxml++-devel
+obby-devel

@@ -1,0 +1,7 @@
+maven-local
+mvn(javassist:javassist)
+mvn(junit:junit)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven:maven-core)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.jboss:jboss-parent:pom:)

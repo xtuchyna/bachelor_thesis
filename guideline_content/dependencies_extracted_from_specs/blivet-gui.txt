@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext >= 0.18.3
+libappstream-glib
+python3-devel
+python3-setuptools

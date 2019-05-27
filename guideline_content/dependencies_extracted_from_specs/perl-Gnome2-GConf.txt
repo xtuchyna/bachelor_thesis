@@ -1,0 +1,25 @@
+coreutils
+dbus-x11
+findutils
+font(:lang=en)
+make
+perl(Carp)
+perl(Cwd)
+perl(DynaLoader)
+perl(ExtUtils::Depends) >= 0.2
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::PkgConfig) >= 1.03
+perl(File::Spec)
+perl(Glib) >= 1.120
+perl(Glib::CodeGen)
+perl(Glib::MakeHelper)
+perl(Test::More)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig(gconf-2.0) >= 2.0.0
+xorg-x11-server-Xvfb

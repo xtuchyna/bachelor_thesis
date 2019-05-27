@@ -1,0 +1,8 @@
+ImageMagick
+gcc-c++
+libtool-ltdl-devel
+linuxdoc-tools
+openssl-devel
+qt5-devel
+translate-toolkit
+xdg-utils

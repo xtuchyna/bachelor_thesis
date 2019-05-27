@@ -1,0 +1,4 @@
+gettext-devel
+ibus-devel
+libtool
+pkgconfig

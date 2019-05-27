@@ -1,0 +1,6 @@
+desktop-file-utils
+gettext
+hicolor-icon-theme
+kdelibs4-devel
+oxygen-icon-theme
+qt-devel

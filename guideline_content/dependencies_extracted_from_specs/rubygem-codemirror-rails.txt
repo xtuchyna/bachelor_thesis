@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(bundler)
+rubygem(rails) >= 3.0
+rubygem(sqlite3)
+rubygems-devel

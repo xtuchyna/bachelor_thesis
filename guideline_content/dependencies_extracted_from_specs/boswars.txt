@@ -1,0 +1,9 @@
+SDL-devel
+compat-tolua++-devel
+desktop-file-utils
+libGL-devel
+libappstream-glib
+libpng-devel
+libtheora-devel
+libvorbis-devel
+scons

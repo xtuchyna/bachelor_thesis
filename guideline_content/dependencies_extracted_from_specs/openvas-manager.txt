@@ -1,0 +1,15 @@
+cmake >= 2.6.0
+doxygen
+glib2-devel
+gnutls-devel
+gpgme-devel
+libgcrypt-devel
+libgpg-error-devel
+libksba-devel
+libpcap-devel
+libuuid-devel
+openvas-libraries-devel >= 7.0
+pkgconfig
+sqlite-devel
+systemd
+xmltoman

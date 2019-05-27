@@ -1,0 +1,6 @@
+cmake
+desktop-file-utils
+libXi-devel
+libXmu-devel
+libv4l-devel
+qt-devel

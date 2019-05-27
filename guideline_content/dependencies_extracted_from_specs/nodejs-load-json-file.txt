@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(graceful-fs)
+npm(parse-json)
+npm(pify)
+npm(pinkie-promise)
+npm(strip-bom)

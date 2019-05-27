@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(Algorithm::DiffOld)
+perl(Config)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Find)
+perl(File::Spec)
+perl(Test)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

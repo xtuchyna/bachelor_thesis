@@ -1,0 +1,6 @@
+ant
+java-devel
+java-javadoc
+javapackages-local
+jpackage-utils
+junit

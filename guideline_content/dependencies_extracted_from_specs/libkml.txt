@@ -1,0 +1,15 @@
+boost-devel
+cmake
+curl-devel
+expat-devel
+gcc-c++
+gtest-devel
+java-devel
+junit
+make
+minizip-devel
+python2-devel
+python3-devel
+swig
+uriparser-devel
+zlib-devel

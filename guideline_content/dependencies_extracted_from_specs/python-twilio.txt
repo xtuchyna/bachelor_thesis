@@ -1,0 +1,14 @@
+python2-devel
+python2dist(mock)
+python2dist(nose)
+python2dist(pyjwt)
+python2dist(pytz)
+python2dist(requests)
+python2dist(six)
+python3-devel
+python3dist(mock)
+python3dist(nose)
+python3dist(pyjwt)
+python3dist(pytz)
+python3dist(requests)
+python3dist(six)

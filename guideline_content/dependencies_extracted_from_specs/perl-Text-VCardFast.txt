@@ -1,0 +1,18 @@
+findutils
+gcc
+make
+perl(:VERSION) >= 5.14.2
+perl(Data::Dumper)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(FindBin)
+perl(JSON::XS)
+perl(MIME::Base64)
+perl(Test::More)
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

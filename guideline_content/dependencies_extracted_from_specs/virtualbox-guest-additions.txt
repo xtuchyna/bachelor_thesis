@@ -1,0 +1,18 @@
+boost-devel
+desktop-file-utils
+kBuild >= 0.1.9998
+libXcomposite-devel
+libXmu-devel
+libXrandr-devel
+libXt-devel
+libstdc++-static
+libxslt
+makeself
+mesa-libEGL-devel
+mesa-libGL-devel
+mesa-libGLU-devel
+openssl-devel
+pam-devel
+systemd
+yasm
+zlib-devel

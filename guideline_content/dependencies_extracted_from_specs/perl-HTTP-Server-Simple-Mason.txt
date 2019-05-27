@@ -1,0 +1,22 @@
+/usr/bin/make
+/usr/bin/perl
+perl(Encode)
+perl(File::Spec)
+perl(File::Temp)
+perl(HTML::Mason) >= 1.25
+perl(HTML::Mason::CGIHandler)
+perl(HTML::Mason::FakeApache)
+perl(HTTP::Server::Simple) >= 0.04
+perl(HTTP::Server::Simple::CGI)
+perl(Hook::LexWrap)
+perl(LWP::Simple)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(base)
+perl(bytes)
+perl(inc::Module::Install)
+perl(strict)
+perl-generators

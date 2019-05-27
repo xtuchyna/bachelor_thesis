@@ -1,0 +1,5 @@
+ghc-Boolean-devel
+ghc-Cabal-devel
+ghc-MemoTrie-devel
+ghc-NumInstances-devel
+ghc-rpm-macros

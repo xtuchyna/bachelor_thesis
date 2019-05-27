@@ -1,0 +1,12 @@
+findutils
+make
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Find)
+perl(File::Spec)
+perl(File::Temp)
+perl(Test::More)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

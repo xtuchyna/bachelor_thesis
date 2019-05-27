@@ -1,0 +1,7 @@
+compiler(go-compiler)
+golang(github.com/Masterminds/semver)
+golang(github.com/Masterminds/vcs)
+golang(github.com/codegangsta/cli)
+golang(github.com/urfave/cli)
+golang(gopkg.in/check.v1)
+golang(gopkg.in/yaml.v2)

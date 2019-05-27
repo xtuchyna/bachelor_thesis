@@ -1,0 +1,13 @@
+/usr/bin/node
+/usr/bin/redis-server
+ruby >= 2.2.2
+ruby(release)
+rubygem(actionpack) = 5.1.5
+rubygem(coffee-script)
+rubygem(mocha)
+rubygem(nio4r)
+rubygem(puma)
+rubygem(redis)
+rubygem(sprockets)
+rubygem(websocket-driver)
+rubygems-devel > 1.3.1

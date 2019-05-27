@@ -1,0 +1,5 @@
+autoconf
+automake
+fftw-devel
+libusbx-devel
+rtl-sdr-devel

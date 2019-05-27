@@ -1,0 +1,10 @@
+/usr/bin/ps
+/usr/bin/rsync
+/usr/bin/ssh-agent
+desktop-file-utils
+gettext
+python-rpm-macros
+python3-dbus
+python3-devel
+python3-nose
+systemd

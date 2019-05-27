@@ -1,0 +1,4 @@
+autoconf
+automake
+dovecot-devel >= 2.2.15
+libtool

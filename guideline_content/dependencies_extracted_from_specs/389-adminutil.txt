@@ -1,0 +1,5 @@
+icu
+libicu-devel
+nspr-devel
+nss-devel
+openldap-devel

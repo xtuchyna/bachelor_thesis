@@ -1,0 +1,4 @@
+fontpackages-devel
+gzip
+mkfontdir
+xorg-x11-font-utils

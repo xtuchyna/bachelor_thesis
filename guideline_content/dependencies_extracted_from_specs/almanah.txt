@@ -1,0 +1,10 @@
+desktop-file-utils
+gettext
+gpgme-devel
+gtk3-devel
+intltool
+libcryptui-devel
+pkgconfig
+pkgconfig(libecal-1.2)
+pkgconfig(libedataserver-1.2)
+sqlite-devel

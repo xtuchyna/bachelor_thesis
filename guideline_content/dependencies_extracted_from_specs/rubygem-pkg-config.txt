@@ -1,0 +1,5 @@
+cairo-devel
+ruby(release)
+ruby-devel
+rubygem(test-unit)
+rubygems-devel

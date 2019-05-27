@@ -1,0 +1,11 @@
+autoconf
+automake
+bison
+corosynclib-devel
+flex
+libuuid-devel
+libvirt-devel
+libxml2-devel
+nspr-devel
+nss-devel
+systemd-units

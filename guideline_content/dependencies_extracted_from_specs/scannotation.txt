@@ -1,0 +1,4 @@
+maven-local
+mvn(javassist:javassist)
+mvn(javax.servlet:javax.servlet-api)
+mvn(junit:junit)

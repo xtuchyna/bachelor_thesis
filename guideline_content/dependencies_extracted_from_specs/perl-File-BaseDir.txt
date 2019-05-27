@@ -1,0 +1,19 @@
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(File::Which)
+perl(IPC::System::Simple)
+perl(Module::Build)
+perl(Module::Build::Compat) >= 0.02
+perl(Test::More)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+xdg-user-dirs

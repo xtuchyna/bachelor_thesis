@@ -1,0 +1,5 @@
+fuse-devel
+libuuid-devel
+openssl-devel
+python2-devel
+zlib-devel

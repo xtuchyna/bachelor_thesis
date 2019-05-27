@@ -1,0 +1,25 @@
+perl(:VERSION) >= 5.10.1
+perl(Config::Model)
+perl(Config::Model::BackendMgr)
+perl(Config::Model::Lister)
+perl(Config::Model::Value)
+perl(Exporter)
+perl(ExtUtils::testlib)
+perl(File::Copy::Recursive)
+perl(Getopt::Std)
+perl(Log::Log4perl) >= 1.11
+perl(Module::Build)
+perl(Path::Tiny)
+perl(Test::Differences)
+perl(Test::Exception)
+perl(Test::File::Contents)
+perl(Test::Memory::Cycle)
+perl(Test::More)
+perl(Test::Warn)
+perl(locale)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,5 @@
+eclipse-emf-sdk >= 2.11.0
+eclipse-license
+eclipse-pde >= 1:4.4.0
+tycho
+tycho-extras

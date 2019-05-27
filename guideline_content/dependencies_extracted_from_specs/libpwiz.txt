@@ -1,0 +1,16 @@
+autoconf
+automake
+boost-devel
+coreutils
+dos2unix
+doxygen
+fftw-devel
+findutils
+gcc-c++
+gd-devel
+intltool
+libsvm-devel
+libtool
+libzip-devel
+make
+sed

@@ -1,0 +1,3 @@
+libXpm-devel
+libjpeg-devel
+libpng-devel

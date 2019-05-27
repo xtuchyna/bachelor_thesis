@@ -1,0 +1,10 @@
+cmake
+gettext
+numactl-devel
+pkgconfig(libkmod)
+pkgconfig(libndctl)
+pkgconfig(openssl)
+pkgconfig(sqlite3)
+python2
+sblim-cmpi-devel
+systemd

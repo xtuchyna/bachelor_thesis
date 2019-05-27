@@ -1,0 +1,14 @@
+autoconf
+automake
+gdbm-devel
+groff
+krb5-devel >= 1.2.2
+libdb-devel
+libtool
+mariadb-connector-c-devel
+openldap-devel
+openssl-devel
+pam-devel
+pkgconfig
+postgresql-devel
+zlib-devel

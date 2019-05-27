@@ -1,0 +1,4 @@
+desktop-file-utils
+libappstream-glib
+qmltermwidget
+qt5-devel

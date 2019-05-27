@@ -1,0 +1,5 @@
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IO::Socket::SSL)
+perl(Net::SSLeay::Handle)
+perl(Test::More)
+perl-generators

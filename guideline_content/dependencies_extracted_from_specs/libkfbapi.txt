@@ -1,0 +1,6 @@
+gettext
+kdelibs4-devel
+kdelibs4-webkit-devel
+kdepimlibs-devel
+libxslt
+pkgconfig(QJson)

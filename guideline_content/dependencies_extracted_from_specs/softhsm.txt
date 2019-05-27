@@ -1,0 +1,7 @@
+cppunit-devel
+gcc-c++
+nss-devel
+openssl-devel >= 1.0.1k-6
+p11-kit-devel
+pkgconfig
+sqlite-devel >= 3.4.2

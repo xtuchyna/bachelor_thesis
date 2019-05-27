@@ -1,0 +1,20 @@
+aspell-en
+perl(Carp)
+perl(English)
+perl(ExtUtils::MakeMaker) >= 6.11
+perl(File::Temp)
+perl(Pod::Coverage::TrustPod)
+perl(Scalar::Util)
+perl(Test::CPAN::Meta)
+perl(Test::CheckChanges)
+perl(Test::DistManifest)
+perl(Test::HasVersion)
+perl(Test::Kwalitee)
+perl(Test::MinimumVersion)
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.08
+perl(Test::Portability::Files)
+perl(Test::Spelling)
+perl(Test::Synopsis)
+perl-generators

@@ -1,0 +1,5 @@
+git
+rubygem(bigdecimal)
+rubygem(rspec)
+rubygem(thread_order)
+rubygems-devel

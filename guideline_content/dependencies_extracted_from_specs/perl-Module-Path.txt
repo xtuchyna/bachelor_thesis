@@ -1,0 +1,14 @@
+perl(Cwd)
+perl(Devel::FindPerl)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Spec::Functions)
+perl(FindBin) >= 0.05
+perl(Getopt::Long)
+perl(Pod::Usage)
+perl(Test::More) >= 0.88
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

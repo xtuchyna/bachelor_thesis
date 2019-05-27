@@ -1,0 +1,9 @@
+perl(Date::Parse) >= 2.27
+perl(DateTime) >= 0.29
+perl(DateTime::Duration)
+perl(DateTime::TimeZone) >= 0.27
+perl(Module::Build)
+perl(Test::More)
+perl(Time::Zone) >= 2.22
+perl(lib)
+perl-generators

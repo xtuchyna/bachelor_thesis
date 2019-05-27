@@ -1,0 +1,5 @@
+mocha
+nodejs-packaging
+npm(clone-deep)
+npm(map-visit)
+npm(object-visit)

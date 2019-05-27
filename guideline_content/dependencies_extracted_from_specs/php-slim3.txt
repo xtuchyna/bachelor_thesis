@@ -1,0 +1,14 @@
+/usr/bin/phpab
+php(language) >= 5.5.0
+php-composer(container-interop/container-interop) >= 1.1
+php-composer(nikic/fast-route) >= 1.0
+php-composer(phpunit/phpunit) >= 4.0
+php-composer(pimple/pimple) >= 3.0
+php-composer(psr/http-message) >= 1.0
+php-date
+php-json
+php-libxml
+php-mbstring
+php-pcre
+php-simplexml
+php-spl

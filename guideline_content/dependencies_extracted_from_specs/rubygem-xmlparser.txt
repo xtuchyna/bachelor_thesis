@@ -1,0 +1,8 @@
+expat-devel
+ruby
+ruby(release)
+ruby(rubygems)
+ruby-devel
+rubygem(mkrf)
+rubygem(rake)
+rubygems-devel

@@ -1,0 +1,6 @@
+perl(CGI)
+perl(CGI::Application)
+perl(ExtUtils::MakeMaker)
+perl(FCGI) >= 0.6
+perl(Test::More)
+perl-generators

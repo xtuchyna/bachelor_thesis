@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(arr-exclude)
+npm(execa)
+npm(has-yarn)
+npm(read-pkg-up)
+npm(write-pkg)

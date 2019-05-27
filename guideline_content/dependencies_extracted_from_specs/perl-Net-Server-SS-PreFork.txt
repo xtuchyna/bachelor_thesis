@@ -1,0 +1,21 @@
+coreutils
+make
+perl(HTTP::Server::Simple::CGI)
+perl(LWP::Simple)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Include)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Net::Server::PreFork)
+perl(Net::Server::Proto::TCP)
+perl(Server::Starter)
+perl(Test::More)
+perl(Test::TCP) >= 0.06
+perl(base)
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

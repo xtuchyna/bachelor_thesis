@@ -1,0 +1,14 @@
+desktop-file-utils
+glib2-devel
+gnome-doc-utils
+gobject-introspection-devel
+gsettings-desktop-schemas-devel
+gtk3-devel
+gtksourceview3-devel
+gtkspell3-devel
+intltool
+iso-codes-devel >= 0.35
+itstool
+libgda-devel
+libgdl-devel
+libpeas-devel >= 1.0.0

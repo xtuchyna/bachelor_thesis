@@ -1,0 +1,11 @@
+font(:lang=en)
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Test)
+perl(Tk)
+perl(Tk::Derived)
+perl(Tk::Entry)
+perl(base)
+perl-generators
+xorg-x11-server-Xvfb
+xorg-x11-xinit

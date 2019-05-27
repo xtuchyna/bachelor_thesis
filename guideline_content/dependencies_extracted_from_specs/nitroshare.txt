@@ -1,0 +1,10 @@
+cmake >= 3.2.0
+cmake(qhttpengine)
+cmake(qmdnsengine)
+desktop-file-utils
+doxygen
+pkgconfig(Qt5Network)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5Test)
+pkgconfig(Qt5Widgets)
+qt5-linguist

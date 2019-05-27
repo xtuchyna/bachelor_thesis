@@ -1,0 +1,9 @@
+ghc-Cabal-devel
+ghc-array-devel
+ghc-bytestring-devel
+ghc-mtl-devel
+ghc-network-devel
+ghc-network-uri-devel
+ghc-parsec-devel
+ghc-rpm-macros
+ghc-time-devel

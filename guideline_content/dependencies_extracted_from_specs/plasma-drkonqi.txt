@@ -1,0 +1,15 @@
+cmake(KF5ConfigWidgets)
+cmake(KF5CoreAddons)
+cmake(KF5Crash)
+cmake(KF5I18n)
+cmake(KF5IdleTime)
+cmake(KF5JobWidgets)
+cmake(KF5KIO)
+cmake(KF5Notifications)
+cmake(KF5Service)
+cmake(KF5Wallet)
+cmake(KF5XmlRpcClient)
+cmake(Qt5X11Extras)
+extra-cmake-modules
+kf5-rpm-macros
+qt5-qtbase-devel

@@ -1,0 +1,10 @@
+/usr/bin/rst2html
+diffutils
+findutils
+gawk
+git
+make
+perl(App::Prove)
+perl(File::Basename)
+perl-interpreter
+sed

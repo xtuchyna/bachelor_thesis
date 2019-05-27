@@ -1,0 +1,15 @@
+SDL2-devel
+SDL2_image-devel
+SDL2_mixer-devel
+SDL2_ttf-devel
+SDL_mng-devel
+boost-devel
+desktop-file-utils
+expat-devel
+gcc
+gcc-c++
+libappstream-glib
+libpng-devel
+physfs-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

@@ -1,0 +1,5 @@
+python-setuptools
+python-srpm-macros
+python2-devel
+python3-devel
+python3-setuptools

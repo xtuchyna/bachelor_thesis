@@ -1,0 +1,6 @@
+python2-devel
+python2-formencode
+python2-setuptools
+python3-devel
+python3-formencode
+python3-setuptools

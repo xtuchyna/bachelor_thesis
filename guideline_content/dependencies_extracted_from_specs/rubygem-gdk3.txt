@@ -1,0 +1,13 @@
+gtk3-devel
+ruby
+ruby-devel
+rubygem(atk)
+rubygem(cairo-gobject)
+rubygem(gdk_pixbuf2)
+rubygem(gobject-introspection)
+rubygem(test-unit)
+rubygem(test-unit-notify)
+rubygem-glib2-devel >= 3.0.8
+rubygem-pango-devel
+rubygems-devel
+xorg-x11-server-Xvfb

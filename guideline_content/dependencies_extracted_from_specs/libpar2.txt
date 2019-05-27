@@ -1,0 +1,3 @@
+libsigc++20-devel
+libtool
+sed

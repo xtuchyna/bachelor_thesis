@@ -1,0 +1,7 @@
+boost-devel
+doxygen
+gcc
+gcc-c++
+graphviz
+libtool
+sqlite-devel

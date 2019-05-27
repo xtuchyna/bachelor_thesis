@@ -1,0 +1,7 @@
+cmake
+mingw32-filesystem >= 95
+mingw32-freetype
+mingw32-gcc-c++
+mingw64-filesystem >= 95
+mingw64-freetype
+mingw64-gcc-c++

@@ -1,0 +1,10 @@
+python2-devel
+python2-docutils < 1.0
+python2-docutils >= 0.11
+python2-nose >= 1.3.0
+python2-pyyaml >= 3.11
+python3-PyYAML >= 3.11
+python3-devel
+python3-docutils < 1.0
+python3-docutils >= 0.11
+python3-nose >= 1.3.0

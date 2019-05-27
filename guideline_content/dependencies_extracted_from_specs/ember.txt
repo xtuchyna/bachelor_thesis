@@ -1,0 +1,18 @@
+DevIL-devel
+SDL-devel
+atlascpp-devel
+cegui-devel
+cppunit-devel
+desktop-file-utils
+eris-devel >= 1.3.16
+freealut-devel
+libtool
+libwfut-devel
+lua-devel
+mercator-devel
+ogre-devel
+openal-devel
+tinyxml-devel
+tolua++-devel
+varconf-devel
+wfmath-devel >= 1.0

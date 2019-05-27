@@ -1,0 +1,6 @@
+python-paste-deploy
+python-setuptools
+python-tw2-core
+python-tw2-jquery
+python-webob >= 0.9.7
+python2-devel

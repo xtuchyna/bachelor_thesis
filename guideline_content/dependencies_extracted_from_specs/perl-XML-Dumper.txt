@@ -1,0 +1,16 @@
+coreutils
+glibc-common
+make
+perl(Compress::Zlib)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test)
+perl(Test::More)
+perl(XML::Parser)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

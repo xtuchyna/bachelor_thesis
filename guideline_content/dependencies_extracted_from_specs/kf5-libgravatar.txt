@@ -1,0 +1,12 @@
+cmake(Qt5Network)
+cmake(Qt5Test)
+cmake(Qt5Widgets)
+extra-cmake-modules >= 5.23.0
+kf5-akonadi-contacts-devel >= 17.12.3
+kf5-kcalendarcore-devel >= 17.12.3
+kf5-kconfig-devel >= 5.23.0
+kf5-ki18n-devel >= 5.23.0
+kf5-ktextwidgets-devel >= 5.23.0
+kf5-kwidgetsaddons-devel >= 5.23.0
+kf5-pimcommon-devel >= 17.12.3
+kf5-rpm-macros >= 5.23.0

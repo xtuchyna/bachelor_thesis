@@ -1,0 +1,7 @@
+python3-devel
+python3dist(pip)
+python3dist(pytest)
+python3dist(pythonz-bd) >= 1.10.2
+python3dist(setuptools)
+python3dist(virtualenv) >= 1.11
+python3dist(virtualenv-clone) >= 0.2.5

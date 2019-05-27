@@ -1,0 +1,5 @@
+/etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem
+python2-devel
+python2-setuptools
+python3-devel
+python3-setuptools

@@ -1,0 +1,4 @@
+/usr/bin/pyxbgen
+python2-PyXB
+python2-devel
+python2-setuptools

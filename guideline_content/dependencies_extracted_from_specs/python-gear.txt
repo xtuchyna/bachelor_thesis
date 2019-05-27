@@ -1,0 +1,11 @@
+git
+python2-devel
+python2-fixtures
+python2-pbr
+python2-pyOpenSSL
+python2-statsd
+python2-testrepository
+python2-testresources
+python2-testscenarios
+python3-devel
+python3-pbr

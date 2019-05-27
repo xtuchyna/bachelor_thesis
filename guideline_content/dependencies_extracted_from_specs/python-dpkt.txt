@@ -1,0 +1,9 @@
+python2-coverage
+python2-devel
+python2-pytest
+python2-pytest-cov
+python2-tox
+python3-devel
+python3-pytest
+python3-pytest-cov
+python3-tox

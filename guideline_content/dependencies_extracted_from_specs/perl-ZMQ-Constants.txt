@@ -1,0 +1,15 @@
+coreutils
+make
+perl(Carp)
+perl(Exporter)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Storable)
+perl(Test::More)
+perl(base)
+perl(constant)
+perl(inc::Module::Install)
+perl(strict)
+perl-generators
+perl-interpreter
+sed

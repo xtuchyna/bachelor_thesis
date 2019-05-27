@@ -1,0 +1,9 @@
+pkgconfig(Qt5)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5X11Extras)
+pkgconfig(dframeworkdbus)
+pkgconfig(dtkcore)
+pkgconfig(dtkwidget) >= 2.0
+pkgconfig(gsettings-qt)
+pkgconfig(xcb-ewmh)
+qt5-linguist

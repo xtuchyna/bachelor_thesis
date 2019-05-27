@@ -1,0 +1,19 @@
+boost-devel
+cmake >= 2.6.3
+cmake(Qt5LinguistTools)
+desktop-file-utils
+gettext-devel
+miniupnpc-devel
+pkgconfig(Qt5)
+pkgconfig(Qt5Multimedia)
+pkgconfig(Qt5Script)
+pkgconfig(aspell)
+pkgconfig(bzip2)
+pkgconfig(gtk+-3.0)
+pkgconfig(libglade-2.0)
+pkgconfig(libidn)
+pkgconfig(libnotify)
+pkgconfig(libpcre)
+pkgconfig(libupnp)
+pkgconfig(lua)
+pkgconfig(openssl)

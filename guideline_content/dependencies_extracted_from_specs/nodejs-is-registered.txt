@@ -1,0 +1,5 @@
+mocha
+nodejs-packaging
+npm(base)
+npm(define-property)
+npm(isobject)

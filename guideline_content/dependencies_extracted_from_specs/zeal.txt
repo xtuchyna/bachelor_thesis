@@ -1,0 +1,10 @@
+cmake
+desktop-file-utils
+extra-cmake-modules
+libarchive-devel
+qt5-qtbase
+qt5-qtbase-devel
+qt5-qtwebkit-devel
+qt5-qtx11extras-devel
+sqlite-devel
+xcb-util-keysyms-devel

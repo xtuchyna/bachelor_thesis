@@ -1,0 +1,6 @@
+perl(Class::DBI::Plugin)
+perl(DBD::SQLite)
+perl(ExtUtils::MakeMaker)
+perl(Pod::Perldoc)
+perl(Test::More)
+perl-generators

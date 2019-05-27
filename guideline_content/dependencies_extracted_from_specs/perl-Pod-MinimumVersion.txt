@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IO::String) >= 1.02
+perl(List::Util)
+perl(Pod::Parser)
+perl(Test)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(version)
+perl-generators
+perl-interpreter

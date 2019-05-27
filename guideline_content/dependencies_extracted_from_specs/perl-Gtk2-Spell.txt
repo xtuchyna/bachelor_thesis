@@ -1,0 +1,24 @@
+findutils
+font(:lang=en)
+gtk2-devel
+gtkspell-devel
+make
+perl(Cwd)
+perl(DynaLoader)
+perl(ExtUtils::Depends)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::PkgConfig)
+perl(File::Spec)
+perl(Glib) >= 1.24
+perl(Glib::MakeHelper)
+perl(Gtk2) >= 1.00
+perl(Gtk2::CodeGen)
+perl(Test::More)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+pkgconfig(gtkspell-2.0) >= 2.0.0
+xorg-x11-server-Xvfb

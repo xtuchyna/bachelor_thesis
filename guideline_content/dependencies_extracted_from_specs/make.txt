@@ -1,0 +1,5 @@
+autoconf
+automake
+guile-devel
+perl-interpreter
+procps

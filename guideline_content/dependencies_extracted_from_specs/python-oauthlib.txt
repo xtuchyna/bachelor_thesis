@@ -1,0 +1,14 @@
+python-blinker
+python-jwt
+python2-cryptography
+python2-devel
+python2-mock
+python2-nose
+python2-setuptools
+python3-blinker
+python3-cryptography
+python3-devel
+python3-jwt
+python3-mock
+python3-nose
+python3-setuptools

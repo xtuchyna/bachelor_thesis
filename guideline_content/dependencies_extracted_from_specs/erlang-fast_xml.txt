@@ -1,0 +1,5 @@
+erlang-edoc
+erlang-p1_utils >= 1.0.10
+erlang-rebar
+expat-devel
+gcc

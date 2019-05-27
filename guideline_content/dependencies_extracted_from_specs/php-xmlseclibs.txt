@@ -1,0 +1,6 @@
+php-dom
+php-hash
+php-libxml
+php-mcrypt
+php-openssl
+php-pear

@@ -1,0 +1,13 @@
+maven-local
+mvn(asm:asm)
+mvn(asm:asm-analysis)
+mvn(asm:asm-commons)
+mvn(asm:asm-tree)
+mvn(asm:asm-util)
+mvn(commons-io:commons-io)
+mvn(commons-logging:commons-logging)
+mvn(junit-addons:junit-addons)
+mvn(junit:junit)
+mvn(org.apache.ant:ant)
+mvn(org.apache.bcel:bcel)
+mvn(org.apache.commons:commons-jci-core)

@@ -1,0 +1,3 @@
+R-devel
+libjpeg-devel
+tex(latex)

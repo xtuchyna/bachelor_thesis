@@ -1,0 +1,2 @@
+perl(Text::Markdown)
+perl-generators

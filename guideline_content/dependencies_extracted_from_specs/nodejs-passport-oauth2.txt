@@ -1,0 +1,8 @@
+nodejs-packaging
+npm(chai)
+npm(chai-passport-strategy) >= 0.2.0
+npm(mocha)
+npm(oauth) >= 0.9.11
+npm(passport-strategy)
+npm(uid2)
+npm(utils-merge)

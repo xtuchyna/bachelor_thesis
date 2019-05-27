@@ -1,0 +1,6 @@
+CUnit-devel
+byacc
+chrpath
+expat-devel
+gcc-c++
+groff

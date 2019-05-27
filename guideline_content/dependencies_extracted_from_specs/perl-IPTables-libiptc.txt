@@ -1,0 +1,18 @@
+findutils
+gcc
+iptables-devel >= 1.6.0
+make
+perl(AutoLoader)
+perl(Carp)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Spec)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

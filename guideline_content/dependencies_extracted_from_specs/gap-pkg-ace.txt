@@ -1,0 +1,4 @@
+gap-devel
+gcc
+perl-interpreter
+tth

@@ -1,0 +1,7 @@
+python3-click
+python3-devel
+python3-future
+python3-mock
+python3-nose
+python3-setuptools
+python3-six

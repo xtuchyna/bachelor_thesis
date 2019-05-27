@@ -1,0 +1,12 @@
+dconf-devel
+desktop-file-utils
+hunspell-devel
+intltool
+libX11-devel
+libXtst-devel
+libcanberra-devel
+libxkbfile-devel
+python3-dbus
+python3-devel
+python3-distutils-extra
+systemd-devel

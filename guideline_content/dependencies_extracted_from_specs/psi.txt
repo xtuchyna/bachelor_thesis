@@ -1,0 +1,16 @@
+desktop-file-utils
+pkgconfig(QtCore)
+pkgconfig(QtDBus)
+pkgconfig(QtGui)
+pkgconfig(QtNetwork)
+pkgconfig(QtSvg)
+pkgconfig(QtXml)
+pkgconfig(QtXmlPatterns)
+pkgconfig(enchant)
+pkgconfig(glib-2.0)
+pkgconfig(minizip)
+pkgconfig(qca2)
+pkgconfig(qjdns-qt4)
+pkgconfig(xscrnsaver)
+pkgconfig(zlib)
+qconf >= 1:2.0

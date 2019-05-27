@@ -1,0 +1,11 @@
+audit-libs-devel
+gcc
+golang
+kernel-headers >= 2.6.29
+krb5-devel
+libcap-ng-devel
+openldap-devel
+python2-devel
+python3-devel
+swig
+systemd

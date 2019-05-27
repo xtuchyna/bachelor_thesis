@@ -1,0 +1,10 @@
+maven-local
+mvn(commons-io:commons-io)
+mvn(junit:junit)
+mvn(org.apache.ant:ant)
+mvn(org.apache.ivy:ivy)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.apache.maven.plugins:maven-dependency-plugin)
+mvn(org.jenkins-ci:annotation-indexer)
+mvn(org.jenkins-ci:constant-pool-scanner)
+mvn(org.ow2.asm:asm)

@@ -1,0 +1,26 @@
+automake
+bison
+check-devel
+chrpath
+docbook-style-dsssl
+docbook-style-xsl
+docbook-utils
+flex
+gettext
+gettext-devel
+ghostscript
+glib2-devel >= 2.32.0
+gobject-introspection-devel >= 1.31.1
+gtk-doc >= 1.3
+libtool
+libxml2-devel >= 2.4.0
+libxslt
+m4
+netpbm-progs
+openjade
+pkgconfig
+python2
+texlive-dvips
+texlive-jadetex
+transfig
+xfig

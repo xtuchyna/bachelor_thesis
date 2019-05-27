@@ -1,0 +1,4 @@
+lksctp-tools-devel
+python
+python-devel
+python-setuptools

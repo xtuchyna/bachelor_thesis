@@ -1,0 +1,7 @@
+cmake >= 3.0
+file-devel
+pkgconfig(Qt5Help)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5Widgets)
+pkgconfig(Qt5Xml)
+qt5-qtbase-private-devel

@@ -1,0 +1,7 @@
+gcc
+libjpeg-devel
+make
+pkgconfig(libexif)
+pkgconfig(libgphoto2) >= 2.5.15
+popt-devel
+readline-devel

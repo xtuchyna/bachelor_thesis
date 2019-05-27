@@ -1,0 +1,9 @@
+byacc
+dbus-devel >= 0.35.2
+desktop-file-utils >= 0.2.90
+gettext
+gnutls-devel >= 1.0.16
+groff
+gtk2-devel
+libglade2-devel
+libxml2-devel

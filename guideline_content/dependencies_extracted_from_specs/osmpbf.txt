@@ -1,0 +1,6 @@
+ant
+gcc-c++
+javapackages-local
+protobuf-compiler
+protobuf-devel
+protobuf-java

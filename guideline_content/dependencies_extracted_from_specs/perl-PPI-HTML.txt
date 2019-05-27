@@ -1,0 +1,10 @@
+perl(CSS::Tiny) >= 1.10
+perl(File::Spec) >= 0.80
+perl(File::Spec::Functions)
+perl(PPI) >= 0.990
+perl(PPI::Document)
+perl(Params::Util) >= 0.05
+perl(Test::More) >= 0.47
+perl(inc::Module::Install)
+perl(lib)
+perl-generators

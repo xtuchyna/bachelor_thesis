@@ -1,0 +1,18 @@
+findutils
+openssl-devel
+perl(AutoLoader)
+perl(Carp)
+perl(Crypt::OpenSSL::EC) >= 0.05
+perl(Exporter)
+perl(ExtUtils::Constant)
+perl(ExtUtils::MakeMaker)
+perl(File::Copy)
+perl(File::Spec)
+perl(Test::More)
+perl(XSLoader)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

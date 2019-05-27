@@ -1,0 +1,15 @@
+bash
+coreutils
+gcc
+gcc-c++
+grep
+libstdc++
+make
+net-snmp-devel
+openslp-devel
+openssl
+openssl-devel
+pam-devel
+procps
+sed
+systemd-units

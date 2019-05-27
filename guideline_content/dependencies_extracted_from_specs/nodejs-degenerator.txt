@@ -1,0 +1,5 @@
+nodejs-packaging >= 6
+npm(ast-types)
+npm(escodegen)
+npm(esprima)
+npm(mocha)

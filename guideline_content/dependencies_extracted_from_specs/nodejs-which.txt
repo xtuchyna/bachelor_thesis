@@ -1,0 +1,3 @@
+nodejs-packaging
+npm(is-absolute)
+npm(isexe)

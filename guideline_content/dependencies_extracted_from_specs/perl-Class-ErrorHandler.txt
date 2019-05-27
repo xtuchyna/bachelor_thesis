@@ -1,0 +1,8 @@
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Copy)
+perl(Test)
+perl(base)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

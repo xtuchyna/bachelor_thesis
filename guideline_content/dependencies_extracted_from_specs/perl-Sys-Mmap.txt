@@ -1,0 +1,5 @@
+findutils
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl-generators
+perl-interpreter

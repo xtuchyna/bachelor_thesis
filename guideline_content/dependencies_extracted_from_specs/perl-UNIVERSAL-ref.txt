@@ -1,0 +1,5 @@
+perl(B::Utils)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl-devel
+perl-generators

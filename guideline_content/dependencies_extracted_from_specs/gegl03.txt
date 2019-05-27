@@ -1,0 +1,36 @@
+SDL-devel >= 1.2.0
+asciidoc
+autoconf
+automake
+enscript
+gettext-devel >= 0.19.8
+gobject-introspection-devel >= 1.32.0
+graphviz
+libspiro-devel
+libtool
+perl-interpreter
+pkgconfig(OpenEXR) >= 1.6.1
+pkgconfig(babl) >= 0.1.41
+pkgconfig(cairo) >= 1.12.2
+pkgconfig(exiv2)
+pkgconfig(gdk-pixbuf-2.0) >= 2.32.0
+pkgconfig(glib-2.0) >= 2.44.0
+pkgconfig(jasper) >= 1.900.1
+pkgconfig(json-glib-1.0)
+pkgconfig(lcms2) >= 2.8
+pkgconfig(lensfun) >= 0.2.5
+pkgconfig(libpng) >= 1.6.0
+pkgconfig(libraw) >= 0.15.4
+pkgconfig(librsvg-2.0) >= 2.40.6
+pkgconfig(libtiff-4) >= 4.0.0
+pkgconfig(libv4l2) >= 1.0.1
+pkgconfig(libwebp) >= 0.5.0
+pkgconfig(lua) >= 5.1.0
+pkgconfig(luajit) >= 2.0.4
+pkgconfig(pango) >= 1.38.0
+pkgconfig(pangocairo)
+pkgconfig(pygobject-3.0) >= 3.2
+pkgconfig(vapigen) >= 0.20.0
+ruby
+suitesparse-devel
+vala-tools

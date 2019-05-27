@@ -1,0 +1,10 @@
+dbus-glib-devel >= 0.34
+desktop-file-utils
+exo-devel >= 0.4.0
+gettext
+gtk2-devel >= 2.20.0
+intltool
+libappstream-glib
+libexif-devel >= 0.6.0
+libxfce4ui-devel >= 4.12.0
+xfconf-devel >= 4.12.0

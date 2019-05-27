@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Class::Accessor) >= 0.18
+perl(ExtUtils::MakeMaker)
+perl(Test)
+perl(Text::CSV_XS) >= 0.23
+perl(base)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

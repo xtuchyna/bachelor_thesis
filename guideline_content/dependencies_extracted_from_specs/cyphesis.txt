@@ -1,0 +1,15 @@
+atlascpp-devel
+autoconf
+automake
+avahi-devel
+boost-devel
+bullet-devel
+libgcrypt-devel
+libsigc++20-devel
+mercator-devel
+pkgconfig
+postgresql-devel
+python2-devel
+readline-devel
+skstream-devel
+varconf-devel

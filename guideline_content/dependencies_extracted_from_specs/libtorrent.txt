@@ -1,0 +1,4 @@
+gcc
+libsigc++20-devel
+openssl-devel
+pkgconfig

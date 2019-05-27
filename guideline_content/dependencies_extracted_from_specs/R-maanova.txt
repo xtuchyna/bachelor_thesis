@@ -1,0 +1,9 @@
+R-Biobase
+R-devel >= 3.4.0
+R-grDevices
+R-graphics
+R-methods
+R-qvalue
+R-stats
+R-utils
+tex(latex)

@@ -1,0 +1,4 @@
+gettext
+intltool
+libglade2-devel
+python2-devel

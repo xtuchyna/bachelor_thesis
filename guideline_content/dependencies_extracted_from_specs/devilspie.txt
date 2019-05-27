@@ -1,0 +1,5 @@
+gettext
+libpng-devel
+libwnck-devel
+libxml2-devel
+perl(XML::Parser)

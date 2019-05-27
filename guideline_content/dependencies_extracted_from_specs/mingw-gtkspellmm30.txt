@@ -1,0 +1,10 @@
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-glibmm24
+mingw32-gtkmm30
+mingw32-gtkspell3
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-glibmm24
+mingw64-gtkmm30
+mingw64-gtkspell3

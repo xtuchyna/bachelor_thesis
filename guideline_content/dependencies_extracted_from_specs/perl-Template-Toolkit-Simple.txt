@@ -1,0 +1,21 @@
+perl(Carp)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Find)
+perl(Getopt::Long)
+perl(JSON::XS)
+perl(Template) >= 2.22
+perl(Template::Constants)
+perl(Test::More)
+perl(TestML)
+perl(TestML::Bridge)
+perl(TestML::Util)
+perl(XML::Simple)
+perl(YAML::XS) >= 0.37
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

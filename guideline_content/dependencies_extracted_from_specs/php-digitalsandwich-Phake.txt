@@ -1,0 +1,2 @@
+php-channel(pear.digitalsandwich.com)
+php-pear >= 1:1.4.0

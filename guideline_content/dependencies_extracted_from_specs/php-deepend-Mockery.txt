@@ -1,0 +1,4 @@
+php(language) >= 5.3.2
+php-composer(fedora/autoloader)
+php-composer(hamcrest/hamcrest-php) >= 1.1
+php-composer(phpunit/phpunit) >= 4.0

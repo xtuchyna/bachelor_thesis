@@ -1,0 +1,2 @@
+nodejs-packaging
+npm(hex-to-array-buffer)

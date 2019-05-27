@@ -1,0 +1,16 @@
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Spec::Functions)
+perl(IPC::Open2)
+perl(Scalar::Util)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

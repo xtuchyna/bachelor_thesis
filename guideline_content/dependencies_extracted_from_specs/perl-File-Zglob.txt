@@ -1,0 +1,20 @@
+coreutils
+findutils
+make
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter)
+perl(Fatal)
+perl(File::Basename)
+perl(Module::Install::AuthorTests)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::More) >= 0.96
+perl(base)
+perl(inc::Module::Install)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

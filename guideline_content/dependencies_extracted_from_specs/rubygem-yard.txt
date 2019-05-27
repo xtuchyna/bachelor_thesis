@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(RedCloth)
+rubygem(bundler)
+rubygem(rack)
+rubygem(redcarpet)
+rubygem(rspec)
+rubygems-devel

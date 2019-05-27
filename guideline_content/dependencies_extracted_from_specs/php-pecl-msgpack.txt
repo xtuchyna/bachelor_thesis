@@ -1,0 +1,2 @@
+php-devel > 7
+php-pear

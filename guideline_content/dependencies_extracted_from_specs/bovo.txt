@@ -1,0 +1,17 @@
+desktop-file-utils
+extra-cmake-modules
+gettext
+kf5-kcoreaddons-devel
+kf5-kdeclarative-devel
+kf5-kdelibs4support-devel
+kf5-knewstuff-devel
+kf5-kxmlgui-devel
+kf5-rpm-macros
+libappstream-glib
+libkdegames-devel >= 17.12
+pkgconfig(Qt5Concurrent)
+pkgconfig(Qt5Qml)
+pkgconfig(Qt5Quick)
+pkgconfig(Qt5QuickWidgets)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5Widgets)

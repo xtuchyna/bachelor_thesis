@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Convert::ASN1) >= 0.19
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Math::BigInt)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

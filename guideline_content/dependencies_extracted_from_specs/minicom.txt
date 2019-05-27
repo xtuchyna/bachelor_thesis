@@ -1,0 +1,6 @@
+autoconf
+automake
+gcc
+gettext-devel
+lockdev-devel
+ncurses-devel

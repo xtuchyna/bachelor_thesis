@@ -1,0 +1,13 @@
+perl(Carp)
+perl(Config)
+perl(Env::Path)
+perl(Exporter)
+perl(File::Spec) >= 0.8
+perl(Module::Build)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

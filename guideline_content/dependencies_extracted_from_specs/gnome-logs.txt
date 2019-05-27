@@ -1,0 +1,9 @@
+/usr/bin/appstream-util
+desktop-file-utils
+docbook-dtds
+docbook-style-xsl
+gnome-common
+intltool
+libxslt
+pkgconfig(gtk+-3.0)
+pkgconfig(libsystemd)

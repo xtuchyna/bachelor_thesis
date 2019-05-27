@@ -1,0 +1,13 @@
+acpica-tools
+autoconf
+automake
+bison
+dkms
+flex
+git
+glib
+glib-devel
+glib2-devel
+json-c-devel
+kernel-devel
+libtool

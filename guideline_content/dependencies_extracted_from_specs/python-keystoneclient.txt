@@ -1,0 +1,44 @@
+/usr/bin/openssl
+git
+python-fixtures
+python-hacking
+python-keyring >= 5.5.1
+python-keystoneauth1
+python-lxml
+python-mock
+python-oauthlib
+python-openstackdocstheme
+python-oslo-config
+python-oslo-i18n
+python-oslo-serialization
+python-oslo-utils
+python-oslotest
+python-pbr >= 2.0.0
+python-requests-mock
+python-setuptools
+python-sphinx
+python-testrepository
+python-testresources
+python-testscenarios
+python-testtools
+python2-devel
+python3-devel
+python3-fixtures
+python3-hacking
+python3-keyring >= 5.5.1
+python3-keystoneauth1
+python3-lxml
+python3-mock
+python3-oauthlib
+python3-oslo-config
+python3-oslo-i18n
+python3-oslo-serialization
+python3-oslo-utils
+python3-oslotest
+python3-pbr >= 2.0.0
+python3-requests-mock
+python3-setuptools
+python3-testrepository
+python3-testresources
+python3-testscenarios
+python3-testtools

@@ -1,0 +1,32 @@
+cmake(Grantlee5)
+cmake(KF5Akonadi)
+cmake(KF5AkonadiContact)
+cmake(KF5Config)
+cmake(KF5Contacts)
+cmake(KF5CoreAddons)
+cmake(KF5GrantleeTheme)
+cmake(KF5I18n)
+cmake(KF5IconThemes)
+cmake(KF5KIO)
+cmake(KF5Libkleo)
+cmake(KF5PimCommon)
+cmake(KF5Prison)
+cmake(KF5Service)
+cmake(KF5WidgetsAddons)
+cmake(QGpgme)
+cmake(Qt5Test)
+cmake(Qt5UiTools)
+cmake(Qt5Widgets)
+extra-cmake-modules >= 5.28
+kf5-akonadi-contacts-devel >= 17.12.3
+kf5-akonadi-mime-devel >= 17.12.3
+kf5-akonadi-server-devel >= 17.12.3
+kf5-grantleetheme-devel >= 17.12.3
+kf5-kcalendarcore-devel >= 17.12.3
+kf5-kcontacts-devel >= 17.12.3
+kf5-kidentitymanagement-devel >= 17.12.3
+kf5-kmime-devel >= 17.12.3
+kf5-kpimtextedit-devel >= 17.12.3
+kf5-libkdepim-devel >= 17.12.3
+kf5-libkleo-devel >= 17.12.3
+kf5-pimcommon-devel >= 17.12.3

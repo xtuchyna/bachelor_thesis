@@ -1,0 +1,15 @@
+perl(B::Deparse)
+perl(Fcntl)
+perl(IO::Select)
+perl(IPC::Open3)
+perl(Module::Build)
+perl(Pod::Parser)
+perl(Pod::Stripper)
+perl(Test::More)
+perl(Text::Diff)
+perl(Text::Wrap)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

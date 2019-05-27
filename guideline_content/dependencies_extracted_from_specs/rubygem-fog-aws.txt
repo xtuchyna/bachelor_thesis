@@ -1,0 +1,9 @@
+/usr/bin/shindo
+ruby
+ruby(release)
+rubygem(fog-json)
+rubygem(fog-xml)
+rubygem(ipaddress)
+rubygem(mime-types)
+rubygem(rubyzip)
+rubygems-devel

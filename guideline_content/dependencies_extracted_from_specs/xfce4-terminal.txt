@@ -1,0 +1,7 @@
+desktop-file-utils
+gcc-c++
+glib2-devel >= 2.26.0
+gtk3-devel >= 3.14.0
+intltool
+libxfce4ui-devel >= 4.10.0
+vte291-devel >= 0.38

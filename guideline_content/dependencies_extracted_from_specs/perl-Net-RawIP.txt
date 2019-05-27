@@ -1,0 +1,23 @@
+findutils
+gcc
+libpcap-devel
+perl(AutoLoader)
+perl(Carp)
+perl(Class::Struct)
+perl(Config)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(English)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Proc::ProcessTable)
+perl(Test::More)
+perl(XSLoader)
+perl(strict)
+perl(subs)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,9 @@
+perl(Alien::wxWidgets)
+perl(Exporter)
+perl(Wx::build::MakeMaker) >= 0.16
+perl(lib)
+perl(strict)
+perl-devel
+perl-generators
+perl-interpreter
+wxGTK-devel

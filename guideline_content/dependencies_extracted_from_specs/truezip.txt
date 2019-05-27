@@ -1,0 +1,11 @@
+maven-local
+mvn(com.google.code.findbugs:annotations)
+mvn(junit:junit)
+mvn(net.java.truecommons:truecommons-parent:pom:)
+mvn(org.apache.commons:commons-compress)
+mvn(org.apache.httpcomponents:httpclient)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.bouncycastle:bcprov-jdk15on)
+mvn(org.jsr-305:ri)
+mvn(org.netbeans:jemmy)
+mvn(org.tukaani:xz)

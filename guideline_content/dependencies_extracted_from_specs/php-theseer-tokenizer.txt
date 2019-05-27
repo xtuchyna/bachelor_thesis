@@ -1,0 +1,8 @@
+php(language) >= 7.0
+php-dom
+php-fedora-autoloader-devel >= 1.0.0
+php-pcre
+php-spl
+php-tokenizer
+php-xmlwriter
+phpunit6

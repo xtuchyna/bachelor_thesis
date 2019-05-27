@@ -1,0 +1,6 @@
+(crate(lazy_static) >= 1.0.0 with crate(lazy_static) < 2.0.0)
+(crate(regex) >= 0.2.0 with crate(regex) < 0.3.0)
+(crate(serde) >= 1.0.0 with crate(serde) < 2.0.0)
+(crate(serde_derive) >= 1.0.0 with crate(serde_derive) < 2.0.0)
+(crate(strsim) >= 0.7.0 with crate(strsim) < 0.8.0)
+rust-packaging

@@ -1,0 +1,4 @@
+python-boto
+python-docutils
+python-setuptools
+python2-devel

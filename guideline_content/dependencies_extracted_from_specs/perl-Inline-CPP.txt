@@ -1,0 +1,24 @@
+gcc-c++
+make
+perl(:VERSION) >= 5.8.1
+perl(Carp)
+perl(Config)
+perl(English)
+perl(Exporter)
+perl(ExtUtils::CppGuess) >= 0.11
+perl(ExtUtils::MakeMaker) >= 7.04
+perl(Fcntl)
+perl(File::Temp)
+perl(FindBin)
+perl(Inline) >= 0.78
+perl(Inline::C) >= 0.67
+perl(Inline::Filters)
+perl(Parse::RecDescent)
+perl(Test::More) >= 1.001009
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

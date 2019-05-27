@@ -1,0 +1,7 @@
+extra-cmake-modules >= 5.27.0
+hardlink
+kde-dev-scripts
+kde-filesystem
+kf5-rpm-macros
+qt5-qtbase-devel
+time

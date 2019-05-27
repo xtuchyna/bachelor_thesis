@@ -1,0 +1,22 @@
+boost-devel
+cmake(KF5Crash)
+cmake(KF5DBusAddons)
+cmake(KF5DocTools)
+cmake(Qt5Test)
+cmake(Qt5Widgets)
+cmake(Qt5Xml)
+desktop-file-utils
+extra-cmake-modules
+gettext
+kf5-akonadi-contacts-devel >= 17.12
+kf5-akonadi-mime-devel >= 17.12
+kf5-akonadi-server-devel >= 17.12
+kf5-calendarsupport-devel >= 17.12
+kf5-kalarmcal-devel >= 17.12
+kf5-kcalendarcore-devel >= 17.12
+kf5-kcontacts-devel >= 17.12
+kf5-kmailtransport-devel >= 17.12
+kf5-kpimtextedit-devel >= 17.12
+kf5-libkdepim-devel >= 17.12
+kf5-mailcommon-devel >= 17.12
+kf5-rpm-macros

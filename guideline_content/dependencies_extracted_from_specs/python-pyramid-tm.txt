@@ -1,0 +1,14 @@
+python2-coverage
+python2-devel
+python2-nose
+python2-pyramid >= 1.5
+python2-setuptools
+python2-transaction >= 2.0
+python2-webtest
+python3-coverage
+python3-devel
+python3-nose
+python3-pyramid >= 1.5
+python3-setuptools
+python3-transaction >= 2.0
+python3-webtest

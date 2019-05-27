@@ -1,0 +1,20 @@
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(Exception::Class) >= 1.32
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Spec)
+perl(LWP::UserAgent)
+perl(Object::InsideOut) >= 3.88
+perl(Object::InsideOut::Util)
+perl(Scalar::Util) >= 1.23
+perl(Test::More)
+perl(XSLoader)
+perl(strict)
+perl(threads)
+perl(threads::shared)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

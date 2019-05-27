@@ -1,0 +1,11 @@
+autoconf
+automake
+bison
+byacc
+flex
+libX11-devel
+libtool
+pkgconfig(xcb-xkb) >= 1.10
+xkeyboard-config-devel
+xorg-x11-proto-devel
+xorg-x11-util-macros

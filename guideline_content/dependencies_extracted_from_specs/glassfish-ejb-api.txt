@@ -1,0 +1,9 @@
+maven-local
+mvn(javax.transaction:javax.transaction-api)
+mvn(javax.xml.rpc:javax.xml.rpc-api)
+mvn(net.java:jvnet-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-release-plugin)
+mvn(org.apache.maven.plugins:maven-remote-resources-plugin)
+mvn(org.glassfish.build:spec-version-maven-plugin)
+mvn(org.glassfish:legal)

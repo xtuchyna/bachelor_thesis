@@ -1,0 +1,4 @@
+cmake
+desktop-file-utils
+octave-devel >= 3.2.0
+qt4-devel >= 4.6.0

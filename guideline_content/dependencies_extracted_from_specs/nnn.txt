@@ -1,0 +1,4 @@
+gcc
+make
+pkgconfig(ncursesw)
+readline-devel

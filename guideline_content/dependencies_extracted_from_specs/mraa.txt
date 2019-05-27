@@ -1,0 +1,9 @@
+cmake
+doxygen
+graphviz
+nodejs-devel
+nodejs-packaging
+python3-devel
+python3-setuptools
+sphinx
+swig

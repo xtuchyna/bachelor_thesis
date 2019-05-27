@@ -1,0 +1,8 @@
+dbus-x11
+gcc-c++
+mesa-dri-drivers
+pkgconfig(Qt5UiTools)
+qt5-qtbase-devel
+qt5-qtbase-private-devel
+time
+xorg-x11-server-Xvfb

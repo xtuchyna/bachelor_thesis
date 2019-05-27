@@ -1,0 +1,12 @@
+libXext-devel
+libXfixes-devel
+libdrm-devel
+libpciaccess-devel
+libtool
+libudev-devel
+mesa-libEGL-devel
+mesa-libGL-devel
+mesa-libGLES-devel
+pkgconfig(wayland-client) >= 1
+pkgconfig(wayland-scanner) >= 1
+wayland-devel

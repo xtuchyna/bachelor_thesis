@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(jison)
+npm(spdx-exceptions)
+npm(spdx-license-ids)
+uglify-js

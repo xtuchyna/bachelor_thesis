@@ -1,0 +1,5 @@
+autoconf
+automake
+net-snmp-devel
+openssl-devel
+tcp_wrappers-devel

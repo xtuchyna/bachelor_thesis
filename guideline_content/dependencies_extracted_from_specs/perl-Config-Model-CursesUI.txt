@@ -1,0 +1,19 @@
+coreutils
+findutils
+perl(Carp)
+perl(Config::Model) >= 0.637
+perl(Config::Model::Exception)
+perl(Config::Model::ObjTreeScanner)
+perl(Curses::UI) >= 0.9606
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::testlib)
+perl(Log::Log4perl)
+perl(Module::Build)
+perl(Mouse)
+perl(Test::More)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,5 @@
+dbus-devel >= 1.2
+dbus-glib-devel >= 0.86
+glib2-devel >= 2.22
+net-snmp-devel >= 5.5
+systemd-units

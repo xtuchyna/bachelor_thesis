@@ -1,0 +1,4 @@
+rubygem(minitest) > 5
+rubygem(mocha)
+rubygem(net-ssh)
+rubygems-devel

@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(Config)
+perl(Errno)
+perl(ExtUtils::MakeMaker)
+perl(IO::Socket)
+perl(IO::Socket::INET)
+perl(IO::Socket::Timeout)
+perl(POSIX)
+perl(Sys::Hostname)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

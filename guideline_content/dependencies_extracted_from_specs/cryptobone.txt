@@ -1,0 +1,5 @@
+desktop-file-utils
+gcc
+gnupg2
+libbsd-devel
+systemd

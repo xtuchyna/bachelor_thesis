@@ -1,0 +1,8 @@
+/usr/bin/ragel
+gcc
+openssl-devel
+ruby(release)
+ruby-devel >= 1.9.3
+rubygem(minitest)
+rubygem(rack)
+rubygems-devel

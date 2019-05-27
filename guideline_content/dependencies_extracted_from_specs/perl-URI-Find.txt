@@ -1,0 +1,19 @@
+findutils
+perl(Carp)
+perl(Exporter)
+perl(File::Basename)
+perl(File::Spec)
+perl(Getopt::Long)
+perl(IO::File)
+perl(Module::Build) >= 0.30
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 0.95
+perl(URI) >= 1.60
+perl(base)
+perl(constant)
+perl(open)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl-generators
+perl-interpreter

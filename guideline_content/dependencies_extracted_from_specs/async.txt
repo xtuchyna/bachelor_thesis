@@ -1,0 +1,3 @@
+maven-local
+mvn(org.slf4j:slf4j-api)
+mvn(org.sonatype.oss:oss-parent:pom:)

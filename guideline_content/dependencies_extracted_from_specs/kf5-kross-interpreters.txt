@@ -1,0 +1,8 @@
+extra-cmake-modules
+kf5-kdelibs4support-devel
+kf5-kross-devel
+kf5-rpm-macros
+python2-devel
+qt5-qtbase-devel
+ruby
+ruby-devel

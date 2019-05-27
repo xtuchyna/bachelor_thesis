@@ -1,0 +1,9 @@
+graphviz
+maven-local
+mvn(com.intellij:annotations)
+mvn(jdepend:jdepend)
+mvn(org.jboss.apiviz:apiviz)
+mvn(org.jboss.logging:jboss-logging)
+mvn(org.jboss.logging:jboss-logging-annotations)
+mvn(org.jboss.logging:jboss-logging-processor)
+mvn(org.jboss:jboss-parent:pom:)

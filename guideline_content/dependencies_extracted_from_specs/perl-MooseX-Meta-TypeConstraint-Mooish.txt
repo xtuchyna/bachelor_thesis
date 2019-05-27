@@ -1,0 +1,18 @@
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Moose)
+perl(Moose::Meta::TypeConstraint)
+perl(Moose::Role)
+perl(Test::CheckDeps) >= 0.010
+perl(Test::Fatal)
+perl(Test::Moose::More) >= 0.028
+perl(Test::More) >= 0.94
+perl(Try::Tiny)
+perl(aliased)
+perl(namespace::autoclean) >= 0.24
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

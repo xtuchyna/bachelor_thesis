@@ -1,0 +1,26 @@
+perl(:VERSION) >= 5.6
+perl(Authen::DecHpwd) >= 2.003
+perl(Carp)
+perl(Crypt::DES)
+perl(Crypt::Eksblowfish::Bcrypt) >= 0.008
+perl(Crypt::Eksblowfish::Uklblowfish) >= 0.008
+perl(Crypt::MySQL) >= 0.03
+perl(Crypt::PasswdMD5) >= 1.0
+perl(Crypt::UnixCrypt_XS) >= 0.08
+perl(Data::Entropy::Algorithms)
+perl(Digest) >= 1.00
+perl(Digest::MD4) >= 1.2
+perl(Digest::MD5) >= 1.9953
+perl(Digest::SHA)
+perl(MIME::Base64) >= 2.21
+perl(Module::Build)
+perl(Module::Runtime) >= 0.011
+perl(Params::Classify)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

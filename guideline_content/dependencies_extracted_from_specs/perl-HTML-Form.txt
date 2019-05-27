@@ -1,0 +1,19 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(HTML::TokeParser)
+perl(HTTP::Request) >= 6
+perl(HTTP::Request::Common) >= 6.03
+perl(HTTP::Response)
+perl(Test)
+perl(Test::More)
+perl(URI)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,6 @@
+gcc
+python2-devel
+python2-libxml2
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+swig

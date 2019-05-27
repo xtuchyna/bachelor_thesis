@@ -1,0 +1,27 @@
+/etc/pki/tls/certs/ca-bundle.crt
+coreutils
+findutils
+gcc
+make
+openssl-devel
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::CBuilder) >= 0.280205
+perl(ExtUtils::MakeMaker)
+perl(Getopt::Long)
+perl(IO::Socket)
+perl(MIME::Base64)
+perl(Path::Class)
+perl(Socket)
+perl(Test::More) >= 0.88
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Try::Tiny) >= 0.19
+perl(XSLoader)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+pkgconf-pkg-config

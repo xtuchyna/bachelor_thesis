@@ -1,0 +1,16 @@
+/usr/bin/desktop-file-validate
+brlapi-devel
+brltty
+gettext
+gtk3-devel
+intltool
+itstool
+pkgconfig(atk-bridge-2.0)
+pkgconfig(atspi-2)
+pkgconfig(liblouis)
+pkgconfig(pygobject-3.0)
+python3-brlapi
+python3-devel
+python3-louis
+python3-pyatspi
+python3-speechd

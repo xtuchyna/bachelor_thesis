@@ -1,0 +1,9 @@
+perl(Class::Accessor) >= 0.31
+perl(Class::Data::Inheritable) >= 0.06
+perl(Digest::HMAC_SHA1) >= 1.01
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Warn)
+perl(UNIVERSAL::require) >= 0.10
+perl(URI::Escape) >= 3.28
+perl-generators

@@ -1,0 +1,2 @@
+(crate(num-traits) >= 0.1.36 with crate(num-traits) < 0.2.0)
+rust-packaging

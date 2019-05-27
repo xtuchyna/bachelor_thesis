@@ -1,0 +1,10 @@
+autoconf
+automake
+bison
+flex
+libitm-devel
+libtool
+openldap-devel
+openssl-devel
+systemd
+trousers-devel

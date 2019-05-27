@@ -1,0 +1,24 @@
+check-devel
+cppunit-devel
+gcc-c++
+perl(ExtUtils::MakeMaker)
+perl-generators
+pkgconfig
+python2-devel
+python2-docutils
+python2-extras
+python2-fixtures
+python2-hypothesis
+python2-iso8601
+python2-setuptools
+python2-testscenarios
+python2-testtools >= 1.8.0
+python3-devel
+python3-docutils
+python3-extras
+python3-fixtures
+python3-hypothesis
+python3-iso8601
+python3-setuptools
+python3-testscenarios
+python3-testtools >= 1.8.0

@@ -1,0 +1,7 @@
+CUnit-devel
+c-ares-devel
+gcc-c++
+libev-devel
+openssl-devel
+systemd-devel
+zlib-devel

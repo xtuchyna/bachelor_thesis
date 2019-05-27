@@ -1,0 +1,7 @@
+autoconf
+automake
+colm-devel
+gcc
+gcc-c++
+libtool
+make

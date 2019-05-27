@@ -1,0 +1,7 @@
+doxygen
+gcc
+graphviz
+lv2-devel >= 1.10.0
+python
+serd-devel >= 0.23.0
+sord-devel >= 0.12.0

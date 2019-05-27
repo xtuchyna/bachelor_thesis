@@ -1,0 +1,6 @@
+ruby(release)
+rubygem(hoe)
+rubygem(json)
+rubygem(minitest)
+rubygems
+rubygems-devel

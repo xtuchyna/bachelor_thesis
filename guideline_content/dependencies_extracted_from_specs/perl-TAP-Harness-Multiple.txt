@@ -1,0 +1,6 @@
+perl(ExtUtils::MakeMaker)
+perl(IO::CaptureOutput)
+perl(TAP::Harness::Archive)
+perl(Test::Harness)
+perl(Test::Simple)
+perl-generators

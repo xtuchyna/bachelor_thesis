@@ -1,0 +1,6 @@
+mocha
+nodejs-packaging
+npm(kind-of)
+npm(longest)
+npm(repeat-string)
+npm(should)

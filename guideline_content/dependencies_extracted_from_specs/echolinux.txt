@@ -1,0 +1,4 @@
+desktop-file-utils
+gsm-devel
+libXpm-devel
+xforms-devel

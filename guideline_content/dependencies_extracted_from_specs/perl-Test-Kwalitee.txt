@@ -1,0 +1,22 @@
+coreutils
+make
+perl(CPAN::Meta) >= 2.120900
+perl(CPAN::Meta::Check) >= 0.011
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(File::Temp)
+perl(Module::CPANTS::Analyse) >= 0.92
+perl(Scalar::Util)
+perl(Test::Builder) >= 0.88
+perl(Test::Deep)
+perl(Test::More) >= 0.96
+perl(Test::Tester) >= 0.108
+perl(Test::Warnings) >= 0.009
+perl(lib)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,11 @@
+autoconf
+automake
+flex
+flex-static
+gawk
+groff
+jade
+perl-generators
+perl-interpreter >= 4:5.10.1
+sgml-common
+texinfo

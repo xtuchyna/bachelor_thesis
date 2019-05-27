@@ -1,0 +1,12 @@
+cmake
+libstdc++-static
+libxml2-devel
+llvm5.0-devel = 5.0.1
+llvm5.0-static = 5.0.1
+ncurses-devel
+perl-generators
+python-virtualenv
+python3-lit
+python3-sphinx
+tcl
+zlib-devel

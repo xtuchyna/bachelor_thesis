@@ -1,0 +1,19 @@
+aspell-en
+perl(ExtUtils::MakeMaker) >= 6.42
+perl(File::Spec)
+perl(Module::Install::AuthorTests)
+perl(Module::Install::ReadmeFromPod)
+perl(Module::Install::ReadmeMarkdownFromPod)
+perl(Module::Install::Repository)
+perl(Mouse) >= 0.39
+perl(Mouse::Role)
+perl(MouseX::Types::Path::Class) >= 0.06
+perl(Test::More) >= 0.94
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::Spelling)
+perl(Test::UseAllModules)
+perl(inc::Module::Install)
+perl(strict)
+perl-generators
+perl-interpreter

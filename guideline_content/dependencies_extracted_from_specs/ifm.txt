@@ -1,0 +1,4 @@
+automake
+perl-generators
+tk
+zlib-devel

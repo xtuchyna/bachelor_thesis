@@ -1,0 +1,14 @@
+autoconf
+automake
+chrpath
+gcc-c++
+libedit-devel
+libicu-devel
+libstdc++-static
+libtermcap-devel
+libtommath-devel
+libtool
+ncurses-devel
+procmail
+systemd-units
+zlib-devel

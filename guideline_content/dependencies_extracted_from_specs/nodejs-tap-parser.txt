@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(events-to-array)
+npm(glob)
+npm(js-yaml)
+npm(tap)
+npm(tape)

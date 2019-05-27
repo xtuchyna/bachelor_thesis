@@ -1,0 +1,7 @@
+ghc-Cabal-devel
+ghc-data-default-devel
+ghc-rpm-macros
+libX11-devel
+libXext-devel
+libXinerama-devel
+libXrandr-devel

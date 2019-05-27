@@ -1,0 +1,2 @@
+perl(Pod::Man)
+perl-generators

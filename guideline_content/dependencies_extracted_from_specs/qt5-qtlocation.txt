@@ -1,0 +1,7 @@
+pkgconfig(icu-i18n)
+pkgconfig(libcrypto)
+pkgconfig(libssl)
+pkgconfig(zlib)
+qt5-qtbase-devel >= 5.9.0
+qt5-qtbase-private-devel
+qt5-qtdeclarative-devel >= 5.9.0

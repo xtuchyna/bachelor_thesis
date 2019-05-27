@@ -1,0 +1,12 @@
+perl(Carp)
+perl(Data::OptList) >= 0.107
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(FindBin)
+perl(Import::Into) >= 1.000003
+perl(Module::Runtime) >= 0.013
+perl(Moo) >= 0.091004
+perl(Test::More) >= 0.96
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators

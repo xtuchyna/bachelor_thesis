@@ -1,0 +1,7 @@
+cmake
+doxygen
+gcc-c++
+libtiff-devel
+pkgconfig(lcms2)
+pkgconfig(libpng)
+pkgconfig(zlib)

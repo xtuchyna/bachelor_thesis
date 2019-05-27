@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(activerecord)
+rubygem(haml)
+rubygem(railties)
+rubygem(rspec-rails) >= 2.2
+rubygem(sqlite3)
+rubygems-devel

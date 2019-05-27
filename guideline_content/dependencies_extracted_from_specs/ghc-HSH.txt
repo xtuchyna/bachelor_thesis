@@ -1,0 +1,13 @@
+ghc-Cabal-devel
+ghc-MissingH-devel
+ghc-bytestring-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-hslogger-devel
+ghc-mtl-devel
+ghc-process-devel
+ghc-regex-base-devel
+ghc-regex-compat-devel
+ghc-regex-posix-devel
+ghc-rpm-macros
+ghc-unix-devel

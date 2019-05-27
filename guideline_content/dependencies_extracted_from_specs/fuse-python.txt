@@ -1,0 +1,4 @@
+fuse-devel
+pkgconfig
+python-devel
+python-setuptools

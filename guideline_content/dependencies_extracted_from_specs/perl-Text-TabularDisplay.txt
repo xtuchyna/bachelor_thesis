@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test)
+perl(integer)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

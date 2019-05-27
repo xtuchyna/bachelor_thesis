@@ -1,0 +1,15 @@
+cmake
+gfal2-plugin-mock
+gfal2-python
+m2crypto
+pandoc
+python-dateutil
+python-dirq
+python-jsonschema
+python-m2ext
+python-mock
+python-nose
+python-pylons
+python-requests
+python-sqlalchemy
+scipy

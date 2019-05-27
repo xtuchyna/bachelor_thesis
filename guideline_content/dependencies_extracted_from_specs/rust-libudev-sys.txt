@@ -1,0 +1,4 @@
+(crate(libc) >= 0.2.0 with crate(libc) < 0.3.0)
+(crate(pkg-config) >= 0.3.2 with crate(pkg-config) < 0.4.0)
+pkgconfig(libudev)
+rust-packaging

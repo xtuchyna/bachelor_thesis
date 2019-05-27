@@ -1,0 +1,7 @@
+gnuplot
+octave
+python3-devel
+python3-ipykernel
+python3-jupyter-client >= 4.3.0
+python3-jupyter-kernel-test
+python3-metakernel >= 0.20.11

@@ -1,0 +1,19 @@
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(POE) >= 1.311
+perl(POE::Filter::Reference)
+perl(POE::Wheel::Run)
+perl(Scalar::Util) >= 1.23
+perl(Socket) > 2.001
+perl(Storable) >= 2.18
+perl(Test::More) >= 0.96
+perl(Time::HiRes) >= 1.9711
+perl(base)
+perl(bytes)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

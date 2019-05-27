@@ -1,0 +1,13 @@
+doxygen
+glut-devel
+imlib2-devel
+libGLU-devel
+libX11-devel
+ncurses-devel
+pango-devel
+python2-devel
+ruby
+ruby-devel
+slang-devel
+tetex-dvips
+tetex-latex

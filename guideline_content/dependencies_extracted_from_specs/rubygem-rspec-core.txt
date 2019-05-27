@@ -1,0 +1,13 @@
+git
+glibc-langpack-en
+rubygem(aruba)
+rubygem(coderay)
+rubygem(flexmock)
+rubygem(minitest)
+rubygem(mocha)
+rubygem(nokogiri)
+rubygem(rake)
+rubygem(rr)
+rubygem(rspec)
+rubygem(thread_order)
+rubygems-devel

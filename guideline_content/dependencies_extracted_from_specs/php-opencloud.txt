@@ -1,0 +1,16 @@
+php(language) >= 5.4
+php-composer(fedora/autoloader)
+php-composer(guzzle/guzzle) < 4.0
+php-composer(guzzle/guzzle) >= 3.9.3
+php-composer(phpspec/prophecy) < 2.0
+php-composer(phpspec/prophecy) >= 1.4
+php-composer(phpunit/phpunit)
+php-composer(psr/log) < 2.0
+php-composer(psr/log) >= 1.0.1
+php-curl
+php-date
+php-hash
+php-json
+php-pcre
+php-reflection
+php-spl

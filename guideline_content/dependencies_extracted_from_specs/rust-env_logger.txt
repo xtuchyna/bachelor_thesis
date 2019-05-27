@@ -1,0 +1,6 @@
+(crate(atty) >= 0.2.0 with crate(atty) < 0.3.0)
+(crate(humantime) >= 1.1.0 with crate(humantime) < 2.0.0)
+(crate(log) >= 0.4.0 with crate(log) < 0.5.0 with crate(log/std))
+(crate(regex) >= 0.2.0 with crate(regex) < 0.3.0)
+(crate(termcolor) >= 0.3.0 with crate(termcolor) < 0.4.0)
+rust-packaging

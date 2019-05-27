@@ -1,0 +1,14 @@
+SDL2-devel
+SDL2_image-devel
+SDL_gfx-devel
+asio-devel
+boost-devel
+bullet-devel
+desktop-file-utils
+glew-devel
+libGL-devel
+libarchive-devel
+libcurl-devel
+libvorbis-devel
+python2
+scons

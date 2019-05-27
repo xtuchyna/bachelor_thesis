@@ -1,0 +1,13 @@
+maven-local
+mvn(isorelax:isorelax)
+mvn(jdom:jdom)
+mvn(junit:junit)
+mvn(net.java:jvnet-parent:pom:)
+mvn(org.apache.ant:ant)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(relaxngDatatype:relaxngDatatype)
+mvn(xerces:xercesImpl)
+mvn(xml-resolver:xml-resolver)

@@ -1,0 +1,12 @@
+autoconf
+automake
+dos2unix
+gettext
+intltool
+libtool
+libxslt
+pkgconfig(gapi-3.0)
+pkgconfig(gtk-sharp-3.0)
+pkgconfig(mono)
+pkgconfig(monodoc)
+pkgconfig(webkit2gtk-4.0)

@@ -1,0 +1,7 @@
+expat-devel
+gcc
+libtirpc-devel
+proj-devel
+tcl-devel
+unixODBC-devel
+zlib-devel

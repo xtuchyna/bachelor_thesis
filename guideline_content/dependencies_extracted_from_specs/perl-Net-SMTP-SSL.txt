@@ -1,0 +1,8 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IO::Socket::SSL)
+perl(Net::SMTP)
+perl(Test::More) >= 0.47
+perl(strict)
+perl-generators
+perl-interpreter

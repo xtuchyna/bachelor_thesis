@@ -1,0 +1,22 @@
+coreutils
+findutils
+make
+perl(Archive::Tar) >= 1.76
+perl(Archive::Zip)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Path)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp) >= 0.19
+perl(FindBin)
+perl(IO::Uncompress::Bunzip2)
+perl(IO::Zlib)
+perl(Parallel::ForkManager) >= 0.7.6
+perl(Test::More) >= 0.82
+perl(Test::Pod) >= 1.18
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::UseAllModules) >= 0.10
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

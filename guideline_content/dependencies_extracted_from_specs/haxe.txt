@@ -1,0 +1,7 @@
+cmake
+help2man
+nekovm-devel >= 2.1.0
+ocaml
+ocaml-camlp4-devel
+pcre-devel
+zlib-devel

@@ -1,0 +1,7 @@
+perl(Carp)
+perl(Module::Build)
+perl(Test::Builder::Tester)
+perl(Test::FailWarnings)
+perl(Test::More)
+perl-generators
+perl-interpreter

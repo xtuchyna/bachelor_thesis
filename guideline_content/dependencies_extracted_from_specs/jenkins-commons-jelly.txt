@@ -1,0 +1,12 @@
+maven-local
+mvn(commons-beanutils:commons-beanutils)
+mvn(commons-cli:commons-cli)
+mvn(commons-collections:commons-collections)
+mvn(commons-discovery:commons-discovery)
+mvn(commons-lang:commons-lang)
+mvn(dom4j:dom4j)
+mvn(javax.servlet:servlet-api)
+mvn(jaxen:jaxen)
+mvn(junit:junit)
+mvn(org.apache.taglibs:taglibs-standard-spec)
+mvn(org.jenkins-ci:commons-jexl)

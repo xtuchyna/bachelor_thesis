@@ -1,0 +1,6 @@
+cmake3
+gcc-c++
+ninja-build
+python2-devel
+python2-simplejson
+spirv-headers-devel

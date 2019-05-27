@@ -1,0 +1,19 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(HTTP::Server::Simple)
+perl(HTTP::Server::Simple::CGI)
+perl(LWP::UserAgent)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::More) >= 0.8
+perl(URI)
+perl(XML::LibXML)
+perl(constant)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

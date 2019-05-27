@@ -1,0 +1,10 @@
+python-httpretty
+python-setuptools
+python2-devel
+python2-pytest
+python2-six
+python3-devel
+python3-httpretty
+python3-pytest
+python3-setuptools
+python3-six

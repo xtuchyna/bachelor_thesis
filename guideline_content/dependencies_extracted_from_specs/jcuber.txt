@@ -1,0 +1,3 @@
+java-devel
+jpackage-utils
+xerces-j2

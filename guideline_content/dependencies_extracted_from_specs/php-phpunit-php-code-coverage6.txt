@@ -1,0 +1,11 @@
+(php-composer(phpunit/php-file-iterator) >= 1.4.2 with php-composer(phpunit/php-file-iterator) < 2)
+(php-composer(phpunit/php-text-template) >= 1.2.1 with php-composer(phpunit/php-text-template) < 2)
+(php-composer(phpunit/php-token-stream) >= 3.0 with php-composer(phpunit/php-token-stream) < 4)
+(php-composer(sebastian/code-unit-reverse-lookup) >= 1.0.1 with php-composer(sebastian/code-unit-reverse-lookup) < 2)
+(php-composer(sebastian/environment) >= 3.1 with php-composer(sebastian/environment) < 4)
+(php-composer(sebastian/version) >= 2.0.1 with php-composer(sebastian/version) < 3)
+(php-composer(theseer/tokenizer) >= 1.1 with php-composer(theseer/tokenizer) < 2)
+php(language) >= 7.1
+php-fedora-autoloader-devel >= 1.0.0
+php-pecl-xdebug >= 2.6.0
+phpunit7

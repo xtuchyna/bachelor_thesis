@@ -1,0 +1,7 @@
+gettext
+intltool
+libxml2-devel >= 2.6.12
+libxslt-devel >= 1.1.8
+python2
+python2-libxml2
+scrollkeeper

@@ -1,0 +1,2 @@
+gtkmm24-devel >= 2.6.0
+libglade2-devel >= 2.6.1

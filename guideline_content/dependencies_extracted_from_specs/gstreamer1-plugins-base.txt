@@ -1,0 +1,24 @@
+alsa-lib-devel
+automake
+cdparanoia-devel
+chrpath
+gettext-devel
+gobject-introspection-devel >= 1.31.1
+gstreamer1-devel >= 1.14.0
+gtk-doc >= 1.3
+iso-codes-devel
+libXv-devel
+libogg-devel >= 1.0
+libtheora-devel >= 1.1
+libtool
+libvisual-devel
+libvorbis-devel >= 1.0
+mesa-libEGL-devel
+mesa-libGL-devel
+mesa-libGLES-devel
+mesa-libGLU-devel
+opus-devel
+orc-devel >= 0.4.18
+pango-devel
+pkgconfig
+wayland-devel

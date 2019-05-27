@@ -1,0 +1,5 @@
+perl(Digest::SHA1)
+perl(ExtUtils::MakeMaker)
+perl(FindBin)
+perl(IO::Socket)
+perl-generators

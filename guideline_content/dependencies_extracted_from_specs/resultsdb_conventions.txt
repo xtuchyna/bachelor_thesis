@@ -1,0 +1,8 @@
+pytest
+python-mock
+python-setuptools
+python2-cached_property
+python2-devel
+python2-fedfind
+python2-productmd
+python2-resultsdb_api

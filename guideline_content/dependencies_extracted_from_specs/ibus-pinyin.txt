@@ -1,0 +1,11 @@
+gettext-devel
+gnome-common
+ibus-devel >= 1.5.4
+intltool
+libtool
+libuuid-devel
+lua-devel >= 5.1
+opencc-devel
+pkgconfig
+pyzy-devel
+sqlite-devel

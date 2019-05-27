@@ -1,0 +1,8 @@
+maven-local
+mvn(io.takari.maven.plugins:takari-lifecycle-plugin)
+mvn(javax.inject:javax.inject)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven:maven-core)
+mvn(org.codehaus.plexus:plexus-component-annotations)
+mvn(org.codehaus.plexus:plexus-component-metadata)
+mvn(org.eclipse.aether:aether-api)

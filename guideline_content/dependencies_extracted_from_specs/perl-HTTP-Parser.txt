@@ -1,0 +1,11 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Request)
+perl(HTTP::Response)
+perl(Test::More)
+perl(URI)
+perl(strict)
+perl-generators
+perl-interpreter

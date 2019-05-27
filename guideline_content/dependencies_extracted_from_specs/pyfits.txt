@@ -1,0 +1,12 @@
+cfitsio-devel
+python2-d2to1 >= 0.2.12
+python2-devel
+python2-nose
+python2-numpy
+python2-setuptools
+python3-d2to1 >= 0.2.12
+python3-devel
+python3-nose
+python3-numpy
+python3-setuptools
+python3-tools

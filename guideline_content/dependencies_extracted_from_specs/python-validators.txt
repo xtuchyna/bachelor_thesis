@@ -1,0 +1,8 @@
+python2-decorator
+python2-devel
+python2-pytest
+python2-six
+python3-decorator
+python3-devel
+python3-pytest
+python3-six

@@ -1,0 +1,9 @@
+pandoc
+pandoc-citeproc
+python-setuptools
+python2-devel
+python3-devel
+python3-setuptools
+tex(ecrm1000.tfm)
+texlive-collection-fontsrecommended
+texlive-scheme-basic

@@ -1,0 +1,4 @@
+desktop-file-utils
+gettext
+ggz-base-libs-devel
+gtk2-devel

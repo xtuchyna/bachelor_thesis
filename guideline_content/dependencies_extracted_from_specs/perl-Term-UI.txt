@@ -1,0 +1,17 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Locale::Maketext::Simple)
+perl(Log::Message)
+perl(Log::Message::Simple)
+perl(Params::Check)
+perl(Term::ReadLine)
+perl(Test::More) >= 0.31
+perl(base)
+perl(if)
+perl(lib)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+apache-commons-parent
+gcc
+java-devel >= 1:1.6.0
+jpackage-utils
+make
+maven-local
+maven-surefire-provider-junit
+xmlto

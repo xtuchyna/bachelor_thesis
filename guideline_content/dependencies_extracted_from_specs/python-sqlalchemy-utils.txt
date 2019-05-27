@@ -1,0 +1,18 @@
+python-setuptools
+python-six
+python-sqlalchemy >= 0.9.3
+python2-dateutil
+python2-devel
+python2-flexmock
+python2-mock
+python2-pytest
+python2-pytz
+python3-dateutil
+python3-devel
+python3-flexmock
+python3-mock
+python3-pytest
+python3-pytz
+python3-setuptools
+python3-six
+python3-sqlalchemy >= 0.9.3

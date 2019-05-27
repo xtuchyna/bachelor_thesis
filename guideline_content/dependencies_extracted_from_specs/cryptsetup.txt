@@ -1,0 +1,12 @@
+device-mapper-devel
+json-c-devel
+libargon2-devel
+libgcrypt-devel
+libgpg-error-devel
+libpwquality-devel
+libselinux-devel
+libsepol-devel
+libuuid-devel
+popt-devel
+python2-devel
+python3-devel

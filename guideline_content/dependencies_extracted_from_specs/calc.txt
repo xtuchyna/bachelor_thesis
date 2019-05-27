@@ -1,0 +1,4 @@
+ncurses-devel >= 5.2-26
+readline-devel >= 5.2-3
+sed
+util-linux

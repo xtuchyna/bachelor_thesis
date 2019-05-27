@@ -1,0 +1,20 @@
+/usr/bin/dnf
+iproute
+pkgconfig(systemd)
+python3-PyYAML
+python3-configobj
+python3-devel
+python3-httpretty >= 0.8.14-2
+python3-jinja2
+python3-jsonpatch
+python3-jsonschema
+python3-mock
+python3-nose
+python3-oauthlib
+python3-prettytable
+python3-pyserial
+python3-requests
+python3-setuptools
+python3-six
+python3-unittest2
+systemd

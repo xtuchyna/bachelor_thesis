@@ -1,0 +1,15 @@
+make
+perl(Carp)
+perl(DBD::CSV)
+perl(DBI)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(FindBin)
+perl(HTML::TableExtract)
+perl(Test::More)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

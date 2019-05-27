@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext
+intltool
+libmpd-devel >= 0.15.0
+libxfce4ui-devel >= 4.8.0

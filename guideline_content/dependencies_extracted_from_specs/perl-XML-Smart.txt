@@ -1,0 +1,16 @@
+make
+perl(Carp)
+perl(Devel::Cycle)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(LWP::UserAgent)
+perl(Object::MultiType) >= 0.03
+perl(Test)
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(open)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

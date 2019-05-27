@@ -1,0 +1,4 @@
+java-javadoc
+maven-local
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.eclipse.osgi:org.eclipse.osgi)

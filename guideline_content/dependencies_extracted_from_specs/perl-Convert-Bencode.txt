@@ -1,0 +1,10 @@
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More) >= 0.45
+perl(bytes)
+perl(locale)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

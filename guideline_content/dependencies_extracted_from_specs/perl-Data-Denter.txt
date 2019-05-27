@@ -1,0 +1,11 @@
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test)
+perl(diagnostics)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

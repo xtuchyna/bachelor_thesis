@@ -1,0 +1,6 @@
+gcc
+intltool
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(libxml-2.0)
+pkgconfig(pango)

@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(Cwd)
+perl(ExtUtils::MakeMaker)
+perl(Test)
+perl(URI)
+perl(XML::SAX) >= 0.05
+perl(XML::SAX::Base)
+perl(XML::SAX::Writer)
+perl(constant)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

@@ -1,0 +1,7 @@
+ghc-Cabal-devel
+ghc-blaze-builder-devel
+ghc-bytestring-devel
+ghc-enumerator-devel
+ghc-rpm-macros
+ghc-streaming-commons-devel
+ghc-transformers-devel

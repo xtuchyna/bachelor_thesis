@@ -1,0 +1,7 @@
+ghc-Cabal-devel
+ghc-containers-devel
+ghc-control-monad-free-devel
+ghc-haskeline-devel
+ghc-mtl-devel
+ghc-rpm-macros
+ghc-transformers-devel

@@ -1,0 +1,20 @@
+abrt-gui-devel >= 2.6.0
+asciidoc
+desktop-file-utils
+gettext
+git
+gtk3-devel
+intltool
+libX11-devel
+libreport-gtk-devel >= 2.6.0
+libreport-python3
+libtool
+pygobject3-devel
+python3-dbus
+python3-devel
+python3-gobject
+python3-humanize
+python3-inotify
+python3-pylint
+python3-six
+xmlto

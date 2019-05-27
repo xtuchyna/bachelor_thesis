@@ -1,0 +1,9 @@
+desktop-file-utils
+docbook-style-xsl
+docbook-utils
+gettext
+intltool
+pkgconfig(dbus-1)
+pkgconfig(dbus-glib-1)
+pkgconfig(gtk+-2.0) > 2.6
+pkgconfig(libmenu-cache)

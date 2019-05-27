@@ -1,0 +1,3 @@
+ncurses-devel
+perl-generators
+pulseaudio-libs-devel

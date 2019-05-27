@@ -1,0 +1,10 @@
+python2-devel
+python2-lazr-delegates
+python2-nose
+python2-setuptools
+python2-zope-interface
+python3-devel
+python3-lazr-delegates
+python3-nose
+python3-setuptools
+python3-zope-interface

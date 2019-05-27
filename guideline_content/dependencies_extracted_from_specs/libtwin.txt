@@ -1,0 +1,4 @@
+freetype-devel
+libjpeg-devel
+libpng-devel
+zlib-devel

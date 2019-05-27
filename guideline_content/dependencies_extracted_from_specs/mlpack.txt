@@ -1,0 +1,10 @@
+armadillo-devel >= 4.200.0
+boost-devel
+boost-math
+boost-program-options
+boost-serialization >= 1.49
+cmake >= 2.8.5
+doxygen
+graphviz
+pkg-config
+txt2man

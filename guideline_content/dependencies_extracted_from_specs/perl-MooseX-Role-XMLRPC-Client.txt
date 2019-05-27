@@ -1,0 +1,16 @@
+perl(Crypt::SSLeay)
+perl(File::Find)
+perl(File::Temp)
+perl(HTTP::Cookies)
+perl(Module::Install)
+perl(Moose)
+perl(MooseX::AttributeShortcuts)
+perl(MooseX::Role::Parameterized)
+perl(MooseX::Types::Moose)
+perl(MooseX::Types::Path::Class)
+perl(MooseX::Types::URI)
+perl(RPC::XML::Client)
+perl(Test::More) >= 0.88
+perl(Test::Requires)
+perl(namespace::clean)
+perl-generators

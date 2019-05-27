@@ -1,0 +1,6 @@
+python2-devel
+python2-pytest-runner
+python2-six
+python3-devel
+python3-pytest-runner
+python3-six

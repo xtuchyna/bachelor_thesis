@@ -1,0 +1,10 @@
+emacs
+ghostscript
+texinfo
+texlive
+texlive-comment
+texlive-eepic
+texlive-kpathsea-bin
+texlive-latex-bin-bin
+texlive-pst-tools
+texlive-texconfig

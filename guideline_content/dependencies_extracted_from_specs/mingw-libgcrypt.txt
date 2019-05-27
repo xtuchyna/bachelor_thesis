@@ -1,0 +1,11 @@
+autoconf
+automake
+libtool
+mingw32-binutils
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-libgpg-error
+mingw64-binutils
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-libgpg-error

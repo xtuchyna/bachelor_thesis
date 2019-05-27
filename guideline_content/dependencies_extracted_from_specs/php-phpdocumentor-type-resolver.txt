@@ -1,0 +1,10 @@
+php(language) >= 5.5
+php-composer(mockery/mockery) < 1.0
+php-composer(mockery/mockery) >= 0.9.4
+php-composer(phpdocumentor/reflection-common) < 2.0
+php-composer(phpdocumentor/reflection-common) >= 1.0
+php-composer(phpunit/phpunit)
+php-fedora-autoloader-devel
+php-reflection
+php-spl
+php-tokenizer

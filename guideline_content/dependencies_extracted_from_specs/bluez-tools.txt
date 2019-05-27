@@ -1,0 +1,4 @@
+autoconf
+automake
+glib2-devel
+readline-devel

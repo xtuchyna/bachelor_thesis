@@ -1,0 +1,31 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(DBD::SQLite)
+perl(DBI)
+perl(DBIx::Class) >= 0.08108
+perl(DBIx::Class::ResultSet)
+perl(DBIx::Class::Schema)
+perl(DateTime)
+perl(DateTime::Format::SQLite)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(HTML::FormFu) >= 2.00
+perl(HTML::FormFu::Constraint)
+perl(HTML::FormFu::Model) >= 2.00
+perl(HTML::FormFu::Util)
+perl(List::MoreUtils)
+perl(List::Util)
+perl(Locale::Maketext)
+perl(Moose)
+perl(MooseX::Attribute::FormFuChained)
+perl(Scalar::Util)
+perl(Storable)
+perl(Test::More)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

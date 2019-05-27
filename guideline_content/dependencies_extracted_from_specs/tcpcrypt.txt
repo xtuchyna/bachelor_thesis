@@ -1,0 +1,6 @@
+libcap-devel
+libnetfilter_conntrack-devel
+libnetfilter_queue-devel
+libpcap-devel
+openssl-devel
+systemd

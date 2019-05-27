@@ -1,0 +1,5 @@
+java-devel
+maven-local
+mvn(javax.xml.soap:saaj-api)
+mvn(net.java:jvnet-parent:pom:)
+mvn(org.jvnet.mimepull:mimepull)

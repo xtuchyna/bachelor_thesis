@@ -1,0 +1,3 @@
+/usr/bin/gtk-encode-symbolic-svg
+intltool
+librsvg2

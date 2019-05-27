@@ -1,0 +1,36 @@
+ImageMagick
+boost-devel
+desktop-file-utils
+perl(Class::XSAccessor)
+perl(Devel::CheckLib)
+perl(Encode::Locale) >= 1.05
+perl(ExtUtils::MakeMaker) >= 6.80
+perl(ExtUtils::ParseXS) >= 3.22
+perl(ExtUtils::Typemaps) >= 1.00
+perl(ExtUtils::Typemaps::Default) >= 1.05
+perl(File::Basename)
+perl(File::Spec)
+perl(Getopt::Long)
+perl(Growl::GNTP) >= 0.15
+perl(IO::Scalar)
+perl(List::Util)
+perl(Math::PlanePath) >= 53
+perl(Module::Build::WithXSpp) >= 0.14
+perl(Moo) >= 1.003001
+perl(POSIX)
+perl(SVG)
+perl(Scalar::Util)
+perl(Storable)
+perl(Test::Harness)
+perl(Test::More)
+perl(Thread::Semaphore)
+perl(Time::HiRes)
+perl(Unicode::Normalize)
+perl(Wx)
+perl(XML::SAX)
+perl(XML::SAX::ExpatXS)
+perl(parent)
+perl(threads) >= 1.96
+perl-devel
+perl-generators
+poly2tri-devel

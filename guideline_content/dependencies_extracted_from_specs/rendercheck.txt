@@ -1,0 +1,6 @@
+autoconf
+automake
+libXrender-devel
+libtool
+pkgconfig
+xorg-x11-util-macros

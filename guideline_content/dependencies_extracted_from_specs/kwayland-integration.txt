@@ -1,0 +1,6 @@
+extra-cmake-modules
+kf5-kidletime-devel
+kf5-kwayland-devel
+kf5-kwindowsystem-devel
+kf5-rpm-macros
+qt5-qtbase-devel

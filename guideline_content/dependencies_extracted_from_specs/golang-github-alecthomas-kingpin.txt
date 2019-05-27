@@ -1,0 +1,4 @@
+compiler(go-compiler)
+golang(github.com/alecthomas/assert)
+golang(github.com/alecthomas/template)
+golang(github.com/alecthomas/units)

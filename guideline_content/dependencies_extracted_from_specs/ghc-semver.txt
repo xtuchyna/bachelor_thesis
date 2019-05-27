@@ -1,0 +1,5 @@
+ghc-Cabal-devel
+ghc-attoparsec-devel
+ghc-deepseq-devel
+ghc-rpm-macros
+ghc-text-devel

@@ -1,0 +1,23 @@
+make
+perl(CPAN)
+perl(Carp)
+perl(Class::Accessor::Grouped)
+perl(DBIx::Class)
+perl(DBIx::Class::Relationship::Helpers)
+perl(Data::Dump)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::ShareDir) >= 1.00
+perl(File::ShareDir::Install)
+perl(File::Spec)
+perl(File::Temp)
+perl(FindBin)
+perl(Getopt::Long)
+perl(Pod::Usage)
+perl(Template)
+perl(Test::More)
+perl(Tie::IxHash)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

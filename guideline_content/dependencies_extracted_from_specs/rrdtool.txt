@@ -1,0 +1,27 @@
+autoconf
+automake
+cairo-devel >= 1.4.6
+freetype-devel
+gcc-c++
+gettext
+groff
+intltool >= 0.35.0
+libdbi-devel
+libpng-devel
+libtool
+libxml2-devel
+lua
+lua-devel
+openssl-devel
+pango-devel >= 1.17
+perl-ExtUtils-MakeMaker
+perl-Pod-Html
+perl-devel
+perl-generators
+python-devel
+python-setuptools
+ruby
+ruby-devel
+systemd
+tcl-devel >= 8.0
+zlib-devel

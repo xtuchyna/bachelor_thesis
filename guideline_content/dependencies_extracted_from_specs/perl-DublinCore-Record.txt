@@ -1,0 +1,4 @@
+perl(Class::Accessor)
+perl(Module::Build)
+perl(Test::More)
+perl-generators

@@ -1,0 +1,6 @@
+automake
+byacc
+flex
+flex-static
+glibc-kernheaders >= 2.4-9.1.88
+libtool

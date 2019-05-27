@@ -1,0 +1,11 @@
+perl(ExtUtils::MakeMaker)
+perl(IO::Interactive)
+perl(Term::ProgressBar)
+perl(Test::MockObject)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

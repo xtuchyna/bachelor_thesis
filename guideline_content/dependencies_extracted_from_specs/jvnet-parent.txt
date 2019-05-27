@@ -1,0 +1,3 @@
+jpackage-utils
+maven-enforcer-plugin
+maven-local

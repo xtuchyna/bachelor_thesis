@@ -1,0 +1,10 @@
+libidn-devel >= 0.4.0
+perl(AutoLoader)
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Getopt::Long)
+perl(Test)
+perl-devel
+perl-generators
+perl-interpreter >= 5.8.0

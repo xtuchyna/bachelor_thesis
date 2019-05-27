@@ -1,0 +1,14 @@
+python2-blinker
+python2-devel
+python2-flask
+python2-flask-sqlalchemy
+python2-nose
+python2-setuptools
+python2-whoosh
+python3-blinker
+python3-devel
+python3-flask
+python3-flask-sqlalchemy
+python3-nose
+python3-setuptools
+python3-whoosh

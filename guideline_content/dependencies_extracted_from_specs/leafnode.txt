@@ -1,0 +1,3 @@
+gcc
+pcre-devel
+systemd-units

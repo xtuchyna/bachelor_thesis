@@ -1,0 +1,6 @@
+autoconf
+automake
+gcc
+pkgconfig(dbus-glib-1)
+pkgconfig(glib-2.0)
+pkgconfig(x11)

@@ -1,0 +1,10 @@
+autoconf
+automake
+gcc
+help2man
+libtool
+mariadb-connector-c-devel
+net-snmp-devel
+pkgconfig
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

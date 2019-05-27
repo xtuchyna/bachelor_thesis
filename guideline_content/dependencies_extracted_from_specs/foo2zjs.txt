@@ -1,0 +1,6 @@
+bc
+cups
+ghostscript
+groff
+jbigkit-devel
+python3-cups

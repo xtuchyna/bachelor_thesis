@@ -1,0 +1,31 @@
+make
+perl(Carp)
+perl(Compress::Raw::Zlib)
+perl(Config)
+perl(Encode) >= 2.21
+perl(Encode::Locale) >= 1
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(HTTP::Date) >= 6
+perl(IO::Compress::Bzip2) >= 2.021
+perl(IO::Compress::Deflate)
+perl(IO::Compress::Gzip)
+perl(IO::HTML)
+perl(IO::Uncompress::Bunzip2) >= 2.021
+perl(IO::Uncompress::Gunzip)
+perl(IO::Uncompress::Inflate)
+perl(IO::Uncompress::RawInflate)
+perl(LWP::MediaTypes) >= 6
+perl(MIME::Base64) >= 2.1
+perl(MIME::QuotedPrint)
+perl(PerlIO::encoding)
+perl(Storable)
+perl(Test::More)
+perl(Try::Tiny)
+perl(URI) >= 1.10
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

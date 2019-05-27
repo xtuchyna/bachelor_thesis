@@ -1,0 +1,5 @@
+cmake
+gnutls-devel
+libuuid-devel
+shadow-utils
+systemd

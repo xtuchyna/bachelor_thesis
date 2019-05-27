@@ -1,0 +1,8 @@
+perl(Email::Find::addrspec) >= 0.09
+perl(Exporter::Lite) >= 0.01
+perl(ExtUtils::MakeMaker)
+perl(HTML::Entities) >= 1.26
+perl(Scalar::Util) >= 1.12
+perl(Test::More) >= 0.47
+perl(Text::Tabs) >= 98.1128
+perl-generators

@@ -1,0 +1,10 @@
+cmake >= 3.0
+kf5-kwindowsystem-devel >= 5.5
+pkgconfig(Qt5Help)
+pkgconfig(Qt5Script)
+pkgconfig(Qt5Xdg)
+pkgconfig(libmenu-cache)
+pkgconfig(lxqt) >= 0.11.0
+pkgconfig(lxqt-globalkeys) >= 0.11.0
+pkgconfig(lxqt-globalkeys-ui) >= 0.11.0
+pkgconfig(muparser)

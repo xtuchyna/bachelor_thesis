@@ -1,0 +1,23 @@
+bison
+flex
+gettext
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-gettext
+mingw32-libxml2
+mingw32-libxslt
+mingw32-openssl
+mingw32-readline
+mingw32-tcl
+mingw32-zlib
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-gettext
+mingw64-libxml2
+mingw64-libxslt
+mingw64-openssl
+mingw64-readline
+mingw64-tcl
+mingw64-zlib
+pkgconfig
+tcl

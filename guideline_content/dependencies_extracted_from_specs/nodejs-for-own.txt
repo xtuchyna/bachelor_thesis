@@ -1,0 +1,4 @@
+mocha
+nodejs-packaging
+npm(for-in)
+npm(should)

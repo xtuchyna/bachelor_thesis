@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(DateTime)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::Socket::SSL) >= 1.94
+perl(LWP::Protocol::https) >= 6.00
+perl(POSIX)
+perl(SOAP::Lite) >= 1.0
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

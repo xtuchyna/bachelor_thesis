@@ -1,0 +1,20 @@
+findutils
+make
+perl(Compress::Zlib)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Compare)
+perl(File::Spec)
+perl(Getopt::Std)
+perl(IO::File)
+perl(IO::String)
+perl(Symbol)
+perl(Test::More)
+perl(Test::Simple)
+perl(bytes)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl-generators
+perl-interpreter

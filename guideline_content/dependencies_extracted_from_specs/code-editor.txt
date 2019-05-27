@@ -1,0 +1,4 @@
+botan-devel
+desktop-file-utils
+qt4-devel >= 4.8
+qtsingleapplication-devel

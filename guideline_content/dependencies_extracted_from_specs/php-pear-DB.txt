@@ -1,0 +1,1 @@
+php-pear(PEAR) >= 1.10.0

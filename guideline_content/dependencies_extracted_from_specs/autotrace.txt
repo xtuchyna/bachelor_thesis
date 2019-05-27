@@ -1,0 +1,12 @@
+ImageMagick-devel
+autoconf
+automake
+bzip2-devel
+freetype-devel
+libexif-devel
+libjpeg-devel
+libpng-devel > 2:1.2
+libtiff-devel
+libtool
+libxml2-devel
+pstoedit-devel

@@ -1,0 +1,7 @@
+php(language) >= 7.1
+php-fedora-autoloader-devel
+php-pdo
+php-phar
+php-reflection
+php-spl
+phpunit6 >= 6.2.3

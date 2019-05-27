@@ -1,0 +1,12 @@
+autoconf
+automake
+cvs
+expect >= 5.40
+iputils
+openssh-clients
+perl-generators
+perl-interpreter
+rsh
+sendmail
+subversion
+telnet

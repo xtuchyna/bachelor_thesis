@@ -1,0 +1,14 @@
+desktop-file-utils
+enchant-devel
+gtk3-devel
+gtksourceview3-devel
+iso-codes-devel
+libSM-devel
+libpeas-devel
+libsoup-devel
+mate-common
+pygobject3-devel
+pygtksourceview-devel
+python2-devel
+rarian-compat
+yelp-tools

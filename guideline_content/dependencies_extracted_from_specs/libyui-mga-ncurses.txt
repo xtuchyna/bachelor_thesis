@@ -1,0 +1,8 @@
+boost-devel
+cmake >= 2.8
+doxygen
+graphviz
+hardlink
+libyui-devel >= 3.0.4
+libyui-mga-devel
+libyui-ncurses-devel

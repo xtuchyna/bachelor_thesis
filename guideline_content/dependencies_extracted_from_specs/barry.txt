@@ -1,0 +1,16 @@
+autoconf
+automake
+boost-devel
+desktop-file-utils
+doxygen
+fuse-devel
+gettext-devel
+gtkmm24-devel
+libglade2-devel
+libglademm24-devel
+libopensync-devel
+libtar-devel
+libtool
+libusb-devel
+libxml++-devel
+zlib-devel

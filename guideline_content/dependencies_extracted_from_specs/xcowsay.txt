@@ -1,0 +1,4 @@
+dbus-glib-devel
+desktop-file-utils
+gettext
+gtk2-devel

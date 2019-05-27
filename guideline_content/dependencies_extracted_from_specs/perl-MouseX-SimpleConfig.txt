@@ -1,0 +1,33 @@
+perl(Carp)
+perl(Config::Any) >= 0.13
+perl(Config::General)
+perl(English)
+perl(ExtUtils::MakeMaker) >= 6.31
+perl(File::Find)
+perl(File::Temp)
+perl(Mouse) >= 0.35
+perl(Mouse::Role)
+perl(MouseX::ConfigFromFile) >= 0.02
+perl(Path::Class::File)
+perl(Pod::Coverage::TrustPod)
+perl(Test::CPAN::Meta)
+perl(Test::CheckChanges)
+perl(Test::ConsistentVersion)
+perl(Test::DistManifest)
+perl(Test::EOL)
+perl(Test::HasVersion)
+perl(Test::Kwalitee)
+perl(Test::MinimumVersion)
+perl(Test::More) >= 0.88
+perl(Test::NoTabs)
+perl(Test::Pod) >= 1.41
+perl(Test::Pod::Coverage) >= 1.08
+perl(Test::Portability::Files)
+perl(Test::Script)
+perl(Test::Vars)
+perl(YAML::Syck)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

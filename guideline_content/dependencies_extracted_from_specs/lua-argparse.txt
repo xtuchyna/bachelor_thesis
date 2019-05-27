@@ -1,0 +1,4 @@
+dos2unix
+lua-devel >= 5.3
+python3-sphinx
+python3-sphinx_rtd_theme

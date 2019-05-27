@@ -1,0 +1,8 @@
+autoconf
+automake
+gettext
+jack-audio-connection-kit-devel
+libsamplerate-devel
+libtool
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

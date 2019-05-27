@@ -1,0 +1,4 @@
+(crate(bytes) >= 0.4.0 with crate(bytes) < 0.5.0)
+(crate(futures) >= 0.1.11 with crate(futures) < 0.2.0)
+(crate(log) >= 0.4.0 with crate(log) < 0.5.0)
+rust-packaging

@@ -1,0 +1,4 @@
+desktop-file-utils
+gettext
+gsl-devel
+libgnomeui-devel

@@ -1,0 +1,24 @@
+findutils
+gcc
+make
+perl(B::Deparse)
+perl(Carp)
+perl(Config)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Scalar::Util)
+perl(Test::More) >= 0.98
+perl(XSLoader)
+perl(bytes)
+perl(constant)
+perl(if)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

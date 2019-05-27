@@ -1,0 +1,6 @@
+glib2-devel
+gobject-introspection-devel >= 1.36.0
+gtk-doc
+libsoup-devel
+libxml2-devel
+vala

@@ -1,0 +1,10 @@
+autoconf
+automake
+desktop-file-utils
+gettext-devel
+glib2-devel
+libX11-devel
+libXrandr-devel
+libXt-devel
+libconfuse-devel
+vte291-devel

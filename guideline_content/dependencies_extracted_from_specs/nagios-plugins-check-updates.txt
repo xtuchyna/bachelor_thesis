@@ -1,0 +1,5 @@
+perl(ExtUtils::MakeMaker)
+perl(Monitoring::Plugin)
+perl(Readonly)
+perl(Test::More)
+perl-generators

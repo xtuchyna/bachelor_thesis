@@ -1,0 +1,22 @@
+perl(CPAN::Meta)
+perl(CPAN::Meta::Requirements)
+perl(Class::Load)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec::Functions)
+perl(List::Util)
+perl(Module::Build::Tiny) >= 0.030
+perl(Module::Runtime)
+perl(Moose)
+perl(Moose::Role)
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::Types)
+perl(MooseX::Types::Moose)
+perl(Pod::Coverage)
+perl(Test::Fatal)
+perl(Test::More)
+perl(lib)
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

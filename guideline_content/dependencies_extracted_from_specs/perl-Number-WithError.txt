@@ -1,0 +1,18 @@
+perl(Exporter)
+perl(File::Spec::Functions)
+perl(Math::BigFloat) >= 1.40
+perl(Params::Util) >= 0.10
+perl(Test::LectroTest)
+perl(Test::More) >= 0.47
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(base)
+perl(constant)
+perl(inc::Module::Install)
+perl(lib)
+perl(overload)
+perl(prefork) >= 1.00
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

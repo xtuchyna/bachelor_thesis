@@ -1,0 +1,6 @@
+autoconf
+automake
+boost-devel
+gdal-devel
+netpbm-progs
+proj-devel

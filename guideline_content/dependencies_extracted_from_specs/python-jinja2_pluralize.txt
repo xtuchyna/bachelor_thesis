@@ -1,0 +1,8 @@
+python2-devel
+python2-inflect
+python2-jinja2
+python2-setuptools
+python3-devel
+python3-inflect
+python3-jinja2
+python3-setuptools

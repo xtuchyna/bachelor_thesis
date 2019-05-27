@@ -1,0 +1,78 @@
+/usr/bin/make
+/usr/bin/perl
+coreutils
+findutils
+perl(B)
+perl(B::Deparse)
+perl(CPAN::Meta::Requirements)
+perl(Carp)
+perl(Class::ISA)
+perl(Config)
+perl(Data::Dumper)
+perl(Devel::Hide)
+perl(Devel::LexAlias) >= 0.05
+perl(Devel::StackTrace)
+perl(Encode)
+perl(Exporter) >= 5.59
+perl(Exporter::Tiny) >= 0.026
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(Function::Parameters)
+perl(JSON::PP) >= 2.27105
+perl(Math::BigFloat)
+perl(Method::Generate::Accessor)
+perl(Moo)
+perl(Moo::Role)
+perl(Moose) >= 2.0400
+perl(Moose::Meta::TypeCoercion)
+perl(Moose::Meta::TypeCoercion::Union)
+perl(Moose::Meta::TypeConstraint)
+perl(Moose::Meta::TypeConstraint::Class)
+perl(Moose::Meta::TypeConstraint::DuckType)
+perl(Moose::Meta::TypeConstraint::Enum)
+perl(Moose::Meta::TypeConstraint::Union)
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::Getopt) >= 0.63
+perl(MooseX::Types)
+perl(MooseX::Types::Common)
+perl(MooseX::Types::Moose)
+perl(Mouse)
+perl(Mouse::Meta::TypeConstraint)
+perl(Mouse::Util)
+perl(Mouse::Util::TypeConstraints)
+perl(MouseX::Types)
+perl(MouseX::Types::Moose)
+perl(Object::Accessor)
+perl(Return::Type) >= 0.004
+perl(Role::Tiny)
+perl(Role::Tiny::With)
+perl(Scalar::Util)
+perl(Sub::Exporter::Lexical) >= 0.092291
+perl(Sub::Name)
+perl(Sub::Quote)
+perl(Test::Fatal)
+perl(Test::Moose)
+perl(Test::More) >= 0.96
+perl(Test::Requires)
+perl(Test::Tester) >= 0.109
+perl(Test::Warnings)
+perl(Text::Balanced)
+perl(Tie::Array)
+perl(Tie::Hash)
+perl(Tie::Scalar)
+perl(Type::Tie)
+perl(Types::Path::Tiny)
+perl(Validation::Class) >= 7.900017
+perl(Validation::Class::Simple)
+perl(constant)
+perl(feature)
+perl(lib)
+perl(mro)
+perl(overload)
+perl(re)
+perl(strict)
+perl(threads)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.006001
+sed

@@ -1,0 +1,12 @@
+automake
+gnome-vfs2-devel
+gtk-sharp2-devel >= 2.12.7
+gtk-sharp2-gapi >= 2.12.7
+gtk2-devel
+libart_lgpl-devel
+libgnomecanvas-devel
+libgnomeui-devel
+librsvg2-devel
+libtool
+mono-devel
+vte-devel

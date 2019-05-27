@@ -1,0 +1,5 @@
+R-RUnit
+R-core-devel
+R-inline
+dos2unix
+gcc-c++

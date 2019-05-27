@@ -1,0 +1,13 @@
+gnome-common
+intltool
+libappstream-glib
+pkgconfig(champlain-gtk-0.12)
+pkgconfig(clutter-gtk-1.0)
+pkgconfig(glib-2.0)
+pkgconfig(gsettings-desktop-schemas)
+pkgconfig(gtk+-3.0)
+pkgconfig(libexif)
+pkgconfig(libgdata)
+pkgconfig(libpeas-1.0)
+pkgconfig(xviewer)
+python3-devel

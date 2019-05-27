@@ -1,0 +1,6 @@
+cmake(KF5KDcraw)
+cmake(KF5KExiv2)
+cmake(KF5KIO)
+cmake(Qt5Gui)
+extra-cmake-modules
+kf5-rpm-macros

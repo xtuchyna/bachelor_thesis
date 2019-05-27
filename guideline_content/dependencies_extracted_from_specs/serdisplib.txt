@@ -1,0 +1,3 @@
+SDL-devel
+gd-devel
+libusb-devel

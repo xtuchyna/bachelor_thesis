@@ -1,0 +1,5 @@
+cmake
+desktop-file-utils
+kdelibs4-devel
+make
+qt-devel

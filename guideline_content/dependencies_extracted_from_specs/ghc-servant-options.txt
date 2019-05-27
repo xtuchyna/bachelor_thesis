@@ -1,0 +1,8 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-http-types-devel
+ghc-rpm-macros
+ghc-servant-foreign-devel
+ghc-servant-server-devel
+ghc-text-devel
+ghc-wai-devel

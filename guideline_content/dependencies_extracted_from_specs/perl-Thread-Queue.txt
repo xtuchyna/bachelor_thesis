@@ -1,0 +1,16 @@
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Scalar::Util) >= 1.10
+perl(Test::More) >= 0.50
+perl(Thread::Semaphore)
+perl(strict)
+perl(threads)
+perl(threads::shared) >= 1.21
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

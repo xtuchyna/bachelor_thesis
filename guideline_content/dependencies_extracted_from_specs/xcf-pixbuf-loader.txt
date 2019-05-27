@@ -1,0 +1,6 @@
+autoconf
+automake
+bzip2-devel
+gdk-pixbuf2-devel
+glib2-devel
+libtool

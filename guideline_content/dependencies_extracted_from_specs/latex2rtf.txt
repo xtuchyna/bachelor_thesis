@@ -1,0 +1,11 @@
+ImageMagick
+gcc
+man2html-core
+tex(latex)
+texinfo
+texinfo-tex
+texlive-a4wide
+texlive-courier
+texlive-helvetic
+texlive-psfrag
+texlive-times

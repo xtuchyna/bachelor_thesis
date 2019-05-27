@@ -1,0 +1,11 @@
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(lib)
+perl(strict)
+perl(threads)
+perl(threads::shared)
+perl(vars)
+perl-generators
+perl-interpreter

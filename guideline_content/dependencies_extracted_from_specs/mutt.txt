@@ -1,0 +1,14 @@
+/usr/bin/xsltproc
+automake
+cyrus-sasl-devel
+docbook-style-xsl
+gettext
+gnutls-devel
+gpgme-devel
+krb5-devel
+libidn-devel
+ncurses-devel
+perl-generators
+perl-interpreter
+tokyocabinet-devel
+w3m

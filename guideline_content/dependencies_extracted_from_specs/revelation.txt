@@ -1,0 +1,14 @@
+/usr/bin/appstream-util
+/usr/bin/desktop-file-validate
+cracklib-python
+dbus-python
+gettext
+gnome-python2-devel >= 2.5
+gnome-python2-gconf >= 2.0
+gnome-python2-gnome
+intltool
+perl(XML::Parser)
+pygtk2-devel >= 2.4
+python >= 2.2
+python-crypto >= 2.0
+python-devel >= 2.3

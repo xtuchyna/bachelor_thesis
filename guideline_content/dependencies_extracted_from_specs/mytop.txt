@@ -1,0 +1,5 @@
+perl(DBD::mysql) >= 1
+perl(DBI) >= 1.13
+perl(ExtUtils::MakeMaker)
+perl(Term::ReadKey) >= 2.1
+perl-generators

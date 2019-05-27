@@ -1,0 +1,6 @@
+autoconf
+automake
+libtool
+php-devel > 7
+php-mbstring
+php-pear

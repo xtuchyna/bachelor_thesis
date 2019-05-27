@@ -1,0 +1,11 @@
+ruby
+rubygem(aruba)
+rubygem(bundler)
+rubygem(capybara)
+rubygem(cucumber)
+rubygem(docile)
+rubygem(rake)
+rubygem(rspec)
+rubygem(simplecov-html)
+rubygem(test-unit)
+rubygems-devel

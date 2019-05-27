@@ -1,0 +1,4 @@
+gettext
+intltool
+libxfce4ui-devel >= 4.8.0
+xfce4-panel-devel >= 4.8.0

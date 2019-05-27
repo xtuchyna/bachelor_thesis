@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(fog-core)
+rubygem(minitest)
+rubygem(multi_json)
+rubygems-devel

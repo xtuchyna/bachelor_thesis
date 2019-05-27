@@ -1,0 +1,3 @@
+maven-local
+maven-plugin-bundle
+sonatype-oss-parent

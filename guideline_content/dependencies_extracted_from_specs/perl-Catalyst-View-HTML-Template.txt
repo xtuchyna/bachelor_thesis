@@ -1,0 +1,7 @@
+perl(Catalyst) >= 5.7
+perl(HTML::Template)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

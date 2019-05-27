@@ -1,0 +1,4 @@
+perl(DBD::Pg)
+perl(HTML::Template)
+perl(Term::ReadKey)
+perl-generators

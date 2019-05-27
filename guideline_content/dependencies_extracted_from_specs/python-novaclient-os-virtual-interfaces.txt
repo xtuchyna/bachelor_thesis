@@ -1,0 +1,4 @@
+python2-devel
+python2-novaclient
+python3-devel
+python3-novaclient

@@ -1,0 +1,9 @@
+automake
+desktop-file-utils
+freealut-devel
+libvorbis-devel
+lua-devel
+ogre-devel >= 1.9
+ois-devel
+openal-devel
+python

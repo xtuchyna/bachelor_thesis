@@ -1,0 +1,7 @@
+ruby
+ruby(release)
+rubygem(actionpack) >= 3.0.0
+rubygem(activemodel) >= 3.0.0
+rubygem(rspec) < 3.1
+rubygem(rspec) >= 2.0
+rubygems-devel

@@ -1,0 +1,17 @@
+make
+perl(Carp)
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(FindBin)
+perl(Math::Base85) >= 0.2
+perl(Math::BigInt)
+perl(Net::IPv4Addr) >= 0.10
+perl(Test)
+perl(Test::More)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

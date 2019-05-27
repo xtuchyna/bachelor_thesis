@@ -1,0 +1,9 @@
+asciidoc
+desktop-file-utils
+glib2-devel
+gtk2-devel
+libxml2-devel
+mlocate
+python2-devel
+swig
+xmlto

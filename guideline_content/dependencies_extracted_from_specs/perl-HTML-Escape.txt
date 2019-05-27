@@ -1,0 +1,16 @@
+findutils
+gcc
+perl(Exporter)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Spec)
+perl(Module::Build) >= 0.4005
+perl(Test::More) >= 0.98
+perl(XSLoader)
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

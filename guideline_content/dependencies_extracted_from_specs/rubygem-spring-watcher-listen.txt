@@ -1,0 +1,7 @@
+ruby
+ruby(release)
+rubygem(activesupport)
+rubygem(bundler)
+rubygem(listen)
+rubygem(spring)
+rubygems-devel

@@ -1,0 +1,8 @@
+rubygem(activesupport)
+rubygem(byebug)
+rubygem(rspec) >= 3
+rubygem(rspec-expectations)
+rubygem(rspec-its)
+rubygem(rspec-mocks)
+rubygem(timecop)
+rubygems-devel

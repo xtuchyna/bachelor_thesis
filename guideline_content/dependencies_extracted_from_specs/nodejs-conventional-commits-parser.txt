@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(lodash)
+npm(through2)
+npm(trim-off-newlines)

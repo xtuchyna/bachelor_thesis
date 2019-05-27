@@ -1,0 +1,5 @@
+ruby(release)
+rubygem(hoe)
+rubygem(minitest)
+rubygem(rake)
+rubygems-devel

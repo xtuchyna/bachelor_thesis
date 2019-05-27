@@ -1,0 +1,4 @@
+R-backports
+R-devel
+R-testthat
+tex(latex)

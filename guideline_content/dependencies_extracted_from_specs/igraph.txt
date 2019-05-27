@@ -1,0 +1,2 @@
+gmp-devel
+libxml2-devel

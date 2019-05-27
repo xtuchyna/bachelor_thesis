@@ -1,0 +1,11 @@
+python3-PyYAML
+python3-coverage
+python3-dateutil
+python3-devel
+python3-mock
+python3-nose
+python3-pyOpenSSL
+python3-requests
+python3-ripe-atlas-cousteau
+python3-ripe-atlas-sagan
+python3-tzlocal

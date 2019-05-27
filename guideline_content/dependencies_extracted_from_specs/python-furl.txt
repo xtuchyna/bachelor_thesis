@@ -1,0 +1,10 @@
+python2-devel
+python2-orderedmultidict >= 0.7.8
+python2-pycodestyle
+python2-setuptools
+python2-six >= 1.8.0
+python3-devel
+python3-orderedmultidict >= 0.7.8
+python3-pycodestyle
+python3-setuptools
+python3-six >= 1.8.0

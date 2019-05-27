@@ -1,0 +1,7 @@
+R-TH-data >= 1.0.2
+R-devel >= 3.0.0
+R-lmtest
+R-mvtnorm >= 0.8
+R-sandwich >= 2.3.0
+R-survival >= 2.35.7
+tex(latex)

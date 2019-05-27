@@ -1,0 +1,5 @@
+dos2unix
+mocha
+nodejs-packaging
+npm(callsite)
+npm(resolve)

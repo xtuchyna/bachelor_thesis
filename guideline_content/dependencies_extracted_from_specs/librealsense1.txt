@@ -1,0 +1,5 @@
+cmake
+doxygen
+gcc-c++
+libusb-devel
+systemd

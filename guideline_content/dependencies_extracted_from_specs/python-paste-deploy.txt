@@ -1,0 +1,4 @@
+python-setuptools
+python2-devel > 2.4
+python3-devel
+python3-setuptools

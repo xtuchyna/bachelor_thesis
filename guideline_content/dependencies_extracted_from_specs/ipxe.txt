@@ -1,0 +1,10 @@
+binutils-devel
+binutils-x86_64-linux-gnu
+edk2-tools
+gcc-x86_64-linux-gnu
+mkisofs
+mtools
+perl-Getopt-Long
+perl-interpreter
+syslinux
+xz-devel

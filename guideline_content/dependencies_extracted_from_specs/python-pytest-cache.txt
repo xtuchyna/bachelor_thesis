@@ -1,0 +1,8 @@
+pytest
+python-execnet
+python-setuptools
+python2-devel
+python3-devel
+python3-execnet
+python3-pytest
+python3-setuptools

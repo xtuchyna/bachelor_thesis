@@ -1,0 +1,5 @@
+maven-local
+mvn(com.google.code.findbugs:jsr305)
+mvn(junit:junit)
+mvn(org.fusesource.jansi:jansi)
+mvn(org.slf4j:slf4j-api)

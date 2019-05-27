@@ -1,0 +1,7 @@
+docbook-utils
+glibc-kernheaders >= 2.4-8.19
+libcap-devel
+libidn2-devel
+openssl-devel
+perl-SGMLSpm
+systemd

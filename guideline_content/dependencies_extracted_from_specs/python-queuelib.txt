@@ -1,0 +1,5 @@
+pytest
+python2-devel
+python2-nose
+python3-devel
+python3-nose

@@ -1,0 +1,4 @@
+gtk2
+icon-naming-utils >= 0.8.7
+intltool
+librsvg2

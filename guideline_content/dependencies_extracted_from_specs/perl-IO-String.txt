@@ -1,0 +1,5 @@
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(IO::Handle)
+perl(Test)
+perl-generators

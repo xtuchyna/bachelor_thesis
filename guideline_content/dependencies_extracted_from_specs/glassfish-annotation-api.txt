@@ -1,0 +1,7 @@
+glassfish-legal
+jvnet-parent
+maven-local
+maven-plugin-bundle
+maven-remote-resources-plugin
+maven-source-plugin
+spec-version-maven-plugin

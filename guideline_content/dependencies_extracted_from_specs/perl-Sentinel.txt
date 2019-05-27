@@ -1,0 +1,14 @@
+perl(Exporter)
+perl(ExtUtils::CBuilder)
+perl(Module::Build)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Refcount)
+perl(XSLoader)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

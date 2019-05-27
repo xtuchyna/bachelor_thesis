@@ -1,0 +1,10 @@
+gcc
+help2man
+ncurses-devel
+perl(Data::Dumper)
+perl(Locale::Messages)
+perl(Storable)
+perl(Text::Unidecode)
+perl(Unicode::EastAsianWidth)
+perl-generators
+zlib-devel

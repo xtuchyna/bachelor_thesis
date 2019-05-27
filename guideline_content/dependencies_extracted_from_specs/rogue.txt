@@ -1,0 +1,8 @@
+binutils
+coreutils
+desktop-file-utils
+gcc
+hostname
+make
+ncurses-devel
+sed

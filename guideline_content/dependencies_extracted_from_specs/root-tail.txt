@@ -1,0 +1,6 @@
+gcc
+imake
+libX11-devel
+libXext-devel
+make
+xorg-x11-proto-devel

@@ -1,0 +1,9 @@
+autoconf
+automake
+docbook-style-xsl
+libnsl2-devel
+libtirpc-devel
+libxslt
+systemd
+systemd-devel
+tokyocabinet-devel

@@ -1,0 +1,40 @@
+findutils
+make
+perl(Carp)
+perl(Data::Stream::Bulk::Callback)
+perl(DateTime::Format::HTTP)
+perl(Digest::HMAC_SHA1)
+perl(Digest::MD5)
+perl(Digest::MD5::File)
+perl(ExtUtils::MakeMaker)
+perl(File::Find::Rule)
+perl(File::Temp)
+perl(File::stat)
+perl(HTTP::Date)
+perl(HTTP::Status)
+perl(IO::File) >= 1.14
+perl(LWP) >= 6.03
+perl(LWP::Simple)
+perl(LWP::UserAgent::Determined)
+perl(MIME::Base64)
+perl(MIME::Types)
+perl(Moose) >= 0.85
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::StrictConstructor) >= 0.16
+perl(MooseX::Types::DateTime::MoreCoercions) >= 0.07
+perl(Regexp::Common)
+perl(Test::Exception)
+perl(Test::More)
+perl(URI)
+perl(URI::Escape)
+perl(URI::QueryParam)
+perl(VM::EC2::Security::CredentialCache)
+perl(XML::LibXML)
+perl(XML::LibXML::XPathContext)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

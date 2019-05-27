@@ -1,0 +1,3 @@
+boost-build
+boost-devel
+lua-devel >= 5.1

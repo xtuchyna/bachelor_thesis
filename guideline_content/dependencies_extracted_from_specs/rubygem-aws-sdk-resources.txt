@@ -1,0 +1,5 @@
+rubygem(aws-sdk-core) = 2.6.19
+rubygem(rspec) >= 3
+rubygem(simplecov)
+rubygem(webmock)
+rubygems-devel

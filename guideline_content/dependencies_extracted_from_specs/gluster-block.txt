@@ -1,0 +1,10 @@
+autoconf
+automake
+git
+help2man >= 1.36
+libtirpc-devel
+libtool
+pkgconfig(glusterfs-api)
+pkgconfig(json-c)
+rpcgen
+systemd

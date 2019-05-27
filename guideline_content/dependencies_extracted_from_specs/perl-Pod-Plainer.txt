@@ -1,0 +1,12 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(Pod::Parser)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,6 @@
+gcc
+git-core
+iniparser-devel
+libcap
+libpcap-devel
+make

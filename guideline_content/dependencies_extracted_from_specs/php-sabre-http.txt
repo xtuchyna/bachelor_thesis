@@ -1,0 +1,14 @@
+php(language) > 5.4
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(sabre/event) >= 1.0.0
+php-composer(sabre/event) >= 2.0.2
+php-composer(sabre/uri) >= 1.0
+php-ctype
+php-curl
+php-date
+php-hash
+php-mbstring
+php-pcre
+php-spl
+php-xml

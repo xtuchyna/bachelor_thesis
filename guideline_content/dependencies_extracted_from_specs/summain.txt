@@ -1,0 +1,4 @@
+libattr-devel
+python-cliapp
+python-coverage-test-runner
+python-devel

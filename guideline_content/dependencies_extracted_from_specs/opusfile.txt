@@ -1,0 +1,4 @@
+gcc
+libogg-devel
+openssl-devel
+opus-devel

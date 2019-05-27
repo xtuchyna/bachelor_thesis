@@ -1,0 +1,10 @@
+ghc-Cabal-devel
+ghc-binary-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-deepseq-devel
+ghc-hashable-devel
+ghc-integer-logarithms-devel
+ghc-primitive-devel
+ghc-rpm-macros
+ghc-text-devel

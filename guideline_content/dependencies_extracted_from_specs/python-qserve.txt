@@ -1,0 +1,4 @@
+pytest
+python-gevent
+python-simplejson
+python2-devel

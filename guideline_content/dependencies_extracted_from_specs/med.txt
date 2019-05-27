@@ -1,0 +1,12 @@
+autoconf
+automake
+cmake
+gcc
+gcc-gfortran
+hdf5-devel
+libtool
+make
+python2-devel
+python3-devel
+swig
+zlib-devel

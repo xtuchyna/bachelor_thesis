@@ -1,0 +1,16 @@
+freetype-devel
+giflib-devel
+gtk2-devel
+lablgtk
+libXpm-devel
+libexif-devel
+libgs-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel
+ocaml
+ocaml-findlib-devel
+ocaml-lablgtk-devel
+ocaml-omake
+ocaml-x11
+xorg-x11-server-utils

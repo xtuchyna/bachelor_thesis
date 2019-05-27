@@ -1,0 +1,10 @@
+anthy-devel
+desktop-file-utils
+gettext
+gtk2-devel
+gtk3-devel
+libXtst-devel
+qt4-devel
+qt5-devel
+qt5-qtbase-devel
+qt5-qtbase-static

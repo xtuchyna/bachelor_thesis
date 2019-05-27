@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(tap)
+npm(tap-spec)
+npm(tape)

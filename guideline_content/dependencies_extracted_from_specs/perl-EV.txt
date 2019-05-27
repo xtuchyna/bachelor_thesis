@@ -1,0 +1,8 @@
+gdbm-devel
+libev-source >= 4.22
+perl(AnyEvent) >= 2.6
+perl(Canary::Stability)
+perl(ExtUtils::MakeMaker)
+perl(common::sense)
+perl-devel
+perl-generators

@@ -1,0 +1,8 @@
+at-spi2-core-devel
+desktop-file-utils
+gtk3-devel
+intltool
+itstool
+pygobject3-devel
+python3
+python3-devel

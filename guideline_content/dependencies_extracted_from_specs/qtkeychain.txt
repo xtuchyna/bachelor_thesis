@@ -1,0 +1,6 @@
+cmake
+cmake(Qt5Core)
+cmake(Qt5LinguistTools)
+gcc-c++
+pkgconfig(QtCore)
+pkgconfig(QtDBus)

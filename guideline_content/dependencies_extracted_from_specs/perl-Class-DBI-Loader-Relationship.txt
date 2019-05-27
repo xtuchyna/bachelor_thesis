@@ -1,0 +1,5 @@
+perl(Class::DBI::Loader)
+perl(ExtUtils::MakeMaker)
+perl(Lingua::EN::Inflect::Number)
+perl(Test::More)
+perl-generators

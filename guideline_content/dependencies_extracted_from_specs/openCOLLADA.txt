@@ -1,0 +1,6 @@
+cmake
+dos2unix
+fftw-devel
+libxml2-devel
+pcre-devel
+zlib-devel

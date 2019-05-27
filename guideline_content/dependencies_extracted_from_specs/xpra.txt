@@ -1,0 +1,16 @@
+ack
+cups-devel
+desktop-file-utils
+gcc
+libXdamage-devel
+libXtst-devel
+libappstream-glib
+libvpx-devel
+libxkbfile-devel
+pkgconf
+pygobject2-devel
+pygtk2-devel
+python2-Cython
+python2-devel
+redhat-lsb-core
+uglify-js

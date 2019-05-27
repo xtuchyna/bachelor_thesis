@@ -1,0 +1,7 @@
+ncurses-devel
+perl-devel
+perl-generators
+python-devel
+ruby
+ruby-devel
+swig

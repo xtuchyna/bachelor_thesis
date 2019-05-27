@@ -1,0 +1,17 @@
+/usr/bin/make
+/usr/bin/perl
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec) >= 0.80
+perl(File::Temp) >= 0.17
+perl(List::Util) >= 1.18
+perl(Scalar::Util)
+perl(Test::More) >= 0.47
+perl(UNIVERSAL)
+perl(constant)
+perl(inc::Module::Install)
+perl(prefork)
+perl(strict)
+perl(vars)
+perl-generators

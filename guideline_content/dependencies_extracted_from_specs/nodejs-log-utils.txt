@@ -1,0 +1,4 @@
+mocha
+nodejs-packaging
+npm(ansi-colors)
+npm(log-ok)

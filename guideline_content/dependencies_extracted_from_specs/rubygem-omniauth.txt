@@ -1,0 +1,7 @@
+ruby
+ruby(release)
+rubygem(hashie)
+rubygem(rack-test)
+rubygem(rspec)
+rubygem(simplecov)
+rubygems-devel >= 1.3.6

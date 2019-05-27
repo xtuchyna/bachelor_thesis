@@ -1,0 +1,5 @@
+docbook-utils
+gcc
+libpng-devel
+pkgconfig
+zlib-devel

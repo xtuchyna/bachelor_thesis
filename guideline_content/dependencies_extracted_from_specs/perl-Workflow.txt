@@ -1,0 +1,30 @@
+perl(Carp)
+perl(Class::Accessor) >= 0.18
+perl(Class::Factory) >= 1
+perl(Class::Observable) >= 1.04
+perl(DBD::Mock) >= 0.1
+perl(DBD::SQLite)
+perl(DBI)
+perl(Data::Dumper)
+perl(Data::UUID)
+perl(DateTime)
+perl(DateTime) >= 0.15
+perl(DateTime::Format::Strptime)
+perl(DateTime::Format::Strptime) >= 1
+perl(Env)
+perl(Exception::Class) >= 1.1
+perl(ExtUtils::MakeMaker)
+perl(File::Slurp)
+perl(List::MoreUtils)
+perl(Log::Dispatch) >= 2
+perl(Log::Log4perl) >= 0.34
+perl(Module::Build)
+perl(Pod::Coverage::TrustPod)
+perl(Test::Exception)
+perl(Test::Kwalitee) >= 1.21
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(XML::Simple) >= 2
+perl-generators
+perl-interpreter

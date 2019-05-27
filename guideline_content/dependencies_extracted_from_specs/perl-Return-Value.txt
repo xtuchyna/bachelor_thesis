@@ -1,0 +1,5 @@
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Perl::Critic)
+perl(Test::Pod::Coverage)
+perl-generators

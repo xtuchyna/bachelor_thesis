@@ -1,0 +1,22 @@
+autoconf
+automake
+desktop-file-utils
+gettext-devel
+gnome-desktop-sharp-devel
+gnome-sharp-devel
+gtk-sharp2-devel
+gtk-sharp2-gapi
+hunspell-devel
+libgdiplus-devel
+libtool
+mono-cecil
+mono-cecil-devel
+mono-data
+mono-data-oracle
+mono-devel >= 4.0
+mono-web-devel
+monodoc-devel
+nunit
+nunit-devel
+pkgconfig
+webkit-sharp-devel

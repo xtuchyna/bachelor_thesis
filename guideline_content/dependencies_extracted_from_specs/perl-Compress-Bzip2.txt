@@ -1,0 +1,25 @@
+bzip2-devel >= 1.0.5
+findutils
+gcc
+make
+perl(AutoLoader)
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Copy)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(Getopt::Std)
+perl(Test::LeakTrace)
+perl(Test::More)
+perl(XSLoader)
+perl(constant) >= 1.04
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

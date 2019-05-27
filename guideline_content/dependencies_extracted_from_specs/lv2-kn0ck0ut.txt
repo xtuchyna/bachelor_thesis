@@ -1,0 +1,3 @@
+pkgconfig(fftw3f)
+pkgconfig(lv2-plugin)
+pkgconfig(lv2core)

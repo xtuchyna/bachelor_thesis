@@ -1,0 +1,10 @@
+doxygen
+globus-callout-devel >= 2
+globus-common-devel >= 15
+globus-gsi-cert-utils-devel >= 8
+globus-gsi-credential-devel >= 6
+globus-gsi-sysconfig-devel >= 7
+globus-gssapi-gsi-devel >= 13
+openssl
+perl(Test::More)
+perl-generators

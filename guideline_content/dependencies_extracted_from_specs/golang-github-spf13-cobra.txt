@@ -1,0 +1,4 @@
+compiler(go-compiler)
+golang(github.com/cpuguy83/go-md2man/md2man)
+golang(github.com/spf13/pflag)
+golang(github.com/spf13/viper)

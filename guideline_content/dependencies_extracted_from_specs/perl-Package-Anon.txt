@@ -1,0 +1,23 @@
+coreutils
+findutils
+gcc
+make
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(FindBin)
+perl(Pod::Coverage::TrustPod)
+perl(Scalar::Util)
+perl(Sub::Exporter)
+perl(Test::EOL)
+perl(Test::More)
+perl(Test::NoTabs)
+perl(Test::Pod) >= 1.41
+perl(Test::Pod::Coverage) >= 1.08
+perl(XSLoader)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+perl-interpreter >= 4:5.14

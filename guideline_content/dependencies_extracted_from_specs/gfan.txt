@@ -1,0 +1,7 @@
+TOPCOM
+cddlib-devel
+gcc-c++
+ghostscript-tools-dvipdf
+gmp-devel
+tex(latex)
+tex(ulem.sty)

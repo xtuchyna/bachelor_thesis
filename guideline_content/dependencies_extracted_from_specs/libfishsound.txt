@@ -1,0 +1,7 @@
+doxygen
+flac-devel
+liboggz-devel
+libsndfile-devel
+libvorbis-devel
+pkgconfig
+speex-devel

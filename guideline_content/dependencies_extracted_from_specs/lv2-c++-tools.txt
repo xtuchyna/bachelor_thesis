@@ -1,0 +1,4 @@
+boost-devel
+doxygen
+gtkmm24-devel
+lv2-devel

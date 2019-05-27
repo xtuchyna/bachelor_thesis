@@ -1,0 +1,11 @@
+perl(ExtUtils::MakeMaker)
+perl(JSON::MaybeXS)
+perl(Params::Util)
+perl(Scalar::Util)
+perl(Sub::Exporter)
+perl(Sub::Exporter::Util)
+perl(Test::More) >= 0.96
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

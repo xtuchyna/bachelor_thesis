@@ -1,0 +1,11 @@
+cmake(KF5Codecs)
+cmake(KF5Config)
+cmake(KF5DocTools)
+cmake(KF5I18n)
+cmake(KF5KIO)
+cmake(KF5WidgetsAddons)
+cmake(Qt5Network)
+cmake(Qt5Widgets)
+extra-cmake-modules
+kf5-rpm-macros
+pkgconfig(libmusicbrainz5)

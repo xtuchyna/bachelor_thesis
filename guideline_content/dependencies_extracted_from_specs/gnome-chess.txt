@@ -1,0 +1,7 @@
+desktop-file-utils
+gettext
+gtk3-devel
+itstool
+librsvg2-devel
+meson
+vala

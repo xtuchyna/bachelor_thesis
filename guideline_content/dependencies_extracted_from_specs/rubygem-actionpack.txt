@@ -1,0 +1,13 @@
+ruby >= 2.2.2
+ruby(release)
+rubygem(actionview) = 5.1.5
+rubygem(activemodel) = 5.1.5
+rubygem(activerecord) = 5.1.5
+rubygem(activesupport) = 5.1.5
+rubygem(capybara) >= 2.13.0
+rubygem(puma)
+rubygem(rack)
+rubygem(rack-cache)
+rubygem(rack-test)
+rubygem(railties) = 5.1.5
+rubygems-devel

@@ -1,0 +1,7 @@
+javapackages-local
+maven-local
+maven-plugin-bundle
+mvn(junit:junit)
+mvn(org.apache.ant:ant)
+mvn(org.ow2.asm:asm)
+mvn(org.sonatype.oss:oss-parent:pom:)

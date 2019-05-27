@@ -1,0 +1,22 @@
+autoconf
+automake
+desktop-file-utils
+gettext
+gnome-common
+gtk-doc
+intltool
+libappstream-glib
+pkgconfig(enchant)
+pkgconfig(glib-2.0)
+pkgconfig(gspell-1)
+pkgconfig(gtk+-3.0)
+pkgconfig(gtksourceview-3.0)
+pkgconfig(iso-codes)
+pkgconfig(libpeas-gtk-1.0)
+pkgconfig(libxml-2.0)
+pkgconfig(pygobject-2.0)
+pkgconfig(pygtk-2.0)
+pkgconfig(pygtksourceview-2.0)
+pkgconfig(sm)
+pkgconfig(xapp) >= 1.1.0
+python3-devel

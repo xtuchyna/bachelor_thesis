@@ -1,0 +1,10 @@
+/usr/bin/node
+ruby
+ruby(release)
+rubygem(coffee-script) >= 2.2.0
+rubygem(minitest)
+rubygem(railties) < 5.2.0
+rubygem(railties) >= 4.0.0
+rubygem(sprockets-rails)
+rubygem(tzinfo)
+rubygems-devel

@@ -1,0 +1,41 @@
+/usr/bin/msgunfmt
+coreutils
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) > 6.30
+perl(File::Basename)
+perl(File::Find)
+perl(File::Glob)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(FileHandle)
+perl(FindBin)
+perl(Getopt::Long)
+perl(HTML::Parser) >= 3.56
+perl(Lingua::EN::Sentence) >= 0.25
+perl(Locale::Maketext) >= 1.17
+perl(PPI) >= 1.203
+perl(Symbol)
+perl(Template) >= 2.20
+perl(Template::Constants) >= 2.75
+perl(Template::Directive)
+perl(Template::Parser)
+perl(Test)
+perl(Test::More)
+perl(Text::Haml)
+perl(Tie::Hash)
+perl(YAML) >= 0.66
+perl(YAML::Loader) >= 0.66
+perl(base)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

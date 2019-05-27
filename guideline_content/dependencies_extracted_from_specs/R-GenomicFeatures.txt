@@ -1,0 +1,14 @@
+R-AnnotationDbi
+R-BSgenome
+R-Biobase
+R-Biostrings
+R-DBI
+R-GenomicRanges
+R-IRanges
+R-RCurl
+R-RSQLite
+R-biomaRt
+R-devel >= 3.0.0
+R-rtracklayer
+R-utils
+tex(latex)

@@ -1,0 +1,14 @@
+autoconf
+automake
+desktop-file-utils
+docbook-style-xsl
+ebtables
+gettext
+glib2
+glib2-devel
+intltool
+ipset
+iptables
+libxslt
+python3-devel
+systemd-units

@@ -1,0 +1,1 @@
+mecab-devel >= 0.96

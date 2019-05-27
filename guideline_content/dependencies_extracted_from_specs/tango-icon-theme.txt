@@ -1,0 +1,6 @@
+ImageMagick-devel >= 5.5.7
+icon-naming-utils >= 0.8.90
+intltool
+librsvg2-devel >= 2.35.2
+librsvg2-tools
+pkgconfig >= 0.19

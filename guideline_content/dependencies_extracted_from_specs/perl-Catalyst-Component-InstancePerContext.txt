@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(Catalyst)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moose)
+perl(Moose::Role)
+perl(Scalar::Util)
+perl(Test::More)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

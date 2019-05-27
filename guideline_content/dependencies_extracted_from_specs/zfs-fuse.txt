@@ -1,0 +1,12 @@
+/usr/bin/execstack
+bzip2-devel
+fuse-devel
+libaio-devel
+libattr-devel
+lzo-devel
+openssl-devel
+perl-generators
+scons
+systemd
+xz-devel
+zlib-devel

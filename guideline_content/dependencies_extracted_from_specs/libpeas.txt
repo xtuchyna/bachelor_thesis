@@ -1,0 +1,14 @@
+chrpath
+gcc
+intltool
+make
+pkgconfig(gio-2.0)
+pkgconfig(gladeui-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(gmodule-2.0)
+pkgconfig(gobject-2.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(pygobject-3.0)
+python2-devel
+python3-devel

@@ -1,0 +1,6 @@
+desktop-file-utils
+flex
+libXpm-devel
+libXt-devel
+ncurses-devel
+perl-generators

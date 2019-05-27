@@ -1,0 +1,9 @@
+perl(AutoLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Test::Builder)
+perl(Test::More)
+perl(Test::Pod) >= 0.95
+perl(Test::Tester) >= 0.08
+perl-generators

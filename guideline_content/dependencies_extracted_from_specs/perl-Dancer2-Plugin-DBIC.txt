@@ -1,0 +1,26 @@
+make
+perl(DBD::SQLite)
+perl(DBI)
+perl(DBICx::Sugar) >= 0.0200
+perl(DBIx::Class::Core)
+perl(DBIx::Class::Schema)
+perl(DBIx::Class::Schema::Loader)
+perl(Dancer2) >= 0.153002
+perl(Dancer2::Plugin)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(File::Temp)
+perl(HTTP::Request::Common)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Plack::Test)
+perl(Test::Exception)
+perl(Test::More)
+perl(base)
+perl(blib) >= 1.01
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,12 @@
+python-setuptools
+python-testrepository
+python-testresources
+python-testtools
+python2-devel
+python2-pbr
+python3-devel
+python3-pbr
+python3-setuptools
+python3-testrepository
+python3-testresources
+python3-testtools

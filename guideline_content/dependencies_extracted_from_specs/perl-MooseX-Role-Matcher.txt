@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker)
+perl(List::MoreUtils)
+perl(List::Util)
+perl(MooseX::Role::Parameterized) >= 0.03
+perl(Test::Deep)
+perl(Test::More)
+perl-generators

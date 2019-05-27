@@ -1,0 +1,5 @@
+fedmsg
+python2-devel
+python2-dpath
+python2-setuptools
+systemd

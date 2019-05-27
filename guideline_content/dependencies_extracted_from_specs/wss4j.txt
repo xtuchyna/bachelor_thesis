@@ -1,0 +1,23 @@
+maven-local
+mvn(com.sun.mail:javax.mail)
+mvn(junit:junit)
+mvn(net.sf.ehcache:ehcache-core)
+mvn(org.apache.commons:commons-compress)
+mvn(org.apache.directory.server:apacheds-kerberos-codec)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-remote-resources-plugin)
+mvn(org.apache.neethi:neethi)
+mvn(org.apache.santuario:xmlsec) >= 2.0.5
+mvn(org.apache:apache:pom:)
+mvn(org.bouncycastle:bcpkix-jdk15on)
+mvn(org.bouncycastle:bcprov-jdk15on)
+mvn(org.jasypt:jasypt)
+mvn(org.opensaml:opensaml-saml-impl) >= 3.1.1
+mvn(org.opensaml:opensaml-xacml-impl)
+mvn(org.opensaml:opensaml-xacml-saml-impl)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-log4j12)
+mvn(org.tukaani:xz)
+mvn(wsdl4j:wsdl4j)
+mvn(xalan:xalan)
+mvn(xmlunit:xmlunit)

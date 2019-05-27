@@ -1,0 +1,6 @@
+python-setuptools
+python2-devel
+python2-psutil >= 2.0.0
+python3-devel
+python3-psutil >= 2.0.0
+python3-setuptools

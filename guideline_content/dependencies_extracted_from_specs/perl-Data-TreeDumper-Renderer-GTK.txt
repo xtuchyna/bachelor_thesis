@@ -1,0 +1,18 @@
+findutils
+font(:lang=en)
+make
+perl(AutoLoader)
+perl(Cairo)
+perl(Data::TreeDumper) >= 0.33
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Glib)
+perl(Gtk2)
+perl(Gtk2::TreeView)
+perl(Test)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+xorg-x11-server-Xvfb

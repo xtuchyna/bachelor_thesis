@@ -1,0 +1,15 @@
+autoconf
+automake
+boost-atomic
+boost-devel
+boost-filesystem
+boost-locale
+boost-regex
+boost-system
+gcc-c++
+gettext-devel
+glibc-devel
+libtool
+libxml2-devel
+utf8cpp-devel
+zlib-devel

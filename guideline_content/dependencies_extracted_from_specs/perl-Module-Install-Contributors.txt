@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(:VERSION) >= 5.6.0
+perl(Module::Install::Base)
+perl(Test::More)
+perl(base)
+perl(inc::Module::Package)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

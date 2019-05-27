@@ -1,0 +1,29 @@
+make
+perl(:VERSION) >= 5.8
+perl(Carp)
+perl(Dist::Zilla::Plugin::ReadmeAnyFromPod)
+perl(Dist::Zilla::Role::AfterBuild)
+perl(English)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Copy)
+perl(File::Spec)
+perl(IO::File)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(List::Util) >= 1.33
+perl(Moose)
+perl(MooseX::Has::Sugar)
+perl(Path::Tiny)
+perl(Scalar::Util)
+perl(Set::Scalar)
+perl(Test::DZil)
+perl(Test::Exception)
+perl(Test::More) >= 0.94
+perl(Test::Most)
+perl(autodie)
+perl(blib)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

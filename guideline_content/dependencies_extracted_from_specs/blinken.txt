@@ -1,0 +1,15 @@
+cmake(KF5Crash)
+desktop-file-utils
+extra-cmake-modules
+gettext
+kf5-kdbusaddons-devel
+kf5-kdoctools-devel
+kf5-kguiaddons-devel
+kf5-ki18n-devel
+kf5-kxmlgui-devel
+kf5-rpm-macros
+libappstream-glib
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5Widgets)
+pkgconfig(phonon4qt5)
+readline-devel

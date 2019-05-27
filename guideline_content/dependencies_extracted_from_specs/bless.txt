@@ -1,0 +1,4 @@
+desktop-file-utils
+gtk-sharp2-devel
+mono-devel
+rarian-compat

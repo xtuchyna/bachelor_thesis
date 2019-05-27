@@ -1,0 +1,10 @@
+PyYAML
+asciidoc
+git
+python-pbr
+python-setuptools
+python2-devel
+python3-PyYAML
+python3-devel
+python3-pbr
+python3-setuptools

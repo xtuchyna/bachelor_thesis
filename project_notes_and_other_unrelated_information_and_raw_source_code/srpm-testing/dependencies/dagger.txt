@@ -1,0 +1,7 @@
+maven-local
+mvn(com.google.guava:guava)
+mvn(com.squareup:javawriter)
+mvn(javax.inject:javax.inject)
+mvn(org.sonatype.oss:oss-parent:pom:)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

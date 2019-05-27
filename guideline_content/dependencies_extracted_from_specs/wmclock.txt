@@ -1,0 +1,6 @@
+autoconf
+automake
+libX11-devel
+libXext-devel
+libXpm-devel
+xorg-x11-proto-devel

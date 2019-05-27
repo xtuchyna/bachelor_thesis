@@ -1,0 +1,15 @@
+chrpath
+cmake
+docbook-style-xsl
+libX11-devel
+libwayland-client-devel
+libxcb-devel
+libxslt
+mesa-libEGL-devel
+mesa-libGL-devel
+mesa-libGLES-devel
+mesa-libGLU-devel
+mesa-libgbm-devel
+mesa-libwayland-egl-devel
+systemd-devel
+wayland-devel

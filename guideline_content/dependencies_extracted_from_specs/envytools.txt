@@ -1,0 +1,11 @@
+bison
+cmake
+flex
+libX11-devel
+libXext-devel
+libdrm-devel
+libpciaccess-devel
+libseccomp-devel
+libvdpau-devel
+libxml2-devel
+python3-devel

@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(better-assert)
+npm(mocha)
+npm(should)

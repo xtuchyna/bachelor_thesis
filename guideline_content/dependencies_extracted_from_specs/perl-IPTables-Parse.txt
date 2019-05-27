@@ -1,0 +1,8 @@
+make
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(Getopt::Long)
+perl(Test)
+perl(strict)
+perl-generators
+perl-interpreter

@@ -1,0 +1,21 @@
+coreutils
+findutils
+make
+perl(Archive::Extract)
+perl(Cwd)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Find::Rule)
+perl(File::Find::Rule::Perl)
+perl(File::Spec)
+perl(File::Temp)
+perl(Getopt::Long)
+perl(List::Compare)
+perl(MCE::Map)
+perl(Pod::Usage)
+perl(Tangerine) >= 0.15
+perl(Test::More)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

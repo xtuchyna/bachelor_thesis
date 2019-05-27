@@ -1,0 +1,8 @@
+doxygen
+glib2-devel
+libcurl-devel
+libgcrypt-devel
+libproxy-devel
+libquvi-scripts
+lua-devel
+lua-socket

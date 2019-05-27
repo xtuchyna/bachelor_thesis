@@ -1,0 +1,18 @@
+python2-coverage
+python2-devel
+python2-fixtures
+python2-nose
+python2-pbr
+python2-six >= 1.9.0
+python2-subunit
+python2-testrepository
+python2-testtools
+python3-coverage
+python3-devel
+python3-fixtures
+python3-nose
+python3-pbr
+python3-six >= 1.9.0
+python3-subunit >= 1.1.0-5
+python3-testrepository
+python3-testtools

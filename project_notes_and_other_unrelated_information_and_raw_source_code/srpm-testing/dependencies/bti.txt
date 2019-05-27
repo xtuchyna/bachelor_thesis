@@ -1,0 +1,9 @@
+gcc
+json-c-devel
+libcurl-devel
+liboauth-devel
+libxml2-devel
+pcre-devel
+pkgconfig
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

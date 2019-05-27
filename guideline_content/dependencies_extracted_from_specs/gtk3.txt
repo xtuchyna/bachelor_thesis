@@ -1,0 +1,31 @@
+cups-devel
+desktop-file-utils
+gettext
+gtk-doc
+pkgconfig(atk) >= 2.15.1
+pkgconfig(atk-bridge-2.0)
+pkgconfig(avahi-gobject)
+pkgconfig(cairo) >= 1.14.0
+pkgconfig(cairo-gobject) >= 1.14.0
+pkgconfig(colord)
+pkgconfig(egl)
+pkgconfig(epoxy)
+pkgconfig(gdk-pixbuf-2.0) >= 2.30.0
+pkgconfig(glib-2.0) >= 2.49.4
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(json-glib-1.0)
+pkgconfig(pango) >= 1.37.3
+pkgconfig(rest-0.7)
+pkgconfig(wayland-client) >= 1.9.91
+pkgconfig(wayland-cursor) >= 1.9.91
+pkgconfig(wayland-egl) >= 1.9.91
+pkgconfig(wayland-protocols) >= 1.12
+pkgconfig(xcomposite)
+pkgconfig(xcursor)
+pkgconfig(xdamage)
+pkgconfig(xfixes)
+pkgconfig(xi)
+pkgconfig(xinerama)
+pkgconfig(xkbcommon)
+pkgconfig(xrandr) >= 1.5.0
+pkgconfig(xrender)

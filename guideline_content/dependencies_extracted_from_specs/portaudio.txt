@@ -1,0 +1,4 @@
+alsa-lib-devel
+doxygen
+jack-audio-connection-kit-devel
+libtool

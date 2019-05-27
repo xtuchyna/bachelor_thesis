@@ -1,0 +1,7 @@
+autoconf
+bison
+compat-openssl10-devel
+flex
+lzo-devel
+systemd-units
+zlib-devel

@@ -1,0 +1,10 @@
+make
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(Getopt::Long)
+perl(IPTables::Parse)
+perl(NetAddr::IP)
+perl(Test)
+perl(strict)
+perl-generators
+perl-interpreter

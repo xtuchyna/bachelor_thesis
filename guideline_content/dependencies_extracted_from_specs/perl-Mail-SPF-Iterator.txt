@@ -1,0 +1,9 @@
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Net::DNS) >= 0.62
+perl(Net::DNS::Resolver)
+perl(Socket)
+perl(Socket6)
+perl(URI)
+perl(URI::Escape)
+perl-generators

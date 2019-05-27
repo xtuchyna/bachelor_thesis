@@ -1,0 +1,8 @@
+autoconf
+automake
+cyrus-sasl-devel
+gnutls-devel
+libdb-devel < 5.4
+liblockfile-devel
+libtool
+zlib-devel

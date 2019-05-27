@@ -1,0 +1,4 @@
+asciidoc
+autoconf
+automake
+gcc

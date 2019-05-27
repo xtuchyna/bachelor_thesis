@@ -1,0 +1,4 @@
+libtool
+perl(Getopt::Long)
+perl(POSIX)
+perl-interpreter

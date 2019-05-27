@@ -1,0 +1,3 @@
+gcc
+make
+proj-devel >= 4.4.1

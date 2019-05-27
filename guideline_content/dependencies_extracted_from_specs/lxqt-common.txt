@@ -1,0 +1,6 @@
+desktop-file-utils
+kf5-kwindowsystem-devel >= 5.5
+liblxqt-devel >= 0.11.0
+lxqt-build-tools
+pkgconfig(Qt5Help)
+pkgconfig(Qt5Xdg)

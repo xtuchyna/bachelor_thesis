@@ -1,0 +1,10 @@
+python2-devel
+python2-docutils
+python2-mistune
+python2-mock
+python2-pygments
+python3-devel
+python3-docutils
+python3-mistune
+python3-mock
+python3-pygments

@@ -1,0 +1,5 @@
+gcc-c++
+gtest-devel
+libtool
+mathic-devel
+tbb-devel

@@ -1,0 +1,7 @@
+autoconf
+automake
+boost-devel
+pkgconfig(cppunit)
+pkgconfig(libcurl)
+pkgconfig(libxml-2.0)
+xmlto

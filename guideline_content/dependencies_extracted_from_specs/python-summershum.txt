@@ -1,0 +1,5 @@
+fedmsg
+python-kitchen
+python-setuptools
+python-sqlalchemy
+python2-devel

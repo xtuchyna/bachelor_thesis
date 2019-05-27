@@ -1,0 +1,3 @@
+autoconf
+systemtap-sdt-devel
+zlib-devel

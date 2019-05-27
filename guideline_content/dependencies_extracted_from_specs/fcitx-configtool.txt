@@ -1,0 +1,11 @@
+cmake
+fcitx-devel
+gettext
+gtk2-devel
+gtk3-devel
+intltool
+iso-codes-devel
+libtool
+libxml2-devel
+unique-devel
+unique3-devel

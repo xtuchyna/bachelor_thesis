@@ -1,0 +1,5 @@
+desktop-file-utils
+pkgconfig(QtWebKit)
+pkgconfig(phonon)
+pkgconfig(sqlite3)
+qtsingleapplication-devel

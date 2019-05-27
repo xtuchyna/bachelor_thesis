@@ -1,0 +1,9 @@
+chrpath
+desktop-file-utils
+gtksourceview2-devel >= 2.10
+libappstream-glib
+ocaml >= 3.10.0
+ocaml-findlib-devel
+ocaml-lablgtk-devel >= 2.14.0
+ocaml-ocamlbuild
+ocaml-ocamldoc

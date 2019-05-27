@@ -1,0 +1,10 @@
+cmake
+groff
+perl(ExtUtils::MakeMaker)
+perl(HTML::Parser)
+perl(Pod::Perldoc)
+perl(Tie::IxHash)
+perl(XML::LibXML)
+perl(YAML)
+perl-generators
+qt4-devel

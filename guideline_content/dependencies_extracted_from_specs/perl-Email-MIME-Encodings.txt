@@ -1,0 +1,7 @@
+perl(Capture::Tiny)
+perl(ExtUtils::MakeMaker)
+perl(MIME::Base64) >= 3.05
+perl(MIME::QuotedPrint) >= 3.03
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

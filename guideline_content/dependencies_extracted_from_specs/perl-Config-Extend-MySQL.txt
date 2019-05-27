@@ -1,0 +1,8 @@
+perl(Config::Tiny)
+perl(File::Read)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(UNIVERSAL::require)
+perl-generators

@@ -1,0 +1,4 @@
+autoconf
+automake
+libtool
+vanessa_logger-devel >= 0.0.5

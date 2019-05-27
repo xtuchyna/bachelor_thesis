@@ -1,0 +1,5 @@
+libvirt-devel
+ruby
+ruby(release)
+ruby-devel
+rubygems-devel

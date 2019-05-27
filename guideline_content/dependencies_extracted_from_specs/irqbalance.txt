@@ -1,0 +1,10 @@
+autoconf
+automake
+glib2-devel
+libcap-ng
+libcap-ng-devel
+libtool
+ncurses-devel
+numactl-devel
+pkgconf
+systemd

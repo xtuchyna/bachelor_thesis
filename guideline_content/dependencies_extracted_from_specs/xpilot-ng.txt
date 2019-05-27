@@ -1,0 +1,13 @@
+SDL_image-devel
+SDL_ttf-devel
+automake
+desktop-file-utils
+expat-devel
+freealut-devel
+libGLU-devel
+libXt-devel
+libXxf86misc-devel
+libappstream-glib
+openal-soft-devel
+systemd
+zlib-devel

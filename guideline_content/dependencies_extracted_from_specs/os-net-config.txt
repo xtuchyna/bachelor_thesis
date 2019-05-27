@@ -1,0 +1,5 @@
+python-oslo-sphinx
+python-pbr
+python-setuptools
+python-sphinx
+python2-devel

@@ -1,0 +1,8 @@
+desktop-file-utils
+gettext-devel >= 0.19
+gnome-common
+gtk3-devel
+ibus-devel >= 1.4.0
+libtool
+m17n-lib-devel
+pkgconfig

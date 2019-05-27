@@ -1,0 +1,13 @@
+python-devel
+python-lockfile
+python-mock
+python-setuptools
+python-testscenarios
+python2-docutils
+python3-devel
+python3-docutils
+python3-lockfile
+python3-mock
+python3-setuptools
+python3-testscenarios
+python3-testtools

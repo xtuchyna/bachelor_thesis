@@ -1,0 +1,7 @@
+chrpath
+gamin-devel
+hevea
+ncurses-devel
+ocaml >= 3.10.2-2
+ocaml-findlib-devel
+readline-devel

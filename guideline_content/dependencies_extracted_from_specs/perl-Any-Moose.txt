@@ -1,0 +1,15 @@
+coreutils
+make
+perl(CPAN::Meta) >= 2.120900
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(Moose)
+perl(MooseX::Types)
+perl(Mouse) >= 0.40
+perl(MouseX::Types)
+perl(Test::More) >= 0.88
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

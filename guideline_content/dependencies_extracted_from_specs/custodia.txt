@@ -1,0 +1,22 @@
+python2-configparser
+python2-coverage
+python2-devel
+python2-docutils
+python2-jwcrypto >= 0.4.2
+python2-pytest
+python2-python-etcd
+python2-requests
+python2-setuptools >= 18
+python2-systemd
+python2-tox >= 2.3.1
+python3-coverage
+python3-devel
+python3-docutils
+python3-jwcrypto >= 0.4.2
+python3-pytest
+python3-python-etcd
+python3-requests
+python3-setuptools > 18
+python3-systemd
+python3-tox >= 2.3.1
+systemd

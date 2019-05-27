@@ -1,0 +1,15 @@
+ant
+apache-commons-collections
+apache-commons-daemon
+apache-commons-dbcp
+apache-commons-pool
+ecj >= 1:4.4.0
+findutils
+geronimo-jaxrpc
+java-devel >= 1:1.6.0
+javapackages-local
+jpackage-utils >= 1.7.0
+junit
+systemd-units
+tomcat-taglibs-standard
+wsdl4j

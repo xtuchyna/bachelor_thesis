@@ -1,0 +1,10 @@
+ghc-Cabal-devel
+ghc-array-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-mtl-devel
+ghc-parsec-devel
+ghc-pretty-devel
+ghc-rpm-macros
+ghc-syb-devel
+ghc-text-devel

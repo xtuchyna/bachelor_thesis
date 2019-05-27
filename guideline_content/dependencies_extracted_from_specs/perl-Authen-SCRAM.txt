@@ -1,0 +1,24 @@
+make
+perl(Authen::SASL::SASLprep) >= 1.100
+perl(Carp)
+perl(Crypt::URandom)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(MIME::Base64)
+perl(Moo) >= 1.001000
+perl(Moo::Role) >= 1.001000
+perl(PBKDF2::Tiny) >= 0.003
+perl(Test::FailWarnings)
+perl(Test::Fatal)
+perl(Test::More) >= 0.96
+perl(Try::Tiny)
+perl(Types::Standard)
+perl(base)
+perl(lib)
+perl(namespace::clean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

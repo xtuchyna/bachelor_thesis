@@ -1,0 +1,9 @@
+GConf2
+desktop-file-utils
+gnome-doc-utils
+gstreamer1-devel
+intltool
+libglade2-devel
+libgnomeui-devel
+libxslt-devel
+rarian-compat

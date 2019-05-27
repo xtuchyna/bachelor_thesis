@@ -1,0 +1,9 @@
+maven-local
+mvn(com.sun.msv.datatype.xsd:xsdlib)
+mvn(javax.xml.stream:stax-api)
+mvn(junit:junit)
+mvn(org.apache.maven.plugins:maven-clean-plugin)
+mvn(org.codehaus.mojo:javacc-maven-plugin)
+mvn(org.sonatype.oss:oss-parent:pom:)
+mvn(relaxngDatatype:relaxngDatatype)
+mvn(xmlunit:xmlunit)

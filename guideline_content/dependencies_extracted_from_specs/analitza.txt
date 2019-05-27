@@ -1,0 +1,13 @@
+extra-cmake-modules >= 1.3
+kf5-rpm-macros
+pkgconfig(Qt5OpenGL)
+pkgconfig(Qt5Qml)
+pkgconfig(Qt5Quick)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5Test)
+pkgconfig(Qt5Widgets)
+pkgconfig(Qt5Xml)
+pkgconfig(eigen3)
+qt5-qtbase-private-devel
+readline-devel
+xorg-x11-server-Xvfb

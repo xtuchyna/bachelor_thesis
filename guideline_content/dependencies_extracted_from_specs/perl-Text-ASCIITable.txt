@@ -1,0 +1,6 @@
+perl(Carp)
+perl(Encode)
+perl(Exporter)
+perl(List::Util)
+perl(Module::Build) >= 0.27
+perl-generators

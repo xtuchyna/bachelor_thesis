@@ -1,0 +1,15 @@
+findutils
+make
+perl(:VERSION) >= 5.6.0
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Math::BigFloat)
+perl(Math::BigInt) >= 1.999718
+perl(Test::More) >= 0.82
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

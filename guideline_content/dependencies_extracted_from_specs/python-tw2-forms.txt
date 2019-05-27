@@ -1,0 +1,30 @@
+python-chameleon
+python-coverage
+python-formencode
+python-genshi
+python-jinja2
+python-kajiki
+python-mako
+python-nose
+python-paste-deploy
+python-setuptools
+python-sieve >= 0.1.9
+python-tw2-core >= 2.1.4
+python-webob >= 0.9.7
+python-webtest
+python2-devel
+python3-chameleon
+python3-coverage
+python3-devel
+python3-formencode
+python3-genshi
+python3-jinja2
+python3-kajiki
+python3-mako
+python3-nose
+python3-paste-deploy
+python3-setuptools
+python3-sieve >= 0.1.9
+python3-tw2-core >= 2.1.4
+python3-webob >= 0.9.7
+python3-webtest

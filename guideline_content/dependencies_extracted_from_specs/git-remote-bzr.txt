@@ -1,0 +1,2 @@
+asciidoc >= 8.4.1
+python2-devel

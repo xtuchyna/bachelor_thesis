@@ -1,0 +1,11 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(File::Slurp)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,37 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(English)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(FindBin)
+perl(IO::Handle)
+perl(IO::Multiplex) >= 1.05
+perl(IO::Select)
+perl(IO::Socket)
+perl(IO::Socket::INET6)
+perl(IO::Socket::SSL) >= 1.31
+perl(IO::Socket::UNIX)
+perl(Log::Log4perl)
+perl(Net::SSLeay)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Socket)
+perl(Socket6)
+perl(Test::More)
+perl(Time::HiRes)
+perl(base)
+perl(constant)
+perl(lib)
+perl(re)
+perl(strict)
+perl(threads)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

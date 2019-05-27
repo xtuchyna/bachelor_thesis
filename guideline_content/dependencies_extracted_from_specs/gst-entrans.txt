@@ -1,0 +1,6 @@
+alsa-lib-devel
+gettext-devel
+gstreamer1-devel >= 1.0.0
+gstreamer1-plugins-base-devel
+gtk-doc
+libtool

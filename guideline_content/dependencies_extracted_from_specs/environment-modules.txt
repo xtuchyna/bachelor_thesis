@@ -1,0 +1,9 @@
+dejagnu
+hostname
+less
+libX11-devel
+man
+procps
+sed
+tcl-devel
+tclx-devel

@@ -1,0 +1,3 @@
+libdnet-devel
+libevent-devel
+libpcap-devel

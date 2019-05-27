@@ -1,0 +1,9 @@
+maven-local
+mvn(com.fasterxml.jackson.core:jackson-annotations)
+mvn(com.fasterxml.jackson.core:jackson-core)
+mvn(com.fasterxml.jackson.core:jackson-databind)
+mvn(com.fasterxml.jackson:jackson-parent:pom:)
+mvn(com.google.code.maven-replacer-plugin:replacer)
+mvn(org.apache.maven.plugins:maven-failsafe-plugin)
+mvn(org.slf4j:slf4j-log4j12)
+mvn(org.yaml:snakeyaml)

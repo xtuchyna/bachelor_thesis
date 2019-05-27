@@ -1,0 +1,6 @@
+R-bitops
+R-devel >= 3.4.0
+R-methods
+R-utils
+libxml2-devel
+tex(latex)

@@ -1,0 +1,7 @@
+ruby
+ruby(release)
+rubygem(activesupport)
+rubygem(polyglot)
+rubygem(rr)
+rubygem(rspec)
+rubygems-devel

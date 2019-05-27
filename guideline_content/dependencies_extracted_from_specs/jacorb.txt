@@ -1,0 +1,12 @@
+ant
+java-devel
+maven-local
+mvn(antlr:antlr)
+mvn(avalon-logkit:avalon-logkit)
+mvn(org.apache.ant:ant)
+mvn(org.apache.ant:ant-apache-regexp)
+mvn(org.apache.ant:ant-junit)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-jdk14)

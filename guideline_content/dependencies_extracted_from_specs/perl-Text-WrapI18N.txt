@@ -1,0 +1,8 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::Simple)
+perl(Text::CharWidth) >= 0.02
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators

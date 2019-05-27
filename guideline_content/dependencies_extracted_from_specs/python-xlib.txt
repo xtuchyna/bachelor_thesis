@@ -1,0 +1,10 @@
+python2-devel
+python2-setuptools_scm
+python2-six >= 1.10.0
+python3-devel
+python3-setuptools_scm
+python3-six >= 1.10.0
+tetex-dvips
+texi2html
+texinfo-tex
+xorg-x11-server-Xvfb

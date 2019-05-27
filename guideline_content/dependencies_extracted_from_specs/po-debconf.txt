@@ -1,0 +1,3 @@
+/usr/bin/pod2html
+dpkg-dev
+po4a

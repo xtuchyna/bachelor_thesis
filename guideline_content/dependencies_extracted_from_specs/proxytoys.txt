@@ -1,0 +1,6 @@
+maven-local
+mvn(cglib:cglib)
+mvn(junit:junit)
+mvn(org.jvnet.hudson:xstream)
+mvn(org.mockito:mockito-all)
+mvn(xpp3:xpp3)

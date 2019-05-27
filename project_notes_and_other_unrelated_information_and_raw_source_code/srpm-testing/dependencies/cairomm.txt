@@ -1,0 +1,8 @@
+cairo-devel >= 1.10.0
+gcc-c++
+libsigc++20-devel >= 2.5.1
+perl(Getopt::Long)
+perl-interpreter
+pkgconfig
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

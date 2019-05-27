@@ -1,0 +1,10 @@
+perl(Email::Simple)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Regexp::Common)
+perl(Test)
+perl(Test::More)
+perl(Text::Balanced)
+perl(base)
+perl(constant)
+perl-generators

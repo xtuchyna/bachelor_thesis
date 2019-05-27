@@ -1,0 +1,24 @@
+make
+perl(Capture::Tiny)
+perl(Carp)
+perl(Class::Load) >= 0.06
+perl(Data::Dumper)
+perl(Data::OptList)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(Getopt::Long::Descriptive) >= 0.084
+perl(IO::TieCombine) >= 1
+perl(IPC::Cmd)
+perl(Module::Pluggable::Object)
+perl(String::RewritePrefix)
+perl(Sub::Exporter) >= 0.975
+perl(Sub::Exporter::Util)
+perl(Sub::Install)
+perl(Test::Fatal)
+perl(Test::More) >= 0.96
+perl(Test::Pod)
+perl(Text::Abbrev)
+perl(constant)
+perl(parent)
+perl-generators
+perl-interpreter

@@ -1,0 +1,11 @@
+ghc-Cabal-devel
+ghc-array-devel
+ghc-containers-devel
+ghc-glib-devel
+ghc-gtk-devel
+ghc-gtk2hs-buildtools-devel
+ghc-mtl-devel
+ghc-rpm-macros
+ghc-text-devel
+gtk2hs-buildtools
+pkgconfig(gtksourceview-2.0)

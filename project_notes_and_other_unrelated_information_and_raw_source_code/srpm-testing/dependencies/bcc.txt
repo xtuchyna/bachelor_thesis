@@ -1,0 +1,13 @@
+bison
+clang-devel
+cmake >= 2.8.7
+elfutils-libelf-devel
+flex
+libxml2-devel
+llvm-devel
+llvm-static
+ncurses-devel
+pkgconfig(luajit)
+python3-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

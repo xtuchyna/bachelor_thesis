@@ -1,0 +1,5 @@
+desktop-file-utils
+gstreamer-plugins-base-devel >= 0.10.22
+liboil-devel >= 0.3
+qt4-devel
+speexdsp-devel

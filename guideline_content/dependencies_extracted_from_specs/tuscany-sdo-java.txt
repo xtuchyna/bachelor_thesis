@@ -1,0 +1,5 @@
+maven-assembly-plugin
+maven-local
+maven-plugin-bundle
+mvn(junit:junit)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)

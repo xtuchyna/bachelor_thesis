@@ -1,0 +1,2 @@
+gcc
+pcre2-devel

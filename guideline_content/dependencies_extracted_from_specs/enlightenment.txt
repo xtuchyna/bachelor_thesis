@@ -1,0 +1,11 @@
+alsa-lib-devel
+bluez-libs-devel
+dbus-devel
+desktop-file-utils
+doxygen
+efl-devel >= 0.20.5
+libXext-devel
+pam-devel
+pulseaudio-libs-devel
+systemd
+xcb-util-keysyms-devel

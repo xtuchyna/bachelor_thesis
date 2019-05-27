@@ -1,0 +1,20 @@
+coreutils
+findutils
+make
+perl(CPAN::Meta) >= 2.12091
+perl(CPAN::Meta::Feature) >= 2.12091
+perl(CPAN::Meta::Prereqs) >= 2.12091
+perl(CPAN::Meta::Requirements)
+perl(Carp)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(POSIX)
+perl(Test::More) >= 0.88
+perl(base)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

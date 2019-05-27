@@ -1,0 +1,26 @@
+python-pytest-pep8
+python-requests
+python-requests-oauthlib
+python-setuptools
+python-six
+python2-devel
+python2-funcsigs
+python2-mock
+python2-pytest
+python2-pytest-cache
+python2-pytest-cov
+python2-pytest-runner
+python2-responses >= 0.3.0
+python3-devel
+python3-funcsigs
+python3-mock
+python3-pytest
+python3-pytest-cache
+python3-pytest-cov
+python3-pytest-pep8
+python3-pytest-runner
+python3-requests
+python3-requests-oauthlib
+python3-responses >= 0.3.0
+python3-simplejson
+python3-six

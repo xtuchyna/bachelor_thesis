@@ -1,0 +1,13 @@
+ccache
+desktop-file-utils
+enchant-devel >= 1.4.0
+gettext
+glibmm24-devel >= 2.16.3
+gstreamer-devel
+gstreamer-plugins-base-devel
+gstreamer-plugins-good
+gstreamermm-devel
+gtkmm30-devel
+intltool
+iso-codes-devel
+libxml++-devel >= 2.20

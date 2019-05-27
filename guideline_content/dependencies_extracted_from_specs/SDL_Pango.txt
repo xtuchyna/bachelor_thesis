@@ -1,0 +1,6 @@
+SDL-devel
+autoconf
+automake
+dos2unix
+libtool
+pango-devel

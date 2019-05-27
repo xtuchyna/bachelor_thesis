@@ -1,0 +1,9 @@
+perl(Carp)
+perl(Class::Accessor)
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Request)
+perl(HTTP::Response) >= 1.53
+perl(IO::File)
+perl(Test::More)
+perl(URI::Escape)
+perl-generators

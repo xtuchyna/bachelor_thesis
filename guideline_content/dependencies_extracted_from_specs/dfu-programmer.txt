@@ -1,0 +1,2 @@
+gcc
+pkgconfig(libusb-1.0) >= 1.0.0

@@ -1,0 +1,16 @@
+perl(Carp)
+perl(Class::Accessor)
+perl(ExtUtils::MakeMaker)
+perl(LWP::UserAgent)
+perl(SOAP::Lite) >= 0.65
+perl(Test)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(URI)
+perl(URI::QueryParam)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

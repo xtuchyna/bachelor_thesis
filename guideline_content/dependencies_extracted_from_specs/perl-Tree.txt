@@ -1,0 +1,19 @@
+findutils
+make
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Scalar::Util)
+perl(Test::Deep)
+perl(Test::Exception)
+perl(Test::Memory::Cycle) >= 1.02
+perl(Test::More)
+perl(Test::Warn)
+perl(base)
+perl(constant)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

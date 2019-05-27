@@ -1,0 +1,9 @@
+autoconf >= 2.69
+automake
+desktop-file-utils
+gettext
+gtk2-devel
+intltool
+libtool
+libxml2-devel
+xfce4-dev-tools >= 4.3.90.2

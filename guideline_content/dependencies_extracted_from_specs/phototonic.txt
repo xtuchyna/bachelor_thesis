@@ -1,0 +1,5 @@
+desktop-file-utils
+exiv2-devel
+gcc-c++
+qt5-linguist
+qt5-qtbase-devel

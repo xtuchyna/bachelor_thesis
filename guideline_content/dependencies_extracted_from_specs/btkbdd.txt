@@ -1,0 +1,3 @@
+/usr/bin/pod2man
+bluez-libs-devel
+systemd-units

@@ -1,0 +1,13 @@
+findutils
+gcc
+perl(Lexical::SealRequireHints) >= 0.008
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

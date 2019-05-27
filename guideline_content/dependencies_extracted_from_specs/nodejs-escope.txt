@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(es6-map)
+npm(es6-weak-map)
+npm(esrecurse)

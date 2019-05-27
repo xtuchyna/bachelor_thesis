@@ -1,0 +1,11 @@
+SDL-devel
+curl-devel
+desktop-file-utils
+libXt-devel
+libappstream-glib
+libjpeg-devel
+libvorbis-devel
+openal-soft-devel
+speex-devel
+speexdsp-devel
+zlib-devel

@@ -1,0 +1,13 @@
+php(language) >= 5.3.1
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(symfony/css-selector) < 4.0
+php-composer(symfony/css-selector) >= 2.7.1
+php-dom
+php-gd
+php-json
+php-mbstring
+php-pcre
+php-reflection
+php-session
+php-spl

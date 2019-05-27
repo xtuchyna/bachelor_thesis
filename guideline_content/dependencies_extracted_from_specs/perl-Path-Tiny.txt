@@ -1,0 +1,38 @@
+coreutils
+findutils
+make
+perl(CPAN::Meta) >= 2.120900
+perl(CPAN::Meta::Prereqs)
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Digest) >= 1.03
+perl(Digest::MD5)
+perl(Digest::SHA) >= 5.45
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Glob)
+perl(File::Path) >= 2.07
+perl(File::Spec) >= 0.86
+perl(File::Spec::Functions)
+perl(File::Spec::Unix)
+perl(File::Temp) >= 0.19
+perl(File::stat)
+perl(Test::FailWarnings)
+perl(Test::MockRandom)
+perl(Test::More) >= 0.96
+perl(Unicode::UTF8) >= 0.58
+perl(blib)
+perl(constant)
+perl(if)
+perl(lib)
+perl(open)
+perl(overload)
+perl(strict)
+perl(threads)
+perl(warnings)
+perl-generators
+perl-interpreter

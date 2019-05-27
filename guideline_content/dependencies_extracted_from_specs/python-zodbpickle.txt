@@ -1,0 +1,7 @@
+gcc
+python2-devel
+python2-nose
+python2-test
+python3-devel
+python3-nose
+python3-test

@@ -1,0 +1,2 @@
+glib2-devel(x86-64) >= 2.26
+gtk-doc

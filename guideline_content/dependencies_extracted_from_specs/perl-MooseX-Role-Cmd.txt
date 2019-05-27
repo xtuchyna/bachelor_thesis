@@ -1,0 +1,11 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(IPC::Cmd) >= 0.42
+perl(Moose) >= 0.24
+perl(Moose::Role)
+perl(Moose::Util::TypeConstraints)
+perl(Test::Exception)
+perl(Test::More)
+perl(inc::Module::Install)
+perl(lib)
+perl-generators

@@ -1,0 +1,4 @@
+/usr/bin/appstream-util
+desktop-file-utils
+icoutils
+python2-devel

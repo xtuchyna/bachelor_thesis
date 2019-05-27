@@ -1,0 +1,8 @@
+maven-local
+maven-plugin-bundle
+maven-remote-resources-plugin
+maven-site-plugin
+mvn(javax.transaction:jta)
+mvn(junit:junit)
+mvn(org.apache.ant:ant)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)

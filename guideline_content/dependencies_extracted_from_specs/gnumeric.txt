@@ -1,0 +1,17 @@
+bison
+desktop-file-utils
+docbook-dtds
+goffice-devel >= 0.10.28
+intltool
+itstool
+libappstream-glib
+libgda-ui-devel
+perl(ExtUtils::Embed)
+perl(Getopt::Long)
+perl(IO::Compress::Gzip)
+perl-devel
+perl-generators
+psiconv-devel
+pygobject3-devel
+pygtk2-devel
+zlib-devel

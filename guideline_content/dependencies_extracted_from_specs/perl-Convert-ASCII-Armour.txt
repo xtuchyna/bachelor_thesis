@@ -1,0 +1,10 @@
+perl(Compress::Zlib)
+perl(Data::Dumper)
+perl(Digest::MD5)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(MIME::Base64)
+perl(lib)
+perl(strict)
+perl(vars)
+perl-Pod-Perldoc
+perl-generators

@@ -1,0 +1,13 @@
+gstreamer1-plugins-good
+python3-PyYAML
+python3-devel
+python3-jellyfish
+python3-munkres
+python3-musicbrainzngs >= 0.4
+python3-mutagen >= 1.23
+python3-rarfile
+python3-setuptools
+python3-sphinx
+python3-unidecode
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

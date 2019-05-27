@@ -1,0 +1,15 @@
+perl(Devel::Declare) >= 0.005011
+perl(List::MoreUtils)
+perl(Module::Build::Tiny) >= 0.039
+perl(Moose) >= 0.90
+perl(MooseX::Method::Signatures) >= 0.36
+perl(MooseX::Role::Parameterized) >= 0.12
+perl(MooseX::Types) >= 0.20
+perl(Test::Compile)
+perl(Test::Exception)
+perl(Test::Fatal)
+perl(Test::Moose)
+perl(Test::NoWarnings)
+perl(namespace::autoclean) >= 0.09
+perl(namespace::clean) >= 0.11
+perl-generators

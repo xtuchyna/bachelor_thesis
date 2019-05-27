@@ -1,0 +1,16 @@
+cracklib-devel
+cyrus-sasl-devel
+glibc-devel
+groff
+krb5-devel
+libdb-devel
+libtool
+libtool-ltdl-devel
+nss-devel
+openssl-devel
+perl(ExtUtils::Embed)
+perl-devel
+perl-generators
+perl-interpreter
+systemd
+unixODBC-devel

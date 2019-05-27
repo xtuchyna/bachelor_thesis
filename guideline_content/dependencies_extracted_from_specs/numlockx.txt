@@ -1,0 +1,5 @@
+imake
+libX11-devel
+libXext-devel
+libXt-devel
+libXtst-devel

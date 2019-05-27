@@ -1,0 +1,10 @@
+chrpath
+emacs
+gcc-c++
+git
+glib2-devel
+libcroco-devel
+libunistring-devel
+libxml2-devel
+ncurses-devel
+xz

@@ -1,0 +1,6 @@
+R-devel
+R-lattice
+R-methods
+R-stringr
+R-testthat
+tex(latex)

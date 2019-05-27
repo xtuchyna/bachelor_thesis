@@ -1,0 +1,4 @@
+boost-devel
+dejagnu
+gdb
+python3-six

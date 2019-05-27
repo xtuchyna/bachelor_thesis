@@ -1,0 +1,51 @@
+/usr/bin/make
+/usr/bin/perl
+/usr/bin/python
+/usr/sbin/httpd
+/usr/sbin/lighttpd
+lighttpd-fastcgi
+mod_perl >= 2
+perl(Apache::LogFormat::Compiler) >= 0.33
+perl(Authen::Simple::Adapter)
+perl(Authen::Simple::Passwd)
+perl(CGI)
+perl(CGI::Compile) >= 0.03
+perl(CGI::Emulate::PSGI) >= 0.10
+perl(Class::Data::Inheritable)
+perl(Cookie::Baker) >= 0.07
+perl(Devel::StackTrace) >= 1.23
+perl(Devel::StackTrace::AsHTML) >= 0.11
+perl(Devel::StackTrace::WithLexicals) >= 0.8
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(FCGI)
+perl(FCGI::Client)
+perl(FCGI::ProcManager)
+perl(File::ShareDir) >= 1.00
+perl(File::ShareDir::Install) >= 0.06
+perl(Filesys::Notify::Simple)
+perl(FindBin)
+perl(HTTP::Entity::Parser) >= 0.17
+perl(HTTP::Headers::Fast) >= 0.18
+perl(HTTP::Message) >= 5.814
+perl(HTTP::Request::AsCGI)
+perl(HTTP::Request::Common)
+perl(HTTP::Server::Simple::PSGI)
+perl(HTTP::Tiny) >= 0.03
+perl(Hash::MultiValue) >= 0.05
+perl(IO::Handle::Util)
+perl(LWP::Protocol::http10)
+perl(LWP::UserAgent) >= 5.814
+perl(Log::Dispatch::Array) >= 1.001
+perl(Log::Log4perl)
+perl(MIME::Types)
+perl(Module::Refresh)
+perl(Pod::Usage) >= 1.36
+perl(Stream::Buffered) >= 0.02
+perl(Test::More) >= 0.88
+perl(Test::Requires)
+perl(Test::TCP) >= 2.15
+perl(Try::Tiny)
+perl(URI) >= 1.59
+perl(WWW::Form::UrlEncoded) >= 0.23
+perl(parent)
+perl-generators

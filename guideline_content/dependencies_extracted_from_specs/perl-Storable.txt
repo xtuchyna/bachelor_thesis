@@ -1,0 +1,30 @@
+coreutils
+gcc
+make
+perl(B::Deparse) >= 0.61
+perl(Carp)
+perl(Config)
+perl(Digest::MD5)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(File::Spec) >= 0.8
+perl(Hash::Util)
+perl(IO::File)
+perl(Safe)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Tie::Hash)
+perl(XSLoader)
+perl(bytes)
+perl(integer)
+perl(overload)
+perl(strict)
+perl(threads)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

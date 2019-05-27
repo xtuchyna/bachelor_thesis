@@ -1,0 +1,13 @@
+findutils
+make
+perl(:VERSION) >= 5.8.0
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Module::Metadata)
+perl(Test::More)
+perl(Test::XML)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

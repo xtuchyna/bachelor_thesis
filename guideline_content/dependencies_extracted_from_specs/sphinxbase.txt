@@ -1,0 +1,15 @@
+bison
+doxygen-latex
+gcc-c++
+ghostscript
+libtool
+openblas-devel
+perl(Pod::Usage)
+perl-generators
+perl-interpreter
+pkgconfig(libpulse)
+pkgconfig(samplerate)
+pkgconfig(sndfile)
+python2-Cython
+python2-devel
+python2-setuptools

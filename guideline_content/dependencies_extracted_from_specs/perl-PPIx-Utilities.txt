@@ -1,0 +1,27 @@
+aspell-en
+perl(Data::Dumper)
+perl(Exception::Class)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Slurp)
+perl(PPI) >= 1.208
+perl(PPI::Document) >= 1.208
+perl(PPI::Document::Fragment) >= 1.208
+perl(PPI::Dumper) >= 1.208
+perl(Perl::Critic::Policy::Miscellanea::RequireRcsKeywords)
+perl(Readonly)
+perl(Scalar::Util)
+perl(Task::Weaken)
+perl(Test::Deep)
+perl(Test::Distribution)
+perl(Test::Kwalitee)
+perl(Test::More)
+perl(Test::Perl::Critic)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

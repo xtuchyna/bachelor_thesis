@@ -1,0 +1,3 @@
+erlang-eleveldb
+erlang-lager
+erlang-rebar

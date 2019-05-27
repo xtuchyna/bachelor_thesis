@@ -1,0 +1,7 @@
+bison
+byacc
+desktop-file-utils
+flex
+glew-devel
+libtool
+wxGTK-devel

@@ -1,0 +1,11 @@
+distro-info-data
+dpkg-dev
+perl(Test::Simple)
+perl(Time::Piece)
+perl-generators
+perl-interpreter
+python2-devel
+python2-setuptools
+python3-devel
+python3-setuptools
+shunit2

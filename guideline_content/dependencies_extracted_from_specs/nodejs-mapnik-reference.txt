@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(glob)
+npm(lodash)
+npm(mocha)
+npm(semver)

@@ -1,0 +1,6 @@
+javapackages-tools >= 4.3.2-3
+maven-local
+mvn(commons-collections:commons-collections)
+mvn(junit:junit)
+mvn(org.hamcrest:hamcrest-all)
+mvn(org.yaml:snakeyaml)

@@ -1,0 +1,5 @@
+desktop-file-utils
+libXext-devel
+opencv-devel
+qt-devel
+quazip-devel

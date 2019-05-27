@@ -1,0 +1,10 @@
+GConf2-devel
+dconf-devel
+gettext
+gobject-introspection
+gtk3-devel
+gtksourceview3-devel
+intltool
+perl-XML-Parser
+pkgconfig
+python2-devel

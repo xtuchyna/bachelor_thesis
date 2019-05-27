@@ -1,0 +1,12 @@
+python2-astropy
+python2-astropy-helpers
+python2-astroscrappy
+python2-devel
+python2-reproject
+python2-scikit-image
+python3-astropy
+python3-astropy-helpers
+python3-astroscrappy
+python3-devel
+python3-reproject
+python3-scikit-image

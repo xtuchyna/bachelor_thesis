@@ -1,0 +1,10 @@
+ruby
+ruby(release)
+rubygem(aruba)
+rubygem(cucumber)
+rubygem(rails)
+rubygem(rspec-rails)
+rubygem(shoulda-context)
+rubygem(shoulda-matchers)
+rubygem(sqlite3)
+rubygems-devel

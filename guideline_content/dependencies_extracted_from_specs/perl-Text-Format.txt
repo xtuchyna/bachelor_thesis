@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Test::CPAN::Changes)
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(Test::TrailingSpace)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

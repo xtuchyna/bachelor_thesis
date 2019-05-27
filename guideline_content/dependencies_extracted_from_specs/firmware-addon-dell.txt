@@ -1,0 +1,3 @@
+firmware-tools > 2.0
+python-devel
+python-smbios

@@ -1,0 +1,13 @@
+(php-composer(composer/semver) >= 1.0 with php-composer(composer/semver) < 2)
+php(language) >= 5.4.0
+php-cli
+php-composer(fedora/autoloader)
+php-curl
+php-intl
+php-json
+php-libxml
+php-openssl
+php-pcre
+php-pdo_sqlite
+php-spl
+php-symfony-console

@@ -1,0 +1,29 @@
+perl(Carp)
+perl(Class::Load)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(FindBin)
+perl(Linux::Inotify2) >= 1.2
+perl(Module::Pluggable::Object)
+perl(Module::Runtime)
+perl(Moo) >= 1.006
+perl(Moo::Role)
+perl(Test::Exception)
+perl(Test::More) >= 0.96
+perl(Test::Requires)
+perl(Test::Without::Module)
+perl(Time::HiRes)
+perl(Type::Utils)
+perl(Types::Standard)
+perl(base)
+perl(lib)
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

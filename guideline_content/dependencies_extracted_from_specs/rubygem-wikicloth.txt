@@ -1,0 +1,5 @@
+ruby(release)
+rubygem(activesupport)
+rubygem(builder)
+rubygem(expression_parser)
+rubygems-devel

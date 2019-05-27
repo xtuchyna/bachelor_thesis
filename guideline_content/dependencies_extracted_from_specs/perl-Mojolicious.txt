@@ -1,0 +1,17 @@
+perl(Compress::Raw::Zlib)
+perl(Data::Dumper)
+perl(Digest::MD5)
+perl(Digest::SHA)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IO::Compress::Gzip)
+perl(IO::Socket::IP)
+perl(JSON::PP)
+perl(Role::Tiny)
+perl(Test::Builder)
+perl(Test::Harness)
+perl(Test::More)
+perl(Time::HiRes)
+perl(Time::Local)
+perl(experimental)
+perl-generators
+perl-interpreter >= 5.010001

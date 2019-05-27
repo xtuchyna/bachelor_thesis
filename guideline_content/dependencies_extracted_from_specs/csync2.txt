@@ -1,0 +1,12 @@
+autoconf
+automake
+bison
+byacc
+flex
+gnutls-devel
+libgcrypt-devel
+libgpg-error-devel
+librsync-devel
+libtasn1-devel
+openssl
+sqlite2-devel

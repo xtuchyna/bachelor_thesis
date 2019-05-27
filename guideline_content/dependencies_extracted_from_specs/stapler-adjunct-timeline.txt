@@ -1,0 +1,3 @@
+maven-local
+mvn(javax.servlet:servlet-api)
+mvn(org.kohsuke.stapler:stapler)

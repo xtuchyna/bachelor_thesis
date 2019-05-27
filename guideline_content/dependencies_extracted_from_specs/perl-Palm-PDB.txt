@@ -1,0 +1,11 @@
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IO::File)
+perl(Pod::Coverage::TrustPod)
+perl(Test::More)
+perl(Test::Pod) >= 1.41
+perl(Test::Pod::Coverage) >= 1.08
+perl(constant) >= 1.03
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

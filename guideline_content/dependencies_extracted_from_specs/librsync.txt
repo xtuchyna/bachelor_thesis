@@ -1,0 +1,4 @@
+/usr/include/popt.h
+bzip2-devel
+libtool
+zlib-devel

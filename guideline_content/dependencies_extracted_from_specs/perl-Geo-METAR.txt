@@ -1,0 +1,9 @@
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Test)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

@@ -1,0 +1,11 @@
+libtool-ltdl-devel
+libxml2-devel >= 2.9.1
+python2-devel
+python2dist(lxml)
+python2dist(pkgconfig)
+python2dist(pytest)
+python3-devel
+python3dist(lxml)
+python3dist(pkgconfig)
+python3dist(pytest)
+xmlsec1-devel >= 1.2.18

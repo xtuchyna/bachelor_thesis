@@ -1,0 +1,13 @@
+R-MASS
+R-Matrix
+R-devel
+R-gmp >= 0.5.8
+R-methods
+R-polynom
+R-sfsmisc >= 1.0.20
+R-stats
+R-utils
+gmp-devel >= 4.2.3
+mpfr-devel >= 3.0.0
+tex(hanging.sty)
+tex(latex)

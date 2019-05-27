@@ -1,0 +1,17 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Sub::Uplevel) >= 0.18
+perl(Test::Builder)
+perl(Test::Builder::Tester)
+perl(Test::Harness)
+perl(Test::More)
+perl(base)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

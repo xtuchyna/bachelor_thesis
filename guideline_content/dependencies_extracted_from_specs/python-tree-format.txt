@@ -1,0 +1,4 @@
+python2-devel
+python2-testtools
+python3-devel
+python3-testtools

@@ -1,0 +1,1 @@
+pkgconfig(yast2-devtools)

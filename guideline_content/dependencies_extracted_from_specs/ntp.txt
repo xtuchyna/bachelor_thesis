@@ -1,0 +1,11 @@
+autogen
+autogen-libopts-devel
+gcc
+libcap-devel
+libedit-devel
+libevent-devel
+openssl-devel
+perl-HTML-Parser
+perl-generators
+pps-tools-devel
+systemd

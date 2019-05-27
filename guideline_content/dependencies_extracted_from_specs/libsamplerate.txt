@@ -1,0 +1,5 @@
+alsa-lib-devel
+fftw-devel >= 0.15.0
+gcc
+libsndfile-devel >= 1.0.6
+pkgconfig

@@ -1,0 +1,18 @@
+cmake
+extra-cmake-modules
+kf5-kcmutils-devel
+kf5-kconfig-devel
+kf5-kcoreaddons-devel
+kf5-kdbusaddons-devel
+kf5-kdeclarative-devel
+kf5-ki18n-devel
+kf5-kiconthemes-devel
+kf5-kio-devel
+kf5-kwallet-devel
+kf5-kwidgetsaddons-devel
+kf5-rpm-macros
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Qml)
+pkgconfig(accounts-qt5) >= 1.13
+pkgconfig(libaccounts-glib) >= 1.21
+pkgconfig(libsignon-qt5) >= 8.55

@@ -1,0 +1,4 @@
+cmake
+glib2-devel
+gstreamer-devel
+libgudev1-devel

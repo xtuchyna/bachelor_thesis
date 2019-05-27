@@ -1,0 +1,13 @@
+gettext
+glib2-devel
+intltool
+perl(ExtUtils::Depends)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::PkgConfig)
+perl(Glib)
+perl(Glib::MakeHelper)
+perl-devel
+perl-generators
+pkgconfig(dbus-1) >= 1.1.0
+pkgconfig(dbus-glib-1) >= 0.84
+pkgconfig(libxfce4util-1.0) >= 4.12

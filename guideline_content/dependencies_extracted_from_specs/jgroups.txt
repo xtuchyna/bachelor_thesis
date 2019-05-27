@@ -1,0 +1,9 @@
+maven-local
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.logging.log4j:log4j-core)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.bouncycastle:bcprov-jdk15on)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.jboss.byteman:byteman-bmunit)
+mvn(org.testng:testng)

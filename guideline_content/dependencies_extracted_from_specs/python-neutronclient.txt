@@ -1,0 +1,17 @@
+git
+python-cliff
+python-keystoneauth1
+python-keystoneclient
+python-openstackdocstheme
+python-os-client-config
+python-osc-lib
+python-oslo-serialization
+python-oslo-utils
+python-pbr
+python-reno
+python-setuptools
+python-sphinx
+python2-devel
+python3-devel
+python3-pbr
+python3-setuptools

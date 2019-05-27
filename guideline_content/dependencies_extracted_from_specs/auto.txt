@@ -1,0 +1,8 @@
+maven-local
+mvn(com.google.guava:guava)
+mvn(com.squareup:javawriter)
+mvn(javax.inject:javax.inject)
+mvn(org.apache.maven.plugins:maven-invoker-plugin)
+mvn(org.apache.velocity:velocity)
+mvn(org.ow2.asm:asm)
+mvn(org.sonatype.oss:oss-parent:pom:)

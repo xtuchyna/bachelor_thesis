@@ -1,0 +1,10 @@
+PyYAML
+make
+python2-configobj
+python2-devel
+python2-docutils
+python2-setuptools
+python2-sphinx
+python2-toml
+python3-devel
+python3-setuptools

@@ -1,0 +1,10 @@
+cyrus-sasl-devel
+gcc
+openssl-devel
+php-devel > 5.5
+php-json
+php-pear
+pkgconfig(libbson-1.0) >= 1.9
+pkgconfig(libmongoc-1.0) >= 1.9
+snappy-devel
+zlib-devel

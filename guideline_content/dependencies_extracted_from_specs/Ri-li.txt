@@ -1,0 +1,3 @@
+SDL_mixer-devel
+desktop-file-utils
+libappstream-glib

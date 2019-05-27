@@ -1,0 +1,8 @@
+SDL-devel
+autoconf
+automake
+gtk2-devel
+libXt-devel
+libXv-devel
+libtool
+popt-devel

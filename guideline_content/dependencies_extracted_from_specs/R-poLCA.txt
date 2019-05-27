@@ -1,0 +1,4 @@
+R-MASS
+R-devel
+R-scatterplot3d
+tex(latex)

@@ -1,0 +1,2 @@
+gimp-devel >= 2:2.0
+gimp-devel-tools

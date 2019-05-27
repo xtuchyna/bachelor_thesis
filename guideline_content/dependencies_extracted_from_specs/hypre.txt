@@ -1,0 +1,13 @@
+SuperLU-devel
+automake
+gcc-c++
+gcc-gfortran
+libtool
+libtool-ltdl-devel
+mpich-devel
+openblas-devel
+openmpi-devel
+ptscotch-mpich-devel
+ptscotch-openmpi-devel
+superlu_dist-mpich-devel
+superlu_dist-openmpi-devel

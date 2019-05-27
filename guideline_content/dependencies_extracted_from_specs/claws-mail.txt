@@ -1,0 +1,46 @@
+NetworkManager-libnm-devel
+autoconf
+automake
+bison
+bzip2-devel
+compface-devel
+curl-devel
+dbus-glib-devel
+desktop-file-utils
+docbook-utils
+docbook-utils-pdf
+enchant-devel
+expat-devel
+flex
+gettext
+gettext-devel
+ghostscript
+glib2-devel >= 2.6.2
+gnutls-devel
+gpgme-devel >= 1.0.1
+gtk2-devel >= 2.10.0
+libSM-devel
+libarchive-devel
+libcanberra-devel
+libcanberra-gtk2
+libetpan-devel >= 1.4.1
+libgcrypt-devel
+libgdata-devel >= 0.6.4
+libgnome-devel
+libical-devel
+libidn-devel
+libnotify-devel
+libtool
+libxml2-devel
+libytnef-devel
+openldap-devel >= 2.0.7
+perl(ExtUtils::Embed)
+perl-devel
+perl-generators
+pilot-link-devel
+pkgconfig
+poppler-glib-devel
+pygtk2-devel
+python
+python-devel
+startup-notification-devel

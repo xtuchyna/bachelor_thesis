@@ -1,0 +1,9 @@
+autoconf
+automake
+gettext
+libX11-devel
+libXau-devel
+libXext-devel
+libtool
+xorg-x11-proto-devel
+xorg-x11-util-macros

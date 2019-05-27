@@ -1,0 +1,19 @@
+coreutils
+findutils
+make
+perl(Class::XSAccessor)
+perl(ExtUtils::MakeMaker)
+perl(IO::All)
+perl(Moose)
+perl(Moose::Role)
+perl(Mouse)
+perl(Mouse::Role)
+perl(Mouse::Util::MetaRole)
+perl(PPI)
+perl(Test::More) >= 0.96
+perl(constant)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

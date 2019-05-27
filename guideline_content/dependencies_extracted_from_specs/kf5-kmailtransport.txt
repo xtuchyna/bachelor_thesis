@@ -1,0 +1,20 @@
+cmake(KF5Akonadi)
+cmake(KF5AkonadiMime)
+cmake(KF5ConfigWidgets)
+cmake(KF5DocTools)
+cmake(KF5I18n)
+cmake(KF5KCMUtils)
+cmake(KF5KIO)
+cmake(KF5Mime)
+cmake(KF5Wallet)
+cmake(KPimSMTP)
+cyrus-sasl-devel
+dbus-x11
+extra-cmake-modules >= 5.39
+kf5-akonadi-mime-devel >= 17.12.3
+kf5-akonadi-server-devel >= 17.12.3
+kf5-kmime-devel >= 17.12.3
+kf5-ksmtp-devel >= 17.12.3
+kf5-rpm-macros
+qt5-qtbase-devel
+xorg-x11-server-Xvfb

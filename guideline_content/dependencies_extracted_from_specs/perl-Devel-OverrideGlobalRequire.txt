@@ -1,0 +1,12 @@
+make
+perl(:VERSION) >= 5.6
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(List::Util)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

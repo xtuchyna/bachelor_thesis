@@ -1,0 +1,5 @@
+/usr/bin/pod2man
+/usr/bin/prove
+gcc
+libtool
+make

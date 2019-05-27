@@ -1,0 +1,2 @@
+rubygem(rake)
+rubygems-devel

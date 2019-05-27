@@ -1,0 +1,12 @@
+maven-local
+mvn(com.sun.xml.bind:jaxb-impl)
+mvn(javax.xml.bind:jaxb-api)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.apache.maven.plugins:maven-surefire-report-plugin)
+mvn(org.codehaus.mojo:jaxb2-maven-plugin)
+mvn(org.hibernate.javax.persistence:hibernate-jpa-2.0-api)
+mvn(org.hibernate:hibernate-core)
+mvn(org.jboss.maven.plugins:maven-injection-plugin)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-log4j12)
+mvn(org.testng:testng)

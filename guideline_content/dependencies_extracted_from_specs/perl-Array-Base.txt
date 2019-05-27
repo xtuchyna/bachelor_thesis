@@ -1,0 +1,15 @@
+findutils
+gcc
+perl(:VERSION) >= 5.8.1
+perl(ExtUtils::CBuilder) >= 0.15
+perl(Lexical::SealRequireHints) >= 0.008
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

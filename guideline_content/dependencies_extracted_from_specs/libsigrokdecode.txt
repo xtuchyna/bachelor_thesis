@@ -1,0 +1,4 @@
+doxygen
+glib2-devel
+graphviz
+python3-devel

@@ -1,0 +1,4 @@
+maven-local
+mvn(commons-logging:commons-logging)
+mvn(junit:junit)
+mvn(org.codehaus.mojo:javacc-maven-plugin)

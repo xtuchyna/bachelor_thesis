@@ -1,0 +1,5 @@
+maven-local
+mvn(com.googlecode.json-simple:json-simple)
+mvn(jdom:jdom)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)

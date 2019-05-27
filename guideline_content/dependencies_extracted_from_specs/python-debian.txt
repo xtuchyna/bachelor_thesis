@@ -1,0 +1,5 @@
+python-chardet
+python-devel
+python-setuptools
+python-six
+python3-devel

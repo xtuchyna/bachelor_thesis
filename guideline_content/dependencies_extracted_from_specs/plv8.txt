@@ -1,0 +1,5 @@
+gcc-c++
+perl-interpreter
+postgresql-devel
+postgresql-server
+v8-devel

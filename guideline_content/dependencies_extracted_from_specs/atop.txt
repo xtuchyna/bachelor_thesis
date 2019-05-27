@@ -1,0 +1,3 @@
+ncurses-devel
+systemd
+zlib-devel

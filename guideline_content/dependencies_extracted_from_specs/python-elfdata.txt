@@ -1,0 +1,4 @@
+elfutils-devel
+elfutils-libelf-devel
+python-setuptools
+python2-devel

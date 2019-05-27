@@ -1,0 +1,16 @@
+ImageMagick
+Xaw3d-devel
+desktop-file-utils
+libICE-devel
+libSM-devel
+libX11-devel
+libXaw-devel
+libXext-devel
+libXi-devel
+libXmu-devel
+libXpm-devel
+libXt-devel
+libappstream-glib
+libjpeg-devel
+libpng-devel
+man2html-core

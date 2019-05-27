@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-filepath-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-template-haskell-devel
+ghc-transformers-devel

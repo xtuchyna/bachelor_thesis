@@ -1,0 +1,5 @@
+gc-devel
+gcc-c++
+pcre-devel
+python-setuptools
+python2-devel

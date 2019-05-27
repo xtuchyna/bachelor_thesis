@@ -1,0 +1,4 @@
+cmake
+llvm-devel = 6.0.0
+llvm-static = 6.0.0
+python

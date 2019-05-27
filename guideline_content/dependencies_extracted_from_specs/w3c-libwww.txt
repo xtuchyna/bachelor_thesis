@@ -1,0 +1,6 @@
+autoconf
+automake
+expat-devel
+libtool
+openssl-devel
+zlib-devel

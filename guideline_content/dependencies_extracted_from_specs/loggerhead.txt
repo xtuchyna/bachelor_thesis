@@ -1,0 +1,8 @@
+python-paste
+python-paste-deploy
+python-pygments
+python-setuptools
+python-simplejson
+python-simpletal
+python-testtools
+python2-devel

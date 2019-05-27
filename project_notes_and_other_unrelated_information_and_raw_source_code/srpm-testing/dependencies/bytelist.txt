@@ -1,0 +1,9 @@
+ant
+ant-junit
+java-devel
+javapackages-local
+jcodings
+jpackage-utils
+junit
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

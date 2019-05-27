@@ -1,0 +1,15 @@
+autoconf
+automake
+clang
+desktop-file-utils
+gcc
+gcc-c++
+glib2-devel
+hamcrest
+java-1.8.0-openjdk-devel
+javapackages-local
+javapackages-tools
+junit
+libappstream-glib
+rhino
+tagsoup

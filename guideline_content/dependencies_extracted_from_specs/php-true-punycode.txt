@@ -1,0 +1,4 @@
+/usr/bin/phpunit
+php(language) >= 5.3
+php-fedora-autoloader-devel
+php-mbstring

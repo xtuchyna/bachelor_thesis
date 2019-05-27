@@ -1,0 +1,9 @@
+autoconf
+automake
+boost-devel
+curl-devel
+libmpdclient-devel
+libtool
+ncurses-devel
+readline-devel
+taglib-devel

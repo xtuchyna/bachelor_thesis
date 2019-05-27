@@ -1,0 +1,14 @@
+perl(Cache::FastMmap) >= 1.29
+perl(Catalyst::ClassData)
+perl(Catalyst::Plugin::Session) >= 0.27
+perl(Catalyst::Runtime) >= 5.80000
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(File::Temp)
+perl(MRO::Compat)
+perl(MooseX::Emulate::Class::Accessor::Fast)
+perl(Path::Class)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

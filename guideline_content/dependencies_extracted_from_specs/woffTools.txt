@@ -1,0 +1,6 @@
+python2-devel
+python2-fonttools
+python2-tools
+python3-devel
+python3-fonttools
+python3-tools

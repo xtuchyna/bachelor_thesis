@@ -1,0 +1,12 @@
+autoconf
+automake
+git
+libX11-devel
+libXi-devel
+libXtst-devel
+libevdev-devel
+libtool
+pkgconfig
+systemd
+xorg-x11-server-devel >= 1.10.99.902
+xorg-x11-util-macros >= 1.8.0

@@ -1,0 +1,6 @@
+corosynclib-devel >= 1.99.9
+glibc-kernheaders
+libxml2-devel
+pacemaker-libs-devel >= 1.1.7
+systemd-devel
+systemd-units

@@ -1,0 +1,7 @@
+atlascpp-devel >= 0.5.98
+doxygen
+glib-devel
+libsigc++20-devel
+mercator-devel
+skstream-devel >= 0.3.5
+wfmath-devel >= 0.3.2

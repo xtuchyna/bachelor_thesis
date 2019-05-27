@@ -1,0 +1,14 @@
+php-cli
+php-composer(endroid/qrcode) < 2
+php-composer(endroid/qrcode) >= 1.6.5
+php-composer(fedora/autoloader)
+php-composer(kolab/Net_LDAP3)
+php-pear(Auth_SASL) >= 1.1.0
+php-pear(Crypt_GPG) >= 1.6.0
+php-pear(Mail_Mime) >= 1.10.0
+php-pear(Net_IDNA2) >= 0.2.0
+php-pear(Net_LDAP2) >= 2.2.0
+php-pear(Net_SMTP) >= 1.7.1
+php-pear(Net_Sieve) >= 1.4.0
+php-pear(Net_Socket) >= 1.2.1
+php-pear(PEAR) >= 1.10.1

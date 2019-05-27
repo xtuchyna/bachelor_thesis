@@ -1,0 +1,16 @@
+perl(ExtUtils::MakeMaker)
+perl(SOAP)
+perl(SOAP::Data)
+perl(SOAP::Deserializer)
+perl(SOAP::Lite) >= 0.716
+perl(SOAP::SOM)
+perl(SOAP::Serializer)
+perl(SOAP::Server)
+perl(SOAP::Server::Parameters)
+perl(SOAP::Test)
+perl(Test)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

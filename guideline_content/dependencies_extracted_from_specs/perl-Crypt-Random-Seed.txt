@@ -1,0 +1,13 @@
+perl(Carp)
+perl(Crypt::Random::TESHA2)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(IO::Socket)
+perl(Test::More) >= 0.45
+perl(base)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

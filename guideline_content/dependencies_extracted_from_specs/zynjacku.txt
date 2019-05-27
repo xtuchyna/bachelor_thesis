@@ -1,0 +1,6 @@
+desktop-file-utils
+gtk2-devel
+jack-audio-connection-kit-devel
+lv2core-devel
+lv2dynparam-devel
+pygtk2-devel

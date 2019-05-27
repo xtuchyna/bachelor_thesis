@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(DateTime)
+perl(DateTime::Format::RFC3339)
+perl(ExtUtils::MakeMaker) >= 6.52
+perl(FindBin)
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(constant)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

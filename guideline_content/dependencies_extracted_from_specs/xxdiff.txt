@@ -1,0 +1,4 @@
+bison
+flex
+python2-devel
+qt-devel

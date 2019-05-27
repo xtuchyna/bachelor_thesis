@@ -1,0 +1,5 @@
+boost-devel
+cmake
+console-bridge-devel
+tinyxml-devel
+urdfdom-headers-static

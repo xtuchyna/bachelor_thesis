@@ -1,0 +1,7 @@
+/usr/bin/zip
+perl-devel
+pkgconfig(libffi)
+pkgconfig(nspr)
+pkgconfig(zlib)
+python-devel
+readline-devel

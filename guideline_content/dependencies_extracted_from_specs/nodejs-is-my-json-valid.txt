@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(generate-function)
+npm(generate-object-property)
+npm(jsonpointer)
+npm(tape)
+npm(xtend)

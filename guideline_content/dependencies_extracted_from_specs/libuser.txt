@@ -1,0 +1,14 @@
+cyrus-sasl-devel
+fakeroot
+glib2-devel
+libselinux-devel
+linuxdoc-tools
+nscd
+openldap-clients
+openldap-devel
+openldap-servers
+openssl
+pam-devel
+popt-devel
+python2-devel
+python3-devel

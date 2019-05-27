@@ -1,0 +1,5 @@
+gcc-c++
+libassuan-devel
+libgcrypt-devel
+make
+perl-generators

@@ -1,0 +1,2 @@
+(crate(build_const) >= 0.2.0 with crate(build_const) < 0.3.0)
+rust-packaging

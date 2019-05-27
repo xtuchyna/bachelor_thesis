@@ -1,0 +1,12 @@
+php(language) >= 5.3.0
+php-bcmath
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-date
+php-json
+php-mbstring
+php-pcntl
+php-pcre
+php-reflection
+php-sockets
+php-spl

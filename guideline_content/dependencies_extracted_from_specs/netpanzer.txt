@@ -1,0 +1,8 @@
+SDL-devel >= 1.2.5
+SDL_image-devel >= 1.2
+SDL_mixer-devel >= 1.2
+compat-lua-devel
+desktop-file-utils
+doxygen
+physfs-devel >= 0.1.9
+scons

@@ -1,0 +1,12 @@
+ImageMagick
+SDL2-devel
+SDL2_net-devel
+autoconf
+desktop-file-utils
+enet-devel
+gcc-c++
+gettext-devel
+libcurl-devel
+openal-soft-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

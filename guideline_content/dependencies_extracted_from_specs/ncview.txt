@@ -1,0 +1,12 @@
+expat-devel
+libICE-devel
+libSM-devel
+libX11-devel
+libXaw-devel
+libXext-devel
+libXmu-devel
+libXt-devel
+libpng-devel
+netcdf-devel
+udunits2-devel
+xorg-x11-proto-devel

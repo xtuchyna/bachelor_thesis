@@ -1,0 +1,64 @@
+coreutils
+make
+perl(Algorithm::Combinatorics)
+perl(Carp)
+perl(Config)
+perl(DBD::SQLite) >= 1.14
+perl(DBI)
+perl(DBIx::Connector)
+perl(Data::Dumper)
+perl(Digest::MD5)
+perl(Digest::SHA)
+perl(Encode)
+perl(Error)
+perl(Exporter)
+perl(File::Find)
+perl(File::Glob)
+perl(File::Spec)
+perl(File::Temp)
+perl(FindBin)
+perl(HTTP::Headers)
+perl(HTTP::Negotiate)
+perl(HTTP::Request::Common)
+perl(IO::Socket::INET)
+perl(IRI)
+perl(JSON) >= 2.0
+perl(LWP::MediaTypes)
+perl(LWP::UserAgent)
+perl(List::Util) >= 1.33
+perl(Log::Log4perl)
+perl(Math::BigInt)
+perl(Module::Install::Metadata)
+perl(Module::Install::Scripts)
+perl(Module::Install::WriteAll)
+perl(Module::Load::Conditional) >= 0.38
+perl(Moose) >= 2
+perl(MooseX::ArrayRef)
+perl(Scalar::Util) >= 1.24
+perl(Set::Scalar)
+perl(Storable)
+perl(Test::Exception)
+perl(Test::JSON)
+perl(Test::More) >= 0.88
+perl(Text::CSV_XS)
+perl(Text::Table)
+perl(Time::HiRes)
+perl(URI) >= 1.52
+perl(URI::Escape)
+perl(URI::file)
+perl(XML::CommonNS) >= 0.04
+perl(XML::LibXML) >= 1.7
+perl(XML::Namespace)
+perl(XML::SAX) >= 0.96
+perl(XML::SAX::Base)
+perl(base)
+perl(constant)
+perl(inc::Module::Install)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

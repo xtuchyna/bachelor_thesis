@@ -1,0 +1,11 @@
+ghc-Cabal-devel
+ghc-abstract-deque-devel
+ghc-abstract-par-devel
+ghc-array-devel
+ghc-containers-devel
+ghc-deepseq-devel
+ghc-monad-par-extras-devel
+ghc-mtl-devel
+ghc-mwc-random-devel
+ghc-parallel-devel
+ghc-rpm-macros

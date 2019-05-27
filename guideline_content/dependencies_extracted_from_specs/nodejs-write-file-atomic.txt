@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(graceful-fs)
+npm(imurmurhash)
+npm(require-inject)
+npm(slide)
+npm(tap)

@@ -1,0 +1,21 @@
+perl(Config)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(FindBin)
+perl(Test::More) >= 0.88
+perl(XSLoader)
+perl(base)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

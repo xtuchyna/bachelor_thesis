@@ -1,0 +1,13 @@
+perl(Carp)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::testlib)
+perl(File::Path)
+perl(File::Spec)
+perl(IO::Handle)
+perl(Parse::RecDescent)
+perl(Tie::IxHash)
+perl(constant)
+perl-generators

@@ -1,0 +1,3 @@
+/usr/bin/pod2man
+m4
+perl-interpreter

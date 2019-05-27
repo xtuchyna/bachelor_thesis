@@ -1,0 +1,5 @@
+infinipath-psm-devel
+libibverbs-devel
+libnl3-devel
+libpsm2-devel
+librdmacm-devel

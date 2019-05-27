@@ -1,0 +1,65 @@
+dbus-x11
+extra-cmake-modules
+kdecoration-devel >= 5.12
+kf5-kactivities-devel
+kf5-kcmutils-devel
+kf5-kcompletion-devel
+kf5-kconfig-devel
+kf5-kconfigwidgets-devel
+kf5-kcoreaddons-devel
+kf5-kcrash-devel
+kf5-kdeclarative-devel
+kf5-kdoctools-devel
+kf5-kglobalaccel-devel
+kf5-ki18n-devel
+kf5-kiconthemes-devel
+kf5-kidletime-devel
+kf5-kinit-devel >= 5.10.0-3
+kf5-kio-devel
+kf5-knewstuff-devel
+kf5-knotifications-devel
+kf5-kservice-devel
+kf5-ktextwidgets-devel
+kf5-kwayland-devel
+kf5-kwidgetsaddons-devel
+kf5-kwindowsystem-devel
+kf5-plasma-devel
+kf5-rpm-macros
+kscreenlocker-devel >= 5.12
+libICE-devel
+libSM-devel
+libX11-devel
+libXcursor-devel
+libXi-devel
+libcap-devel
+libepoxy-devel
+libwayland-client-devel
+libwayland-cursor-devel
+libwayland-server-devel
+libxcb-devel
+libxkbcommon-devel
+libxkbcommon-devel >= 0.4
+mesa-libEGL-devel
+mesa-libGL-devel
+mesa-libgbm-devel
+mesa-libwayland-egl-devel
+openbox
+pkgconfig(libinput) >= 0.10
+pkgconfig(libudev)
+plasma-breeze-devel >= 5.12
+qt5-qtbase-devel
+qt5-qtbase-private-devel
+qt5-qtbase-static
+qt5-qtmultimedia-devel
+qt5-qtscript-devel
+qt5-qtsensors-devel
+qt5-qttools-devel
+qt5-qttools-static
+qt5-qtvirtualkeyboard
+qt5-qtx11extras-devel
+xcb-util-cursor-devel
+xcb-util-image-devel
+xcb-util-keysyms-devel
+xcb-util-wm-devel
+xorg-x11-server-Xvfb
+xorg-x11-server-Xwayland

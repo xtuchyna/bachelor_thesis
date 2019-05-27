@@ -1,0 +1,4 @@
+gtk3-devel >= 3.0
+libgudev1-devel >= 151
+libv4l-devel >= 0.6
+scrollkeeper

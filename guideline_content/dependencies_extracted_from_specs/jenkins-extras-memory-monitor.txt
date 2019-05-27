@@ -1,0 +1,4 @@
+java-devel
+maven-local
+mvn(net.java.dev.jna:jna)
+mvn(org.apache.maven.plugins:maven-assembly-plugin)

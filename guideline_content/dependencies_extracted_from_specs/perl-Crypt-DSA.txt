@@ -1,0 +1,21 @@
+findutils
+make
+openssl
+perl(Carp)
+perl(Convert::PEM)
+perl(Crypt::DES_EDE3)
+perl(Data::Buffer) >= 0.01
+perl(Digest::SHA1)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(File::Which) >= 0.05
+perl(IPC::Open3)
+perl(Math::BigInt) >= 1.78
+perl(Math::BigInt::GMP)
+perl(Perl::MinimumVersion) >= 1.20
+perl(Test::CPAN::Meta) >= 0.12
+perl(Test::MinimumVersion) >= 0.008
+perl(Test::More) >= 0.42
+perl(Test::Pod) >= 1.26
+perl-generators
+perl-interpreter

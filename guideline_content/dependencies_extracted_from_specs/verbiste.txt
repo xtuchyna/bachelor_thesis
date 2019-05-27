@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext
+libgnomeui-devel
+libxml2-devel
+perl(XML::Parser)

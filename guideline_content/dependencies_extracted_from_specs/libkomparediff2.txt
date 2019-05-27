@@ -1,0 +1,11 @@
+extra-cmake-modules
+gcc-c++
+kf5-kcodecs-devel
+kf5-kconfig-devel
+kf5-kcoreaddons-devel
+kf5-ki18n-devel
+kf5-kio-devel
+kf5-kparts-devel
+kf5-kxmlgui-devel
+kf5-rpm-macros
+qt5-qtbase-devel

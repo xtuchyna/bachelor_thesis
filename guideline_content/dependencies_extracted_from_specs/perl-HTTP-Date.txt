@@ -1,0 +1,8 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test)
+perl(Time::Local)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

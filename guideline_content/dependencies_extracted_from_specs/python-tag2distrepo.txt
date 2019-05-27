@@ -1,0 +1,4 @@
+fedmsg
+python2-devel
+python2-koji
+python3-devel

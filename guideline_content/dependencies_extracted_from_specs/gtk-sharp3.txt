@@ -1,0 +1,12 @@
+automake
+gcc
+gcc-c++
+gettext
+glib2-devel
+gtk3-devel
+libglade2-devel
+libtool
+make
+mono-devel
+monodoc
+perl-generators

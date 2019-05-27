@@ -1,0 +1,5 @@
+gettext
+glib2-devel
+pkgconfig
+popt-devel
+systemd

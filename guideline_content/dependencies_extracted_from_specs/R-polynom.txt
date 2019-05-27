@@ -1,0 +1,4 @@
+R-devel
+R-graphics
+R-stats
+tex(latex)

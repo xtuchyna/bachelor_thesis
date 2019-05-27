@@ -1,0 +1,9 @@
+appstream
+extra-cmake-modules >= 5.44.0
+kf5-rpm-macros
+qt5-linguist
+qt5-qtbase-devel
+qt5-qtdeclarative-devel
+qt5-qtquickcontrols2-devel
+qt5-qtsvg-devel
+xorg-x11-server-Xvfb

@@ -1,0 +1,23 @@
+coreutils
+findutils
+glibc-common
+make
+perl(:VERSION) >= 5.6
+perl(Carp)
+perl(Compress::Raw::Zlib) >= 2
+perl(Compress::Zlib) >= 1.34
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(POE::Filter) >= 0.38
+perl(POE::Filter::Line)
+perl(POE::Filter::Stackable)
+perl(Test::More) >= 0.47
+perl(base)
+perl(blib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

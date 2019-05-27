@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(activesupport)
+rubygem(i18n)
+rubygem(minitest)
+rubygem(mocha)
+rubygem(webmock)
+rubygems-devel

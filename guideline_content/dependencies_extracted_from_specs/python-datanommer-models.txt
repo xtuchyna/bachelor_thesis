@@ -1,0 +1,14 @@
+python2-alembic
+python2-devel
+python2-fedmsg-core
+python2-fedmsg-meta-fedora-infrastructure
+python2-nose
+python2-setuptools
+python2-sqlalchemy >= 0.7
+python3-alembic
+python3-devel
+python3-fedmsg-core
+python3-fedmsg-meta-fedora-infrastructure
+python3-nose
+python3-setuptools
+python3-sqlalchemy >= 0.7

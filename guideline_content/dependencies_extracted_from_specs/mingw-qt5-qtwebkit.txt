@@ -1,0 +1,43 @@
+bison
+flex
+gperf
+mingw32-angleproject >= 0-0.11.git.30d6c2.20141113
+mingw32-filesystem >= 96
+mingw32-fontconfig
+mingw32-icu
+mingw32-libjpeg-turbo
+mingw32-libpng
+mingw32-libwebp
+mingw32-libxslt
+mingw32-pkg-config
+mingw32-qt5-qtbase >= 5.9.4
+mingw32-qt5-qtdeclarative >= 5.9.4
+mingw32-qt5-qtlocation >= 5.9.4
+mingw32-qt5-qtmultimedia >= 5.9.4
+mingw32-qt5-qtsensors >= 5.9.4
+mingw32-sqlite
+mingw32-zlib
+mingw64-angleproject >= 0-0.11.git.30d6c2.20141113
+mingw64-filesystem >= 96
+mingw64-fontconfig
+mingw64-icu
+mingw64-libjpeg-turbo
+mingw64-libpng
+mingw64-libwebp
+mingw64-libxslt
+mingw64-pkg-config
+mingw64-qt5-qtbase >= 5.9.4
+mingw64-qt5-qtdeclarative >= 5.9.4
+mingw64-qt5-qtlocation >= 5.9.4
+mingw64-qt5-qtmultimedia >= 5.9.4
+mingw64-qt5-qtsensors >= 5.9.4
+mingw64-sqlite
+mingw64-zlib
+perl(Digest::MD5)
+perl(Getopt::Long)
+perl(Text::ParseWords)
+perl(version)
+perl-interpreter
+python
+ruby
+rubygems

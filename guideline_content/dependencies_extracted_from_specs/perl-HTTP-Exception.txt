@@ -1,0 +1,10 @@
+perl(Exception::Class)
+perl(HTTP::Status)
+perl(Module::Build)
+perl(Plack)
+perl(Plack::Test)
+perl(Scalar::Util)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl-generators

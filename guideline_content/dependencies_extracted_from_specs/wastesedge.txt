@@ -1,0 +1,3 @@
+adonthell >= 0.3.6
+desktop-file-utils
+gettext

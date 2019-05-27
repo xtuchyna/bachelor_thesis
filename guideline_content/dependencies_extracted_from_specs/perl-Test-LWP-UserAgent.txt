@@ -1,0 +1,35 @@
+make
+perl(CPAN::Meta::Requirements)
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(HTTP::Date)
+perl(HTTP::Message::PSGI)
+perl(HTTP::Request)
+perl(HTTP::Request::Common)
+perl(HTTP::Response)
+perl(HTTP::Status)
+perl(JSON::MaybeXS)
+perl(LWP::UserAgent)
+perl(Module::Metadata)
+perl(Moose)
+perl(Path::Tiny)
+perl(Safe::Isa)
+perl(Scalar::Util)
+perl(Storable)
+perl(Test::Deep) >= 0.110
+perl(Test::Fatal)
+perl(Test::More) >= 0.88
+perl(Test::Needs)
+perl(Test::Warnings) >= 0.009
+perl(Try::Tiny)
+perl(URI)
+perl(if)
+perl(lib)
+perl(namespace::clean) >= 0.19
+perl(overload)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

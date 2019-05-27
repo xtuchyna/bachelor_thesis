@@ -1,0 +1,8 @@
+ant
+ant-junit
+bcel
+bcel-javadoc
+javapackages-local
+xerces-j2 >= 2.7.1
+xerces-j2-javadoc
+xml-commons-apis

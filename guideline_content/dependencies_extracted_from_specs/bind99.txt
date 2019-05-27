@@ -1,0 +1,7 @@
+autoconf
+krb5-devel
+libcap-devel
+libtool
+libxml2-devel
+openssl-devel
+pkgconfig

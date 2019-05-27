@@ -1,0 +1,10 @@
+maven-local
+mvn(com.sun.codemodel:codemodel)
+mvn(junit:junit)
+mvn(org.apache.ant:ant)
+mvn(org.apache.commons:commons-lang3)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven:maven-archiver)
+mvn(org.apache.maven:maven-artifact)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.codehaus.plexus:plexus-utils)

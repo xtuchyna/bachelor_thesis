@@ -1,0 +1,3 @@
+ncurses-devel
+readline-devel
+texinfo

@@ -1,0 +1,23 @@
+autoconf
+desktop-file-utils >= 0.2.93
+file
+gcc
+gettext
+gpm-devel
+gtk3-devel
+libSM-devel
+libXpm-devel
+libXt-devel
+libacl-devel
+libappstream-glib
+libselinux-devel
+lua-devel
+ncurses-devel
+perl(ExtUtils::Embed)
+perl(ExtUtils::ParseXS)
+perl-devel
+perl-generators
+python2-devel
+python3-devel
+ruby
+ruby-devel

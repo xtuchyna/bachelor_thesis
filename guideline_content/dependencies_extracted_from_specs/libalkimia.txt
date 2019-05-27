@@ -1,0 +1,12 @@
+cmake
+cmake(Qt5Core)
+cmake(Qt5DBus)
+cmake(Qt5Test)
+doxygen
+extra-cmake-modules
+gcc-c++
+mpir-devel
+pkg-config
+pkgconfig(QtCore)
+pkgconfig(QtDBus)
+pkgconfig(QtTest)

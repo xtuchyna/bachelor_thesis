@@ -1,0 +1,57 @@
+coreutils
+findutils
+gcc
+make
+perl(B)
+perl(CBOR::XS)
+perl(CPAN::Meta::YAML)
+perl(Carp)
+perl(Class::XSAccessor)
+perl(Compress::LZF)
+perl(Config)
+perl(Convert::Bencode)
+perl(Data::Dump)
+perl(Data::Dumper)
+perl(Devel::Peek)
+perl(Encode) >= 1.9081
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Hash::Util)
+perl(JSON)
+perl(JSON::PP) >= 2.09
+perl(JSON::XS)
+perl(List::MoreUtils)
+perl(Math::BigInt)
+perl(Mojo::JSON) >= 6.11
+perl(POSIX)
+perl(Perl::MinimumVersion) >= 1.20
+perl(Pod::Spell::CommonMistakes)
+perl(Scalar::Util)
+perl(Test)
+perl(Test::CPAN::Meta) >= 0.12
+perl(Test::Kwalitee)
+perl(Test::LeakTrace)
+perl(Test::MinimumVersion) >= 0.008
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::Simple)
+perl(Text::CSV_XS)
+perl(Tie::Array)
+perl(Tie::Hash)
+perl(Tie::IxHash)
+perl(Time::Piece)
+perl(XSLoader)
+perl(YAML)
+perl(YAML::Syck)
+perl(YAML::XS)
+perl(common::sense) >= 3.5
+perl(constant)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

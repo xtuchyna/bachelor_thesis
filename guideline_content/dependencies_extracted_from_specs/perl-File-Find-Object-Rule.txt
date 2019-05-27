@@ -1,0 +1,22 @@
+coreutils
+perl(Carp)
+perl(Class::XSAccessor)
+perl(Cwd)
+perl(File::Basename)
+perl(File::Find::Object)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(Module::Build)
+perl(Number::Compare)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::TrailingSpace)
+perl(Text::Glob)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

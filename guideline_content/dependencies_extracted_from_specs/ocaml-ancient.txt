@@ -1,0 +1,4 @@
+chrpath
+ocaml >= 3.10.0
+ocaml-findlib-devel
+ocaml-ocamldoc

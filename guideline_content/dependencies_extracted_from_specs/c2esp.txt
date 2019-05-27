@@ -1,0 +1,6 @@
+cups
+cups-devel
+cups-filters-devel
+gcc
+jbigkit-devel
+python3-cups

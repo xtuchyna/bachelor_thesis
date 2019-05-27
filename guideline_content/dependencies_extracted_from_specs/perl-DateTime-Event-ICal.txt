@@ -1,0 +1,17 @@
+make
+perl(Carp)
+perl(DateTime)
+perl(DateTime::Event::Recurrence) >= 0.11
+perl(DateTime::Set)
+perl(DateTime::Span)
+perl(DateTime::SpanSet)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Params::Validate)
+perl(Test::More)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

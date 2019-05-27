@@ -1,0 +1,4 @@
+ant
+javapackages-local
+mvn(org.scala-sbt:test-interface)
+scala

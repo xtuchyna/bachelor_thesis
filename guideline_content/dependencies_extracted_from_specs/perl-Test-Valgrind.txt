@@ -1,0 +1,38 @@
+coreutils
+findutils
+gcc
+make
+perl(Carp)
+perl(Config)
+perl(Digest::MD5)
+perl(DynaLoader)
+perl(Env::Sanctify)
+perl(ExtUtils::Install) >= 1.38
+perl(ExtUtils::MM)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::HomeDir) >= 0.86
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp) >= 0.19
+perl(Filter::Util::Call)
+perl(IO::Select)
+perl(List::Util)
+perl(POSIX)
+perl(Perl::Destruct::Level)
+perl(Scalar::Util)
+perl(Test::Builder)
+perl(Test::More)
+perl(Time::HiRes)
+perl(XML::Twig)
+perl(XML::Twig::Elt)
+perl(XSLoader)
+perl(base)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+valgrind >= 3.1.0

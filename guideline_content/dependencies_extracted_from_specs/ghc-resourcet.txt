@@ -1,0 +1,13 @@
+ghc-Cabal-devel
+ghc-containers-devel
+ghc-exceptions-devel
+ghc-hspec-devel
+ghc-lifted-base-devel
+ghc-mmorph-devel
+ghc-monad-control-devel
+ghc-mtl-devel
+ghc-rpm-macros
+ghc-transformers-base-devel
+ghc-transformers-compat-devel
+ghc-transformers-devel
+ghc-unliftio-core-devel

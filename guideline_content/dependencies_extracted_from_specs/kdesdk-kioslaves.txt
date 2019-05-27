@@ -1,0 +1,5 @@
+cmake(KF5I18n)
+cmake(KF5KIO)
+extra-cmake-modules
+kf5-rpm-macros
+perl-generators

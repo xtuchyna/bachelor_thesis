@@ -1,0 +1,3 @@
+libdnet-devel
+libpcap-devel >= 0.8.0
+tcpdump

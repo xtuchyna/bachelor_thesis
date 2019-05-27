@@ -1,0 +1,10 @@
+autoconf
+automake
+fuse-devel
+gcc
+libattr-devel
+libtool
+libzstd-devel
+lz4-devel
+xz-devel
+zlib-devel

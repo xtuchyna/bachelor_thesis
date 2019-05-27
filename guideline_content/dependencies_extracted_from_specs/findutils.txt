@@ -1,0 +1,7 @@
+automake
+dejagnu
+gcc
+gettext-devel
+git
+libselinux-devel
+texinfo

@@ -1,0 +1,25 @@
+coreutils
+make
+perl(Carp)
+perl(Cwd)
+perl(English)
+perl(Exporter)
+perl(File::Copy)
+perl(File::Path)
+perl(File::Spec) >= 3.26
+perl(File::Temp)
+perl(File::stat)
+perl(IO::Dir)
+perl(IO::File)
+perl(Module::Build) > 0.36
+perl(Perl::OSType)
+perl(Scalar::Util)
+perl(Test)
+perl(Test::More) >= 0.88
+perl(Test::Perl::Critic)
+perl(overload)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,11 @@
+boost-devel >= 1.46
+cmake
+gcc-c++
+gflags-devel
+glog-devel
+gtest-devel
+kyotocabinet-devel
+marisa-devel
+opencc-devel
+yaml-cpp-devel
+zlib-devel

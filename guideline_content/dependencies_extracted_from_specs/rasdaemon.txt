@@ -1,0 +1,4 @@
+gettext-devel
+perl-generators
+sqlite-devel
+systemd

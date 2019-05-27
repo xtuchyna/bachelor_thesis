@@ -1,0 +1,9 @@
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IO::File)
+perl(Test)
+perl(XML::Catalog)
+perl(XML::Parser) >= 2
+perl-generators
+perl-interpreter

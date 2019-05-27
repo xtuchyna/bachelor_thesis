@@ -1,0 +1,3 @@
+gettext
+intltool
+pidgin-devel >= 2.5

@@ -1,0 +1,23 @@
+coreutils
+make
+perl(Config)
+perl(Config::IniFiles) >= 2.88
+perl(DateTime::Format::HTTP) >= 0.42
+perl(DateTime::Format::Strptime) >= 1.73
+perl(DateTime::Format::W3CDTF) >= 0.06
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Slurper) >= 0.008
+perl(HTML::Entities::Interpolate) >= 1.05
+perl(HTML::Template) >= 2.95
+perl(Moo) >= 2.000002
+perl(Test::More) >= 1.001002
+perl(Try::Tiny) >= 0.24
+perl(Types::Standard) >= 1.000005
+perl(lib)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed
+web-assets-devel

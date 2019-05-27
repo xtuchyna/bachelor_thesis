@@ -1,0 +1,9 @@
+doxygen
+gcc
+libtool
+pkgconfig(gstreamer-0.10)
+pkgconfig(gstreamer-plugins-base-0.10)
+pkgconfig(sphinxbase)
+python2-Cython
+python2-devel
+python2-setuptools

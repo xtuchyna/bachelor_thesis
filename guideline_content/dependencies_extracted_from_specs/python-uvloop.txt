@@ -1,0 +1,6 @@
+gcc
+libuv-devel
+python3-Cython
+python3-aiohttp
+python3-devel
+python3-setuptools

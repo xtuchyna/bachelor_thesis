@@ -1,0 +1,6 @@
+coq = 8.7.1
+flocq
+gappa
+ocaml
+ocaml-camlp5-devel
+remake

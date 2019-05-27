@@ -1,0 +1,8 @@
+exiv2-devel
+gobject-introspection-devel
+libtool
+python-gobject-base
+python2-devel
+python3-devel
+python3-gobject-base
+vala

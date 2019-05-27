@@ -1,0 +1,14 @@
+/usr/bin/xsltproc
+automake
+desktop-file-utils
+docbook-style-xsl
+docbook-utils
+gcc
+gettext
+git
+intltool
+libtool
+pkgconfig(glib-2.0) >= 2.6.0
+pkgconfig(gtk+-2.0) >= 2.18.0
+pkgconfig(vte)
+pkgconfig(x11)

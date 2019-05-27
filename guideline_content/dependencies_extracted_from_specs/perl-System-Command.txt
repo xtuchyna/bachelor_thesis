@@ -1,0 +1,25 @@
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(File::Find)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::Handle)
+perl(IO::Select)
+perl(List::Util)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Symbol)
+perl(Test::Command)
+perl(Test::More) >= 0.88
+perl(Test::Output)
+perl(Time::HiRes)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

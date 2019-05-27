@@ -1,0 +1,15 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Spec)
+perl(FileHandle)
+perl(Locale::Maketext::Simple)
+perl(Module::Load)
+perl(Params::Check)
+perl(Test::More)
+perl(if)
+perl(lib)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

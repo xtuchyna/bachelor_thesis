@@ -1,0 +1,11 @@
+autoconf
+automake
+gettext
+intltool
+itstool
+krb5-devel
+libtool
+perl(XML::Parser)
+pkgconfig(gtk+-3.0)
+pkgconfig(libnm)
+pkgconfig(libnotify)

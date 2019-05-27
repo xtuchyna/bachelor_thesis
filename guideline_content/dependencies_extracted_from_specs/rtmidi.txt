@@ -1,0 +1,7 @@
+/usr/bin/dos2unix
+alsa-lib-devel
+autoconf
+automake
+doxygen
+jack-audio-connection-kit-devel
+libtool

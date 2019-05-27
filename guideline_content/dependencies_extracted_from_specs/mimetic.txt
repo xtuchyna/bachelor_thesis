@@ -1,0 +1,4 @@
+doxygen
+findutils
+gcc-c++
+make

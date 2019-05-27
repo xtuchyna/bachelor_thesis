@@ -1,0 +1,6 @@
+boost-devel
+extra-cmake-modules
+gpgme-devel
+kf5-rpm-macros
+libgpg-error-devel
+qt5-qtbase-devel

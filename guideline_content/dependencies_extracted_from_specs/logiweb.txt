@@ -1,0 +1,4 @@
+clisp
+dvipdfm
+tex(latex)
+vim-common

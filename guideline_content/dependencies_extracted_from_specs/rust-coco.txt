@@ -1,0 +1,4 @@
+(crate(either) >= 1.0.0 with crate(either) < 2.0.0)
+(crate(rand) >= 0.4.0 with crate(rand) < 0.5.0)
+(crate(scopeguard) >= 0.3.0 with crate(scopeguard) < 0.4.0)
+rust-packaging

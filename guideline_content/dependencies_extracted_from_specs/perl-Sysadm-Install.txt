@@ -1,0 +1,28 @@
+coreutils
+findutils
+make
+perl(Archive::Tar)
+perl(Carp)
+perl(Cwd)
+perl(Encode)
+perl(Expect)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp) >= 0.16
+perl(File::Which) >= 1.09
+perl(HTTP::Request)
+perl(HTTP::Status)
+perl(LWP::UserAgent)
+perl(Log::Log4perl) >= 1.00
+perl(Log::Log4perl::Util)
+perl(Term::ReadKey)
+perl(Test::More)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

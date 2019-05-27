@@ -1,0 +1,28 @@
+php(language) >= 5.3.9
+php-cli
+php-composer(dnoegel/php-xdg-base-dir) < 0.2
+php-composer(dnoegel/php-xdg-base-dir) >= 0.1
+php-composer(fedora/autoloader)
+php-composer(jakub-onderka/php-console-highlighter) < 0.4.0
+php-composer(jakub-onderka/php-console-highlighter) >= 0.3.0
+php-composer(nikic/php-parser) < 4.0
+php-composer(nikic/php-parser) >= 2.0
+php-composer(phpunit/phpunit)
+php-composer(symfony/console) < 5.0
+php-composer(symfony/console) >= 2.7.1
+php-composer(symfony/finder) < 5.0
+php-composer(symfony/finder) >= 2.7.1
+php-composer(symfony/var-dumper) < 5.0
+php-composer(symfony/var-dumper) >= 2.7.1
+php-ctype
+php-date
+php-dom
+php-json
+php-pcntl
+php-pcre
+php-pdo
+php-posix
+php-readline
+php-reflection
+php-spl
+php-tokenizer

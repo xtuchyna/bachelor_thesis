@@ -1,0 +1,5 @@
+ruby
+ruby(release)
+rubygem(nokogiri)
+rubygem(test-unit)
+rubygems-devel

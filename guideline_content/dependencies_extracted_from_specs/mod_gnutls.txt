@@ -1,0 +1,8 @@
+apr-util-devel >= 1.3
+autoconf
+automake
+gnutls-devel
+gnutls-utils
+httpd-devel
+libtool
+softhsm-devel

@@ -1,0 +1,11 @@
+perl(Crypt::SSLeay)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(IO::Socket::SSL)
+perl(MIME::Base64)
+perl(MIME::Type)
+perl(MIME::Types)
+perl(SOAP::Lite)
+perl(Test::More)
+perl(Test::Pod::Coverage)
+perl-generators

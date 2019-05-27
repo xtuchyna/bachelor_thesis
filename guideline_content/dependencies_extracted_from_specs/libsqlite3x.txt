@@ -1,0 +1,5 @@
+automake
+dos2unix
+doxygen
+libtool
+sqlite-devel

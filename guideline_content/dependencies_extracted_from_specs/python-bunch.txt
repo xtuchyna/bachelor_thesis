@@ -1,0 +1,4 @@
+dos2unix
+python2-devel
+python2-nose
+python2-setuptools

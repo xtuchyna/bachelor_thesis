@@ -1,0 +1,6 @@
+cmake
+extra-cmake-modules
+kf5-rpm-macros
+pkgconfig(QtGui)
+pkgconfig(libdmtx)
+pkgconfig(libqrencode)

@@ -1,0 +1,5 @@
+desktop-file-utils
+gcc
+gettext
+libX11-devel
+python2-devel

@@ -1,0 +1,13 @@
+perl(Data::Dumper)
+perl(Exporter)
+perl(Module::Build)
+perl(PadWalker) >= 0.13
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

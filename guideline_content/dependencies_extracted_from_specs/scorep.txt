@@ -1,0 +1,13 @@
+binutils-devel
+bison
+chrpath
+cube-devel >= 4.3
+flex
+gcc-gfortran
+libunwind-devel
+mpich-devel
+ocl-icd-devel
+opari2
+openmpi-devel
+otf2-devel >= 2.0
+papi-devel

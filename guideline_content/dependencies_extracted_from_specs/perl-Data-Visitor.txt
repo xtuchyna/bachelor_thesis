@@ -1,0 +1,9 @@
+perl(Class::Load)
+perl(ExtUtils::MakeMaker)
+perl(Moose) >= 0.89
+perl(Task::Weaken)
+perl(Test::More)
+perl(Test::Requires)
+perl(Tie::ToObject) >= 0.01
+perl(namespace::clean) >= 0.19
+perl-generators

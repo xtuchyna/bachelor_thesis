@@ -1,0 +1,5 @@
+erlang-cluster_info
+erlang-exometer_core
+erlang-lager
+erlang-rebar
+erlang-riak_core

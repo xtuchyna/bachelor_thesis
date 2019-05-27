@@ -1,0 +1,5 @@
+boost-devel
+doxygen
+pkgconfig(cppunit)
+pkgconfig(librevenge-0.0)
+pkgconfig(libxml-2.0)

@@ -1,0 +1,11 @@
+/usr/bin/sphinx-build
+boost-python-devel
+boost-python3-devel
+bzip2-devel
+compat-openssl10-devel
+gcc-c++
+python2
+python2-devel
+python3
+python3-devel
+zlib-devel

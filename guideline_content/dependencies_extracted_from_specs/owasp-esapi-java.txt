@@ -1,0 +1,13 @@
+maven-local
+mvn(commons-beanutils:commons-beanutils-core)
+mvn(commons-collections:commons-collections)
+mvn(commons-configuration:commons-configuration)
+mvn(commons-fileupload:commons-fileupload)
+mvn(commons-io:commons-io)
+mvn(junit:junit)
+mvn(log4j:log4j:12)
+mvn(org.apache.tomcat:tomcat-jsp-api)
+mvn(org.apache.tomcat:tomcat-servlet-api)
+mvn(org.beanshell:bsh)
+mvn(org.sonatype.oss:oss-parent:pom:)
+mvn(xom:xom)

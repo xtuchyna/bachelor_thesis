@@ -1,0 +1,5 @@
+jbuilder
+ocaml
+ocaml-camomile-devel
+ocaml-findlib
+ocaml-react-devel

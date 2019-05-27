@@ -1,0 +1,21 @@
+ImageMagick
+desktop-file-utils
+emacs
+fftw-devel >= 3.0
+freeglut-devel
+gc-devel >= 6.8
+ghostscript
+gsl-devel
+libtool
+mesa-libOSMesa-devel
+ncurses-devel
+readline-devel
+tex(cm-super-t1.enc)
+tex(epsf.tex)
+tex(latex)
+tex(parskip.sty)
+tex(pdftex.map)
+texinfo-tex
+xemacs
+xemacs-packages-extra
+zlib-devel

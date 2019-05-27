@@ -1,0 +1,9 @@
+maven-local
+mvn(ch.qos.cal10n:cal10n-api)
+mvn(commons-lang:commons-lang)
+mvn(commons-logging:commons-logging)
+mvn(javassist:javassist)
+mvn(log4j:log4j:1.2.17)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)

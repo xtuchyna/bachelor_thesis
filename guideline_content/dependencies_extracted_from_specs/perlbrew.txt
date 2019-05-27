@@ -1,0 +1,44 @@
+coreutils
+findutils
+make
+perl(CPAN::Perl::Releases) >= 3.24
+perl(Capture::Tiny) >= 0.36
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Devel::PatchPerl) >= 1.40
+perl(English)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Glob)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp) >= 0.2304
+perl(File::Which)
+perl(FindBin)
+perl(Getopt::Long)
+perl(IO::All) >= 0.51
+perl(Module::Install::AuthorRequires)
+perl(Module::Install::Makefile)
+perl(Module::Install::Metadata)
+perl(Module::Install::Scripts)
+perl(Module::Install::WriteAll)
+perl(Path::Class) >= 0.33
+perl(Pod::Markdown) >= 2.002
+perl(Pod::Parser) >= 1.63
+perl(Pod::Usage) >= 1.68
+perl(Test::Exception) >= 0.32
+perl(Test::More) >= 1.001002
+perl(Test::NoWarnings) >= 1.04
+perl(Test::Output) >= 1.03
+perl(Test::Spec) >= 0.47
+perl(inc::Module::Install)
+perl(lib)
+perl(local::lib) >= 2.000014
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed
+wget

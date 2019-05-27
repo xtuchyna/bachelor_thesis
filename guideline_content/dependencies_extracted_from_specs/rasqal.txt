@@ -1,0 +1,6 @@
+libxml2-devel
+mpfr-devel
+pcre-devel
+perl(Pod::Usage)
+perl(XML::DOM)
+raptor2-devel

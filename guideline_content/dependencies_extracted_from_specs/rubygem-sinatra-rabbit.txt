@@ -1,0 +1,7 @@
+ruby(release)
+rubygem(haml)
+rubygem(minitest)
+rubygem(nokogiri)
+rubygem(rack-test)
+rubygem(sinatra)
+rubygems-devel

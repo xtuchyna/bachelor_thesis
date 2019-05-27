@@ -1,0 +1,17 @@
+desktop-file-utils
+gettext
+intltool
+libXdamage-devel
+libXt-devel
+libXtst-devel
+libgcrypt-devel
+pkgconfig(avahi-client)
+pkgconfig(avahi-glib)
+pkgconfig(gnutls)
+pkgconfig(gtk+-x11-3.0)
+pkgconfig(ice)
+pkgconfig(libnotify)
+pkgconfig(libsecret-1)
+pkgconfig(sm)
+pkgconfig(telepathy-glib)
+systemd

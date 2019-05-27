@@ -1,0 +1,9 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(HTML::Element) >= 3.01
+perl(Tie::Array)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

@@ -1,0 +1,9 @@
+nodejs-packaging
+npm(bluebird)
+npm(bytes)
+npm(iconv-lite)
+npm(istanbul)
+npm(mocha)
+npm(readable-stream)
+npm(through2)
+npm(unpipe)

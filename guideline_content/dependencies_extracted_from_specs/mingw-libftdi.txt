@@ -1,0 +1,15 @@
+cmake
+doxygen
+mingw32-binutils
+mingw32-boost
+mingw32-filesystem
+mingw32-gcc
+mingw32-libconfuse
+mingw32-libusbx
+mingw64-binutils
+mingw64-boost
+mingw64-filesystem
+mingw64-gcc
+mingw64-libconfuse
+mingw64-libusbx
+swig

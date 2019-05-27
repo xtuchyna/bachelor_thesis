@@ -1,0 +1,6 @@
+doxygen-latex
+gcc-c++
+ghostscript-core
+gmp-devel
+libtool
+tex(stmaryrd.sty)

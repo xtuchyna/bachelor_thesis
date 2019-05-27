@@ -1,0 +1,27 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Compare)
+perl(File::Slurp)
+perl(File::Temp) >= 0.17
+perl(FileHandle)
+perl(FindBin)
+perl(Getopt::Std)
+perl(POSIX)
+perl(Test::CPAN::Changes)
+perl(Test::More) >= 0.96
+perl(Test::Most)
+perl(Test::Pod) >= 1.00
+perl(autodie)
+perl(integer)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

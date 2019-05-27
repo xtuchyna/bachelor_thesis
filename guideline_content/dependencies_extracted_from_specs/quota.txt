@@ -1,0 +1,15 @@
+autoconf
+automake
+bash
+coreutils
+e2fsprogs-devel
+gcc
+gettext-devel
+make
+openldap-devel
+pkgconfig(dbus-1)
+pkgconfig(libnl-3.0) >= 3.1
+pkgconfig(libnl-genl-3.0)
+pkgconfig(libtirpc)
+rpcgen
+systemd

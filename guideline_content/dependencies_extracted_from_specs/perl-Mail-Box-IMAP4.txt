@@ -1,0 +1,34 @@
+make
+perl(:VERSION) >= 5.10
+perl(Date::Parse)
+perl(Digest::HMAC_MD5)
+perl(Digest::MD5)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Compare)
+perl(File::Copy)
+perl(File::Spec::Functions)
+perl(IO::Handle)
+perl(List::Util)
+perl(Mail::Box::Identity)
+perl(Mail::Box::MH)
+perl(Mail::Box::Manage::User) >= 3
+perl(Mail::Box::Net) >= 3
+perl(Mail::Box::Net::Message)
+perl(Mail::Box::Parser::Perl)
+perl(Mail::Box::Search) >= 3
+perl(Mail::Box::Test) >= 3
+perl(Mail::IMAPClient)
+perl(Mail::Message) >= 3
+perl(Mail::Message::Body::Lines) >= 3
+perl(Mail::Message::Head)
+perl(Mail::Message::Head::Complete) >= 3
+perl(Mail::Message::Head::Delayed) >= 3
+perl(Mail::Transport::Receive) >= 3
+perl(Scalar::Util)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

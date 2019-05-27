@@ -1,0 +1,23 @@
+perl(Capture::Tiny)
+perl(Carp)
+perl(Email::Address)
+perl(Email::MIME::ContentType) >= 1.022
+perl(Email::MIME::Encodings) >= 1.314
+perl(Email::MessageID)
+perl(Email::Simple) >= 2.102
+perl(Email::Simple::Creator)
+perl(Email::Simple::Header)
+perl(Encode) >= 1.9801
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(MIME::Base64)
+perl(MIME::Types) >= 1.13
+perl(Module::Runtime)
+perl(Scalar::Util)
+perl(Symbol)
+perl(Test::More) >= 0.96
+perl(Test::Pod) >= 1.41
+perl(blib)
+perl(parent)
+perl(utf8)
+perl(version) > 0.99
+perl-generators

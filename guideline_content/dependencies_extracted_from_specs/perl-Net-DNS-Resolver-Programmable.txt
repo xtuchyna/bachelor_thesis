@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(Net::DNS) >= 0.69
+perl(Net::DNS::Packet)
+perl(Net::DNS::Resolver)
+perl(Test::More)
+perl(base)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

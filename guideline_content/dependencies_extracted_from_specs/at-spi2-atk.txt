@@ -1,0 +1,8 @@
+at-spi2-core-devel >= 2.25.3
+atk-devel >= 2.25.2
+dbus-devel
+dbus-glib-devel
+glib2-devel
+gtk2-devel
+intltool
+libxml2-devel

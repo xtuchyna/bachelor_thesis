@@ -1,0 +1,6 @@
+chrpath
+gcc-c++
+help2man
+python2-Cython
+python2-devel
+zlib-devel

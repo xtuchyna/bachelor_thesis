@@ -1,0 +1,8 @@
+(crate(arrayvec) >= 0.4.0 with crate(arrayvec) < 0.5.0)
+(crate(cfg-if) >= 0.1.0 with crate(cfg-if) < 0.2.0)
+(crate(crossbeam-utils) >= 0.2.0 with crate(crossbeam-utils) < 0.3.0)
+(crate(lazy_static) >= 1.0.0 with crate(lazy_static) < 2.0.0)
+(crate(memoffset) >= 0.2.0 with crate(memoffset) < 0.3.0)
+(crate(rand) >= 0.4.0 with crate(rand) < 0.5.0)
+(crate(scopeguard) >= 0.3.0 with crate(scopeguard) < 0.4.0)
+rust-packaging

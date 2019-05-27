@@ -1,0 +1,8 @@
+desktop-file-utils
+gettext-devel
+gtk3-devel
+libSM-devel
+libtool
+openbox-devel >= 3.5.2
+pkgconfig
+startup-notification-devel

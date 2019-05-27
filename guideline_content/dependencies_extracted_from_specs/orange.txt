@@ -1,0 +1,6 @@
+dynamite-devel
+file
+libgsf-devel
+libsynce-devel
+unshield-devel >= 0.5.1
+zlib-devel

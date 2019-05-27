@@ -1,0 +1,4 @@
+doxygen
+libtool-ltdl-devel
+perl-generators
+pkgconfig

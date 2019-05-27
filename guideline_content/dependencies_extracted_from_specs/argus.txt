@@ -1,0 +1,10 @@
+bison
+cyrus-sasl-devel
+flex
+libpcap-devel
+libtirpc-devel
+ncurses-devel
+perl-generators
+readline-devel
+systemd-units
+zlib-devel

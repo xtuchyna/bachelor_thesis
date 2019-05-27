@@ -1,0 +1,7 @@
+perl(CGI)
+perl(CGI::Application)
+perl(ExtUtils::MakeMaker)
+perl(HTML::SuperForm)
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

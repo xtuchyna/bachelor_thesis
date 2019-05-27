@@ -1,0 +1,6 @@
+/usr/bin/perl
+maven-local
+mvn(junit:junit)
+mvn(org.apache.ant:ant)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.codehaus:codehaus-parent:pom:)

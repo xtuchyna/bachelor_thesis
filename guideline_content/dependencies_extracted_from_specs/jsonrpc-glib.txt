@@ -1,0 +1,6 @@
+gtk-doc
+meson
+pkgconfig(glib-2.0)
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(json-glib-1.0)
+vala

@@ -1,0 +1,8 @@
+autoconf
+bison
+bzip2-devel
+flex
+gcc-c++
+gperf
+readline-devel
+zlib-devel

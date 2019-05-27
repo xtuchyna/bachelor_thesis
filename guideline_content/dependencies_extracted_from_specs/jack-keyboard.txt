@@ -1,0 +1,5 @@
+cmake
+desktop-file-utils
+gtk2-devel
+jack-audio-connection-kit-devel
+lash-devel

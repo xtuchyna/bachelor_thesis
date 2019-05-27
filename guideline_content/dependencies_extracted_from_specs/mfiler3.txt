@@ -1,0 +1,4 @@
+cmigemo-devel
+ncurses-devel
+oniguruma-devel
+saphire-devel >= 3.6.5

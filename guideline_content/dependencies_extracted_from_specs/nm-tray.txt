@@ -1,0 +1,9 @@
+cmake
+cmake(Qt5LinguistTools)
+desktop-file-utils
+kf5-networkmanager-qt-devel
+pkgconfig(Qt5Core)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Network)
+pkgconfig(Qt5Widgets)

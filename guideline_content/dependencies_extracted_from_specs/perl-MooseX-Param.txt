@@ -1,0 +1,7 @@
+perl(Module::Build)
+perl(Moose) >= 0.32
+perl(Test::Exception) >= 0.21
+perl(Test::More) >= 0.62
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl-generators

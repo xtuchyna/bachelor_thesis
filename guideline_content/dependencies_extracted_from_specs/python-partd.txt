@@ -1,0 +1,16 @@
+python2-blosc
+python2-devel
+python2-locket
+python2-numpy >= 1.9.0
+python2-pandas
+python2-pytest
+python2-toolz
+python2-zmq
+python3-blosc
+python3-devel
+python3-locket
+python3-numpy >= 1.9.0
+python3-pandas
+python3-pytest
+python3-toolz
+python3-zmq

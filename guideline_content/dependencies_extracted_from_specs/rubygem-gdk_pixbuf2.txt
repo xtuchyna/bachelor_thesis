@@ -1,0 +1,9 @@
+gdk-pixbuf2-devel
+gdk-pixbuf2-modules
+ruby(release)
+ruby-devel
+rubygem(gio2) >= 3.0.8
+rubygem(test-unit)
+rubygem-cairo-devel
+rubygem-glib2-devel >= 3.0.8
+rubygems-devel

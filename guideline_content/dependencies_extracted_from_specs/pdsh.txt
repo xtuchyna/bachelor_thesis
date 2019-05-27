@@ -1,0 +1,8 @@
+autoconf
+automake
+libgenders-devel > 1.0
+libnodeupdown-devel
+libtool
+perl-generators
+readline-devel
+torque-devel

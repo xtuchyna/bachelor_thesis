@@ -1,0 +1,7 @@
+autoconf
+automake
+libtool
+perl-generators
+pkgconfig
+sblim-cmpi-devel
+sblim-indication_helper-devel

@@ -1,0 +1,18 @@
+coreutils
+findutils
+make
+perl(Event) >= 1.21
+perl(ExtUtils::MakeMaker)
+perl(POE) >= 1.356
+perl(POE::Loop::PerlSignals)
+perl(POE::Test::Loops) >= 1.352
+perl(POSIX)
+perl(Socket::GetAddrInfo)
+perl(Term::Size)
+perl(Test::More)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

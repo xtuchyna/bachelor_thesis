@@ -1,0 +1,4 @@
+gcc-c++
+libgcrypt-devel
+pkgconfig(pidgin)
+pkgconfig(thrift)

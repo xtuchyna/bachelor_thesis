@@ -1,0 +1,5 @@
+audacious-devel >= 3.8
+autoconf
+automake
+libtool
+libxmp-devel

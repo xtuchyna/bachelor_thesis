@@ -1,0 +1,7 @@
+SDL-devel
+perl-interpreter
+pkgconfig
+python
+xmlto
+zip
+zlib-devel

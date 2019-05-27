@@ -1,0 +1,4 @@
+desktop-file-utils
+fpc >= 3.0.4
+lazarus >= 1.8
+libappstream-glib

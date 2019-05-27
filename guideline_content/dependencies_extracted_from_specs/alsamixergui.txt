@@ -1,0 +1,5 @@
+alsa-lib-devel
+desktop-file-utils
+fltk-devel
+libstdc++-devel
+libtool

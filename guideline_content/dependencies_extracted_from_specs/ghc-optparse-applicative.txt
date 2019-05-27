@@ -1,0 +1,7 @@
+ghc-Cabal-devel
+ghc-QuickCheck-devel
+ghc-ansi-wl-pprint-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-transformers-compat-devel
+ghc-transformers-devel

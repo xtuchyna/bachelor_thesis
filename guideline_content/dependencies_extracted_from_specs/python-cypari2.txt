@@ -1,0 +1,12 @@
+gmp-devel
+pari-devel
+pari-gp
+python2-Cython
+python2-cysignals-devel >= 1.6.4
+python2-devel
+python2-six
+python2-sphinx
+python3-Cython
+python3-cysignals-devel >= 1.6.4
+python3-devel
+python3-six

@@ -1,0 +1,27 @@
+coreutils
+hunspell
+hunspell-en
+make
+perl(Carp)
+perl(Exporter)
+perl(File::Spec)
+perl(IPC::Run3) >= 0.044
+perl(Module::Install::AutoManifest)
+perl(Module::Install::GithubMeta)
+perl(Module::Install::ManifestSkip)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Pod::Spell) >= 1.01
+perl(Symbol)
+perl(Test::Builder)
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.00
+perl(Test::Tester)
+perl(Text::Wrap)
+perl(base)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

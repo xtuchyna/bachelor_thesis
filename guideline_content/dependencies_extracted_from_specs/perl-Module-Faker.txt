@@ -1,0 +1,23 @@
+make
+perl(Archive::Any::Create)
+perl(CPAN::DistnameInfo)
+perl(CPAN::Meta) >= 2.130880
+perl(CPAN::Meta::Requirements)
+perl(Carp)
+perl(Cwd)
+perl(Encode)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Next)
+perl(File::Path)
+perl(File::Temp)
+perl(Moose) >= 0.33
+perl(Moose::Role)
+perl(Moose::Util::TypeConstraints)
+perl(Parse::CPAN::Meta) >= 1.4401
+perl(Path::Class) >= 0.06
+perl(Test::More) >= 0.96
+perl(Text::Template)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

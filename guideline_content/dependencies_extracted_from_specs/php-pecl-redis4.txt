@@ -1,0 +1,6 @@
+gcc
+liblzf-devel
+php-devel
+php-pear
+php-pecl-igbinary-devel
+redis >= 3

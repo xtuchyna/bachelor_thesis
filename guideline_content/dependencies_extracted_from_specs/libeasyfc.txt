@@ -1,0 +1,6 @@
+fontconfig-devel >= 2.12.93
+gettext
+glib2-devel
+gobject-introspection-devel
+harfbuzz-devel
+libxml2-devel

@@ -1,0 +1,9 @@
+audit-libs-devel >= 1.0.14
+gcc
+gettext
+glib2-devel
+libselinux-devel >= 2.1.6-3
+libuser >= 0.53-1
+libuser-devel
+pam-devel
+popt-devel

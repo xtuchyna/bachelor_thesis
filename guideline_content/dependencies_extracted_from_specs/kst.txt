@@ -1,0 +1,9 @@
+cfitsio-devel
+cmake
+desktop-file-utils
+getdata-devel
+gsl-devel
+matio-devel
+muParser-devel
+netcdf-cxx-devel
+qt4-devel

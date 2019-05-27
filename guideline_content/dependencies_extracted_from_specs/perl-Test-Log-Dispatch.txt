@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker)
+perl(List::MoreUtils)
+perl(Log::Dispatch::Array)
+perl(Test::More)
+perl(Test::Tester)
+perl(inc::Module::Install)
+perl-generators

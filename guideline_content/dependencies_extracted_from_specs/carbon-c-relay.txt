@@ -1,0 +1,6 @@
+bison
+flex
+gcc
+make
+nodejs-ronn
+systemd

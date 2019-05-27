@@ -1,0 +1,19 @@
+coreutils
+findutils
+make
+perl(B)
+perl(CPAN::Meta) >= 2.120900
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Moose)
+perl(Test::Fatal)
+perl(Test::More) >= 0.88
+perl(Test::Requires)
+perl(base)
+perl(if)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

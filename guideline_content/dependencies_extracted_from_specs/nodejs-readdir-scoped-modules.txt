@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(debuglog)
+npm(dezalgo)
+npm(graceful-fs)
+npm(once)
+npm(tap)

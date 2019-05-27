@@ -1,0 +1,5 @@
+expat-devel
+ncurses-devel
+python-devel
+texinfo
+texinfo-tex

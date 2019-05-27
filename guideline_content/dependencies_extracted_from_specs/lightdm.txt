@@ -1,0 +1,29 @@
+gettext
+gnome-common
+gtk-doc
+intltool
+itstool
+libgcrypt-devel
+pam-devel
+pkgconfig(Qt5Core)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Gui)
+pkgconfig(QtCore)
+pkgconfig(QtDBus)
+pkgconfig(QtGui)
+pkgconfig(QtNetwork)
+pkgconfig(audit)
+pkgconfig(dbus-glib-1)
+pkgconfig(gio-2.0) >= 2.26
+pkgconfig(gio-unix-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(gmodule-export-2.0)
+pkgconfig(gobject-2.0)
+pkgconfig(gobject-introspection-1.0) >= 0.9.5
+pkgconfig(libxklavier)
+pkgconfig(x11)
+pkgconfig(xcb)
+pkgconfig(xdmcp)
+systemd
+vala
+vala-tools

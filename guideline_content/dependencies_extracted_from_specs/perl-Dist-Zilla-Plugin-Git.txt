@@ -1,0 +1,62 @@
+git-core >= 1.5.4
+make
+perl(:VERSION) >= 5.10
+perl(CPAN::Meta::Check) >= 0.011
+perl(CPAN::Meta::Requirements)
+perl(Cwd)
+perl(Devel::SimpleTrace)
+perl(Dist::Zilla) >= 4
+perl(Dist::Zilla::File::InMemory)
+perl(Dist::Zilla::Plugin::Config::Git)
+perl(Dist::Zilla::Plugin::GatherDir) >= 4.200016
+perl(Dist::Zilla::Role::AfterBuild)
+perl(Dist::Zilla::Role::AfterRelease)
+perl(Dist::Zilla::Role::BeforeRelease)
+perl(Dist::Zilla::Role::FilePruner)
+perl(Dist::Zilla::Role::GitConfig)
+perl(Dist::Zilla::Role::Releaser)
+perl(Dist::Zilla::Role::VersionProvider)
+perl(Dist::Zilla::Tester)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Copy)
+perl(File::Copy::Recursive)
+perl(File::Path) >= 2.07
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(File::Which)
+perl(File::chdir)
+perl(File::pushd)
+perl(Git::Wrapper) >= 0.021
+perl(IPC::Open3)
+perl(IPC::System::Simple)
+perl(List::Util) >= 1.45
+perl(Log::Dispatchouli)
+perl(Module::Runtime)
+perl(Module::Runtime::Conflicts)
+perl(Moose)
+perl(Moose::Conflicts)
+perl(Moose::Role)
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::Has::Sugar)
+perl(MooseX::Types::Moose)
+perl(MooseX::Types::Path::Tiny) >= 0.010
+perl(Path::Tiny) >= 0.048
+perl(String::Formatter)
+perl(Test::DZil)
+perl(Test::Fatal)
+perl(Test::More) >= 0.88
+perl(Text::ParseWords)
+perl(Try::Tiny)
+perl(Version::Next)
+perl(constant)
+perl(lib)
+perl(namespace::autoclean) >= 0.09
+perl(strict)
+perl(utf8)
+perl(version) >= 0.80
+perl(warnings)
+perl-generators
+perl-interpreter

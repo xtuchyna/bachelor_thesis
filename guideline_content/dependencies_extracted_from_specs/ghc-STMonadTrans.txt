@@ -1,0 +1,4 @@
+ghc-Cabal-devel
+ghc-array-devel
+ghc-mtl-devel
+ghc-rpm-macros

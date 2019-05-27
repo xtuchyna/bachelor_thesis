@@ -1,0 +1,41 @@
+coreutils
+findutils
+make
+perl(AnyEvent::AIO)
+perl(B)
+perl(Canary::Stability)
+perl(Carp)
+perl(EV) >= 4.00
+perl(Errno)
+perl(Event)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(File::Temp)
+perl(Glib) >= 1.210
+perl(Guard)
+perl(IO::AIO) >= 4.13
+perl(IO::Async::Loop) >= 0.33
+perl(JSON::XS)
+perl(List::Util)
+perl(Net::SSLeay) >= 1.33
+perl(POE) >= 1.312
+perl(POSIX)
+perl(Scalar::Util)
+perl(Socket)
+perl(Storable)
+perl(Sys::Syslog)
+perl(Task::Weaken)
+perl(Test::More)
+perl(Time::HiRes)
+perl(Tk)
+perl(Unicode::Normalize)
+perl(base)
+perl(integer)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter
+perl-interpreter >= 3:5.8.1

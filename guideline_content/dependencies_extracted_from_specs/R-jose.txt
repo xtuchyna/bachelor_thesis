@@ -1,0 +1,5 @@
+R-devel
+R-jsonlite
+R-openssl
+R-testthat
+tex(latex)

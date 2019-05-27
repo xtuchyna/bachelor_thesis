@@ -1,0 +1,6 @@
+ant
+desktop-file-utils
+java-devel
+javapackages-local
+libicns-utils
+rxtx

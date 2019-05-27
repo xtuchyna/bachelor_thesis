@@ -1,0 +1,13 @@
+abrt-devel
+check-devel
+cmake
+gcc
+gcc-c++
+gettext
+java-devel
+libreport-devel
+rpm-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+satyr-devel
+systemd-devel

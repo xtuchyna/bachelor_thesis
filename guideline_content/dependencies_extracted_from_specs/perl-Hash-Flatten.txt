@@ -1,0 +1,16 @@
+glibc-common
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Getopt::Std)
+perl(Log::Trace)
+perl(Test::Assertions)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(constant)
+perl(overload)
+perl(strict)
+perl(vars)
+perl-generators

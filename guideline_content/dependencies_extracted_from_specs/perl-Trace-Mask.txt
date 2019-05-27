@@ -1,0 +1,24 @@
+findutils
+make
+perl(B)
+perl(Carp) >= 1.03
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(List::Util) >= 1.10
+perl(Scalar::Util) >= 1.10
+perl(Test2) >= 1.302026
+perl(Test2::API)
+perl(Test2::Bundle::Extended)
+perl(Test2::Require::Module)
+perl(Test2::Suite) >= 0.000030
+perl(Test2::Tools::Compare)
+perl(Test2::Tools::Spec)
+perl(Test2::Tools::Subtest)
+perl(Test2::Workflow) >= 0.000009
+perl(Try::Tiny) >= 0.03
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

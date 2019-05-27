@@ -1,0 +1,9 @@
+alsa-lib-devel
+desktop-file-utils
+eclipse-swt
+fluidsynth-devel
+gcc
+jack-audio-connection-kit-devel
+libappstream-glib
+maven-antrun-plugin
+maven-local

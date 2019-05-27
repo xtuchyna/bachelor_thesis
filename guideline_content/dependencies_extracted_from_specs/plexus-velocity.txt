@@ -1,0 +1,5 @@
+maven-local
+mvn(commons-collections:commons-collections)
+mvn(org.codehaus.plexus:plexus-components:pom:)
+mvn(org.codehaus.plexus:plexus-container-default)
+mvn(velocity:velocity)

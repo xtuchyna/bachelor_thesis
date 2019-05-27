@@ -1,0 +1,10 @@
+perl(CGI::Application)
+perl(DBD::SQLite)
+perl(DBIx::Class)
+perl(ExtUtils::MakeMaker)
+perl(Readonly)
+perl(SQL::Translator)
+perl(Test::Deep)
+perl(Test::More)
+perl(parent)
+perl-generators

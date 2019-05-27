@@ -1,0 +1,8 @@
+perl(Encode)
+perl(Encode::Guess)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(base)
+perl(constant)
+perl-generators

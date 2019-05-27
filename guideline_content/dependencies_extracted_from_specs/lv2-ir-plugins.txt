@@ -1,0 +1,7 @@
+fftw-devel
+gcc-c++
+gtk2-devel >= 2.20
+libsamplerate-devel
+libsndfile-devel
+lv2-devel >= 1.8.1
+zita-convolver-devel >= 3.1

@@ -1,0 +1,6 @@
+maven-local
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.eclipse.jetty.toolchain:jetty-build-support)
+mvn(org.eclipse.jetty:jetty-parent:pom:)

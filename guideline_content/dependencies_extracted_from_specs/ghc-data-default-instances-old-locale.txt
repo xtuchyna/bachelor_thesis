@@ -1,0 +1,4 @@
+ghc-Cabal-devel
+ghc-data-default-class-devel
+ghc-old-locale-devel
+ghc-rpm-macros

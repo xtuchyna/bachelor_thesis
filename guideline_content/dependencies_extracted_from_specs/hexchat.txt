@@ -1,0 +1,17 @@
+desktop-file-utils
+hicolor-icon-theme
+meson
+perl-ExtUtils-Embed
+perl-devel
+pkgconfig(dbus-glib-1)
+pkgconfig(glib-2.0)
+pkgconfig(gtk+-2.0)
+pkgconfig(iso-codes)
+pkgconfig(libcanberra)
+pkgconfig(libnotify)
+pkgconfig(libpci)
+pkgconfig(libproxy-1.0)
+pkgconfig(luajit)
+pkgconfig(openssl)
+pkgconfig(python3)
+sound-theme-freedesktop

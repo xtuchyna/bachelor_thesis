@@ -1,0 +1,20 @@
+findutils
+perl(Carp)
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::CBuilder)
+perl(Module::Build)
+perl(POSIX)
+perl(Params::Validate)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(XSLoader)
+perl(base)
+perl(boolean)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

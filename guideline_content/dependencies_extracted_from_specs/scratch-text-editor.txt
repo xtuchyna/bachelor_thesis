@@ -1,0 +1,19 @@
+cmake
+desktop-file-utils
+gettext
+intltool
+libappstream-glib
+pkgconfig(gee-0.8)
+pkgconfig(glib-2.0)
+pkgconfig(granite) >= 0.3.0
+pkgconfig(gtk+-3.0) >= 3.10
+pkgconfig(gtksourceview-3.0) >= 3.10
+pkgconfig(gtkspell3-3.0)
+pkgconfig(libpeas-1.0)
+pkgconfig(libpeas-gtk-1.0)
+pkgconfig(libsoup-2.4)
+pkgconfig(libvala-0.40)
+pkgconfig(vte-2.91)
+pkgconfig(webkit2gtk-4.0)
+pkgconfig(zeitgeist-2.0)
+vala

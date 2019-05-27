@@ -1,0 +1,9 @@
+autoconf
+automake
+coreutils
+gcc
+gtk+-devel
+libX11-devel
+libXv-devel
+make
+perl-podlators

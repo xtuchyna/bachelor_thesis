@@ -1,0 +1,7 @@
+nspr-devel
+nss-devel
+openldap-devel >= 2.4.22
+perl(ExtUtils::MakeMaker)
+perl-devel
+perl-generators
+perl-interpreter >= 2:5.8.0

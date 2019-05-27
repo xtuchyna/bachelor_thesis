@@ -1,0 +1,19 @@
+autoconf
+automake
+libtool
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-giflib
+mingw32-libjpeg-turbo
+mingw32-libpng
+mingw32-libtiff
+mingw32-libwebp
+mingw32-zlib
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-giflib
+mingw64-libjpeg-turbo
+mingw64-libpng
+mingw64-libtiff
+mingw64-libwebp
+mingw64-zlib

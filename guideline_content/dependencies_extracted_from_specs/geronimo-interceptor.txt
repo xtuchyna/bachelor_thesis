@@ -1,0 +1,4 @@
+geronimo-parent-poms
+java-devel
+jpackage-utils
+maven-local

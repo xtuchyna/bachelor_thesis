@@ -1,0 +1,28 @@
+make
+perl(Class::ISA)
+perl(Config)
+perl(Data::Dumper)
+perl(Data::Structure::Util) >= 0.04
+perl(Data::UUID) >= 0.01
+perl(Error) >= 0.15
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find::Rule)
+perl(File::Spec)
+perl(IO::Null) >= 0.01
+perl(IO::String) >= 0.01
+perl(Pod::Checker)
+perl(Scalar::Util) >= 0.01
+perl(Storable)
+perl(Test::More)
+perl(Test::Simple)
+perl(base)
+perl(blib)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(threads)
+perl(vars)
+perl(warnings)
+perl(warnings::register)
+perl-generators
+perl-interpreter

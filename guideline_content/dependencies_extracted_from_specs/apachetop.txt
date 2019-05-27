@@ -1,0 +1,4 @@
+m4
+ncurses-devel
+pcre-devel
+readline-devel

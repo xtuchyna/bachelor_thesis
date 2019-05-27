@@ -1,0 +1,3 @@
+R-devel
+openssh-clients
+tex(latex)

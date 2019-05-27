@@ -1,0 +1,5 @@
+git-core
+libnetfilter_queue-devel
+libpcap-devel
+openssl-devel
+perl-generators

@@ -1,0 +1,8 @@
+canl-c-devel >= 3.0.0
+doxygen
+gsoap-devel
+httpd-devel
+libcurl-devel
+libtool
+libxml2-devel
+openssl-devel >= 1.1

@@ -1,0 +1,6 @@
+autoconf
+automake
+glib2-devel
+gtk-sharp2-devel
+gtk-sharp2-gapi
+mono-devel

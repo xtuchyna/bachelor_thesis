@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(Test::Simple)
+perl(lib)
+perl(strict)
+perl(threads)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+procps-ng

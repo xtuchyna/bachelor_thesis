@@ -1,0 +1,14 @@
+deepin-gettext-tools
+pam-devel
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Multimedia)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5X11Extras)
+pkgconfig(dframeworkdbus)
+pkgconfig(dtkwidget) = 2.0
+pkgconfig(gsettings-qt)
+pkgconfig(gtk+-2.0)
+pkgconfig(liblightdm-qt5-3)
+pkgconfig(libsystemd)
+pkgconfig(xtst)
+qt5-linguist

@@ -1,0 +1,14 @@
+python2-BTrees
+python2-ZEO
+python2-ZODB
+python2-devel
+python2-persistent
+python2-setuptools
+python2-transaction
+python3-BTrees
+python3-ZEO
+python3-ZODB
+python3-devel
+python3-persistent
+python3-setuptools
+python3-transaction

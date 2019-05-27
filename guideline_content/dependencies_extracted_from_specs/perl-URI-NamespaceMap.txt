@@ -1,0 +1,27 @@
+make
+perl(:VERSION) >= 5.8.1
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IRI) >= 0.004
+perl(List::Util)
+perl(Module::Load::Conditional)
+perl(Moo) >= 1.006000
+perl(RDF::NS) >= 20130802
+perl(RDF::NS::Curated)
+perl(RDF::Prefixes)
+perl(Scalar::Util)
+perl(Sub::Quote)
+perl(Test::Exception)
+perl(Test::More) >= 0.88
+perl(Try::Tiny)
+perl(Type::Library) >= 1.000000
+perl(Types::Standard)
+perl(Types::URI) >= 0.004
+perl(URI) >= 1.52
+perl(XML::CommonNS)
+perl(namespace::autoclean) >= 0.20
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

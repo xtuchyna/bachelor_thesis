@@ -1,0 +1,10 @@
+autoconf
+automake
+libICE-devel
+libtool
+libuuid-devel
+pkgconfig
+xmlto
+xorg-x11-proto-devel
+xorg-x11-util-macros
+xorg-x11-xtrans-devel >= 1.0.3-4

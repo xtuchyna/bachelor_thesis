@@ -1,0 +1,8 @@
+php(language) >= 5.3.3
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(webmozart/assert) < 2.0
+php-composer(webmozart/assert) >= 1.0
+php-ctype
+php-mbstring
+php-spl

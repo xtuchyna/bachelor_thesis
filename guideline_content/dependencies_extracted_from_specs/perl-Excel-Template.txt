@@ -1,0 +1,24 @@
+coreutils
+findutils
+make
+perl(Data::Dumper)
+perl(File::Basename)
+perl(IO::Scalar)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Spreadsheet::WriteExcel) >= 0.42
+perl(Spreadsheet::WriteExcel::Utility)
+perl(Test::Deep) >= 0.095
+perl(Test::Exception) >= 0.21
+perl(Test::More) >= 0.47
+perl(Unicode::String)
+perl(XML::Parser)
+perl(constant)
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter >= 1:5.6.0
+sed

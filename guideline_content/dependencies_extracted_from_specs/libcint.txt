@@ -1,0 +1,5 @@
+atlas-devel
+cmake
+gcc-gfortran
+numpy
+python2-devel

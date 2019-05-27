@@ -1,0 +1,10 @@
+ant >= 0:1.6
+geronimo-jta
+java-devel
+javapackages-local
+mvn(org.apache.geronimo.specs:geronimo-jms_1.1_spec)
+mvn(org.codehaus:codehaus-parent:pom:)
+mvn(org.slf4j:slf4j-api)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+xml-commons-apis

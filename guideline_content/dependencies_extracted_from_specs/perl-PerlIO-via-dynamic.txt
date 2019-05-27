@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(File::Temp)
+perl(IO::Handle)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Scalar::Util)
+perl(Symbol)
+perl(Test)
+perl(Test::More)
+perl(inc::Module::Install)
+perl(strict)
+perl-generators
+perl-interpreter
+sed

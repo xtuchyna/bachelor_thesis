@@ -1,0 +1,14 @@
+coreutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More) >= 0.88
+perl(Text::Reform)
+perl(Text::Tabs)
+perl(overload)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

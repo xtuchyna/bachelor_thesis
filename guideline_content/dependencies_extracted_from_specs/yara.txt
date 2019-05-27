@@ -1,0 +1,19 @@
+autoconf
+automake
+binutils
+bison
+coreutils
+file
+file-devel
+flex
+gawk
+gcc
+gzip
+jansson-devel >= 2.5
+libtool
+m4
+openssl-devel
+pcre
+python-sphinx
+sharutils
+xz

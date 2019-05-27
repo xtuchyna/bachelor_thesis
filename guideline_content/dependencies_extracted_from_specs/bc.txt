@@ -1,0 +1,5 @@
+bison
+ed
+flex
+readline-devel
+texinfo

@@ -1,0 +1,24 @@
+desktop-file-utils
+extra-cmake-modules
+gettext
+kf5-baloo-devel
+kf5-kactivities-devel
+kf5-kdelibs4support-devel
+kf5-kio-devel
+kf5-libkdcraw-devel >= 17.12
+kf5-libkipi-devel >= 17.12
+kf5-rpm-macros
+libappstream-glib
+libjpeg-devel
+pkgconfig(Qt5Concurrent)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5OpenGL)
+pkgconfig(Qt5Script)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5Test)
+pkgconfig(Qt5Widgets)
+pkgconfig(Qt5X11Extras)
+pkgconfig(exiv2)
+pkgconfig(lcms2)
+pkgconfig(libpng)
+pkgconfig(phonon4qt5)

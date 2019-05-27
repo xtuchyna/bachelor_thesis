@@ -1,0 +1,33 @@
+coreutils
+findutils
+gcc
+make
+perl(B::Hooks::EndOfScope) >= 0.12
+perl(B::Hooks::OP::PPAddr) >= 0.03
+perl(Carp)
+perl(Devel::Declare) >= 0.005007
+perl(Devel::Declare::Context::Simple)
+perl(Devel::PartialDump)
+perl(ExtUtils::Depends) >= 0.302
+perl(FindBin)
+perl(Module::Install::Can)
+perl(Module::Install::Metadata)
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::Types::Structured)
+perl(Parse::Method::Signatures) >= 1.003012
+perl(Scalar::Util)
+perl(Scope::Upper) >= 0.06
+perl(Sub::Exporter) >= 0.979
+perl(Test::Exception)
+perl(Test::More) >= 0.88
+perl(XSLoader)
+perl(base)
+perl(inc::Module::Install) >= 0.79
+perl(lib)
+perl(namespace::clean) >= 0.20
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

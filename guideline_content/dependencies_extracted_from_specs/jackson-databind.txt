@@ -1,0 +1,8 @@
+maven-local
+mvn(com.fasterxml.jackson.core:jackson-annotations) >= 2.9.4
+mvn(com.fasterxml.jackson.core:jackson-core) >= 2.9.4
+mvn(com.fasterxml.jackson:jackson-base:pom:) >= 2.9.4
+mvn(com.google.code.maven-replacer-plugin:replacer)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.powermock:powermock-api-mockito)
+mvn(org.powermock:powermock-module-junit4)

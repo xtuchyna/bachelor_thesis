@@ -1,0 +1,17 @@
+autoconf
+desktop-file-utils
+libjpeg-devel
+pkgconfig(gl)
+pkgconfig(glu)
+pkgconfig(ice)
+pkgconfig(libpng)
+pkgconfig(sm)
+pkgconfig(x11)
+pkgconfig(xcursor)
+pkgconfig(xext)
+pkgconfig(xft)
+pkgconfig(xinerama)
+pkgconfig(xproto)
+pkgconfig(xt)
+xorg-x11-utils
+zlib-devel

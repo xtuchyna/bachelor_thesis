@@ -1,0 +1,15 @@
+extra-cmake-modules >= 5.44
+kf5-kconfig-devel >= 5.44
+kf5-kcoreaddons-devel >= 5.44
+kf5-kcrash-devel >= 5.44
+kf5-kdbusaddons-devel >= 5.44
+kf5-ki18n-devel >= 5.44
+kf5-kservice-devel >= 5.44
+kf5-kwindowsystem-devel >= 5.44
+kf5-rpm-macros
+libX11-devel
+libxcb-devel
+qt5-qtbase-devel
+qt5-qttools-devel
+qt5-qtx11extras-devel
+xcb-util-keysyms-devel

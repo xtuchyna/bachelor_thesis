@@ -1,0 +1,20 @@
+ImageMagick
+NaturalDocs
+assimp-devel >= 3.2
+autoconf
+automake
+chrpath
+desktop-file-utils
+doxygen
+fontpackages-devel
+graphviz
+libappstream-glib
+mesa-libGLU-devel
+miniz-devel
+pkgconfig
+pkgconfig(SDL2_image)
+pkgconfig(freetype2)
+pkgconfig(libcurl)
+pkgconfig(libpng)
+pkgconfig(sigc++-2.0)
+pkgconfig(vorbis)

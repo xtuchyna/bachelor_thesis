@@ -1,0 +1,9 @@
+gdk-pixbuf2-devel
+glib2-devel
+gstreamer1-plugins-base-devel
+libgee-devel
+libsoup-devel >= 2.32
+pkgconfig
+pkgconfig(avahi-client)
+pkgconfig(avahi-glib)
+vala-tools

@@ -1,0 +1,5 @@
+perl(Digest::HMAC_MD5)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

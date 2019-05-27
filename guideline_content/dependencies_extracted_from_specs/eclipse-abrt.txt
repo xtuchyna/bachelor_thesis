@@ -1,0 +1,7 @@
+eclipse-epp-logging
+eclipse-license
+eclipse-platform
+jnr-unixsocket
+osgi(org.eclipse.mylyn.bugzilla.ui)
+tycho
+tycho-extras

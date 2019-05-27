@@ -1,0 +1,2 @@
+doxygen
+pkgconfig(librevenge-0.0)

@@ -1,0 +1,18 @@
+autoconf
+automake
+bison
+flex
+gettext-devel
+glib2-devel
+gtk-doc
+libtool
+mingw32-binutils
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-glib2
+mingw32-libxml2
+mingw64-binutils
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-glib2
+mingw64-libxml2

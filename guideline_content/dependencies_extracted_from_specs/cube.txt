@@ -1,0 +1,4 @@
+chrpath
+dbus-devel
+desktop-file-utils
+qt4-devel

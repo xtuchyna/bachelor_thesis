@@ -1,0 +1,5 @@
+epydoc
+gcc
+libsmbclient-devel >= 3.2
+python2-devel
+python3-devel

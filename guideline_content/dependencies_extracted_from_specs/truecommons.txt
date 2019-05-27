@@ -1,0 +1,7 @@
+maven-local
+mvn(ch.qos.logback:logback-classic)
+mvn(com.google.code.findbugs:annotations)
+mvn(net.java.truecommons:truecommons-parent:pom:)
+mvn(org.jsr-305:jsr-305:pom:)
+mvn(org.mockito:mockito-core)
+mvn(org.netbeans:jemmy)

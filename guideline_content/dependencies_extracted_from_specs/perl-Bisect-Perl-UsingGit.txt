@@ -1,0 +1,8 @@
+perl(Capture::Tiny)
+perl(ExtUtils::MakeMaker)
+perl(Moose)
+perl(MooseX::Getopt)
+perl(MooseX::Types::Path::Class)
+perl(Test::More) >= 0.01
+perl(Test::Pod) >= 1.14
+perl-generators

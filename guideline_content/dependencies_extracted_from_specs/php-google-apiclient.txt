@@ -1,0 +1,11 @@
+php(language) >= 5.2.1
+php-composer(phpunit/phpunit)
+php-curl
+php-date
+php-filter
+php-json
+php-openssl
+php-pcre
+php-reflection
+php-session
+php-spl

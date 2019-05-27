@@ -1,0 +1,53 @@
+autoconf
+automake
+gtk2-devel
+java-devel >= 1:1.7.0
+javapackages-tools
+libsecret-devel
+libtool
+maven-antrun-plugin
+maven-archetype-packaging
+maven-assembly-plugin
+maven-clean-plugin
+maven-dependency-plugin
+maven-javadoc-plugin
+maven-local
+maven-plugin-bundle
+maven-shade-plugin
+maven-surefire-plugin
+maven-war-plugin
+mvn(com.google.code.gson:gson)
+mvn(commons-fileupload:commons-fileupload)
+mvn(io.netty:netty:3.10.6)
+mvn(javax.servlet:servlet-api) >= 2.5
+mvn(jline:jline)
+mvn(org.apache.commons:commons-beanutils)
+mvn(org.apache.commons:commons-cli)
+mvn(org.apache.felix:org.apache.felix.framework)
+mvn(org.apache.lucene:lucene-analyzers)
+mvn(org.apache.lucene:lucene-core)
+mvn(org.apache.maven.plugins:maven-archetype-plugin)
+mvn(org.eclipse.jetty.toolchain:jetty-schemas)
+mvn(org.eclipse.jetty:jetty-jaas)
+mvn(org.eclipse.jetty:jetty-server)
+mvn(org.eclipse.jetty:jetty-webapp)
+mvn(org.fusesource.jansi:jansi)
+mvn(org.fusesource:fusesource-pom:pom:)
+mvn(org.jfree:jcommon)
+mvn(org.jfree:jfreechart)
+mvn(org.mongodb:mongo-java-driver)
+mvn(org.ow2.asm:asm-all) >= 5
+osgi(com.google.gson) = 2.8.1
+osgi(com.mxgraph) = 3.6.0
+osgi(javax.servlet-api) = 3.1.0
+osgi(org.apache.commons.beanutils) = 1.9.3
+osgi(org.apache.commons.codec) = 1.11.0
+osgi(org.apache.commons.logging) = 1.2.0
+osgi(org.apache.httpcomponents.httpclient) = 4.5.5
+osgi(org.apache.httpcomponents.httpcore) = 4.4.9
+osgi(org.apache.httpcomponents.httpmime) = 4.5.5
+osgi(org.jboss.netty) = 3.10.6
+osgi(org.jfree.jcommon) = 1.0.23
+osgi(org.jfree.jfreechart) = 1.0.19
+osgi(org.mongodb.mongo-java-driver) = 3.4.2
+tomcat

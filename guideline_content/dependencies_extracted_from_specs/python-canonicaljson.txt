@@ -1,0 +1,10 @@
+python2-devel
+python2-frozendict
+python2-nose
+python2-setuptools
+python2-simplejson
+python3-devel
+python3-frozendict
+python3-nose
+python3-setuptools
+python3-simplejson

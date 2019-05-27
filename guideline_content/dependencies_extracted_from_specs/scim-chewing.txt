@@ -1,0 +1,5 @@
+gettext
+intltool >= 0.34
+libchewing-devel >= 0.3.4
+libtool
+scim-devel

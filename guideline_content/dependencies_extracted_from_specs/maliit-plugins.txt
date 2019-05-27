@@ -1,0 +1,6 @@
+dbus-devel
+doxygen
+glib2-devel
+gobject-introspection-devel
+maliit-framework-devel
+qt-devel

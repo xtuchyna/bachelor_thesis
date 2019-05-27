@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-data-default-class-devel
+ghc-data-default-instances-containers-devel
+ghc-data-default-instances-dlist-devel
+ghc-data-default-instances-old-locale-devel
+ghc-rpm-macros

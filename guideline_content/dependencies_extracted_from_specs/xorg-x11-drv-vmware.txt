@@ -1,0 +1,9 @@
+autoconf
+automake
+libdrm-devel
+libtool
+mesa-libxatracker-devel >= 8.0.1-4
+pkgconfig(x11)
+pkgconfig(xext)
+systemd-devel
+xorg-x11-server-devel >= 1.10.99.902

@@ -1,0 +1,7 @@
+binutils
+cmake
+gcc-c++
+gmock-devel >= 1.8.0
+gtest-devel >= 1.8.0
+make
+tzdata

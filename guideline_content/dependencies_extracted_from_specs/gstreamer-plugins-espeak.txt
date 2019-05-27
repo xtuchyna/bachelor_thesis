@@ -1,0 +1,4 @@
+espeak-devel
+glib2-devel
+gstreamer1-devel
+gstreamer1-plugins-base-devel

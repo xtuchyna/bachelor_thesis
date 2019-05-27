@@ -1,0 +1,9 @@
+bison
+pkgconfig(ice)
+pkgconfig(sm)
+pkgconfig(x11)
+pkgconfig(xext)
+pkgconfig(xmu)
+pkgconfig(xorg-macros)
+pkgconfig(xproto) >= 7.0.17
+pkgconfig(xt)

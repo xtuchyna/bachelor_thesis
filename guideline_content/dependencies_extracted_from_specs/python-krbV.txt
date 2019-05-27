@@ -1,0 +1,3 @@
+/bin/awk
+krb5-devel >= 1.2.2
+python-devel

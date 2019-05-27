@@ -1,0 +1,10 @@
+chrpath
+proj-devel
+proj-epsg
+proj-nad
+python2-Cython
+python2-devel
+python2-numpy
+python3-Cython
+python3-devel
+python3-numpy

@@ -1,0 +1,7 @@
+desktop-file-utils
+gettext
+intltool
+libglade2-devel
+libgnomeui-devel
+python2-devel
+scrollkeeper

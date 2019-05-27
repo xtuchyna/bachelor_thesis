@@ -1,0 +1,8 @@
+coreutils
+make
+perl(Module::Build)
+perl(Test::More) >= 0.88
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

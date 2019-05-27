@@ -1,0 +1,8 @@
+/usr/bin/git
+autoconf
+automake
+gcc
+libtool
+lua >= 5.1
+lua-devel >= 5.1
+pkgconfig

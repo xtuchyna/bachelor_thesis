@@ -1,0 +1,8 @@
+/usr/bin/make
+/usr/bin/perl
+perl(ExtUtils::MakeMaker)
+perl(Module::Install::ReadmeFromPod)
+perl(Test::More)
+perl(Text::Autoformat)
+perl(inc::Module::Install)
+perl-generators

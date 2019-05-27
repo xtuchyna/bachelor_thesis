@@ -1,0 +1,3 @@
+lzma-sdk-devel
+ucl-devel >= 1.01
+zlib-devel

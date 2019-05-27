@@ -1,0 +1,4 @@
+fusesource-pom
+jansi-native
+maven-local
+maven-plugin-bundle

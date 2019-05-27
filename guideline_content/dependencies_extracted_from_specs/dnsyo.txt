@@ -1,0 +1,11 @@
+PyYAML
+help2man
+python-dns
+python-requests
+python-setuptools
+python2-devel
+python3-PyYAML
+python3-devel
+python3-dns
+python3-requests
+python3-setuptools

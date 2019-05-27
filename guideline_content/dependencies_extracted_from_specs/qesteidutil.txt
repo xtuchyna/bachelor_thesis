@@ -1,0 +1,7 @@
+cmake
+desktop-file-utils
+libappstream-glib
+pkgconfig(Qt5Designer)
+pkgconfig(libpcsclite) >= 1.7
+pkgconfig(openssl)
+qtsingleapplication-qt5-devel

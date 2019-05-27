@@ -1,0 +1,27 @@
+coreutils
+findutils
+gcc
+libtidyp-devel
+make
+perl(Carp)
+perl(Config)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::Liblist)
+perl(ExtUtils::MakeMaker)
+perl(Getopt::Long)
+perl(LWP::Simple)
+perl(Test::Builder)
+perl(Test::Exception)
+perl(Test::More) >= 0.98
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(XSLoader)
+perl(base)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

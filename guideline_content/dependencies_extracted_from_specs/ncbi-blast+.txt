@@ -1,0 +1,8 @@
+boost-devel
+bzip2-devel
+gnutls-devel
+hostname
+libxml2-devel
+libxslt-devel
+pcre-devel
+zlib-devel

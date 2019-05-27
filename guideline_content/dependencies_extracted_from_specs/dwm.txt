@@ -1,0 +1,10 @@
+binutils
+coreutils
+fontconfig-devel
+gcc
+libX11-devel
+libXft-devel
+libXinerama-devel
+libxcb-devel
+make
+sed

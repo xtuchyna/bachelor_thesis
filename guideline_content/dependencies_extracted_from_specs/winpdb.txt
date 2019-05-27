@@ -1,0 +1,3 @@
+desktop-file-utils
+python2-devel
+wxPython-devel >= 2.6

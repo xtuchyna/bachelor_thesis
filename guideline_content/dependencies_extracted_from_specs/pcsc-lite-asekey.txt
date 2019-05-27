@@ -1,0 +1,6 @@
+gcc
+libusb-devel
+make
+pkgconfig(libpcsclite) >= 1.8.0
+pkgconfig(udev)
+sed

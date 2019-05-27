@@ -1,0 +1,2 @@
+(crate(quickcheck) >= 0.6.0 with crate(quickcheck) < 0.7.0)
+rust-packaging

@@ -1,0 +1,8 @@
+perl(Archive::Tar)
+perl(Module::Build)
+perl(Pod::Coverage)
+perl(TAP::Harness) >= 3.05
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(YAML::Tiny)
+perl-generators

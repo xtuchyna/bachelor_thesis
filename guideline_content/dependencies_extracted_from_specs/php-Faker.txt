@@ -1,0 +1,14 @@
+php(language) >= 5.3.3
+php-composer(phpunit/phpunit)
+php-ctype
+php-curl
+php-date
+php-dom
+php-fedora-autoloader-devel
+php-hash
+php-intl
+php-json
+php-mbstring
+php-pcre
+php-reflection
+php-spl

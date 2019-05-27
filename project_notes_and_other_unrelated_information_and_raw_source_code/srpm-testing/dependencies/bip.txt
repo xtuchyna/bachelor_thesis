@@ -1,0 +1,12 @@
+autoconf
+automake
+byacc
+flex
+gcc
+git
+m4
+openssl-devel
+perl-generators
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+systemd-units

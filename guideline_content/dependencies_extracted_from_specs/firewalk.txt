@@ -1,0 +1,4 @@
+automake
+libdnet-devel
+libnet-devel
+libpcap-devel

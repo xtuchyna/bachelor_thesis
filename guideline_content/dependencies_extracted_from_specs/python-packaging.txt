@@ -1,0 +1,17 @@
+python-pretend
+python-six
+python-wheel
+python2-devel
+python2-pip
+python2-pyparsing
+python2-pytest
+python2-setuptools
+python3-devel
+python3-pip
+python3-pretend
+python3-pyparsing
+python3-pytest
+python3-setuptools
+python3-six
+python3-sphinx
+python3-wheel

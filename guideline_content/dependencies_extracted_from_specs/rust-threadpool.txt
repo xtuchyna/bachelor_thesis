@@ -1,0 +1,2 @@
+(crate(num_cpus) >= 1.6.0 with crate(num_cpus) < 2.0.0)
+rust-packaging

@@ -1,0 +1,7 @@
+autoconf
+automake
+fontconfig-devel >= 2.2-1
+freetype-devel >= 2.1.9-2
+libtool
+pkgconfig(xrender)
+xorg-x11-util-macros

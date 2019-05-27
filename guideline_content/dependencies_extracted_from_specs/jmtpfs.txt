@@ -1,0 +1,3 @@
+/usr/include/magic.h
+fuse-devel >= 2.6
+libmtp-devel >= 1.1.0

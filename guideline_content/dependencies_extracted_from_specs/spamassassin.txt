@@ -1,0 +1,11 @@
+openssl-devel
+perl(Archive::Tar)
+perl(HTML::Parser)
+perl(Net::DNS)
+perl(NetAddr::IP)
+perl(Time::HiRes)
+perl-HTML-Parser >= 3.43
+perl-devel
+perl-generators
+perl-interpreter >= 2:5.8.0
+systemd-units

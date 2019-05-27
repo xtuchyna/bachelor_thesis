@@ -1,0 +1,6 @@
+desktop-file-utils
+kf5-kwindowsystem-devel
+lxqt-build-tools
+pkgconfig(Qt5Widgets)
+pkgconfig(lxqt)
+qt5-linguist

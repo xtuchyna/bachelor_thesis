@@ -1,0 +1,3 @@
+dbusmenu-qt-devel
+kdebase-workspace-devel
+qjson-devel

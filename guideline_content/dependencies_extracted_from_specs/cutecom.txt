@@ -1,0 +1,3 @@
+cmake
+desktop-file-utils
+qt-devel

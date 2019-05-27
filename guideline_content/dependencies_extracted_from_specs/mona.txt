@@ -1,0 +1,6 @@
+emacs
+emacs-el
+flex
+gcc-c++
+xemacs
+xemacs-devel

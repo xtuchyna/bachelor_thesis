@@ -1,0 +1,14 @@
+perl(Carp) >= 1.26
+perl(Errno)
+perl(Exporter) >= 5.68
+perl(ExtUtils::MakeMaker)
+perl(Fcntl) >= 1.06
+perl(IO::Socket) >= 1.31
+perl(Scalar::Util) >= 1.29
+perl(Symbol) >= 1.06
+perl(Test::More) >= 0.98
+perl(base) >= 2.18
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

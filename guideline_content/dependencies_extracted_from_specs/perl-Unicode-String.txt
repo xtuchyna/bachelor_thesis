@@ -1,0 +1,7 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(MIME::Base64)
+perl(Test)
+perl-devel
+perl-generators

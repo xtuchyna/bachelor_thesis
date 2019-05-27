@@ -1,0 +1,10 @@
+findutils
+make
+perl(Date::Parse)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

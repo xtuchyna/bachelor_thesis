@@ -1,0 +1,7 @@
+libjpeg-devel
+libpng-devel >= 1.6
+libtiff-devel >= 4.0
+tcl-devel
+tcllib
+tk-devel
+zlib-devel >= 1.2.7

@@ -1,0 +1,6 @@
+perl(DateTime) >= 0.15
+perl(ExtUtils::MakeMaker)
+perl(Module::Build::Compat)
+perl(Params::Validate) >= 0.64
+perl(Test::More)
+perl-generators

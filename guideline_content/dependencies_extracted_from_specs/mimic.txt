@@ -1,0 +1,7 @@
+alsa-lib-devel
+autoconf
+automake
+libcurl-devel
+libicu-devel
+libtool
+pulseaudio-libs-devel

@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext
+glib2-devel
+libglade2-devel
+libnotify-devel

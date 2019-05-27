@@ -1,0 +1,3 @@
+libtool
+mariadb-connector-c-devel
+openssl-devel

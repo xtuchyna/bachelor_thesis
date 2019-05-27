@@ -1,0 +1,34 @@
+coreutils
+findutils
+gcc
+glibc-common
+make
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::Constant)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Spec)
+perl(FileHandle)
+perl(POSIX)
+perl(Socket)
+perl(Test::Distribution)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.06
+perl(Test::Portability::Files)
+perl(XSLoader)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl(warnings::register)
+perl-devel
+perl-generators
+perl-interpreter
+sed

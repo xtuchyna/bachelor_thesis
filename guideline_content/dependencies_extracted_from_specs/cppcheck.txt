@@ -1,0 +1,7 @@
+cmake
+desktop-file-utils
+docbook-style-xsl
+libxslt
+pcre-devel
+qt5-devel
+tinyxml2-devel >= 2.1.0

@@ -1,0 +1,29 @@
+coreutils
+findutils
+gcc
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Spec)
+perl(IO::File)
+perl(Pod::Coverage) >= 0.10
+perl(Scalar::Util)
+perl(Test)
+perl(Test::Harness)
+perl(Test::More)
+perl(Test::Pod) >= 0.95
+perl(Test::Pod::Coverage) >= 1.08
+perl(Thread)
+perl(Time::HiRes)
+perl(constant)
+perl(strict)
+perl(threads)
+perl(vars)
+perl-devel
+perl-generators
+perl-interpreter

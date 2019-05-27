@@ -1,0 +1,17 @@
+python2-devel
+python2-ipython >= 4
+python2-jupyter-client
+python2-nose
+python2-nose_warnings_filters
+python2-numpy
+python2-sphinx
+python2-tornado >= 4.0
+python2-traitlets >= 4.1.0
+python3-devel
+python3-ipython >= 4
+python3-jupyter-client
+python3-nose
+python3-nose_warnings_filters
+python3-numpy
+python3-tornado >= 4.0
+python3-traitlets >= 4.1.0

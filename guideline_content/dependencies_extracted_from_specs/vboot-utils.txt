@@ -1,0 +1,6 @@
+compat-openssl10-devel
+libuuid-devel
+libyaml-devel
+python
+trousers-devel
+xz-devel

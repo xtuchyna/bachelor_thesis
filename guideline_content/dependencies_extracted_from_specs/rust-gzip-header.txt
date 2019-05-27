@@ -1,0 +1,2 @@
+(crate(crc) >= 1.5.0 with crate(crc) < 2.0.0)
+rust-packaging

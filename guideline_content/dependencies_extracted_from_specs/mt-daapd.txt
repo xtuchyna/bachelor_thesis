@@ -1,0 +1,9 @@
+avahi-devel
+flac-devel
+gdbm-devel
+libid3tag-devel
+libogg-devel
+libvorbis-devel
+sqlite-devel
+systemd-units
+zlib-devel

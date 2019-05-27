@@ -1,0 +1,9 @@
+automake
+desktop-file-utils
+gcc
+make
+pkgconfig(avahi-client)
+pkgconfig(gtk+-3.0)
+pkgconfig(libnotify)
+pkgconfig(libpulse)
+pkgconfig(x11)

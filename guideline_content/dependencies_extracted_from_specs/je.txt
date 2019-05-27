@@ -1,0 +1,10 @@
+ant
+ant-junit
+hamcrest-core
+hostname
+java-javadoc
+javapackages-local
+jboss-connector-1.6-api
+jboss-ejb-3.1-api
+junit
+mvn(org.ow2.asm:asm)

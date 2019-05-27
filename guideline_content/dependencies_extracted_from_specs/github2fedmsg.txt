@@ -1,0 +1,13 @@
+fedmsg
+glyphicons-halflings-fonts
+python-pyramid
+python-pyramid-mako
+python-pyramid-tm
+python-setuptools
+python-sqlalchemy >= 0.7
+python-transaction
+python-tw2-core
+python-velruse
+python-weberror
+python-zope-sqlalchemy
+python2-devel

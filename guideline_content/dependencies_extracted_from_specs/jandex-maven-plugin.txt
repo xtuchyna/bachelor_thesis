@@ -1,0 +1,7 @@
+maven-local
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven:maven-parent:pom:)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.apache.maven:maven:pom:)
+mvn(org.jboss:jandex)
+mvn(org.jboss:jboss-parent:pom:)

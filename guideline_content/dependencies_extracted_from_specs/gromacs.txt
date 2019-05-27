@@ -1,0 +1,16 @@
+atlas-devel >= 3.10.1
+bash-completion
+cmake
+fftw-devel
+gcc-c++
+gsl-devel
+hwloc
+hwloc-devel
+libX11-devel
+lmfit-devel >= 6.0
+motif-devel
+mpich-devel
+ocl-icd-devel
+opencl-headers
+openmpi-devel
+tng-devel

@@ -1,0 +1,22 @@
+gcc-gfortran
+hwloc-devel
+hwloc-gui
+infinipath-psm-devel
+java-devel
+libfabric-devel
+libibcm-devel
+libibverbs-devel >= 1.1.3
+libpsm2-devel
+librdmacm-devel
+opensm-devel > 3.3.0
+papi-devel
+perl(Getopt::Long)
+perl-generators
+pmix-devel
+python2
+python2-devel
+python3-devel
+rpm-mpi-hooks
+torque-devel
+valgrind-devel
+zlib-devel

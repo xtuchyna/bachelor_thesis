@@ -1,0 +1,21 @@
+perl(Carp)
+perl(Config)
+perl(Data::Dump)
+perl(Exporter)
+perl(File::Temp)
+perl(IO::Handle)
+perl(IO::Scalar)
+perl(Module::Build)
+perl(PerlIO)
+perl(Test::Builder)
+perl(Test::More)
+perl(Test::Refcount)
+perl(Test::Tester) >= 0.107
+perl(base)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

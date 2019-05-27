@@ -1,0 +1,7 @@
+R-RUnit
+R-devel
+R-gtools
+R-methods
+R-stats
+R-utils
+tex(latex)

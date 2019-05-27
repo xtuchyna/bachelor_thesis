@@ -1,0 +1,3 @@
+fltk-devel >= 1.1
+libtool
+pkgconfig(OpenEXR) >= 2.1

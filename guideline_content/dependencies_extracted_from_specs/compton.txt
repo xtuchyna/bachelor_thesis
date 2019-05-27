@@ -1,0 +1,16 @@
+asciidoc
+desktop-file-utils
+gcc
+mesa-libGL-devel
+pcre-devel
+pkgconfig(dbus-1)
+pkgconfig(libconfig) >= 1.4
+pkgconfig(libdrm)
+pkgconfig(x11)
+pkgconfig(xcomposite)
+pkgconfig(xdamage)
+pkgconfig(xext)
+pkgconfig(xfixes)
+pkgconfig(xinerama)
+pkgconfig(xrandr)
+pkgconfig(xrender)

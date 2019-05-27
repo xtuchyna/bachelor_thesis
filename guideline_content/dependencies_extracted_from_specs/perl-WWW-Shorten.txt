@@ -1,0 +1,11 @@
+perl(Carp)
+perl(Config::Auto)
+perl(ExtUtils::MakeMaker)
+perl(LWP) >= 5.75
+perl(LWP::UserAgent) >= 2.023
+perl(Test::More) >= 0.47
+perl(Test::Pod) >= 1.00
+perl(Try::Tiny) >= 0.24
+perl(URI) >= 1.27
+perl(base)
+perl-generators

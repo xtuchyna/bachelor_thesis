@@ -1,0 +1,8 @@
+diffutils
+enchant-devel
+gettext-devel
+gtkspell-devel
+intltool
+perl(XML::Parser)
+pidgin-devel
+xmms-devel

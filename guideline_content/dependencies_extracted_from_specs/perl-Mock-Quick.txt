@@ -1,0 +1,16 @@
+coreutils
+make
+perl(Carp)
+perl(Exporter)
+perl(Exporter::Declare) >= 0.103
+perl(Fennec::Lite) >= 0.004
+perl(Module::Build) >= 0.42
+perl(Path::Class)
+perl(Scalar::Util)
+perl(Test::Exception) >= 0.29
+perl(Test::More) >= 0.88
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

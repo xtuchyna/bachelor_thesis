@@ -1,0 +1,15 @@
+desktop-file-utils
+libXcomposite-devel
+libXdamage-devel
+libXrender-devel
+libxcb-devel
+qt5-linguist
+qt5-qtbase-devel
+qt5-qtdeclarative-devel
+qt5-qtmultimedia-devel
+qt5-qtsvg-devel
+qt5-qttools-devel
+qt5-qtx11extras-devel
+xcb-util-devel
+xcb-util-image-devel
+xcb-util-wm-devel

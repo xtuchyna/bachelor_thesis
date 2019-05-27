@@ -1,0 +1,13 @@
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Temp)
+perl(Moose)
+perl(Moose::Exporter)
+perl(Moose::Role)
+perl(Test::Fatal)
+perl(Test::More) >= 0.88
+perl(aliased) >= 0.30
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators

@@ -1,0 +1,22 @@
+coreutils
+findutils
+gcc
+libecb-static
+make
+perl(Canary::Stability)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Math::BigFloat)
+perl(Math::BigInt)
+perl(Math::BigInt::FastCalc)
+perl(Math::BigRat)
+perl(Time::Piece)
+perl(Types::Serialiser)
+perl(URI)
+perl(XSLoader)
+perl(common::sense)
+perl-devel
+perl-generators
+perl-interpreter
+sed

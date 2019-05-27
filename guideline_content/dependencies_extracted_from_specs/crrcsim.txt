@@ -1,0 +1,8 @@
+/usr/bin/git
+CGAL-devel
+SDL-devel
+desktop-file-utils
+freeglut-devel
+libjpeg-turbo-devel
+plib-devel
+portaudio-devel

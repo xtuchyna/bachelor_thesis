@@ -1,0 +1,7 @@
+PyQt4-devel
+poppler-qt-devel >= 0.12.0
+python2-devel
+python3-PyQt4-devel
+python3-devel
+python3-sip-devel >= 4.9.1
+sip-devel >= 4.9.1

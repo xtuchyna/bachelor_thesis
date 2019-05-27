@@ -1,0 +1,21 @@
+cmake
+gettext-devel
+mingw32-cairo
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-gtk3
+mingw32-lcms2
+mingw32-libjpeg-turbo
+mingw32-libtiff
+mingw32-openjpeg2
+mingw32-qt5-qtbase-devel
+mingw64-cairo
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-gtk3
+mingw64-lcms2
+mingw64-libjpeg-turbo
+mingw64-libtiff
+mingw64-openjpeg2
+mingw64-qt5-qtbase-devel
+perl(File::Temp)

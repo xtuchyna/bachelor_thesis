@@ -1,0 +1,8 @@
+R-R.methodsS3
+R-R.oo
+R-devel
+R-digest
+R-methods
+R-tools
+R-utils
+tex(latex)

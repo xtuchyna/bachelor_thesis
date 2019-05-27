@@ -1,0 +1,2 @@
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Test)

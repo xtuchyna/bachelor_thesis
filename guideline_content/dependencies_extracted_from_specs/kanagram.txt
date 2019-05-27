@@ -1,0 +1,20 @@
+desktop-file-utils
+extra-cmake-modules
+gettext
+kf5-kconfig-devel
+kf5-kconfigwidgets-devel
+kf5-kcrash-devel
+kf5-kdeclarative-devel
+kf5-kdoctools-devel
+kf5-ki18n-devel
+kf5-kio-devel
+kf5-knewstuff-devel
+kf5-rpm-macros
+kf5-sonnet-devel
+libappstream-glib
+libkeduvocdocument-devel >= 17.12
+pkgconfig(Qt5Core)
+pkgconfig(Qt5OpenGL)
+pkgconfig(Qt5Qml)
+pkgconfig(Qt5Quick)
+pkgconfig(Qt5TextToSpeech)

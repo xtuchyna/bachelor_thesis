@@ -1,0 +1,7 @@
+ImageMagick
+boost-devel
+gd-devel
+libgsf-devel
+libtool
+python2-devel
+zlib-devel

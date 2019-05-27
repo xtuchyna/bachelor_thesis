@@ -1,0 +1,4 @@
+autoconf
+nss-devel
+pcsc-lite-devel
+zlib-devel

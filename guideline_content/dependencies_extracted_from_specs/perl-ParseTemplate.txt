@@ -1,0 +1,10 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Symbol)
+perl(Test::More)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

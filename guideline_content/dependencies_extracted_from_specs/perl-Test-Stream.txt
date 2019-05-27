@@ -1,0 +1,30 @@
+coreutils
+findutils
+make
+perl(B)
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(File::Temp)
+perl(List::Util)
+perl(PerlIO)
+perl(Scalar::Util)
+perl(Storable)
+perl(Sub::Name) >= 0.11
+perl(Sub::Util) >= 1.40
+perl(Term::ReadKey) >= 2.03
+perl(Trace::Mask) >= 0.000005
+perl(Trace::Mask::Reference)
+perl(Unicode::GCString) >= 2013.10
+perl(base)
+perl(overload)
+perl(strict)
+perl(threads)
+perl(threads::shared)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

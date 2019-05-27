@@ -1,0 +1,4 @@
+desktop-file-utils
+libappstream-glib
+pkgconfig(Qt5Network)
+pkgconfig(Qt5Widgets)

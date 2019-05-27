@@ -1,0 +1,6 @@
+libmimedir-devel
+libmimedir-static
+libopensync-devel = 1:0.22
+librapi-devel >= 0.14
+librra-devel >= 0.14
+libtool

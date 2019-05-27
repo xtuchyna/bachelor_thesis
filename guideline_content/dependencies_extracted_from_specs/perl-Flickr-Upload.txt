@@ -1,0 +1,19 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Digest::MD5)
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(Flickr::API) >= 1.09
+perl(HTTP::Request::Common) >= 1
+perl(LWP::UserAgent) >= 1
+perl(List::Util)
+perl(Net::OAuth) >= 0.28
+perl(Test::More)
+perl(URI::Escape)
+perl(XML::Simple) >= 2
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

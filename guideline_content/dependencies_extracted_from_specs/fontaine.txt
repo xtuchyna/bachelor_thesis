@@ -1,0 +1,4 @@
+cmake
+doxygen
+freetype-devel
+gettext

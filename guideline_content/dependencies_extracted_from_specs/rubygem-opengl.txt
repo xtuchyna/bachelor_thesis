@@ -1,0 +1,10 @@
+/usr/bin/xvfb-run
+freeglut-devel
+libGL-devel
+libGLU-devel
+mesa-dri-drivers
+ruby-devel
+rubygem(glu)
+rubygem(glut)
+rubygem(minitest) >= 5
+rubygems-devel

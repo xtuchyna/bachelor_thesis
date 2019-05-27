@@ -1,0 +1,16 @@
+coreutils
+desktop-file-utils
+findutils
+gmp-devel
+libX11-devel
+make
+pari-elldata
+pari-galdata
+pari-galpol
+pari-seadata
+perl-generators
+readline-devel
+sed
+tex(dvips)
+tex(tex)
+xmkmf

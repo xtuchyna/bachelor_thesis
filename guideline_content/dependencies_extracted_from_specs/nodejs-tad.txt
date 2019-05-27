@@ -1,0 +1,8 @@
+nodejs-packaging
+npm(cli-color)
+npm(duration)
+npm(fs2)
+npm(next)
+npm(optimist)
+npm(path2)
+npm(test)

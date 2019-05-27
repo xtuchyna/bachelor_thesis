@@ -1,0 +1,15 @@
+(php-composer(psr/container) >= 1.0 with php-composer(psr/container) < 2)
+(php-composer(symfony/debug) >= 2.7 with php-composer(symfony/debug) < 3)
+php(language) >= 7.0
+php-composer(phpunit/phpunit)
+php-ctype
+php-date
+php-fedora-autoloader-devel
+php-hash
+php-iconv
+php-json
+php-mbstring
+php-pcre
+php-reflection
+php-simplexml
+php-spl

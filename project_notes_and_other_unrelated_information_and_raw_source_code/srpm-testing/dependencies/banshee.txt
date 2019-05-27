@@ -1,0 +1,37 @@
+GConf2-devel
+autoconf
+automake
+dbus-glib-devel
+dbus-sharp-devel >= 1:0.8.0
+dbus-sharp-glib-devel
+desktop-file-utils
+gdata-sharp-devel
+gettext-devel
+gio-sharp-devel
+gkeyfile-sharp-devel
+gnome-desktop-devel
+gnome-doc-utils
+gnome-sharp-devel
+gstreamer1-devel
+gstreamer1-plugins-base-devel
+gstreamer1-plugins-good
+gtk-sharp-beans-devel
+gtk-sharp2-devel
+gudev-sharp-devel
+intltool
+libXxf86vm-devel
+libappstream-glib
+libgpod-sharp-devel >= 0.8.2
+libmtp-devel >= 0.2.0
+libtool
+mono-addins-devel
+mono-data
+mono-data-sqlite
+mono-devel
+mono-zeroconf-devel >= 0.9.0-2
+notify-sharp-devel
+perl(XML::Parser)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+sqlite-devel >= 3.4
+taglib-sharp-devel

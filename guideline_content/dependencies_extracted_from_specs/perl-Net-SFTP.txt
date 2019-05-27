@@ -1,0 +1,16 @@
+coreutils
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Math::Int64) >= 0.54
+perl(Net::SSH::Perl) >= 2.12
+perl(Net::SSH::Perl::Buffer)
+perl(Net::SSH::Perl::Constants)
+perl(Test)
+perl(base)
+perl(constant)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

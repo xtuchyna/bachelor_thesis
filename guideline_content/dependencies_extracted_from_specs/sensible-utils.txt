@@ -1,0 +1,4 @@
+autoconf
+automake
+make
+po4a

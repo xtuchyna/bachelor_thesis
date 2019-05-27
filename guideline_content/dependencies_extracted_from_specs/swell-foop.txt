@@ -1,0 +1,8 @@
+desktop-file-utils
+gettext-devel
+itstool
+meson
+pkgconfig(clutter-gtk-1.0) >= 1.4.0
+pkgconfig(gtk+-3.0) >= 3.12
+vala
+yelp-tools

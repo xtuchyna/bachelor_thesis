@@ -1,0 +1,15 @@
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(List::Util)
+perl(Test::More) >= 0.88
+perl(Unicode::Collate) >= 1.04
+perl(lib)
+perl(open)
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

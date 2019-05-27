@@ -1,0 +1,17 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-case-insensitive-devel
+ghc-connection-devel
+ghc-containers-devel
+ghc-cryptonite-devel
+ghc-data-default-class-devel
+ghc-exceptions-devel
+ghc-http-client-devel
+ghc-http-types-devel
+ghc-memory-devel
+ghc-network-devel
+ghc-network-uri-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-tls-devel
+ghc-transformers-devel

@@ -1,0 +1,13 @@
+ghc-Cabal-devel
+ghc-attoparsec-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-data-default-class-devel
+ghc-filepath-devel
+ghc-mtl-devel
+ghc-network-devel
+ghc-old-locale-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-time-devel
+ghc-utf8-string-devel

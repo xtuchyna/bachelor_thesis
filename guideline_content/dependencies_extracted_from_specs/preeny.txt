@@ -1,0 +1,4 @@
+coreutils
+gcc
+libini_config-devel
+make

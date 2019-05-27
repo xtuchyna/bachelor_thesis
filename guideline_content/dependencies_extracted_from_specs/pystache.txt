@@ -1,0 +1,6 @@
+python-devel
+python-setuptools
+python-simplejson
+python3-devel
+python3-setuptools
+python3-simplejson

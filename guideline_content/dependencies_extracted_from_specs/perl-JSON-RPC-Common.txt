@@ -1,0 +1,8 @@
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Message)
+perl(JSON)
+perl(MooseX::Types)
+perl(Test::Exception)
+perl(Test::use::ok)
+perl(URI)
+perl-generators

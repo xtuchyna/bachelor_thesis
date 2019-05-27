@@ -1,0 +1,40 @@
+perl(Catalyst::Action::REST) >= 0.74
+perl(Catalyst::Action::RenderView)
+perl(Catalyst::ActionRole::ACL)
+perl(Catalyst::Authentication::Store::DBIx::Class)
+perl(Catalyst::Model::DBIC::Schema)
+perl(Catalyst::Plugin::Authentication)
+perl(Catalyst::Plugin::Session) >= 0.27
+perl(Catalyst::Plugin::Session::State::Cookie)
+perl(Catalyst::Plugin::Session::Store::File)
+perl(Catalyst::Runtime) >= 5.80013
+perl(Catalyst::View::TT)
+perl(CatalystX::Component::Traits) >= 0.13
+perl(CatalystX::InjectComponent)
+perl(Crypt::DH)
+perl(DBD::SQLite)
+perl(DBIx::Class::Optional::Dependencies)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(HTML::FormHandler) >= 0.28001
+perl(HTTP::Request::Common)
+perl(JSON::Any) >= 1.22
+perl(Module::Install::AuthorRequires)
+perl(Module::Install::AuthorTests)
+perl(Moose)
+perl(MooseX::MethodAttributes) >= 0.18
+perl(MooseX::RelatedClassRoles) >= 0.004
+perl(MooseX::Types)
+perl(MooseX::Types::Common)
+perl(MooseX::Types::JSON) >= 0.02
+perl(MooseX::Types::Path::Class) >= 0.05
+perl(SQL::Translator)
+perl(Test::EOL)
+perl(Test::Exception)
+perl(Test::More) >= 0.94
+perl(Test::NoTabs)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(inc::Module::Install)
+perl(namespace::autoclean)
+perl-generators

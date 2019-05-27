@@ -1,0 +1,11 @@
+dbus-glib-devel
+desktop-file-utils
+gettext
+gobject-introspection-devel
+gtk-doc
+gtk3-devel
+itstool
+meson
+pkgconfig(libcanberra-gtk3)
+pkgconfig(libnotify)
+systemd-devel

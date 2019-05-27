@@ -1,0 +1,13 @@
+boost-devel
+cld2-devel
+cpprest-devel
+desktop-file-utils
+gcc-c++
+gtkspell3-devel
+json-devel
+libappstream-glib
+libsecret-devel
+lucene++-devel
+openssl-devel
+po4a
+wxGTK3-devel >= 3.0.3

@@ -1,0 +1,7 @@
+help2man
+ocaml
+ocaml-findlib-devel
+ocaml-ocamlbuild-devel
+ocaml-ocamldoc
+ocamlify
+ocamlmod

@@ -1,0 +1,21 @@
+audit-libs-devel
+bison
+curl-devel
+fipscheck-devel
+flex
+hostname
+ldns-devel
+libcap-ng-devel
+libevent-devel
+libseccomp-devel
+libselinux-devel
+nspr-devel
+nss-devel >= 3.16.1
+openldap-devel
+pam-devel
+pkgconfig
+systemd
+systemd-devel
+systemd-units
+unbound-devel >= 1.6.0-6
+xmlto

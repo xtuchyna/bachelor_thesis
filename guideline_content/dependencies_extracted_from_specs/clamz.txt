@@ -1,0 +1,3 @@
+expat-devel
+libcurl-devel
+libgcrypt-devel

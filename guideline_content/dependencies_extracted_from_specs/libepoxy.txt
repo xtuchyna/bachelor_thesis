@@ -1,0 +1,6 @@
+gcc
+meson
+pkgconfig(egl)
+pkgconfig(gl)
+pkgconfig(glesv2)
+python3

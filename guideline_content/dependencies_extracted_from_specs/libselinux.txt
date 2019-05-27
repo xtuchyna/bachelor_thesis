@@ -1,0 +1,12 @@
+gcc
+libsepol-static >= 2.7-6
+pcre2-devel
+python2
+python2-devel
+python3
+python3-devel
+ruby
+ruby-devel
+swig
+systemd
+xz-devel

@@ -1,0 +1,25 @@
+perl(Any::Moose) >= 0.15
+perl(CPAN::Meta)
+perl(CPAN::Meta::Prereqs)
+perl(Carp)
+perl(Class::Struct)
+perl(File::Basename)
+perl(File::Spec)
+perl(Math::BigInt)
+perl(Module::Build)
+perl(Moose)
+perl(Mouse) >= 0.77
+perl(Mouse::Exporter)
+perl(Mouse::Role)
+perl(Mouse::Util)
+perl(Mouse::Util::MetaRole)
+perl(Test::Exception)
+perl(Test::More) >= 0.88
+perl(Test::Mouse)
+perl(Test::Requires)
+perl(base)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,20 @@
+/usr/bin/make
+/usr/bin/perl
+perl(Carp)
+perl(Exporter::Tiny) >= 0.026
+perl(ExtUtils::MakeMaker)
+perl(Hash::FieldHash)
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::Types::Moose)
+perl(Test::Fatal)
+perl(Test::More) >= 0.96
+perl(Test::Requires)
+perl(Tie::Array)
+perl(Tie::Hash)
+perl(Tie::Scalar)
+perl(Types::Standard)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.008005

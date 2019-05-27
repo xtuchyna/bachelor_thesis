@@ -1,0 +1,5 @@
+ruby(release)
+rubygem(aruba)
+rubygem(rspec-core)
+rubygem(rspec-expectations)
+rubygems-devel

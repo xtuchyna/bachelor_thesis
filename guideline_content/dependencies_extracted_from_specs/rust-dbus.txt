@@ -1,0 +1,4 @@
+(crate(libc) >= 0.2.7 with crate(libc) < 0.3.0)
+(crate(libdbus-sys) >= 0.1.2 with crate(libdbus-sys) < 0.2.0)
+(crate(tempdir) >= 0.3.0 with crate(tempdir) < 0.4.0)
+rust-packaging

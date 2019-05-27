@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(Cwd)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Test::More)
+perl(XML::Twig) >= 3.16
+perl(blib)
+perl(constant)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter
+sed

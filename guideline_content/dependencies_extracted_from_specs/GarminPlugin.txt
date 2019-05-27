@@ -1,0 +1,4 @@
+garmintools-devel
+libgcrypt-devel
+tinyxml-devel
+zlib-devel

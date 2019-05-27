@@ -1,0 +1,13 @@
+boost-devel
+cmake(KF5Config)
+cmake(KF5CoreAddons)
+cmake(KF5DBusAddons)
+cmake(KF5GlobalAccel)
+cmake(KF5I18n)
+cmake(KF5KIO)
+cmake(KF5WindowSystem)
+cmake(KF5XmlGui)
+cmake(Qt5Core)
+cmake(Qt5DBus)
+extra-cmake-modules
+kf5-rpm-macros

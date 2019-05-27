@@ -1,0 +1,36 @@
+make
+perl(:VERSION) >= 5.4
+perl(:VERSION) >= 5.6
+perl(Carp)
+perl(Compress::Raw::Zlib)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec) >= 0.80
+perl(File::Spec::Unix)
+perl(File::Temp)
+perl(FileHandle)
+perl(IO::File)
+perl(IO::Seekable)
+perl(Test::MockModule)
+perl(Test::More) >= 0.88
+perl(Time::Local)
+perl(bytes)
+perl(constant)
+perl(integer)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+unzip
+zip

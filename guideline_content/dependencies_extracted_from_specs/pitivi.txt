@@ -1,0 +1,13 @@
+/usr/bin/appstream-util
+/usr/bin/desktop-file-validate
+gcc
+gettext
+gst-devtools-devel
+intltool
+itstool
+meson
+pkgconfig(cairo)
+pkgconfig(gst-transcoder-1.0) >= 1.8.1
+pkgconfig(gstreamer-1.0) >= 1.10.2
+pkgconfig(py3cairo)
+python3

@@ -1,0 +1,2 @@
+doxygen
+wfmath-devel >= 0.3.2

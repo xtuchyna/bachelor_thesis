@@ -1,0 +1,8 @@
+cmake
+doxygen
+enchant2-devel
+gcc-c++
+make
+qt4-devel
+qt5-qtbase-devel
+qt5-qttools-devel

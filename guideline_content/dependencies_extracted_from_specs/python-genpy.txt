@@ -1,0 +1,6 @@
+catkin-devel
+cmake
+python-catkin-sphinx
+python-genmsg-devel
+python-nose
+python2-devel

@@ -1,0 +1,6 @@
+maven-local
+mvn(commons-httpclient:commons-httpclient)
+mvn(commons-logging:commons-logging)
+mvn(javax.servlet:servlet-api)
+mvn(org.apache.ws.commons.util:ws-commons-util)
+mvn(org.apache:apache:pom:)

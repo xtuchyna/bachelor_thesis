@@ -1,0 +1,5 @@
+boost-devel
+cmake
+gcc-c++
+openssl-devel
+zlib-devel

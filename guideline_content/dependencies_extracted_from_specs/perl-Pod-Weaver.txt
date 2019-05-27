@@ -1,0 +1,44 @@
+make
+perl(Config::MVP) >= 2
+perl(Config::MVP::Assembler)
+perl(Config::MVP::Assembler::WithBundles)
+perl(Config::MVP::Reader::Finder)
+perl(Config::MVP::Reader::INI)
+perl(DateTime)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(List::MoreUtils)
+perl(List::Util) >= 1.33
+perl(Log::Dispatchouli) >= 1.100710
+perl(Module::Runtime)
+perl(Moose)
+perl(Moose::Role)
+perl(Moose::Util::TypeConstraints)
+perl(PPI)
+perl(Params::Util)
+perl(Pod::Elemental) >= 0.100220
+perl(Pod::Elemental::Document)
+perl(Pod::Elemental::Element::Nested)
+perl(Pod::Elemental::Element::Pod5::Command)
+perl(Pod::Elemental::Element::Pod5::Ordinary)
+perl(Pod::Elemental::Element::Pod5::Region)
+perl(Pod::Elemental::Element::Pod5::Verbatim)
+perl(Pod::Elemental::Selectors)
+perl(Pod::Elemental::Transformer::Gatherer)
+perl(Pod::Elemental::Transformer::Nester)
+perl(Pod::Elemental::Transformer::Pod5)
+perl(Pod::Elemental::Types)
+perl(Software::License::Artistic_1_0)
+perl(Software::License::Perl_5)
+perl(String::Flogger) >= 1
+perl(String::Formatter) >= 0.100680
+perl(String::RewritePrefix)
+perl(Test::Differences)
+perl(Test::More) >= 0.96
+perl(Text::Wrap)
+perl(namespace::autoclean)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(DBD::Pg)
+perl(DBI)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(IO::Handle)
+perl(Perl::Critic)
+perl(Pod::Html)
+perl(Test::More)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators

@@ -1,0 +1,13 @@
+php(language) >= 5.3.0
+php-composer(evenement/evenement) < 3.0
+php-composer(evenement/evenement) >= 2.0
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(react/event-loop) < 1.0
+php-composer(react/event-loop) >= 0.3
+php-composer(react/stream) < 1.0
+php-composer(react/stream) >= 0.4.4
+php-composer(sebastian/environment) < 3.0
+php-composer(sebastian/environment) >= 2.0
+php-pcntl
+php-spl

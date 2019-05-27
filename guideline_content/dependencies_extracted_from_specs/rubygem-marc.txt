@@ -1,0 +1,8 @@
+ruby(release)
+rubygem(ensure_valid_encoding)
+rubygem(nokogiri)
+rubygem(scrub_rb)
+rubygem(test-unit)
+rubygem(unf)
+rubygem(xml-simple)
+rubygems-devel

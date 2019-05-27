@@ -1,0 +1,7 @@
+nodejs-packaging >= 6
+npm(data-uri-to-buffer)
+npm(debug)
+npm(extend)
+npm(file-uri-to-path)
+npm(ftp)
+npm(readable-stream)

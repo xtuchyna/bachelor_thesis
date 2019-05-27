@@ -1,0 +1,12 @@
+perl(B::Hooks::EndOfScope) >= 0.08
+perl(Carp)
+perl(Devel::Declare) >= 0.006011
+perl(ExtUtils::MakeMaker)
+perl(Test2::Bundle::Extended) >= 0.000030
+perl(Test2::IPC) >= 1.302022
+perl(Test2::Tools::Spec)
+perl(Test2::Workflow) >= 0.000008
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

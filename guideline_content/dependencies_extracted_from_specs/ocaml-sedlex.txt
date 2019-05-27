@@ -1,0 +1,7 @@
+ocaml
+ocaml-findlib
+ocaml-gen-devel
+ocaml-migrate-parsetree-devel
+ocaml-ocamldoc
+ocaml-ppx-tools-versioned-devel
+ocaml-result-devel

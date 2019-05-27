@@ -1,0 +1,14 @@
+maven-local
+mvn(com.beust:jcommander)
+mvn(com.google.code.findbugs:jsr305)
+mvn(com.google.inject:guice)
+mvn(junit:junit)
+mvn(org.apache-extras.beanshell:bsh)
+mvn(org.apache.ant:ant)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.assertj:assertj-core) >= 3.8.0
+mvn(org.codehaus.gmavenplus:gmavenplus-plugin)
+mvn(org.codehaus.groovy:groovy-all)
+mvn(org.sonatype.oss:oss-parent:pom:)
+mvn(org.spockframework:spock-core)
+mvn(org.yaml:snakeyaml)

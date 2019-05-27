@@ -1,0 +1,4 @@
+nodejs-devel
+rubygem-json
+rubygem-rake
+rubygem-uglifier

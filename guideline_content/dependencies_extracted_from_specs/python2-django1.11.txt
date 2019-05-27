@@ -1,0 +1,14 @@
+/usr/bin/pathfix.py
+python2-bcrypt
+python2-devel
+python2-docutils
+python2-jinja2
+python2-memcached
+python2-mock
+python2-numpy
+python2-pillow
+python2-pytz
+python2-pyyaml
+python2-selenium
+python2-sphinx
+python2-sqlparse

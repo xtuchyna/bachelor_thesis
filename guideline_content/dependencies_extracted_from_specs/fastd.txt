@@ -1,0 +1,9 @@
+bison
+cmake
+json-c-devel
+libcap-devel
+libsodium-devel
+libuecc-devel
+openssl-devel
+python-sphinx
+systemd

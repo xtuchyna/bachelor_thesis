@@ -1,0 +1,7 @@
+ruby(release)
+rubygem(mime-types)
+rubygem(rake)
+rubygem(redcarpet)
+rubygem(rspec)
+rubygem(yard)
+rubygems-devel

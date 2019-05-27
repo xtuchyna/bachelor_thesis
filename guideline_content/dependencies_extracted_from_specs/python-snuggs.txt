@@ -1,0 +1,12 @@
+python2-click
+python2-devel
+python2-numpy
+python2-pyparsing
+python2-pytest
+python2-setuptools
+python3-click
+python3-devel
+python3-numpy
+python3-pyparsing
+python3-pytest
+python3-setuptools

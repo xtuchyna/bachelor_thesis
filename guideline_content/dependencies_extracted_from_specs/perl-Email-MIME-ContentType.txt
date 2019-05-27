@@ -1,0 +1,11 @@
+perl(Capture::Tiny)
+perl(Carp)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(Test::More) >= 0.96
+perl(Test::Pod) >= 1.41
+perl(blib)
+perl(strict)
+perl(version) > 0.99
+perl(warnings)
+perl-generators

@@ -1,0 +1,6 @@
+alsa-lib-devel
+gcc
+jack-audio-connection-kit-devel
+mxml-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

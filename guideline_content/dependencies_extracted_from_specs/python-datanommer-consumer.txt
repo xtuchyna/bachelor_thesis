@@ -1,0 +1,8 @@
+python2-datanommer-models >= 0.6.0
+python2-devel
+python2-fedmsg-core
+python2-setuptools
+python3-datanommer-models >= 0.6.0
+python3-devel
+python3-fedmsg-core
+python3-setuptools

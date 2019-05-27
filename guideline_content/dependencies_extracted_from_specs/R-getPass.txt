@@ -1,0 +1,5 @@
+R-argon2
+R-devel
+R-rstudioapi
+R-utils
+tex(latex)

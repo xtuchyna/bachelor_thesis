@@ -1,0 +1,8 @@
+python2-click
+python2-devel
+python2-jinja2
+python2-six
+python3-click
+python3-devel
+python3-jinja2
+python3-six

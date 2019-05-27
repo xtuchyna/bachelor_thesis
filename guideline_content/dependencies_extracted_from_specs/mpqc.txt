@@ -1,0 +1,10 @@
+atlas-devel
+bison
+desktop-file-utils
+doxygen
+flex
+gcc-gfortran
+libint-devel
+libtool
+perl-generators
+tk

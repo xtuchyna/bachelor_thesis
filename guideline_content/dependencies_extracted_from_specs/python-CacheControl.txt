@@ -1,0 +1,16 @@
+python2-cherrypy
+python2-devel
+python2-lockfile
+python2-mock
+python2-msgpack
+python2-pytest
+python2-redis
+python2-requests
+python3-cherrypy
+python3-devel
+python3-lockfile
+python3-mock
+python3-msgpack
+python3-pytest
+python3-redis
+python3-requests

@@ -1,0 +1,6 @@
+gcc-c++
+gl2ps-devel
+pkgconfig(glu)
+pkgconfig(xmu)
+qt5-qtbase-devel
+qt5-rpm-macros

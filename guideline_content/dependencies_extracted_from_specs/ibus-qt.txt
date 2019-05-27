@@ -1,0 +1,6 @@
+cmake
+dbus-devel
+doxygen
+ibus-devel
+libicu-devel
+qt4-devel

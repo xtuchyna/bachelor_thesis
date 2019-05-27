@@ -1,0 +1,7 @@
+perl(Class::ISA)
+perl(DateTime)
+perl(Encode) >= 1.00
+perl(ExtUtils::MakeMaker)
+perl(Template) >= 2.1
+perl(Test::More) >= 0.32
+perl-generators

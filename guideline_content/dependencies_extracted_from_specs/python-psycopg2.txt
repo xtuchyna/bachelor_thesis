@@ -1,0 +1,5 @@
+postgresql-devel
+python2-debug
+python2-devel
+python3-debug
+python3-devel

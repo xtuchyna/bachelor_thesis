@@ -1,0 +1,9 @@
+doxygen
+graphviz
+libtool
+libxslt
+pkgconfig
+pkgconfig(xau) >= 0.99.2
+pkgconfig(xcb-proto) >= 1.13
+pkgconfig(xorg-macros) >= 1.18
+python

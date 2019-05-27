@@ -1,0 +1,4 @@
+gnupg2
+jetring
+keyrings-filesystem
+make

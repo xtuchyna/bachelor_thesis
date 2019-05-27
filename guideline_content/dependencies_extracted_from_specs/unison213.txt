@@ -1,0 +1,5 @@
+desktop-file-utils
+gtk2-devel
+ocaml >= 3.10.2-2
+ocaml-lablgtk-devel >= 2.6.0
+tetex-latex

@@ -1,0 +1,10 @@
+perl(Class::Accessor)
+perl(HTTP::Request::Common)
+perl(HTTP::Response)
+perl(LWP::UserAgent)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Without::Module)
+perl(URI::Escape)
+perl(base)
+perl-generators

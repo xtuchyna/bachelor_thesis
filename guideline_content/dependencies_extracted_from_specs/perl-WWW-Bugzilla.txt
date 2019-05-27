@@ -1,0 +1,6 @@
+perl(Class::MethodMaker) >= 1.08
+perl(Crypt::SSLeay)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Params::Validate)
+perl(WWW::Mechanize) >= 1.22
+perl-generators

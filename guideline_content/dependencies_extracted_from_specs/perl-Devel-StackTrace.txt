@@ -1,0 +1,14 @@
+/usr/bin/make
+/usr/bin/perl
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Scalar::Util)
+perl(Test::More) >= 0.88
+perl(base)
+perl(bytes)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators

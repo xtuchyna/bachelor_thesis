@@ -1,0 +1,21 @@
+bash-completion
+python-coverage
+python-devel
+python-oslotest
+python-pbr
+python-setuptools
+python-sphinx
+python-subunit
+python-testrepository
+python-testscenarios
+python-testtools
+python2-oslo-sphinx >= 2.3.0
+python3-coverage
+python3-devel
+python3-oslotest
+python3-pbr >= 0.6
+python3-setuptools
+python3-subunit
+python3-testrepository
+python3-testscenarios
+python3-testtools

@@ -1,0 +1,7 @@
+/usr/bin/pod2man
+perl(Env)
+perl(File::Basename)
+perl(Getopt::Std)
+perl(strict)
+perl-generators
+perl-interpreter

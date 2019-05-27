@@ -1,0 +1,7 @@
+doxygen
+fontconfig
+gettext >= 0.16.1
+libICE-devel
+libpng-devel
+systemd-units
+xorg-x11-font-utils

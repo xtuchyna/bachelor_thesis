@@ -1,0 +1,4 @@
+chrpath
+libjpeg-devel
+libpng-devel
+libxml2-devel

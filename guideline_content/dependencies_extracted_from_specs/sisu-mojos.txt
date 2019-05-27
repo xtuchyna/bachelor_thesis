@@ -1,0 +1,10 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.maven.plugin-tools:maven-plugin-annotations)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven.shared:maven-common-artifact-filters)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.codehaus.plexus:plexus-utils)
+mvn(org.eclipse.sisu:org.eclipse.sisu.inject)
+mvn(org.slf4j:slf4j-nop)
+mvn(org.sonatype.oss:oss-parent:pom:)

@@ -1,0 +1,7 @@
+desktop-file-utils
+fontconfig-devel
+freetype-devel
+libX11-devel
+libXext-devel
+libXft-devel
+libXrender-devel

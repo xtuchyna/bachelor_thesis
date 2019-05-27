@@ -1,0 +1,19 @@
+make
+perl(Carp)
+perl(Cwd)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Copy)
+perl(File::Path)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(List::MoreUtils)
+perl(Test::Builder)
+perl(Test::More)
+perl(URI::file)
+perl(XML::Simple)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+subversion

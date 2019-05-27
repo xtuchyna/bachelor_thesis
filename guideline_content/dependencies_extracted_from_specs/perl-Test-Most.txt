@@ -1,0 +1,24 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(Data::Dumper::Names) >= 0.03
+perl(Exception::Class) >= 1.14
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::Builder)
+perl(Test::Builder::Module)
+perl(Test::Deep) >= 0.119
+perl(Test::Differences) >= 0.64
+perl(Test::Exception) >= 0.43
+perl(Test::Harness) >= 3.35
+perl(Test::More) >= 1.302047
+perl(Test::Warn) >= 0.30
+perl(Time::HiRes)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

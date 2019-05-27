@@ -1,0 +1,3 @@
+(crate(lazy_static) >= 1.0.0 with crate(lazy_static) < 2.0.0)
+(crate(unreachable) >= 1.0.0 with crate(unreachable) < 2.0.0)
+rust-packaging

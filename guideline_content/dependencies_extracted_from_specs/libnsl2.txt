@@ -1,0 +1,5 @@
+autoconf
+automake
+gettext-devel
+libtirpc-devel
+libtool

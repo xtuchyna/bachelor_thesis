@@ -1,0 +1,16 @@
+make
+perl(Carp)
+perl(Class::C3) >= 0.20
+perl(Class::Inspector) >= 1.32
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(FindBin)
+perl(List::Util)
+perl(MRO::Compat) >= 0.09
+perl(Test::Exception) >= 0.31
+perl(Test::More) >= 0.96
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

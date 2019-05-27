@@ -1,0 +1,34 @@
+alsa-lib-devel
+cmake >= 2.8
+cups-devel
+gsm-devel
+libX11-devel
+libXcursor-devel
+libXdamage-devel
+libXext-devel
+libXi-devel
+libXinerama-devel
+libXrandr-devel
+libXv-devel
+libjpeg-turbo-devel
+libxkbfile-devel
+pam-devel
+pkgconfig(dbus-1)
+pkgconfig(dbus-glib-1)
+pkgconfig(glib-2.0)
+pkgconfig(gstreamer-1.0)
+pkgconfig(gstreamer-app-1.0)
+pkgconfig(gstreamer-audio-1.0)
+pkgconfig(gstreamer-base-1.0)
+pkgconfig(gstreamer-fft-1.0)
+pkgconfig(gstreamer-pbutils-1.0)
+pkgconfig(gstreamer-video-1.0)
+pkgconfig(libpcsclite)
+pkgconfig(libpulse)
+pkgconfig(libsystemd)
+pkgconfig(openssl) >= 1.1.0
+pkgconfig(wayland-client)
+pkgconfig(wayland-scanner)
+pkgconfig(xkbcommon)
+xmlto
+zlib-devel

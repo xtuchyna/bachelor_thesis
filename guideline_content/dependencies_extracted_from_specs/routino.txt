@@ -1,0 +1,4 @@
+bzip2-devel
+perl-generators
+xz-devel
+zlib-devel

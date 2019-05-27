@@ -1,0 +1,6 @@
+libcurl-devel
+libsigc++20-devel
+python2-devel
+swig
+tinyxml-devel
+zlib-devel

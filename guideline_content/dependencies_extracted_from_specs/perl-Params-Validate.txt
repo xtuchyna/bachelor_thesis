@@ -1,0 +1,25 @@
+perl(Carp)
+perl(Devel::Peek)
+perl(Exporter)
+perl(File::Spec)
+perl(File::Temp)
+perl(JSON::PP) >= 2.27300
+perl(Module::Build) >= 0.28
+perl(Module::Implementation) >= 0.04
+perl(Readonly) >= 1.03
+perl(Scalar::Util) >= 1.20
+perl(Test::Fatal)
+perl(Test::More) >= 0.96
+perl(Test::Requires)
+perl(Test::Taint) >= 0.02
+perl(Tie::Array)
+perl(Tie::Hash)
+perl(XSLoader)
+perl(base)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators

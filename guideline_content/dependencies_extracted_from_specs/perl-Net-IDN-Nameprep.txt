@@ -1,0 +1,8 @@
+perl(Exporter)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::NoWarnings)
+perl(Unicode::Stringprep) >= 1.1
+perl(Unicode::Stringprep::Mapping)
+perl(Unicode::Stringprep::Prohibited)
+perl-generators

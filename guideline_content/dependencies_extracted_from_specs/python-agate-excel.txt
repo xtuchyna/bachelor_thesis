@@ -1,0 +1,14 @@
+python2-agate >= 1.5.0
+python2-devel
+python2-nose >= 1.1.2
+python2-openpyxl >= 2.3.0
+python2-sphinx >= 1.2.2
+python2-sphinx_rtd_theme >= 0.1.6
+python2-unittest2
+python2-xlrd >= 0.9.4
+python3-agate >= 1.5.0
+python3-devel
+python3-nose >= 1.1.2
+python3-openpyxl >= 2.3.0
+python3-unittest2
+python3-xlrd >= 0.9.4

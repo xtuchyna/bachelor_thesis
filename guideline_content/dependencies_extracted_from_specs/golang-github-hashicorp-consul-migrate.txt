@@ -1,0 +1,4 @@
+compiler(go-compiler)
+golang(github.com/hashicorp/raft)
+golang(github.com/hashicorp/raft-boltdb)
+golang(github.com/hashicorp/raft-mdb)

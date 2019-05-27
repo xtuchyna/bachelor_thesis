@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Hash::Util::FieldHash)
+perl(Test::Builder)
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(Test::Tester)
+perl(charnames)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 4:5.10.0

@@ -1,0 +1,10 @@
+php(language) >= 5.5
+php-autoloader(zendframework/zend-diactoros) >= 1.1
+php-autoloader(zendframework/zend-http) >= 2.5
+php-composer(phpunit/phpunit) >= 4.7
+php-composer(psr/http-message) >= 1.0
+php-fedora-autoloader-devel
+php-intl
+php-pcre
+php-reflection
+php-spl

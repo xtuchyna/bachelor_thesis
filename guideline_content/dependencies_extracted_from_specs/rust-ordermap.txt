@@ -1,0 +1,8 @@
+(crate(fnv) >= 1.0.0 with crate(fnv) < 2.0.0)
+(crate(itertools) >= 0.7.0 with crate(itertools) < 0.8.0)
+(crate(lazy_static) >= 1.0.0 with crate(lazy_static) < 2.0.0)
+(crate(quickcheck) >= 0.6.0 with crate(quickcheck) < 0.7.0)
+(crate(rand) >= 0.4.0 with crate(rand) < 0.5.0)
+(crate(serde) >= 1.0.0 with crate(serde) < 2.0.0)
+(crate(serde_test) >= 1.0.5 with crate(serde_test) < 2.0.0)
+rust-packaging

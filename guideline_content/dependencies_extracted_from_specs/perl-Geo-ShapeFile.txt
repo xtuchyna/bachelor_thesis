@@ -1,0 +1,21 @@
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(ExtUtils::MakeMaker)
+perl(IO::File)
+perl(List::Util)
+perl(Math::Trig) >= 1.04
+perl(POSIX)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Tree::R)
+perl(autovivification)
+perl(lib)
+perl(overload)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

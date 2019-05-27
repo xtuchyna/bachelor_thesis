@@ -1,0 +1,3 @@
+httpd-devel
+pam-devel
+pkgconfig

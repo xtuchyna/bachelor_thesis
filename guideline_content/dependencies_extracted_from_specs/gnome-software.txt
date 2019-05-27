@@ -1,0 +1,25 @@
+PackageKit-glib-devel >= 1.1.1
+desktop-file-utils
+docbook-style-xsl
+flatpak-devel >= 0.9.4
+fwupd-devel >= 1.0.3
+gettext
+glib2-devel >= 2.46.0
+gnome-desktop3-devel
+gsettings-desktop-schemas-devel >= 3.12.0
+gspell-devel
+gtk-doc
+gtk3-devel >= 3.22.4
+json-glib-devel >= 1.2.0
+libappstream-glib-devel >= 0.7.7-2
+libgudev1-devel
+liboauth-devel
+libsecret-devel
+libsoup-devel
+libxslt
+meson
+ostree-devel
+polkit-devel
+rpm-ostree-devel
+snapd-glib-devel
+valgrind-devel

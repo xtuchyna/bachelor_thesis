@@ -1,0 +1,6 @@
+autoconf
+automake
+gcc-gfortran
+help2man
+libstdc++-devel
+texinfo

@@ -1,0 +1,5 @@
+fedora-gnat-project-common >= 2
+gcc-gnat > 5.1
+gprbuild
+libgnat-static >= 6.1
+xmlada-static

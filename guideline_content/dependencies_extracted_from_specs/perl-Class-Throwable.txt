@@ -1,0 +1,15 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(Scalar::Util) >= 1.1
+perl(Test::More) >= 0.47
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(base)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

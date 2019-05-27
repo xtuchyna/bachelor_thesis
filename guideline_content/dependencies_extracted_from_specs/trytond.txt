@@ -1,0 +1,4 @@
+python-sphinx
+python-tools
+python3-devel
+systemd

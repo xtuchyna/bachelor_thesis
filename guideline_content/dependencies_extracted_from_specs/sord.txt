@@ -1,0 +1,7 @@
+boost-devel
+doxygen
+gcc-c++
+glib2-devel
+graphviz
+python
+serd-devel >= 0.22.4

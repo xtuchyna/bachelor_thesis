@@ -1,0 +1,38 @@
+/usr/bin/dbus-launch
+ModemManager-glib-devel >= 1.0
+audit-libs-devel
+autoconf
+automake
+bluez-libs-devel
+dbus-devel >= 1.9.18
+dbus-glib-devel >= 0.100
+dbus-python
+dhclient
+gettext-devel
+glib2-devel >= 2.32.0
+gobject-introspection-devel >= 0.10.3
+gtk-doc
+intltool
+iptables
+jansson-devel
+libcurl-devel
+libndp-devel >= 1.0
+libnl3-devel >= 3.2.7
+libpsl-devel >= 0.1
+libselinux-devel
+libtool
+libudev-devel
+libuuid-devel
+libxslt
+newt-devel
+nss-devel >= 3.11.7
+pkgconfig
+polkit-devel
+ppp-devel >= 2.4.5
+pygobject3-base
+readline-devel
+systemd >= 200-3
+systemd-devel
+teamd-devel
+vala-tools
+wireless-tools-devel >= 1:28-0pre9

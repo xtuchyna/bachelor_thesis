@@ -1,0 +1,15 @@
+perl(Exporter)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Module::Build::Tiny) >= 0.039
+perl(Pod::Spell::CommonMistakes) >= 0.01
+perl(Test::Builder) >= 0.94
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.40
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

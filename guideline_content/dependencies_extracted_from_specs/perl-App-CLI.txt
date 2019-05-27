@@ -1,0 +1,22 @@
+coreutils
+findutils
+make
+perl(Capture::Tiny)
+perl(Carp)
+perl(Class::Load)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::Find)
+perl(Getopt::Long) >= 2.35
+perl(Locale::Maketext::Simple)
+perl(Pod::Simple::Text)
+perl(Scalar::Util)
+perl(Test::More)
+perl(base)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

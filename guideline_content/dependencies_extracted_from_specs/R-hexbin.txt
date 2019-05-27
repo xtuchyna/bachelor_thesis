@@ -1,0 +1,9 @@
+R-devel
+R-grDevices
+R-graphics
+R-grid
+R-lattice
+R-methods
+R-stats
+R-utils
+tex(latex)

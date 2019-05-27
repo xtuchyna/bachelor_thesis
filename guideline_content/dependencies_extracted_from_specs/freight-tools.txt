@@ -1,0 +1,7 @@
+autoconf
+automake
+libconfig-devel
+postgresql-devel
+sqlite-devel
+systemd
+xmlrpc-c-devel

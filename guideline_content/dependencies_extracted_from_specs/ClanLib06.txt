@@ -1,0 +1,16 @@
+Hermes-devel
+alsa-lib-devel
+autoconf
+freetype-devel
+libGLU-devel
+libICE-devel
+libX11-devel
+libXext-devel
+libXt-devel
+libXxf86vm-devel
+libjpeg-devel
+libpng-devel
+libvorbis-devel
+mikmod-devel
+tolua++-devel >= 1.0.93-14
+xorg-x11-proto-devel

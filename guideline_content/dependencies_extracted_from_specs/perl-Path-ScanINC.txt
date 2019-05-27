@@ -1,0 +1,19 @@
+findutils
+perl(Carp)
+perl(Class::Tiny)
+perl(Data::Dump)
+perl(ExtUtils::MakeMaker)
+perl(FindBin)
+perl(List::Util)
+perl(Path::Tiny)
+perl(Scalar::Util)
+perl(Test::Fatal)
+perl(Test::More) >= 0.98
+perl(Try::Tiny)
+perl(lib)
+perl(strict)
+perl(subs)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

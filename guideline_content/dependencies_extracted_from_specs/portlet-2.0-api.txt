@@ -1,0 +1,4 @@
+maven-local
+maven-plugin-bundle
+mvn(org.apache.portals:portals-pom:pom:)
+mvn(org.apache.tomcat:tomcat-servlet-api)

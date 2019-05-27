@@ -1,0 +1,6 @@
+asciidoc
+autoconf
+binutils-devel
+binutils-static
+bison
+xmlto

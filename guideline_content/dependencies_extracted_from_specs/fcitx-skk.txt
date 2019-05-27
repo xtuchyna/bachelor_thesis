@@ -1,0 +1,5 @@
+cmake
+fcitx-devel >= 0.4.8
+gettext
+intltool
+libskk-devel

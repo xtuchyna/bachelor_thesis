@@ -1,0 +1,3 @@
+php-devel
+php-pear
+zlib-devel

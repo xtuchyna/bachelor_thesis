@@ -1,0 +1,19 @@
+cmake >= 2.8
+desktop-file-utils
+gettext
+intltool
+libappstream-glib
+libgcrypt-devel
+pkgconfig(appindicator3-0.1)
+pkgconfig(avahi-ui) >= 0.6.30
+pkgconfig(avahi-ui-gtk3) >= 0.6.30
+pkgconfig(freerdp2)
+pkgconfig(gtk+-3.0)
+pkgconfig(json-glib-1.0)
+pkgconfig(libsecret-1)
+pkgconfig(libsoup-2.4)
+pkgconfig(libssh) >= 0.6
+pkgconfig(libvncserver)
+pkgconfig(spice-client-gtk-3.0)
+pkgconfig(vte-2.91)
+pkgconfig(xkbfile)

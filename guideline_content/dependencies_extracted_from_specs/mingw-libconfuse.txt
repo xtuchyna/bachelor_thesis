@@ -1,0 +1,9 @@
+check-devel
+mingw32-binutils
+mingw32-filesystem
+mingw32-gcc
+mingw32-gettext
+mingw64-binutils
+mingw64-filesystem
+mingw64-gcc
+mingw64-gettext

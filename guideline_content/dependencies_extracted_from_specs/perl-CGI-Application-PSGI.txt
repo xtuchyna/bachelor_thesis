@@ -1,0 +1,24 @@
+coreutils
+findutils
+make
+perl(CGI::Application)
+perl(CGI::PSGI)
+perl(LWP::UserAgent)
+perl(Module::Install::AuthorTests)
+perl(Module::Install::Include)
+perl(Module::Install::Metadata)
+perl(Module::Install::Repository)
+perl(Module::Install::TestBase)
+perl(Module::Install::WriteAll)
+perl(Plack::Loader)
+perl(Test::More)
+perl(Test::Requires)
+perl(Test::TCP)
+perl(base)
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter >= 1:5.8.1
+sed

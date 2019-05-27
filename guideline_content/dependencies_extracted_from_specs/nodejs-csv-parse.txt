@@ -1,0 +1,7 @@
+coffee-script
+mocha
+nodejs-packaging
+npm(csv-generate)
+npm(csv-spectrum)
+npm(each)
+npm(should)

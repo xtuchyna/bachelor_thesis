@@ -1,0 +1,4 @@
+gnu-regexp
+java-devel
+maven-local
+zip

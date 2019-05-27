@@ -1,0 +1,12 @@
+perl(Capture::Tiny)
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(Test::More) >= 0.47
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.08
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

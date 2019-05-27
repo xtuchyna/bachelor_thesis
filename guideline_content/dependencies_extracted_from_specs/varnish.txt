@@ -1,0 +1,12 @@
+gcc
+graphviz
+groff
+jemalloc-devel
+libedit-devel
+make
+ncurses-devel
+nghttp2
+pcre-devel
+pkgconfig
+python-docutils
+systemd-units

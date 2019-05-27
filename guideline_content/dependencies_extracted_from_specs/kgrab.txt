@@ -1,0 +1,5 @@
+cmake
+desktop-file-utils
+gettext
+kde-filesystem >= 4
+kdelibs4-devel >= 4

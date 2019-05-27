@@ -1,0 +1,8 @@
+ant
+ant-junit
+aqute-bnd
+emma
+gcc
+java-javadoc
+javapackages-local
+make

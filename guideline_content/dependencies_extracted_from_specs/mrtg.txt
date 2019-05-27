@@ -1,0 +1,4 @@
+gd-devel
+libpng-devel
+perl-generators
+systemd-units

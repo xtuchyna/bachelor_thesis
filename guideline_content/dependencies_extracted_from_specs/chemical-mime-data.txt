@@ -1,0 +1,6 @@
+ImageMagick
+intltool
+libxml2
+libxslt
+perl(XML::Parser)
+shared-mime-info

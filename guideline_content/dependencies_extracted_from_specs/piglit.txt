@@ -1,0 +1,20 @@
+chrpath
+cmake
+gcc
+libXrender-devel
+libtiff-devel
+ocl-icd-devel
+opencl-headers
+pkgconfig(dri)
+pkgconfig(egl)
+pkgconfig(gl)
+pkgconfig(glu)
+pkgconfig(libpng)
+pkgconfig(x11)
+python3 >= 3.5
+python3-lxml
+python3-mako >= 0.8.0
+python3-nose
+python3-numpy >= 1.7.0
+python3-six >= 1.5.2
+waffle-devel

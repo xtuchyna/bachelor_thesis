@@ -1,0 +1,6 @@
+cmake >= 2.8
+expat
+libxslt
+openscap-scanner >= 1.2.5
+python
+python-lxml

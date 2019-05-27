@@ -1,0 +1,11 @@
+autoconf
+automake
+dblatex
+graphviz
+libxslt
+lilypond
+python2-devel
+source-highlight
+symlinks
+texlive-dvipng-bin
+vim-filesystem

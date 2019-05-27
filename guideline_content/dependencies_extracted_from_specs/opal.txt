@@ -1,0 +1,8 @@
+SDL-devel
+expat-devel
+libtheora-devel
+openldap-devel
+openssl-devel
+ptlib-devel = 2.10.10
+speex-devel
+speexdsp-devel

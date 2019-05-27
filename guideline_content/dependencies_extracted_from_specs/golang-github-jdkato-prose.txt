@@ -1,0 +1,7 @@
+compiler(go-compiler)
+golang(github.com/jdkato/syllables)
+golang(github.com/montanaflynn/stats)
+golang(github.com/neurosnap/sentences)
+golang(github.com/shogo82148/go-shuffle)
+golang(github.com/stretchr/testify/assert)
+golang(github.com/urfave/cli)

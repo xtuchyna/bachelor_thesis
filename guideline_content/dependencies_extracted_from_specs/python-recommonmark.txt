@@ -1,0 +1,10 @@
+python2-CommonMark
+python2-devel
+python2-docutils
+python2-pytest
+python2-sphinx
+python3-CommonMark
+python3-devel
+python3-docutils
+python3-pytest
+python3-sphinx

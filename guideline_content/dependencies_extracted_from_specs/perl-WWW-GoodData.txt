@@ -1,0 +1,6 @@
+perl(IO::Socket::SSL)
+perl(JSON)
+perl(LWP::UserAgent)
+perl(Module::Build)
+perl(Test::Pod)
+perl-generators

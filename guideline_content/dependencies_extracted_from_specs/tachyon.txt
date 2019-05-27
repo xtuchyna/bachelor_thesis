@@ -1,0 +1,7 @@
+/usr/bin/dvips
+/usr/bin/latex
+/usr/bin/pdflatex
+latex2html
+libGL-devel
+libjpeg-devel
+libpng-devel

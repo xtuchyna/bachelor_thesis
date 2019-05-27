@@ -1,0 +1,21 @@
+findutils
+make
+perl(Capture::Tiny) >= 0.12
+perl(Carp)
+perl(Class::Tiny)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::ShareDir)
+perl(File::Spec)
+perl(FindBin)
+perl(Path::Class)
+perl(Path::FindDev)
+perl(Path::IsDev)
+perl(Path::Tiny)
+perl(Sub::Exporter)
+perl(Test::More)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.006

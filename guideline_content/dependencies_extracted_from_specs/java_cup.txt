@@ -1,0 +1,4 @@
+ant
+java_cup >= 1:0.11a
+javapackages-local
+jflex

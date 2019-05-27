@@ -1,0 +1,8 @@
+maven-local
+mvn(com.google.guava:guava)
+mvn(commons-io:commons-io)
+mvn(org.assertj:assertj-core)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.codehaus.mojo:exec-maven-plugin)
+mvn(org.jacoco:jacoco-maven-plugin)
+mvn(org.testng:testng)

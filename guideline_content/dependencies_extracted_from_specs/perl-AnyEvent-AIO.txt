@@ -1,0 +1,4 @@
+perl(AnyEvent)
+perl(ExtUtils::MakeMaker)
+perl(IO::AIO) >= 3
+perl-generators

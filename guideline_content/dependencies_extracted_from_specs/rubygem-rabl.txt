@@ -1,0 +1,6 @@
+ruby(release)
+rubygem(activesupport)
+rubygem(bson)
+rubygem(riot)
+rubygem(tilt)
+rubygems-devel

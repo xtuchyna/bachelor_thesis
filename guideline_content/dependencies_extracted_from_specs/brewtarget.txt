@@ -1,0 +1,5 @@
+cmake
+desktop-file-utils
+phonon-devel
+qt-devel
+qt-webkit-devel

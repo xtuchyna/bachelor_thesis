@@ -1,0 +1,8 @@
+bnd-maven-plugin
+eclipse-gef
+eclipse-mylyn
+libappstream-glib
+maven-install-plugin
+subversion-javahl >= 1.9.4
+tycho
+tycho-extras

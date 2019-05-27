@@ -1,0 +1,6 @@
+compiler(go-compiler)
+golang(github.com/mattn/go-runewidth)
+golang(golang.org/x/crypto/ssh/terminal)
+golang(golang.org/x/sys/unix)
+golang(golang.org/x/text/width)
+golang(gopkg.in/yaml.v2)

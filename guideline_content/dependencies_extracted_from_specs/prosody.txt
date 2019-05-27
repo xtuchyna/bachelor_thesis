@@ -1,0 +1,7 @@
+compat-lua
+compat-lua-devel
+gcc
+gnupg2
+libidn-devel
+openssl-devel
+systemd

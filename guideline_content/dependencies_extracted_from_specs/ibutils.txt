@@ -1,0 +1,13 @@
+autoconf
+automake
+chrpath
+graphviz-tcl
+libibumad-devel
+libibverbs-devel >= 1.1
+libstdc++-devel
+libtool
+opensm-devel >= 3.3.0
+perl-podlators
+swig
+tcl-devel
+tk-devel

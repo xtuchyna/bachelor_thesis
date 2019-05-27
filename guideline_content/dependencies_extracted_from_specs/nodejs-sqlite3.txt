@@ -1,0 +1,5 @@
+node-gyp
+nodejs-devel
+npm(mocha)
+npm(nan) >= 2.7.0
+sqlite-devel >= 3.10.2-3

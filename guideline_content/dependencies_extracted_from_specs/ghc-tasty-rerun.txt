@@ -1,0 +1,11 @@
+ghc-Cabal-devel
+ghc-containers-devel
+ghc-mtl-devel
+ghc-optparse-applicative-devel
+ghc-reducers-devel
+ghc-rpm-macros
+ghc-split-devel
+ghc-stm-devel
+ghc-tagged-devel
+ghc-tasty-devel
+ghc-transformers-devel

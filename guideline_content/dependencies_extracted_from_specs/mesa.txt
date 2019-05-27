@@ -1,0 +1,44 @@
+autoconf
+automake
+bison
+clang-devel >= 3.0
+elfutils
+elfutils-libelf-devel
+expat-devel
+flex
+gcc
+gcc-c++
+gettext
+kernel-headers
+libXdamage-devel
+libXext-devel
+libXfixes-devel
+libXi-devel
+libXmu-devel
+libXxf86vm-devel
+libclc-devel
+libdrm-devel >= 2.4.42
+libomxil-bellagio-devel
+libselinux-devel
+libtool
+libudev-devel
+libva-devel
+libvdpau-devel
+libxshmfence-devel
+llvm-devel >= 3.4-7
+makedepend
+opencl-filesystem
+pkgconfig(libglvnd) >= 0.2.0
+pkgconfig(valgrind)
+pkgconfig(wayland-client)
+pkgconfig(wayland-protocols)
+pkgconfig(wayland-server)
+pkgconfig(zlib)
+python2
+python2-libxml2
+python2-mako
+python3
+python3-libxml2
+python3-mako
+vulkan-devel
+xorg-x11-proto-devel

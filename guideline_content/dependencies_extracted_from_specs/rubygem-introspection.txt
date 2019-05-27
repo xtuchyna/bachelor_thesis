@@ -1,0 +1,7 @@
+ruby
+ruby(release)
+rubygem(builder)
+rubygem(metaclass) < 0.1
+rubygem(metaclass) >= 0.0.1
+rubygem(minitest)
+rubygems-devel

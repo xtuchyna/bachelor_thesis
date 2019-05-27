@@ -1,0 +1,12 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IPC::Semaphore)
+perl(IPC::SysV)
+perl(Scalar::Util)
+perl(Storable) >= 0.607
+perl(constant)
+perl(strict)
+perl(vars)
+perl-generators

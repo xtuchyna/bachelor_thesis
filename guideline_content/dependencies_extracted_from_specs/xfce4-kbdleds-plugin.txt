@@ -1,0 +1,4 @@
+gettext
+intltool
+libxklavier-devel >= 3.2
+xfce4-panel-devel >= 4.8.0

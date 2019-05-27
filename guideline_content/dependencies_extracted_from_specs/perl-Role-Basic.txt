@@ -1,0 +1,9 @@
+perl(B)
+perl(Carp)
+perl(Data::Dumper)
+perl(Module::Build)
+perl(Storable)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators

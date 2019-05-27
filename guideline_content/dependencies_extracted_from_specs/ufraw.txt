@@ -1,0 +1,18 @@
+cfitsio-devel
+exiv2-devel >= 0.18.1
+gcc
+gcc-c++
+gettext
+gimp >= 2.2
+gimp-devel >= 2.2
+glib2-devel >= 2.12
+gtk2-devel >= 2.12
+gtkimageview-devel >= 1.6.1
+jasper-devel
+lcms2-devel
+lensfun-devel >= 0.2.5
+libexif-devel >= 0.6.13
+libjpeg-devel
+libtiff-devel
+perl-interpreter
+pkgconfig >= 0.9.0

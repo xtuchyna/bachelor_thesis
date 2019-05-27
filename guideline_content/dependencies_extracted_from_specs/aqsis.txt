@@ -1,0 +1,16 @@
+OpenEXR-devel
+bison >= 1.35.0
+boost-devel >= 1.34.0
+cmake >= 2.6.3
+desktop-file-utils
+doxygen
+flex >= 2.5.4
+fltk-devel >= 1.1.0
+fltk-fluid
+libjpeg-devel >= 6
+libpng-devel
+libtiff-devel >= 3.7.1
+libxslt
+python-sphinx
+qt4-devel >= 4.6.2
+zlib-devel >= 1.1.4

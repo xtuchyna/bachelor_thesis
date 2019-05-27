@@ -1,0 +1,30 @@
+findutils
+make
+perl(Archive::Tar) >= 1
+perl(Archive::Zip) >= 1.30
+perl(CPAN::DistnameInfo) >= 0.12
+perl(CPAN::Meta) >= 2.1
+perl(Carp)
+perl(Digest) >= 1.03
+perl(Digest::MD5) >= 2
+perl(Digest::SHA) >= 5
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Find)
+perl(File::Spec)
+perl(File::Spec::Native) >= 1.002
+perl(File::Temp) >= 0.19
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(List::Util)
+perl(Module::Metadata)
+perl(Path::Class) >= 0.24
+perl(Test::Fatal)
+perl(Test::MockObject) >= 1.09
+perl(Test::More) >= 0.96
+perl(Try::Tiny) >= 0.09
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

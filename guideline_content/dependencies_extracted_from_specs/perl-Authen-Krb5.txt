@@ -1,0 +1,9 @@
+coreutils
+findutils
+krb5-devel
+make
+perl(ExtUtils::MakeMaker)
+perl-devel
+perl-generators
+perl-interpreter
+sed

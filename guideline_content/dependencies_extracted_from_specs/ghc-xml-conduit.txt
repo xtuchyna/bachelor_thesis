@@ -1,0 +1,17 @@
+ghc-Cabal-devel
+ghc-attoparsec-devel
+ghc-blaze-builder-devel
+ghc-blaze-html-devel
+ghc-blaze-markup-devel
+ghc-bytestring-devel
+ghc-conduit-devel
+ghc-conduit-extra-devel
+ghc-containers-devel
+ghc-data-default-class-devel
+ghc-deepseq-devel
+ghc-monad-control-devel
+ghc-resourcet-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-transformers-devel
+ghc-xml-types-devel

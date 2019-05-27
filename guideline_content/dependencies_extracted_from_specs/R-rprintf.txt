@@ -1,0 +1,5 @@
+R-devel
+R-knitr
+R-stringi
+R-testthat
+tex(latex)

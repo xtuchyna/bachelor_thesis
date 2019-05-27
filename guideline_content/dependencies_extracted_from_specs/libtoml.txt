@@ -1,0 +1,5 @@
+/usr/bin/ragel
+gcc
+meson
+pkgconfig(cunit)
+pkgconfig(icu-uc)

@@ -1,0 +1,7 @@
+autoconf
+automake
+coreutils
+gcc
+libtool
+make
+readline-devel

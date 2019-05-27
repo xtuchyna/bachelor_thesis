@@ -1,0 +1,6 @@
+desktop-file-utils
+gcc-gfortran
+java-devel
+makedepf90
+mpich-devel
+openmpi-devel

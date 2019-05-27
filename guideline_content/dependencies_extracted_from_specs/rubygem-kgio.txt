@@ -1,0 +1,4 @@
+ruby-devel
+ruby-irb
+rubygem(test-unit)
+rubygems-devel

@@ -1,0 +1,5 @@
+gettext
+glib2-devel
+intltool
+libxml2-devel
+perl(XML::Parser)

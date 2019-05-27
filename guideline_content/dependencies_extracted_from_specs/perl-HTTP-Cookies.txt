@@ -1,0 +1,18 @@
+make
+perl(:VERSION) >= 5.8.1
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(HTTP::Date) >= 6
+perl(HTTP::Headers::Util) >= 6
+perl(HTTP::Request)
+perl(HTTP::Response)
+perl(Test)
+perl(Test::More)
+perl(URI)
+perl(locale)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

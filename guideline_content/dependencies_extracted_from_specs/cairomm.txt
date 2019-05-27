@@ -1,0 +1,5 @@
+cairo-devel >= 1.10.0
+libsigc++20-devel >= 2.5.1
+perl(Getopt::Long)
+perl-interpreter
+pkgconfig

@@ -1,0 +1,3 @@
+python-devel
+python-setuptools
+python-xmpp

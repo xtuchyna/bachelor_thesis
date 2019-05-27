@@ -1,0 +1,7 @@
+gcc
+gmp-devel
+ocaml
+ocaml-findlib
+ocaml-ocamldoc
+perl-interpreter
+redhat-rpm-config

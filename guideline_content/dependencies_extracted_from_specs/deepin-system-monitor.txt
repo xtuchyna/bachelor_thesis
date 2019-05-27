@@ -1,0 +1,19 @@
+desktop-file-utils
+libappstream-glib
+libcap-devel
+libpcap-devel
+ncurses-devel
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Network)
+pkgconfig(Qt5Widgets)
+pkgconfig(Qt5X11Extras)
+pkgconfig(dtkwidget) >= 2.0
+pkgconfig(dtkwm) >= 2.0
+pkgconfig(libprocps)
+pkgconfig(x11)
+pkgconfig(xcb)
+pkgconfig(xcb-util)
+pkgconfig(xext)
+pkgconfig(xtst)
+qt5-linguist

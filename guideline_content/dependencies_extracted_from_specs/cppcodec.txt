@@ -1,0 +1,4 @@
+catch-devel
+cmake
+gcc-c++
+make

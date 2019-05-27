@@ -1,0 +1,8 @@
+python2-devel
+python2-pytest
+python2-setuptools_git
+python2-six
+python3-devel
+python3-pytest
+python3-setuptools_git
+python3-six

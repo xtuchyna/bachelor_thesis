@@ -1,0 +1,4 @@
+moarvm
+moarvm-devel >= 0.2018.02
+perl(ExtUtils::Command)
+perl(Test::Harness)

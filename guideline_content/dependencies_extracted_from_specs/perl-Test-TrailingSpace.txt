@@ -1,0 +1,13 @@
+coreutils
+perl(File::Find::Object::Rule) >= 0.0301
+perl(File::Path)
+perl(File::Spec)
+perl(Module::Build) >= 0.28
+perl(Test::Builder::Tester)
+perl(Test::More)
+perl(autodie)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

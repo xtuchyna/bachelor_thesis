@@ -1,0 +1,10 @@
+desktop-file-utils
+gettext
+gtk2-devel
+libSM-devel
+libXt-devel
+libtool
+libxml2-devel
+oniguruma-devel
+openssl-devel
+sqlite-devel

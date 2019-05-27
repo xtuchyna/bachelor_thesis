@@ -1,0 +1,11 @@
+/usr/bin/mongod
+/usr/bin/redis-server
+ruby
+ruby(release)
+rubygem(activerecord)
+rubygem(moped)
+rubygem(redis)
+rubygem(rspec2)
+rubygem(sequel)
+rubygem(sqlite3)
+rubygems-devel

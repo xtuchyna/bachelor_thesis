@@ -1,0 +1,15 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Temp)
+perl(Getopt::Long)
+perl(HTML::Entities)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(base)
+perl(charnames)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

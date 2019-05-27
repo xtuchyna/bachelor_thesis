@@ -1,0 +1,11 @@
+chrpath
+ghc-Cabal-devel
+ghc-containers-devel
+ghc-deepseq-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-haskell-src-exts-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-setlocale-devel
+ghc-uniplate-devel

@@ -1,0 +1,5 @@
+dos2unix
+gcc-gfortran
+lhapdf-devel
+rsync
+zlib-devel

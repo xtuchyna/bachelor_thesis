@@ -1,0 +1,5 @@
+python2-devel
+python2-fedmsg-meta-fedora-infrastructure
+python2-nose
+python2-sqlalchemy
+statscache-common >= 0.0.2

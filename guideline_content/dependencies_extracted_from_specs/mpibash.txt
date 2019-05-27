@@ -1,0 +1,5 @@
+bash-devel >= 4.4
+libcircle-mpich-devel
+libcircle-openmpi-devel
+mpich-devel
+openmpi-devel

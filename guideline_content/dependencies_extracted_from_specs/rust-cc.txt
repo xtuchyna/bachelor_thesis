@@ -1,0 +1,5 @@
+(crate(rayon) >= 1.0.0 with crate(rayon) < 2.0.0)
+(crate(tempdir) >= 0.3.0 with crate(tempdir) < 0.4.0)
+/usr/bin/g++
+/usr/bin/gcc
+rust-packaging

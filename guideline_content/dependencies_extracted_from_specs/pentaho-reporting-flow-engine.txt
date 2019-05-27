@@ -1,0 +1,14 @@
+ant
+flute
+java-devel
+jpackage-utils
+libbase
+libfonts
+libformula
+liblayout
+libloader
+librepository
+libserializer
+pentaho-libxml
+sac
+xml-commons-apis

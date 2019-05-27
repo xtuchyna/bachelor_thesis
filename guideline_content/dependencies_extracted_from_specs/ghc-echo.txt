@@ -1,0 +1,3 @@
+ghc-Cabal-devel
+ghc-process-devel
+ghc-rpm-macros

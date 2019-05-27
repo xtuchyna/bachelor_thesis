@@ -1,0 +1,36 @@
+coreutils
+findutils
+gcc
+make
+perl(B)
+perl(B::Deparse)
+perl(Carp)
+perl(Config)
+perl(Data::Dumper)
+perl(Devel::Peek)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find)
+perl(File::Path)
+perl(Filter::Util::Call)
+perl(FindBin)
+perl(IO::File)
+perl(IO::Pipe)
+perl(Path::Class)
+perl(Scalar::Util)
+perl(Test::Builder)
+perl(Test::More) >= 0.88
+perl(Tie::Array)
+perl(Tie::Hash)
+perl(XSLoader)
+perl(base)
+perl(blib)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

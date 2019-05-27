@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(chalk)
+npm(grunt-cli)
+npm(grunt-contrib-nodeunit)
+npm(lodash)

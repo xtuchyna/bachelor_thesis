@@ -1,0 +1,6 @@
+redis
+ruby(release)
+rubygem(redis) < 4
+rubygem(redis) >= 3
+rubygem(rspec) >= 3
+rubygems-devel

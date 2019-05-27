@@ -1,0 +1,25 @@
+coreutils
+findutils
+gcc
+make
+perl(Capture::Tiny)
+perl(Config::AutoConf) >= 0.315
+perl(Exporter)
+perl(ExtUtils::CBuilder)
+perl(JSON::PP)
+perl(List::Util)
+perl(Math::Trig)
+perl(Storable)
+perl(Test::Builder::Module)
+perl(Test::LeakTrace)
+perl(Test::More) >= 0.96
+perl(Tie::Array)
+perl(XSLoader) >= 0.22
+perl(base)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

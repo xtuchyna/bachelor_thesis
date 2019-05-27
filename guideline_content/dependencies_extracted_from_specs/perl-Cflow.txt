@@ -1,0 +1,17 @@
+findutils
+flow-tools-devel
+gcc
+make
+perl(AutoLoader)
+perl(Carp)
+perl(Config)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(FindBin)
+perl(POSIX)
+perl(Socket)
+perl(strict)
+perl-devel
+perl-generators
+perl-interpreter

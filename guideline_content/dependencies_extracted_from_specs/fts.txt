@@ -1,0 +1,24 @@
+CGSI-gSOAP-devel
+activemq-cpp-devel
+boost-devel
+cajun-jsonapi-devel
+checkpolicy
+cmake
+cppzmq-devel
+doxygen
+gfal2-devel >= 2.14.2
+gfal2-plugin-mock
+glib2-devel
+globus-gsi-credential-devel
+gridsite-devel
+libcurl-devel
+libdirq-devel
+libuuid-devel
+openldap-devel
+protobuf-devel
+pugixml-devel
+selinux-policy-devel
+selinux-policy-doc
+soci-mysql-devel
+systemd
+voms-devel

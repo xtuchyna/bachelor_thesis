@@ -1,0 +1,17 @@
+desktop-file-utils
+gcc
+gcc-c++
+gettext
+intltool
+pkgconfig(glib-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(json-c)
+pkgconfig(lcms2)
+pkgconfig(libpng)
+pkgconfig(protobuf)
+pkgconfig(pygobject-3.0)
+pkgconfig(pygtk-2.0)
+python2-devel
+python2-numpy
+python2-scons >= 3.0
+swig

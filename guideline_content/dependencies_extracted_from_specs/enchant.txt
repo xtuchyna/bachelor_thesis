@@ -1,0 +1,6 @@
+aspell-devel
+automake
+glib2-devel >= 2.6.0
+hunspell-devel
+libtool
+libvoikko-devel

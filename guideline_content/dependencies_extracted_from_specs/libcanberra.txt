@@ -1,0 +1,11 @@
+alsa-lib-devel
+gettext-devel
+gstreamer1-devel
+gtk-doc
+gtk2-devel
+gtk3-devel
+libtdb-devel
+libtool-ltdl-devel
+libvorbis-devel
+pulseaudio-libs-devel >= 0.9.15
+systemd-devel

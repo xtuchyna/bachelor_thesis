@@ -1,0 +1,15 @@
+make
+perl(Carp)
+perl(Exporter::Tiny)
+perl(ExtUtils::MakeMaker)
+perl(Number::Range)
+perl(Test::More)
+perl(constant)
+perl(overload)
+perl(parent)
+perl(re)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

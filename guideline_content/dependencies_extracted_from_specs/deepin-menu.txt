@@ -1,0 +1,9 @@
+desktop-file-utils
+pkgconfig(Qt5)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Qml)
+pkgconfig(Qt5X11Extras)
+pkgconfig(dframeworkdbus)
+pkgconfig(dtkwidget) = 2.0
+python2-devel
+python2-setuptools

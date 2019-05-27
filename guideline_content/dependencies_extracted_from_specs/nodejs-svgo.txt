@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(js-yaml)
+npm(sax)
+npm(whet.extend)

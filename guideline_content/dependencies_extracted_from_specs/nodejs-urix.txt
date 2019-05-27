@@ -1,0 +1,3 @@
+dos2unix
+mocha
+nodejs-packaging

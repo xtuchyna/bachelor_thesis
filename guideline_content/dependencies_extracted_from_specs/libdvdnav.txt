@@ -1,0 +1,2 @@
+doxygen
+libdvdread-devel >= 5.0.2

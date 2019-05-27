@@ -1,0 +1,9 @@
+maven-local
+mvn(javax.xml.bind:jaxb-api)
+mvn(javax.xml.stream:stax-api)
+mvn(jaxen:jaxen)
+mvn(net.java.dev.msv:xsdlib)
+mvn(org.testng:testng)
+mvn(xalan:xalan)
+mvn(xerces:xercesImpl)
+mvn(xpp3:xpp3)

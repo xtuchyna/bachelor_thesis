@@ -1,0 +1,6 @@
+clutter-devel
+glib2-devel >= 2.16
+gobject-introspection-devel
+gtk-doc
+libtool
+rply-devel

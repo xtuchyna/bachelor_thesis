@@ -1,0 +1,12 @@
+python2-devel
+python2-nose >= 0.11
+python2-pyOpenSSL
+python2-setuptools
+python2-six >= 1.4.0
+python2-tempita
+python3-devel
+python3-nose
+python3-pyOpenSSL
+python3-setuptools
+python3-six >= 1.4.0
+python3-tempita

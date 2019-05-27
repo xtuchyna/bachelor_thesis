@@ -1,0 +1,20 @@
+OpenSceneGraph-devel >= 3.2.0
+SimGear-devel >= 2017.3.1
+boost-devel >= 1.44.0
+bzip2-devel
+cmake
+dbus-devel
+desktop-file-utils
+fltk-devel
+fltk-fluid
+freeglut-devel
+iaxclient-devel
+libXi-devel
+libXmu-devel
+libcurl-devel
+libpng-devel
+openal-soft-devel
+qt5-qtbase-devel
+qt5-qtdeclarative-devel
+sqlite-devel
+systemd-devel

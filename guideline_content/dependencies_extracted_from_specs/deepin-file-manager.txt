@@ -1,0 +1,26 @@
+deepin-dock-devel
+deepin-gettext-tools
+desktop-file-utils
+file-devel
+pkgconfig(Qt5Concurrent)
+pkgconfig(Qt5Core)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Multimedia)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5X11Extras)
+pkgconfig(atk)
+pkgconfig(dframeworkdbus)
+pkgconfig(dtkwidget) = 2.0
+pkgconfig(gsettings-qt)
+pkgconfig(gtk+-2.0)
+pkgconfig(libsecret-1)
+pkgconfig(polkit-agent-1)
+pkgconfig(polkit-qt5-1)
+pkgconfig(poppler-cpp)
+pkgconfig(taglib)
+pkgconfig(uchardet)
+pkgconfig(xcb-ewmh)
+pkgconfig(xcb-util)
+qt5-linguist
+qt5-qtbase-private-devel

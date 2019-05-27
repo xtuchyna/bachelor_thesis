@@ -1,0 +1,18 @@
+python-beautifulsoup
+python-cssselect
+python-devel
+python-lxml >= 2.1
+python-nose
+python-requests
+python-restkit
+python-setuptools
+python-webob
+python-webtest
+python3-cssselect
+python3-devel
+python3-lxml >= 2.1
+python3-nose
+python3-requests
+python3-setuptools
+python3-webob
+python3-webtest

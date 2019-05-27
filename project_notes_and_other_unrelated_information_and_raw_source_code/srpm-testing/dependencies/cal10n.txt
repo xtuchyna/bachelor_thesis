@@ -1,0 +1,9 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)
+mvn(org.apache.maven:maven-artifact)
+mvn(org.apache.maven:maven-artifact-manager)
+mvn(org.apache.maven:maven-plugin-api)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

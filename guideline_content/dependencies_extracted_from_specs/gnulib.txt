@@ -1,0 +1,9 @@
+bison
+gettext-devel
+git
+gperf
+help2man
+java-devel
+libtool
+perl-generators
+texinfo

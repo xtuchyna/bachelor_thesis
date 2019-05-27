@@ -1,0 +1,17 @@
+make
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IO::Socket::INET)
+perl(MIME::Base64)
+perl(Symbol)
+perl(Test)
+perl(Test::More)
+perl(base)
+perl(overload)
+perl(strict)
+perl(subs)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

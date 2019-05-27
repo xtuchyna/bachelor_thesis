@@ -1,0 +1,7 @@
+cmake
+dumb-devel
+flac-devel
+fluidsynth-devel
+libsndfile-devel
+libvorbis-devel
+openal-soft-devel

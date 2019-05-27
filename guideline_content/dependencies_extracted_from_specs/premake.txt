@@ -1,0 +1,2 @@
+compat-lua-devel
+readline-devel

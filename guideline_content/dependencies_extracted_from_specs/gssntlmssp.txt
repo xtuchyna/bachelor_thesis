@@ -1,0 +1,14 @@
+autoconf
+automake
+docbook-style-xsl
+doxygen
+gettext-devel
+krb5-devel >= 1.11.2
+libtool
+libunistring-devel
+libxml2
+libxslt
+m4
+openssl-devel
+pkgconfig
+pkgconfig(wbclient)

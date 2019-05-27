@@ -1,0 +1,15 @@
+anthy-devel
+autoconf
+automake
+fontconfig-devel
+freetype-devel
+fribidi-devel
+gd-devel
+gettext-devel
+libXaw-devel
+libXft-devel
+libotf-devel
+libthai-devel
+libtool
+libxml2-devel
+m17n-db-devel

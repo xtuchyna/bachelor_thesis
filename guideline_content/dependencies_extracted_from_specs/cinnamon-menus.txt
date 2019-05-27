@@ -1,0 +1,5 @@
+glib2-devel
+gnome-common
+gobject-introspection-devel
+intltool
+python3

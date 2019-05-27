@@ -1,0 +1,4 @@
+/usr/bin/phpunit
+php(language) >= %{php_min_ver}
+php(language) >= 5.3.3
+php-fedora-autoloader-devel

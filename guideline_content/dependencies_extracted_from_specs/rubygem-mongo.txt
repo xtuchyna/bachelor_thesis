@@ -1,0 +1,6 @@
+/usr/bin/mongod
+ruby
+ruby(release)
+rubygem(bson) >= 4.3.0
+rubygem(rspec)
+rubygems-devel

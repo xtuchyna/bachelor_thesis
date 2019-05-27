@@ -1,0 +1,30 @@
+alsa-lib-devel
+avahi-devel
+dbus-devel
+emacs
+flac-devel
+gcc
+gcc-c++
+gmp-devel
+gstreamer-devel
+gstreamer-plugins-base-devel
+indent
+java-devel
+jpackage-utils
+libatomic_ops-devel
+libphidget-devel
+libunistring-devel
+libuv-devel
+mpg123-devel
+openssl-devel
+pcre-devel
+pkgconfig
+pulseaudio-libs-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+sqlite-devel
+texi2html
+texinfo-tex
+xemacs
+xemacs-packages-extra
+zip

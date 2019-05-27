@@ -1,0 +1,14 @@
+ghc-Cabal-devel
+ghc-binary-devel
+ghc-bytestring-devel
+ghc-containers-devel
+ghc-deepseq-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-hxt-charproperties-devel
+ghc-hxt-regex-xmlschema-devel
+ghc-hxt-unicode-devel
+ghc-mtl-devel
+ghc-network-uri-devel
+ghc-parsec-devel
+ghc-rpm-macros

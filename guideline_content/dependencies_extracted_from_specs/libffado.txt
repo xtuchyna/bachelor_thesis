@@ -1,0 +1,17 @@
+alsa-lib-devel
+dbus-c++-devel
+dbus-devel
+dbus-python
+desktop-file-utils
+doxygen
+glibmm24-devel
+graphviz
+libconfig-devel
+libiec61883-devel
+libraw1394-devel
+libxml++-devel
+pkgconfig
+python2-PyQt5-devel
+python2-devel
+scons
+subversion

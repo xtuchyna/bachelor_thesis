@@ -1,0 +1,6 @@
+python2-devel
+python2-pip
+python3-devel
+python3-flit
+python3-pip
+python3-sphinx

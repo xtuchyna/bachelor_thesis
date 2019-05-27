@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(generic-pool)
+npm(mapnik)
+npm(tape)
+npm(xtend)

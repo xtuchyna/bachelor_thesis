@@ -1,0 +1,6 @@
+rubygem(diff-lcs)
+rubygem(minitest) >= 5
+rubygem(multi_json)
+rubygem(sass)
+rubygem(timecop)
+rubygems-devel

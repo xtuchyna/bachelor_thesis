@@ -1,0 +1,10 @@
+findutils
+make
+perl(Benchmark)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(Parse::RecDescent)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

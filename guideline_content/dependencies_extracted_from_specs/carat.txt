@@ -1,0 +1,4 @@
+gcc
+gmp-devel
+tex(epic.sty)
+tex(latex)

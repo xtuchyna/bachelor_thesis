@@ -1,0 +1,20 @@
+PackageKit-glib-devel
+cairo-devel
+desktop-file-utils
+gettext
+glib2-devel
+gnome-online-accounts-devel
+gtk3-devel
+intltool
+itstool
+libappstream-glib
+libgpg-error-devel
+libnotify-devel
+libpeas-devel
+libsecret-devel
+libtool
+meson
+nautilus-devel
+pango-devel
+vala-devel >= 0.36
+yelp-tools

@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(AutoLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Math::BigInt)
+perl(Sys::Hostname)
+perl(Test)
+perl(Time::HiRes)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

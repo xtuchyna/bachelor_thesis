@@ -1,0 +1,7 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

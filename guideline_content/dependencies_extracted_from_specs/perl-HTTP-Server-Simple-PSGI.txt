@@ -1,0 +1,4 @@
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Server::Simple) >= 0.42
+perl(Test::More)
+perl-generators

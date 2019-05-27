@@ -1,0 +1,8 @@
+caja-devel
+dblatex
+libSM-devel
+libgtop2-devel
+libuuid-devel
+libxml2-devel
+mate-common
+yelp-tools

@@ -1,0 +1,9 @@
+maven-local
+mvn(args4j:args4j)
+mvn(com.sun.codemodel:codemodel)
+mvn(com.sun.xsom:xsom)
+mvn(javax.xml.stream:stax-api)
+mvn(junit:junit)
+mvn(org.apache.ant:ant)
+mvn(org.kohsuke.rngom:rngom)
+mvn(relaxngDatatype:relaxngDatatype)

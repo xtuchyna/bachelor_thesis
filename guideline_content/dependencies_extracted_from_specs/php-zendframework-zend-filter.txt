@@ -1,0 +1,15 @@
+/usr/bin/phpunit6
+php(language) >= 5.5
+php-autoloader(pear/archive_tar) >= 1.4
+php-autoloader(zendframework/zend-crypt) >= 2.5
+php-autoloader(zendframework/zend-servicemanager) >= 2.5
+php-autoloader(zendframework/zend-stdlib) >= 2.7
+php-autoloader(zendframework/zend-uri) >= 2.5
+php-date
+php-fedora-autoloader-devel
+php-iconv
+php-mbstring
+php-mcrypt
+php-pcre
+php-spl
+php-zip

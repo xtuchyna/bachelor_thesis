@@ -1,0 +1,25 @@
+alsa-lib-devel
+aubio-devel
+boost-devel
+cwiid-devel
+desktop-file-utils
+fftw-devel
+gettext >= 0.11.5
+gtkmm24-devel >= 2.8
+jack-audio-connection-kit-devel
+libcurl-devel
+libgnomecanvas-devel
+libgnomecanvasmm26-devel >= 2.12
+liblo-devel
+liblrdf-devel >= 0.3.1
+libsamplerate-devel >= 0.0.13
+libsndfile-devel >= 1.0.18
+libtool
+libusb-devel
+libxslt-devel
+lilv-devel
+pkgconfig
+redhat-rpm-config
+scons
+soundtouch-devel
+suil-devel

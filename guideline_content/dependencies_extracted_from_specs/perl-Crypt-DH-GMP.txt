@@ -1,0 +1,16 @@
+findutils
+gmp-devel
+make
+perl(Crypt::DH)
+perl(Math::BigInt::GMP)
+perl(Module::Install::AuthorTests)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Module::Install::XSUtil)
+perl(Test::More)
+perl(Test::Requires)
+perl(XSLoader)
+perl(inc::Module::Install)
+perl-devel
+perl-generators
+perl-interpreter

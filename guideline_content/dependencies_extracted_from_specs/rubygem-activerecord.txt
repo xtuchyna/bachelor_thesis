@@ -1,0 +1,12 @@
+/usr/bin/sqlite3
+rubygem(activemodel) = 5.1.5
+rubygem(activesupport) = 5.1.5
+rubygem(arel) < 9.0.0
+rubygem(arel) >= 8.0.0
+rubygem(bcrypt)
+rubygem(builder)
+rubygem(erubis)
+rubygem(mocha)
+rubygem(rack)
+rubygem(sqlite3)
+rubygems-devel

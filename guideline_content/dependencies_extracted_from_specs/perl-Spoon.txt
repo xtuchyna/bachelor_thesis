@@ -1,0 +1,29 @@
+coreutils
+make
+perl(CGI)
+perl(Carp)
+perl(Config)
+perl(DB_File)
+perl(Encode)
+perl(File::Path)
+perl(File::Spec)
+perl(IO::All) >= 0.32
+perl(Module::Install::Makefile)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Scalar::Util)
+perl(Spiffy) >= 0.24
+perl(Storable)
+perl(Template) >= 2.10
+perl(Test::Memory::Cycle)
+perl(Test::More)
+perl(Time::HiRes)
+perl(URI::Escape)
+perl(base)
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,21 @@
+perl(Any::Moose) >= 0.15
+perl(Carp)
+perl(FindBin)
+perl(Module::Install::AuthorTests)
+perl(Module::Install::Metadata)
+perl(Module::Install::Repository)
+perl(Module::Install::WriteAll)
+perl(Mouse) >= 0.77
+perl(Mouse::Exporter)
+perl(Mouse::Util::TypeConstraints)
+perl(Scalar::Util)
+perl(Sub::Exporter)
+perl(Test::Exception)
+perl(Test::More)
+perl(base)
+perl(constant)
+perl(inc::Module::Install)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators

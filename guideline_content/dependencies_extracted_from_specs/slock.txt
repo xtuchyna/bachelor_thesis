@@ -1,0 +1,8 @@
+coreutils
+gcc
+libX11-devel
+libXrandr-devel
+libxcrypt-devel
+make
+sed
+xorg-x11-proto-devel

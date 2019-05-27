@@ -1,0 +1,6 @@
+autoconf
+automake
+gcc
+kernel-headers >= 2.6.16
+libsysfs-devel
+libtool

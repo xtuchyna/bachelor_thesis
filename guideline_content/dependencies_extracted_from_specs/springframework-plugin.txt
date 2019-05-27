@@ -1,0 +1,12 @@
+maven-local
+mvn(ch.qos.logback:logback-classic)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.hamcrest:hamcrest-library)
+mvn(org.mockito:mockito-all)
+mvn(org.slf4j:jcl-over-slf4j)
+mvn(org.slf4j:slf4j-api)
+mvn(org.springframework:spring-aop)
+mvn(org.springframework:spring-beans)
+mvn(org.springframework:spring-context)
+mvn(org.springframework:spring-test)

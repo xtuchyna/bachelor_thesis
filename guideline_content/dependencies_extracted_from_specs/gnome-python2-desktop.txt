@@ -1,0 +1,19 @@
+GConf2-devel >= 2.10.0
+autoconf
+automake
+glib2-devel >= 2.6.0
+gnome-desktop-devel >= 2.10.0
+gnome-keyring-devel >= 0.5.0
+gnome-python2-bonobo >= 2.10.0
+gnome-python2-canvas >= 2.10.0
+gnome-python2-devel >= 2.10.0
+gnome-python2-gconf >= 2.10.0
+gtk2-devel >= 2.4.0
+libgnomeui-devel
+libgtop2-devel >= 2.13.0
+librsvg2-devel >= 2.13.93
+libtool
+libwnck-devel >= 2.19.3
+pygtk2-devel >= 2.10.3
+python2-devel
+totem-pl-parser-devel >= 1.4.0

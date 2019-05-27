@@ -1,0 +1,4 @@
+globus-common-devel >= 15
+globus-gass-transfer-devel >= 7
+globus-gss-assist-devel >= 8
+globus-gssapi-gsi-devel >= 10

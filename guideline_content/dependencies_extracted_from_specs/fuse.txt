@@ -1,0 +1,8 @@
+autoconf
+automake
+gettext-devel
+libselinux-devel
+libtool
+meson
+ninja-build
+systemd-udev

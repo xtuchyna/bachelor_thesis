@@ -1,0 +1,7 @@
+c-ares-devel
+libuuid-devel
+libwebsockets-devel
+openssl-devel
+systemd
+tcp_wrappers-libs
+uthash-devel

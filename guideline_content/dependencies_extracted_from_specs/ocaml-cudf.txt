@@ -1,0 +1,7 @@
+/usr/bin/pod2man
+ocaml
+ocaml-extlib-devel
+ocaml-findlib-devel
+ocaml-ocamlbuild
+ocaml-ocamldoc
+ocaml-ounit-devel

@@ -1,0 +1,4 @@
+SDL-devel
+SDL_image-devel
+desktop-file-utils
+gtk2-devel

@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(uglify-js)
+npm(underscore)
+web-assets-devel

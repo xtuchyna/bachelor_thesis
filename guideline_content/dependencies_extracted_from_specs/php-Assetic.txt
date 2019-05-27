@@ -1,0 +1,34 @@
+libjpeg-turbo-utils
+npm(clean-css)
+npm(handlebars)
+npm(typescript)
+optipng
+php(language) >= 5.3.1
+php-composer(fedora/autoloader)
+php-composer(leafo/lessphp) < 1.0
+php-composer(leafo/lessphp) >= 0.3.7
+php-composer(leafo/scssphp) < 1.0
+php-composer(leafo/scssphp) >= 0.1.6
+php-composer(patchwork/jsqueeze) < 3.0
+php-composer(patchwork/jsqueeze) >= 1.0
+php-composer(phpunit/phpunit)
+php-composer(psr/log) < 2.0
+php-composer(psr/log) >= 1.0.1
+php-composer(symfony/process) < 4.0
+php-composer(symfony/process) >= 2.7.1
+php-composer(twig/twig) < 3.0
+php-composer(twig/twig) >= 1.27
+php-ctype
+php-curl
+php-date
+php-fileinfo
+php-hash
+php-json
+php-pcre
+php-reflection
+php-simplexml
+php-spl
+php-tokenizer
+rubygem(compass)
+rubygem(sass)
+rubygem(sprockets)

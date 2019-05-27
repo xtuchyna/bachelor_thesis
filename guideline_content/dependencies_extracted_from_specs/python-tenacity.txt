@@ -1,0 +1,13 @@
+python-futures >= 3.0
+python-monotonic >= 0.6
+python-pbr
+python-setuptools
+python-six >= 1.9.0
+python-tools
+python2-devel
+python3-devel
+python3-monotonic >= 0.6
+python3-pbr
+python3-setuptools
+python3-six >= 1.9.0
+python3-tools

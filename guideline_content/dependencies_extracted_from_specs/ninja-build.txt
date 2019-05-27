@@ -1,0 +1,5 @@
+asciidoc
+gcc-c++
+gtest-devel
+python3-devel
+re2c >= 0.11.3

@@ -1,0 +1,6 @@
+gawk
+ocaml >= 3.12.1-3
+ocaml-findlib-devel
+ocaml-ocamlbuild
+ocaml-ocamldoc
+pcre-devel

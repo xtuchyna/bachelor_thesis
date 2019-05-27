@@ -1,0 +1,3 @@
+SDL-devel
+SDL_mixer-devel
+desktop-file-utils

@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Tk)
+perl(Tk::Adjuster)
+perl(Tk::HList)
+perl(Tk::ROText)
+perl-generators

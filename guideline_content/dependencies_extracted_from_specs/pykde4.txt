@@ -1,0 +1,12 @@
+PyQt4-devel >= 4.9.5
+PyQt4-webkit-devel
+kdelibs4-devel >= 4.14
+pkgconfig(QtWebKit)
+pkgconfig(qimageblitz)
+pkgconfig(soprano)
+python2-devel
+python3-PyQt4-devel >= 4.9.5
+python3-devel
+python3-sip-devel >= 4.14
+qscintilla-devel >= 2.4
+sip-devel >= 4.14

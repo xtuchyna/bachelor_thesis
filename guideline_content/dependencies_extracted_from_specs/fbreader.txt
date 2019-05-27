@@ -1,0 +1,10 @@
+bzip2-devel
+desktop-file-utils
+expat-devel
+fribidi-devel
+gtk2-devel
+libcurl-devel
+libjpeg-devel
+liblinebreak-devel
+qt4-devel
+sqlite-devel

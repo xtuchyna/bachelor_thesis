@@ -1,0 +1,5 @@
+afflib-devel
+autoconf
+automake
+fuse-devel
+libewf-devel

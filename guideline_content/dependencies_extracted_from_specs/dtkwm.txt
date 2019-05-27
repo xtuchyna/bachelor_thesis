@@ -1,0 +1,13 @@
+pkgconfig(Qt5Core)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Widgets)
+pkgconfig(Qt5X11Extras)
+pkgconfig(dtkcore)
+pkgconfig(libudev)
+pkgconfig(x11)
+pkgconfig(xcb)
+pkgconfig(xcb-util)
+pkgconfig(xext)
+pkgconfig(xrender)
+qt5-qtbase-static

@@ -1,0 +1,8 @@
+git
+glib2-devel
+gobject-introspection-devel
+gtk-doc
+intltool
+polkit-devel
+systemd
+systemd-devel

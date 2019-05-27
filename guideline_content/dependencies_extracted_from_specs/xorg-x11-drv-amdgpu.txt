@@ -1,0 +1,13 @@
+autoconf
+automake
+kernel-headers
+libdrm-devel
+libtool
+libudev-devel
+mesa-libGL-devel
+mesa-libgbm-devel
+pkgconfig
+python
+xorg-x11-glamor-devel
+xorg-x11-server-devel
+xorg-x11-util-macros

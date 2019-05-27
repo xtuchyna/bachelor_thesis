@@ -1,0 +1,7 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.08
+perl(Time::Local)
+perl-generators

@@ -1,0 +1,7 @@
+boost-devel
+cmake
+doxygen
+gromacs-devel
+perl-generators
+txt2tags
+votca-tools-devel = 1.4.1

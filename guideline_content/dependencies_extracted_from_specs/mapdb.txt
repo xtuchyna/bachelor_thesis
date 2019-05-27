@@ -1,0 +1,5 @@
+javapackages-tools >= 4.3.2-3
+maven-local
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.sonatype.oss:oss-parent:pom:)

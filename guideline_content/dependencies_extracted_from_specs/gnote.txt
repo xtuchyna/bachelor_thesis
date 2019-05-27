@@ -1,0 +1,13 @@
+boost-devel
+desktop-file-utils
+gcc-c++
+gettext
+gtkmm30-devel
+gtkspell3-devel
+intltool
+itstool
+libsecret-devel
+libuuid-devel
+libxml2-devel
+libxslt-devel
+pcre-devel

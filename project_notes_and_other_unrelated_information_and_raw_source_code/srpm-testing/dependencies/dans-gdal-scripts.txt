@@ -1,0 +1,9 @@
+autoconf
+automake
+boost-devel
+gcc-c++
+gdal-devel
+netpbm-progs
+proj-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

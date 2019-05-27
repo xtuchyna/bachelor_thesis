@@ -1,0 +1,4 @@
+desktop-file-utils
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Quick)

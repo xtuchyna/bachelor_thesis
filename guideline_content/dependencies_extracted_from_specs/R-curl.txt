@@ -1,0 +1,6 @@
+R-devel
+R-httpuv
+R-jsonlite
+R-testthat
+pkgconfig(libcurl)
+tex(latex)

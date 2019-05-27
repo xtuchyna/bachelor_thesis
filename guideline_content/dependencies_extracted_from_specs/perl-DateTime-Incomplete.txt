@@ -1,0 +1,18 @@
+coreutils
+findutils
+make
+perl(DateTime)
+perl(DateTime::Event::Recurrence)
+perl(DateTime::Locale)
+perl(DateTime::Set) >= 0.1401
+perl(ExtUtils::MakeMaker)
+perl(Params::Validate)
+perl(Test::More)
+perl(constant)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

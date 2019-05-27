@@ -1,0 +1,14 @@
+alsa-lib-devel
+desktop-file-utils
+fftw-devel
+gettext-devel
+jack-audio-connection-kit-devel
+libappstream-glib
+liblo-devel
+libsamplerate-devel
+libsigc++20-devel
+libsndfile-devel
+libxml2-devel
+ncurses-devel
+rubberband-devel
+wxGTK-devel

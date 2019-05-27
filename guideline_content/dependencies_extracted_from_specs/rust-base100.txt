@@ -1,0 +1,2 @@
+(crate(clap) >= 2.19.0 with crate(clap) < 3.0.0 with crate(clap/yaml))
+rust-packaging

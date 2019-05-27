@@ -1,0 +1,3 @@
+nodejs-packaging
+npm(cross-spawn-async)
+npm(signal-exit)

@@ -1,0 +1,7 @@
+autoconf
+automake
+flex
+help2man
+ncurses-devel
+readline-devel
+texinfo

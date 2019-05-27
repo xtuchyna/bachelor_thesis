@@ -1,0 +1,12 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(Test::More) >= 0.47
+perl(Time::Piece) >= 1.03
+perl(Time::Seconds)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

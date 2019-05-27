@@ -1,0 +1,16 @@
+pyflakes >= 1.5.0
+python-enum34
+python-setuptools
+python2-configparser
+python2-devel
+python2-mccabe >= 0.6.0
+python2-mock
+python2-pycodestyle >= 2.0.0
+python2-pytest-runner
+python3-devel
+python3-mccabe >= 0.6.0
+python3-mock
+python3-pycodestyle >= 2.0.0
+python3-pyflakes >= 1.5.0
+python3-pytest-runner
+python3-setuptools

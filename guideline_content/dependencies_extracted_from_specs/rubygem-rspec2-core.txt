@@ -1,0 +1,8 @@
+ruby(release)
+rubygem(ZenTest)
+rubygem(aruba)
+rubygem(nokogiri)
+rubygem(rake)
+rubygem(rspec2)
+rubygem(rspec2-expectations)
+rubygems-devel

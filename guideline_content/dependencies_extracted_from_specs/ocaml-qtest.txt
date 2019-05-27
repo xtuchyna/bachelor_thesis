@@ -1,0 +1,6 @@
+help2man
+ocaml
+ocaml-findlib
+ocaml-ocamlbuild
+ocaml-ounit >= 2.0.0
+ocaml-qcheck >= 0.5

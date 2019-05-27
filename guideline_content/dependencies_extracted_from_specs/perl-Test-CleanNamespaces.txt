@@ -1,0 +1,46 @@
+coreutils
+findutils
+make
+perl(CPAN::Meta) >= 2.120900
+perl(CPAN::Meta::Prereqs)
+perl(CPAN::Meta::Requirements) >= 2.120620
+perl(Class::MOP::Class)
+perl(Exporter) >= 5.57
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::pushd)
+perl(Module::Metadata)
+perl(Module::Runtime)
+perl(Moo) >= 1.000007
+perl(Moo::Role)
+perl(Moose)
+perl(Moose::Exporter)
+perl(Moose::Role)
+perl(MooseX::Role::Parameterized)
+perl(Mouse)
+perl(Mouse::Role)
+perl(Package::Stash) >= 0.14
+perl(Package::Stash::XS)
+perl(Role::Tiny) >= 1.003000
+perl(Scalar::Util)
+perl(Sub::Exporter)
+perl(Sub::Identify)
+perl(Test::Builder)
+perl(Test::Deep)
+perl(Test::More) >= 0.94
+perl(Test::Needs)
+perl(Test::Tester)
+perl(Test::Warnings) >= 0.009
+perl(constant)
+perl(if)
+perl(lib)
+perl(metaclass)
+perl(namespace::clean)
+perl(overload)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

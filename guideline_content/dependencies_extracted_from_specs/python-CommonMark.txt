@@ -1,0 +1,6 @@
+python2-devel
+python2-future
+python2-hypothesis
+python3-devel
+python3-future
+python3-hypothesis

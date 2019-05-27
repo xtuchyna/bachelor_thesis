@@ -1,0 +1,6 @@
+freexl-devel
+geos-devel
+libxml2-devel
+proj-devel
+sqlite-devel
+zlib-devel

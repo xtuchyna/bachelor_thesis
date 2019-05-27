@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext
+gtk2-devel
+intltool
+libxml2-devel

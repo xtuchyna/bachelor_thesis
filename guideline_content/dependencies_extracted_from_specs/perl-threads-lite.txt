@@ -1,0 +1,22 @@
+findutils
+perl(Carp)
+perl(Config)
+perl(Exporter) >= 5.57
+perl(ExtUtils::CBuilder)
+perl(Module::Build)
+perl(Scalar::Util)
+perl(Storable) >= 2.05
+perl(Test::Differences)
+perl(Test::Exception)
+perl(Test::More)
+perl(Time::HiRes)
+perl(XSLoader)
+perl(constant)
+perl(experimental) >= 0.003
+perl(feature)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

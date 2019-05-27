@@ -1,0 +1,6 @@
+autoconf
+automake
+bison
+flex
+libtool
+perl-XML-LibXML

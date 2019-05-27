@@ -1,0 +1,9 @@
+jbuilder
+libev-devel
+ocaml
+ocaml-camomile-devel
+ocaml-findlib-devel
+ocaml-lwt-devel
+ocaml-react-devel
+ocaml-zed-devel
+opam-installer

@@ -1,0 +1,13 @@
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(HTTP::Request)
+perl(IO::Socket::SSL)
+perl(LWP::Protocol)
+perl(LWP::Protocol::https)
+perl(LWP::UserAgent)
+perl(Test::More)
+perl(URI::http)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

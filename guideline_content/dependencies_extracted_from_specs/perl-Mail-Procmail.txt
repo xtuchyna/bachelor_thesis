@@ -1,0 +1,8 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(LockFile::Simple)
+perl(Mail::Internet)
+perl(Test::More)
+perl(constant)
+perl-generators

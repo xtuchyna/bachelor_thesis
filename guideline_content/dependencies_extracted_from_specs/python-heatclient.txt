@@ -1,0 +1,9 @@
+git
+python-openstackdocstheme
+python-pbr
+python-setuptools
+python-sphinx
+python2-devel
+python3-devel
+python3-pbr
+python3-setuptools

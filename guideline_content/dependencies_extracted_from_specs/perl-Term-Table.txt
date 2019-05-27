@@ -1,0 +1,19 @@
+make
+perl(:VERSION) >= 5.8.1
+perl(Carp)
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Importer) >= 0.024
+perl(List::Util)
+perl(Scalar::Util)
+perl(Term::Size::Any) >= 0.002
+perl(Test2::API)
+perl(Test2::Tools::Tiny) >= 1.302097
+perl(Test::More)
+perl(Unicode::GCString) >= 2013.10
+perl(base)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,4 @@
+chrpath
+desktop-file-utils
+gtk2-devel
+libXtst-devel

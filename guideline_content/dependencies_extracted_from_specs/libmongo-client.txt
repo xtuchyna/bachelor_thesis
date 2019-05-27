@@ -1,0 +1,6 @@
+autoconf
+automake
+doxygen
+glib2-devel
+graphviz
+libtool

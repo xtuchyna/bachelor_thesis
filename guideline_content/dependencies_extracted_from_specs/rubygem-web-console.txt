@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(actionview) >= 5.0.0
+rubygem(activemodel) >= 5.0.0
+rubygem(bindex)
+rubygem(mocha)
+rubygem(railties) >= 5.0.0
+rubygems-devel

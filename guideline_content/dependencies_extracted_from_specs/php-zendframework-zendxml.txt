@@ -1,0 +1,8 @@
+php(language) >= 5.3.3
+php-composer(phpunit/phpunit) >= 3.7
+php-dom
+php-fedora-autoloader-devel
+php-libxml
+php-pcre
+php-simplexml
+php-spl

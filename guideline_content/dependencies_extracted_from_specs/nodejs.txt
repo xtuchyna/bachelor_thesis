@@ -1,0 +1,10 @@
+(openssl-devel <= 1:1.1.0 or compat-openssl10-devel)
+gcc >= 4.9.4
+gcc-c++ >= 4.9.4
+http-parser-devel >= 2.7.0
+libicu-devel
+libnghttp2-devel >= 1.25.0
+libuv-devel >= 1:1.9.1
+python2-devel
+systemtap-sdt-devel
+zlib-devel

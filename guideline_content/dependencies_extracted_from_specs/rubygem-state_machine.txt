@@ -1,0 +1,4 @@
+graphviz-ruby
+ruby-irb
+rubygem-rake
+rubygems-devel

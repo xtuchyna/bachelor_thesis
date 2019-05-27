@@ -1,0 +1,17 @@
+autoconf
+byacc
+cyrus-sasl-devel
+db4-devel
+e2fsprogs-devel
+flex
+krb5-devel
+openssl-devel
+pam-devel
+perl(ExtUtils::Embed)
+perl(GD)
+perl(MIME::Parser)
+perl-devel
+perl-generators
+perl-interpreter
+python
+systemd

@@ -1,0 +1,9 @@
+/usr/sbin/sendmail
+gcc
+gnupg2
+perl(ExtUtils::Embed)
+perl(ExtUtils::MakeMaker)
+perl-devel
+perl-generators
+sendmail-milter-devel >= 8.12.0
+systemd

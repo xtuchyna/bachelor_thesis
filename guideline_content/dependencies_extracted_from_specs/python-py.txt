@@ -1,0 +1,6 @@
+/usr/bin/sphinx-build-2
+/usr/bin/sphinx-build-3
+python2-devel
+python2-setuptools
+python3-devel
+python3-setuptools

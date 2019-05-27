@@ -1,0 +1,15 @@
+coreutils
+findutils
+perl(Carp)
+perl(Module::Build)
+perl(SVG) >= 2.0
+perl(Test)
+perl(XML::Parser)
+perl(XML::SAX)
+perl(XML::SAX::Base)
+perl(base)
+perl(constant)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

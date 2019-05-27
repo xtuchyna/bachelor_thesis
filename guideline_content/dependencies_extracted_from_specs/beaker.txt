@@ -1,0 +1,15 @@
+libxslt-python
+pkgconfig(bash-completion)
+pkgconfig(systemd)
+python-docutils >= 0.6
+python-krbV
+python-lxml
+python-mock
+python-nose >= 0.10
+python-prettytable
+python-requests
+python-setuptools
+python-sphinx >= 1.0
+python-sphinxcontrib-httpdomain
+python-unittest2
+python2-devel

@@ -1,0 +1,13 @@
+erlang-erlsom
+erlang-erts
+erlang-kernel
+erlang-mnesia
+erlang-sasl
+erlang-ssl
+erlang-stdlib
+latex2html
+pam-devel
+systemd-units
+tex(dvips)
+tex(latex)
+tex-epstopdf

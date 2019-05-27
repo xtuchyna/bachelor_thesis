@@ -1,0 +1,9 @@
+ImageMagick
+autoconf
+automake
+doxygen
+graphviz
+libstdc++-devel
+libtool
+pkgconfig(cppunit)
+zlib-devel

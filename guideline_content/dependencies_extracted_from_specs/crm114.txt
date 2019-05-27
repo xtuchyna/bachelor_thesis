@@ -1,0 +1,3 @@
+emacs
+tre-devel >= 0.8.0
+words

@@ -1,0 +1,16 @@
+emacs
+python-docutils
+python-setuptools
+python2-devel
+texlive-amsfonts
+texlive-cm
+texlive-cmap
+texlive-courier
+texlive-dvips
+texlive-ec
+texlive-latex-bin-bin
+texlive-metafont-bin
+texlive-pdftex-def
+texlive-pslatex
+texlive-texconfig
+texlive-times

@@ -1,0 +1,8 @@
+autoconf
+automake
+desktop-file-utils
+gtkmm24-devel
+intltool
+jack-audio-connection-kit-devel
+libtool
+libxml++-devel

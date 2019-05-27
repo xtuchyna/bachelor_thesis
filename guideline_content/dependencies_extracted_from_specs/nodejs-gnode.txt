@@ -1,0 +1,6 @@
+mocha
+nodejs-packaging
+npm(co)
+npm(regenerator)
+npm(semver)
+npm(suspend)

@@ -1,0 +1,11 @@
+boost-devel
+doxygen
+glm-devel
+gperf
+help2man
+pkgconfig(cppunit)
+pkgconfig(liblangtag)
+pkgconfig(librevenge-0.0)
+pkgconfig(libxml-2.0)
+pkgconfig(mdds-1.2)
+pkgconfig(zlib)

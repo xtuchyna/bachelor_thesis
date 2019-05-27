@@ -1,0 +1,14 @@
+Cython
+gcc
+numpy
+python-numpydoc
+python-sphinx
+python2-devel
+python2-nose
+python3-Cython
+python3-devel
+python3-nose
+python3-numpy
+python3-numpydoc
+python3-sphinx
+xorg-x11-server-Xvfb

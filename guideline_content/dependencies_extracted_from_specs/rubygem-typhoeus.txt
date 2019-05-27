@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(ethon) >= 0.7.0
+rubygem(faraday)
+rubygem(rack)
+rubygem(rspec)
+rubygem(sinatra)
+rubygems-devel

@@ -1,0 +1,13 @@
+cmake >= 2.6.0
+doxygen
+gettext
+glib2-devel
+gpgme-devel
+libgcrypt-devel
+libmicrohttpd-devel
+libxslt-devel
+openvas-libraries-devel >= 7.0
+python
+python-polib
+systemd
+xmltoman

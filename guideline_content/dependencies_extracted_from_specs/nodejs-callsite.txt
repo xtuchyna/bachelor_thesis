@@ -1,0 +1,3 @@
+nodejs-devel
+npm(mocha)
+npm(should)

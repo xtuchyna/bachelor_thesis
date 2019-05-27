@@ -1,0 +1,28 @@
+OpenEXR-devel
+SDL-devel
+asciidoc
+babl-devel >= 0.1.10
+cairo-devel
+enscript
+exiv2-devel
+gcc
+gcc-c++
+gdk-pixbuf2-devel >= 2.18.0
+glib2-devel >= 2.28.0
+graphviz
+gtk2-devel >= 2.18.0
+intltool >= 0.40.1
+jasper-devel >= 1.900.1
+lensfun-devel >= 0.2.5
+libjpeg-devel
+libopenraw-devel >= 0.0.5
+libpng-devel
+librsvg2-devel >= 2.14.0
+libspiro-devel
+libv4l-devel
+lua-devel >= 5.1.0
+pango-devel
+perl-devel
+pkgconfig
+rubygems
+suitesparse-devel

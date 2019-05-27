@@ -1,0 +1,5 @@
+java-devel
+kdelibs4-devel >= 4.14.3
+python-devel
+ruby
+ruby-devel

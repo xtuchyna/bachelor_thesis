@@ -1,0 +1,13 @@
+make
+perl(Crypt::PBKDF2) >= 0.161520
+perl(Digest::base)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Scalar::Util) >= 1.49
+perl(Test::Exception) >= 0.43
+perl(Test::More) >= 1.302120
+perl(lib)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

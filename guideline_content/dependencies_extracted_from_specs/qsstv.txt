@@ -1,0 +1,11 @@
+alsa-lib-devel
+desktop-file-utils
+doxygen
+fftw-devel
+gcc-c++
+hamlib-devel
+libv4l-devel
+openjpeg-devel
+openjpeg2-devel
+pulseaudio-libs-devel
+qt5-qtbase-devel

@@ -1,0 +1,4 @@
+/usr/bin/sphinx-build
+maven-local
+mvn(junit:junit)
+mvn(org.sonatype.oss:oss-parent:pom:)

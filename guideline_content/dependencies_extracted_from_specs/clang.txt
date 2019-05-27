@@ -1,0 +1,14 @@
+cmake
+emacs
+libstdc++-static
+libxml2-devel
+llvm-devel = 6.0.0
+llvm-static = 6.0.0
+ncurses-devel
+perl-generators
+python2-lit
+python2-virtualenv
+python3-lit
+python3-sphinx
+tcl
+zlib-devel

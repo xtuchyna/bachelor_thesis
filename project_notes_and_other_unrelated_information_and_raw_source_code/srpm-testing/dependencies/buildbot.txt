@@ -1,0 +1,20 @@
+python3-devel
+python3-setuptools
+python3dist(autobahn) >= 0.16.0
+python3dist(boto3)
+python3dist(future)
+python3dist(jinja2) >= 2.1
+python3dist(lz4)
+python3dist(mock) >= 2.0.0
+python3dist(pyjwt)
+python3dist(python-dateutil) >= 1.5
+python3dist(pyyaml)
+python3dist(setuptools) >= 21.2.1
+python3dist(sqlalchemy) >= 0.8.0
+python3dist(sqlalchemy-migrate) >= 0.9
+python3dist(treq)
+python3dist(twisted) >= 17.9.0
+python3dist(txaio) >= 2.2.2
+python3dist(zope.interface) >= 4.1.1
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

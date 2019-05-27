@@ -1,0 +1,7 @@
+cmdtest
+python-cliapp
+python-coverage-test-runner
+python-crypto
+python-pep8
+python-ttystatus
+python2-markdown

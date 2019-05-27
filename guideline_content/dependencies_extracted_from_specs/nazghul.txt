@@ -1,0 +1,8 @@
+SDL_image-devel
+SDL_mixer-devel
+autoconf
+automake
+desktop-file-utils
+gcc-c++
+libpng-devel
+xcftools

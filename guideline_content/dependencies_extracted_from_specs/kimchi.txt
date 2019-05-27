@@ -1,0 +1,7 @@
+autoconf
+automake
+gettext-devel
+libxslt
+python2-devel
+python2-lxml
+systemd-units

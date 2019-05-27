@@ -1,0 +1,4 @@
+gcc
+libuuid-devel
+valgrind-devel
+zlib-devel

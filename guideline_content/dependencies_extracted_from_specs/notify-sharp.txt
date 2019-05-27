@@ -1,0 +1,8 @@
+autoconf
+automake
+dbus-sharp-glib-devel
+gnome-sharp-devel
+gtk-sharp2-devel
+libtool
+mono-devel
+monodoc-devel

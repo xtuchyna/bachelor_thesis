@@ -1,0 +1,6 @@
+ant
+itext-core
+java-devel
+javapackages-local
+svgsalamander
+xml-commons-apis

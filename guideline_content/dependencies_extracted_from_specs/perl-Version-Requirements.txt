@@ -1,0 +1,12 @@
+perl(CPAN::Meta) >= 2.120900
+perl(CPAN::Meta::Prereqs)
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Scalar::Util)
+perl(Test::More) >= 0.88
+perl(strict)
+perl(version) >= 0.77
+perl(warnings)
+perl-generators
+perl-interpreter

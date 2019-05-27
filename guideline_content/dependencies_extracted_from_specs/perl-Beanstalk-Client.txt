@@ -1,0 +1,10 @@
+perl(Carp)
+perl(Class::Accessor::Fast)
+perl(IO::Socket::INET)
+perl(Socket)
+perl(Test::More)
+perl(YAML::Syck)
+perl(base)
+perl(inc::Module::Install)
+perl(version)
+perl-generators

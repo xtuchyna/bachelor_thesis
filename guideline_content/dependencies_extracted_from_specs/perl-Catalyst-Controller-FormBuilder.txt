@@ -1,0 +1,34 @@
+findutils
+make
+perl(CGI::FormBuilder) >= 3.02
+perl(CGI::FormBuilder::Source::File)
+perl(CGI::FormBuilder::Util)
+perl(Catalyst)
+perl(Catalyst::Action)
+perl(Catalyst::Controller)
+perl(Catalyst::Runtime) >= 5.7
+perl(Catalyst::View)
+perl(Catalyst::View::HTML::Template)
+perl(Catalyst::View::Mason)
+perl(Catalyst::View::TT)
+perl(Class::Data::Inheritable) >= 0.04
+perl(Class::Inspector) >= 1.13
+perl(File::Spec)
+perl(FindBin)
+perl(MRO::Compat) >= 0.09
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Scalar::Util) >= 1.19
+perl(Test::More)
+perl(Test::WWW::Mechanize::Catalyst) >= 0.37
+perl(Tie::IxHash) >= 1.21
+perl(base)
+perl(inc::Module::Install) >= 0.87
+perl(lib)
+perl(mro)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

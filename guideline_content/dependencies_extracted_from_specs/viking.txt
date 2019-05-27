@@ -1,0 +1,15 @@
+bzip2-devel
+desktop-file-utils
+expat-devel
+file-devel
+gdk-pixbuf2-devel
+gettext
+gnome-doc-utils
+gpsd-devel
+gtk-doc
+gtk2-devel
+intltool
+libcurl-devel
+libexif-devel
+libgexiv2-devel
+sqlite-devel

@@ -1,0 +1,8 @@
+maven-compiler-plugin
+maven-install-plugin
+maven-jar-plugin
+maven-javadoc-plugin
+maven-local
+maven-release-plugin
+maven-resources-plugin
+maven-surefire-plugin

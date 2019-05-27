@@ -1,0 +1,12 @@
+alsa-lib-devel
+dbus-devel
+doxygen
+expat-devel
+libffado-devel
+libsamplerate-devel
+libsndfile-devel
+ncurses-devel
+opus-devel
+pkgconfig
+python2
+readline-devel

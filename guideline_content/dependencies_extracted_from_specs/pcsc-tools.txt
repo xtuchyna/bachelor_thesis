@@ -1,0 +1,4 @@
+desktop-file-utils
+gcc
+pcsc-lite-devel >= 1.2.9
+perl-generators

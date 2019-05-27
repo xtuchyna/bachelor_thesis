@@ -1,0 +1,8 @@
+asciidoc
+gcc
+gettext
+libappstream-glib
+libxcb-devel
+pkgconfig(libdrm)
+pkgconfig(ncurses)
+pkgconfig(pciaccess)

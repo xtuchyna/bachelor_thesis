@@ -1,0 +1,5 @@
+automake
+doxygen
+libhbaapi-devel
+libsysfs-devel
+sg3_utils-devel

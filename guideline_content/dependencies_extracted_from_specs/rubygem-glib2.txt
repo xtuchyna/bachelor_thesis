@@ -1,0 +1,8 @@
+/usr/bin/ruby-mri
+glib2-devel
+ruby(release)
+ruby-devel
+rubygem(native-package-installer)
+rubygem(pkg-config)
+rubygem(test-unit)
+rubygems-devel

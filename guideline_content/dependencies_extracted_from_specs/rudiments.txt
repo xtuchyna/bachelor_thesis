@@ -1,0 +1,5 @@
+krb5-devel
+libcurl-devel
+libedit-devel
+openssl-devel
+pcre-devel

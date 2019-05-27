@@ -1,0 +1,4 @@
+automake
+gettext-devel
+libtool
+pidgin-devel

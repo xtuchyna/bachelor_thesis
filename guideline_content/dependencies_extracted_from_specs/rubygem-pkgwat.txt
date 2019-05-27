@@ -1,0 +1,6 @@
+ruby(release)
+rubygem(minitest)
+rubygem(sanitize)
+rubygem(vcr)
+rubygem(webmock)
+rubygems-devel

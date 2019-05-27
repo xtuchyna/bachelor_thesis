@@ -1,0 +1,12 @@
+make
+perl(AutoLoader)
+perl(Carp)
+perl(Crypt::CBC) >= 1.22
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More) >= 0.47
+perl(Test::Taint)
+perl(integer)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

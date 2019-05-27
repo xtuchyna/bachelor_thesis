@@ -1,0 +1,13 @@
+extra-cmake-modules >= 5.44.0
+kf5-kconfig-devel >= 5.44.0
+kf5-kcrash-devel >= 5.44.0
+kf5-kdoctools-devel >= 5.44.0
+kf5-ki18n-devel >= 5.44.0
+kf5-kio-devel >= 5.44.0
+kf5-kservice-devel >= 5.44.0
+kf5-kwindowsystem-devel >= 5.44.0
+kf5-rpm-macros
+pkgconfig(libcap)
+pkgconfig(x11)
+pkgconfig(xcb)
+qt5-qtbase-devel

@@ -1,0 +1,6 @@
+maven-local
+mvn(commons-logging:commons-logging)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.jboss.spec.javax.management.j2ee:jboss-j2eemgmt-api_1.1_spec)

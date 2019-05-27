@@ -1,0 +1,9 @@
+procps-ng
+redis
+ruby(release)
+rubygem(minitest)
+rubygem(rack-test)
+rubygem(resque) < 2
+rubygem(resque) >= 1.0
+rubygem(timecop)
+rubygems-devel

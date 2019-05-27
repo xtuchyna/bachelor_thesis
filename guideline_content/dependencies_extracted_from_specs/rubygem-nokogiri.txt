@@ -1,0 +1,8 @@
+libxml2-devel
+libxslt-devel
+ruby(release)
+ruby(rubygems)
+ruby-devel
+rubygem(minitest)
+rubygem(pkg-config)
+rubygems-devel

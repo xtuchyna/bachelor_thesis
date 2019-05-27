@@ -1,0 +1,3 @@
+SDL-devel
+SDL_ttf-devel
+jack-audio-connection-kit-devel

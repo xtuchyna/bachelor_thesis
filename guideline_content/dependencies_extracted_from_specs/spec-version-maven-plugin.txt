@@ -1,0 +1,10 @@
+maven-local
+maven-plugin-build-helper
+maven-plugin-plugin
+mvn(junit:junit)
+mvn(net.java:jvnet-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven:maven-core)
+mvn(org.apache.maven:maven-model)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.codehaus.plexus:plexus-resources)

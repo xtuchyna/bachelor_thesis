@@ -1,0 +1,9 @@
+autoconf
+automake
+gtk-doc
+gtk2-devel
+gtk3-devel
+libX11-devel
+libtool
+python2-devel
+systemd

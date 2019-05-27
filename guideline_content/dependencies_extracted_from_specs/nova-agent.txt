@@ -1,0 +1,7 @@
+python3-crypto
+python3-devel
+python3-netifaces
+python3-nose
+python3-pyxs
+python3-setuptools
+systemd

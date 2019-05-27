@@ -1,0 +1,5 @@
+coffee-script
+nodejs-packaging
+npm(docco)
+npm(expect.js)
+npm(mocha)

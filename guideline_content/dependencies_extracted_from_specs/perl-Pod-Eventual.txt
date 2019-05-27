@@ -1,0 +1,9 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(Mixin::Linewise::Readers) >= 0.102
+perl(Test::Deep)
+perl(Test::More) >= 0.88
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

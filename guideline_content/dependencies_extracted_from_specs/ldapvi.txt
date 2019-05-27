@@ -1,0 +1,9 @@
+gcc
+glib2-devel
+libxslt
+ncurses-devel
+openldap-devel
+openssl-devel
+pkgconfig
+popt-devel
+readline-devel

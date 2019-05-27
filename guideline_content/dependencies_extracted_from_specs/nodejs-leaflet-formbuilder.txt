@@ -1,0 +1,2 @@
+nodejs-packaging
+web-assets-devel

@@ -1,0 +1,4 @@
+cmake >= 3.2.0
+doxygen
+gcc-c++
+pkgconfig(Qt5Network)

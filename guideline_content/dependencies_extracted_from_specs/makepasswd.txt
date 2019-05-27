@@ -1,0 +1,3 @@
+docbook-style-xsl
+libxslt
+openssl-devel

@@ -1,0 +1,16 @@
+autoconf
+automake
+boost-devel
+doxygen
+gd-devel
+libtool
+libtool-ltdl-devel
+libusb-devel
+libxml2-devel
+perl(ExtUtils::MakeMaker)
+perl-devel
+perl-generators
+pkgconfig
+python2-devel
+swig
+tcl-devel

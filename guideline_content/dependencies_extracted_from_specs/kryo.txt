@@ -1,0 +1,7 @@
+maven-local
+mvn(com.esotericsoftware:minlog)
+mvn(com.esotericsoftware:reflectasm)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.objenesis:objenesis)
+mvn(org.sonatype.oss:oss-parent:pom:)

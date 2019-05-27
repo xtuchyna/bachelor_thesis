@@ -1,0 +1,32 @@
+nodejs
+php(language) >= 5.3.3
+php-composer(doctrine/cache) < 2.0
+php-composer(doctrine/cache) >= 1.4.3
+php-composer(fedora/autoloader)
+php-composer(monolog/monolog) < 2.0
+php-composer(monolog/monolog) >= 1.15.0
+php-composer(phpunit/phpunit)
+php-composer(psr/log) < 2.0
+php-composer(psr/log) >= 1.0.1
+php-composer(symfony/class-loader) < 3.0
+php-composer(symfony/class-loader) >= 2.7.1
+php-composer(symfony/event-dispatcher) < 3.0
+php-composer(symfony/event-dispatcher) >= 2.7.1
+php-composer(zendframework/zend-cache) < 3
+php-composer(zendframework/zend-cache) >= 2.4.7
+php-composer(zendframework/zend-log) < 3
+php-composer(zendframework/zend-log) >= 2.4.7
+php-ctype
+php-curl
+php-date
+php-filter
+php-hash
+php-intl
+php-json
+php-libxml
+php-pcre
+php-reflection
+php-simplexml
+php-spl
+php-xmlwriter
+php-zlib

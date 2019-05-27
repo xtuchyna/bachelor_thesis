@@ -1,0 +1,4 @@
+cmake
+gcc
+gzip
+make

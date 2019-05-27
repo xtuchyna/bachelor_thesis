@@ -1,0 +1,3 @@
+pkgconfig(libudev)
+qt5-qtbase-devel >= 5.10.1
+qt5-qtbase-private-devel

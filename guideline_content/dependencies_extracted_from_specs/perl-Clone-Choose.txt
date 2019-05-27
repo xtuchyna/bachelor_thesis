@@ -1,0 +1,6 @@
+perl(Clone)
+perl(Clone::PP)
+perl(ExtUtils::MakeMaker)
+perl(Storable)
+perl(Test::More)
+perl-generators

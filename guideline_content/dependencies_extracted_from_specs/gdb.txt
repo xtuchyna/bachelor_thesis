@@ -1,0 +1,20 @@
+/usr/bin/pod2man
+bison
+expat-devel
+flex
+gcc-c++
+gettext
+guile-devel
+libbabeltrace-devel
+libipt-devel
+libselinux-devel
+ncurses-devel
+python3-devel
+readline-devel >= 6.2-4
+rpm-devel
+rpm-libs
+texinfo
+texinfo-tex
+texlive-collection-latexrecommended
+xz-devel
+zlib-devel

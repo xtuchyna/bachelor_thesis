@@ -1,0 +1,4 @@
+bc
+doxygen
+gcc-gfortran
+openblas-devel

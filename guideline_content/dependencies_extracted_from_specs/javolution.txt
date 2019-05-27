@@ -1,0 +1,7 @@
+java-devel
+junit
+maven-local
+maven-resources-plugin
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.maven.plugins:maven-antrun-plugin)
+mvn(org.apache.maven.plugins:maven-source-plugin)

@@ -1,0 +1,16 @@
+boost-devel
+desktop-file-utils
+extra-cmake-modules
+kdiagram-devel
+kf5-kconfigwidgets-devel
+kf5-kcoreaddons-devel
+kf5-ki18n-devel
+kf5-kio-devel
+kf5-kitemmodels-devel
+kf5-threadweaver-devel
+libdwarf-devel
+libunwind-devel
+pkgconfig(zlib)
+qt5-qtbase-devel
+qt5-qtsvg-devel
+sparsehash-devel

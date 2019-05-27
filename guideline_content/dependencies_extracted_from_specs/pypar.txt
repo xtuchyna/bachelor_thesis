@@ -1,0 +1,5 @@
+mpich-devel
+numpy
+openmpi-devel
+python-devel
+python-setuptools

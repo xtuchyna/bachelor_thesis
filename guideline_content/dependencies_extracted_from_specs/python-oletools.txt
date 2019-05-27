@@ -1,0 +1,13 @@
+python2-colorclass
+python2-devel
+python2-easygui
+python2-olefile
+python2-prettytable
+python2-pymilter
+python2-pyparsing
+python3-colorclass
+python3-devel
+python3-easygui
+python3-olefile
+python3-prettytable
+python3-pyparsing

@@ -1,0 +1,10 @@
+appdata-tools
+cairo-devel
+cmake
+desktop-file-utils
+jack-audio-connection-kit-devel
+libappstream-glib
+liblo-devel
+libsamplerate-devel
+libsndfile-devel
+non-ntk-devel

@@ -1,0 +1,3 @@
+glib2-devel >= 2.31.0
+gobject-introspection-devel
+intltool

@@ -1,0 +1,37 @@
+autoconf
+automake
+glib2-devel
+intltool
+libtool
+mingw32-binutils
+mingw32-celt051
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-gstreamer1
+mingw32-gstreamer1-plugins-base
+mingw32-gtk3 >= 2.91.3
+mingw32-libjpeg-turbo
+mingw32-libusbx >= 1.0.21
+mingw32-openssl
+mingw32-opus
+mingw32-pixman
+mingw32-spice-protocol >= 0.12.11
+mingw32-usbredir
+mingw32-zlib
+mingw64-binutils
+mingw64-celt051
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-gstreamer1
+mingw64-gstreamer1-plugins-base
+mingw64-gtk3 >= 2.91.3
+mingw64-libjpeg-turbo
+mingw64-libusbx >= 1.0.21
+mingw64-openssl
+mingw64-opus
+mingw64-pixman
+mingw64-spice-protocol >= 0.12.11
+mingw64-usbredir
+mingw64-zlib
+pyparsing
+python-six

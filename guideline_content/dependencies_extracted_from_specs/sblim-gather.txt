@@ -1,0 +1,6 @@
+cmake
+libsysfs-devel
+libvirt-devel
+sblim-cmpi-base-devel
+sblim-cmpi-devel
+xmlto

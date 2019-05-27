@@ -1,0 +1,8 @@
+cmake
+desktop-file-utils
+dos2unix
+gettext
+git
+python3-devel
+python3-pytest
+python3-uranium = 3.2.1

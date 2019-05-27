@@ -1,0 +1,9 @@
+autoconf
+automake
+keyutils-libs-devel
+krb5-devel
+libcap-ng-devel
+libtalloc-devel
+libwbclient-devel
+pam-devel
+python2-docutils

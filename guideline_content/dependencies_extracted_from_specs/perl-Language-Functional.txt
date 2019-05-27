@@ -1,0 +1,7 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Tie::Array)
+perl-generators

@@ -1,0 +1,14 @@
+autoconf
+automake
+docbook-dtds
+docbook-style-xsl
+gcc
+glib2-devel
+libnet-devel
+libxslt
+perl-generators
+perl-interpreter
+perl-podlators
+pkgconfig
+python-devel
+which

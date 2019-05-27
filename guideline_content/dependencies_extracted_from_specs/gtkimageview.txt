@@ -1,0 +1,4 @@
+glib2-devel
+gtk-doc >= 1.0
+gtk2-devel >= 2.8.0
+pkgconfig

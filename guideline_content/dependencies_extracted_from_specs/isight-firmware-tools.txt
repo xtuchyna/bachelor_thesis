@@ -1,0 +1,6 @@
+gettext
+glib2-devel
+intltool
+libgcrypt-devel
+libusb-devel
+perl(XML::Parser)

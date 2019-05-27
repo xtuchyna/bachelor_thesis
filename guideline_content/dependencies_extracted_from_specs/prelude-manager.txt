@@ -1,0 +1,8 @@
+libgcrypt-devel
+libgpg-error-devel
+libpreludedb-devel >= 4.0.0
+pkgconfig(gnutls)
+pkgconfig(libprelude) >= 4.0.0
+pkgconfig(libxml-2.0)
+systemd
+valgrind

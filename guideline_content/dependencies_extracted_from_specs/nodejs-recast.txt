@@ -1,0 +1,7 @@
+nodejs-packaging >= 6
+npm(ast-types)
+npm(cls)
+npm(esprima-fb)
+npm(mocha)
+npm(private)
+npm(source-map)

@@ -1,0 +1,22 @@
+ImageMagick
+SimplyHTML
+ant
+apache-commons-lang
+avalon-framework
+batik
+bcel
+desktop-file-utils
+fop
+gnu-regexp
+groovy-lib
+java >= 1:1.6.0
+javahelp2
+javapackages-local
+jgoodies-forms >= 1.6.0
+jibx
+jmapviewer
+jortho
+junit
+log4j
+xerces-j2
+xpp3

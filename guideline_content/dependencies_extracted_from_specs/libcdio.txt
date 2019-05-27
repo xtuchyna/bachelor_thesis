@@ -1,0 +1,6 @@
+chrpath
+doxygen
+gettext-devel
+help2man
+ncurses-devel
+pkgconfig

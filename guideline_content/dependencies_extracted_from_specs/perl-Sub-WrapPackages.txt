@@ -1,0 +1,10 @@
+perl(Data::Dumper)
+perl(Devel::Caller::IgnoreNamespaces)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Hook::LexWrap)
+perl(Sub::Prototype)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(base)
+perl-generators

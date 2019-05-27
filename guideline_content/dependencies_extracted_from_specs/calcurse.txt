@@ -1,0 +1,5 @@
+asciidoc
+autoconf
+automake
+gettext-devel
+ncurses-devel

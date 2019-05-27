@@ -1,0 +1,11 @@
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(HTML::FormatText::WithLinks)
+perl(HTML::TreeBuilder)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

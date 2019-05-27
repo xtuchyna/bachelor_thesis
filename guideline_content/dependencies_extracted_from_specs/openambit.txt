@@ -1,0 +1,12 @@
+cmake
+desktop-file-utils
+gcc-c++
+hidapi-devel
+libappstream-glib
+make
+python
+qt5-qtbase-devel
+qt5-qttools-devel
+systemd-devel
+wireshark-devel
+zlib-devel

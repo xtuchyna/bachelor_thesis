@@ -1,0 +1,5 @@
+R-devel = 3.4.4
+numpy
+python3-devel
+python3-setuptools
+readline-devel

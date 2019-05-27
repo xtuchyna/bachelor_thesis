@@ -1,0 +1,9 @@
+ant
+aqute-bnd
+java-javadoc
+javapackages-local
+mvn(com.beust:jcommander)
+mvn(log4j:log4j:1.2.17)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-log4j12)
+mvn(org.testng:testng)

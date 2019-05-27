@@ -1,0 +1,3 @@
+(crate(custom_derive) >= 0.1.1 with crate(custom_derive) < 0.2.0)
+(crate(rustc_version) >= 0.2.0 with crate(rustc_version) < 0.3.0)
+rust-packaging

@@ -1,0 +1,35 @@
+/usr/bin/make
+/usr/bin/perl
+/usr/bin/start_server
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.59
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Temp)
+perl(HTTP::Date)
+perl(HTTP::Status)
+perl(IO::Socket::INET)
+perl(LWP::UserAgent) >= 5.8
+perl(List::Util)
+perl(Module::Install::ReadmeFromPod)
+perl(Net::EmptyPort)
+perl(POSIX)
+perl(Parallel::Prefork) >= 0.17
+perl(Plack) >= 0.992
+perl(Plack::HTTPParser)
+perl(Plack::Loader)
+perl(Plack::TempBuffer)
+perl(Plack::Test)
+perl(Plack::Util)
+perl(Server::Starter) >= 0.06
+perl(Socket)
+perl(Test::More) >= 0.88
+perl(Test::TCP) >= 2.1
+perl(Time::HiRes)
+perl(Try::Tiny)
+perl(base)
+perl(constant)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators

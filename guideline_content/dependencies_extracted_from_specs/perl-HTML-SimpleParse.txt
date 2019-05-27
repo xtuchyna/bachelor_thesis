@@ -1,0 +1,9 @@
+coreutils
+findutils
+perl(Carp)
+perl(Module::Build)
+perl(Test)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

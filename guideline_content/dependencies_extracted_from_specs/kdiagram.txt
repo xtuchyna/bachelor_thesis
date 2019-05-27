@@ -1,0 +1,10 @@
+cmake
+cmake(Qt5Gui)
+cmake(Qt5Help)
+cmake(Qt5PrintSupport)
+cmake(Qt5Sql)
+cmake(Qt5Svg)
+cmake(Qt5Test)
+extra-cmake-modules
+kf5-rpm-macros
+xorg-x11-server-Xvfb

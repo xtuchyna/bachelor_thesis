@@ -1,0 +1,4 @@
+gcc
+php-devel > 7
+php-pear
+php-pecl-apcu-devel >= 5.1.2

@@ -1,0 +1,16 @@
+what is better file naming?
+
+when I name everything like eg:
+coding_01_fashion
+coding_02_reviews
+coding_03_abc
+
+or:
+fashion_coding01
+reviews_coding02
+abc_coding03
+
+the pro in the second one is that autocompletion with tab is faster, the pro in the first one is that i can see clearly the ordering by name
+
+in summary:
+how to be consistent in naming directories and files?

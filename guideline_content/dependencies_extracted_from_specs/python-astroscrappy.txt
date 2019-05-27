@@ -1,0 +1,8 @@
+python2-Cython
+python2-astropy
+python2-astropy-helpers
+python2-devel
+python3-Cython
+python3-astropy
+python3-astropy-helpers
+python3-devel

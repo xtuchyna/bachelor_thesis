@@ -1,0 +1,8 @@
+autoconf
+automake
+desktop-file-utils
+gcc
+gcc-c++
+gettext
+libtool
+wxGTK3-devel

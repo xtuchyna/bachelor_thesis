@@ -1,0 +1,6 @@
+cmake >= 2.6
+openscap-devel >= 1.2.11
+openscap-utils >= 1.2.11
+openssh-clients
+qt-devel >= 4.0.0
+util-linux

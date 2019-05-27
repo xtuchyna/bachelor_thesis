@@ -1,0 +1,8 @@
+python-oslo-sphinx
+python-pbr
+python-sphinx
+python2-devel
+python3-devel
+python3-oslo-sphinx
+python3-pbr
+python3-sphinx

@@ -1,0 +1,7 @@
+gcc
+libX11-devel
+libXext-devel
+libXpm-devel
+make
+perl-generators
+sed

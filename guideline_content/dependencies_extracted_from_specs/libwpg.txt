@@ -1,0 +1,6 @@
+doxygen
+help2man
+perl(Getopt::Std)
+perl-generators
+pkgconfig(librevenge-0.0)
+pkgconfig(libwpd-0.10)

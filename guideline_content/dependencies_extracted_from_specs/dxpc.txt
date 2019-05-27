@@ -1,0 +1,2 @@
+libXt-devel
+lzo-devel >= 1.08

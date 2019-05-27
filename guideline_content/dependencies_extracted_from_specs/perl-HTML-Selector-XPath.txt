@@ -1,0 +1,13 @@
+/usr/bin/make
+/usr/bin/perl
+perl(Carp)
+perl(Exporter)
+perl(File::Slurp)
+perl(HTML::TreeBuilder::XPath)
+perl(Test::Base)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(inc::Module::Install)
+perl(strict)
+perl-generators
+perl-interpreter >= 1:5.8.1

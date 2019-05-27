@@ -1,0 +1,5 @@
+perl(Regexp::Common)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators

@@ -1,0 +1,5 @@
+eclipse-license
+eclipse-pde
+eclipse-remote
+tycho
+tycho-extras

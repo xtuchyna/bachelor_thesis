@@ -1,0 +1,5 @@
+cyrus-sasl-devel
+gcc-c++
+nspr-devel >= 4.6
+nss-devel >= 3.11
+svrcore-devel >= 4.0.3

@@ -1,0 +1,9 @@
+expat-devel
+giflib-devel
+glib2-devel
+libXScrnSaver-devel
+libXt-devel
+libjpeg-devel
+libtiff-devel
+netpbm-devel
+pango-devel

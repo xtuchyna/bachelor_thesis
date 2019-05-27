@@ -1,0 +1,33 @@
+apr-devel >= 1.3.0
+apr-util-devel >= 1.3.0
+apr-util-openssl
+autoconf
+cyrus-sasl-devel
+dbus-devel
+file-devel
+gettext
+httpd-devel >= 2.0.45
+java-devel-openjdk
+junit
+kdelibs-devel >= 4.0.0
+libdb-devel >= 4.1.25
+libgnome-keyring-devel
+libserf-devel >= 1.3.0
+libtool
+perl(ExtUtils::Embed)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl-devel >= 2:5.8.0
+perl-generators
+python2
+python2-devel
+ruby >= 1.9.1
+ruby-devel >= 1.9.1
+rubygem(test-unit)
+sqlite-devel >= 3.4.0
+swig >= 1.3.24
+systemd-units
+texinfo
+unzip
+which
+zip

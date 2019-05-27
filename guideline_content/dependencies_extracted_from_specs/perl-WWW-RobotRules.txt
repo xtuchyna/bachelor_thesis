@@ -1,0 +1,6 @@
+perl(AnyDBM_File)
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(URI) >= 1.10
+perl-generators

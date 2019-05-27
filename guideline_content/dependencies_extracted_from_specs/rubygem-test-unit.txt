@@ -1,0 +1,4 @@
+ruby(release)
+rubygem(power_assert)
+rubygems
+rubygems-devel

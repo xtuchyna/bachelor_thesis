@@ -1,0 +1,13 @@
+asciidoc
+boost-devel
+cmake
+compat-wxGTK3-gtk2-devel
+dblatex
+desktop-file-utils
+doxygen
+glew-devel
+libappstream-glib
+libcurl-devel
+perl(Unicode::GCString)
+pkgconfig(openssl)
+po4a

@@ -1,0 +1,13 @@
+SDL-devel
+compat-tolua++-devel
+desktop-file-utils
+gcc
+gcc-c++
+libGL-devel
+libappstream-glib
+libpng-devel
+libtheora-devel
+libvorbis-devel
+python3-scons
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

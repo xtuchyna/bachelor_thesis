@@ -1,0 +1,14 @@
+atlas-devel
+blas-devel
+bzip2-devel
+coin-or-Cgl-devel
+coin-or-Clp-devel
+coin-or-CoinUtils-devel
+coin-or-Osi-devel
+coin-or-Vol-devel
+glpk-devel
+graphviz
+lapack-devel
+pkgconfig
+readline-devel
+zlib-devel

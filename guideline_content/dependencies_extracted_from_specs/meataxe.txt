@@ -1,0 +1,3 @@
+doxygen-latex
+gcc
+ghostscript-core

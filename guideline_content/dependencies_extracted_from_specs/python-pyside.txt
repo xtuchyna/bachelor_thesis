@@ -1,0 +1,11 @@
+cmake
+generatorrunner-devel
+phonon-devel
+python2-devel
+python3-devel
+qt4-devel
+qt4-webkit-devel
+shiboken-python2-devel >= 1.2.0
+shiboken-python3-devel >= 1.2.0
+xorg-x11-server-Xvfb
+xorg-x11-xauth

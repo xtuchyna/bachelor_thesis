@@ -1,0 +1,14 @@
+/usr/bin/make
+/usr/bin/perl
+perl(CGI::Cookie)
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(HTTP::Message::PSGI)
+perl(Test::More)
+perl(Test::WWW::Mechanize)
+perl(Try::Tiny)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators

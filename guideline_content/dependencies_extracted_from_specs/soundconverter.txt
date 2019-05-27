@@ -1,0 +1,9 @@
+desktop-file-utils
+gettext
+glib2-devel
+gstreamer1
+gtk3-devel
+intltool
+libappstream-glib
+python3-devel
+python3-gobject-base

@@ -1,0 +1,9 @@
+/usr/bin/appstream-util
+/usr/bin/gjs
+desktop-file-utils
+gstreamer1-plugins-base
+gstreamer1-plugins-good
+intltool
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(gstreamer-1.0)
+pkgconfig(gtk+-3.0)

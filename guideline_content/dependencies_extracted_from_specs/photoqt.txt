@@ -1,0 +1,12 @@
+GraphicsMagick-c++-devel
+LibRaw-devel
+cmake
+desktop-file-utils
+libappstream-glib
+phonon-qt5-devel
+pkgconfig(exiv2)
+qt5-qtbase-devel
+qt5-qtmultimedia-devel
+qt5-qtsvg-devel
+qt5-qttools-devel
+zlib-devel

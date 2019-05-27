@@ -1,0 +1,10 @@
+/usr/bin/cucumber
+ruby
+ruby(release)
+rubygem(asciidoctor)
+rubygem(diff_dirs) >= 0.1.2
+rubygem(git)
+rubygem(sitemap_generator)
+rubygem(tilt)
+rubygem(trollop) >= 2.1.2
+rubygems-devel

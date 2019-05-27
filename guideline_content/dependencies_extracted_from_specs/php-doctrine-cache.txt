@@ -1,0 +1,9 @@
+php(language) >= 7.1
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-date
+php-hash
+php-pecl(igbinary)
+php-reflection
+php-spl
+php-sqlite3

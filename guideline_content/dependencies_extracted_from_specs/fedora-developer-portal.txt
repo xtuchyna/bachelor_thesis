@@ -1,0 +1,25 @@
+desktop-file-utils
+git-core
+libxml2-devel
+libxslt-devel
+nodejs
+procps-ng
+python-feedparser
+ruby-devel
+rubygem(addressable) >= 2.4
+rubygem(bigdecimal)
+rubygem(colorator)
+rubygem(execjs)
+rubygem(jekyll-sass-converter)
+rubygem(jekyll-watch)
+rubygem(json)
+rubygem(kramdown)
+rubygem(mercenary)
+rubygem(nokogiri)
+rubygem(pathutil)
+rubygem(rdoc)
+rubygem(ref)
+rubygem(rouge)
+rubygem(safe_yaml)
+wget
+zlib-devel

@@ -1,0 +1,5 @@
+nodejs-packaging
+npm
+npm(is-object)
+npm(merge-descriptors) >= 1.0.0
+npm(tape)

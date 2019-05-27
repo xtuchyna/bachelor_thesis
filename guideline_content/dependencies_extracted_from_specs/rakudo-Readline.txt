@@ -1,0 +1,1 @@
+rakudo >= %rakudo_rpm_version

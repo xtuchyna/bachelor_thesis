@@ -1,0 +1,15 @@
+make
+perl(Carp)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IO::File)
+perl(Storable)
+perl(Test::Inter)
+perl(Test::More)
+perl(integer)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

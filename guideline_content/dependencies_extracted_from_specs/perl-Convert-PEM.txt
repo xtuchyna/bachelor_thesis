@@ -1,0 +1,26 @@
+coreutils
+make
+perl(Carp)
+perl(Class::ErrorHandler)
+perl(Config)
+perl(Convert::ASN1) >= 0.10
+perl(Crypt::DES_EDE3)
+perl(Cwd)
+perl(Digest::MD5)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(MIME::Base64)
+perl(Math::BigInt)
+perl(Test::Exception)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,6 @@
+bison
+flex
+libftdi-devel
+python2-devel
+python3-devel
+swig

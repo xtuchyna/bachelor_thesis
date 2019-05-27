@@ -1,0 +1,18 @@
+coreutils
+findutils
+make
+perl(CPAN::Meta) >= 2.120900
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(MRO::Compat) >= 0.09
+perl(Sub::Exporter) >= 0.979
+perl(Test::FailWarnings)
+perl(Test::More) >= 0.96
+perl(Test::Pod) >= 1.41
+perl(base)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

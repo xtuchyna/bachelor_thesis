@@ -1,0 +1,26 @@
+coreutils
+findutils
+make
+perl(CPAN::Meta) >= 2.120900
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::File)
+perl(Test::More) >= 0.88
+perl(base)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(version) >= 0.87
+perl(warnings)
+perl-generators
+perl-interpreter

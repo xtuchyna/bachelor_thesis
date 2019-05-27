@@ -1,0 +1,6 @@
+ShellCheck
+autoconf
+bash
+bash-completion
+coreutils
+make

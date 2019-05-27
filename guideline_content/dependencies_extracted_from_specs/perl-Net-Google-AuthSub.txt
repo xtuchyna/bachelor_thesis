@@ -1,0 +1,5 @@
+perl(LWP::UserAgent)
+perl(Module::Build)
+perl(Test::More) >= 0.62
+perl(URI)
+perl-generators

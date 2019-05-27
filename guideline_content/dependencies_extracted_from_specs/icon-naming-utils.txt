@@ -1,0 +1,3 @@
+automake
+perl(XML::Simple)
+perl-generators

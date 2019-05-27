@@ -1,0 +1,9 @@
+ghc-Cabal-devel
+ghc-HUnit-devel
+ghc-QuickCheck-devel
+ghc-call-stack-devel
+ghc-hspec-core-devel
+ghc-hspec-discover-devel
+ghc-hspec-expectations-devel
+ghc-rpm-macros
+ghc-transformers-devel

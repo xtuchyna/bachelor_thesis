@@ -1,0 +1,10 @@
+autoconf
+automake
+avr-binutils >= 1:2.23
+flex
+gawk
+gettext-devel
+gmp-devel
+libmpc-devel
+mpfr-devel
+zlib-devel

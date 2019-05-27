@@ -1,0 +1,7 @@
+perl(HTTP::Request::Common)
+perl(Plack) >= 0.9925
+perl(Plack::Builder)
+perl(Plack::Test)
+perl(Test::More)
+perl(inc::Module::Install)
+perl-generators

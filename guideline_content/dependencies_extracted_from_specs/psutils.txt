@@ -1,0 +1,5 @@
+perl(File::Basename)
+perl(Getopt::Long)
+perl(strict)
+perl(warnings)
+perl-generators

@@ -1,0 +1,5 @@
+desktop-file-utils
+freeglut-devel
+gtk2-devel
+gtkglarea2-devel
+libjpeg-devel

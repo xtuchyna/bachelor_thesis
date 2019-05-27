@@ -1,0 +1,5 @@
+at-spi2-core-devel
+gettext-devel
+glib2-devel
+libxml2-devel
+python2-pyatspi

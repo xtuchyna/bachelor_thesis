@@ -1,0 +1,15 @@
+MUMPS-devel >= 5.1.2
+MUMPS-mpich-devel >= 5.1.2
+MUMPS-openmpi-devel >= 5.1.2
+SuperLU-devel
+gcc-gfortran
+mpich-devel
+openblas-devel
+openblas-srpm-macros
+openmpi-devel
+psblas3-mpich-devel
+psblas3-openmpi-devel
+psblas3-serial-devel
+suitesparse-devel
+superlu_dist-mpich-devel
+superlu_dist-openmpi-devel

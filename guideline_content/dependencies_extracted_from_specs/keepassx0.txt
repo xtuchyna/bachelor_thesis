@@ -1,0 +1,4 @@
+ImageMagick
+desktop-file-utils
+libXtst-devel
+qt4-devel > 4.1

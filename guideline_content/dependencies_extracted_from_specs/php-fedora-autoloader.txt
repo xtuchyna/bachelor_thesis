@@ -1,0 +1,7 @@
+php(language) >= 5.3.3
+php-cli
+php-composer(phpunit/phpunit)
+php-composer(theseer/autoload) >= 1.22
+php-ctype
+php-pear
+php-spl

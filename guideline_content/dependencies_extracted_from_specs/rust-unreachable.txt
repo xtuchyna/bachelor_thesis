@@ -1,0 +1,2 @@
+(crate(void) >= 1.0.0 with crate(void) < 2.0.0)
+rust-packaging

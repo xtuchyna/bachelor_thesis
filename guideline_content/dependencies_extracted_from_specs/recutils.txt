@@ -1,0 +1,6 @@
+chrpath
+emacs-nox
+gettext
+help2man
+libgcrypt-devel
+mdbtools-devel

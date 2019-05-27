@@ -1,0 +1,16 @@
+autoconf
+automake
+byacc
+flex
+flex-static
+libXext-devel
+libXft-devel
+libXmu-devel
+libXp-devel
+libXt-devel
+libjpeg-devel
+libpng-devel
+libtool
+perl-interpreter
+pkgconfig
+xorg-x11-xbitmaps

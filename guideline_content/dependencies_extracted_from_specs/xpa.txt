@@ -1,0 +1,2 @@
+libXt-devel
+tcl-devel

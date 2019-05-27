@@ -1,0 +1,5 @@
+ruby
+ruby(release)
+rubygem(fog-core)
+rubygem(shindo)
+rubygems-devel

@@ -1,0 +1,11 @@
+gcc
+libjpeg-turbo-devel
+pkgconfig(cairo)
+pkgconfig(gdk-pixbuf-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(libopenjp2)
+pkgconfig(libpng)
+pkgconfig(libtiff-4)
+pkgconfig(libxml-2.0)
+pkgconfig(sqlite3)
+pkgconfig(zlib)

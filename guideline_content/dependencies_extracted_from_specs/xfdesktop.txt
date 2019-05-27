@@ -1,0 +1,14 @@
+Thunar-devel >= 1.2.0
+dbus-glib-devel >= 0.84
+desktop-file-utils
+exo-devel >= 0.7.0
+garcon-devel >= 0.1.2
+gettext
+intltool
+libICE-devel
+libSM-devel
+libgudev1-devel >= 145
+libnotify-devel >= 0.4.0
+libwnck-devel >= 2.30
+libxfce4ui-devel >= 4.12
+xfconf-devel >= 4.12

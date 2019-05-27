@@ -1,0 +1,6 @@
+cmake
+desktop-file-utils
+libpng-devel
+qt-devel
+qt5-qttools-static
+zlib-devel

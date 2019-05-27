@@ -1,0 +1,5 @@
+GeoIP-devel
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More)
+perl-devel
+perl-generators

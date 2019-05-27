@@ -1,0 +1,14 @@
+ImageMagick
+bison
+desktop-file-utils
+flex
+freeglut-devel
+libICE-devel
+libSM-devel
+libX11-devel
+libXext-devel
+libXi-devel
+libXmu-devel
+libjpeg-devel
+mesa-libGL-devel
+mesa-libGLU-devel

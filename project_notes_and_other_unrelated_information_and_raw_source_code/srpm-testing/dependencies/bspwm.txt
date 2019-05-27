@@ -1,0 +1,7 @@
+desktop-file-utils
+gcc
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+xcb-util-devel
+xcb-util-keysyms-devel
+xcb-util-wm-devel

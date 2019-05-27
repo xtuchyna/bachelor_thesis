@@ -1,0 +1,16 @@
+/usr/bin/make
+/usr/bin/perl
+perl(ExtUtils::MakeMaker)
+perl(Scalar::Util)
+perl(Test::Builder)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Tie::Array)
+perl(Tie::Hash)
+perl(Tie::Scalar)
+perl(base)
+perl(constant)
+perl(overload)
+perl-devel
+perl-generators

@@ -1,0 +1,8 @@
+perl(AutoLoader)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(IO::Socket)
+perl(MIME::Base64)
+perl(Test::More)
+perl-generators

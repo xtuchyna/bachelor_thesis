@@ -1,0 +1,8 @@
+/usr/bin/sip
+cmake
+dos2unix
+gcc-c++
+git
+pugixml-devel
+python3-devel
+python3-sip-devel

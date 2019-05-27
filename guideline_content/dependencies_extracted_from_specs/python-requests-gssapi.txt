@@ -1,0 +1,13 @@
+git-core
+python2-devel
+python2-gssapi
+python2-mock
+python2-nose
+python2-requests
+python2-setuptools
+python3-devel
+python3-gssapi
+python3-mock
+python3-nose
+python3-requests
+python3-setuptools

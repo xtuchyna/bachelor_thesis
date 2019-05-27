@@ -1,0 +1,3 @@
+libowfat-static
+systemd
+zlib-devel

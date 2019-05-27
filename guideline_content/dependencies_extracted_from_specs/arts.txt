@@ -1,0 +1,11 @@
+alsa-lib-devel
+audiofile-devel
+automake
+chrpath
+findutils
+glib2-devel
+libtool
+libvorbis-devel
+pkgconfig
+qt3-devel >= 3.3.8
+sed

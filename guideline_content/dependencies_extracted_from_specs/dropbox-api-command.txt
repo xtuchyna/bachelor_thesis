@@ -1,0 +1,7 @@
+perl(Module::Build::Tiny)
+perl(Test::More)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

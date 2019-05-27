@@ -1,0 +1,6 @@
+autoconf
+automake
+glibc-devel
+libacl-devel
+libselinux-devel
+perl-Getopt-Long

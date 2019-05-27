@@ -1,0 +1,3 @@
+cmake
+glib2-devel
+libsndfile-devel

@@ -1,0 +1,3 @@
+perl(Digest::CRC)
+perl(ExtUtils::MakeMaker)
+perl-generators

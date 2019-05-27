@@ -1,0 +1,4 @@
+doxygen
+glibmm24-devel
+graphviz
+libxml2-devel

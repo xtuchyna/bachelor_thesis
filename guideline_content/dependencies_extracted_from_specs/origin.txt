@@ -1,0 +1,5 @@
+bsdtar
+golang >= 1.6.2
+krb5-devel
+rsync
+systemd

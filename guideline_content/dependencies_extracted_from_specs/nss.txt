@@ -1,0 +1,11 @@
+gawk
+gcc
+nspr-devel >= 4.19.0
+nss-softokn-devel >= 3.36.0
+nss-util-devel >= 3.36.0
+perl-interpreter
+pkgconfig
+psmisc
+sqlite-devel
+xmlto
+zlib-devel

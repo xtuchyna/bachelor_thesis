@@ -1,0 +1,16 @@
+adwaita-gtk2-theme
+adwaita-icon-theme
+gnome-icon-theme
+gnome-icon-theme-legacy
+gtk2-devel
+ruby(release)
+ruby-devel
+rubygem(atk) >= 3.1.3
+rubygem(gdk_pixbuf2) >= 3.1.3
+rubygem(test-unit)
+rubygem(test-unit-notify)
+rubygem-cairo-devel >= 1.2.5
+rubygem-glib2-devel >= 3.1.3
+rubygem-pango-devel >= 3.1.3
+rubygems-devel
+xorg-x11-server-Xvfb

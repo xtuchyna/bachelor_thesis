@@ -1,0 +1,6 @@
+bluez-libs-devel
+dbus-devel
+imlib2-devel
+libX11-devel
+libXi-devel
+libXtst-devel

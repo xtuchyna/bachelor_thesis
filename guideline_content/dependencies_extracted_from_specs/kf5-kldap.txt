@@ -1,0 +1,14 @@
+cyrus-sasl-devel
+dbus-x11
+extra-cmake-modules >= 5.28
+kf5-kcompletion-devel >= 5.28
+kf5-kdoctools-devel >= 5.28
+kf5-ki18n-devel >= 5.28
+kf5-kio-devel >= 5.28
+kf5-kmbox-devel >= 17.12.3
+kf5-kmime-devel >= 17.12.3
+kf5-kwidgetsaddons-devel >= 5.28
+kf5-rpm-macros
+openldap-devel
+qt5-qtbase-devel
+xorg-x11-server-Xvfb

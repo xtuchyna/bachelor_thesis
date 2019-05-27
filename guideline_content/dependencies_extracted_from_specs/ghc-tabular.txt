@@ -1,0 +1,5 @@
+ghc-Cabal-devel
+ghc-csv-devel
+ghc-html-devel
+ghc-mtl-devel
+ghc-rpm-macros

@@ -1,0 +1,3 @@
+geany
+ldc
+ldc-phobos-devel

@@ -1,0 +1,14 @@
+pkgconfig(atk) >= 2.11.2
+pkgconfig(dbus-1) >= 1.0
+pkgconfig(dbus-glib-1) >= 0.7.0
+pkgconfig(glib-2.0)
+pkgconfig(gmodule-2.0) >= 2.0.0
+pkgconfig(gobject-2.0) >= 2.0.0
+pkgconfig(gtk+-2.0) >= 2.10.0
+pkgconfig(libxml-2.0) >= 2.0.0
+pkgconfig(pygobject-3.0) >= 2.90.1
+python2-dbus
+python2-devel
+python2-enum34
+python3-dbus
+python3-devel

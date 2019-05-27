@@ -1,0 +1,7 @@
+jboss-parent
+jboss-servlet-3.1-api
+junit
+maven-enforcer-plugin
+maven-local
+maven-plugin-bundle
+maven-surefire-provider-junit

@@ -1,0 +1,14 @@
+btrfs-progs-devel
+compiler(go-compiler)
+device-mapper-devel
+git
+glib2-devel
+glibc-static
+go-md2man
+gpgme-devel
+libassuan-devel
+libseccomp-static
+make
+ostree-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

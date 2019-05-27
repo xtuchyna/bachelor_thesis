@@ -1,0 +1,10 @@
+/usr/bin/gdk-pixbuf-csource
+autoconf
+automake
+fftw3-devel
+gcc
+gettext-devel
+gimp-devel >= 2.4
+intltool
+make
+pkgconfig(gthread-2.0)

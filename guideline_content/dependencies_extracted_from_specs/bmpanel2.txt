@@ -1,0 +1,8 @@
+asciidoc
+cairo-devel
+cmake
+desktop-file-utils
+docbook-style-xsl
+libX11-devel
+pango-devel
+python-devel

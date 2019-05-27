@@ -1,0 +1,9 @@
+SDL-devel
+SDL_Pango-devel
+SDL_image-devel
+SDL_mixer-devel
+SDL_net-devel
+desktop-file-utils
+libappstream-glib
+librsvg2-devel
+t4k_common-devel

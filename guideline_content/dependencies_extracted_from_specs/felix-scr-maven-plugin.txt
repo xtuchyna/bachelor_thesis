@@ -1,0 +1,8 @@
+maven-local
+mvn(org.apache.felix:felix-parent:pom:)
+mvn(org.apache.felix:org.apache.felix.scr.generator) >= 1.12.0
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven:maven-archiver)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.mockito:mockito-all)
+mvn(org.sonatype.plexus:plexus-build-api)

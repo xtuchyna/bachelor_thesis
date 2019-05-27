@@ -1,0 +1,5 @@
+checkpolicy
+policycoreutils-python-utils
+ruby(release) >= 2.0
+rubygem(rdoc)
+rubygems-devel

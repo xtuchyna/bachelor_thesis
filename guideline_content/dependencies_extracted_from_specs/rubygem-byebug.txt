@@ -1,0 +1,5 @@
+ruby-devel
+rubygem(minitest) >= 5
+rubygem(pry)
+rubygem(simplecov)
+rubygems-devel

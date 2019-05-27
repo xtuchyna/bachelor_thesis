@@ -1,0 +1,6 @@
+datanommer-commands
+python3-datanommer-consumer
+python3-datanommer-models
+python3-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

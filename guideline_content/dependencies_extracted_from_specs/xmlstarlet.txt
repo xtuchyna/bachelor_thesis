@@ -1,0 +1,6 @@
+autoconf
+automake
+docbook5-schemas
+libxml2-devel >= 2.6.23
+libxslt-devel
+xmlto

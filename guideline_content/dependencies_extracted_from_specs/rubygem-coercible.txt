@@ -1,0 +1,5 @@
+ruby(release)
+rubygem(descendants_tracker) < 0.1
+rubygem(descendants_tracker) >= 0.0.1
+rubygem(rspec)
+rubygems-devel

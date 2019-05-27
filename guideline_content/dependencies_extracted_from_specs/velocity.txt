@@ -1,0 +1,17 @@
+ant
+ant-junit
+antlr
+apache-commons-collections
+apache-commons-lang
+apache-commons-logging
+apache-parent
+bcel
+glassfish-servlet-api
+hsqldb-lib
+jakarta-oro
+java-devel >= 1:1.6.0
+javapackages-local
+jaxen
+jdom
+junit
+log4j12

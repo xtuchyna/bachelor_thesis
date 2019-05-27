@@ -1,0 +1,7 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(Devel::StackTrace)
+perl(Exporter)
+perl(Test::More)
+perl(inc::Module::Install)
+perl-generators

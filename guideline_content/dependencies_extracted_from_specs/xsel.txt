@@ -1,0 +1,3 @@
+libSM-devel
+libXext-devel
+libXt-devel

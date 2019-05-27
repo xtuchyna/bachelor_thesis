@@ -1,0 +1,8 @@
+ghc-Cabal-devel
+ghc-blaze-builder-devel
+ghc-bytestring-devel
+ghc-old-locale-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-time-devel
+ghc-vector-devel

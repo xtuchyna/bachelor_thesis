@@ -1,0 +1,6 @@
+SDL_image-devel
+SDL_mixer-devel
+bison
+desktop-file-utils
+flex
+libicns-utils

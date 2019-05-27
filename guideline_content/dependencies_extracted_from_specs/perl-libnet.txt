@@ -1,0 +1,27 @@
+coreutils
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(File::Temp)
+perl(FileHandle)
+perl(IO::File)
+perl(IO::Select)
+perl(IO::Socket) >= 1.05
+perl(IO::Socket::IP) >= 0.25
+perl(IO::Socket::SSL) >= 2.007
+perl(IO::Socket::SSL::Utils)
+perl(POSIX)
+perl(Socket) >= 2.016
+perl(Symbol)
+perl(Test::More)
+perl(Time::Local)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

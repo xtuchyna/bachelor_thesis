@@ -1,0 +1,14 @@
+python2-bson
+python2-demjson
+python2-devel
+python2-enum34
+python2-feedparser
+python2-numpy
+python2-simplejson
+python2-ujson
+python3-bson
+python3-demjson
+python3-devel
+python3-feedparser
+python3-numpy
+python3-simplejson

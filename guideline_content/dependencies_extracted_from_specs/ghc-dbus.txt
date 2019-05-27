@@ -1,0 +1,15 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-cereal-devel
+ghc-containers-devel
+ghc-deepseq-devel
+ghc-libxml-sax-devel
+ghc-network-devel
+ghc-parsec-devel
+ghc-random-devel
+ghc-rpm-macros
+ghc-text-devel
+ghc-transformers-devel
+ghc-unix-devel
+ghc-vector-devel
+ghc-xml-types-devel

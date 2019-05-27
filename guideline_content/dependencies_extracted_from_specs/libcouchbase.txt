@@ -1,0 +1,9 @@
+cmake >= 2.8.9
+gcc
+gcc-c++
+libev-devel >= 3
+openssl-devel
+pkgconfig(libevent) >= 2
+pkgconfig(libuv) >= 1
+systemtap-devel
+systemtap-sdt-devel

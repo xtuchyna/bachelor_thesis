@@ -1,0 +1,2 @@
+marisa-python
+python2-devel

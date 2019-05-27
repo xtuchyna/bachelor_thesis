@@ -1,0 +1,12 @@
+autoconf
+automake
+bash
+bison
+coreutils
+flex
+gcc
+libcap-ng-devel
+libnetfilter_conntrack-devel
+make
+sed
+systemd

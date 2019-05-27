@@ -1,0 +1,8 @@
+blackbox-devel
+gcc
+gcc-c++
+libX11-devel
+libXext-devel
+perl-interpreter
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

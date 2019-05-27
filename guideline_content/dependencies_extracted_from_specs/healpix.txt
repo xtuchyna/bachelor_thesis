@@ -1,0 +1,13 @@
+ant
+ant-junit
+autoconf
+automake
+cfitsio-devel
+chrpath
+gcc-c++
+gcc-gfortran
+java-devel
+jpackage-utils
+junit
+libtool
+nom-tam-fits

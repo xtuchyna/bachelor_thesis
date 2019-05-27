@@ -1,0 +1,13 @@
+python3-GitPython
+python3-ansicolors
+python3-copr
+python3-devel
+python3-koji
+python3-m2r
+python3-pyquery
+python3-requests
+python3-rpm
+python3-setuptools
+python3-six
+python3-sphinx
+python3-sphinx_rtd_theme

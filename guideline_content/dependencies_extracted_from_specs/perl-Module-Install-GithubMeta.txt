@@ -1,0 +1,18 @@
+perl(Capture::Tiny) >= 0.05
+perl(Config)
+perl(Cwd)
+perl(ExtUtils::MakeMaker) >= 6.42
+perl(ExtUtils::Manifest)
+perl(Fcntl)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(Module::Build)
+perl(Module::Install) >= 0.85
+perl(Test::More) >= 0.47
+perl(Test::Pod)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators

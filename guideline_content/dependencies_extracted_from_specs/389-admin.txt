@@ -1,0 +1,11 @@
+389-adminutil-devel
+apr-devel
+cyrus-sasl-devel
+httpd-devel
+icu
+libicu-devel
+mod_nss
+nspr-devel
+nss-devel
+openldap-devel
+perl-generators

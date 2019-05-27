@@ -1,0 +1,7 @@
+desktop-file-utils
+gtk3-devel
+libcurl-devel
+lua-devel
+openssl-devel
+pcsc-lite-devel
+readline-devel

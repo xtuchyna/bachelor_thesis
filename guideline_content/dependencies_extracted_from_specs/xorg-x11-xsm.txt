@@ -1,0 +1,11 @@
+autoconf
+automake
+libICE-devel
+libXaw-devel
+libXext-devel
+libXpm-devel
+libXt-devel
+pkgconfig
+rsh
+xorg-x11-proto-devel
+xorg-x11-util-macros

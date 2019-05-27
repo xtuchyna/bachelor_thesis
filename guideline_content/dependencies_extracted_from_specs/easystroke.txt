@@ -1,0 +1,9 @@
+boost-devel
+dbus-glib-devel
+desktop-file-utils
+gettext
+gtkmm30-devel
+intltool
+libXtst-devel
+libappstream-glib
+xorg-x11-server-devel

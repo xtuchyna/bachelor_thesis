@@ -1,0 +1,23 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(List::Util)
+perl(Module::Build)
+perl(Pod::Coverage)
+perl(Scalar::Util) >= 1.13
+perl(Test::Differences)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(base)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter >= 5.008002

@@ -1,0 +1,9 @@
+aspell-devel
+e2fsprogs-devel
+glib2-devel
+gpm-devel
+groff-base
+libssh2-devel >= 1.2.5
+perl-generators
+pkgconfig
+slang-devel

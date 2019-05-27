@@ -1,0 +1,6 @@
+Coin3-SIMVoleon-devel
+Coin3-SoQt-devel
+Coin3-devel
+libXmu-devel
+python2-devel
+swig

@@ -1,0 +1,5 @@
+compiler(go-compiler)
+golang(github.com/armon/go-metrics)
+golang(github.com/hashicorp/go-multierror)
+golang(github.com/hashicorp/net-rpc-msgpackrpc)
+golang(github.com/hashicorp/yamux)

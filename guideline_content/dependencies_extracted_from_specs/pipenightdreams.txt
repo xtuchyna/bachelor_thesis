@@ -1,0 +1,3 @@
+SDL_image-devel
+desktop-file-utils
+flex

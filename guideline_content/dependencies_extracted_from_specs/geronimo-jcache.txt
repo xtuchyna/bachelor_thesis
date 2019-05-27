@@ -1,0 +1,4 @@
+maven-local
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.geronimo.specs:geronimo-jcdi_1.0_spec)
+mvn(org.apache.geronimo.specs:specs:pom:)

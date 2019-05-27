@@ -1,0 +1,9 @@
+gcc
+gettext
+libattr-devel
+libblkid-devel >= 2.17-0.1.git5e51568
+libtool
+libunistring-devel
+libuuid-devel
+lvm2-devel
+readline-devel

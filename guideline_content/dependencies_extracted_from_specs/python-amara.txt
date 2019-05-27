@@ -1,0 +1,3 @@
+python2-4suite-xml
+python2-devel
+python2-setuptools

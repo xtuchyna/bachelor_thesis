@@ -1,0 +1,26 @@
+apache-commons-collections
+apache-commons-lang
+eclipse-dtp
+eclipse-emf-runtime
+eclipse-gef >= 3.11.0
+eclipse-jdt
+eclipse-license
+eclipse-pde
+eclipse-xsd
+maven-local
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+osgi(com.google.javascript)
+osgi(com.googlecode.json-simple)
+osgi(java_cup.runtime)
+osgi(javax.servlet-api)
+osgi(javax.wsdl)
+osgi(org.apache.commons.discovery)
+osgi(org.apache.wsil4j)
+osgi(org.eclipse.jetty.http)
+osgi(org.eclipse.jetty.webapp)
+osgi(org.jdom)
+osgi(org.uddi4j)
+osgi(osgi.core)
+tycho
+tycho-extras
+velocity

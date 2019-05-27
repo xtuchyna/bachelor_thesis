@@ -1,0 +1,5 @@
+glib2-devel
+gnome-shell
+inkscape
+optipng
+sassc

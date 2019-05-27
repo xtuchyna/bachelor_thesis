@@ -1,0 +1,10 @@
+make
+perl(:VERSION) >= 5.4
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

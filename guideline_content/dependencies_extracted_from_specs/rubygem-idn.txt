@@ -1,0 +1,4 @@
+libidn-devel
+ruby-devel
+rubygem(minitest)
+rubygems-devel

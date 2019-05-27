@@ -1,0 +1,54 @@
+perl(APR::Table)
+perl(Apache2::Directive)
+perl(Apache2::Log)
+perl(Apache2::RequestIO)
+perl(Apache2::RequestRec)
+perl(Apache2::RequestUtil)
+perl(Apache2::ServerUtil)
+perl(CGI) >= 2.46
+perl(CHI) >= 0.21
+perl(Cache::Cache) >= 1
+perl(Cache::FileCache)
+perl(Class::Container) >= 0.07
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exception::Class) >= 1.15
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Find)
+perl(File::Glob)
+perl(File::Path)
+perl(File::Spec) >= 0.8
+perl(File::Temp)
+perl(FileHandle)
+perl(Getopt::Long)
+perl(Getopt::Std)
+perl(HTML::Entities)
+perl(IO::File)
+perl(IO::Socket)
+perl(LWP::UserAgent)
+perl(Log::Any) >= 0.08
+perl(Log::Any::Test)
+perl(Module::Build)
+perl(Params::Validate) >= 0.70
+perl(Scalar::Util) >= 1.01
+perl(Test)
+perl(Test::Builder)
+perl(Test::Deep)
+perl(Test::Harness)
+perl(Test::Memory::Cycle)
+perl(Test::More) >= 0.88
+perl(Test::Output)
+perl(YAML)
+perl(base)
+perl(bytes)
+perl(constant)
+perl(lib)
+perl(mod_perl2)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

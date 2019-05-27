@@ -1,0 +1,6 @@
+maven-local
+mvn(cglib:cglib-nodep)
+mvn(com.github.marschall:memoryfilesystem)
+mvn(junit:junit)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.mockito:mockito-core)

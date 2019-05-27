@@ -1,0 +1,13 @@
+/usr/bin/ruby
+boost-devel
+cmake
+doxygen
+graphviz
+gtest-devel
+ignition-math-devel
+python
+ruby >= 1.9
+rubygem-multi_xml
+texlive-refman
+tinyxml-devel
+urdfdom-devel

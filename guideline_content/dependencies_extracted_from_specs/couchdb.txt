@@ -1,0 +1,19 @@
+autoconf
+autoconf-archive
+automake
+curl-devel >= 7.18.0
+erlang-erts >= R13B
+erlang-eunit >= R15B
+erlang-ibrowse >= 4.0.1
+erlang-jiffy
+erlang-mochiweb
+erlang-oauth >= 1.3.0
+erlang-os_mon
+erlang-rpm-macros
+erlang-sd_notify
+erlang-snappy
+help2man
+js-devel
+libicu-devel
+libtool
+systemd

@@ -1,0 +1,7 @@
+acl
+automake
+gcc
+git
+libacl-devel
+libselinux-devel
+popt-devel

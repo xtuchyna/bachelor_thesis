@@ -1,0 +1,57 @@
+gcc
+make
+perl(:VERSION) >= 5.8.1
+perl(Acme::Alien::DontPanic) >= 0.026
+perl(Alien::Base::ModuleBuild) >= 0.040
+perl(Alien::cmake3) >= 0.02
+perl(Archive::Tar)
+perl(Archive::Zip)
+perl(Capture::Tiny) >= 0.17
+perl(Carp)
+perl(Config)
+perl(Config::INI::Reader::Multiline)
+perl(Devel::Hide)
+perl(DynaLoader)
+perl(Env)
+perl(Env::ShellWords)
+perl(Exporter)
+perl(ExtUtils::CBuilder)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::ParseXS) >= 3.30
+perl(FFI::CheckLib)
+perl(File::BOM)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Glob)
+perl(File::Temp)
+perl(File::Which) >= 1.10
+perl(File::chdir)
+perl(HTTP::Tiny) >= 0.044
+perl(JSON::PP)
+perl(List::Util)
+perl(Module::Load)
+perl(Net::FTP)
+perl(Path::Tiny) >= 0.077
+perl(PkgConfig::LibPkgConf::Client) >= 0.04
+perl(PkgConfig::LibPkgConf::Util) >= 0.04
+perl(Readonly) >= 1.60
+perl(Scalar::Util)
+perl(Sort::Versions)
+perl(Storable)
+perl(Test2::API) >= 1.302015
+perl(Test2::Mock) >= 0.000060
+perl(Test2::Require) >= 0.000060
+perl(Test2::Require::Module) >= 0.000060
+perl(Test2::V0) >= 0.000060
+perl(Text::ParseWords) >= 3.26
+perl(URI::file)
+perl(YAML)
+perl(base)
+perl(constant)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

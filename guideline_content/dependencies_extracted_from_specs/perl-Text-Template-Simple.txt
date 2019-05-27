@@ -1,0 +1,31 @@
+perl(Carp)
+perl(Cwd)
+perl(Data::Dumper) >= 2.101
+perl(Devel::Size) >= 0.77
+perl(Digest::MD5)
+perl(Exporter)
+perl(Fcntl) >= 1.03
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec) >= 0.6
+perl(File::Temp) >= 0.12
+perl(File::stat)
+perl(IO::File)
+perl(IO::Handle)
+perl(Module::Build)
+perl(Pod::Simple) >= 3.05
+perl(Safe) >= 2.06
+perl(Symbol)
+perl(Test::More) >= 0.40
+perl(Test::Pod) >= 1.26
+perl(Text::Table) >= 1.107
+perl(base)
+perl(constant)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(subs)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

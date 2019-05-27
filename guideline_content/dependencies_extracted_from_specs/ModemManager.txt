@@ -1,0 +1,15 @@
+autoconf
+automake
+dbus
+glib2-devel >= 2.32
+gobject-introspection-devel >= 1.38
+gtk-doc
+intltool
+libgudev1-devel >= 143
+libmbim-devel >= 1.14.0
+libqmi-devel >= 1.16.0
+libtool
+libxslt
+systemd-devel
+vala-devel
+vala-tools

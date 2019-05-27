@@ -1,0 +1,29 @@
+make
+perl(Carp)
+perl(Exporter)
+perl(File::Copy)
+perl(File::HomeDir) >= 0.69
+perl(File::Path) >= 2.04
+perl(File::Remove) >= 1.42
+perl(File::ShareDir) >= 1.00
+perl(File::Spec) >= 0.80
+perl(File::Spec::Functions)
+perl(IO::Compress::Bzip2) >= 2.008
+perl(IO::Compress::Gzip) >= 2.008
+perl(IO::Uncompress::Bunzip2) >= 2.008
+perl(IO::Uncompress::Gunzip) >= 2.008
+perl(LWP::Online) >= 1.07
+perl(LWP::UserAgent) >= 5.806
+perl(Module::Install::Metadata)
+perl(Module::Install::Share)
+perl(Module::Install::With)
+perl(ORLite) >= 1.37
+perl(Params::Util) >= 0.33
+perl(Test::More)
+perl(URI) >= 1.35
+perl(URI::file)
+perl(inc::Module::Install::DSL) >= 1.06
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

@@ -1,0 +1,17 @@
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Moose) >= 2.00
+perl(Moose::Exporter)
+perl(Moose::Meta::Role::Attribute)
+perl(Moose::Role)
+perl(Moose::Util)
+perl(Moose::Util::MetaRole)
+perl(MooseX::Role::Parameterized)
+perl(Scalar::Util)
+perl(Test::Fatal)
+perl(Test::More) >= 0.88
+perl(Test::Requires) >= 0.05
+perl(namespace::autoclean) >= 0.11
+perl(namespace::clean) >= 0.20
+perl(strict)
+perl(warnings)
+perl-generators

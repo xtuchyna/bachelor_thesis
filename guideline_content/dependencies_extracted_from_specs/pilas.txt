@@ -1,0 +1,4 @@
+PyQt4-devel
+desktop-file-utils
+python-setuptools
+python2-devel

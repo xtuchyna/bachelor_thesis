@@ -1,0 +1,6 @@
+autoconf
+automake
+libtool
+python3-devel
+python3-nose
+python3-numpy

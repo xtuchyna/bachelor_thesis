@@ -1,0 +1,30 @@
+make
+perl(CGI)
+perl(Carp)
+perl(Digest::SHA)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(HTML::Parser)
+perl(HTTP::Request)
+perl(HTTP::Response)
+perl(JSON)
+perl(LWP::UserAgent)
+perl(MIME::Base64)
+perl(Net::OpenID::Common) >= 1.19
+perl(Net::OpenID::IndirectMessage)
+perl(Net::OpenID::URIFetch)
+perl(Net::OpenID::Yadis)
+perl(Storable)
+perl(Test::More)
+perl(Time::Local)
+perl(URI)
+perl(URI::Escape)
+perl(base)
+perl(fields)
+perl(integer)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,8 @@
+maven-antrun-plugin
+maven-clean-plugin
+maven-local
+mvn(junit:junit)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)
+mvn(org.codehaus.plexus:plexus-component-annotations)
+mvn(org.codehaus.plexus:plexus-component-metadata)
+mvn(org.codehaus.plexus:plexus-utils)

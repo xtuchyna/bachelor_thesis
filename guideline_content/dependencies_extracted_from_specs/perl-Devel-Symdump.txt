@@ -1,0 +1,21 @@
+coreutils
+findutils
+make
+perl(B)
+perl(Carp)
+perl(Compress::Zlib)
+perl(Config)
+perl(English)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::Harness) >= 3.04
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

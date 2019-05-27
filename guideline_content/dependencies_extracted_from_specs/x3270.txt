@@ -1,0 +1,9 @@
+desktop-file-utils
+fontpackages-devel
+imake
+libXaw-devel
+libtool
+ncurses-devel
+openssl-devel
+readline-devel
+xorg-x11-font-utils

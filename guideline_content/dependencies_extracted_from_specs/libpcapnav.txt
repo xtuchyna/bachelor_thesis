@@ -1,0 +1,3 @@
+/bin/sed
+gtk-doc >= 0.6
+libpcap-devel

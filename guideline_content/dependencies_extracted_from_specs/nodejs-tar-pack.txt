@@ -1,0 +1,12 @@
+mocha
+nodejs-packaging
+npm(debug)
+npm(fstream)
+npm(fstream-ignore)
+npm(mkdirp)
+npm(once)
+npm(readable-stream)
+npm(rfile)
+npm(rimraf)
+npm(tar)
+npm(uid-number)

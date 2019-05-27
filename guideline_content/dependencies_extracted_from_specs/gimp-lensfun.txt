@@ -1,0 +1,3 @@
+exiv2-devel
+gimp-devel >= 2.0
+lensfun-devel >= 0.3.2

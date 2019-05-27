@@ -1,0 +1,4 @@
+ruby(release)
+rubygem(asciidoctor)
+rubygem(rspec)
+rubygems-devel

@@ -1,0 +1,7 @@
+mocha
+nodejs-packaging
+npm(fs-extra)
+npm(globby)
+npm(is-path-cwd)
+npm(is-path-in-cwd)
+npm(path-exists)

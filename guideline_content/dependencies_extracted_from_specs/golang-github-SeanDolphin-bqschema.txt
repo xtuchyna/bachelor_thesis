@@ -1,0 +1,4 @@
+golang
+golang(code.google.com/p/google-api-go-client/bigquery/v2)
+golang(github.com/onsi/ginkgo)
+golang(github.com/onsi/gomega)

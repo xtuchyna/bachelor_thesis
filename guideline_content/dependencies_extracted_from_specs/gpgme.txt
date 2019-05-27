@@ -1,0 +1,16 @@
+autoconf
+automake
+chrpath
+cmake
+gawk
+gcc
+gcc-c++
+gnupg2 >= 2.1.13
+gnupg2-smime
+libassuan-devel >= 2.0.2
+libgpg-error-devel >= 1.23
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Test)
+python2-devel
+python3-devel
+swig

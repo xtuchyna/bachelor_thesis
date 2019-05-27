@@ -1,0 +1,9 @@
+ghc-Cabal-devel
+ghc-QuickCheck-devel
+ghc-clock-devel
+ghc-directory-devel
+ghc-filepath-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-time-devel
+ghc-unix-devel

@@ -1,0 +1,3 @@
+php(language) >= 5.3.3
+php-fedora-autoloader-devel
+php-pear-PHPUnit >= 3.7.0

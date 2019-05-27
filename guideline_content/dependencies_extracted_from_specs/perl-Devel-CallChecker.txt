@@ -1,0 +1,22 @@
+findutils
+gcc
+perl(DynaLoader)
+perl(DynaLoader::Functions) >= 0.001
+perl(Exporter)
+perl(ExtUtils::CBuilder) >= 0.15
+perl(ExtUtils::ParseXS)
+perl(File::Spec)
+perl(IO::File) >= 1.03
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(Thread::Semaphore)
+perl(parent)
+perl(strict)
+perl(threads)
+perl(threads::shared)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

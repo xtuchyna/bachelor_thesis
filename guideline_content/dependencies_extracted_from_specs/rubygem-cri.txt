@@ -1,0 +1,5 @@
+ruby
+ruby(release)
+rubygem-colored
+rubygem-minitest
+rubygems-devel

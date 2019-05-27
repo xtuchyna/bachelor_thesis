@@ -1,0 +1,3 @@
+gtk2-devel
+iso-codes-devel
+libxml2-devel

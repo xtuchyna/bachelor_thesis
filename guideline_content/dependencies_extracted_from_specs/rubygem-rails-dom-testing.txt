@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(activesupport)
+rubygem(minitest)
+rubygem(nokogiri)
+rubygems-devel

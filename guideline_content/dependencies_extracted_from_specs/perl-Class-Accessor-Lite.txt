@@ -1,0 +1,7 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Module::Install::ReadmeFromPod)
+perl(Test::More)
+perl(inc::Module::Install)
+perl(strict)
+perl-generators

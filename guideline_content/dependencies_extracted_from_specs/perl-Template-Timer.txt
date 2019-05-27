@@ -1,0 +1,12 @@
+make
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Template)
+perl(Template::Context)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Time::HiRes)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

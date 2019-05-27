@@ -1,0 +1,4 @@
+desktop-file-utils
+gcc-c++
+phonon-devel
+qt-devel

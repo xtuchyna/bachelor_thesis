@@ -1,0 +1,24 @@
+perl(CPAN)
+perl(Catalyst) >= 5.90001
+perl(Catalyst::Action::RenderView) >= 0.10
+perl(Catalyst::Plugin::ConfigLoader) >= 0.30
+perl(Catalyst::Plugin::Static::Simple) >= 0.28
+perl(Config::General) >= 2.42
+perl(ExtUtils::MakeMaker) >= 6.36
+perl(File::ChangeNotify) >= 0.07
+perl(File::Copy::Recursive)
+perl(File::ShareDir)
+perl(IPC::Run3)
+perl(Module::Install) >= 1.02
+perl(Moose)
+perl(MooseX::Daemonize)
+perl(MooseX::Emulate::Class::Accessor::Fast)
+perl(Path::Class) >= 0.09
+perl(Starman)
+perl(Template) >= 2.14
+perl(Test::Fatal)
+perl(Test::More) >= 0.94
+perl(Test::Pod)
+perl(namespace::autoclean)
+perl(namespace::clean)
+perl-generators

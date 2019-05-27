@@ -1,0 +1,6 @@
+elfutils-devel
+gmp-devel
+mpfr-devel
+nacl-binutils
+nacl-newlib
+ppl-devel

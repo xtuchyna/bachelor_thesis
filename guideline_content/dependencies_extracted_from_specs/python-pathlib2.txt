@@ -1,0 +1,10 @@
+python2-devel
+python2-mock
+python2-scandir
+python2-six
+python2-test
+python3-devel
+python3-mock
+python3-scandir
+python3-six
+python3-test

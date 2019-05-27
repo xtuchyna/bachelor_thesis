@@ -1,0 +1,12 @@
+perl(B::Hooks::EndOfScope)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Find)
+perl(File::Temp)
+perl(Moose) >= 0.94
+perl(Moose::Exporter)
+perl(Moose::Role)
+perl(Moose::Util::MetaRole)
+perl(Test::Moose)
+perl(Test::More) >= 0.92
+perl(namespace::autoclean) >= 0.12
+perl-generators

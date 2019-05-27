@@ -1,0 +1,3 @@
+libcurl-devel
+libtool
+libxml2-devel

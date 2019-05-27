@@ -1,0 +1,18 @@
+perl(Carp)
+perl(English)
+perl(File::Spec)
+perl(Module::Build)
+perl(Test::Builder)
+perl(Test::Builder::Tester)
+perl(Test::More)
+perl(Test::Perl::Critic)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Content)
+perl(Test::Pod::Coverage) >= 1.04
+perl(autodie)
+perl(lib)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

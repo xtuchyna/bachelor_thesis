@@ -1,0 +1,2 @@
+perl-interpreter
+sg3_utils-devel

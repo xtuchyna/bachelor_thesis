@@ -1,0 +1,11 @@
+bzip2-devel
+e2fsprogs-devel
+gcc-c++
+libattr-devel
+libgcrypt-devel
+lzo-devel
+openssl-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+xz-devel
+zlib-devel

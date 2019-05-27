@@ -1,0 +1,4 @@
+gcc-c++
+gtest-devel
+libtool
+memtailor-devel

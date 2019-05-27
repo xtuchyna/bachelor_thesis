@@ -1,0 +1,7 @@
+java-javadoc
+maven-local
+mvn(com.google.code.findbugs:jsr305)
+mvn(javax.mail:mail)
+mvn(junit:junit)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-simple)

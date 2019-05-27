@@ -1,0 +1,9 @@
+dos2unix
+nodejs-packaging
+npm(buffer-crc32)
+npm(chai)
+npm(crc32-stream)
+npm(mkdirp)
+npm(mocha)
+npm(node-int64)
+npm(rimraf)

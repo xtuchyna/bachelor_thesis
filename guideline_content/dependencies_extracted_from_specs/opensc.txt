@@ -1,0 +1,9 @@
+/usr/bin/xsltproc
+autoconf
+automake
+docbook-style-xsl
+gcc
+libtool
+openssl-devel
+pcsc-lite-devel
+readline-devel

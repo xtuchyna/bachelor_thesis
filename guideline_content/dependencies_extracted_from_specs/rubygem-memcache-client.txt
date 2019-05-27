@@ -1,0 +1,3 @@
+rubygem(flexmock)
+rubygem(test-unit)
+rubygems-devel

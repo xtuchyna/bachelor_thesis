@@ -1,0 +1,13 @@
+git
+graphviz
+maven-local
+mvn(jdepend:jdepend)
+mvn(log4j:log4j:12)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.logging.log4j:log4j-api)
+mvn(org.apache.maven.plugins:maven-enforcer-plugin)
+mvn(org.codehaus.mojo:buildnumber-maven-plugin)
+mvn(org.jboss.apiviz:apiviz)
+mvn(org.jboss.logmanager:jboss-logmanager)
+mvn(org.jboss:jboss-parent:pom:)
+mvn(org.slf4j:slf4j-api)

@@ -1,0 +1,3 @@
+libGL-devel
+libXt-devel
+motif-devel

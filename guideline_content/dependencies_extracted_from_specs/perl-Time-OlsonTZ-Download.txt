@@ -1,0 +1,19 @@
+perl(:VERSION) >= 5.6
+perl(Carp)
+perl(Encode) >= 1.75
+perl(File::Path) >= 2.07
+perl(File::Temp) >= 0.22
+perl(IO::Dir) >= 1.03
+perl(IO::File) >= 1.03
+perl(IPC::Filter) >= 0.002
+perl(Module::Build)
+perl(Net::FTP) >= 3.07
+perl(Params::Classify)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

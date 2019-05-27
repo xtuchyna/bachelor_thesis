@@ -1,0 +1,7 @@
+python-chardet >= 2.0.0
+python-sphinx
+python2-devel
+python2-hypothesis
+python3-chardet >= 2.0.0
+python3-devel
+python3-hypothesis

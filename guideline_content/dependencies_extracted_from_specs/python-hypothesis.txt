@@ -1,0 +1,10 @@
+/usr/bin/sphinx-build
+python2-devel
+python2-setuptools
+python2dist(attrs)
+python2dist(coverage)
+python2dist(enum34)
+python3-devel
+python3-setuptools
+python3dist(attrs)
+python3dist(coverage)

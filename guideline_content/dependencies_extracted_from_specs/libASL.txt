@@ -1,0 +1,10 @@
+boost-devel
+cmake3
+doxygen
+graphviz
+matio-devel
+netcdf-cxx-devel
+ocl-icd-devel
+opencl-headers
+pocl-devel
+vtk-devel

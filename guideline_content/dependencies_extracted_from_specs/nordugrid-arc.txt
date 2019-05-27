@@ -1,0 +1,42 @@
+checkpolicy
+cppunit-devel
+gettext
+gfal2-devel
+glib2-devel
+glibmm24-devel
+globus-common-devel
+globus-ftp-client-devel
+globus-ftp-control-devel
+globus-gssapi-gsi-devel >= 12.2
+java-devel >= 1.5.0
+jpackage-utils
+junit
+ldns-devel >= 1.6.8
+libdb-cxx-devel
+libs3-devel
+libtool-ltdl-devel
+libuuid-devel
+libxml2-devel
+nss-devel
+openldap-devel
+openssl
+openssl-devel
+perl(DBI)
+perl(Test::Harness)
+perl(Test::Simple)
+perl(XML::Simple)
+perl-generators
+pkgconfig
+pyOpenSSL
+pylint
+python-twisted-core
+python-twisted-web
+python2-devel
+python3-devel
+selinux-policy-devel
+sqlite-devel >= 3.6
+swig
+systemd-units
+xmlsec1-devel >= 1.2.4
+xmlsec1-openssl-devel >= 1.2.4
+xrootd-client-devel

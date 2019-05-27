@@ -1,0 +1,9 @@
+cairo-devel
+cmake
+fontconfig-devel
+freetype-devel
+gcc
+gettext-devel
+pango-devel
+perl-generators
+unicode-ucd

@@ -1,0 +1,6 @@
+btrfs-progs-devel
+compiler(go-compiler)
+golang >= 1.9
+pkgconfig(protobuf) >= 3
+protobuf-compiler
+systemd

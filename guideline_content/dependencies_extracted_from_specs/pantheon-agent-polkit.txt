@@ -1,0 +1,11 @@
+cmake
+cmake-elementary
+desktop-file-utils
+gettext
+pkgconfig
+pkgconfig(glib-2.0) >= 2.32.0
+pkgconfig(gtk+-3.0)
+pkgconfig(polkit-agent-1)
+pkgconfig(polkit-gobject-1)
+vala >= 0.34.1
+vala-tools

@@ -1,0 +1,10 @@
+autoconf
+automake
+gettext
+latex2html
+perl(Data::Dumper)
+perl(Locale::Messages)
+perl(Text::Unidecode)
+perl(Unicode::EastAsianWidth)
+perl-generators
+tetex-tex4ht

@@ -1,0 +1,8 @@
+gcc
+ruby(release)
+ruby-devel
+rubygem(daemons) >= 1.0.9
+rubygem(eventmachine) >= 1.0.4
+rubygem(rack) >= 1.0.0
+rubygem(rspec2)
+rubygems-devel

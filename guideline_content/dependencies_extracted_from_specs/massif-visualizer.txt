@@ -1,0 +1,19 @@
+cmake(KChart) >= 2.6.0
+cmake(KF5Archive)
+cmake(KF5Config)
+cmake(KF5CoreAddons)
+cmake(KF5I18n)
+cmake(KF5KIO)
+cmake(KF5Parts)
+cmake(KGraphViewerPart) >= 2.3.90
+cmake(Qt5)
+cmake(Qt5Core)
+cmake(Qt5PrintSupport)
+cmake(Qt5Svg)
+cmake(Qt5Test)
+cmake(Qt5Widgets)
+cmake(Qt5XmlPatterns)
+desktop-file-utils
+extra-cmake-modules
+gettext
+kf5-rpm-macros

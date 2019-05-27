@@ -1,0 +1,13 @@
+fedmsg
+python2-bugzilla
+python2-devel
+python2-dogpile-cache
+python2-fedmsg
+python2-fedmsg-meta-fedora-infrastructure
+python2-flake8
+python2-koji
+python2-pyyaml
+python2-rpm
+python2-setuptools
+python2-six
+python2-sphinx

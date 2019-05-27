@@ -1,0 +1,9 @@
+desktop-file-utils
+gettext
+gnutls-devel >= 2
+intltool
+libgcrypt-devel
+libgnomeui-devel
+perl(XML::Parser)
+readline-devel
+sqlite-devel >= 3

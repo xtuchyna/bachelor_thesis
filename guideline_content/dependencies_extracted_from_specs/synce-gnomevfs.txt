@@ -1,0 +1,6 @@
+ORBit2-devel
+automake
+glib2-devel
+gnome-vfs2-devel
+librapi-devel
+libsynce-devel

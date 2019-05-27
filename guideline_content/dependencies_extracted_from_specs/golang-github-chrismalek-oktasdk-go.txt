@@ -1,0 +1,2 @@
+compiler(go-compiler)
+golang(github.com/google/go-querystring/query)

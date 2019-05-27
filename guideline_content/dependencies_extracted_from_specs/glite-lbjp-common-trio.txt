@@ -1,0 +1,7 @@
+cppunit-devel
+gcc-c++
+libtool
+perl(Getopt::Long)
+perl(POSIX)
+perl-interpreter
+pkgconfig

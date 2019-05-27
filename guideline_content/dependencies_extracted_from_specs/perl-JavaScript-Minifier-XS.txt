@@ -1,0 +1,18 @@
+findutils
+gcc
+perl(Benchmark)
+perl(DynaLoader)
+perl(Exporter)
+perl(File::Slurp)
+perl(File::Which)
+perl(IO::File)
+perl(IPC::Run)
+perl(JavaScript::Minifier)
+perl(Module::Build) > 0.35
+perl(Test::LeakTrace)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

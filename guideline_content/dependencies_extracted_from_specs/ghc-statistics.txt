@@ -1,0 +1,15 @@
+ghc-Cabal-devel
+ghc-aeson-devel
+ghc-base-orphans-devel
+ghc-binary-devel
+ghc-deepseq-devel
+ghc-erf-devel
+ghc-math-functions-devel
+ghc-monad-par-devel
+ghc-mwc-random-devel
+ghc-primitive-devel
+ghc-rpm-macros
+ghc-vector-algorithms-devel
+ghc-vector-binary-instances-devel
+ghc-vector-devel
+ghc-vector-th-unbox-devel

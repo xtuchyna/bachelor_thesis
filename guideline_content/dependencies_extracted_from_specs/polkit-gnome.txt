@@ -1,0 +1,7 @@
+glib2-devel >= 2.25.11
+gnome-common
+gobject-introspection-devel
+gtk-doc
+gtk3-devel
+intltool
+polkit-devel >= 0.97-1

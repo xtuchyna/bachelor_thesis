@@ -1,0 +1,14 @@
+python2-coverage >= 3.7.1
+python2-devel
+python2-process-tests
+python2-pytest
+python2-setuptools
+python2-six
+python2-virtualenv
+python3-coverage >= 3.7.1
+python3-devel
+python3-process-tests
+python3-pytest
+python3-setuptools
+python3-six
+python3-virtualenv

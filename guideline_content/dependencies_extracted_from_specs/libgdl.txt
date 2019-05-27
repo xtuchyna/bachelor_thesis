@@ -1,0 +1,8 @@
+gettext
+gobject-introspection-devel
+gtk-doc
+gtk3-devel
+intltool
+libtool
+libxml2-devel
+perl(XML::Parser)

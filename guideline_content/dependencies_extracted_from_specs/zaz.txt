@@ -1,0 +1,10 @@
+ImageMagick
+SDL_image-devel
+desktop-file-utils
+ftgl-devel >= 2.1.3
+gcc
+gettext
+libappstream-glib
+libtheora-devel
+libvorbis-devel
+mesa-libGL-devel

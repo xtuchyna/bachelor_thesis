@@ -1,0 +1,7 @@
+mocha
+nodejs-packaging
+npm(arr-union)
+npm(clone-deep)
+npm(get-value)
+npm(set-value)
+npm(should)

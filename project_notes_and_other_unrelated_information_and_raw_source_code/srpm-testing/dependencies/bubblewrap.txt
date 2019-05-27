@@ -1,0 +1,10 @@
+autoconf
+automake
+docbook-style-xsl
+gcc
+libcap-devel
+libtool
+libxslt
+pkgconfig(libselinux)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

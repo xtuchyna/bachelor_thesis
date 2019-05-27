@@ -1,0 +1,5 @@
+perl(ExtUtils::MakeMaker)
+perl(GD)
+perl(SVG)
+perl(Test::More)
+perl-generators

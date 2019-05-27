@@ -1,0 +1,22 @@
+make
+perl(:VERSION) >= 5.8
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(IRI) >= 0.004
+perl(Moose) >= 2.0000
+perl(RDF::Trine) >= 1.000
+perl(Test::More) >= 0.96
+perl(Test::Requires)
+perl(Type::Library) >= 1.000000
+perl(Types::Path::Tiny)
+perl(Types::Standard)
+perl(Types::UUID)
+perl(URI)
+perl(URI::FromHash)
+perl(URI::WithBase)
+perl(URI::data)
+perl(URI::file)
+perl(if)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,13 @@
+clucene-core-devel >= 0.9.20-2
+cmake
+doxygen
+graphviz
+kde-filesystem
+pkgconfig
+pkgconfig(QtDBus)
+pkgconfig(QtNetwork)
+pkgconfig(QtXml)
+pkgconfig(raptor2)
+pkgconfig(rasqal) >= 0.9.22
+pkgconfig(redland)
+qt4-doc

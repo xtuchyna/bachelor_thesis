@@ -1,0 +1,7 @@
+desktop-file-utils
+gettext
+gtk2-devel
+intltool
+libXft-devel
+libnotify-devel >= 0.7.0
+libtool-ltdl-devel

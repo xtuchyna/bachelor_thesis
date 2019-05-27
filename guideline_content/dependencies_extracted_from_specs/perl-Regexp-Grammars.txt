@@ -1,0 +1,10 @@
+perl(B::Hooks::Parser)
+perl(Data::Dumper)
+perl(List::Util)
+perl(Module::Build)
+perl(Moose)
+perl(Moose::Util::TypeConstraints)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

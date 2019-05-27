@@ -1,0 +1,8 @@
+/usr/bin/perl
+byacc
+flex
+freetype-devel
+gd-devel
+libjpeg-devel
+libpng-devel
+util-linux-ng

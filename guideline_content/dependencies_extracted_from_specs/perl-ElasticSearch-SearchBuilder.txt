@@ -1,0 +1,11 @@
+perl(Carp)
+perl(Data::Dump)
+perl(ExtUtils::MakeMaker)
+perl(Scalar::Util)
+perl(Test::Deep)
+perl(Test::Differences)
+perl(Test::Exception)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

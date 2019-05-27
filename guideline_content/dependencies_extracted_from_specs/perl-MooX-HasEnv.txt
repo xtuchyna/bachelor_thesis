@@ -1,0 +1,12 @@
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(FindBin)
+perl(Moo) >= 0.009014
+perl(Package::Stash) >= 0.33
+perl(Test::LoadAllModules) >= 0.021
+perl(Test::More) >= 0.98
+perl(Test::Pod)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

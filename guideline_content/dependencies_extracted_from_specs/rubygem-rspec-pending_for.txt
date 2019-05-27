@@ -1,0 +1,4 @@
+rubygem(rspec)
+rubygem(ruby_engine) >= 1.0
+rubygem(ruby_version) >= 1.0
+rubygems-devel

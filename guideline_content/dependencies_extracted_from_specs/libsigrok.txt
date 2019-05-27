@@ -1,0 +1,11 @@
+doxygen
+glib2-devel
+glibmm24-devel
+graphviz
+libftdi-devel
+libieee1284-devel
+libserialport-devel >= 0.1.1
+libtool
+libusb1-devel
+libzip-devel
+zlib-devel

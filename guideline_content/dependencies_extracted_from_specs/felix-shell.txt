@@ -1,0 +1,8 @@
+felix-osgi-compendium
+felix-osgi-core
+felix-parent
+java-devel >= 1:1.6.0
+jpackage-utils
+maven-local
+maven-plugin-bundle
+mockito

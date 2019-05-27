@@ -1,0 +1,31 @@
+alsa-lib-devel
+desktop-file-utils
+doxygen
+glew-devel
+gsm-devel
+gtk2-devel >= 2.16
+intltool
+libeXosip2-devel >= 3.6.0
+libglade2-devel
+libnotify-devel
+libosip2-devel >= 3.6.0
+libpcap-devel
+libsoup-devel
+libtheora-devel
+libtool
+libudev-devel
+libupnp-devel
+libv4l-devel
+libvpx-devel
+ncurses-devel
+openssl-devel
+opus-devel
+ortp-devel >= 1:0.22.0
+perl(XML::Parser)
+pulseaudio-libs-devel
+readline-devel
+spandsp-devel
+speex-devel >= 1.2
+speexdsp-devel >= 1.2
+sqlite-devel
+vim-common

@@ -1,0 +1,3 @@
+rubygem(rake)
+rubygems-devel
+zip

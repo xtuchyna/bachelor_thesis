@@ -1,0 +1,9 @@
+coreutils
+findutils
+make
+perl(DateTime) >= 0.15
+perl(ExtUtils::MakeMaker)
+perl(Test::Harness)
+perl(Test::More)
+perl-generators
+perl-interpreter

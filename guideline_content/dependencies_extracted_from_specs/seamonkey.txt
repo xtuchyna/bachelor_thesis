@@ -1,0 +1,32 @@
+alsa-lib-devel
+autoconf213
+coreutils
+dbus-glib-devel
+desktop-file-utils
+freetype-devel >= 2.1.9
+glib2-devel
+gnome-vfs2-devel
+gtk2-devel
+hunspell-devel
+krb5-devel
+libIDL-devel
+libXrender-devel
+libXt-devel
+libffi-devel >= 3.0.9
+libgnome-devel
+libgnomeui-devel
+libicu-devel >= 58.1
+libjpeg-turbo-devel
+libnotify-devel
+libpng-devel
+libvpx-devel >= 1.5.0
+mesa-libGL-devel
+nspr-devel >= 4.13.1
+nss-devel >= 3.30
+nss-static >= 3.30
+pango-devel
+pulseaudio-libs-devel
+sqlite-devel >= 3.17.0
+yasm >= 1.1
+zip
+zlib-devel

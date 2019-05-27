@@ -1,0 +1,4 @@
+ruby(release)
+rubygem(mysql2)
+rubygem(yard)
+rubygems-devel

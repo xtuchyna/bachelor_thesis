@@ -1,0 +1,6 @@
+SDL-devel
+desktop-file-utils
+libXt-devel
+libXv-devel
+libXxf86misc-devel
+python >= 2.4

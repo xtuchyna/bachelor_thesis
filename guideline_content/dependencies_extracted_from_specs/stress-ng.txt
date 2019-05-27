@@ -1,0 +1,9 @@
+glibc-devel
+kernel-headers
+keyutils-libs-devel
+libaio-devel
+libattr-devel
+libbsd-devel
+libcap-devel
+lksctp-tools-devel
+zlib-devel

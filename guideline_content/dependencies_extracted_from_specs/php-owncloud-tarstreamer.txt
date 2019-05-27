@@ -1,0 +1,7 @@
+php(language) >= 5.3.8
+php-composer(phpunit/phpunit)
+php-composer(theseer/autoload)
+php-date
+php-pear(Archive_Tar)
+php-pecl(Xdebug)
+php-spl

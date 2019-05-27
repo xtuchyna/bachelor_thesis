@@ -1,0 +1,4 @@
+pandoc
+perl-interpreter
+python2-devel
+python2-setuptools

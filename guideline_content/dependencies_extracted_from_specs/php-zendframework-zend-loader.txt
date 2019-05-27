@@ -1,0 +1,3 @@
+php(language) >= 5.3.23
+php-cli
+php-fedora-autoloader-devel

@@ -1,0 +1,7 @@
+cmake
+freeglut-devel
+libX11-devel
+libXext-devel
+libXi-devel
+libXmu-devel
+mesa-libGL-devel

@@ -1,0 +1,7 @@
+atk-devel
+poppler-devel
+poppler-glib-devel >= 0.15
+pycairo-devel
+pygtk2-devel
+python2-devel
+python2-setuptools

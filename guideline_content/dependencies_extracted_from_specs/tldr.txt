@@ -1,0 +1,7 @@
+python3-colorama
+python3-devel
+python3-pytest-runner
+python3-setuptools
+python3-setuptools_scm
+python3-six
+python3-termcolor

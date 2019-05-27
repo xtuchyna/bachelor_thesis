@@ -1,0 +1,6 @@
+lua-devel
+openssl-devel
+pcre-devel
+systemd-devel
+systemd-units
+zlib-devel

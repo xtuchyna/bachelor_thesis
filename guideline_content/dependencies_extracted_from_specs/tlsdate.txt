@@ -1,0 +1,7 @@
+autoconf
+automake
+dbus-devel
+libevent-devel
+libtool
+openssl-devel
+systemd-units

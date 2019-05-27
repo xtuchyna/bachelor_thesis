@@ -1,0 +1,33 @@
+coreutils
+make
+perl(CGI)
+perl(CGI::Cookie)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find::Rule)
+perl(File::Spec)
+perl(File::Temp) >= 0.01
+perl(File::Type) >= 0.01
+perl(FileHandle)
+perl(HTTP::Headers)
+perl(HTTP::Request) >= 0.01
+perl(HTTP::Response)
+perl(HTTP::Status)
+perl(IO::Null) >= 0.01
+perl(Pipeline) >= 2.00
+perl(Pipeline::Production)
+perl(Pipeline::Segment)
+perl(Pipeline::Segment::Tester)
+perl(Test::More)
+perl(Test::Simple)
+perl(URI)
+perl(base)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl(warnings::register)
+perl-generators
+perl-interpreter

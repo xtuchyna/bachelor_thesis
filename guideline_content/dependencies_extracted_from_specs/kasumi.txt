@@ -1,0 +1,6 @@
+anthy-devel
+autoconf
+automake
+gcc-c++
+gtk2-devel
+libtool

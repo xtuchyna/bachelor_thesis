@@ -1,0 +1,4 @@
+python
+python-rmtest
+redis >= 4
+redis-devel

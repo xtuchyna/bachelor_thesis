@@ -1,0 +1,5 @@
+docbook-utils
+net-snmp-devel
+openhpi-devel
+openssl-devel
+systemd-units

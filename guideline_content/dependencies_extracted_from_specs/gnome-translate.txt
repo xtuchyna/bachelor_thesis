@@ -1,0 +1,11 @@
+autoconf
+automake
+desktop-file-utils >= 0.2.90
+enchant-devel
+gettext
+intltool
+libgnomeui-devel
+libtranslate-devel
+perl-XML-Parser >= 2.31-16
+scrollkeeper
+startup-notification-devel >= 0.5

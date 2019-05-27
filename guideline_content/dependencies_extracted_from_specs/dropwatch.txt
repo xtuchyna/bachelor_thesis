@@ -1,0 +1,5 @@
+binutils-devel
+kernel-headers
+libnl3-devel
+pkgconfig
+readline-devel

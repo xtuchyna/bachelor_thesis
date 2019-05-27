@@ -1,0 +1,7 @@
+desktop-file-utils
+freeglut-devel
+libXaw-devel
+libXext-devel
+libXi-devel
+libjpeg-devel
+libpng-devel

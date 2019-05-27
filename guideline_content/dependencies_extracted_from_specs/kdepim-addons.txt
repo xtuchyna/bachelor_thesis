@@ -1,0 +1,49 @@
+akonadi-import-wizard-devel >= 17.12.3
+cmake(KF5Akonadi)
+cmake(KF5AkonadiNotes)
+cmake(KF5CalendarSupport)
+cmake(KF5Config)
+cmake(KF5DBusAddons)
+cmake(KF5Declarative)
+cmake(KF5EventViews)
+cmake(KF5GrantleeTheme)
+cmake(KF5Gravatar)
+cmake(KF5I18n)
+cmake(KF5IncidenceEditor)
+cmake(KF5KHtml)
+cmake(KF5KaddressbookGrantlee)
+cmake(KF5Libkdepim)
+cmake(KF5Libkleo)
+cmake(KF5MailCommon)
+cmake(KF5MailImporterAkonadi)
+cmake(KF5MessageComposer)
+cmake(KF5MessageCore)
+cmake(KF5MessageList)
+cmake(KF5MessageViewer)
+cmake(KF5PimCommon)
+cmake(KF5Prison)
+cmake(KF5Tnef)
+cmake(KF5XmlGui)
+cmake(KPimImportWizard)
+cmake(Qt5Test)
+cmake(Qt5Widgets)
+extra-cmake-modules >= 5.39.0
+kdepim-apps-libs-devel >= 17.12.3
+kf5-akonadi-notes-devel >= 17.12.3
+kf5-akonadi-server-devel >= 17.12.3
+kf5-calendarsupport-devel >= 17.12.3
+kf5-eventviews-devel >= 17.12.3
+kf5-grantleetheme-devel >= 17.12.3
+kf5-incidenceeditor-devel >= 17.12.3
+kf5-ktnef-devel >= 17.12.3
+kf5-libgravatar-devel >= 17.12.3
+kf5-libkleo-devel >= 17.12.3
+kf5-libksieve-devel >= 17.12.3
+kf5-mailcommon-devel >= 17.12.3
+kf5-mailimporter-devel >= 17.12.3
+kf5-messagelib-devel >= 17.12.3
+kf5-pimcommon-devel >= 17.12.3
+kf5-rpm-macros
+libkgapi-devel >= 17.12.3
+pkgconfig(Qt5WebEngine)
+pkgconfig(shared-mime-info)

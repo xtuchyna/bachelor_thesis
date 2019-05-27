@@ -1,0 +1,8 @@
+perl(Carp)
+perl(Module::Build)
+perl(Test)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(lib)
+perl-generators

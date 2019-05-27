@@ -1,0 +1,9 @@
+anaconda >= 25.20.3
+gettext
+glade-devel
+gtk3-devel
+intltool
+python3-devel
+python3-nose
+python3-setuptools
+systemd-units

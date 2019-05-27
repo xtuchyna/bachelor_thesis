@@ -1,0 +1,6 @@
+ant
+closure-compiler
+jarjar
+junit
+python2
+web-assets-devel

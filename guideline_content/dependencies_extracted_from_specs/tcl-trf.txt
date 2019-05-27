@@ -1,0 +1,5 @@
+bzip2-devel
+openssl-devel
+tcl-devel
+tk-devel
+zlib-devel

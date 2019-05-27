@@ -1,0 +1,4 @@
+glibmm24-devel >= 2.22.0
+gtkmm24-devel >= 2.19.2
+pangomm-devel >= 2.24.0
+vte-devel >= 0.26.0

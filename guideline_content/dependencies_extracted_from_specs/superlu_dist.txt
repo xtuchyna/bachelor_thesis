@@ -1,0 +1,10 @@
+gcc-gfortran
+metis-devel
+mpich-devel
+openblas-devel
+openmpi-devel
+ptscotch-mpich-devel
+ptscotch-mpich-devel-parmetis
+ptscotch-openmpi-devel
+ptscotch-openmpi-devel-parmetis
+scotch-devel

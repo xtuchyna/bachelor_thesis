@@ -1,0 +1,22 @@
+perl(Carp)
+perl(Exporter)
+perl(Lingua::GL::Stemmer)
+perl(Lingua::PT::Stemmer)
+perl(Lingua::Stem::Fr) >= 0.02
+perl(Lingua::Stem::It)
+perl(Lingua::Stem::Snowball::Da) >= 1.01
+perl(Lingua::Stem::Snowball::No) >= 1.00
+perl(Lingua::Stem::Snowball::Se) >= 1.01
+perl(Module::Build)
+perl(Pod::Coverage)
+perl(Test::Distribution)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Text::German)
+perl(blib)
+perl(lib)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

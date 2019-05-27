@@ -1,0 +1,5 @@
+autoconf
+automake
+doxygen
+glib2-devel
+libtool

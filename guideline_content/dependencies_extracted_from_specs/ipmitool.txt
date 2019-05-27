@@ -1,0 +1,7 @@
+autoconf
+automake
+libtool
+ncurses-devel
+openssl-devel
+readline-devel
+systemd

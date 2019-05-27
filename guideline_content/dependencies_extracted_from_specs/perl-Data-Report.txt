@@ -1,0 +1,4 @@
+perl(Module::Build)
+perl(Test::More)
+perl(Text::CSV)
+perl-generators

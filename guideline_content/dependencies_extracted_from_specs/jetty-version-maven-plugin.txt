@@ -1,0 +1,6 @@
+maven-local
+mvn(org.apache.commons:commons-lang3)
+mvn(org.apache.maven.plugins:maven-plugin-plugin)
+mvn(org.apache.maven:maven-plugin-api)
+mvn(org.apache.maven:maven-project)
+mvn(org.eclipse.jetty.toolchain:jetty-toolchain:pom:)

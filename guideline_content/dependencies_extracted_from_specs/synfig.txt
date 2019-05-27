@@ -1,0 +1,22 @@
+ETL-devel >= 0.04.21
+ImageMagick-c++-devel
+OpenEXR-devel
+autoconf
+automake
+boost-devel
+cairo-devel
+fftw-devel
+fontconfig-devel
+freetype-devel
+gettext-devel
+intltool
+libjpeg-devel
+libmng-devel
+libpng-devel
+libsigc++-devel
+libtiff-devel
+libtool
+libtool-ltdl-devel
+libxml++-devel
+mlt-devel
+pango-devel

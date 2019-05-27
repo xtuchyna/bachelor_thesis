@@ -1,0 +1,8 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.felix:felix-parent:pom:)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.felix:org.apache.felix.framework)
+mvn(org.apache.felix:org.apache.felix.utils)
+mvn(org.easymock:easymock)
+mvn(org.mockito:mockito-all)

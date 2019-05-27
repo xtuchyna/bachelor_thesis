@@ -1,0 +1,49 @@
+make
+perl(Algorithm::C3)
+perl(B)
+perl(Carp)
+perl(Class::C3)
+perl(Config)
+perl(Exporter)
+perl(Exporter::Declare)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(FileHandle)
+perl(FindBin)
+perl(Future) >= 0.29
+perl(IO::Handle)
+perl(IO::Select)
+perl(IO::Socket::INET)
+perl(IO::Socket::UNIX)
+perl(IPC::Open3)
+perl(JSON::PP)
+perl(List::Util)
+perl(Log::Contextual) >= 0.005
+perl(Log::Contextual::Role::Router)
+perl(MRO::Compat)
+perl(Method::Generate::BuildAll)
+perl(Method::Generate::DemolishAll)
+perl(Module::Runtime)
+perl(Moo) >= 1.006
+perl(Moo::HandleMoose::_TypeMap)
+perl(Moo::Role)
+perl(POSIX)
+perl(Scalar::Util)
+perl(String::ShellQuote)
+perl(Symbol)
+perl(Sys::Hostname)
+perl(Test::Fatal)
+perl(Test::More)
+perl(Tie::Array)
+perl(Tie::Handle)
+perl(Tie::Hash)
+perl(Time::HiRes)
+perl(base)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(strictures) >= 2
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

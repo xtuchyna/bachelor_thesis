@@ -1,0 +1,7 @@
+ghc-Cabal-devel
+ghc-containers-devel
+ghc-data-default-devel
+ghc-haskell-src-exts-devel
+ghc-rpm-macros
+ghc-transformers-devel
+ghc-uniplate-devel

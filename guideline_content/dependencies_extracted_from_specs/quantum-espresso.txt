@@ -1,0 +1,12 @@
+fftw3-devel
+gcc-gfortran
+make
+mpich
+mpich-devel
+openblas-devel
+openmpi
+openmpi-devel
+openssh-clients
+python
+scalapack-mpich-devel
+scalapack-openmpi-devel

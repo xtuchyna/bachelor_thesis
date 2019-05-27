@@ -1,0 +1,7 @@
+cxxtools-devel >= 2.2.1
+kernel-headers
+openssl-devel
+perl-generators
+systemd-units
+zip
+zlib-devel

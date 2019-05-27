@@ -1,0 +1,6 @@
+compat-openssl10-devel
+gcc
+libidn-devel
+make
+pcre-devel
+zlib-devel

@@ -1,0 +1,2 @@
+gcc
+pps-tools-devel

@@ -1,0 +1,3 @@
+doxygen
+glib2-devel
+libffi-devel

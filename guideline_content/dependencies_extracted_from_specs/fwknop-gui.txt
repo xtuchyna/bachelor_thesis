@@ -1,0 +1,11 @@
+asciidoc
+cmake
+desktop-file-utils
+fwknop-devel
+gcc-c++
+gpgme-devel
+libappstream-glib
+libcurl-devel
+make
+pkgconfig(libqrencode)
+wxGTK3-devel

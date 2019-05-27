@@ -1,0 +1,18 @@
+python2-devel
+python2-html5lib >= 0.999999999
+python2-pillow
+python2-pytest
+python2-pytest-cov
+python2-pytest-runner
+python2-regex
+python2-setuptools
+python2-six
+python3-devel
+python3-html5lib >= 0.999999999
+python3-pillow
+python3-pytest
+python3-pytest-cov
+python3-pytest-runner
+python3-regex
+python3-setuptools
+python3-six

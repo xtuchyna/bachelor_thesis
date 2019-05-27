@@ -1,0 +1,6 @@
+chrpath
+hicolor-icon-theme
+inkscape
+libjpeg-turbo-devel
+libtiff-devel
+xdg-utils

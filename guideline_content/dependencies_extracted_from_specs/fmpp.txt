@@ -1,0 +1,7 @@
+ant
+javapackages-local
+mvn(org.beanshell:bsh)
+mvn(org.freemarker:freemarker)
+mvn(oro:oro)
+mvn(xml-apis:xml-apis)
+mvn(xml-resolver:xml-resolver)

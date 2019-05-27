@@ -1,0 +1,6 @@
+ant-contrib
+eclipse-license
+eclipse-pde >= 1:4.4.0
+maven-antrun-plugin
+maven-dependency-plugin
+tycho

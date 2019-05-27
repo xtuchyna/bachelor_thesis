@@ -1,0 +1,42 @@
+perl(Capture::Tiny) >= 0.08
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Email::Abstract) >= 3.006
+perl(Email::Address)
+perl(Email::Simple) >= 1.998
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Path) >= 2.06
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::File)
+perl(IO::Handle)
+perl(JSON)
+perl(List::MoreUtils)
+perl(Module::Runtime)
+perl(Moo) >= 1.000008
+perl(Moo::Role)
+perl(MooX::Types::MooseLike::Base)
+perl(Net::SMTP)
+perl(Net::SMTP::SSL)
+perl(Pod::Coverage::TrustPod)
+perl(Scalar::Util)
+perl(Sub::Exporter)
+perl(Sub::Exporter::Util)
+perl(Sub::Override)
+perl(Sys::Hostname)
+perl(Test::MinimumVersion)
+perl(Test::MockObject)
+perl(Test::More) >= 0.96
+perl(Test::Pod) >= 1.41
+perl(Throwable::Error) >= 0.200003
+perl(Try::Tiny)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators

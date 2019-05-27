@@ -1,0 +1,16 @@
+apache-commons-net
+eclipse-emf-query
+eclipse-emf-runtime
+eclipse-gef
+eclipse-pde
+lpg-java-compat = 1.1.0
+lucene
+lucene-analysis
+lucene-queryparser
+tycho
+tycho-extras
+wsdl4j
+xalan-j2
+xerces-j2
+xml-commons-apis
+xml-commons-resolver

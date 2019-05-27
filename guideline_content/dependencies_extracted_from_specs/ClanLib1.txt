@@ -1,0 +1,15 @@
+SDL-devel
+SDL_gfx-devel
+libGLU-devel
+libICE-devel
+libX11-devel
+libXext-devel
+libXi-devel
+libXmu-devel
+libXt-devel
+libXxf86vm-devel
+libjpeg-devel
+libpng-devel
+libvorbis-devel
+mikmod-devel
+xorg-x11-proto-devel

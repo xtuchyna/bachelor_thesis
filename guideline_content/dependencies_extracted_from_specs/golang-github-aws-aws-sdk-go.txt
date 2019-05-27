@@ -1,0 +1,7 @@
+compiler(go-compiler)
+golang(github.com/go-ini/ini)
+golang(github.com/gucumber/gucumber)
+golang(github.com/jmespath/go-jmespath)
+golang(github.com/stretchr/testify/assert)
+golang(golang.org/x/net/html)
+golang(golang.org/x/tools/go/loader)

@@ -1,0 +1,20 @@
+make
+perl(Algorithm::Diff)
+perl(Exporter)
+perl(Module::Install::GithubMeta)
+perl(Module::Install::ReadmeFromPod)
+perl(Module::Install::ReadmeMarkdownFromPod)
+perl(Module::Install::Repository)
+perl(Test::Base)
+perl(Test::More)
+perl(Test::Perl::Critic)
+perl(Test::Pod) >= 1.00
+perl(Test::Spelling)
+perl(YAML)
+perl(base)
+perl(inc::Module::Install)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

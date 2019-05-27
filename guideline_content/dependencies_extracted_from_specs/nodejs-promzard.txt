@@ -1,0 +1,3 @@
+nodejs-packaging
+npm(read)
+npm(tap)

@@ -1,0 +1,30 @@
+autoconf
+automake
+bison
+byacc
+bzip2-devel
+coreutils
+docbook-style-xsl
+findutils
+flex
+git
+gnutls-devel
+grep
+help2man
+libqb-devel >= 0.13.0
+libtool
+libtool-ltdl-devel
+libuuid-devel
+libxml2-devel
+libxslt-devel
+ncurses-devel
+pam-devel
+pkgconfig
+pkgconfig(dbus-1)
+pkgconfig(glib-2.0) >= 2.6
+pkgconfig(libcfg)
+pkgconfig(libcpg)
+pkgconfig(systemd)
+python-devel >= 2.6
+resource-agents
+sed

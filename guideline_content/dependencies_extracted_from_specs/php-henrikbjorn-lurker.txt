@@ -1,0 +1,9 @@
+php(language) >= 5.3.3
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(symfony/config) < 4.0
+php-composer(symfony/config) >= 2.7.1
+php-composer(symfony/event-dispatcher) < 4.0
+php-composer(symfony/event-dispatcher) >= 2.7.1
+php-pcre
+php-spl

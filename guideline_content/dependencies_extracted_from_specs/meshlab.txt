@@ -1,0 +1,14 @@
+ImageMagick
+bzip2-devel
+chrpath
+desktop-file-utils
+glew-devel
+levmar-devel
+lib3ds-devel
+mpir-devel
+muParser-devel
+qhull-devel
+qt5-qtbase-devel
+qt5-qtscript-devel
+qt5-qtxmlpatterns-devel
+qtsoap5-devel

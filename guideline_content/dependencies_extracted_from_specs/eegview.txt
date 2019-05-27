@@ -1,0 +1,7 @@
+/usr/bin/desktop-file-validate
+autoconf
+automake
+eegdev-devel
+gcc
+mcpanel-devel
+xdffileio-devel

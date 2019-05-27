@@ -1,0 +1,7 @@
+cmake
+desktop-file-utils
+libqxt-devel
+phonon-devel
+pkgconfig
+qt-devel
+taglib-devel

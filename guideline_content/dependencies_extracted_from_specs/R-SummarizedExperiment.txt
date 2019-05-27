@@ -1,0 +1,14 @@
+R-Biobase
+R-BiocGenerics >= 0.15.3
+R-DelayedArray >= 0.3.20
+R-GenomeInfoDb >= 1.13.1
+R-GenomicRanges >= 1.29.14
+R-IRanges-devel >= 2.11.17
+R-Matrix
+R-S4Vectors-devel >= 0.13.13
+R-devel >= 3.2.0
+R-methods
+R-stats
+R-tools
+R-utils
+texlive-latex

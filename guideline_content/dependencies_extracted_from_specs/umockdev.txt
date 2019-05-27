@@ -1,0 +1,12 @@
+autoconf
+automake
+chrpath
+glib2-devel
+gobject-introspection-devel
+gphoto2
+gtk-doc
+libgudev1-devel
+libtool
+python3
+systemd-devel
+vala

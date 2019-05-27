@@ -1,0 +1,6 @@
+perl(Date::Calc)
+perl(Date::Format)
+perl(Date::Manip)
+perl(ExtUtils::MakeMaker)
+perl(File::Tail)
+perl-generators

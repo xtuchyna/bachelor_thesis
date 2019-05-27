@@ -1,0 +1,11 @@
+alsa-lib-devel
+ant
+ant-commons-net
+cdparanoia-devel
+fluidsynth-devel
+java-devel
+java-headless
+jorbis
+jpackage-utils
+libtool
+libvorbis-devel

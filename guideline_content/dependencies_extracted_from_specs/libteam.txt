@@ -1,0 +1,7 @@
+dbus-devel
+doxygen
+jansson-devel
+libdaemon-devel
+libnl3-devel
+python2-devel
+swig

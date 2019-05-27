@@ -1,0 +1,2 @@
+gcc
+libao-devel

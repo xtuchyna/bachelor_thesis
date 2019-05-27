@@ -1,0 +1,9 @@
+/usr/bin/phpunit
+php(language) >= 5.3
+php-ctype
+php-filter
+php-pcre
+php-spl
+php-tokenizer
+php-xmlreader
+php-xmlwriter

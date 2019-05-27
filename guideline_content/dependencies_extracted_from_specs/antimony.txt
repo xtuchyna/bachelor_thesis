@@ -1,0 +1,10 @@
+boost-python3-devel
+cmake
+desktop-file-utils
+flex
+lemon
+libappstream-glib
+libpng-devel
+python3-devel
+qt5-qtbase-devel
+zlib-devel

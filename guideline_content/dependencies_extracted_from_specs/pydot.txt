@@ -1,0 +1,6 @@
+pyparsing
+python2-devel
+python2-setuptools
+python3-devel
+python3-pyparsing
+python3-setuptools

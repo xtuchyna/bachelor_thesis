@@ -1,0 +1,7 @@
+cairomm-devel
+cmake
+faust
+jack-audio-connection-kit-devel
+libsndfile-devel
+lv2-devel
+non-ntk-devel

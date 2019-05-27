@@ -1,0 +1,4 @@
+gmp-devel
+perl(Unicode::EastAsianWidth)
+texi2html
+texinfo-tex

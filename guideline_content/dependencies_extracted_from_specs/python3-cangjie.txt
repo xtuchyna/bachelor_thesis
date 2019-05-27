@@ -1,0 +1,6 @@
+autoconf
+automake
+libcangjie-devel >= 1.2
+libtool
+python3-Cython
+python3-devel

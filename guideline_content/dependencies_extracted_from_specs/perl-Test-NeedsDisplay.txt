@@ -1,0 +1,18 @@
+coreutils
+findutils
+make
+perl(Config)
+perl(File::Spec) >= 0.80
+perl(Module::Install::External)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::More) >= 0.47
+perl(inc::Module::Install) >= 0.77
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed
+xorg-x11-apps
+xorg-x11-server-Xvfb

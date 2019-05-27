@@ -1,0 +1,15 @@
+perl(DateTime)
+perl(DateTime::Duration)
+perl(DateTime::Locale)
+perl(DateTime::TimeZone) >= 0.95
+perl(Module::Build::Tiny)
+perl(Moose) >= 0.41
+perl(MooseX::Types) >= 0.30
+perl(MooseX::Types::Moose) >= 0.30
+perl(Pod::Coverage)
+perl(Test::Exception) >= 0.27
+perl(Test::Fatal)
+perl(Test::More)
+perl(Test::use::ok) >= 0.02
+perl(namespace::clean) >= 0.08
+perl-generators

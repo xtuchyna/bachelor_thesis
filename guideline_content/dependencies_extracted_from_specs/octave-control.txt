@@ -1,0 +1,3 @@
+blas-devel
+lapack-devel
+octave-devel >= 3.8.0

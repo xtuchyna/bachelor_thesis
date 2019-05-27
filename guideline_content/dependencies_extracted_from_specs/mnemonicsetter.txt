@@ -1,0 +1,2 @@
+gradle-local
+mvn(org.mockito:mockito-all)

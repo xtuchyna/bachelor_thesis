@@ -1,0 +1,5 @@
+desktop-file-utils
+dnssec-tools-libs-devel >= 2.0
+libpcap-devel
+openssl-devel
+qt-devel

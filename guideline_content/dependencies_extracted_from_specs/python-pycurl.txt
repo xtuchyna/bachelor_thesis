@@ -1,0 +1,12 @@
+gcc
+libcurl-devel
+openssl-devel
+python2-bottle
+python2-devel
+python2-nose
+python2-pyflakes
+python3-bottle
+python3-devel
+python3-nose
+python3-pyflakes
+vsftpd

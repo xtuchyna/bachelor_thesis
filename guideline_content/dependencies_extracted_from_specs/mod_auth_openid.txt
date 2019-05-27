@@ -1,0 +1,8 @@
+autoconf
+httpd-devel
+libcurl-devel
+libopkele-devel
+libtool
+pcre-devel
+sqlite-devel
+tidy-devel

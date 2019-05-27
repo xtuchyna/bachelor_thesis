@@ -1,0 +1,9 @@
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Qml)
+pkgconfig(Qt5Quick)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5Test)
+python3-devel
+qt5-qtbase-devel
+qt5-qtbase-private-devel
+xorg-x11-server-Xvfb

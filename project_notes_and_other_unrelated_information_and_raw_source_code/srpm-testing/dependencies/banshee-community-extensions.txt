@@ -1,0 +1,18 @@
+GConf2-devel
+autoconf
+automake
+banshee-devel
+fftw-devel
+gcc-c++
+gnome-doc-utils
+gnome-sharp-devel
+gstreamer-devel
+gstreamer-plugins-base-devel
+intltool
+libsamplerate-devel
+libtool
+lirc-devel
+mono-devel
+notify-sharp-devel
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

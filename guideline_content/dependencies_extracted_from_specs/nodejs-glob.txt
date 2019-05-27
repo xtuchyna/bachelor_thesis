@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(inflight)
+npm(path-is-absolute)
+npm(rimraf)
+npm(tap)

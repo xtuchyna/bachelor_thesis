@@ -1,0 +1,12 @@
+asciidoc
+libudev-devel
+meson
+pkgconfig(gio-2.0)
+pkgconfig(libudev)
+pkgconfig(systemd)
+polkit-devel
+pygobject3-devel
+python3-dbus
+python3-dbusmock
+systemd
+umockdev-devel

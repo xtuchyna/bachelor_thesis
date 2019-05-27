@@ -1,0 +1,18 @@
+findutils
+make
+perl(Carp)
+perl(Class::Load)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Perl::Version)
+perl(Sub::Exporter::Progressive)
+perl(Test::CheckDeps) >= 0.010
+perl(Test::More) >= 0.94
+perl(blib) >= 1.01
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

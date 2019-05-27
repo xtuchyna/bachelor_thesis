@@ -1,0 +1,9 @@
+mocha
+nodejs-packaging
+npm(debug)
+npm(finalhandler)
+npm(parseurl)
+npm(should)
+npm(should-http)
+npm(supertest)
+npm(utils-merge)

@@ -1,0 +1,16 @@
+cmake
+libtool
+mingw32-binutils
+mingw32-filesystem >= 95
+mingw32-gcc
+mingw32-gettext
+mingw32-readline
+mingw32-win-iconv
+mingw32-zlib
+mingw64-binutils
+mingw64-filesystem >= 95
+mingw64-gcc
+mingw64-gettext
+mingw64-readline
+mingw64-win-iconv
+mingw64-zlib

@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(Time::Local)
+perl(XML::TreePP)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

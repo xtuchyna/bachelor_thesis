@@ -1,0 +1,4 @@
+SDL-devel
+autoconf >= 2.69
+chrpath
+libpng-devel

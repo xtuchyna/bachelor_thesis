@@ -1,0 +1,11 @@
+ImageMagick
+catch1-devel
+cmake
+cppunit-devel
+doxygen
+gcc-c++
+graphviz
+help2man
+libstdc++-devel
+libtool
+zlib-devel

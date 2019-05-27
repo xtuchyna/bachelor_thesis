@@ -1,0 +1,7 @@
+/usr/bin/2to3
+python2-devel
+python2-portalocker
+python2-setuptools
+python3-devel
+python3-portalocker
+python3-setuptools

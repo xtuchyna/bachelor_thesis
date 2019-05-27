@@ -1,0 +1,12 @@
+perl(Config)
+perl(Cwd)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Copy)
+perl(Getopt::Long)
+perl(IO::File)
+perl(Test)
+perl(XSLoader)
+perl(strict)
+perl-devel
+perl-generators
+perl-interpreter

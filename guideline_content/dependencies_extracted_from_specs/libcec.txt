@@ -1,0 +1,8 @@
+cmake
+libXrandr-devel
+lockdev-devel
+ncurses-devel
+platform-devel
+python3-devel
+swig
+systemd-devel

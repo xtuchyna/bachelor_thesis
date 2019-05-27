@@ -1,0 +1,14 @@
+perl
+pkgconfig(NetworkManager)
+pkgconfig(QtCore)
+pkgconfig(QtDeclarative)
+pkgconfig(QtGui)
+pkgconfig(QtNetwork) >= 4.7
+pkgconfig(QtOpenGL)
+pkgconfig(alsa)
+pkgconfig(blkid)
+pkgconfig(bluez)
+pkgconfig(libpulse)
+pkgconfig(libudev)
+pkgconfig(xv)
+proj-devel

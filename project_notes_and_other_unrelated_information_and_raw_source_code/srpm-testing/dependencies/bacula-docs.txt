@@ -1,0 +1,9 @@
+ghostscript
+inkscape
+latex2html
+perl(HTML::Parser)
+perl(HTML::TreeBuilder)
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+tex(multirow.sty)
+tex(setspace.sty)

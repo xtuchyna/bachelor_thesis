@@ -1,0 +1,4 @@
+R-devel
+R-mime
+R-utils
+tex(latex)

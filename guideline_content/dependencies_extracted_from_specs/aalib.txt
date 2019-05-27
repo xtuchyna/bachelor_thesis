@@ -1,0 +1,6 @@
+autoconf
+gpm-devel
+libXt-devel
+libtool
+ncurses-devel
+slang-devel

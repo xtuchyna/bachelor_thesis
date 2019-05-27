@@ -1,0 +1,6 @@
+graphviz
+python2-devel
+python2-pydot
+python2-pytest
+python2-setuptools
+python2-sqlalchemy

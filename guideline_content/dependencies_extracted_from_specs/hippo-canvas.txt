@@ -1,0 +1,14 @@
+autoconf
+automake
+cairo-devel
+glib2-devel
+gtk-doc
+gtk2-devel
+libcroco-devel
+librsvg2-devel
+libtool
+pango-devel
+perl-Carp
+pygtk2-devel
+python2-cairo-devel
+python2-devel

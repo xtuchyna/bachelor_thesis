@@ -1,0 +1,8 @@
+autoconf
+automake
+glib2-devel
+gobject-introspection-devel
+gtk-doc
+libtool
+pkgconfig
+signon-devel

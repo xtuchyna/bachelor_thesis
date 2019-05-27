@@ -1,0 +1,16 @@
+coreutils
+findutils
+make
+perl(Carp::Heavy)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Pod::Coverage::CountParents)
+perl(Pod::Eventual::Simple)
+perl(Pod::Find)
+perl(Test::More) >= 0.88
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

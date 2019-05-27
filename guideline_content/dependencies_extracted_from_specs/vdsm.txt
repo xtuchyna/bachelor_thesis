@@ -1,0 +1,28 @@
+PyYAML
+cyrus-sasl-lib
+dosfstools
+genisoimage
+libnl3
+libselinux-python
+libvirt-python
+m2crypto
+mom >= 0.5.5
+openssl
+openvswitch >= 2.0.0
+policycoreutils-python
+psmisc
+python
+python-cpopen >= 1.4
+python-inotify
+python-ioprocess >= 0.16.1-1
+python-mock
+python-netaddr
+python-nose
+python-pthreading
+python-six >= 1.9.0
+python2-devel
+qemu-img
+rpm-build
+rpm-python
+sanlock-python
+systemd-units

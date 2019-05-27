@@ -1,0 +1,6 @@
+jna
+maven-local
+mvn(javassist:javassist)
+mvn(junit:junit)
+mvn(org.apache.commons:commons-parent:pom:)
+mvn(org.easymock:easymock)

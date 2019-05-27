@@ -1,0 +1,3 @@
+asciidoc
+python3-devel
+python3-rpm

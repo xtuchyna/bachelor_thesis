@@ -1,0 +1,31 @@
+coreutils
+findutils
+gcc
+perl(Config)
+perl(Data::Dumper)
+perl(Devel::PPPort) >= 3.19
+perl(Exporter)
+perl(ExtUtils::ParseXS) >= 2.21
+perl(File::Basename)
+perl(File::Spec)
+perl(Hash::Util::FieldHash)
+perl(Module::Build) >= 0.40.05
+perl(Scalar::Util)
+perl(Symbol)
+perl(Test::LeakTrace) >= 0.07
+perl(Test::More) >= 0.62
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::Synopsis)
+perl(XSLoader) >= 0.02
+perl(constant)
+perl(if)
+perl(overload)
+perl(parent) >= 0.221
+perl(strict)
+perl(threads)
+perl(utf8)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

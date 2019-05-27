@@ -1,0 +1,7 @@
+perl(CGI)
+perl(CGI::Application)
+perl(Module::Build)
+perl(Params::Validate)
+perl(Test::More)
+perl(Test::Pod)
+perl-generators

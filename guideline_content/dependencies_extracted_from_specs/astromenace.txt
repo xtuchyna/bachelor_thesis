@@ -1,0 +1,10 @@
+SDL-devel
+cmake
+desktop-file-utils
+freealut-devel >= 1.1.0-10
+freetype-devel
+libXinerama-devel
+libjpeg-devel
+libogg-devel
+libvorbis-devel
+openal-soft-devel

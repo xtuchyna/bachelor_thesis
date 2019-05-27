@@ -1,0 +1,8 @@
+desktop-file-utils
+gtk2-devel
+libXau-devel
+libXdmcp-devel
+mesa-libGL-devel
+mesa-libGLU-devel
+motif-devel
+pam-devel

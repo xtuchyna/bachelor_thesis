@@ -1,0 +1,8 @@
+maven-local
+mvn(com.google.code.gson:gson)
+mvn(junit:junit)
+mvn(net.iharder:base64)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.mockito:mockito-all)
+mvn(org.sonatype.oss:oss-parent:pom:)

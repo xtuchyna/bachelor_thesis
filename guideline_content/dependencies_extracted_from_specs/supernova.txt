@@ -1,0 +1,9 @@
+python2-click
+python2-configobj
+python2-coverage
+python2-devel
+python2-keyring
+python2-pytest
+python2-setuptools
+python2-six
+python2-tox

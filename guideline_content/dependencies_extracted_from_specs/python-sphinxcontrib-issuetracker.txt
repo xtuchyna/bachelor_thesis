@@ -1,0 +1,6 @@
+python-requests
+python-sphinx >= 1.1
+python2-devel
+python3-devel
+python3-requests
+python3-sphinx >= 1.1

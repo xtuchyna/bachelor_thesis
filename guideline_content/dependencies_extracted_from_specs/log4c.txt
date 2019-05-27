@@ -1,0 +1,5 @@
+doxygen-latex
+expat-devel
+graphviz
+tex(adjustbox.sty)
+tex(tabu.sty)

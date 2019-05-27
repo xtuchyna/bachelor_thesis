@@ -1,0 +1,11 @@
+python-cov-core
+python-srpm-macros
+python2-devel
+python2-mock
+python2-setuptools
+python2-six
+python3-cov-core
+python3-devel
+python3-mock
+python3-setuptools
+python3-six

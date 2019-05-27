@@ -1,0 +1,35 @@
+perl(CGI)
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Getopt::Long)
+perl(HTML::Form) >= 1.038
+perl(HTML::HeadParser)
+perl(HTML::TokeParser) >= 2.28
+perl(HTML::TreeBuilder)
+perl(HTTP::Daemon)
+perl(HTTP::Request) >= 1.3
+perl(HTTP::Response::Encoding) >= 0.05
+perl(HTTP::Server::Simple) >= 0.35
+perl(HTTP::Server::Simple::CGI)
+perl(IO::Socket::SSL)
+perl(LWP) >= 5.829
+perl(LWP::UserAgent) >= 5.829
+perl(Pod::Usage)
+perl(Test::Deep)
+perl(Test::Exception)
+perl(Test::Fatal)
+perl(Test::Memory::Cycle)
+perl(Test::More) >= 0.34
+perl(Test::Needs)
+perl(Test::NoWarnings)
+perl(Test::Output)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Test::RequiresInternet)
+perl(Test::Taint)
+perl(Test::Warn) >= 0.11
+perl(Test::Warnings)
+perl(URI) >= 1.36
+perl(URI::URL)
+perl(URI::file)
+perl-generators

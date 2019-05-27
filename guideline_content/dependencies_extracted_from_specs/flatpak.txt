@@ -1,0 +1,20 @@
+/usr/bin/xmlto
+/usr/bin/xsltproc
+bubblewrap >= 0.1.8
+docbook-dtds
+docbook-style-xsl
+gettext
+gpgme-devel
+libcap-devel
+pkgconfig(appstream-glib)
+pkgconfig(gio-unix-2.0)
+pkgconfig(gobject-introspection-1.0) >= 1.40.0
+pkgconfig(json-glib-1.0)
+pkgconfig(libarchive) >= 2.8.0
+pkgconfig(libseccomp)
+pkgconfig(libsoup-2.4)
+pkgconfig(libxml-2.0) >= 2.4
+pkgconfig(ostree-1) >= 2017.14
+pkgconfig(polkit-gobject-1)
+pkgconfig(xau)
+systemd

@@ -1,0 +1,5 @@
+desktop-file-utils
+kdelibs4-devel >= 4.14
+pkgconfig(qimageblitz)
+python2
+python2-devel

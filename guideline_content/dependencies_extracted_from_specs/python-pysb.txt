@@ -1,0 +1,5 @@
+dvipng
+python-numpydoc
+python-sphinx
+python2-devel
+tex(latex)

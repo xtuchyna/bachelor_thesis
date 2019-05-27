@@ -1,0 +1,21 @@
+PyYAML
+cmake
+python-catkin_pkg >= 0.2.9
+python-pep8
+python-sphinx
+python-trollius
+python2-devel
+python2-flake8
+python2-mock
+python2-nose
+python2-osrf-pycommon >= 0.1.1
+python2-setuptools
+python3-PyYAML
+python3-catkin_pkg >= 0.2.9
+python3-devel
+python3-flake8
+python3-mock
+python3-nose
+python3-osrf-pycommon >= 0.1.1
+python3-pep8
+python3-trollius

@@ -1,0 +1,7 @@
+gettext-autopoint
+gettext-devel
+glib2-devel
+libtool
+pkgconfig
+python-devel
+rarian-compat

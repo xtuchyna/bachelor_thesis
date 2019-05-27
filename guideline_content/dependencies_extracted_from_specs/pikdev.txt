@@ -1,0 +1,3 @@
+autoconf
+desktop-file-utils
+kdelibs3-devel

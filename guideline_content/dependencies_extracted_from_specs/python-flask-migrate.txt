@@ -1,0 +1,12 @@
+python-alembic
+python-flask
+python-flask-script
+python2-devel
+python2-flask-sqlalchemy
+python2-setuptools
+python3-alembic
+python3-devel
+python3-flask
+python3-flask-script
+python3-flask-sqlalchemy
+python3-setuptools

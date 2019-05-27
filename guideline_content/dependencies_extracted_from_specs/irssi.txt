@@ -1,0 +1,11 @@
+autoconf
+automake
+glib2-devel
+libtool
+ncurses-devel
+openssl-devel
+perl(ExtUtils::Embed)
+perl-devel
+perl-generators
+pkgconfig
+zlib-devel

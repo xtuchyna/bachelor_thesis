@@ -1,0 +1,15 @@
+perl(Carp)
+perl(DBI) >= 1
+perl(Data::Dumper)
+perl(Module::Build)
+perl(Scalar::Util)
+perl(Sub::Exporter)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(base)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

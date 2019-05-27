@@ -1,0 +1,13 @@
+SDL-devel
+SDL-static
+SDL_image-devel
+SDL_mixer-devel >= 1.2.6
+SDL_ttf-devel
+bison
+desktop-file-utils
+flex
+groff
+hardlink
+libpng-devel
+ncurses-devel
+util-linux

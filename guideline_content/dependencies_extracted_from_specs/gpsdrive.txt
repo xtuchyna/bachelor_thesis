@@ -1,0 +1,19 @@
+autoconf
+boost-devel
+cmake
+desktop-file-utils
+gettext
+gpsd-devel
+gtk2-devel >= 2.0.6
+intltool
+libcurl-devel
+libicu-devel
+libtool-ltdl-devel
+libxml2-devel
+m4
+pcre-devel
+perl-devel
+perl-generators
+postgresql-devel
+speech-dispatcher-devel
+sqlite-devel

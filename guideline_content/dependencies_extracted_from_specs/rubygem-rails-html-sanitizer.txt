@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(loofah)
+rubygem(minitest)
+rubygem(rails-dom-testing)
+rubygems-devel

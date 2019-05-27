@@ -1,0 +1,40 @@
+/usr/lib64/libfbclient.so
+coreutils
+findutils
+firebird >= 2.5.1
+gcc
+libicu-devel
+make
+perl(:VERSION) >= 5.10.1
+perl(Carp)
+perl(Config)
+perl(DBI) >= 1.43
+perl(DBI::DBD)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(File::Which)
+perl(Getopt::Long)
+perl(Math::BigFloat) >= 1.55
+perl(POSIX)
+perl(Test::CheckDeps) >= 0.007
+perl(Test::Deep)
+perl(Test::Exception)
+perl(Test::More) >= 0.94
+perl(Time::HiRes)
+perl(base)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

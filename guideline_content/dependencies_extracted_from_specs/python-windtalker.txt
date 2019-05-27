@@ -1,0 +1,6 @@
+python-cryptography
+python2-devel
+python2-rsa
+python3-cryptography
+python3-devel
+python3-rsa

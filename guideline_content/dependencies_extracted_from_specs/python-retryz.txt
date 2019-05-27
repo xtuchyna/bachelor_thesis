@@ -1,0 +1,6 @@
+python2-devel
+python2-hamcrest
+python2-pytest
+python3-devel
+python3-hamcrest
+python3-pytest

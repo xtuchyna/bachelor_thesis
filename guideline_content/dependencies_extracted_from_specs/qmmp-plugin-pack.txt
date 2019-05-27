@@ -1,0 +1,8 @@
+cmake
+libsamplerate-devel
+libxmp-devel
+mpg123-devel
+qmmp-devel >= 1.0.0
+qt5-linguist
+taglib-devel
+yasm

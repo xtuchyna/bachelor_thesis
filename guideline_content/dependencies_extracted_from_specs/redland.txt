@@ -1,0 +1,10 @@
+curl-devel
+libdb-devel
+libtool-ltdl-devel
+libxml2-devel >= 2.4.0
+mariadb-connector-c-devel
+perl-interpreter
+postgresql-devel
+raptor2-devel
+rasqal-devel >= 0.9.26
+sqlite-devel

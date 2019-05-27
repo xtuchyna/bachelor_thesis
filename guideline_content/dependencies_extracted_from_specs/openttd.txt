@@ -1,0 +1,13 @@
+SDL-devel
+ccache
+desktop-file-utils
+doxygen
+fontconfig-devel
+freetype-devel
+libicu-devel
+libpng-devel
+libtimidity-devel
+lzo-devel
+unzip
+xz-devel
+zlib-devel

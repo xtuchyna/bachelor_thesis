@@ -1,0 +1,10 @@
+autoconf
+autoconf-archive
+automake
+libdrm-devel
+libepoxy-devel
+libtool
+mesa-libEGL-devel
+mesa-libgbm-devel
+python
+xorg-x11-util-macros

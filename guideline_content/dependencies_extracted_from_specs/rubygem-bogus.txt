@@ -1,0 +1,7 @@
+ruby(release)
+rubygem(activerecord)
+rubygem(activerecord-nulldb-adapter)
+rubygem(dependor) >= 0.0.4
+rubygem(rspec)
+rubygem(simplecov)
+rubygems-devel

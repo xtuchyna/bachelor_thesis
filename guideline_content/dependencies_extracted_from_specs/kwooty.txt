@@ -1,0 +1,4 @@
+desktop-file-utils
+gettext
+kde-workspace-devel
+kdelibs4-devel

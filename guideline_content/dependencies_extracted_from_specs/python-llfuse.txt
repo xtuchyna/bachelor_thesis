@@ -1,0 +1,12 @@
+fuse >= 2.9.0
+fuse-devel >= 2.9.0
+libattr-devel
+python2-contextlib2
+python2-devel
+python2-pytest
+python2-pytest-catchlog
+python2-setuptools
+python3-devel
+python3-pytest
+python3-pytest-catchlog
+python3-setuptools

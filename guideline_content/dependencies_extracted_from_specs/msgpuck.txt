@@ -1,0 +1,4 @@
+cmake >= 2.8
+coreutils
+doxygen >= 1.6.0
+gcc

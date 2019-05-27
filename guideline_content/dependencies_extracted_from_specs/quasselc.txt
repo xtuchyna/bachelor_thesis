@@ -1,0 +1,3 @@
+gcc
+pkgconfig(glib-2.0)
+zlib-devel

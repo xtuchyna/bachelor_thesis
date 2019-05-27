@@ -1,0 +1,7 @@
+dos2unix
+gcc
+gcc-c++
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+tofrodos
+zlib-devel

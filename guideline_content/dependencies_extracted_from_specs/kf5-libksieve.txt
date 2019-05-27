@@ -1,0 +1,26 @@
+cmake(Qt5Network)
+cmake(Qt5Test)
+cmake(Qt5UiTools)
+cmake(Qt5Widgets)
+cmake(Qt5Xml)
+extra-cmake-modules >= 5.23.0
+kf5-akonadi-contacts-devel >= 17.12.3
+kf5-akonadi-server-devel >= 17.12.3
+kf5-karchive-devel >= 5.23.0
+kf5-kcalendarcore-devel >= 17.12.3
+kf5-kconfig-devel >= 5.23.0
+kf5-ki18n-devel >= 5.23.0
+kf5-kiconthemes-devel >= 5.23.0
+kf5-kidentitymanagement-devel >= 17.12.3
+kf5-kmailtransport-devel >= 17.12.3
+kf5-kmime-devel >= 17.12.3
+kf5-knewstuff-devel >= 5.23.0
+kf5-kpimtextedit-devel >= 17.12.3
+kf5-ktextwidgets-devel >= 5.23.0
+kf5-kwidgetsaddons-devel >= 5.23.0
+kf5-kwindowsystem-devel >= 5.23.0
+kf5-libkdepim-devel >= 17.12.3
+kf5-pimcommon-devel >= 17.12.3
+kf5-rpm-macros >= 5.23.0
+kf5-syntax-highlighting-devel >= 5.23.0
+pkgconfig(Qt5WebEngineWidgets)

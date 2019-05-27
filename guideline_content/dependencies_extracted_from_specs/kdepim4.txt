@@ -1,0 +1,21 @@
+baloo-devel >= 4.14
+bison
+boost-devel
+cyrus-sasl-devel
+desktop-file-utils
+flex
+gettext
+grantlee-devel >= 0.5.0
+kdelibs4-devel >= 4.14
+kdelibs4-webkit-devel
+kdepimlibs-devel >= 4.14.7
+libassuan-devel
+pkgconfig(QJson)
+pkgconfig(akonadi) >= 1.12.90
+pkgconfig(libical)
+pkgconfig(libxslt)
+pkgconfig(qca2)
+pkgconfig(xscrnsaver)
+python-devel
+sed
+zlib-devel

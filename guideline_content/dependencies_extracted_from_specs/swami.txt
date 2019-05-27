@@ -1,0 +1,8 @@
+cmake
+desktop-file-utils
+fftw-devel
+fluidsynth-devel
+libglade2-devel
+libgnomecanvas-devel
+libinstpatch-devel
+librsvg2-devel

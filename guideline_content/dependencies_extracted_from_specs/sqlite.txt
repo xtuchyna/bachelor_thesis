@@ -1,0 +1,6 @@
+/usr/bin/tclsh
+autoconf
+glibc-devel
+ncurses-devel
+readline-devel
+tcl-devel

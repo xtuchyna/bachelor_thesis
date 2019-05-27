@@ -1,0 +1,6 @@
+alsa-lib-devel
+desktop-file-utils
+gettext
+intltool
+jack-audio-connection-kit-devel
+libglade2-devel

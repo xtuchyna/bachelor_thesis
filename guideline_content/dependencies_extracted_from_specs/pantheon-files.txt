@@ -1,0 +1,23 @@
+cmake
+desktop-file-utils
+gettext
+intltool
+libappstream-glib
+pkgconfig(dbus-glib-1)
+pkgconfig(gail-3.0)
+pkgconfig(gee-0.8)
+pkgconfig(gio-2.0)
+pkgconfig(gio-unix-2.0)
+pkgconfig(glib-2.0) >= 2.29
+pkgconfig(gmodule-2.0)
+pkgconfig(granite) >= 0.3.0
+pkgconfig(gthread-2.0)
+pkgconfig(gtk+-3.0) >= 3.10
+pkgconfig(libcanberra) >= 0.30
+pkgconfig(libnotify) >= 0.7.2
+pkgconfig(pango) >= 1.1.2
+pkgconfig(plank)
+pkgconfig(sqlite3)
+pkgconfig(unity) >= 4.0.0
+pkgconfig(zeitgeist-2.0)
+vala >= 0.34.0

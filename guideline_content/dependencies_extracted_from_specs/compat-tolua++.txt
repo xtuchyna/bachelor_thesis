@@ -1,0 +1,2 @@
+compat-lua-devel >= 5.1
+scons

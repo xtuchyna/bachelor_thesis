@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-appar-devel
+ghc-byteorder-devel
+ghc-containers-devel
+ghc-network-devel
+ghc-rpm-macros

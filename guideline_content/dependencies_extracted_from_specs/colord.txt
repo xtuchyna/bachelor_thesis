@@ -1,0 +1,18 @@
+argyllcms
+bash-completion
+color-filesystem
+dbus-devel
+docbook-utils
+gettext
+glib2-devel
+gobject-introspection-devel
+gtk-doc
+lcms2-devel >= 2.6
+libgudev1-devel
+libgusb-devel >= 0.2.2
+meson
+polkit-devel >= 0.103
+sqlite-devel
+systemd
+systemd-devel
+vala-tools

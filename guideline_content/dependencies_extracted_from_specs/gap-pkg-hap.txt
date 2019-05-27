@@ -1,0 +1,17 @@
+GAPDoc-latex
+ImageMagick
+asymptote
+gap-devel
+gap-pkg-aclib
+gap-pkg-congruence
+gap-pkg-crystcat
+gap-pkg-edim
+gap-pkg-fga
+gap-pkg-nq
+gap-pkg-polycyclic
+gap-pkg-polymaking
+gcc
+graphviz
+perl-interpreter
+vim-minimal
+xdg-utils

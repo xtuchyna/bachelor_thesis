@@ -1,0 +1,6 @@
+/usr/bin/pod2man
+gcc
+perl(Digest::MD5)
+perl(GnuPG::Interface)
+perl(Term::ReadKey)
+perl-generators

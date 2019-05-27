@@ -1,0 +1,4 @@
+doxygen
+graphviz
+pkgconfig(Qt5Gui)
+pkgconfig(libaccounts-glib) >= 1.23

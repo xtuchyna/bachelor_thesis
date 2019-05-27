@@ -1,0 +1,20 @@
+boost-devel
+cmake(KF5Codecs)
+cmake(KF5Completion)
+cmake(KF5I18n)
+cmake(KF5IconThemes)
+cmake(KF5ItemViews)
+cmake(KF5KCMUtils)
+cmake(KF5Wallet)
+cmake(Qt5Designer)
+cmake(Qt5UiTools)
+cmake(Qt5Widgets)
+extra-cmake-modules >= 5.23
+kf5-akonadi-contacts-devel >= 17.12.3
+kf5-akonadi-search-devel >= 17.12.3
+kf5-akonadi-server-devel >= 17.12.3
+kf5-kcontacts-devel >= 17.12.3
+kf5-kimap-devel >= 17.12.3
+kf5-kldap-devel >= 17.12.3
+kf5-kmime-devel >= 17.12.3
+kf5-rpm-macros >= 5.23

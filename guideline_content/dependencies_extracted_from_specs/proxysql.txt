@@ -1,0 +1,6 @@
+cmake
+libconfig-devel
+libdaemon-devel
+openssl-devel
+sqlite-devel
+systemd

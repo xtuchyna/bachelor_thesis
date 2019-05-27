@@ -1,0 +1,6 @@
+dbus-python
+libpurple-devel >= 2.7
+libxslt
+pygobject2
+python-twisted-words
+telepathy-glib-devel >= 0.15.1

@@ -1,0 +1,4 @@
+libtool
+qt-devel
+tcl-devel
+tk-devel

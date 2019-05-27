@@ -1,0 +1,7 @@
+lmdb-devel
+python2-cffi
+python2-devel
+python2-nose
+python3-cffi
+python3-devel
+python3-nose

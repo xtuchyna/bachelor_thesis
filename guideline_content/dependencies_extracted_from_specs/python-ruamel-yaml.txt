@@ -1,0 +1,9 @@
+libyaml-devel
+pytest
+python-setuptools
+python2-devel
+python2-ruamel-ordereddict
+python2-typing >= 3.5.2.2-2
+python3-devel
+python3-pytest
+python3-setuptools

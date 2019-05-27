@@ -1,0 +1,14 @@
+pytest
+python-docopt
+python-sh
+python2-coverage
+python2-devel
+python2-pytest-runner
+python2-requests
+python3-coverage
+python3-devel
+python3-docopt
+python3-pytest
+python3-pytest-runner
+python3-requests
+python3-sh

@@ -1,0 +1,13 @@
+automake
+boost-devel >= 1.60
+desktop-file-utils
+libappstream-glib
+libtool
+pkgconfig(Qt5Core) >= 5.5
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Svg)
+qt5-linguist
+qtsingleapplication-qt5-devel
+qtsinglecoreapplication-qt5-devel
+rb_libtorrent-devel >= 1.1.4
+systemd

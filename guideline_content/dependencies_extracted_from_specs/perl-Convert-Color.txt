@@ -1,0 +1,8 @@
+/usr/share/X11/rgb.txt
+perl(List::UtilsBy)
+perl(Module::Build)
+perl(Module::Pluggable)
+perl(Test::More) >= 0.88
+perl(Test::Number::Delta)
+perl(Test::Pod) >= 1.00
+perl-generators

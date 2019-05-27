@@ -1,0 +1,7 @@
+desktop-file-utils
+file-devel
+gcc-c++
+libappstream-glib
+qoauth-qt5-devel
+qt5-qtbase-devel
+qt5-qtsvg-devel

@@ -1,0 +1,14 @@
+boost-devel
+cmake
+cpp-hocon-devel
+gcc-c++
+gettext
+leatherman-devel
+libblkid-devel
+libcurl-devel
+make
+openssl-devel
+ruby-devel
+tar
+wget
+yaml-cpp-devel

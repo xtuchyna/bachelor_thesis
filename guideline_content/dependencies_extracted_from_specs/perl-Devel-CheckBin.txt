@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(Config)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.64
+perl(File::Spec)
+perl(File::Temp)
+perl(Test::More) >= 0.98
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

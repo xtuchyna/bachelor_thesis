@@ -1,0 +1,4 @@
+boost-devel
+cmake >= 2.8.6
+pkgconfig
+subversion

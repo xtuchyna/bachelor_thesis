@@ -1,0 +1,6 @@
+curl-devel
+expat-devel
+fftw3-devel
+findutils
+pkgconfig
+sed

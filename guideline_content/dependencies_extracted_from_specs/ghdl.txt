@@ -1,0 +1,22 @@
+/usr/bin/pod2man
+autoconf
+automake
+binutils >= 2.24
+bison
+elfutils-devel >= 0.147
+elfutils-libelf-devel >= 0.147
+flex
+gawk
+gcc-c++ >= 4.3
+gcc-gnat >= 4.3
+gettext
+glibc-devel >= 2.4.90-13
+gmp-devel >= 4.1.2-8
+libgnat-devel >= 4.3
+libmpc-devel >= 0.8.1
+libtool
+mpfr-devel >= 2.2.1
+sharutils
+texinfo
+texinfo-tex
+zlib-devel

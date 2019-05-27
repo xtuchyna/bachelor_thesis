@@ -1,0 +1,10 @@
+cppunit-devel
+gcc-c++
+glite-jobid-api-c-devel
+glite-lbjp-common-db-devel
+glite-lbjp-common-trio-devel
+libtool
+perl(Getopt::Long)
+perl(POSIX)
+perl-interpreter
+pkgconfig

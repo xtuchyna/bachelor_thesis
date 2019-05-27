@@ -1,0 +1,25 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(Digest::SHA)
+perl(Encode)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(LWP::Protocol::https)
+perl(LWP::UserAgent)
+perl(MIME::Base64)
+perl(Moose)
+perl(POSIX)
+perl(Params::Validate)
+perl(Test::Exception)
+perl(Test::More)
+perl(URI)
+perl(URI::Escape)
+perl(XML::Simple)
+perl(blib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

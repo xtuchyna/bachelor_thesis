@@ -1,0 +1,3 @@
+rubygem(hoe)
+rubygem(rake)
+rubygems-devel

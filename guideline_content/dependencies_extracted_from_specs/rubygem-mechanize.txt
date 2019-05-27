@@ -1,0 +1,11 @@
+ruby(release)
+ruby-devel
+rubygem(domain_name)
+rubygem(http-cookie)
+rubygem(mime-types)
+rubygem(minitest)
+rubygem(net-http-digest_auth)
+rubygem(net-http-persistent)
+rubygem(nokogiri)
+rubygem(webrobots)
+rubygems-devel

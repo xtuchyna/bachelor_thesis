@@ -1,0 +1,10 @@
+php(language) >= 5.3
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(react/event-loop) < 0.5
+php-composer(react/event-loop) >= 0.3
+php-composer(react/promise) < 3.0
+php-composer(react/promise) >= 2.1
+php-composer(react/promise-timer) < 2.0
+php-composer(react/promise-timer) >= 1.0
+php-spl

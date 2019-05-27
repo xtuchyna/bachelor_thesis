@@ -1,0 +1,6 @@
+desktop-file-utils
+gettext
+perl(Locale::gettext)
+perl-autodie
+perl-generators
+perl-interpreter

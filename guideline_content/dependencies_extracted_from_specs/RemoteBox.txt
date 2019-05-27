@@ -1,0 +1,5 @@
+appdata-tools
+coreutils
+desktop-file-utils
+perl-generators
+sed

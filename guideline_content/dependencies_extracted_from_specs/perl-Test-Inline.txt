@@ -1,0 +1,25 @@
+/usr/bin/make
+/usr/bin/perl
+perl(Algorithm::Dependency) >= 1.02
+perl(Class::Autouse) >= 1.29
+perl(Config::Tiny) >= 2.00
+perl(ExtUtils::MakeMaker)
+perl(File::Find::Rule) >= 0.26
+perl(File::Flat) >= 1.00
+perl(File::Remove) >= 0.37
+perl(File::Slurp) >= 9999.04
+perl(File::Spec) >= 0.80
+perl(File::chmod) >= 0.31
+perl(Getopt::Long) >= 2.34
+perl(List::Util) >= 1.19
+perl(Params::Util) >= 0.21
+perl(Perl::MinimumVersion) >= 1.20
+perl(Pod::Tests) >= 0.18
+perl(Test::CPAN::Meta) >= 0.12
+perl(Test::ClassAPI) >= 1.02
+perl(Test::MinimumVersion)
+perl(Test::More) >= 0.42
+perl(Test::Pod) >= 1.00
+perl(Test::Script)
+perl(inc::Module::Install)
+perl-generators

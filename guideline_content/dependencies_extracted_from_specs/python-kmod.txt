@@ -1,0 +1,7 @@
+kmod-devel
+python2-Cython
+python2-devel
+python2-setuptools
+python3
+python3-Cython
+python3-devel

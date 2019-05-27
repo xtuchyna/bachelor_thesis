@@ -1,0 +1,7 @@
+autoconf213
+libedit-devel
+ncurses-devel
+nspr-devel >= 4.7
+perl-devel
+python
+zip

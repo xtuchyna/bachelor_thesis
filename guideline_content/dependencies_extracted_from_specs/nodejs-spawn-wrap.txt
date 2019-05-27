@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(mkdirp)
+npm(os-homedir)
+npm(rimraf)
+npm(signal-exit)
+npm(which)

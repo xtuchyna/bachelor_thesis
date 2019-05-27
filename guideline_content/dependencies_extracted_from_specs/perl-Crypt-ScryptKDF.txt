@@ -1,0 +1,14 @@
+coreutils
+findutils
+gcc
+perl(Crypt::OpenSSL::Random)
+perl(Exporter) >= 5.59
+perl(MIME::Base64)
+perl(Module::Build)
+perl(Test::More)
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

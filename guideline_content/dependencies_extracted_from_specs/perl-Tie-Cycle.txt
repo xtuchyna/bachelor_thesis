@@ -1,0 +1,10 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(Test::More) >= 0.95
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage)
+perl(constant)
+perl(strict)
+perl-generators
+perl-interpreter

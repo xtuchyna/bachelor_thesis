@@ -1,0 +1,7 @@
+R-BH-devel
+R-Rcpp-devel
+R-devel
+R-magrittr
+R-testthat
+libxml2-devel
+tex(latex)

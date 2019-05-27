@@ -1,0 +1,16 @@
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Syntax::Keyword::Junction)
+perl(Test::CheckDeps) >= 0.010
+perl(Test::More) >= 0.94
+perl(autobox)
+perl(blib) >= 1.01
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

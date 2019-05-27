@@ -1,0 +1,12 @@
+bzip2-devel
+doxygen
+gcc
+libqb-devel
+libxml2-devel
+lksctp-tools-devel
+lz4-devel
+lzo-devel
+nss-devel
+openssl-devel
+xz-devel
+zlib-devel

@@ -1,0 +1,14 @@
+desktop-file-utils
+dssi-devel
+gtk2-devel
+intltool
+jack-audio-connection-kit-devel
+lash-devel
+libappstream-glib
+liblo
+liblo-devel
+libsndfile-devel
+libsndfile-utils
+mesa-libEGL-devel
+mesa-libGL-devel
+pandoc

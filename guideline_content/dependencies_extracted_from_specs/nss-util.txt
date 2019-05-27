@@ -1,0 +1,7 @@
+gawk
+gcc-c++
+nspr-devel >= 4.19.0
+perl-interpreter
+pkgconfig
+psmisc
+zlib-devel

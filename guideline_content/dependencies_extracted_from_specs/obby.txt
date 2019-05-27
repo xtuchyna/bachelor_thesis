@@ -1,0 +1,4 @@
+avahi-devel
+gettext-devel
+gmp-devel
+net6-devel

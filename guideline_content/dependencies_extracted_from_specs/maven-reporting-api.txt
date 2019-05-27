@@ -1,0 +1,3 @@
+maven-local
+mvn(org.apache.maven.doxia:doxia-sink-api)
+mvn(org.apache.maven.shared:maven-shared-components:pom:)

@@ -1,0 +1,4 @@
+desktop-file-utils
+icedtea-web
+java-devel
+javahelp2

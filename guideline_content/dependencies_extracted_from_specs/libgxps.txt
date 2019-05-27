@@ -1,0 +1,12 @@
+cairo-devel
+freetype-devel
+gcc
+glib2-devel
+gobject-introspection-devel
+gtk-doc
+gtk3-devel
+lcms2-devel
+libarchive-devel
+libjpeg-devel
+libtiff-devel
+meson

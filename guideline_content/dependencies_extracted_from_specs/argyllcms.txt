@@ -1,0 +1,13 @@
+autoconf
+automake
+libX11-devel
+libXext-devel
+libXinerama-devel
+libXrandr-devel
+libXxf86vm-devel
+libjpeg-turbo-devel
+libpng-devel
+libtiff-devel
+libtool
+libusb1-devel
+zlib-devel

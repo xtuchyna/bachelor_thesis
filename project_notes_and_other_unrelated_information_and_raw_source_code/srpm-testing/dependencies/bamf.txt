@@ -1,0 +1,14 @@
+gobject-introspection-devel
+gtk-doc
+pkgconfig(gio-2.0)
+pkgconfig(gio-unix-2.0)
+pkgconfig(glib-2.0)
+pkgconfig(libgtop-2.0)
+pkgconfig(libwnck-3.0)
+pkgconfig(x11)
+python2-libxml2
+python2-libxslt
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+systemd
+vala

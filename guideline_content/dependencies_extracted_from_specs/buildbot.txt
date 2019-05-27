@@ -1,0 +1,12 @@
+python2-devel
+python2dist(autobahn) >= 0.16.0
+python2dist(future)
+python2dist(jinja2) >= 2.1
+python2dist(pyjwt)
+python2dist(python-dateutil) >= 1.5
+python2dist(setuptools) >= 8.0
+python2dist(sqlalchemy) >= 0.8.0
+python2dist(sqlalchemy-migrate) >= 0.9
+python2dist(twisted) >= 16.1.0
+python2dist(txaio) >= 2.2.2
+python2dist(zope.interface) >= 4.1.1

@@ -1,0 +1,30 @@
+GConf2-devel
+cairo-devel
+flac-devel >= 1.1.3
+gcc-c++
+gettext
+glibc-devel
+gstreamer-devel >= 0.10.36
+gstreamer-plugins-base-devel >= 0.10.36
+gtk-doc
+gtk2-devel
+jack-audio-connection-kit-devel
+kernel-headers
+libX11-devel
+libavc1394-devel
+libdv-devel
+libiec61883-devel
+libjpeg-devel
+liboil-devel >= 0.3.6
+libpng-devel >= 1.2.0
+libraw1394-devel
+libshout-devel
+libsoup-devel
+libv4l-devel
+mikmod
+orc-devel
+pulseaudio-libs-devel
+python-devel
+speex-devel
+taglib-devel
+wavpack-devel

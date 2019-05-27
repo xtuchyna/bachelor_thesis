@@ -1,0 +1,7 @@
+autoconf
+chrpath
+ocaml >= 3.10.2
+ocaml-camlp4-devel
+ocaml-findlib-devel
+ocaml-ocamldoc
+time

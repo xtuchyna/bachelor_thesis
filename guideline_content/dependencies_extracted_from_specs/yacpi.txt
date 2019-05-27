@@ -1,0 +1,2 @@
+libacpi-devel
+ncurses-devel

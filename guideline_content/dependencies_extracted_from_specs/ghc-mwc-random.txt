@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-math-functions-devel
+ghc-primitive-devel
+ghc-rpm-macros
+ghc-time-devel
+ghc-vector-devel

@@ -1,0 +1,10 @@
+desktop-file-utils
+gettext
+gstreamer1-devel
+gtk3-devel
+itstool
+json-glib-devel
+libexif-devel
+libgcrypt-devel
+libsoup-devel
+libxml2-devel

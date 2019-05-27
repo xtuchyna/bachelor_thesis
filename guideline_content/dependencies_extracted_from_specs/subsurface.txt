@@ -1,0 +1,27 @@
+asciidoc
+cmake >= 2.6
+desktop-file-utils
+grantlee-qt5-devel
+libappstream-glib
+libcurl-devel
+libdivecomputer-subsurface-devel >= 4.6.2
+libdivecomputer-subsurface-static
+libgit2-devel
+libsqlite3x-devel
+libssh2-devel
+libssrfmarblewidget-devel >= 4.6.2
+libudev-devel
+libxml2-devel
+libxslt-devel
+libzip-devel
+pkgconfig(Qt5Bluetooth)
+pkgconfig(Qt5Concurrent)
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Network)
+pkgconfig(Qt5Positioning)
+pkgconfig(Qt5PrintSupport)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5Test)
+pkgconfig(Qt5WebKitWidgets)
+pkgconfig(Qt5Widgets)
+qt5-linguist

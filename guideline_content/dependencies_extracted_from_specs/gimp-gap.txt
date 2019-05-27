@@ -1,0 +1,8 @@
+autoconf >= 2.54
+automake >= 1.7
+bzip2-devel
+gimp-devel-tools >= 2.6.0
+glib2-devel >= 2.2.0
+intltool >= 0.17
+libjpeg-turbo-devel
+pkgconfig(gimp-2.0)

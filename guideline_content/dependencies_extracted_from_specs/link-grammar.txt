@@ -1,0 +1,14 @@
+ant
+autoconf
+autoconf-archive
+automake
+hunspell-devel
+java-devel
+jpackage-utils
+libedit-devel
+libtool
+minisat2-devel
+perl-devel
+perl-generators
+python2-devel
+python3-devel

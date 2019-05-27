@@ -1,0 +1,3 @@
+R-bitops
+R-devel >= 3.4.0
+tex(latex)

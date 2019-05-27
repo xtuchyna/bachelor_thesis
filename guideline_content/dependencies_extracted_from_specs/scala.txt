@@ -1,0 +1,9 @@
+ant
+ant-contrib
+ant-junit
+aqute-bnd
+java-devel >= 1:1.7.0
+javapackages-local
+jline >= 2.10
+junit
+scala

@@ -1,0 +1,47 @@
+boost-devel
+cmake(KF5Codecs)
+cmake(KF5Config)
+cmake(KF5Crash)
+cmake(KF5DBusAddons)
+cmake(KF5DocTools)
+cmake(KF5KCMUtils)
+cmake(KF5NewStuff)
+cmake(KF5Service)
+cmake(Qt5DBus)
+cmake(Qt5Network)
+cmake(Qt5PrintSupport)
+cmake(Qt5Test)
+cmake(Qt5UiTools)
+cmake(Qt5Widgets)
+cmake(Qt5X11Extras)
+cmake(Qt5Xml)
+desktop-file-utils
+extra-cmake-modules
+gettext
+kdepim-apps-libs-devel >= 17.12
+kf5-akonadi-calendar-devel >= 17.12
+kf5-akonadi-contacts-devel >= 17.12
+kf5-akonadi-mime-devel >= 17.12
+kf5-akonadi-notes-devel >= 17.12
+kf5-akonadi-search-devel >= 17.12
+kf5-akonadi-server-devel >= 17.12
+kf5-calendarsupport-devel >= 17.12
+kf5-eventviews-devel >= 17.12
+kf5-incidenceeditor-devel >= 17.12
+kf5-kcalendarcore-devel >= 17.12
+kf5-kcalendarutils-devel >= 17.12
+kf5-kcontacts-devel >= 17.12
+kf5-kholidays-devel >= 17.12
+kf5-kidentitymanagement-devel >= 17.12
+kf5-kldap-devel >= 17.12
+kf5-kmailtransport-devel >= 17.12
+kf5-kmime-devel >= 17.12
+kf5-kontactinterface-devel >= 17.12
+kf5-kpimtextedit-devel >= 17.12
+kf5-libkdepim-devel >= 17.12
+kf5-mailcommon-devel >= 17.12
+kf5-pimcommon-devel >= 17.12
+kf5-rpm-macros
+libappstream-glib
+perl-generators
+pkgconfig(phonon4qt5)

@@ -1,0 +1,9 @@
+desktop-file-utils
+gnupg2
+gpgme-devel >= 1.0
+gtk3-devel
+intltool
+libSM-devel
+libsoup-devel
+pkgconfig(avahi-client)
+pkgconfig(avahi-glib)

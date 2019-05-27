@@ -1,0 +1,8 @@
+/usr/bin/perldoc
+autoconf
+automake
+cpio
+glibc-static
+grubby
+kernel
+qemu-system-x86

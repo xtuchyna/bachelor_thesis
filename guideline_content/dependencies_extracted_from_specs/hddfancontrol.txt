@@ -1,0 +1,8 @@
+hddtemp
+hdparm
+python3-daemon
+python3-devel
+python3-docutils
+python3-pypandoc
+python3-setuptools
+systemd

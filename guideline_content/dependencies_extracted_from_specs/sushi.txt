@@ -1,0 +1,11 @@
+gjs-devel
+intltool
+pkgconfig(clutter-gst-3.0)
+pkgconfig(clutter-gtk-1.0)
+pkgconfig(clutter-x11-1.0)
+pkgconfig(evince-document-3.0)
+pkgconfig(gobject-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(gtksourceview-3.0)
+pkgconfig(libmusicbrainz5)
+pkgconfig(webkit2gtk-4.0)

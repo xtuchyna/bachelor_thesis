@@ -1,0 +1,8 @@
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

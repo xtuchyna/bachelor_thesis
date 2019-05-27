@@ -1,0 +1,12 @@
+intltool
+mingw32-binutils
+mingw32-filesystem
+mingw32-gcc
+mingw32-glib2
+mingw32-gnutls >= 2.10
+mingw64-binutils
+mingw64-filesystem
+mingw64-gcc
+mingw64-glib2
+mingw64-gnutls >= 2.10
+pkgconfig

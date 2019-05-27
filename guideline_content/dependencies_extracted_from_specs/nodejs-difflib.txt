@@ -1,0 +1,5 @@
+coffee-script
+mocha
+nodejs-packaging
+npm(heap)
+npm(should)

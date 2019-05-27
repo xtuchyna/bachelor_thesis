@@ -1,0 +1,7 @@
+emacs-common
+jbuilder
+ocaml
+ocaml-cppo
+ocaml-findlib
+ocaml-lambda-term
+opam-installer

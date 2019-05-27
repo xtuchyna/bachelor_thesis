@@ -1,0 +1,9 @@
+python-cffi
+python-setuptools
+python-sphinx
+python-xcffib
+python2-devel
+python3-cffi
+python3-devel
+python3-setuptools
+python3-xcffib

@@ -1,0 +1,4 @@
+python-setuptools
+python-tw2-core
+python-tw2-jqplugins-ui
+python2-devel

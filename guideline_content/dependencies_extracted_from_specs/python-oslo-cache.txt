@@ -1,0 +1,22 @@
+dos2unix
+python-babel
+python-dogpile-cache >= 0.6.1
+python-fixtures
+python-hacking
+python-memcached
+python-mock
+python-oslo-config
+python-oslo-log
+python-oslo-sphinx
+python-oslotest
+python-pbr
+python-pymongo
+python-sphinx
+python2-devel
+python3-devel
+python3-hacking
+python3-memcached
+python3-mock
+python3-oslotest
+python3-pbr
+python3-pymongo

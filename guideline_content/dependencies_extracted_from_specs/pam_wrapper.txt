@@ -1,0 +1,5 @@
+cmake
+doxygen
+libcmocka-devel
+pam-devel
+python-devel

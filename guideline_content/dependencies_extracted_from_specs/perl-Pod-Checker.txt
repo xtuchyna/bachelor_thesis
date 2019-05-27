@@ -1,0 +1,20 @@
+findutils
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Spec)
+perl(FileHandle)
+perl(Pod::Simple) >= 3.28
+perl(Pod::Simple::Methody)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

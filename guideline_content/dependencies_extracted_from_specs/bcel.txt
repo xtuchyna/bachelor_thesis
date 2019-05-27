@@ -1,0 +1,6 @@
+maven-local
+mvn(junit:junit)
+mvn(net.java.dev.jna:jna)
+mvn(net.java.dev.jna:jna-platform)
+mvn(org.apache.commons:commons-lang3)
+mvn(org.apache.commons:commons-parent:pom:)

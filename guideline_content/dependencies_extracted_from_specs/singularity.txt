@@ -1,0 +1,4 @@
+automake
+chrpath
+libtool
+python2-devel

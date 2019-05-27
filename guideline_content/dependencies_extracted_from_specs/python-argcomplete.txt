@@ -1,0 +1,7 @@
+python2-devel
+python2-pexpect
+python2-setuptools
+python3-devel
+python3-pexpect
+python3-setuptools
+tcsh

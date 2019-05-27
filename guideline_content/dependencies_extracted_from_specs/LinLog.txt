@@ -1,0 +1,4 @@
+desktop-file-utils
+libstdc++-devel
+qt4-devel >= 4.3
+sqlite-devel >= 3

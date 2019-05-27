@@ -1,0 +1,5 @@
+dos2unix
+rubygem(activesupport)
+rubygem(rake)
+rubygem(shoulda)
+rubygems-devel

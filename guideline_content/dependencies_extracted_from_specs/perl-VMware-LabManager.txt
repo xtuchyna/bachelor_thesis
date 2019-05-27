@@ -1,0 +1,21 @@
+perl(CPAN)
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(FindBin)
+perl(Pod::Coverage) >= 0.18
+perl(SOAP::Lite)
+perl(Test::CheckManifest) >= 0.9
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(Time::HiRes)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

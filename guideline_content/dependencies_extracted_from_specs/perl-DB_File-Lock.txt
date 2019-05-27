@@ -1,0 +1,8 @@
+perl(Carp)
+perl(DB_File)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(Symbol)
+perl(strict)
+perl(vars)
+perl-generators

@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(boom)
+npm(cryptiles)
+npm(hoek)
+npm(sntp)

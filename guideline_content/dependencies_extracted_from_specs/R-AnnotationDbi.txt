@@ -1,0 +1,9 @@
+R-Biobase
+R-DBI
+R-GenomeInfoDb
+R-IRanges-devel
+R-RSQLite
+R-devel >= 3.0.0
+R-methods
+R-utils
+tex(latex)

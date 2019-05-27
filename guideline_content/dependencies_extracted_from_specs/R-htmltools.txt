@@ -1,0 +1,7 @@
+R-Rcpp-devel
+R-devel
+R-digest
+R-markdown
+R-testthat
+R-utils
+tex(latex)

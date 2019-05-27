@@ -1,0 +1,5 @@
+boost-devel
+doxygen
+help2man
+pkgconfig(librevenge-0.0)
+pkgconfig(zlib)

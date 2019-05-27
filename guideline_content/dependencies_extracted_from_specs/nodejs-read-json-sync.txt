@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(graceful-fs)
+npm(tap-spec)
+npm(tape)

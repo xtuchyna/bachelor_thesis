@@ -1,0 +1,22 @@
+coreutils
+findutils
+perl(Carp)
+perl(Data::Dumper)
+perl(File::Basename)
+perl(File::Spec::Functions)
+perl(List::Util)
+perl(Module::Build)
+perl(Pod::Checker)
+perl(Pod::PlainText)
+perl(Pod::Select)
+perl(Symbol)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Text::Balanced)
+perl(re)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

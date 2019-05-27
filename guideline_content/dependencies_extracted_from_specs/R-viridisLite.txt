@@ -1,0 +1,4 @@
+R-devel
+R-hexbin
+R-testthat
+tex(latex)

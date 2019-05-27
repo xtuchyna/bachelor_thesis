@@ -1,0 +1,13 @@
+curl-devel
+desktop-file-utils
+freetype-devel
+libX11-devel
+libXext-devel
+libXxf86vm-devel
+libjpeg-devel
+libpng-devel
+libvorbis-devel
+mesa-libGL-devel
+mesa-libGLU-devel
+ode-devel
+openal-soft-devel

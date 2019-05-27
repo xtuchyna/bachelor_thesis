@@ -1,0 +1,3 @@
+fftw-devel
+lv2core-devel
+lv2dynparam-devel

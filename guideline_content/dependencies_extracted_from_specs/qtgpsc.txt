@@ -1,0 +1,4 @@
+cmake
+desktop-file-utils
+gpsd-devel >= 2.96
+qt4-devel

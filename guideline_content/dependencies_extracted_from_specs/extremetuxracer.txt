@@ -1,0 +1,10 @@
+SFML-devel
+desktop-file-utils
+fontpackages-devel
+freetype-devel
+libGL-devel
+libGLU-devel
+libappstream-glib
+libtool
+pkgconfig
+symlinks

@@ -1,0 +1,14 @@
+PyYAML
+python2-devel
+python2-fluidity-sm
+python2-lexicon
+python2-pexpect
+python2-setuptools
+python2-six
+python3-PyYAML
+python3-devel
+python3-fluidity-sm
+python3-lexicon
+python3-pexpect
+python3-setuptools
+python3-six

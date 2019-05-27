@@ -1,0 +1,4 @@
+erlang-ibrowse
+erlang-meck
+erlang-mochiweb
+erlang-rebar

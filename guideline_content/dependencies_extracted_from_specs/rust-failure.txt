@@ -1,0 +1,3 @@
+(crate(backtrace) >= 0.3.3 with crate(backtrace) < 0.4.0)
+(crate(failure_derive) >= 0.1.1 with crate(failure_derive) < 0.2.0)
+rust-packaging

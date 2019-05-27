@@ -1,0 +1,12 @@
+boost-devel
+cmake
+doxygen
+fontconfig-devel
+graphviz
+hardlink
+libyui-devel
+pkgconfig(Qt5Core)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5Widgets)
+pkgconfig(Qt5X11Extras)

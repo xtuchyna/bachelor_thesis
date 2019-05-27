@@ -1,0 +1,7 @@
+bzip2-devel
+ncurses-devel
+pkgconfig(geoip)
+pkgconfig(glib-2.0)
+pkgconfig(gnutls)
+pkgconfig(sqlite3)
+zlib-devel

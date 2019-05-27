@@ -1,0 +1,5 @@
+boost-devel
+gcc-c++
+pkgconfig(gdkmm-2.4) >= 2.8
+pkgconfig(glibmm-2.4) >= 2.8
+pkgconfig(libgerbv) >= 2.1.0

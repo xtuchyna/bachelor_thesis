@@ -1,0 +1,6 @@
+libxml2-devel
+node-gyp
+nodejs-packaging
+npm(bindings)
+npm(nan) >= 2.0.4
+npm(nodeunit)

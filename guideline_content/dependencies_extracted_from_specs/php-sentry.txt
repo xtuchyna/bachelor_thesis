@@ -1,0 +1,14 @@
+php(language) >= 5.2.4
+php-cli
+php-composer(monolog/monolog) >= 1.15.0
+php-composer(phpunit/phpunit)
+php-curl
+php-date
+php-hash
+php-mbstring
+php-pcre
+php-reflection
+php-session
+php-spl
+php-uopz
+php-zlib

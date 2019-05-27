@@ -1,0 +1,5 @@
+asciidoc
+libuuid-devel
+perl-interpreter
+xmlto
+zeromq-devel

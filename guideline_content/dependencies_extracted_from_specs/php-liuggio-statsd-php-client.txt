@@ -1,0 +1,3 @@
+php-composer(monolog/monolog) >= 1.2.0
+php-composer(symfony/class-loader)
+php-phpunit-PHPUnit

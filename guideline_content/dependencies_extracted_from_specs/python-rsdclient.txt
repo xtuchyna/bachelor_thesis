@@ -1,0 +1,16 @@
+git
+python-openstackdocstheme >= 1.11.0
+python-oslo-sphinx
+python-oslotest >= 1.10.0
+python-reno >= 1.8.0
+python-setuptools
+python-sphinx
+python-testrepository >= 0.0.18
+python-testtools >= 1.4.0
+python2-devel
+python3-devel
+python3-oslotest >= 1.10.0
+python3-reno >= 1.8.0
+python3-setuptools
+python3-testrepository >= 0.0.18
+python3-testtools >= 1.4.0

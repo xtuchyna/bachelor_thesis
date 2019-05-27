@@ -1,0 +1,16 @@
+gcc
+libuuid-devel
+python2-devel
+python2-setuptools
+python2-sphinx
+python3-devel
+python3-setuptools
+python3-sphinx
+ruby
+ruby-devel
+rubygem-json
+rubygem-rdoc
+rubygems
+tcl-devel
+xapian-core-devel
+zlib-devel

@@ -1,0 +1,4 @@
+gettext
+glib2-devel
+intltool
+python3-devel

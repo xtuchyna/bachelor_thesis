@@ -1,0 +1,4 @@
+gettext
+libmcrypt-devel
+mhash-devel
+zlib-devel

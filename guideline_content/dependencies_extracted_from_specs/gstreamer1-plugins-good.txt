@@ -1,0 +1,34 @@
+flac-devel >= 1.1.4
+gdk-pixbuf2-devel
+gstreamer1-devel >= 1.14.0
+gstreamer1-plugins-base-devel >= 1.14.0
+gtk-doc
+gtk3-devel >= 3.4
+jack-audio-connection-kit-devel
+lame-devel
+libX11-devel
+libXdamage-devel
+libXext-devel
+libXfixes-devel
+libavc1394-devel
+libdv-devel
+libiec61883-devel
+libjpeg-devel
+libpng-devel >= 1.2.0
+libraw1394-devel
+libshout-devel
+libsoup-devel
+libv4l-devel
+libvpx-devel >= 1.1.0
+mesa-libEGL-devel
+mesa-libGL-devel
+mesa-libGLES-devel
+mesa-libGLU-devel
+mpg123-devel
+orc-devel
+pulseaudio-libs-devel
+python-devel
+speex-devel
+taglib-devel
+twolame-devel
+wavpack-devel

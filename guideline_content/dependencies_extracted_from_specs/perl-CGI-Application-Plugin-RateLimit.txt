@@ -1,0 +1,9 @@
+perl(CGI)
+perl(CGI::Application)
+perl(Class::Accessor::Fast)
+perl(DBD::SQLite)
+perl(DBI)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(Test::More)
+perl-generators

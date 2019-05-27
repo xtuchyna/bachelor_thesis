@@ -1,0 +1,800 @@
+gcc
+supp:  0.3531669865642994
+confidence:  0.3531669865642994
+Lift: 1.0
+
+rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.963531669865643
+confidence:  0.963531669865643
+Lift: 1.0
+
+rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.963531669865643
+confidence:  0.963531669865643
+Lift: 1.0
+
+automake -> autoconf
+supp:  0.07869481765834933
+confidence:  0.8367346938775511
+Lift: 10.13811105837684
+
+autoconf -> gcc
+supp:  0.04798464491362764
+confidence:  0.5102040816326531
+Lift: 1.4446539485359362
+
+autoconf -> libtool
+supp:  0.053742802303262956
+confidence:  0.5714285714285714
+Lift: 7.261324041811846
+
+autoconf -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.09404990403071017
+confidence:  1.0
+Lift: 1.0378486055776892
+
+autoconf -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.09404990403071017
+confidence:  1.0
+Lift: 1.0378486055776892
+
+automake -> gcc
+supp:  0.04222648752399232
+confidence:  0.5116279069767442
+Lift: 1.448685540950455
+
+automake -> libtool
+supp:  0.04990403071017274
+confidence:  0.6046511627906976
+Lift: 7.683494044242767
+
+automake -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.08253358925143954
+confidence:  1.0
+Lift: 1.0378486055776892
+
+automake -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.08253358925143954
+confidence:  1.0
+Lift: 1.0378486055776892
+
+boost-devel -> gcc-c++
+supp:  0.030710172744721688
+confidence:  0.8
+Lift: 4.387368421052631
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> boost-devel
+supp:  0.03838771593090211
+confidence:  1.0
+Lift: 1.0378486055776892
+
+boost-devel -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.03838771593090211
+confidence:  1.0
+Lift: 1.0378486055776892
+
+cmake -> gcc-c++
+supp:  0.05182341650671785
+confidence:  0.7714285714285714
+Lift: 4.230676691729323
+
+cmake -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.0671785028790787
+confidence:  1.0
+Lift: 1.0378486055776892
+
+cmake -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.0671785028790787
+confidence:  1.0
+Lift: 1.0378486055776892
+
+desktop-file-utils -> gcc
+supp:  0.061420345489443376
+confidence:  0.31683168316831684
+Lift: 0.8971157985363755
+
+desktop-file-utils -> gcc-c++
+supp:  0.061420345489443376
+confidence:  0.31683168316831684
+Lift: 1.7375716519020323
+
+desktop-file-utils -> gettext
+supp:  0.07293666026871401
+confidence:  0.37623762376237624
+Lift: 3.7696115765422697
+
+intltool -> desktop-file-utils
+supp:  0.030710172744721688
+confidence:  0.7619047619047619
+Lift: 3.93022159358793
+
+libappstream-glib -> desktop-file-utils
+supp:  0.04990403071017274
+confidence:  0.25742574257425743
+Lift: 4.624786616592694
+
+desktop-file-utils -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.19385796545105566
+confidence:  1.0
+Lift: 1.0378486055776892
+
+desktop-file-utils -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.19385796545105566
+confidence:  1.0
+Lift: 1.0378486055776892
+
+doxygen -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.03262955854126679
+confidence:  1.0
+Lift: 1.0378486055776892
+
+doxygen -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.03262955854126679
+confidence:  1.0
+Lift: 1.0378486055776892
+
+flex -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.0345489443378119
+confidence:  1.0
+Lift: 1.0378486055776892
+
+flex -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.0345489443378119
+confidence:  1.0
+Lift: 1.0378486055776892
+
+fontpackages-devel -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.04798464491362764
+confidence:  1.0
+Lift: 1.0378486055776892
+
+fontpackages-devel -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.04798464491362764
+confidence:  1.0
+Lift: 1.0378486055776892
+
+gcc -> gcc-c++
+supp:  0.05950095969289827
+confidence:  0.32631578947368417
+Lift: 0.9239702517162471
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc
+supp:  0.3531669865642994
+confidence:  1.0
+Lift: 1.0378486055776892
+
+gcc -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.3531669865642994
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc-c++
+supp:  0.18234165067178504
+confidence:  1.0
+Lift: 1.0378486055776892
+
+gcc-c++ -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.18234165067178504
+confidence:  1.0
+Lift: 1.0378486055776892
+
+zlib-devel -> gcc-c++
+supp:  0.03838771593090211
+confidence:  0.5714285714285713
+Lift: 3.1338345864661643
+
+gettext -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.09980806142034548
+confidence:  1.0
+Lift: 1.0378486055776892
+
+gettext -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.09980806142034548
+confidence:  1.0
+Lift: 1.0378486055776892
+
+intltool -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.04030710172744722
+confidence:  1.0
+Lift: 1.0378486055776892
+
+intltool -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.04030710172744722
+confidence:  1.0
+Lift: 1.0378486055776892
+
+libappstream-glib -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.05566218809980806
+confidence:  1.0
+Lift: 1.0378486055776892
+
+libappstream-glib -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.05566218809980806
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> libpng-devel
+supp:  0.030710172744721688
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(FileDigests) <= 4.6.0-1 -> libpng-devel
+supp:  0.030710172744721688
+confidence:  1.0
+Lift: 1.0378486055776892
+
+libtool -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.07869481765834933
+confidence:  1.0
+Lift: 1.0378486055776892
+
+libtool -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.07869481765834933
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> make
+supp:  0.03262955854126679
+confidence:  1.0
+Lift: 1.0378486055776892
+
+make -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.03262955854126679
+confidence:  1.0
+Lift: 1.0378486055776892
+
+mvn(junit:junit) -> maven-local
+supp:  0.0345489443378119
+confidence:  0.5625
+Lift: 16.28125
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> maven-local
+supp:  0.061420345489443376
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(FileDigests) <= 4.6.0-1 -> maven-local
+supp:  0.061420345489443376
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> mvn(junit:junit)
+supp:  0.0345489443378119
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(FileDigests) <= 4.6.0-1 -> mvn(junit:junit)
+supp:  0.0345489443378119
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> ncurses-devel
+supp:  0.0345489443378119
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(FileDigests) <= 4.6.0-1 -> ncurses-devel
+supp:  0.0345489443378119
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> openssl-devel
+supp:  0.03838771593090211
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(FileDigests) <= 4.6.0-1 -> openssl-devel
+supp:  0.03838771593090211
+confidence:  1.0
+Lift: 1.0378486055776892
+
+perl-generators -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.05182341650671785
+confidence:  1.0
+Lift: 1.0378486055776892
+
+perl-generators -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.05182341650671785
+confidence:  1.0
+Lift: 1.0378486055776892
+
+pkgconfig -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.03838771593090211
+confidence:  1.0
+Lift: 1.0378486055776892
+
+pkgconfig -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.03838771593090211
+confidence:  1.0
+Lift: 1.0378486055776892
+
+python2-devel -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.05758157389635317
+confidence:  1.0
+Lift: 1.0378486055776892
+
+python2-devel -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.05758157389635317
+confidence:  1.0
+Lift: 1.0378486055776892
+
+python3-devel -> python3-setuptools
+supp:  0.04030710172744722
+confidence:  0.42000000000000004
+Lift: 9.946363636363637
+
+python3-devel -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.09596928982725528
+confidence:  1.0
+Lift: 1.0378486055776892
+
+python3-devel -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.09596928982725528
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> python3-setuptools
+supp:  0.04222648752399232
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(FileDigests) <= 4.6.0-1 -> python3-setuptools
+supp:  0.04222648752399232
+confidence:  1.0
+Lift: 1.0378486055776892
+
+readline-devel -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.0345489443378119
+confidence:  1.0
+Lift: 1.0378486055776892
+
+readline-devel -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.0345489443378119
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.963531669865643
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> systemd
+supp:  0.07485604606525911
+confidence:  1.0
+Lift: 1.0378486055776892
+
+zlib-devel -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.0671785028790787
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(FileDigests) <= 4.6.0-1 -> systemd
+supp:  0.07485604606525911
+confidence:  1.0
+Lift: 1.0378486055776892
+
+zlib-devel -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.0671785028790787
+confidence:  1.0
+Lift: 1.0378486055776892
+
+automake -> autoconf -> gcc
+supp:  0.04222648752399232
+confidence:  0.5365853658536585
+Lift: 1.5193531283138917
+
+automake -> autoconf -> libtool
+supp:  0.04990403071017274
+confidence:  0.6341463414634145
+Lift: 8.058298631766803
+
+automake -> autoconf -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.07869481765834933
+confidence:  1.0
+Lift: 1.0378486055776892
+
+automake -> autoconf -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.07869481765834933
+confidence:  1.0
+Lift: 1.0378486055776892
+
+autoconf -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc
+supp:  0.04798464491362764
+confidence:  1.0
+Lift: 1.0378486055776892
+
+autoconf -> gcc -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.04798464491362764
+confidence:  1.0
+Lift: 1.0378486055776892
+
+autoconf -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> libtool
+supp:  0.053742802303262956
+confidence:  1.0
+Lift: 1.0378486055776892
+
+autoconf -> rpmlib(FileDigests) <= 4.6.0-1 -> libtool
+supp:  0.053742802303262956
+confidence:  1.0
+Lift: 1.0378486055776892
+
+autoconf -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.09404990403071017
+confidence:  1.0
+Lift: 1.0378486055776892
+
+automake -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc
+supp:  0.04222648752399232
+confidence:  1.0
+Lift: 1.0378486055776892
+
+automake -> gcc -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.04222648752399232
+confidence:  1.0
+Lift: 1.0378486055776892
+
+automake -> libtool -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.04990403071017274
+confidence:  1.0
+Lift: 1.0378486055776892
+
+automake -> libtool -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.04990403071017274
+confidence:  1.0
+Lift: 1.0378486055776892
+
+automake -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.08253358925143954
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> boost-devel -> gcc-c++
+supp:  0.030710172744721688
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(FileDigests) <= 4.6.0-1 -> boost-devel -> gcc-c++
+supp:  0.030710172744721688
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> boost-devel -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.03838771593090211
+confidence:  1.0
+Lift: 1.0378486055776892
+
+cmake -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc-c++
+supp:  0.05182341650671785
+confidence:  1.0
+Lift: 1.0378486055776892
+
+cmake -> gcc-c++ -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.05182341650671785
+confidence:  1.0
+Lift: 1.0378486055776892
+
+cmake -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.0671785028790787
+confidence:  1.0
+Lift: 1.0378486055776892
+
+desktop-file-utils -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc
+supp:  0.061420345489443376
+confidence:  1.0
+Lift: 1.0378486055776892
+
+desktop-file-utils -> gcc -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.061420345489443376
+confidence:  1.0
+Lift: 1.0378486055776892
+
+desktop-file-utils -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc-c++
+supp:  0.061420345489443376
+confidence:  1.0
+Lift: 1.0378486055776892
+
+desktop-file-utils -> gcc-c++ -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.061420345489443376
+confidence:  1.0
+Lift: 1.0378486055776892
+
+desktop-file-utils -> gettext -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.07293666026871401
+confidence:  1.0
+Lift: 1.0378486055776892
+
+desktop-file-utils -> gettext -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.07293666026871401
+confidence:  1.0
+Lift: 1.0378486055776892
+
+intltool -> desktop-file-utils -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.030710172744721688
+confidence:  1.0
+Lift: 1.0378486055776892
+
+intltool -> desktop-file-utils -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.030710172744721688
+confidence:  1.0
+Lift: 1.0378486055776892
+
+libappstream-glib -> desktop-file-utils -> rpmlib(CompressedFileNames) <= 3.0.4-1
+supp:  0.04990403071017274
+confidence:  1.0
+Lift: 1.0378486055776892
+
+libappstream-glib -> desktop-file-utils -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.04990403071017274
+confidence:  1.0
+Lift: 1.0378486055776892
+
+desktop-file-utils -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.19385796545105566
+confidence:  1.0
+Lift: 1.0378486055776892
+
+doxygen -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.03262955854126679
+confidence:  1.0
+Lift: 1.0378486055776892
+
+flex -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.0345489443378119
+confidence:  1.0
+Lift: 1.0378486055776892
+
+fontpackages-devel -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.04798464491362764
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc -> gcc-c++
+supp:  0.05950095969289827
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(FileDigests) <= 4.6.0-1 -> gcc -> gcc-c++
+supp:  0.05950095969289827
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.3531669865642994
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc-c++ -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.18234165067178504
+confidence:  1.0
+Lift: 1.0378486055776892
+
+zlib-devel -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc-c++
+supp:  0.03838771593090211
+confidence:  1.0
+Lift: 1.0378486055776892
+
+zlib-devel -> gcc-c++ -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.03838771593090211
+confidence:  1.0
+Lift: 1.0378486055776892
+
+gettext -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.09980806142034548
+confidence:  1.0
+Lift: 1.0378486055776892
+
+intltool -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.04030710172744722
+confidence:  1.0
+Lift: 1.0378486055776892
+
+libappstream-glib -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.05566218809980806
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1 -> libpng-devel
+supp:  0.030710172744721688
+confidence:  1.0
+Lift: 1.0378486055776892
+
+libtool -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.07869481765834933
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> make -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.03262955854126679
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> mvn(junit:junit) -> maven-local
+supp:  0.0345489443378119
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(FileDigests) <= 4.6.0-1 -> mvn(junit:junit) -> maven-local
+supp:  0.0345489443378119
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1 -> maven-local
+supp:  0.061420345489443376
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1 -> mvn(junit:junit)
+supp:  0.0345489443378119
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1 -> ncurses-devel
+supp:  0.0345489443378119
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1 -> openssl-devel
+supp:  0.03838771593090211
+confidence:  1.0
+Lift: 1.0378486055776892
+
+perl-generators -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.05182341650671785
+confidence:  1.0
+Lift: 1.0378486055776892
+
+pkgconfig -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.03838771593090211
+confidence:  1.0
+Lift: 1.0378486055776892
+
+python2-devel -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.05758157389635317
+confidence:  1.0
+Lift: 1.0378486055776892
+
+python3-devel -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> python3-setuptools
+supp:  0.04030710172744722
+confidence:  1.0
+Lift: 1.0378486055776892
+
+python3-devel -> rpmlib(FileDigests) <= 4.6.0-1 -> python3-setuptools
+supp:  0.04030710172744722
+confidence:  1.0
+Lift: 1.0378486055776892
+
+python3-devel -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.09596928982725528
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1 -> python3-setuptools
+supp:  0.04222648752399232
+confidence:  1.0
+Lift: 1.0378486055776892
+
+readline-devel -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.0345489443378119
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1 -> systemd
+supp:  0.07485604606525911
+confidence:  1.0
+Lift: 1.0378486055776892
+
+zlib-devel -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.0671785028790787
+confidence:  1.0
+Lift: 1.0378486055776892
+
+automake -> autoconf -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc
+supp:  0.04222648752399232
+confidence:  1.0
+Lift: 1.0378486055776892
+
+automake -> autoconf -> gcc -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.04222648752399232
+confidence:  1.0
+Lift: 1.0378486055776892
+
+automake -> autoconf -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> libtool
+supp:  0.04990403071017274
+confidence:  1.0
+Lift: 1.0378486055776892
+
+automake -> autoconf -> rpmlib(FileDigests) <= 4.6.0-1 -> libtool
+supp:  0.04990403071017274
+confidence:  1.0
+Lift: 1.0378486055776892
+
+automake -> autoconf -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.07869481765834933
+confidence:  1.0
+Lift: 1.0378486055776892
+
+autoconf -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.04798464491362764
+confidence:  1.0
+Lift: 1.0378486055776892
+
+autoconf -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1 -> libtool
+supp:  0.053742802303262956
+confidence:  1.0
+Lift: 1.0378486055776892
+
+automake -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.04222648752399232
+confidence:  1.0
+Lift: 1.0378486055776892
+
+automake -> libtool -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.04990403071017274
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(FileDigests) <= 4.6.0-1 -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> boost-devel -> gcc-c++
+supp:  0.030710172744721688
+confidence:  1.0
+Lift: 1.0378486055776892
+
+cmake -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc-c++ -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.05182341650671785
+confidence:  1.0
+Lift: 1.0378486055776892
+
+desktop-file-utils -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.061420345489443376
+confidence:  1.0
+Lift: 1.0378486055776892
+
+desktop-file-utils -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc-c++ -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.061420345489443376
+confidence:  1.0
+Lift: 1.0378486055776892
+
+desktop-file-utils -> gettext -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.07293666026871401
+confidence:  1.0
+Lift: 1.0378486055776892
+
+intltool -> desktop-file-utils -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.030710172744721688
+confidence:  1.0
+Lift: 1.0378486055776892
+
+libappstream-glib -> desktop-file-utils -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.04990403071017274
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(FileDigests) <= 4.6.0-1 -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc -> gcc-c++
+supp:  0.05950095969289827
+confidence:  1.0
+Lift: 1.0378486055776892
+
+zlib-devel -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> gcc-c++ -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.03838771593090211
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1 -> mvn(junit:junit) -> maven-local
+supp:  0.0345489443378119
+confidence:  1.0
+Lift: 1.0378486055776892
+
+python3-devel -> rpmlib(CompressedFileNames) <= 3.0.4-1 -> rpmlib(FileDigests) <= 4.6.0-1 -> python3-setuptools
+supp:  0.04030710172744722
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> autoconf -> gcc -> automake -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.04222648752399232
+confidence:  1.0
+Lift: 1.0378486055776892
+
+rpmlib(CompressedFileNames) <= 3.0.4-1 -> autoconf -> automake -> libtool -> rpmlib(FileDigests) <= 4.6.0-1
+supp:  0.04990403071017274
+confidence:  1.0
+Lift: 1.0378486055776892
+

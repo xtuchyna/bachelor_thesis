@@ -1,0 +1,12 @@
+ORBit2-devel >= 2.5.1
+gettext
+glib2-devel >= 2.6.0
+gtk2-devel >= 2.6.0
+intltool >= 0.14-1
+libart_lgpl-devel >= 2.3.8
+libbonobo-devel >= 2.13.0
+libglade2-devel >= 2.0.0
+libgnome-devel >= 2.13.7
+libgnomecanvas-devel >= 2.0.1
+libtool >= 1.4.2-12
+libxml2-devel >= 2.5

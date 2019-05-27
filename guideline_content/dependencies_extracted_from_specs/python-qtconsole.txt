@@ -1,0 +1,8 @@
+desktop-file-utils
+python-ipython-sphinx
+python-setuptools
+python-sphinx
+python2-devel
+python3-devel
+python3-ipython-sphinx
+python3-setuptools

@@ -1,0 +1,8 @@
+python2-devel
+python2-mock
+python2-pillow
+python2-setuptools
+python3-devel
+python3-mock
+python3-pillow
+python3-setuptools

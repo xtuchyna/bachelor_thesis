@@ -1,0 +1,9 @@
+ghc-Cabal-devel
+ghc-attoparsec-devel
+ghc-containers-devel
+ghc-css-text-devel
+ghc-network-uri-devel
+ghc-rpm-macros
+ghc-tagsoup-devel
+ghc-text-devel
+ghc-utf8-string-devel

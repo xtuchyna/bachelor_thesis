@@ -1,0 +1,15 @@
+desktop-file-utils
+fontconfig-devel
+fribidi-devel
+imlib2-devel
+libICE-devel
+libSM-devel
+libX11-devel
+libXext-devel
+libXft-devel
+libXinerama-devel
+libXpm-devel
+libXrandr-devel
+libXrender-devel
+libtool
+zlib-devel

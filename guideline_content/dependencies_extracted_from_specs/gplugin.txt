@@ -1,0 +1,16 @@
+/usr/bin/gtester
+/usr/bin/help2man
+/usr/bin/msgfmt
+/usr/bin/msgmerge
+/usr/bin/xgettext
+/usr/bin/xsltproc
+cmake
+gcc
+lua-lgi
+pkgconfig(glib-2.0)
+pkgconfig(gmodule-2.0)
+pkgconfig(gobject-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(lua)
+pkgconfig(pygobject-3.0)
+pkgconfig(python3)

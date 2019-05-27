@@ -1,0 +1,16 @@
+cabal-install
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-directory-devel
+ghc-exceptions-devel
+ghc-filepath-devel
+ghc-mtl-devel
+ghc-process-devel
+ghc-rpm-macros
+ghc-semigroupoids-devel
+ghc-template-haskell-devel
+ghc-temporary-devel
+ghc-transformers-devel
+ghc-unix-compat-devel
+ghc-unix-devel
+ghc-utf8-string-devel

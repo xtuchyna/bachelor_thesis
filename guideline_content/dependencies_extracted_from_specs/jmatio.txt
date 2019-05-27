@@ -1,0 +1,3 @@
+/usr/bin/perl
+maven-local
+mvn(junit:junit)

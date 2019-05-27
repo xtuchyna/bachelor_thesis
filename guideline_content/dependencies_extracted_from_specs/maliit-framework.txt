@@ -1,0 +1,17 @@
+dbus-devel
+dbus-glib-devel
+doxygen
+glib2-devel
+gobject-introspection-devel
+graphviz
+gtk-doc
+gtk2-devel
+gtk3-devel
+hunspell-devel
+libX11-devel
+libXcomposite-devel
+libXdamage-devel
+libXext-devel
+libXfixes-devel
+qt-devel
+systemd-devel

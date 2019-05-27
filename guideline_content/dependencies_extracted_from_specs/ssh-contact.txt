@@ -1,0 +1,3 @@
+glib2-devel
+intltool
+telepathy-glib-devel >= 0.15.5

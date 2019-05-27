@@ -1,0 +1,8 @@
+ruby(release)
+rubygem(actionpack) = 5.1.5
+rubygem(activerecord) = 5.1.5
+rubygem(activesupport) = 5.1.5
+rubygem(erubis)
+rubygem(railties) = 5.1.5
+rubygem(sqlite3)
+rubygems-devel

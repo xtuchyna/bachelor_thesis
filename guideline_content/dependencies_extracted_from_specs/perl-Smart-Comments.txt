@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Data::Dumper)
+perl(ExtUtils::MakeMaker)
+perl(Filter::Simple) >= 0.8
+perl(List::Util)
+perl(Test::More) >= 0.99
+perl(Text::Balanced) >= 2
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

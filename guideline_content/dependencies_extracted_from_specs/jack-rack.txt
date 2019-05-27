@@ -1,0 +1,13 @@
+alsa-lib-devel
+curl-devel
+desktop-file-utils
+gettext-devel
+gtk2-devel
+jack-audio-connection-kit-devel >= 0.66.3
+ladspa-devel
+lash-devel
+libgnomeui-devel
+liblrdf-devel
+libtool
+libxml2-devel
+openssl-devel

@@ -1,0 +1,13 @@
+maven-local
+mvn(commons-codec:commons-codec)
+mvn(commons-logging:commons-logging)
+mvn(junit:junit)
+mvn(net.sf.ehcache:ehcache-core)
+mvn(net.spy:spymemcached)
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.apache.httpcomponents:httpcore)
+mvn(org.apache.httpcomponents:project:pom:)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.easymock:easymock)
+mvn(org.mockito:mockito-core)
+publicsuffix-list

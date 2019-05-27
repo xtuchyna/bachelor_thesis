@@ -1,0 +1,6 @@
+ruby
+ruby(release)
+rubygem(fog-xml)
+rubygem(minitest)
+rubygem(vcr)
+rubygems-devel

@@ -1,0 +1,4 @@
+openssl
+perl(Digest::CRC)
+perl(MIME::Base64)
+perl-interpreter

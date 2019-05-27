@@ -1,0 +1,2 @@
+perl(Pod::Text)
+perl-generators

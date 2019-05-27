@@ -1,0 +1,15 @@
+pkgconfig(bash-completion)
+python2-devel
+python2-docutils
+python2-krbv
+python2-libxslt
+python2-lxml
+python2-mock
+python2-nose
+python2-prettytable
+python2-setuptools
+python2-sphinx
+python2-sphinxcontrib-httpdomain
+python2-unittest2
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

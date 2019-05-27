@@ -1,0 +1,6 @@
+nodejs-packaging
+npm(async)
+npm(chalk)
+npm(filelist)
+npm(q)
+npm(utilities)

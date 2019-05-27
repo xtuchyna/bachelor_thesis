@@ -1,0 +1,3 @@
+max line lenght = 80
+use PEP for code style (no spaces inbetween brackets and etc)
+TODOs left in py file

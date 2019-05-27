@@ -1,0 +1,7 @@
+php(language) >= 5.5.0
+php-composer(fedora/autoloader)
+php-composer(phpunit/phpunit)
+php-composer(psr/log) < 2.0
+php-composer(psr/log) >= 1.0.1
+php-composer(symfony/console) < 4.0
+php-composer(symfony/console) >= 2.7.1

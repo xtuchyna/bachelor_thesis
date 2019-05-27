@@ -1,0 +1,15 @@
+findutils
+make
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(File::ConfigDir) >= 0.018
+perl(FindBin)
+perl(Moo)
+perl(Moo::Role) >= 1.003000
+perl(Scalar::Util)
+perl(Test::More) >= 0.9
+perl(local::lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

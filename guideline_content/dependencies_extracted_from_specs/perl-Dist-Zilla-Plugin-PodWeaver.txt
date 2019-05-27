@@ -1,0 +1,18 @@
+make
+perl(Dist::Zilla) >= 5
+perl(Dist::Zilla::Role::FileFinderUser)
+perl(Dist::Zilla::Role::FileMunger)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find::Rule)
+perl(File::Spec)
+perl(Moose)
+perl(PPI)
+perl(Pod::Elemental::PerlMunger) >= 0.1
+perl(Pod::Weaver) >= 4
+perl(Pod::Weaver::Config::Assembler)
+perl(Test::More) >= 0.96
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

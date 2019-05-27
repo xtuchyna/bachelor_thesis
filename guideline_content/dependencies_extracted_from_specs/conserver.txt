@@ -1,0 +1,7 @@
+autoconf
+automake
+compat-openssl10-devel
+freeipmi-devel
+krb5-devel
+pam-devel
+systemd

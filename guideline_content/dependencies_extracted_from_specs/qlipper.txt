@@ -1,0 +1,4 @@
+cmake
+desktop-file-utils
+pkgconfig(Qt5Widgets)
+qt5-qttools-devel

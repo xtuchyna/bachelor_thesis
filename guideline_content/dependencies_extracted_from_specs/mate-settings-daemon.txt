@@ -1,0 +1,15 @@
+dbus-glib-devel
+dconf-devel
+desktop-file-utils
+gtk3-devel
+libSM-devel
+libXxf86misc-devel
+libcanberra-devel
+libmatekbd-devel
+libmatemixer-devel
+libnotify-devel
+mate-common
+mate-desktop-devel
+nss-devel
+polkit-devel
+pulseaudio-libs-devel

@@ -1,0 +1,6 @@
+bash-completion
+gettext
+python2-Cython
+python2-devel
+python2-sphinx
+zlib-devel

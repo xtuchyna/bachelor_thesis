@@ -1,0 +1,2 @@
+libdsk-devel
+ncurses-devel

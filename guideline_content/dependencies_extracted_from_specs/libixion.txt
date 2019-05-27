@@ -1,0 +1,4 @@
+boost-devel
+help2man
+pkgconfig(mdds-1.2)
+pkgconfig(python3)

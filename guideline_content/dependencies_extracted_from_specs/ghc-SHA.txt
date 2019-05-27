@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-array-devel
+ghc-binary-devel
+ghc-bytestring-devel
+ghc-directory-devel
+ghc-rpm-macros

@@ -1,0 +1,6 @@
+PyQt4-devel
+desktop-file-utils
+gettext
+libappstream-glib
+python-sphinx
+python2-devel

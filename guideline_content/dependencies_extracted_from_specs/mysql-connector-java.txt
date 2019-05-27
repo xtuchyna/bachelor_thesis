@@ -1,0 +1,11 @@
+ant >= 1.6.0
+ant-contrib >= 1.0
+apache-commons-logging
+c3p0
+git
+hibernate-core
+java-devel >= 1:1.6.0
+javapackages-local
+jta >= 1.0
+junit
+slf4j

@@ -1,0 +1,8 @@
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(Module::Install::Base)
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

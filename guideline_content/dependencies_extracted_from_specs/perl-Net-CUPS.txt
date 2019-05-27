@@ -1,0 +1,18 @@
+coreutils
+cups-devel
+cups-filters-devel
+findutils
+gcc
+perl(AutoLoader)
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Copy)
+perl(File::Spec)
+perl(Test::More)
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

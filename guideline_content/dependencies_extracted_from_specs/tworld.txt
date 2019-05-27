@@ -1,0 +1,5 @@
+SDL
+SDL-devel
+desktop-file-utils
+gcc
+libappstream-glib

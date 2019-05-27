@@ -1,0 +1,7 @@
+python3-PyYAML
+python3-beautifulsoup4
+python3-click
+python3-devel
+python3-fedora
+python3-requests
+python3-setuptools

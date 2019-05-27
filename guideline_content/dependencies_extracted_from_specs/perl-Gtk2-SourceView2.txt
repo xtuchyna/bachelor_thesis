@@ -1,0 +1,11 @@
+Xvfb
+perl(ExtUtils::Depends)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::PkgConfig)
+perl(Glib::MakeHelper)
+perl(Gtk2::CodeGen)
+perl(Test::More)
+perl-devel
+perl-generators
+pkgconfig(gtksourceview-2.0)
+xauth

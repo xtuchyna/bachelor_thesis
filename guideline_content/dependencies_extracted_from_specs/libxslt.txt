@@ -1,0 +1,9 @@
+/usr/bin/libgcrypt-config
+autoconf
+automake
+gcc
+libtool
+make
+pkgconfig(libxml-2.0) >= 2.6.27
+python2-devel
+python2-libxml2

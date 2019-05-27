@@ -1,0 +1,9 @@
+make
+perl(:VERSION) >= 5.10.1
+perl(Attean) >= 0.019
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::More) >= 0.96
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

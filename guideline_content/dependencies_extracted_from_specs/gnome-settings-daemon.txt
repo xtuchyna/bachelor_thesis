@@ -1,0 +1,32 @@
+cups-devel
+gettext
+meson
+perl-interpreter
+pkgconfig(alsa)
+pkgconfig(colord) >= 1.0.2
+pkgconfig(fontconfig)
+pkgconfig(geoclue-2.0) >= 2.3.1
+pkgconfig(geocode-glib-1.0) >= 3.10.0
+pkgconfig(glib-2.0) >= 2.53.0
+pkgconfig(gnome-desktop-3.0) >= 3.27.90
+pkgconfig(gsettings-desktop-schemas) >= 3.23.3
+pkgconfig(gtk+-3.0) >= 3.15.3
+pkgconfig(gudev-1.0)
+pkgconfig(gweather-3.0) >= 3.9.5
+pkgconfig(lcms2) >= 2.2
+pkgconfig(libcanberra-gtk3)
+pkgconfig(libgeoclue-2.0)
+pkgconfig(libnm)
+pkgconfig(libnotify)
+pkgconfig(libpulse)
+pkgconfig(libpulse-mainloop-glib)
+pkgconfig(librsvg-2.0)
+pkgconfig(libwacom) >= 0.7
+pkgconfig(nss)
+pkgconfig(polkit-gobject-1)
+pkgconfig(upower-glib)
+pkgconfig(wayland-client)
+pkgconfig(x11)
+pkgconfig(xi)
+pkgconfig(xorg-wacom)
+pkgconfig(xtst)

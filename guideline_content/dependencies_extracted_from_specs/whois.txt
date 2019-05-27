@@ -1,0 +1,9 @@
+coreutils
+gcc
+gettext
+make
+perl(autodie)
+perl(strict)
+perl(warnings)
+perl-interpreter
+pkgconfig(libidn2) >= 2.0.3

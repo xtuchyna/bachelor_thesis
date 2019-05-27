@@ -1,0 +1,13 @@
+make
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(List::Util)
+perl(Scalar::Util)
+perl(String::Print) >= 0.91
+perl(Test::More) >= 0.86
+perl(base)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

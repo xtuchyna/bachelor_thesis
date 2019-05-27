@@ -1,0 +1,17 @@
+dbus-devel
+desktop-file-utils
+freetype-devel
+imlib2-devel
+libSM-devel
+libXcomposite-devel
+libXdamage-devel
+libXfixes-devel
+libXft-devel
+libXrandr-devel
+libXrender-devel
+libXxf86vm-devel
+libsndfile-devel
+pango-devel
+pulseaudio-libs-devel
+xorg-x11-proto-devel
+xorg-x11-xbitmaps

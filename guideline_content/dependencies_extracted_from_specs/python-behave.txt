@@ -1,0 +1,17 @@
+help2man
+python2-devel
+python2-mock
+python2-nose
+python2-parse
+python2-parse_type
+python2-setuptools
+python2-six
+python2-sphinx
+python2-sphinxcontrib-cheeseshop
+python3-devel
+python3-mock
+python3-nose
+python3-parse
+python3-parse_type
+python3-setuptools
+python3-six

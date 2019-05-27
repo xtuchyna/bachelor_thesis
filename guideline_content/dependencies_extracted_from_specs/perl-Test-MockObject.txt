@@ -1,0 +1,23 @@
+coreutils
+findutils
+make
+perl(CGI) >= 4.15
+perl(Carp)
+perl(Devel::Peek)
+perl(ExtUtils::MakeMaker)
+perl(Scalar::Util)
+perl(Test::Builder)
+perl(Test::Exception) >= 0.31
+perl(Test::More) >= 0.98
+perl(Test::Warn) >= 0.23
+perl(UNIVERSAL::can) >= 1.20110617
+perl(UNIVERSAL::isa) >= 1.20110614
+perl(base)
+perl(constant)
+perl(fields)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

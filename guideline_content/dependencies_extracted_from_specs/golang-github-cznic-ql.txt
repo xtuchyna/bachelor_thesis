@@ -1,0 +1,6 @@
+compiler(go-compiler)
+golang(github.com/cznic/b)
+golang(github.com/cznic/golex/lex)
+golang(github.com/cznic/lldb)
+golang(github.com/cznic/mathutil)
+golang(github.com/cznic/strutil)

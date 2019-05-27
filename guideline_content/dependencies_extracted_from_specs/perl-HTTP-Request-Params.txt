@@ -1,0 +1,18 @@
+coreutils
+findutils
+make
+perl(CGI)
+perl(Class::Accessor::Fast) >= 0.19
+perl(Email::MIME) >= 1.42
+perl(Email::MIME::ContentType)
+perl(Email::MIME::Modifier)
+perl(ExtUtils::MakeMaker)
+perl(HTTP::Message)
+perl(HTTP::Request) >= 1.40
+perl(HTTP::Request::Common) >= 1.26
+perl(Test::More)
+perl(parent)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

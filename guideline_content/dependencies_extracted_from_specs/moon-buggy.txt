@@ -1,0 +1,6 @@
+autoconf
+automake
+desktop-file-utils
+esound-devel
+ncurses-devel
+texinfo

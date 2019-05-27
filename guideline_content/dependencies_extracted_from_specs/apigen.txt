@@ -1,0 +1,43 @@
+php(language) >= 5.4
+php-composer(andrewsville/php-token-reflection) < 2
+php-composer(andrewsville/php-token-reflection) >= 1.4
+php-composer(apigen/theme-bootstrap) >= 1.1.2
+php-composer(apigen/theme-default) >= 1.0.1
+php-composer(fedora/autoloader)
+php-composer(kdyby/events) >= 2.0
+php-composer(kukulich/fshl) < 3
+php-composer(kukulich/fshl) >= 2.1
+php-composer(latte/latte) < 3
+php-composer(latte/latte) >= 2.2
+php-composer(michelf/php-markdown) < 2
+php-composer(michelf/php-markdown) >= 1.4
+php-composer(mockery/mockery) >= 0.9.3
+php-composer(nette/application) < 3
+php-composer(nette/application) >= 2.2
+php-composer(nette/bootstrap) < 3
+php-composer(nette/bootstrap) >= 2.2
+php-composer(nette/di) < 3
+php-composer(nette/di) >= 2.2
+php-composer(nette/mail) < 3
+php-composer(nette/mail) >= 2.2
+php-composer(nette/neon) < 3
+php-composer(nette/neon) >= 2.2
+php-composer(nette/robot-loader) < 3
+php-composer(nette/robot-loader) >= 2.2
+php-composer(nette/safe-stream) < 3
+php-composer(nette/safe-stream) >= 2.2
+php-composer(phpunit/phpunit)
+php-composer(symfony/console) < 3
+php-composer(symfony/console) >= 2.6
+php-composer(symfony/options-resolver) < 3
+php-composer(symfony/options-resolver) >= 2.6.1
+php-composer(symfony/yaml) < 3
+php-composer(symfony/yaml) >= 2.6
+php-composer(tracy/tracy) < 3
+php-composer(tracy/tracy) >= 2.2
+php-iconv
+php-mbstring
+php-pcre
+php-spl
+php-tokenizer
+php-zip

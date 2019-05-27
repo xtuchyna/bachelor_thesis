@@ -1,0 +1,8 @@
+bluez-libs-devel
+diffutils
+libcap-devel
+libnl3-devel
+libpcap-devel
+ncurses-devel
+openssl-devel
+pcre-devel

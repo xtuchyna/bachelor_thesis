@@ -1,0 +1,8 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp) >= 0.16
+perl(IO::File)
+perl(Inline::C)
+perl(Test::More) >= 0.62
+perl-generators

@@ -1,0 +1,14 @@
+perl(Carp)
+perl(DateTime) >= 0.12
+perl(DateTime::Duration)
+perl(DateTime::Infinite)
+perl(Module::Build)
+perl(Params::Validate)
+perl(Set::Infinite) >= 0.59
+perl(Test::More)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

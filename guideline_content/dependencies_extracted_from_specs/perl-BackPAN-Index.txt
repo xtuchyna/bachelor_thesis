@@ -1,0 +1,19 @@
+perl(App::Cache) >= 0.37
+perl(Archive::Extract)
+perl(CLASS) >= 1.00
+perl(CPAN::DistnameInfo) >= 0.09
+perl(DBD::SQLite) >= 1.25
+perl(DBIx::Class) >= 0.08109
+perl(File::Path)
+perl(File::Spec)
+perl(File::Spec::Unix)
+perl(LWP::Simple)
+perl(Module::Build) >= 0.37
+perl(Mouse) >= 0.64
+perl(Path::Class) >= 0.17
+perl(Test::Compile) >= 0.11
+perl(Test::More) >= 0.90
+perl(URI) >= 1.54
+perl(autodie)
+perl(parent)
+perl-generators

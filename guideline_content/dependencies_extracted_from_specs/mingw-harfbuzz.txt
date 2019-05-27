@@ -1,0 +1,16 @@
+autoconf
+automake
+libtool
+mingw-w64-tools
+mingw32-cairo
+mingw32-filesystem >= 95
+mingw32-freetype
+mingw32-gcc
+mingw32-glib2
+mingw32-icu
+mingw64-cairo
+mingw64-filesystem >= 95
+mingw64-freetype
+mingw64-gcc
+mingw64-glib2
+mingw64-icu

@@ -1,0 +1,5 @@
+mocha
+nodejs-packaging
+npm(fs-exists-sync)
+npm(global-prefix)
+npm(is-windows)

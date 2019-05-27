@@ -1,0 +1,5 @@
+checkpolicy >= 2.0.19
+httpd-devel >= 2.2.0
+libselinux-devel
+policycoreutils
+selinux-policy-devel

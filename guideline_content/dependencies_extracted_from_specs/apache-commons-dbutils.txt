@@ -1,0 +1,5 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.commons:commons-parent:pom:)
+mvn(org.hamcrest:hamcrest-all)
+mvn(org.mockito:mockito-core)

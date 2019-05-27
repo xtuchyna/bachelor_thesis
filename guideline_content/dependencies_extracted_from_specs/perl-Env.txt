@@ -1,0 +1,9 @@
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(Test::More)
+perl(Tie::Array)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

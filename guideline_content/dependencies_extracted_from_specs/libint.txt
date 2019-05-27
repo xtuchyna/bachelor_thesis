@@ -1,0 +1,5 @@
+autoconf
+automake
+libtool
+texlive-bibtex
+texlive-collection-latex

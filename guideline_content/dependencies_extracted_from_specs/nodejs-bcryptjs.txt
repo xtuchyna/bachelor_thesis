@@ -1,0 +1,6 @@
+dos2unix
+nodejs-packaging
+npm(bcrypt)
+npm(metascript)
+npm(testjs)
+npm(utfx)

@@ -1,0 +1,7 @@
+asciidoc
+gcc
+highlight
+libcurl-devel
+lua-devel
+make
+openssl-devel

@@ -1,0 +1,17 @@
+automoc4 >= 0.9.86
+cmake >= 2.8.9
+extra-cmake-modules
+kde-filesystem
+kf5-rpm-macros
+pkgconfig
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Designer)
+pkgconfig(Qt5OpenGL)
+pkgconfig(Qt5Widgets)
+pkgconfig(QtDBus)
+pkgconfig(QtDesigner)
+pkgconfig(QtOpenGL)
+pkgconfig(glib-2.0)
+pkgconfig(libpulse-mainloop-glib) > 0.9.15
+pkgconfig(libxml-2.0)
+pkgconfig(xcb)

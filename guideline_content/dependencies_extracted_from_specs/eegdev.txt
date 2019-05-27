@@ -1,0 +1,11 @@
+autoconf
+automake
+bison
+bluez-libs-devel
+expat-devel
+flex
+gcc
+gnulib-devel
+libtool
+libusbx-devel
+xdffileio-devel

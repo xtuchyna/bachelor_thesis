@@ -1,0 +1,4 @@
+pandoc
+python-devel
+python2-crypto
+python2-setuptools

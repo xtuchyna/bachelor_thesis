@@ -1,0 +1,11 @@
+php(language) >= 7
+php-composer(fedora/autoloader)
+php-composer(phpspec/phpspec) >= 3.4
+php-date
+php-fileinfo
+php-ftp
+php-hash
+php-mbstring
+php-pcre
+php-spl
+phpunit6

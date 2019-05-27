@@ -1,0 +1,41 @@
+coreutils
+perl(Carp)
+perl(Data::Record)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(FindBin)
+perl(Getopt::Long) >= 2.43
+perl(Getopt::Long::Descriptive) >= 0.099
+perl(JSON::MaybeXS)
+perl(Locale::TextDomain::OO::Lexicon::Hash)
+perl(MRO::Compat)
+perl(Mo) >= 0.36
+perl(Mo::coerce)
+perl(Mo::default)
+perl(Mo::required)
+perl(Module::Runtime)
+perl(Moo) >= 1.003
+perl(Moo::Role)
+perl(MooX::Cmd) >= 0.007
+perl(MooX::ConfigFromFile::Role)
+perl(MooX::Locale::Passthrough)
+perl(MooX::Locale::TextDomain::OO)
+perl(Moose)
+perl(Path::Class) >= 0.32
+perl(Pod::Usage)
+perl(Regexp::Common)
+perl(Role::Tiny::With)
+perl(Scalar::Util)
+perl(Term::Size::Any)
+perl(Test::More) >= 0.94
+perl(Test::Trap)
+perl(Text::LineFold)
+perl(lib)
+perl(namespace::clean)
+perl(overload)
+perl(parent)
+perl(strict)
+perl(strictures) >= 2
+perl(warnings)
+perl-generators
+perl-interpreter

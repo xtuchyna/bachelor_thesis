@@ -1,0 +1,6 @@
+rubygem(bundler)
+rubygem(fog-libvirt)
+rubygem(rdoc)
+rubygem(rspec) < 3
+rubygem(thor)
+vagrant >= 1.9.1

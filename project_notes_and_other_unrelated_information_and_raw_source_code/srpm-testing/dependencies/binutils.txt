@@ -1,0 +1,16 @@
+/usr/bin/pod2man
+bc
+coreutils
+dejagnu
+flex
+gcc
+gettext
+glibc-static
+perl
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+sed
+sharutils
+texinfo >= 4.0
+zlib-devel
+zlib-static

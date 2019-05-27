@@ -1,0 +1,2 @@
+gtk+-devel
+ncurses-devel

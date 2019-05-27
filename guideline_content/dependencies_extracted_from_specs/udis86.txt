@@ -1,0 +1,4 @@
+libtool
+python
+python-sphinx
+yasm

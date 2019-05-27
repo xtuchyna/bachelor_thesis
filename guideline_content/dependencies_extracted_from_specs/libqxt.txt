@@ -1,0 +1,6 @@
+avahi-compat-libdns_sd-devel
+avahi-devel
+db4-devel
+libXrandr-devel
+openssl-devel
+qt4-devel

@@ -1,0 +1,7 @@
+SDL-devel
+SDL_image-devel
+desktop-file-utils
+freealut-devel
+gtk2-devel
+libvorbis-devel
+openal-soft-devel

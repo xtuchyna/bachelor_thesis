@@ -1,0 +1,7 @@
+cmake(Qt5)
+pkgconfig(Qt5Core)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5X11Extras)
+pkgconfig(glib-2.0)
+pkgconfig(x11)
+pkgconfig(xcb-keysyms)

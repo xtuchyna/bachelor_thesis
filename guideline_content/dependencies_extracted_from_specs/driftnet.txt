@@ -1,0 +1,4 @@
+giflib-devel
+gtk2-devel
+libjpeg-devel
+libpcap-devel

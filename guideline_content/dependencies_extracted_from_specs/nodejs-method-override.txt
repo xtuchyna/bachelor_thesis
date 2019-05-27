@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(debug)
+npm(methods)
+npm(parseurl)
+npm(vary)

@@ -1,0 +1,6 @@
+python-devel
+python-flask
+python-sphinx
+python3-devel
+python3-flask
+python3-sphinx

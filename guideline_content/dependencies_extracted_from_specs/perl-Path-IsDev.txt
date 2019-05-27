@@ -1,0 +1,21 @@
+perl(Carp)
+perl(Class::Tiny) >= 1.000
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.90
+perl(File::HomeDir)
+perl(File::Spec)
+perl(File::Temp)
+perl(FindBin)
+perl(Module::Runtime)
+perl(Path::Tiny) >= 0.004
+perl(Role::Tiny)
+perl(Role::Tiny::With)
+perl(Scalar::Util)
+perl(Sub::Exporter)
+perl(Test::Fatal)
+perl(Test::More)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,12 @@
+autoconf
+autoconf-archive
+automake
+desktop-file-utils
+glib2-devel
+gobject-introspection-devel
+gtk3-devel
+intltool
+libXext-devel
+libtool
+pam-devel
+python3-devel

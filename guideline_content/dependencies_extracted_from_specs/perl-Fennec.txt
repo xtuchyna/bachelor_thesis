@@ -1,0 +1,26 @@
+perl(B)
+perl(Carp)
+perl(Child) >= 0.010
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter::Declare)
+perl(File::Find)
+perl(File::Temp)
+perl(List::Util)
+perl(Mock::Quick) >= 1.106
+perl(Module::Build) >= 0.40
+perl(Parallel::Runner) >= 0.013
+perl(Scalar::Util)
+perl(Test::Builder) >= 0.88
+perl(Test::Exception) >= 0.29
+perl(Test::More) >= 0.88
+perl(Test::Pod) >= 1.00
+perl(Test::Simple) >= 0.88
+perl(Test::Warn)
+perl(base)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

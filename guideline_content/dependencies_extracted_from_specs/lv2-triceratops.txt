@@ -1,0 +1,6 @@
+gtkmm24-devel
+jack-audio-connection-kit-devel
+libsamplerate-devel
+libsndfile-devel
+lv2-devel
+python

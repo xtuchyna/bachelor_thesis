@@ -1,0 +1,14 @@
+dbus-glib-devel
+desktop-file-utils
+exempi-devel
+gobject-introspection-devel
+gtk3-devel
+lcms2-devel
+libexif-devel
+libjpeg-turbo-devel
+libpeas-devel
+librsvg2-devel
+libxml2-devel
+mate-common
+mate-desktop-devel
+zlib-devel

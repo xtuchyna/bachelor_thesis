@@ -1,0 +1,9 @@
+chrpath
+ghc-Cabal-devel
+ghc-array-devel
+ghc-filepath-devel
+ghc-haskell-lexer-devel
+ghc-pretty-devel
+ghc-rpm-macros
+happy
+web-assets-devel

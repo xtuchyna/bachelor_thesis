@@ -1,0 +1,7 @@
+felix-osgi-compendium
+felix-osgi-core
+geronimo-parent-poms
+java-devel >= 1:1.6.0
+jpackage-utils
+maven-local
+maven-resources-plugin

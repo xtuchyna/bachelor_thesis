@@ -1,0 +1,8 @@
+cairo-devel
+desktop-file-utils
+freetype-devel
+lcms-devel
+libXext-devel
+python-devel
+tcl-devel
+tk-devel

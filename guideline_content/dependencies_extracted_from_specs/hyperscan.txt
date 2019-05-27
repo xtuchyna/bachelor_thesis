@@ -1,0 +1,7 @@
+boost-devel
+cmake
+libpcap-devel
+pcre-devel
+python
+ragel
+sqlite-devel >= 3.0

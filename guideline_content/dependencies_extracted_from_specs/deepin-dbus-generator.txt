@@ -1,0 +1,7 @@
+gcc-go
+golang(gopkg.in/check.v1)
+golang(pkg.deepin.io/lib)
+pkgconfig(Qt5)
+pkgconfig(Qt5Qml)
+pkgconfig(glib-2.0)
+pkgconfig(gobject-2.0)

@@ -1,0 +1,10 @@
+/usr/bin/cram
+automake
+ck-devel
+docbook-style-xsl
+libaio-devel
+libtool
+libxslt
+luajit-devel
+mariadb-connector-c-devel
+postgresql-devel

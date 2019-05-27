@@ -1,0 +1,7 @@
+boost-devel
+diffutils
+ghostscript
+groff
+libgcrypt-devel
+libtool
+sharutils

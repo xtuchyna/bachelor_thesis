@@ -1,0 +1,6 @@
+git
+python2-cheetah
+python2-devel
+python2-pyyaml
+python2-setuptools
+systemd

@@ -1,0 +1,7 @@
+exo-devel >= 0.7.2
+gettext
+gnutls-devel >= 1.2.0
+intltool
+libgcrypt-devel >= 1.2.0
+libxfce4ui-devel >= 4.8.0
+xfce4-panel-devel >= 4.8.0

@@ -1,0 +1,8 @@
+lsof
+nodejs-packaging
+npm(mocha)
+npm(pg-escape)
+npm(resumer)
+npm(split)
+npm(tmp)
+npm(which)

@@ -1,0 +1,9 @@
+/usr/bin/appstream-util
+desktop-file-utils
+gettext
+itstool
+meson
+pkgconfig(gtk+-3.0) >= 3.20
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+vala

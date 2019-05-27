@@ -1,0 +1,4 @@
+libogg-devel
+libtheora-devel
+libvorbis-devel
+speex-devel

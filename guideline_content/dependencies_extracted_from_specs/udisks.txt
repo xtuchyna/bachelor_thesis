@@ -1,0 +1,17 @@
+autoconf
+automake
+gtk-doc
+intltool
+libtool
+parted-devel >= 1.8.8
+pkgconfig(dbus-1) >= 1.2
+pkgconfig(dbus-glib-1) >= 0.82
+pkgconfig(devmapper) >= 1.02
+pkgconfig(gio-unix-2.0) >= 2.15.0
+pkgconfig(gudev-1.0) >= 147
+pkgconfig(libatasmart) >= 0.14
+pkgconfig(libudev) >= 143
+pkgconfig(polkit-gobject-1) >= 0.97
+pkgconfig(systemd) >= 185
+sg3_utils-devel >= 1.27
+systemd

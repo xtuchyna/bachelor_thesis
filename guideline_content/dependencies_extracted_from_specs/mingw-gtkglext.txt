@@ -1,0 +1,15 @@
+autoconf
+gtk2-devel
+libtool
+mingw32-filesystem >= 95
+mingw32-freeglut
+mingw32-gcc
+mingw32-gtk2
+mingw32-pkg-config
+mingw32-pthreads
+mingw64-filesystem >= 95
+mingw64-freeglut
+mingw64-gcc
+mingw64-gtk2
+mingw64-pkg-config
+mingw64-pthreads

@@ -1,0 +1,4 @@
+ghc-Cabal-devel
+ghc-filepath-devel
+ghc-parsec-devel
+ghc-rpm-macros

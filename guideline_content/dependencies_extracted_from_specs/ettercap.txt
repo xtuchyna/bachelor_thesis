@@ -1,0 +1,15 @@
+ImageMagick
+bison
+cmake
+compat-openssl10-devel
+desktop-file-utils
+flex
+groff-base
+gtk2-devel
+libcurl-devel
+libnet-devel
+libpcap-devel
+libtool
+libtool-ltdl-devel
+ncurses-devel
+pcre-devel

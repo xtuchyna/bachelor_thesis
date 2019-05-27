@@ -1,0 +1,6 @@
+cmake
+desktop-file-utils
+gettext
+kdelibs4-devel >= 4
+libcddb-devel
+libcdio-devel >= 0.90

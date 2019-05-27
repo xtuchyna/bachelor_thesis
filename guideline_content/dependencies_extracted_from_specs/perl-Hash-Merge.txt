@@ -1,0 +1,10 @@
+perl(Clone)
+perl(Clone::Choose)
+perl(ExtUtils::MakeMaker)
+perl(Test::CPAN::Changes)
+perl(Test::CheckManifest)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl(Test::Pod::Spelling::CommonMistakes)
+perl-generators

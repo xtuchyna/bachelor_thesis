@@ -1,0 +1,5 @@
+ocaml >= 3.10.0
+ocaml-ocamldoc
+perl(ExtUtils::Embed)
+perl-devel >= 5.8
+perl-generators

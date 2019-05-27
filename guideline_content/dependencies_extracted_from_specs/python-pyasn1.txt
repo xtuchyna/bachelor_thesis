@@ -1,0 +1,5 @@
+python-devel
+python-setuptools
+python-sphinx
+python3-devel
+python3-setuptools

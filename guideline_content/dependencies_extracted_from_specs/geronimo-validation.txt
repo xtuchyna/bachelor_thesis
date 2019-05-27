@@ -1,0 +1,3 @@
+geronimo-osgi-support
+geronimo-parent-poms
+maven-local

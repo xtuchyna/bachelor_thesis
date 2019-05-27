@@ -1,0 +1,11 @@
+apache-resource-bundles
+java-devel
+jpackage-utils
+maven-local
+maven-plugin-plugin
+maven-shared
+maven-source-plugin
+plexus-classworlds
+plexus-utils
+xml-commons-apis
+xmltool

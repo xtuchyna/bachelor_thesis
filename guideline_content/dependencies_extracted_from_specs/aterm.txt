@@ -1,0 +1,5 @@
+desktop-file-utils
+libAfterImage-devel >= 1.07
+libXext-devel
+libXt-devel
+mesa-libGL-devel

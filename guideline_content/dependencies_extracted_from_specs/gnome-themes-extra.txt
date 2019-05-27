@@ -1,0 +1,6 @@
+/usr/bin/gtk-update-icon-cache
+gettext
+intltool
+pkgconfig(gtk+-2.0)
+pkgconfig(gtk+-3.0)
+pkgconfig(librsvg-2.0)

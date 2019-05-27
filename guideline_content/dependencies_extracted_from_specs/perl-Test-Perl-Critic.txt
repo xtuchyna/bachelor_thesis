@@ -1,0 +1,14 @@
+coreutils
+perl(Carp)
+perl(English)
+perl(MCE::Grep) >= 1.827
+perl(Module::Build) >= 0.40
+perl(Perl::Critic) >= 1.105
+perl(Perl::Critic::Utils) >= 1.105
+perl(Perl::Critic::Violation) >= 1.105
+perl(Test::Builder) >= 0.88
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

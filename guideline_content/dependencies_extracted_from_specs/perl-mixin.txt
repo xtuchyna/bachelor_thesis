@@ -1,0 +1,11 @@
+perl(Exporter)
+perl(Module::Build)
+perl(Test::NoWarnings)
+perl(base)
+perl(constant)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

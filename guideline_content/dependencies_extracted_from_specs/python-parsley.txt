@@ -1,0 +1,8 @@
+python2-devel
+python2-pytest
+python2-sphinx
+python2-twisted
+python3-devel
+python3-pytest
+python3-sphinx
+python3-twisted

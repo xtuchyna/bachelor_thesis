@@ -1,0 +1,12 @@
+php(language) >= 5.4
+php-composer(fedora/autoloader)
+php-composer(guzzlehttp/psr7) < 2.0
+php-composer(guzzlehttp/psr7) >= 1.4
+php-composer(phpunit/phpunit)
+php-composer(psr/http-message) < 2.0
+php-composer(psr/http-message) >= 1.0
+php-date
+php-json
+php-openssl
+php-pcre
+php-spl

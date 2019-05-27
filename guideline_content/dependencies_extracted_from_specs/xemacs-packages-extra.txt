@@ -1,0 +1,7 @@
+info
+java-devel
+perl-generators
+python2-devel
+tex(latex)
+texinfo
+xemacs

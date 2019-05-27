@@ -1,0 +1,2 @@
+perl(ExtUtils::MakeMaker) >= 6.56
+perl-generators

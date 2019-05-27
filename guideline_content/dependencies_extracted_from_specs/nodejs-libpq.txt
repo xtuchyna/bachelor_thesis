@@ -1,0 +1,10 @@
+node-gyp
+nodejs-devel
+npm(async)
+npm(bindings)
+npm(lodash)
+npm(mocha)
+npm(nan)
+npm(okay)
+postgresql-devel
+postgresql-server

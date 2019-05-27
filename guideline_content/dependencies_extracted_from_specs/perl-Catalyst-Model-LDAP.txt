@@ -1,0 +1,32 @@
+coreutils
+findutils
+make
+perl(:VERSION) >= 5.8.1
+perl(Carp)
+perl(Catalyst) >= 5.62
+perl(Catalyst::Controller)
+perl(Catalyst::Model)
+perl(Catalyst::Test)
+perl(Class::Accessor::Fast)
+perl(Data::Dumper)
+perl(Data::Page)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(FindBin)
+perl(MRO::Compat)
+perl(Module::Runtime) >= 0.015
+perl(Net::LDAP) >= 0.65
+perl(Net::LDAP::Constant)
+perl(Net::LDAP::Control::ProxyAuth) >= 1.09
+perl(Net::LDAP::Control::Sort)
+perl(Net::LDAP::Control::VLV)
+perl(Net::LDAP::Entry)
+perl(Net::LDAP::Search)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

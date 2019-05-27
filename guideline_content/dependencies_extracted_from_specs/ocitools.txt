@@ -1,0 +1,6 @@
+compiler(go-compiler)
+go-md2man
+golang(github.com/Sirupsen/logrus)
+golang(github.com/codegangsta/cli)
+golang(github.com/opencontainers/runtime-spec/specs-go)
+golang(github.com/syndtr/gocapability/capability)

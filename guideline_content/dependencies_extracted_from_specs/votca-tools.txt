@@ -1,0 +1,7 @@
+boost-devel
+cmake
+expat-devel
+fftw-devel
+gsl-devel
+sqlite-devel
+txt2tags

@@ -1,0 +1,7 @@
+nodejs-packaging
+npm(d)
+npm(es5-ext)
+npm(event-emitter)
+npm(next-tick)
+npm(tad)
+npm(timers-ext)

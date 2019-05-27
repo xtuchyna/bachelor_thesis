@@ -1,0 +1,5 @@
+/usr/bin/convert
+/usr/bin/phpab
+/usr/bin/phpunit
+php-composer(zetacomponents/unit-test)
+php-posix

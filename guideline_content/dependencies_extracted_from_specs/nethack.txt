@@ -1,0 +1,13 @@
+bdftopcf
+bison
+desktop-file-utils
+flex
+fontpackages-devel
+libX11-devel
+libXaw-devel
+libXext-devel
+libXmu-devel
+libXpm-devel
+libXt-devel
+mkfontdir
+ncurses-devel

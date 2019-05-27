@@ -1,0 +1,18 @@
+perl(Carp)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::Builder)
+perl(Test::More) >= 0.47
+perl(Tree::DAG_Node)
+perl(XML::Filter::BufferText)
+perl(XML::SAX) >= 0.12
+perl(XML::SAX::Base)
+perl(XML::SAX::Exception)
+perl(XML::SAX::ParserFactory)
+perl(XML::SAX::Writer)
+perl(base)
+perl(constant)
+perl(lib)
+perl-generators

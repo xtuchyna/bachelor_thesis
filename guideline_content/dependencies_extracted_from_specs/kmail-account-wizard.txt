@@ -1,0 +1,38 @@
+cmake(KF5Codecs)
+cmake(KF5Config)
+cmake(KF5Crash)
+cmake(KF5DBusAddons)
+cmake(KF5DocTools)
+cmake(KF5KCMUtils)
+cmake(KF5Kross)
+cmake(KF5NewStuff)
+cmake(KF5Notifications)
+cmake(KF5NotifyConfig)
+cmake(KF5Parts)
+cmake(KF5Service)
+cmake(KF5TextEditor)
+cmake(KF5Wallet)
+cmake(QGpgme)
+cmake(Qt5DBus)
+cmake(Qt5Test)
+cmake(Qt5UiTools)
+cmake(Qt5Widgets)
+cmake(Qt5Xml)
+desktop-file-utils
+extra-cmake-modules
+gettext
+kf5-akonadi-contacts-devel >= 17.12
+kf5-akonadi-server-devel >= 17.12
+kf5-kcontacts-devel >= 17.12
+kf5-kidentitymanagement-devel >= 17.12
+kf5-kldap-devel >= 17.12
+kf5-kmailtransport-devel >= 17.12
+kf5-kpimtextedit-devel >= 17.12
+kf5-libkdepim-devel >= 17.12
+kf5-libkleo-devel >= 17.12
+kf5-mailcommon-devel >= 17.12
+kf5-messagelib-devel >= 17.12
+kf5-pimcommon-devel >= 17.12
+kf5-rpm-macros
+perl-generators
+pkgconfig(shared-mime-info)

@@ -1,0 +1,47 @@
+autoconf
+automake
+bzip2-devel
+cracklib-devel
+cyrus-sasl-devel
+doxygen
+gcc
+gcc-c++
+icu
+krb5-devel
+libcmocka-devel
+libdb-devel
+libevent-devel
+libicu-devel
+libtalloc-devel
+libtevent-devel
+libtool
+lm_sensors-devel
+net-snmp-devel
+nodejs
+npm
+nspr-devel
+nss-devel >= 3.34
+openldap-devel
+openssl-devel
+pam-devel
+pcre-devel
+perl-generators
+pkgconfig
+pkgconfig(systemd)
+python3-argcomplete
+python3-argparse-manpage
+python3-dateutil
+python3-devel
+python3-ldap
+python3-libselinux
+python3-policycoreutils
+python3-pyasn1
+python3-pyasn1-modules
+python3-setuptools
+python3-six
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1
+rsync
+systemd-devel
+systemd-units
+zlib-devel

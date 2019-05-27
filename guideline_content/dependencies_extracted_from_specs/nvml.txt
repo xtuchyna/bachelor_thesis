@@ -1,0 +1,10 @@
+autoconf
+automake
+doxygen
+gcc
+gdb
+glibc-devel
+libfabric-devel >= 1.4.2
+make
+man
+pkgconfig

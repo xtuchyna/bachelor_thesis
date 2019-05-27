@@ -1,0 +1,10 @@
+byacc
+flex
+gcc-c++
+libX11-devel
+libXaw-devel
+libXext-devel
+libXt-devel
+libpng-devel
+make
+xorg-x11-proto-devel

@@ -1,0 +1,9 @@
+php(language) >= 5.3.9
+php-composer(fedora/autoloader)
+php-composer(pdepend/pdepend) >= 2.5
+php-composer(phpunit/phpunit) >= 4.0
+php-date
+php-libxml
+php-pcre
+php-simplexml
+php-spl

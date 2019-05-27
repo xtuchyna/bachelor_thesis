@@ -1,0 +1,7 @@
+python3-devel
+python3-mock
+python3-pytest-runner
+python3-setuptools
+python3-setuptools_scm
+python3-sphinx
+texinfo

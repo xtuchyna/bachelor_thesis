@@ -1,0 +1,4 @@
+gcc-c++
+python2-devel
+python3-devel
+swig

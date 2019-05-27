@@ -1,0 +1,3 @@
+SDL-devel
+desktop-file-utils
+zlib-devel

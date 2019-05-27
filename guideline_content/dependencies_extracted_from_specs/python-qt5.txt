@@ -1,0 +1,43 @@
+chrpath
+findutils
+pkgconfig(Enginio)
+pkgconfig(Qt5Bluetooth)
+pkgconfig(Qt5Core) >= 5.5
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Designer)
+pkgconfig(Qt5Gui)
+pkgconfig(Qt5Location)
+pkgconfig(Qt5Multimedia)
+pkgconfig(Qt5Network)
+pkgconfig(Qt5Nfc)
+pkgconfig(Qt5OpenGL)
+pkgconfig(Qt5Positioning)
+pkgconfig(Qt5Quick)
+pkgconfig(Qt5QuickWidgets)
+pkgconfig(Qt5Script)
+pkgconfig(Qt5Sensors)
+pkgconfig(Qt5SerialPort)
+pkgconfig(Qt5Sql)
+pkgconfig(Qt5Svg)
+pkgconfig(Qt5Test)
+pkgconfig(Qt5WebChannel)
+pkgconfig(Qt5WebEngine)
+pkgconfig(Qt5WebKit)
+pkgconfig(Qt5WebKitWidgets)
+pkgconfig(Qt5WebSockets)
+pkgconfig(Qt5X11Extras)
+pkgconfig(Qt5Xml)
+pkgconfig(Qt5XmlPatterns)
+pkgconfig(dbus-1)
+pkgconfig(dbus-python)
+pkgconfig(libpulse-mainloop-glib)
+pkgconfig(phonon4qt5)
+python2
+python2-dbus
+python2-devel
+python2-sip-devel >= 4.19.7
+python3
+python3-dbus
+python3-devel
+python3-sip-devel >= 4.19.7
+qt5-qtbase-private-devel

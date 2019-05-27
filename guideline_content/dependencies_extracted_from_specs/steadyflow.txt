@@ -1,0 +1,8 @@
+cmake
+desktop-file-utils
+gettext
+glib2-devel
+gtk3-devel
+libnotify-devel
+pkgconfig(gee-1.0)
+vala

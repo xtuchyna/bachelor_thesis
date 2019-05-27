@@ -1,0 +1,22 @@
+findutils
+make
+perl(B)
+perl(Carp)
+perl(Data::Dumper::Concise)
+perl(Exporter::Declare) >= 0.111
+perl(Exporter::Declare::Export::Generator)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Temp)
+perl(FindBin)
+perl(Log::Log4perl) >= 1.29
+perl(Moo) >= 1.003000
+perl(Moo::Role)
+perl(Scalar::Util)
+perl(Test::Fatal)
+perl(Test::More)
+perl(base)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

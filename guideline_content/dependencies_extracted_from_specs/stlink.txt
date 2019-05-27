@@ -1,0 +1,6 @@
+cmake
+desktop-file-utils
+gcc
+pkgconfig(gtk+-3.0)
+pkgconfig(libusb-1.0)
+pkgconfig(udev)

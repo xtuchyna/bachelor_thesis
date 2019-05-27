@@ -1,0 +1,15 @@
+make
+perl(CGI) >= 4.00
+perl(CGI::Carp)
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(FCGI) >= 0.67
+perl(File::Temp)
+perl(Test::More) >= 0.98
+perl(deprecate)
+perl(if)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,7 @@
+/usr/bin/phpab
+/usr/bin/phpunit
+glibc-langpack-de
+glibc-langpack-en
+php-composer(zetacomponents/base) >= 1.8
+php-composer(zetacomponents/unit-test)
+php-gd

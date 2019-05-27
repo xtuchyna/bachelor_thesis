@@ -1,0 +1,21 @@
+perl(Carp)
+perl(Encode) >= 1.99
+perl(Exporter)
+perl(Fcntl)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(Module::Build)
+perl(POSIX)
+perl(Readonly) >= 0.06
+perl(Symbol)
+perl(Test::Exception) >= 0.20
+perl(Test::More) >= 0.10
+perl(Test::Simple)
+perl(base)
+perl(bytes)
+perl(lib)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

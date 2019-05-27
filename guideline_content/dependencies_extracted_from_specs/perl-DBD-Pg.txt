@@ -1,0 +1,33 @@
+findutils
+gcc
+make
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(DBI) >= 1.614
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(Encode)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Spec)
+perl(File::Temp)
+perl(POSIX)
+perl(Test::More) >= 0.88
+perl(Test::Simple)
+perl(Time::HiRes)
+perl(charnames)
+perl(constant)
+perl(if)
+perl(lib)
+perl(open)
+perl(strict)
+perl(utf8)
+perl(vars)
+perl(version)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+postgresql-devel >= 7.4
+postgresql-server

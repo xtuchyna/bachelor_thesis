@@ -1,0 +1,6 @@
+automake
+glibc-devel
+gobject-introspection-devel
+gtk-doc
+ocl-icd-devel
+opencl-headers

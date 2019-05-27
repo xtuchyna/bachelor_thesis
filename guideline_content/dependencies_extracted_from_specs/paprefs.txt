@@ -1,0 +1,7 @@
+dbus-glib-devel
+desktop-file-utils
+gconfmm26-devel
+intltool
+libglademm24-devel
+lynx
+pulseaudio-libs-devel

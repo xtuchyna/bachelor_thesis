@@ -1,0 +1,11 @@
+bzip2-devel
+cmake >= 2.8
+doxygen
+gcc
+libcmocka-devel >= 1.0
+openssl-devel
+pkgconfig
+rpm-devel
+valgrind
+xz-devel
+zlib-devel

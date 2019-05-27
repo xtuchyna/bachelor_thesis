@@ -1,0 +1,12 @@
+GeoIP-devel
+bison
+coreutils
+curl-devel
+flex
+gcc
+libspf2-devel
+m4
+make
+sed
+sendmail-milter-devel
+systemd-units

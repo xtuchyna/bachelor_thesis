@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker)
+perl(GPS::OID)
+perl(Geo::Forward) >= 0.09
+perl(Geo::Functions) >= 0.06
+perl(Geo::Inverse) >= 0.02
+perl(LWP::UserAgent)
+perl-generators

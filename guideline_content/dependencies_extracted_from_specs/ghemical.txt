@@ -1,0 +1,13 @@
+desktop-file-utils
+glib2-devel
+gtkglext-devel
+intltool
+libbonoboui-devel
+libghemical-devel >= 2.99.1
+libglade2-devel >= 2.4.0
+liboglappth-devel >= 0.98
+mesa-libGL-devel
+mesa-libGLU-devel
+mopac7-devel >= 1.14
+mpqc-devel
+openbabel-devel >= 2.2

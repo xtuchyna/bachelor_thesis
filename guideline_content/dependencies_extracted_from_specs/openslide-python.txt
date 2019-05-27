@@ -1,0 +1,9 @@
+gcc
+openslide >= 3.4.0
+python2-devel
+python2-pillow
+python2-setuptools
+python3-devel
+python3-pillow
+python3-setuptools
+python3-sphinx

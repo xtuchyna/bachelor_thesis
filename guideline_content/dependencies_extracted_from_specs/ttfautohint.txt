@@ -1,0 +1,4 @@
+freetype-devel
+harfbuzz-devel
+pkgconfig
+qt4-devel

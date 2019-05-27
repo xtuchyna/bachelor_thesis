@@ -1,0 +1,8 @@
+desktop-file-utils
+dnf
+fedora-logos
+gettext
+intltool
+python-coverage
+python-devel
+rpm-python

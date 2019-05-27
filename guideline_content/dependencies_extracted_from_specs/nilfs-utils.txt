@@ -1,0 +1,2 @@
+libmount-devel
+libuuid-devel

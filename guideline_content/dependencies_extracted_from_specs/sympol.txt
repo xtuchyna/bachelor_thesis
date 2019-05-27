@@ -1,0 +1,9 @@
+bliss-devel
+boost-devel
+cddlib-devel
+cmake
+eigen3-static
+gcc-c++
+gmp-devel
+lrslib-devel
+permlib-devel

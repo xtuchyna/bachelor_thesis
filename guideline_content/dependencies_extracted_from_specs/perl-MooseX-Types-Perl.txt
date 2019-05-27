@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker)
+perl(MooseX::Types)
+perl(MooseX::Types::Moose)
+perl(Params::Util)
+perl(Test::More)
+perl(version) >= 0.82
+perl-generators

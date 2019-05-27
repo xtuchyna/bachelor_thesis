@@ -1,0 +1,30 @@
+PyYAML
+bash
+python-cmd2 >= 0.6.7
+python-docutils
+python-mock
+python-pbr
+python-prettytable
+python-setuptools
+python-six
+python-stevedore
+python-subunit
+python-testrepository
+python-testscenarios
+python-testtools
+python-unicodecsv
+python2-devel
+python3-PyYAML
+python3-cmd2 >= 0.6.7
+python3-devel
+python3-pbr
+python3-prettytable
+python3-setuptools
+python3-six
+python3-stevedore
+python3-subunit
+python3-testrepository
+python3-testscenarios
+python3-testtools
+python3-unicodecsv
+which

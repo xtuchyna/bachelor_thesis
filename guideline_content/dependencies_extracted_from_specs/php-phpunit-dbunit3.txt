@@ -1,0 +1,6 @@
+(php-composer(symfony/yaml) >= 3.0 with php-composer(symfony/yaml) < 5)
+php(language) >= 7.0
+php-fedora-autoloader-devel
+php-pdo
+php-simplexml
+phpunit6

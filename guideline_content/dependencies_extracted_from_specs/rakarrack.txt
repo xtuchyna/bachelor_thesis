@@ -1,0 +1,12 @@
+alsa-lib-devel
+alsa-utils
+automake
+desktop-file-utils
+fftw-devel
+fltk-devel
+jack-audio-connection-kit-devel
+libXpm-devel
+libjpeg-devel
+libpng-devel
+libsamplerate-devel
+libsndfile-devel

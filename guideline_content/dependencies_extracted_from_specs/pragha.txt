@@ -1,0 +1,24 @@
+desktop-file-utils
+gettext
+intltool
+pkgconfig(gio-2.0) >= 2.36
+pkgconfig(grilo-0.3)
+pkgconfig(gstreamer-1.0) >= 0.11.90
+pkgconfig(gstreamer-audio-1.0) >= 0.11.90
+pkgconfig(gstreamer-base-1.0) >= 0.11.90
+pkgconfig(gtk+-3.0) >= 3.8.0
+pkgconfig(gudev-1.0) >= 145
+pkgconfig(keybinder-3.0) >= 0.2.0
+pkgconfig(libcddb) >= 1.3.0
+pkgconfig(libcdio) >= 0.80
+pkgconfig(libcdio_paranoia) >= 0.90
+pkgconfig(libclastfm) >= 0.5
+pkgconfig(libmtp) >= 1.1.0
+pkgconfig(libnotify) >= 0.7.5
+pkgconfig(libpeas-1.0) >= 1.0.0
+pkgconfig(libpeas-gtk-1.0) >= 1.0.0
+pkgconfig(libsoup-2.4) >= 2.38
+pkgconfig(libxfce4ui-2) >= 4.10.0
+pkgconfig(sqlite3) >= 3.4
+pkgconfig(taglib_c) >= 1.8
+totem-pl-parser-devel

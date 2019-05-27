@@ -1,0 +1,11 @@
+assimp-devel
+gcc-c++
+glm-devel
+libdrm-devel
+libxcb-devel
+mesa-libgbm-devel
+mesa-vulkan-devel
+meson
+vulkan-devel
+wayland-devel
+xcb-util-wm-devel

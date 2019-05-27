@@ -1,0 +1,27 @@
+coreutils
+findutils
+graphviz-devel
+make
+perl(Carp) >= 1.01
+perl(Config)
+perl(ExtUtils::MakeMaker)
+perl(File::Which) >= 1.09
+perl(Getopt::Long) >= 2.34
+perl(IO::Dir) >= 1.04
+perl(IO::File) >= 1.1
+perl(IPC::Run) >= 0.6
+perl(LWP::Simple) >= 6
+perl(Parse::RecDescent) >= 1.965001
+perl(Pod::Usage) >= 1.16
+perl(Test::More) >= 1.001002
+perl(Test::Pod) >= 1.48
+perl(Time::HiRes) >= 1.51
+perl(XML::Twig) >= 3.52
+perl(XML::XPath) >= 1.13
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

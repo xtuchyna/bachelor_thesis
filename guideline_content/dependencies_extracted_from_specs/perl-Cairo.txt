@@ -1,0 +1,7 @@
+cairo-devel >= 1.0.0
+perl(ExtUtils::Depends)
+perl(ExtUtils::MakeMaker)
+perl(ExtUtils::PkgConfig)
+perl(Test::Number::Delta)
+perl-devel
+perl-generators

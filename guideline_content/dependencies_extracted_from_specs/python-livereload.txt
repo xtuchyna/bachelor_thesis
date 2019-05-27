@@ -1,0 +1,11 @@
+python-tornado
+python2-devel
+python2-setuptools
+python2-six
+python3-backports_abc
+python3-certifi
+python3-devel
+python3-django
+python3-setuptools
+python3-six
+python3-tornado

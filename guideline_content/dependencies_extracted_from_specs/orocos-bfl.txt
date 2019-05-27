@@ -1,0 +1,6 @@
+boost-devel
+cmake
+cppunit-devel
+doxygen-latex
+ghostscript-core
+ginac-devel

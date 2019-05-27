@@ -1,0 +1,3 @@
+R-devel
+polyclipping-devel
+tex(latex)

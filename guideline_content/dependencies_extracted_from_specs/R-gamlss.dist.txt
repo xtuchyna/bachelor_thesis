@@ -1,0 +1,6 @@
+R-MASS
+R-devel
+R-graphics
+R-methods
+R-stats
+tex(latex)

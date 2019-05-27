@@ -1,0 +1,4 @@
+bison
+flex
+libxml2-devel
+tog-pegasus-devel

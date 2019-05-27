@@ -1,0 +1,8 @@
+boost-devel
+cmake
+dos2unix
+gcc-c++
+libxml2-devel
+minizip-devel
+pcre-devel
+zlib-devel

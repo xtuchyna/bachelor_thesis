@@ -1,0 +1,14 @@
+autoconf
+automake
+desktop-file-utils
+docbook-style-dsssl
+docbook-style-xsl
+docbook-utils
+freetype-devel
+gettext
+intltool
+libtool
+pkgconfig(gtk+-2.0)
+pkgconfig(libart-2.0)
+pkgconfig(libxml-2.0)
+rarian-compat

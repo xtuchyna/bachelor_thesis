@@ -1,0 +1,8 @@
+perl(ExtUtils::MakeMaker)
+perl(FileHandle)
+perl(IO::File) >= 1.14
+perl(Test::More)
+perl(base)
+perl(strict)
+perl(warnings)
+perl-generators

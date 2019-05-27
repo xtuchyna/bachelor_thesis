@@ -1,0 +1,12 @@
+boost-devel
+cmake
+doxygen
+gnuradio-devel
+gr-fcdproplus-devel
+gr-iqbal-devel
+graphviz
+hackrf-devel
+python2-devel
+rtl-sdr-devel
+swig
+uhd-devel

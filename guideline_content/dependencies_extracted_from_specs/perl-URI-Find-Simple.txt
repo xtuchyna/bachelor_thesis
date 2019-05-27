@@ -1,0 +1,10 @@
+perl(Carp)
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(URI::Find)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

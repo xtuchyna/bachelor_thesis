@@ -1,0 +1,9 @@
+/usr/bin/appstream-util
+/usr/bin/desktop-file-validate
+cmake
+cmake(Qt5Core)
+cmake(Qt5LinguistTools)
+cmake(Qt5Network)
+cmake(Qt5Widgets)
+gcc-c++
+uchardet-devel

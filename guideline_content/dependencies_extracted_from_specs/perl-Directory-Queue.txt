@@ -1,0 +1,12 @@
+perl(Encode)
+perl(ExtUtils::MakeMaker)
+perl(File::Temp)
+perl(No::Worries) >= 1.1
+perl(POSIX)
+perl(Pod::Coverage) >= 0.18
+perl(Test::More)
+perl(Test::Pod) >= 1.22
+perl(Test::Pod::Coverage) >= 1.08
+perl(Time::HiRes)
+perl-generators
+perl-interpreter

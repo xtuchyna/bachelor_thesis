@@ -1,0 +1,20 @@
+coreutils
+make
+perl(DBICx::TestDatabase)
+perl(DBIx::Class) >= 0.08127
+perl(DBIx::Class::Schema)
+perl(FindBin)
+perl(Module::Install::ExtraTests)
+perl(Module::Install::Makefile)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::More)
+perl(base)
+perl(inc::Module::Install)
+perl(lib)
+perl(parent)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

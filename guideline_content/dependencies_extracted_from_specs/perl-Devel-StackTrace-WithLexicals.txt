@@ -1,0 +1,19 @@
+perl(Config)
+perl(Cwd)
+perl(Devel::StackTrace) >= 2.00
+perl(Devel::StackTrace::Frame)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker)
+perl(Fcntl)
+perl(File::Find)
+perl(File::Path)
+perl(PadWalker) >= 1.98
+perl(Test::More) >= 0.88
+perl(base)
+perl(bytes)
+perl(overload)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

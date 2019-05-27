@@ -1,0 +1,4 @@
+autoconf
+automake
+desktop-file-utils >= 0.2.92
+gtk2-devel >= 2.0.6

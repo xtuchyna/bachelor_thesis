@@ -1,0 +1,4 @@
+desktop-file-utils
+gcc-c++
+lua-devel
+qt-devel

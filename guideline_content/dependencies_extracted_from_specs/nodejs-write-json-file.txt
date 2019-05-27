@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(mkdirp)
+npm(pify)
+npm(sort-keys)
+npm(write-file-atomic)

@@ -1,0 +1,6 @@
+cmake
+desktop-file-utils
+gnutls-devel
+hicolor-icon-theme
+libvncserver-devel
+qt5-qtbase-devel

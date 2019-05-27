@@ -1,0 +1,6 @@
+cmake
+ecryptfs-utils-devel
+gcc
+keyutils-libs-devel
+libgcrypt-devel
+libmount-devel

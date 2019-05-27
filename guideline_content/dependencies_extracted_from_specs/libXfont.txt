@@ -1,0 +1,8 @@
+autoconf
+automake
+freetype-devel
+libfontenc-devel
+libtool
+pkgconfig(fontsproto)
+xorg-x11-util-macros
+xorg-x11-xtrans-devel >= 1.0.3-3

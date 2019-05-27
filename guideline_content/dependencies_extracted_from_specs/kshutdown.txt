@@ -1,0 +1,14 @@
+desktop-file-utils
+extra-cmake-modules
+gettext
+kf5-kconfig-devel
+kf5-kconfigwidgets-devel
+kf5-kdbusaddons-devel
+kf5-kglobalaccel-devel
+kf5-ki18n-devel
+kf5-kidletime-devel
+kf5-knotifications-devel
+kf5-knotifyconfig-devel
+kf5-kxmlgui-devel
+kf5-rpm-macros
+qt5-qtbase-devel

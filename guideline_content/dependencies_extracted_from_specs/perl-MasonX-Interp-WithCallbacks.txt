@@ -1,0 +1,23 @@
+perl(Attribute::Handlers)
+perl(CGI)
+perl(Class::Container) >= 0.09
+perl(Class::ISA)
+perl(File::Spec::Functions)
+perl(FindBin)
+perl(HTML::Mason) >= 1.23
+perl(HTML::Mason::ApacheHandler)
+perl(HTML::Mason::CGIHandler)
+perl(HTML::Mason::Exceptions)
+perl(HTML::Mason::Interp)
+perl(HTML::Mason::MethodMaker)
+perl(Module::Build)
+perl(Params::Callback)
+perl(Params::CallbackRequest) >= 1.15
+perl(Test::More) >= 0.17
+perl(Test::Pod) >= 1.20
+perl(Test::Simple) >= 0.17
+perl(base)
+perl(constant)
+perl(strict)
+perl(vars)
+perl-generators

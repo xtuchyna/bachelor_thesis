@@ -1,0 +1,23 @@
+check
+cmake
+desktop-file-utils
+doxygen
+extra-cmake-modules
+kf5-kcoreaddons-devel
+kf5-kio-devel
+kf5-rpm-macros
+libappstream-glib
+neon-devel
+openssl-devel
+python2-sphinx
+qt5-qtbase
+qt5-qtbase-devel
+qt5-qtbase-gui
+qt5-qttools
+qt5-qttools-devel
+qt5-qtwebkit-devel
+qt5-qtxmlpatterns-devel
+qtkeychain-qt5-devel >= 0.7.0
+qtlockedfile-qt5-devel
+qtsingleapplication-qt5-devel
+sqlite-devel

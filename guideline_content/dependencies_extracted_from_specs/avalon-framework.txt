@@ -1,0 +1,5 @@
+maven-local
+mvn(avalon-logkit:avalon-logkit)
+mvn(commons-logging:commons-logging)
+mvn(log4j:log4j)
+mvn(org.apache.felix:maven-bundle-plugin)

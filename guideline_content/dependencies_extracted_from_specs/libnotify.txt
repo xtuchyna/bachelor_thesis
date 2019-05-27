@@ -1,0 +1,5 @@
+chrpath
+gdk-pixbuf2-devel
+glib2-devel >= 2.26.0
+gobject-introspection-devel
+gtk3-devel

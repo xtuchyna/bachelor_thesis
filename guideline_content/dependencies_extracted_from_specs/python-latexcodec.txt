@@ -1,0 +1,12 @@
+python2-devel
+python2-nose
+python2-nose-cov
+python2-setuptools
+python2-six
+python2-sphinx
+python3-devel
+python3-nose
+python3-nose-cov
+python3-setuptools
+python3-six
+python3-sphinx

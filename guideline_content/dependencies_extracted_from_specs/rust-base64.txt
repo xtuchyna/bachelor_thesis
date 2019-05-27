@@ -1,0 +1,4 @@
+(crate(byteorder) >= 1.1.0 with crate(byteorder) < 2.0.0)
+(crate(rand) >= 0.4.0 with crate(rand) < 0.5.0)
+(crate(safemem) >= 0.2.0 with crate(safemem) < 0.3.0)
+rust-packaging

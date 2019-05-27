@@ -1,0 +1,14 @@
+perl(ExtUtils::MakeMaker)
+perl(IO::File)
+perl(Parse::CPAN::Meta) >= 0.02
+perl(Test::Builder)
+perl(Test::Builder::Tester)
+perl(Test::CPAN::Meta::JSON)
+perl(Test::More) >= 0.62
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 0.08
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

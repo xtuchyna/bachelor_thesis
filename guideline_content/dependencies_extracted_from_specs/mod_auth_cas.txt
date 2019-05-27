@@ -1,0 +1,9 @@
+autoconf
+automake
+httpd-devel
+libcurl-devel
+libtool
+m4
+openssl-devel
+pcre-devel
+readline-devel

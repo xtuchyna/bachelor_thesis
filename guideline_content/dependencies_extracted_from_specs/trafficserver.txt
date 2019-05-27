@@ -1,0 +1,15 @@
+autoconf
+automake
+boost-devel
+expat-devel
+gcc-c++
+gnupg
+hwloc-devel
+libtool
+openssl-devel
+pcre-devel
+perl-ExtUtils-MakeMaker
+systemd
+tcl-devel
+xz-devel
+zlib-devel

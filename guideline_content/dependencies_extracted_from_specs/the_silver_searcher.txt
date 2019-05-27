@@ -1,0 +1,6 @@
+autoconf
+automake
+pcre-devel
+pkgconfig(bash-completion)
+xz-devel
+zlib-devel

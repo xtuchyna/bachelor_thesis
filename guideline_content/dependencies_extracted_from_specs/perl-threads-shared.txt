@@ -1,0 +1,20 @@
+findutils
+gcc
+make
+perl(Carp)
+perl(Config)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::testlib)
+perl(File::Path)
+perl(File::Spec)
+perl(POSIX)
+perl(Scalar::Util)
+perl(Test::More)
+perl(Time::HiRes)
+perl(XSLoader)
+perl(strict)
+perl(threads) >= 1.73
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter

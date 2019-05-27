@@ -1,0 +1,18 @@
+/usr/bin/pod2man
+bc
+bison
+coreutils
+dejagnu
+flex
+gcc
+gcc-c++
+gettext
+glibc-static
+libstdc++-static
+m4
+perl
+sed
+sharutils
+texinfo >= 4.0
+zlib-devel
+zlib-static

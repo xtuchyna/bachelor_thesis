@@ -1,0 +1,9 @@
+doxygen
+git
+python-setuptools
+python-six
+python-sphinx
+python2-devel
+python3-devel
+python3-setuptools
+python3-six

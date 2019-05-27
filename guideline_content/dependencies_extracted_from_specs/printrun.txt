@@ -1,0 +1,10 @@
+/usr/bin/appstream-util
+/usr/bin/desktop-file-validate
+/usr/bin/msgfmt
+/usr/bin/sed
+gcc
+grep
+python3-Cython
+python3-devel
+python3-pyserial
+python3-setuptools

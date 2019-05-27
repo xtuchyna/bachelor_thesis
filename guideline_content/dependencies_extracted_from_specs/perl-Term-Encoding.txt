@@ -1,0 +1,9 @@
+perl(Exporter)
+perl(I18N::Langinfo)
+perl(Test::More)
+perl(base)
+perl(inc::Module::Install)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

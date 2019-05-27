@@ -1,0 +1,4 @@
+boost-devel
+desktop-file-utils
+gcc-c++
+qt-devel

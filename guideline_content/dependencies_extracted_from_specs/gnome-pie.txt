@@ -1,0 +1,12 @@
+bamf-devel
+cmake
+desktop-file-utils
+gnome-menus-devel
+gtk3-devel
+libXtst-devel
+libgee-devel
+libxml2-devel
+pkgconfig(gee-1.0)
+pkgconfig(libwnck-3.0)
+unique3-devel
+vala-devel

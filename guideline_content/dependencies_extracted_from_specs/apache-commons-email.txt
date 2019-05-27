@@ -1,0 +1,10 @@
+maven-local
+mvn(com.sun.mail:javax.mail)
+mvn(commons-io:commons-io)
+mvn(junit:junit)
+mvn(org.apache.commons:commons-parent:pom:)
+mvn(org.easymock:easymock)
+mvn(org.powermock:powermock-api-easymock)
+mvn(org.powermock:powermock-module-junit4)
+mvn(org.slf4j:slf4j-jdk14)
+mvn(org.subethamail:subethasmtp)

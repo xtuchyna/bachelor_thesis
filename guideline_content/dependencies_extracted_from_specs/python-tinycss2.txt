@@ -1,0 +1,8 @@
+python2-devel
+python2-pytest
+python2-pytest-cov
+python2-webencodings >= 0.4
+python3-devel
+python3-pytest
+python3-pytest-cov
+python3-webencodings >= 0.4

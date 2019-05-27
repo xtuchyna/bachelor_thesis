@@ -1,0 +1,11 @@
+cmake
+git
+gtest
+python-empy
+python-nose
+python-rospkg
+python-setuptools
+python-sphinx
+python-yaml
+python2-devel
+ros-release

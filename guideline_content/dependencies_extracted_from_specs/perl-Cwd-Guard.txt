@@ -1,0 +1,17 @@
+perl(Cwd)
+perl(Exporter)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Spec)
+perl(File::Temp)
+perl(Module::Build)
+perl(Test::More) >= 0.88
+perl(Test::Requires)
+perl(constant)
+perl(if)
+perl(parent)
+perl(strict)
+perl(utf8)
+perl(warnings)
+perl-generators
+perl-interpreter

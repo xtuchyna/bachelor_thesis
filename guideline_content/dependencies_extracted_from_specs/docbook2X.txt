@@ -1,0 +1,7 @@
+/usr/bin/sgml2xml
+libxslt
+openjade
+perl(XML::SAX::ParserFactory)
+perl-generators
+perl-interpreter
+texinfo

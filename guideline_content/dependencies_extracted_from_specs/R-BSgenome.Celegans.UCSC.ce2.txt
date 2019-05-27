@@ -1,0 +1,3 @@
+R-BSgenome
+R-devel >= 3.0.0
+tex(latex)

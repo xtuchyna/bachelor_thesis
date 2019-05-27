@@ -1,0 +1,10 @@
+cairo
+python3-cairocffi
+python3-cffi
+python3-devel
+python3-nose-cov
+python3-pycparser
+python3-setuptools
+python3-six
+python3-trollius
+python3-xcffib

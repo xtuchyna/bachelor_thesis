@@ -1,0 +1,12 @@
+/usr/bin/phpab
+/usr/bin/phpunit
+php(language) >= 5.3.3
+php-composer(mikey179/vfsStream) < 2
+php-composer(mikey179/vfsStream) >= 1.2
+php-composer(phpunit/php-text-template) < 2
+php-composer(phpunit/php-text-template) >= 1.2
+php-composer(sebastian/version) < 3
+php-composer(sebastian/version) >= 1.0
+php-composer(symfony/console) < 3
+php-composer(symfony/console) >= 2.4
+php-fedora-autoloader-devel

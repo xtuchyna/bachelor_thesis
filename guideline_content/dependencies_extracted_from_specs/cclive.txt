@@ -1,0 +1,7 @@
+boost-devel
+chrpath
+glib2-devel
+glibmm24-devel
+libcurl-devel
+libquvi-devel
+pcre-devel

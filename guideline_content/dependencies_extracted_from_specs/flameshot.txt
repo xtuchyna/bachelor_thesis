@@ -1,0 +1,10 @@
+desktop-file-utils
+gcc
+gcc-c++
+libappstream-glib
+pkgconfig(Qt5Concurrent)
+pkgconfig(Qt5DBus)
+pkgconfig(Qt5Multimedia)
+pkgconfig(Qt5Network)
+pkgconfig(Qt5Widgets)
+qt5-linguist

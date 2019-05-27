@@ -1,0 +1,7 @@
+gettext
+gobject-introspection-devel
+pkgconfig(enchant-2)
+pkgconfig(glib-2.0) >= 2.44
+pkgconfig(gtk+-3.0) >= 3.20
+pkgconfig(iso-codes)
+vala

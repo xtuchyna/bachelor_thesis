@@ -1,0 +1,7 @@
+gcc
+gettext
+glib2-devel >= 2.26
+gtk2-devel
+intltool
+ruby
+rubygems

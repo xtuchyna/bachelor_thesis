@@ -1,0 +1,6 @@
+cmake
+dos2unix
+doxygen
+freeglut-devel
+libICE-devel
+tinyxml-devel

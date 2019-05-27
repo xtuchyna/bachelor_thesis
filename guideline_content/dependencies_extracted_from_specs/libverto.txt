@@ -1,0 +1,7 @@
+autoconf
+automake
+git
+glib2-devel
+libev-devel
+libevent-devel
+libtool

@@ -1,0 +1,4 @@
+glib2-devel
+libcompizconfig-devel >= 0.8.12
+python3-Cython
+python3-devel

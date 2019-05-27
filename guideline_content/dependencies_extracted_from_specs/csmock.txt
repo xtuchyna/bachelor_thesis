@@ -1,0 +1,4 @@
+cmake
+help2man
+python3-GitPython
+python3-devel

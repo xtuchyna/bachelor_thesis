@@ -1,0 +1,4 @@
+(crate(quote) >= 0.3.7 with crate(quote) < 0.4.0)
+(crate(synom) >= 0.11.0 with crate(synom) < 0.12.0)
+(crate(unicode-xid) >= 0.1.0 with crate(unicode-xid) < 0.2.0)
+rust-packaging

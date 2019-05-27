@@ -1,0 +1,21 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(File::Basename)
+perl(File::Find)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Makefile)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Test::More)
+perl(base)
+perl(inc::Module::Install) >= 0.65
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+perl-podlators
+sed

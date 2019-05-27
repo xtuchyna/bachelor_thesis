@@ -1,0 +1,6 @@
+SDL-devel
+autoconf
+automake
+desktop-file-utils
+freealut-devel
+openal-soft-devel

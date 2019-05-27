@@ -1,0 +1,15 @@
+graphviz
+gtk-doc
+intltool
+libappstream-glib
+pkgconfig(gobject-introspection-1.0)
+pkgconfig(icu-i18n)
+pkgconfig(icu-uc)
+pkgconfig(json-glib-1.0)
+pkgconfig(libnm)
+pkgconfig(libsoup-2.4)
+pkgconfig(libxml-2.0)
+pkgconfig(sqlite3)
+pkgconfig(uuid)
+systemd
+vala

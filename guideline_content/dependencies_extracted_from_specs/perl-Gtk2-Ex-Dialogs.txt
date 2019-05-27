@@ -1,0 +1,12 @@
+perl(Carp)
+perl(Cwd)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Type) >= 0.22
+perl(Glib)
+perl(Gtk2) >= 1.04
+perl(Gtk2::Ex::Constants)
+perl(Gtk2::Ex::Utils) >= 0.08
+perl(Test::More)
+perl(constant)
+perl-generators

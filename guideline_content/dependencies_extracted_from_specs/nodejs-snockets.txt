@@ -1,0 +1,6 @@
+coffee-script
+nodejs-packaging
+npm(dep-graph)
+npm(docco)
+npm(uglify-js) < 2
+npm(watchit)

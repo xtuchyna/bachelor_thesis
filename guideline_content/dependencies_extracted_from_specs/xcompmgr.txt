@@ -1,0 +1,7 @@
+libX11-devel
+libXcomposite-devel
+libXdamage-devel
+libXext-devel
+libXfixes-devel
+libXrender-devel
+pkgconfig

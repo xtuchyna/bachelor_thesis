@@ -1,0 +1,6 @@
+maven-local
+mvn(junit:junit)
+mvn(org.apache.rat:apache-rat-plugin)
+mvn(org.hamcrest:hamcrest-all)
+mvn(org.slf4j:slf4j-api)
+mvn(org.slf4j:slf4j-jdk14)

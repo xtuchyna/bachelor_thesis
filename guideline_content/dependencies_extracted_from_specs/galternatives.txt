@@ -1,0 +1,6 @@
+desktop-file-utils
+gettext
+intltool
+pygtk2-devel
+pygtk2-libglade
+python2-devel

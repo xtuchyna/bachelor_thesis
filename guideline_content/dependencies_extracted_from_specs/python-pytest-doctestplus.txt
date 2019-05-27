@@ -1,0 +1,5 @@
+python3-devel
+python3-numpy
+python3-pytest
+python3-setuptools
+python3-six

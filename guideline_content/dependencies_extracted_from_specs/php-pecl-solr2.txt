@@ -1,0 +1,7 @@
+curl-devel
+libxml2-devel
+pcre-devel
+php-curl
+php-devel
+php-json
+php-pear

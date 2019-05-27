@@ -1,0 +1,7 @@
+autoconf
+automake
+doxygen
+graphviz
+libtool
+xerces-c-devel >= 3.0.1
+xqc

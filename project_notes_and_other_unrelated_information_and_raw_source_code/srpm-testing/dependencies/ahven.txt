@@ -1,0 +1,7 @@
+fedora-gnat-project-common
+gcc-gnat
+gprbuild
+make
+python3-sphinx
+rpmlib(CompressedFileNames) <= 3.0.4-1
+rpmlib(FileDigests) <= 4.6.0-1

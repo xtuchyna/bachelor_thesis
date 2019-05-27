@@ -1,0 +1,10 @@
+SDL-devel
+SDL_sound-devel
+autoconf
+compat-lua-devel
+libpng-devel
+libtool
+mesa-libGL-devel
+mesa-libGLU-devel
+physfs-devel
+zlib-devel

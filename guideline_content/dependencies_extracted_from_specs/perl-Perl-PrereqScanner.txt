@@ -1,0 +1,26 @@
+make
+perl(CPAN::Meta::Requirements) >= 2.124
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(FindBin)
+perl(Getopt::Long)
+perl(List::MoreUtils)
+perl(List::Util)
+perl(Module::Path)
+perl(Moose)
+perl(Moose::Role)
+perl(PPI) >= 1.215
+perl(PPI::Document)
+perl(Params::Util)
+perl(String::RewritePrefix) >= 0.005
+perl(Test::More)
+perl(Try::Tiny)
+perl(lib)
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

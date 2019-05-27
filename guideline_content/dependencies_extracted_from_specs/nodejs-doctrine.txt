@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(esutils)
+npm(isarray)
+npm(should)

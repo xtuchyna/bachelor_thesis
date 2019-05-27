@@ -1,0 +1,2 @@
+chrpath
+curl-devel

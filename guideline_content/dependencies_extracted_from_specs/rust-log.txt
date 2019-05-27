@@ -1,0 +1,4 @@
+(crate(cfg-if) >= 0.1.2 with crate(cfg-if) < 0.2.0)
+(crate(serde) >= 1.0.0 with crate(serde) < 2.0.0)
+(crate(serde_test) >= 1.0.0 with crate(serde_test) < 2.0.0)
+rust-packaging

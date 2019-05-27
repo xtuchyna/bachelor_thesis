@@ -1,0 +1,7 @@
+GeoIP-devel
+bind-devel >= 9.3.0
+gzip
+krb5-devel
+libcap-devel
+libxml2-devel
+openssl-devel

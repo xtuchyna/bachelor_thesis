@@ -1,0 +1,14 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Find)
+perl(Test::Builder)
+perl(Test::Builder::Tester) >= 1.04
+perl(Test::More)
+perl(Test::Pod) >= 1.18
+perl(Test::Pod::Coverage) >= 1.04
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

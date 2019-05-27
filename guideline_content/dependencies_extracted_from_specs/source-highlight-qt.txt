@@ -1,0 +1,3 @@
+boost-devel
+qt-devel
+source-highlight-devel

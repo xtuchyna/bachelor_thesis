@@ -1,0 +1,16 @@
+python-cliff
+python-keystoneauth1
+python-mock
+python-oslo-log
+python-oslo-sphinx >= 2.3.0
+python-pbr >= 1.6
+python-setuptools
+python-sphinx
+python2-devel
+python3-cliff
+python3-devel
+python3-keystoneauth1
+python3-mock
+python3-oslo-log
+python3-pbr >= 1.6
+python3-setuptools

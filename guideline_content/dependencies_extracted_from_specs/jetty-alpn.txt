@@ -1,0 +1,6 @@
+java-1.8.0-openjdk-headless
+maven-local
+mvn(org.apache.felix:maven-bundle-plugin)
+mvn(org.codehaus.mojo:build-helper-maven-plugin)
+mvn(org.eclipse.jetty.alpn:alpn-api)
+mvn(org.eclipse.jetty:jetty-parent:pom:)

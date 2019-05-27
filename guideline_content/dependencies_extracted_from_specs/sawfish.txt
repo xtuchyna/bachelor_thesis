@@ -1,0 +1,15 @@
+autoconf
+desktop-file-utils
+gdk-pixbuf2-xlib-devel
+gettext
+gmp-devel
+gtk2-devel
+kde-filesystem
+libICE-devel
+libSM-devel
+libXft-devel
+libXtst-devel
+librep-devel >= 0.92.3
+libtool
+rep-gtk-devel >= 0.90.7
+texinfo

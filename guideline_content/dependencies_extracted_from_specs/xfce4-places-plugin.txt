@@ -1,0 +1,7 @@
+exo-devel >= 0.5.0
+gettext
+intltool
+libnotify-devel >= 0.4.0
+libxfce4ui-devel >= 4.8.0
+xfce4-panel-devel >= 4.8.0
+xfconf-devel >= 4.6.0

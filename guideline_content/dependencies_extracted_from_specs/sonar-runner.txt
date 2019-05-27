@@ -1,0 +1,5 @@
+maven-local
+mvn(ch.qos.logback:logback-classic)
+mvn(org.codehaus.sonar-plugins:parent:pom:)
+mvn(org.codehaus.sonar:sonar-batch)
+mvn(org.codehaus.sonar:sonar-plugin-api)

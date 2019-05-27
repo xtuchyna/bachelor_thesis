@@ -1,0 +1,30 @@
+coreutils
+findutils
+hunspell-en
+make
+perl(CPAN::Meta) >= 2.120900
+perl(CPAN::Meta::Prereqs)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.17
+perl(File::Spec)
+perl(File::Temp)
+perl(IO::Handle)
+perl(IPC::Open3)
+perl(Perl::Critic::Policy::Lax::ProhibitStringyEval::ExceptForRequire)
+perl(Pod::Coverage::TrustPod)
+perl(Pod::Wordlist)
+perl(Test::CPAN::Meta)
+perl(Test::MinimumVersion)
+perl(Test::More) >= 0.88
+perl(Test::Perl::Critic)
+perl(Test::Pod) >= 1.41
+perl(Test::Pod::Coverage) >= 1.08
+perl(Test::Portability::Files)
+perl(Test::Spelling)
+perl(Test::Version)
+perl(blib)
+perl(constant)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,6 @@
+autoconf
+automake
+erlang-rebar
+gtk2-devel
+libglade2-devel
+libtool

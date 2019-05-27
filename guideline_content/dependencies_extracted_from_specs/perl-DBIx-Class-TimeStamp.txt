@@ -1,0 +1,37 @@
+make
+perl(CPAN)
+perl(Class::Accessor::Grouped)
+perl(Config)
+perl(Cwd)
+perl(DBD::SQLite)
+perl(DBIx::Class)
+perl(DBIx::Class::Core)
+perl(DBIx::Class::DynamicDefault) >= 0.03
+perl(DBIx::Class::InflateColumn::DateTime)
+perl(DBIx::Class::Schema)
+perl(Data::Dump)
+perl(DateTime) >= 0.55
+perl(DateTime::Format::MySQL)
+perl(DateTime::Format::SQLite)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(ExtUtils::Manifest)
+perl(Fcntl)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(FindBin)
+perl(Test::Builder::Module)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Time::HiRes)
+perl(Time::Warp)
+perl(base)
+perl(lib)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

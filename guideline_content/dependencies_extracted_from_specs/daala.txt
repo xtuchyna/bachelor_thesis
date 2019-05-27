@@ -1,0 +1,11 @@
+autoconf
+automake
+doxygen
+gcc-c++
+libjpeg-devel
+libtool
+pkgconfig(check) >= 0.9.8
+pkgconfig(libpng)
+pkgconfig(ogg) >= 1.3
+pkgconfig(sdl2)
+wxGTK-devel

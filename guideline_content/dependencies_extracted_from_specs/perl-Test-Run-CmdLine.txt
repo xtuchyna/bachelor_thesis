@@ -1,0 +1,32 @@
+coreutils
+findutils
+perl(Carp)
+perl(Config)
+perl(Cwd)
+perl(Exporter)
+perl(File::Path)
+perl(File::Spec)
+perl(Getopt::Long)
+perl(List::Util)
+perl(MRO::Compat)
+perl(Module::Build) >= 0.36
+perl(Moose)
+perl(MooseX::Getopt::Basic) >= 0.26
+perl(Pod::Usage) >= 1.12
+perl(Test::More)
+perl(Test::Run::Base)
+perl(Test::Run::Iface)
+perl(Test::Run::Obj) >= 0.0126
+perl(Test::Run::Trap::Obj)
+perl(Test::Trap)
+perl(UNIVERSAL::require)
+perl(YAML::XS)
+perl(lib)
+perl(mro)
+perl(parent)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter
+sed

@@ -1,0 +1,11 @@
+bear-devel >= 0.7.0-0.12
+boost-devel
+cmake
+desktop-file-utils
+docbook-utils
+gettext
+libclaw-devel
+pkgconfig(SDL2_mixer)
+pkgconfig(freetype2)
+pkgconfig(gl)
+pkgconfig(sdl2)

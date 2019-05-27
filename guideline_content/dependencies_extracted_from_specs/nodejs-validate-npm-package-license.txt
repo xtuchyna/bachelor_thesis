@@ -1,0 +1,5 @@
+nodejs-packaging
+npm(defence-cli)
+npm(replace-require-self)
+npm(spdx-correct)
+npm(spdx-expression-parse)

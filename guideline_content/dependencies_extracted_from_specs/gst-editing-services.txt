@@ -1,0 +1,9 @@
+autoconf
+automake
+bash-completion >= 2.0
+flex
+gobject-introspection-devel
+gstreamer1-devel >= 1.6.0
+gstreamer1-plugins-base-devel >= 1.6.0
+gtk-doc
+libtool

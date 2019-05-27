@@ -1,0 +1,7 @@
+python3-devel
+python3-mock
+python3-setuptools
+python3-sphinx
+python3-sphinx-theme-alabaster
+python3-tox
+python3-unittest2

@@ -1,0 +1,5 @@
+cmake
+gcc-c++
+nifticlib-devel
+openjpeg2-devel
+zlib-devel

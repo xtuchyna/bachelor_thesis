@@ -1,0 +1,14 @@
+SDL2-devel
+autoconf
+desktop-file-utils
+gettext
+glib2-devel
+gtk3-devel
+intltool
+libXtst-devel
+libXv-devel
+libappstream-glib
+libcdio-devel
+libtool
+mesa-libGL-devel
+nasm

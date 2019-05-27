@@ -1,0 +1,10 @@
+SuperLUMT-devel
+cmake
+gcc-gfortran
+hypre-mpich-devel
+hypre-openmpi-devel
+mpich-devel
+openblas-devel
+openblas-srpm-macros
+openmpi-devel
+suitesparse-devel

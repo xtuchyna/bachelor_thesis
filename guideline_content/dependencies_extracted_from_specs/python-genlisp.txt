@@ -1,0 +1,4 @@
+catkin-devel
+cmake
+python-genmsg-devel
+python2-devel

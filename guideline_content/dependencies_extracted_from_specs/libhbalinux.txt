@@ -1,0 +1,5 @@
+automake
+libhbaapi-devel >= 2.2.9-6
+libpciaccess-devel
+libtool
+systemd-devel

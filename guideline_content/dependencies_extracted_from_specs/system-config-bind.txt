@@ -1,0 +1,8 @@
+desktop-file-utils
+docbook-dtds
+gettext
+gnome-doc-utils
+intltool
+make
+python
+scrollkeeper

@@ -1,0 +1,4 @@
+(crate(clap) >= 2.27.1 with crate(clap) < 3.0.0)
+(crate(diff) >= 0.1.10 with crate(diff) < 0.2.0)
+(crate(glob) >= 0.2.11 with crate(glob) < 0.3.0)
+rust-packaging

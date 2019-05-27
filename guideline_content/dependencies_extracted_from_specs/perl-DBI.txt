@@ -1,0 +1,54 @@
+coreutils
+findutils
+gcc
+glibc-common
+make
+perl(B)
+perl(Benchmark)
+perl(Carp)
+perl(Clone) >= 0.34
+perl(Config)
+perl(Cwd)
+perl(DB_File)
+perl(Data::Dumper)
+perl(DynaLoader)
+perl(Encode)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Fcntl)
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(Getopt::Long)
+perl(IO::Dir)
+perl(IO::File)
+perl(IO::Select)
+perl(IPC::Open3)
+perl(MLDBM)
+perl(Math::BigInt)
+perl(SQL::Statement) >= 1.402
+perl(Scalar::Util)
+perl(Storable)
+perl(Symbol)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::Simple) >= 0.90
+perl(Tie::Hash)
+perl(UNIVERSAL)
+perl(base)
+perl(constant)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(threads)
+perl(utf8)
+perl(vars)
+perl(warnings)
+perl-devel
+perl-generators
+perl-interpreter
+sed

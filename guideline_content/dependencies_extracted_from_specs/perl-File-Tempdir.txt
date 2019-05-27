@@ -1,0 +1,11 @@
+coreutils
+findutils
+make
+perl(ExtUtils::MakeMaker)
+perl(File::Path)
+perl(File::Temp)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

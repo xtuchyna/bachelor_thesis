@@ -1,0 +1,13 @@
+device-mapper-devel >= 1.02.89
+json-c-devel
+libaio-devel
+librados-devel
+libselinux-devel
+libsepol-devel
+ncurses-devel
+perl-interpreter
+pkgconfig
+readline-devel
+systemd-devel
+systemd-units
+userspace-rcu-devel

@@ -1,0 +1,7 @@
+/bin/awk
+bzip2-devel
+curl-devel
+desktop-file-utils
+gettext
+gtk2-devel >= 2.0.6
+libdb-devel

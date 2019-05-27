@@ -1,0 +1,20 @@
+bzip2-devel
+cmake >= 2.6.0
+desktop-file-utils
+freetype-devel
+gettext-devel
+gmp-devel
+irrlicht-devel
+jsoncpp-devel
+leveldb-devel
+libXxf86vm
+libappstream-glib
+libcurl-devel
+libjpeg-turbo-devel
+libpng-devel
+libvorbis-devel
+luajit-devel
+mesa-libGL-devel
+openal-soft-devel
+sqlite-devel
+systemd

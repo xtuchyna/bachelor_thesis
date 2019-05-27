@@ -1,0 +1,7 @@
+(crate(iso8601) >= 0.2.0 with crate(iso8601) < 0.3.0)
+(crate(libc) >= 0.2.0 with crate(libc) < 0.3.0)
+(crate(locale) >= 0.2.0 with crate(locale) < 0.3.0)
+(crate(num-traits) >= 0.1.35 with crate(num-traits) < 0.2.0)
+(crate(pad) >= 0.1.0 with crate(pad) < 0.2.0)
+(crate(rustc-serialize) >= 0.3.0 with crate(rustc-serialize) < 0.4.0)
+rust-packaging

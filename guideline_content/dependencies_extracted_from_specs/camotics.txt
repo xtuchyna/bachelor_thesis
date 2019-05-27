@@ -1,0 +1,14 @@
+bzip2-devel
+desktop-file-utils
+gcc-c++
+libappstream-glib
+pkgconfig(QtCore)
+pkgconfig(QtGui)
+pkgconfig(QtOpenGL)
+pkgconfig(cairo)
+pkgconfig(dxflib)
+pkgconfig(glew)
+pkgconfig(re2)
+scons
+sqlite-devel
+v8-314-devel

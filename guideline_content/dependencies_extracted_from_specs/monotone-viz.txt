@@ -1,0 +1,7 @@
+ImageMagick
+desktop-file-utils
+gtk2-devel
+libgnomecanvas-devel
+ocaml
+ocaml-camlp4-devel
+ocaml-lablgtk-devel

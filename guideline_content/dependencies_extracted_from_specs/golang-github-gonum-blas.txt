@@ -1,0 +1,4 @@
+compiler(go-compiler)
+golang(github.com/gonum/floats)
+golang(github.com/gonum/inteernal/asm)
+openblas-devel

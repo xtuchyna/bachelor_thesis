@@ -1,0 +1,12 @@
+perl(Carp)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(PadWalker) >= 1.0
+perl(Scalar::Util)
+perl(Test::More)
+perl(constant)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

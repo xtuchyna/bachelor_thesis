@@ -1,0 +1,12 @@
+php(language) >= 7.0
+php-composer(fedora/autoloader)
+php-composer(nikic/php-parser) < 3
+php-composer(nikic/php-parser) >= 2.0
+php-composer(ocramius/code-generator-utils) < 1.0
+php-composer(ocramius/code-generator-utils) >= 0.4
+php-composer(phpunit/phpunit) >= 5.0
+php-composer(zendframework/zend-hydrator) < 3
+php-composer(zendframework/zend-hydrator) >= 2.0
+php-date
+php-reflection
+php-spl

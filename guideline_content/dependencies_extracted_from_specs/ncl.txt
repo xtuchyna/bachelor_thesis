@@ -1,0 +1,21 @@
+/bin/csh
+atlas-devel
+byacc
+cairo-devel
+flex
+flex-static
+g2clib-static
+gcc-gfortran
+gdal-devel
+gsl-devel
+hdf-devel >= 4.2r2
+hdf-static
+imake
+libXaw-devel
+libXext-devel
+libXpm-devel
+libXt-devel
+libjpeg-devel
+netcdf-fortran-devel
+proj-devel
+udunits2-devel

@@ -1,0 +1,7 @@
+perl(Carp)
+perl(Data::Dumper) >= 2.08
+perl(FreezeThaw)
+perl(Module::Build)
+perl(Storable)
+perl(Test::More)
+perl-generators

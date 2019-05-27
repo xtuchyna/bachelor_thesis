@@ -1,0 +1,9 @@
+libharu-devel
+perl(AutoLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(XSLoader)
+perl(constant)
+perl-devel
+perl-generators

@@ -1,0 +1,5 @@
+hostname
+nodejs-packaging
+npm(assert-plus)
+npm(core-util-is)
+npm(extsprintf)

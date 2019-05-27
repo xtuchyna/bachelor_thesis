@@ -1,0 +1,16 @@
+coreutils
+findutils
+gcc
+make
+perl(AnyEvent) >= 7
+perl(Canary::Stability)
+perl(Carp)
+perl(Coro) >= 6.44
+perl(Coro::AnyEvent)
+perl(Coro::MakeMaker)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(XSLoader)
+perl-devel
+perl-generators
+perl-interpreter
+perl-podlators

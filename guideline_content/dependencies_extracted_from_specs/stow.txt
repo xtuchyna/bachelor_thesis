@@ -1,0 +1,8 @@
+perl(Carp)
+perl(Data::Dumper)
+perl(IO::File)
+perl(IO::Scalar)
+perl(Module::Build)
+perl(Test::More)
+perl(Test::Output)
+perl-generators

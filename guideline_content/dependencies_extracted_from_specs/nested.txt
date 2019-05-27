@@ -1,0 +1,3 @@
+desktop-file-utils
+gettext-devel
+python2-devel

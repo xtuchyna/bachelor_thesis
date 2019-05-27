@@ -1,0 +1,12 @@
+extra-cmake-modules >= 5.44
+kf5-kconfig-devel >= 5.44
+kf5-kcoreaddons-devel >= 5.44
+kf5-ki18n-devel >= 5.44
+kf5-kio-devel >= 5.44
+kf5-kservice-devel >= 5.44
+kf5-plasma-devel >= 5.44
+kf5-rpm-macros
+kf5-solid-devel >= 5.44
+kf5-threadweaver-devel >= 5.44
+qt5-qtbase-devel
+qt5-qtdeclarative-devel

@@ -1,0 +1,5 @@
+desktop-file-utils
+gettext
+python2-devel
+python2-docutils
+python2-setuptools

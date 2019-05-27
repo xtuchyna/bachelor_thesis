@@ -1,0 +1,6 @@
+pytest >= 2.6
+python-setuptools
+python2-devel
+python3-devel
+python3-pytest >= 2.6
+python3-setuptools

@@ -1,0 +1,13 @@
+coreutils
+findutils
+make
+perl(Cwd)
+perl(ExtUtils::MakeMaker)
+perl(File::Spec)
+perl(Test)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

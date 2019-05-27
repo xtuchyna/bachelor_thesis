@@ -1,0 +1,13 @@
+perl(Carp)
+perl(Errno)
+perl(ExtUtils::MakeMaker)
+perl(IO::Handle)
+perl(IO::Select)
+perl(POSIX)
+perl(Test::More)
+perl(constant)
+perl(strict)
+perl(vars)
+perl(warnings)
+perl-generators
+perl-interpreter

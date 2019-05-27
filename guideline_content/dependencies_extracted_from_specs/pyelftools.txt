@@ -1,0 +1,6 @@
+python-construct
+python-setuptools
+python2-devel
+python3-construct
+python3-devel
+python3-setuptools

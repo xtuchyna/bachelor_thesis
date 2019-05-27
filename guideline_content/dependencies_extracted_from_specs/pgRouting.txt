@@ -1,0 +1,9 @@
+CGAL-devel
+boost-devel
+boost-graph
+boost-thread
+cmake
+gmp-devel
+perl(Data::Dumper)
+postgresql-devel
+proj-devel

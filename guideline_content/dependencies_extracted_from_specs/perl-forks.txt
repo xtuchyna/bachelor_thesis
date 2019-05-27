@@ -1,0 +1,40 @@
+coreutils
+findutils
+gcc
+make
+perl(:VERSION) >= 5.3.0
+perl(Acme::Damn)
+perl(Attribute::Handlers)
+perl(Carp)
+perl(Config)
+perl(ExtUtils::MM_Any)
+perl(ExtUtils::MM_Unix)
+perl(ExtUtils::MakeMaker) >= 6.10
+perl(File::Spec)
+perl(IO::File)
+perl(IO::Select)
+perl(IO::Socket) >= 1.18
+perl(List::MoreUtils) >= 0.15
+perl(Module::Signature)
+perl(POSIX)
+perl(Scalar::Util) >= 1.11
+perl(Socket)
+perl(Storable) >= 2.05
+perl(Sys::SigAction) >= 0.11
+perl(Test::More)
+perl(Thread::Queue)
+perl(Time::HiRes)
+perl(XSLoader)
+perl(constant)
+perl(if)
+perl(overload)
+perl(sigtrap)
+perl(strict)
+perl(threads)
+perl(threads::shared)
+perl(vars)
+perl(warnings)
+perl(warnings::register)
+perl-devel
+perl-generators
+perl-interpreter

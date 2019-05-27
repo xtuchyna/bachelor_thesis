@@ -1,0 +1,6 @@
+ghc-Cabal-devel
+ghc-bytestring-devel
+ghc-case-insensitive-devel
+ghc-containers-devel
+ghc-rpm-macros
+ghc-utf8-string-devel

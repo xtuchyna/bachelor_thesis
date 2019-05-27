@@ -1,0 +1,22 @@
+make
+perl(Config::Any)
+perl(Cwd)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Find::Rule) >= 0.30
+perl(File::Spec)
+perl(FindBin)
+perl(Hash::Merge)
+perl(Moo) >= 1.003
+perl(Moo::Role) >= 1.003
+perl(MooX::Cmd) >= 0.012
+perl(MooX::Cmd::Tester)
+perl(MooX::File::ConfigDir) >= 0.002
+perl(MooX::Options) >= 4.001
+perl(Moose)
+perl(Role::Tiny)
+perl(Test::More)
+perl(lib)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,9 @@
+freetype-devel
+gd-devel >= 2.0.23
+giflib-devel
+libXpm-devel
+libjpeg-turbo-devel
+libpng-devel
+openjpeg-devel
+python2-devel
+zlib-devel

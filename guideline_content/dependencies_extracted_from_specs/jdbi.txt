@@ -1,0 +1,13 @@
+maven-local
+mvn(cglib:cglib)
+mvn(com.fasterxml:classmate)
+mvn(com.google.code.findbugs:annotations)
+mvn(log4j:log4j:1.2.17)
+mvn(org.antlr:antlr-runtime)
+mvn(org.antlr:antlr3-maven-plugin)
+mvn(org.antlr:stringtemplate)
+mvn(org.slf4j:slf4j-api)
+mvn(org.springframework:spring-beans)
+mvn(org.springframework:spring-core)
+mvn(org.springframework:spring-jdbc)
+mvn(org.springframework:spring-tx)

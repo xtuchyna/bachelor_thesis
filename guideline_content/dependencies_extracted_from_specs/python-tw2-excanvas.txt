@@ -1,0 +1,7 @@
+python-BeautifulSoup
+python-genshi
+python-mako
+python-nose
+python-setuptools
+python-tw2-core
+python2-devel

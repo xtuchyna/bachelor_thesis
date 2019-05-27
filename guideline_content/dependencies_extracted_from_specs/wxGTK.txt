@@ -1,0 +1,15 @@
+GConf2-devel
+SDL-devel
+autoconf
+expat-devel
+gettext
+gstreamer-devel >= 0.10
+gstreamer-plugins-base-devel >= 0.10
+gtk2-devel
+libGL-devel
+libGLU-devel
+libSM-devel
+libjpeg-devel
+libpng-devel
+libtiff-devel
+zlib-devel >= 1.1.4

@@ -1,0 +1,8 @@
+ruby
+ruby(release)
+rubygem(excon)
+rubygem(formatador)
+rubygem(minitest)
+rubygem(minitest-stub-const)
+rubygem(xmlrpc)
+rubygems-devel

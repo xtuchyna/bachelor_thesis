@@ -1,0 +1,8 @@
+desktop-file-utils
+dos2unix
+gcc-c++
+kdelibs-devel
+libappstream-glib
+openbabel-devel
+pkgconfig(Qt5Svg)
+qt5-qtbase-devel

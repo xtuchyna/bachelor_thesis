@@ -1,0 +1,29 @@
+perl(CGI) >= 4.35
+perl(CGI::Simple)
+perl(Carp)
+perl(Config)
+perl(Date::Calc) >= 5
+perl(Email::Valid)
+perl(Exporter)
+perl(File::Find)
+perl(File::MMagic) >= 1.17
+perl(File::Spec)
+perl(IO::File)
+perl(Image::Size)
+perl(MIME::Types) >= 1.005
+perl(Module::Build) >= 0.38
+perl(Regexp::Common)
+perl(Scalar::Util)
+perl(Symbol)
+perl(Template)
+perl(Template::Stash)
+perl(Test::More)
+perl(Test::Pod)
+perl(UNIVERSAL)
+perl(base)
+perl(lib)
+perl(overload)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

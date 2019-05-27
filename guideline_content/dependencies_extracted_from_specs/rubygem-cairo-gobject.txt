@@ -1,0 +1,7 @@
+cairo-gobject-devel
+ruby-devel
+rubygem(test-unit)
+rubygem(test-unit-notify)
+rubygem-cairo-devel
+rubygem-glib2-devel
+rubygems-devel

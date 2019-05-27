@@ -1,0 +1,4 @@
+nodejs-packaging >= 6
+npm(any-promise)
+npm(bluebird)
+npm(mocha)

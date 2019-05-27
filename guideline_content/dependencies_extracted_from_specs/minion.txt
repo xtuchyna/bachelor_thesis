@@ -1,0 +1,6 @@
+boost-devel
+bzip2-devel
+cmake
+doxygen
+graphviz
+zlib-devel

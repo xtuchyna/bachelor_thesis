@@ -1,0 +1,7 @@
+SDL-devel
+SDL_net-devel
+SDL_sound-devel
+alsa-lib-devel
+desktop-file-utils
+libGLU-devel
+libpng-devel

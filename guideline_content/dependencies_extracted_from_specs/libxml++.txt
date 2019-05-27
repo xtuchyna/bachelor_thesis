@@ -1,0 +1,4 @@
+doxygen
+glibmm24-devel >= 2.4.0
+graphviz
+libxml2-devel >= 2.6.1

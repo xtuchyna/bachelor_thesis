@@ -1,0 +1,4 @@
+nodejs-packaging
+npm(bluebird)
+npm(istanbul)
+npm(mocha)

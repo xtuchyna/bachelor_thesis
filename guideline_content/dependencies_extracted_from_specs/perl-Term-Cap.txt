@@ -1,0 +1,11 @@
+coreutils
+findutils
+make
+ncurses
+perl(Carp)
+perl(ExtUtils::MakeMaker)
+perl(Test::More)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

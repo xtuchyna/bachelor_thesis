@@ -1,0 +1,2 @@
+kde-workspace-devel
+pkgconfig(dbusmenu-qt)

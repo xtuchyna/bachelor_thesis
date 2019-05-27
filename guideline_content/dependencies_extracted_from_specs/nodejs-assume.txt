@@ -1,0 +1,7 @@
+mocha
+nodejs-packaging
+npm(deep-eql)
+npm(fn.name)
+npm(object-inspect)
+npm(pathval)
+npm(pruddy-error)

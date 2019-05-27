@@ -1,0 +1,4 @@
+ImageMagick
+coq = 8.7.1
+ghostscript
+ocaml

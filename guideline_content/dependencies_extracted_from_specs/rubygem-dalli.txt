@@ -1,0 +1,8 @@
+memcached
+ruby
+ruby(release)
+rubygem(connection_pool)
+rubygem(minitest)
+rubygem(mocha)
+rubygem(rails)
+rubygems-devel

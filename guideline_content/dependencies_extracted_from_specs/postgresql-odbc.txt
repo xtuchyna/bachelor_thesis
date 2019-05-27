@@ -1,0 +1,3 @@
+postgresql-devel
+postgresql-server
+unixODBC-devel

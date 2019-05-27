@@ -1,0 +1,17 @@
+alsa-lib-devel
+chrpath
+cmake
+desktop-file-utils
+doxygen
+gsm-devel
+libgcrypt-devel
+libsigc++-devel
+libsigc++20-devel
+opus-devel
+popt-devel
+qt-devel
+rtl-sdr-devel
+speex-devel
+systemd-units
+tcl-devel
+tk-devel

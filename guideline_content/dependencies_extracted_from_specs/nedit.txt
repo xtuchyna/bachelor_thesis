@@ -1,0 +1,6 @@
+desktop-file-utils
+libXau-devel
+libXmu-devel
+libXpm-devel
+motif-devel
+perl(Pod::Man)

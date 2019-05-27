@@ -1,0 +1,16 @@
+make
+perl(CPAN::Meta) >= 2.120900
+perl(CPAN::Meta::Prereqs)
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(File::Basename)
+perl(File::HomeDir)
+perl(File::Spec)
+perl(HTTP::Request::Common)
+perl(HTTP::Status)
+perl(LWP::UserAgent)
+perl(Test::More)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

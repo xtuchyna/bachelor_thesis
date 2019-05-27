@@ -1,0 +1,6 @@
+desktop-file-utils
+djvulibre-devel >= 3.5.19
+glib2-devel
+libtiff-devel
+qt5-linguist
+qt5-qtbase-devel

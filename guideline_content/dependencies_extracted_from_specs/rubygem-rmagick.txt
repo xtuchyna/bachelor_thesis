@@ -1,0 +1,6 @@
+ImageMagick-devel = 1:6.9.9.38
+ruby-devel
+rubygem(minitest4)
+rubygem(rspec)
+rubygem(test-unit)
+rubygems-devel

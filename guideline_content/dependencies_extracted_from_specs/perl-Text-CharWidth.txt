@@ -1,0 +1,8 @@
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(Test::Simple)
+perl(XSLoader)
+perl(strict)
+perl(warnings)
+perl-devel
+perl-generators

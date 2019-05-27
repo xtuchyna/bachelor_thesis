@@ -1,0 +1,16 @@
+python-catkin-sphinx
+python-mock
+python-nose
+python-rosdistro >= 0.3.0
+python-setuptools
+python-sphinx
+python-vcstools >= 0.1.38
+python-wstool >= 0.1.12
+python2-devel
+python3-devel
+python3-mock
+python3-rosdistro >= 0.3.0
+python3-setuptools
+python3-vcstools >= 0.1.38
+python3-wstool >= 0.1.12
+zsh

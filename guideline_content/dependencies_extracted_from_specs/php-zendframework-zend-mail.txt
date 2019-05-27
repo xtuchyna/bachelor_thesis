@@ -1,0 +1,15 @@
+(php-autoloader(zendframework/zend-config) >= 2.6 with php-autoloader(zendframework/zend-config) < 3)
+(php-autoloader(zendframework/zend-crypt) >= 2.6 with php-autoloader(zendframework/zend-crypt) < 4)
+(php-autoloader(zendframework/zend-loader) >= 2.5 with php-autoloader(zendframework/zend-loader) < 3)
+(php-autoloader(zendframework/zend-mime) >= 2.5 with php-autoloader(zendframework/zend-mime) < 3)
+(php-autoloader(zendframework/zend-servicemanager) >= 2.7.5 with php-autoloader(zendframework/zend-servicemanager) < 4)
+(php-autoloader(zendframework/zend-stdlib) >= 2.7 with php-autoloader(zendframework/zend-stdlib) < 4)
+(php-autoloader(zendframework/zend-validator) >= 2.10.2 with php-autoloader(zendframework/zend-validator) < 3)
+php(language) >= 7.1
+php-ctype
+php-date
+php-fedora-autoloader-devel
+php-iconv
+php-pcre
+php-spl
+phpunit6

@@ -1,0 +1,7 @@
+cairo-devel
+desktop-file-utils
+libjpeg-turbo-devel
+lua-devel
+pkgconfig
+qt5-qtbase-devel
+turbojpeg-devel

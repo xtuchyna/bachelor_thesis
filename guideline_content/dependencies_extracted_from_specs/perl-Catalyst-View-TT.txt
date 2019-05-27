@@ -1,0 +1,12 @@
+perl(CPAN)
+perl(Catalyst) >= 5.70000
+perl(Class::Accessor)
+perl(Data::Dump)
+perl(ExtUtils::MakeMaker) >= 6.76
+perl(MRO::Compat)
+perl(Path::Class)
+perl(Template)
+perl(Template::Provider::Encoding)
+perl(Template::Timer)
+perl(Test::More)
+perl-generators

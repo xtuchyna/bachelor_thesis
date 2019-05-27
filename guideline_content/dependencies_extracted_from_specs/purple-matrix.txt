@@ -1,0 +1,5 @@
+gcc
+http-parser-devel
+pkgconfig(glib-2.0)
+pkgconfig(json-glib-1.0)
+pkgconfig(purple)

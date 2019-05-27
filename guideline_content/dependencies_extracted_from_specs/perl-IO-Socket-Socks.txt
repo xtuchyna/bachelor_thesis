@@ -1,0 +1,22 @@
+coreutils
+findutils
+make
+perl(Carp)
+perl(Cwd)
+perl(Errno)
+perl(Exporter)
+perl(ExtUtils::MakeMaker) >= 6.52
+perl(IO::Select)
+perl(IO::Socket)
+perl(IO::Socket::IP) >= 0.36
+perl(Socket) >= 1.94
+perl(Test::More) >= 0.88
+perl(Time::HiRes)
+perl(base)
+perl(constant) >= 1.03
+perl(overload)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter
+sed

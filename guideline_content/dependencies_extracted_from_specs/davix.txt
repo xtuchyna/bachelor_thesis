@@ -1,0 +1,10 @@
+abi-compliance-checker
+boost-devel
+cmake
+doxygen
+gsoap-devel
+gtest-devel
+libuuid-devel
+libxml2-devel
+openssl-devel
+python-sphinx

@@ -1,0 +1,6 @@
+gcc
+gcc-c++
+gmp-devel
+openssl-devel
+python3
+zlib-devel

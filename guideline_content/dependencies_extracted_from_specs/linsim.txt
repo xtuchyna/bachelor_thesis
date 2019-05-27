@@ -1,0 +1,8 @@
+desktop-file-utils
+fltk-devel >= 1.3.4
+gcc
+libXft-devel
+libappstream-glib
+libpng-devel
+libsamplerate-devel
+libsndfile-devel

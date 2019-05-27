@@ -1,0 +1,18 @@
+boost-devel >= 1.48.0
+cmake
+cppunit-devel
+davix-devel >= 0.6.7
+doxygen
+dpm-devel
+fcgi-devel
+graphviz
+lcgdm-devel
+libmemcached-devel
+mariadb-connector-c-devel
+openssl-devel
+protobuf-devel
+python-devel
+xrootd-devel >= 1:4.8.1
+xrootd-private-devel >= 1:4.8.1
+xrootd-server-devel >= 1:4.8.1
+zlib-devel

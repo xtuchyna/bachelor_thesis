@@ -1,0 +1,25 @@
+coreutils
+findutils
+make
+perl(B)
+perl(Carp)
+perl(Config)
+perl(DynaLoader)
+perl(Exporter)
+perl(ExtUtils::MakeMaker)
+perl(File::Basename)
+perl(File::Spec)
+perl(File::Spec::Functions)
+perl(File::Temp)
+perl(FindBin)
+perl(IPC::Open2)
+perl(POSIX)
+perl(Sub::Exporter::Progressive) >= 0.001011
+perl(Text::ParseWords)
+perl(base)
+perl(strict)
+perl(threads)
+perl(threads::shared)
+perl(warnings)
+perl-generators
+perl-interpreter

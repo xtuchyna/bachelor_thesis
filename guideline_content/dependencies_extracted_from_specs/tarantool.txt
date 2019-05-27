@@ -1,0 +1,17 @@
+cmake >= 2.8
+coreutils
+gcc >= 4.5
+gcc-c++ >= 4.5
+libcurl-devel
+libunwind-devel
+libyaml-devel
+msgpuck-devel >= 2.0
+openssl-devel
+perl-podlators
+python >= 2.7
+python-gevent >= 1.0
+python-six >= 1.9.0
+python-yaml >= 3.0.9
+readline-devel
+sed
+systemd

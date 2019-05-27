@@ -1,0 +1,8 @@
+alsa-lib-devel
+autoconf
+automake
+desktop-file-utils
+gettext-devel
+glibmm24-devel
+gtkmm24-devel
+liblo-devel

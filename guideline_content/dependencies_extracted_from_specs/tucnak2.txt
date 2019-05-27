@@ -1,0 +1,12 @@
+SDL-devel
+alsa-lib-devel
+automake
+desktop-file-utils
+fftw-devel
+glib2-devel
+gpm-devel
+hamlib-devel
+libftdi-devel
+libpng-devel
+libsndfile-devel
+libusb-devel

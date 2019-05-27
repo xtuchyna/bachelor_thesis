@@ -1,0 +1,24 @@
+/usr/bin/podselect
+coreutils
+findutils
+make
+perl(CPAN::Meta::Requirements)
+perl(Config)
+perl(Cwd)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(File::Basename)
+perl(File::Copy)
+perl(File::Find)
+perl(File::Path)
+perl(File::Spec)
+perl(File::Temp)
+perl(Getopt::Long)
+perl(String::ShellQuote)
+perl(Symbol)
+perl(Test::More)
+perl(constant)
+perl(strict)
+perl(version)
+perl(warnings)
+perl-generators
+perl-interpreter

@@ -1,0 +1,7 @@
+perl(Carp)
+perl(ExtUtils::MakeMaker) >= 6.30
+perl(Params::Util) >= 0.11
+perl(Scalar::Util)
+perl(Test::More) >= 0.47
+perl(Test::Pod)
+perl-generators

@@ -1,0 +1,4 @@
+gcc
+perl-generators
+python2-devel
+python3-devel

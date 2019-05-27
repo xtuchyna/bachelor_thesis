@@ -1,0 +1,8 @@
+/usr/include/gnu/stubs-32.h
+git
+libuuid-devel
+mingw64-gcc
+nasm >= 0.98.38-1
+netpbm-progs
+perl-generators
+perl-interpreter

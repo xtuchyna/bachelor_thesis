@@ -1,0 +1,17 @@
+autoconf
+automake
+glib2-devel
+gnome-vfs2-devel >= 2.0.2
+gtk-doc
+gtk2-devel >= 2.2.0
+intltool
+libglade2-devel >= 2.0.0
+libgnomeui-devel >= 2.0.1
+libgsf-devel
+libtool
+libxml2-devel >= 2.5.4
+libxslt-devel >= 1.0.27
+pygtk2-devel
+python2-devel
+scrollkeeper
+valgrind-devel

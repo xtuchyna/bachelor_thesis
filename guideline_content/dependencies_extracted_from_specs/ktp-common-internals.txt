@@ -1,0 +1,23 @@
+extra-cmake-modules
+kaccounts-integration-devel >= 17.12
+kf5-kcmutils-devel
+kf5-kconfig-devel
+kf5-kcoreaddons-devel
+kf5-kiconthemes-devel
+kf5-kio-devel
+kf5-knotifications-devel
+kf5-knotifyconfig-devel
+kf5-kpeople-devel
+kf5-ktexteditor-devel
+kf5-kwallet-devel
+kf5-kwidgetsaddons-devel
+kf5-kwindowsystem-devel
+kf5-rpm-macros
+libgcrypt-devel
+libotr-devel
+pkgconfig(TelepathyQt5)
+pkgconfig(accounts-qt5)
+pkgconfig(mission-control-plugins)
+qt5-qtbase-devel
+qt5-qtdeclarative-devel
+telepathy-logger-qt-devel >= 15.04

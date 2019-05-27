@@ -1,0 +1,7 @@
+perl(ExtUtils::MakeMaker)
+perl(POE) >= 0.31
+perl(POE::Filter::Transparent::SMTP)
+perl(Test::More)
+perl(Test::Pod)
+perl(Test::Pod::Coverage)
+perl-generators

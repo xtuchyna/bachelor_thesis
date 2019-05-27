@@ -1,0 +1,23 @@
+python-backlash
+python-chameleon
+python-coverage
+python-crank >= 0.8.0
+python-formencode
+python-genshi >= 0.5.1
+python-jinja2
+python-kajiki >= 0.2.2
+python-mako
+python-nose
+python-repoze-tm2 >= 1.0-0.4.a4
+python-repoze-who
+python-repoze-who-plugins-sa >= 1.0.1
+python-routes
+python-setuptools
+python-simplegeneric
+python-turbojson >= 1.3
+python-turbokid >= 1.0.4
+python-tw-forms
+python-tw2-forms
+python-webtest
+python-zope-sqlalchemy >= 0.4
+python2-devel

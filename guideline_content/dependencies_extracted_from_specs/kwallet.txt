@@ -1,0 +1,3 @@
+desktop-file-utils
+kdelibs4-devel >= 4.12.3
+pkgconfig(polkit-qt-1)

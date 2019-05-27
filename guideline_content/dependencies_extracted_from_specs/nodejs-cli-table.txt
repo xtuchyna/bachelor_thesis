@@ -1,0 +1,2 @@
+nodejs-packaging
+npm(colors) >= 1.0.3

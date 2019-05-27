@@ -1,0 +1,10 @@
+eclipse-swt
+gluegen2-devel = 2.3.2
+java-devel
+jpackage-utils
+libXcursor-devel
+libXrandr-devel
+libXrender-devel
+libXt-devel
+libXxf86vm-devel
+maven-local

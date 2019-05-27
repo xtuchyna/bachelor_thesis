@@ -1,0 +1,18 @@
+findutils
+make
+perl(Carp)
+perl(DBI)
+perl(ExtUtils::MakeMaker)
+perl(File::Path)
+perl(IO::CaptureOutput)
+perl(IO::File)
+perl(Test::Assertions::TestScript)
+perl(Test::More)
+perl(Test::Pod) >= 1.00
+perl(Test::Pod::Coverage) >= 1.00
+perl(URI::Escape)
+perl(constant)
+perl(strict)
+perl(vars)
+perl-generators
+perl-interpreter

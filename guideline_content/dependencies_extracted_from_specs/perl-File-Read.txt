@@ -1,0 +1,17 @@
+perl(Carp)
+perl(Cwd)
+perl(Data::Dumper)
+perl(Errno)
+perl(Exporter)
+perl(File::Slurp)
+perl(File::Spec)
+perl(Module::Build)
+perl(Test::Distribution)
+perl(Test::More)
+perl(Test::Pod) >= 1.14
+perl(Test::Pod::Coverage) >= 1.04
+perl(Test::Portability::Files)
+perl(Text::Unidecode)
+perl(strict)
+perl-generators
+perl-interpreter

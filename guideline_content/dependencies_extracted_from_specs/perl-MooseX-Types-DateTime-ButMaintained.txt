@@ -1,0 +1,23 @@
+findutils
+make
+perl(DateTime) >= 0.44
+perl(DateTime::Locale) >= 0.41
+perl(DateTime::TimeZone) >= 0.96
+perl(Locale::Maketext)
+perl(Module::Install::AutoInstall)
+perl(Module::Install::Metadata)
+perl(Module::Install::WriteAll)
+perl(Moose) >= 0.41
+perl(Moose::Util::TypeConstraints)
+perl(MooseX::Types) >= 0.30
+perl(MooseX::Types::Moose) >= 0.30
+perl(Olson::Abbreviations) >= 0.03
+perl(Test::Exception) >= 0.27
+perl(Test::More)
+perl(Test::use::ok) >= 0.02
+perl(inc::Module::Install)
+perl(namespace::autoclean)
+perl(strict)
+perl(warnings)
+perl-generators
+perl-interpreter

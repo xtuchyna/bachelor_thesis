@@ -1,0 +1,7 @@
+perl(Class::Load) >= 0.06
+perl(Exporter) >= 5.63
+perl(ExtUtils::MakeMaker) >= 6.59
+perl(Module::Build)
+perl(Test::More) >= 0.96
+perl-generators
+perl-interpreter >= 5.008001
